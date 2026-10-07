@@ -134,6 +134,22 @@
         <div id="benchActions" class="bench-actions"></div>
       </section>
 
+      <section class="panel final-note-panel">
+        <div class="section-heading">
+          <div>
+            <span class="step">06</span>
+            <h2>Final authentication note</h2>
+          </div>
+          <div class="note-actions">
+            <button id="generateNoteBtn" class="button ghost">Regenerate note</button>
+            <button id="copyNoteBtn" class="button primary">Copy note</button>
+          </div>
+        </div>
+        <p class="note-help">This is the bench-facing note to paste into the case record. It uses only the watch identity and completed authentication checks — not research, provenance or prototype guidance.</p>
+        <textarea id="finalNote" class="final-note" rows="7" spellcheck="true"></textarea>
+        <div id="copyNoteStatus" class="copy-note-status" aria-live="polite"></div>
+      </section>
+
       <section class="details-grid">
         <details class="panel">
           <summary>Reference intelligence <span>›</span></summary>
