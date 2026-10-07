@@ -4,179 +4,108 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <meta name="theme-color" content="#0b0e12" />
-  <title>WatchAuthPro — Authentication Workstation Prototype</title>
+  <title>WatchAuthPro — Speed-first prototype</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <header class="topbar">
-    <div>
-      <div class="eyebrow">WATCH AUTH PRO</div>
-      <h1>Authentication Workstation</h1>
+<header class="topbar">
+  <div><div class="eyebrow">WATCH AUTH PRO</div><h1>Bench Assistant</h1></div>
+  <div class="prototype-badge">PROTOTYPE · TEST DATA</div>
+</header>
+
+<main class="shell">
+  <section class="panel intake">
+    <div class="section-heading">
+      <div><span class="step">01</span><h2>Identify watch</h2></div>
+      <button id="resetBtn" class="button ghost">Reset</button>
     </div>
-    <div class="prototype-badge">PROTOTYPE · TEST DATA</div>
-  </header>
+    <div class="intake-grid">
+      <label><span>Brand</span>
+        <select id="brandInput">
+          <option value="">Select brand</option>
+          <option>Rolex</option><option>Tudor</option><option>Breitling</option><option>Cartier</option><option>Sinn</option>
+        </select>
+      </label>
+      <label><span>Case reference</span><input id="referenceInput" autocomplete="off" placeholder="e.g. 126610LN" /></label>
+      <label><span>Serial</span><input id="serialInput" autocomplete="off" placeholder="Enter serial if useful" /></label>
+    </div>
+    <div class="intake-actions">
+      <button id="loadBtn" class="button primary">Show useful information</button>
+      <div class="sample-links">Try:
+        <button data-sample="Rolex|126610LN">126610LN</button>
+        <button data-sample="Tudor|25600T">25600T</button>
+        <button data-sample="Breitling|A13340">A13340</button>
+        <button data-sample="Sinn|UX">Sinn UX</button>
+      </div>
+    </div>
+  </section>
 
-  <main class="shell">
-    <section class="intake panel">
+  <section id="workspace" class="workspace hidden">
+    <section id="safetyGate" class="safety-gate"></section>
+
+    <section class="panel identity">
+      <div>
+        <div class="eyebrow" id="brandLabel"></div>
+        <h2 id="modelLabel"></h2>
+        <div id="identityMeta" class="identity-meta"></div>
+      </div>
+      <div class="confidence-stack"><span>Reference confidence</span><strong id="mappingConfidence"></strong></div>
+    </section>
+
+    <section class="panel quick-panel">
       <div class="section-heading">
+        <div><span class="step">02</span><h2>Useful at the bench</h2></div>
+        <span id="coverageBadge" class="coverage-badge"></span>
+      </div>
+      <div id="quickFacts" class="quick-facts"></div>
+      <div id="noFacts" class="no-facts hidden">No reliable reference-specific bench information is loaded. Continue your normal authentication process; the app will not fill the screen with unknowns.</div>
+    </section>
+
+    <section id="warningsPanel" class="panel warning-panel hidden">
+      <div class="section-heading">
+        <div><span class="step">03</span><h2>Pay attention to</h2></div>
+      </div>
+      <div id="warningsList"></div>
+    </section>
+
+    <section class="panel exception-panel">
+      <div class="exception-row">
         <div>
-          <span class="step">01</span>
-          <h2>Watch intake</h2>
+          <div class="eyebrow">ONLY IF NEEDED</div>
+          <h2>Something does not match?</h2>
+          <p>Most watches need no extra typing. Use this only when you find something worth recording.</p>
         </div>
-        <button id="resetBtn" class="button ghost">Reset</button>
+        <button id="toggleIssueBtn" class="button ghost">Add issue</button>
       </div>
-
-      <div class="intake-grid">
-        <label>
-          <span>Brand</span>
-          <select id="brandInput">
-            <option value="">Select brand</option>
-            <option>Rolex</option>
-            <option>Tudor</option>
-            <option>Breitling</option>
-            <option>Cartier</option>
-            <option>Sinn</option>
-          </select>
-        </label>
-
-        <label>
-          <span>Case reference</span>
-          <input id="referenceInput" autocomplete="off" placeholder="e.g. 126610LN" />
-        </label>
-
-        <label>
-          <span>Serial</span>
-          <input id="serialInput" autocomplete="off" placeholder="Enter serial" />
-        </label>
-
-        <label>
-          <span>Workflow</span>
-          <select id="workflowInput">
-            <option>Authentication</option>
-            <option>RMA</option>
-            <option>Recheck</option>
-            <option>Research case</option>
-          </select>
-        </label>
-      </div>
-
-      <div class="intake-actions">
-        <button id="loadBtn" class="button primary">Build expected watch</button>
-        <div class="sample-links">
-          Try:
-          <button data-sample="Rolex|126610LN">126610LN</button>
-          <button data-sample="Tudor|25600T">25600T</button>
-          <button data-sample="Breitling|A13340">A13340</button>
-          <button data-sample="Sinn|UX">Sinn UX</button>
-        </div>
+      <div id="issueBox" class="issue-box hidden">
+        <textarea id="issueInput" rows="3" placeholder="Example: movement fitted is not the calibre expected for this reference"></textarea>
       </div>
     </section>
 
-    <section id="workspace" class="workspace hidden">
-      <section id="safetyGate" class="safety-gate"></section>
-
-      <section class="identity panel">
-        <div>
-          <div class="eyebrow" id="brandLabel"></div>
-          <h2 id="modelLabel"></h2>
-          <div class="identity-meta" id="identityMeta"></div>
-        </div>
-        <div class="confidence-stack">
-          <span>Reference mapping</span>
-          <strong id="mappingConfidence"></strong>
-        </div>
-      </section>
-
-      <section class="comparison panel">
-        <div class="section-heading">
-          <div>
-            <span class="step">02</span>
-            <h2>Expected vs observed</h2>
-          </div>
-          <div id="checkProgress" class="progress-chip"></div>
-        </div>
-        <div class="comparison-head">
-          <span>Check</span><span>Expected</span><span>Observed</span><span>Status</span>
-        </div>
-        <div id="comparisonRows"></div>
-      </section>
-
-      <section class="assessment-grid">
-        <section class="panel">
-          <div class="section-heading">
-            <div>
-              <span class="step">03</span>
-              <h2>Discrepancies</h2>
-            </div>
-          </div>
-          <div id="discrepancyList"></div>
-        </section>
-
-        <section class="panel">
-          <div class="section-heading">
-            <div>
-              <span class="step">04</span>
-              <h2>Authentication support</h2>
-            </div>
-          </div>
-          <div id="evidenceMatrix" class="matrix"></div>
-          <div id="assessmentResult" class="assessment-result"></div>
-        </section>
-      </section>
-
-      <section class="panel bench-panel">
-        <div class="section-heading">
-          <div>
-            <span class="step">05</span>
-            <h2>Next bench actions</h2>
-          </div>
-        </div>
-        <div id="benchActions" class="bench-actions"></div>
-      </section>
-
-      <section class="panel final-note-panel">
-        <div class="section-heading">
-          <div>
-            <span class="step">06</span>
-            <h2>Final authentication note</h2>
-          </div>
-          <div class="note-actions">
-            <button id="generateNoteBtn" class="button ghost">Regenerate note</button>
-            <button id="copyNoteBtn" class="button primary">Copy note</button>
-          </div>
-        </div>
-        <p class="note-help">This is the bench-facing note to paste into the case record. It uses only the watch identity and completed authentication checks — not research, provenance or prototype guidance.</p>
-        <textarea id="finalNote" class="final-note" rows="7" spellcheck="true"></textarea>
-        <div id="copyNoteStatus" class="copy-note-status" aria-live="polite"></div>
-      </section>
-
-      <section class="details-grid">
-        <details class="panel">
-          <summary>Reference intelligence <span>›</span></summary>
-          <div id="referenceIntel" class="details-body"></div>
-        </details>
-        <details class="panel">
-          <summary>Serial intelligence <span>›</span></summary>
-          <div id="serialIntel" class="details-body"></div>
-        </details>
-        <details class="panel">
-          <summary>Evidence & provenance <span>›</span></summary>
-          <div id="provenance" class="details-body"></div>
-        </details>
-      </section>
+    <section class="panel final-note-panel">
+      <div class="section-heading">
+        <div><span class="step">04</span><h2>Final note</h2></div>
+        <button id="copyNoteBtn" class="button primary big-copy">Copy note</button>
+      </div>
+      <textarea id="finalNote" class="final-note" rows="5" spellcheck="true"></textarea>
+      <div id="copyNoteStatus" class="copy-note-status" aria-live="polite"></div>
     </section>
 
-    <section id="emptyState" class="empty-state panel">
-      <div class="empty-icon">⌁</div>
-      <h2>Start with the watch in your hand.</h2>
-      <p>The prototype builds an expected configuration, records what you physically observe, then surfaces conflicts instead of burying you in generic reference information.</p>
+    <section class="details-grid">
+      <details class="panel"><summary>Reference detail <span>›</span></summary><div id="referenceIntel" class="details-body"></div></details>
+      <details class="panel"><summary>Serial detail <span>›</span></summary><div id="serialIntel" class="details-body"></div></details>
+      <details class="panel"><summary>Evidence & provenance <span>›</span></summary><div id="provenance" class="details-body"></div></details>
     </section>
-  </main>
+  </section>
 
-  <footer>
-    Prototype architecture: Expected watch → Observed watch → Discrepancies. This test data is not a production authentication source.
-  </footer>
+  <section id="emptyState" class="empty-state panel">
+    <div class="empty-icon">⌁</div>
+    <h2>Reference in. Useful information out.</h2>
+    <p>No compulsory checklist and no wall of unknown fields. WatchAuthPro only surfaces information that can actually save time or prevent a mistake.</p>
+  </section>
+</main>
 
-  <script src="app.js"></script>
+<footer>Speed-first prototype. Test data only — not a production authentication source.</footer>
+<script src="app.js"></script>
 </body>
 </html>
