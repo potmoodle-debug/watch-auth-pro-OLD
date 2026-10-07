@@ -78,7 +78,11 @@ const els = {
   actions:document.getElementById("benchActions"),
   refIntel:document.getElementById("referenceIntel"),
   serialIntel:document.getElementById("serialIntel"),
-  provenance:document.getElementById("provenance")
+  provenance:document.getElementById("provenance"),
+  finalNote:document.getElementById("finalNote"),
+  generateNote:document.getElementById("generateNoteBtn"),
+  copyNote:document.getElementById("copyNoteBtn"),
+  copyNoteStatus:document.getElementById("copyNoteStatus")
 };
 
 let current = null;
@@ -216,12 +220,75 @@ function renderAssessment(){
   if(!expected.length) actions.push(["Create research task","Resolve exact reference mapping, safety status and authentication-critical fields."]);
   if(!actions.length) actions.push(["Review evidence","Open provenance and confirm the quality of the supporting reference intelligence."]);
   els.actions.innerHTML = actions.slice(0,3).map(a=>`<div class="bench-action"><b>${a[0]}</b><span>${a[1]}</span></div>`).join("");
+  generateFinalNote();
+}
+
+function generateFinalNote(){
+  if(!current || !els.finalNote) return;
+  const expected = current.expected || [];
+  const completed = expected.filter(x=>String(observed[x.key]||"").trim());
+  const conflicts = completed.filter(x=>statusFor(x,observed[x.key]).cls==="conflict");
+  const matches = completed.filter(x=>statusFor(x,observed[x.key]).cls==="match");
+  const review = completed.filter(x=>statusFor(x,observed[x.key]).cls==="pending");
+
+  const identity = [current.brand, current.model, current.reference ? `Ref. ${current.reference}` : ""].filter(Boolean).join(" — ");
+  const lines = [identity];
+
+  if(els.serial.value.trim()) lines.push(`Serial: ${els.serial.value.trim()}`);
+
+  if(current.safety.level==="stop"){
+    lines.push("Special construction identified. Normal case-opening workflow not carried out.");
+  }
+
+  if(matches.length){
+    lines.push(`Checks consistent with expected configuration: ${matches.map(x=>x.label).join(", ")}.`);
+  }
+
+  if(conflicts.length){
+    lines.push("Discrepancies requiring review: " + conflicts.map(x=>`${x.label} observed as ${String(observed[x.key]).trim()} (expected ${x.value})`).join("; ") + ".");
+  }
+
+  if(review.length){
+    lines.push(`Items requiring manual review: ${review.map(x=>x.label).join(", ")}.`);
+  }
+
+  if(!expected.length){
+    lines.push("Exact reference profile not available in the current database; manual research required.");
+  } else if(completed.length < expected.length){
+    lines.push(`Assessment incomplete: ${completed.length} of ${expected.length} configured checks recorded.`);
+  } else if(!conflicts.length && completed.length===expected.length){
+    lines.push("No configuration conflicts identified in the completed database checks.");
+  }
+
+  els.finalNote.value = lines.join("\n");
+  els.copyNoteStatus.textContent = "";
+}
+
+async function copyFinalNote(){
+  const text = els.finalNote.value.trim();
+  if(!text){
+    els.copyNoteStatus.textContent = "Nothing to copy.";
+    return;
+  }
+  try{
+    await navigator.clipboard.writeText(text);
+    els.copyNoteStatus.textContent = "Copied to clipboard.";
+  }catch(err){
+    els.finalNote.focus();
+    els.finalNote.select();
+    const ok = document.execCommand("copy");
+    els.copyNoteStatus.textContent = ok ? "Copied to clipboard." : "Select the note and copy it manually.";
+  }
 }
 
 function escapeHtml(str){
   return String(str).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#039;"}[c]));
 }
 
+els.generateNote.addEventListener("click",generateFinalNote);
+els.copyNote.addEventListener("click",copyFinalNote);
+els.finalNote.addEventListener("input",()=>{ els.copyNoteStatus.textContent=""; });
+els.serial.addEventListener("input",()=>{ if(current) generateFinalNote(); });
 els.load.addEventListener("click",loadWatch);
 els.ref.addEventListener("keydown",e=>{if(e.key==="Enter")loadWatch();});
 els.reset.addEventListener("click",()=>{
