@@ -61,9 +61,17 @@
       <div id="noFacts" class="no-facts hidden">No reliable reference-specific bench information is loaded. Continue your normal authentication process; the app will not fill the screen with unknowns.</div>
     </section>
 
+    <section id="visualPanel" class="panel visual-panel hidden">
+      <div class="section-heading">
+        <div><span class="step">03</span><h2>Visual reference</h2></div>
+        <span class="coverage-badge">Open only when useful</span>
+      </div>
+      <div id="visualCards" class="visual-cards"></div>
+    </section>
+
     <section id="warningsPanel" class="panel warning-panel hidden">
       <div class="section-heading">
-        <div><span class="step">03</span><h2>Pay attention to</h2></div>
+        <div><span class="step">04</span><h2>Pay attention to</h2></div>
       </div>
       <div id="warningsList"></div>
     </section>
@@ -84,7 +92,7 @@
 
     <section class="panel final-note-panel">
       <div class="section-heading">
-        <div><span class="step">04</span><h2>Final note</h2></div>
+        <div><span class="step">05</span><h2>Final note</h2></div>
         <button id="copyNoteBtn" class="button primary big-copy">Copy note</button>
       </div>
       <textarea id="finalNote" class="final-note" rows="5" spellcheck="true"></textarea>
