@@ -36,7 +36,20 @@ $('copySerialCare').addEventListener('click',async()=>{
  try{await navigator.clipboard.writeText(serial);$('brandCareStatus').textContent='Serial copied — paste into '+care.name+' with Ctrl+V.';}
  catch{$('serial').focus();$('serial').select();$('brandCareStatus').textContent='Clipboard unavailable. Press Ctrl+C here, then paste into the care page.';}
 });
-function syncBrandButtons(){updateBrandCare();document.querySelectorAll('[data-brand-choice]').forEach(b=>b.setAttribute('aria-pressed',String(normalize(b.dataset.brandChoice)===normalize($('brand').value))));}
+function syncClaspField(){
+ const rolex=normalize($('brand').value)==='ROLEX';
+ $('rolexClasp').hidden=!rolex;
+ (rolex?$('rolexClasp'):$('claspHome')).appendChild($('claspField'));
+ $('claspLabel').textContent=rolex?'Rolex clasp code':'Clasp / bracelet reference';
+ $('clasp').placeholder=rolex?'Enter the code stamped inside the clasp':'Optional';
+ $('claspHelp').textContent=rolex?'Record the clasp code before finishing or moving to the next watch.':'';
+}
+function confirmMissingClasp(){
+ if(normalize($('brand').value)!=='ROLEX'||$('clasp').value.trim())return true;
+ if(confirm('Rolex clasp code has not been entered. Press Cancel to enter it, or OK to continue without a clasp code.'))return true;
+ $('clasp').focus();return false;
+}
+function syncBrandButtons(){updateBrandCare();syncClaspField();document.querySelectorAll('[data-brand-choice]').forEach(b=>b.setAttribute('aria-pressed',String(normalize(b.dataset.brandChoice)===normalize($('brand').value))));}
 function identityKey(){return {brand:normalize($('brand').value),reference:normalize($('reference').value)};}
 function selectedConditions(){return [...document.querySelectorAll('#conditions input:checked')].map(x=>x.value);}
 function collect(){
@@ -48,6 +61,7 @@ function generate(force=false){if(noteDirty&&!force)return;$('note').value=final
 function autosave(){if(saved)return;try{localStorage.setItem('benchauth.draft',JSON.stringify({inspectionId,values:Object.fromEntries(inputIds.map(x=>[x,$(x).value])),conditions:selectedConditions(),components:componentNames.map((_,i)=>$('component'+i).value),note:$('note').value,noteDirty,pending}));}catch{status('Draft recovery is unavailable in this browser. Save the inspection before closing.',true);}}
 function lockBench(lock){document.querySelectorAll('#bench input,#bench select,#bench textarea,#lookup,#regenerate,.sample,[data-brand-choice]').forEach(el=>el.disabled=lock);$('saveTeamNote').disabled=lock;$('queueReference').disabled=lock;$('registerCounterfeit').disabled=lock;}
 function reset(){
+ if(!confirmMissingClasp())return false;
  if(!saved&&(pending||$('comments').value||$('calibre').value||selectedConditions().length||noteDirty)&&!confirm('Start the next watch and discard this unsaved draft?'))return false;
  inputIds.forEach(id=>$(id).value=id==='workflow'?'authentication':id==='outcome'?'recorded':'');
  document.querySelectorAll('#conditions input').forEach(x=>x.checked=false);componentNames.forEach((_,i)=>$('component'+i).value='');
@@ -137,6 +151,7 @@ async function updatePerformance(){
 }
 async function complete(){
  requireTeam();if(saved)return;if(!pending){
+  if(!confirmMissingClasp())return;
   enforceSafety();const record=collect();if(!record.brand||!record.reference)throw new Error('Enter the watch brand and reference before completing an inspection. For an unrecorded RMA use + RMA.');
   generate();pending={...record,note:$('note').value};lockBench(true);autosave();
  }
