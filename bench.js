@@ -1,5 +1,5 @@
-import * as cloud from './cloud.js?v=side01';
-import {normalize,londonDay,matchingRule,safetyRule,movementResult,finalNote,pace} from './core.js?v=side01';
+import * as cloud from './cloud.js?v=brands01';
+import {normalize,londonDay,matchingRule,safetyRule,movementResult,finalNote,pace} from './core.js?v=brands01';
 const $=id=>document.getElementById(id),esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const safeUrl=v=>{try{const u=new URL(v);return ['https:','http:'].includes(u.protocol)?u.href:'';}catch{return '';}};
 const link=(url,label)=>safeUrl(url)?'<a target="_blank" rel="noopener" href="'+esc(safeUrl(url))+'">'+esc(label)+'</a>':esc(label);
@@ -13,6 +13,7 @@ function authStatus(text,error=false){$('authStatus').textContent=text;$('authSt
 function requireTeam(){if(!user||!member){$('accountDialog').showModal();throw new Error('Sign in with an approved team account to save shared records.');}}
 async function action(button,fn){const was=button.disabled;button.disabled=true;try{await fn();}catch(e){status(e.message,true);}finally{button.disabled=was||saved&&button.id==='complete';}}
 function bind(id,fn){$(id).addEventListener('click',()=>action($(id),fn));}
+function syncBrandButtons(){document.querySelectorAll('[data-brand-choice]').forEach(b=>b.setAttribute('aria-pressed',String(normalize(b.dataset.brandChoice)===normalize($('brand').value))));}
 function identityKey(){return {brand:normalize($('brand').value),reference:normalize($('reference').value)};}
 function selectedConditions(){return [...document.querySelectorAll('#conditions input:checked')].map(x=>x.value);}
 function collect(){
@@ -22,12 +23,14 @@ function collect(){
 }
 function generate(force=false){if(noteDirty&&!force)return;$('note').value=finalNote(collect());noteDirty=false;}
 function autosave(){if(saved)return;try{localStorage.setItem('benchauth.draft',JSON.stringify({inspectionId,values:Object.fromEntries(inputIds.map(x=>[x,$(x).value])),conditions:selectedConditions(),components:componentNames.map((_,i)=>$('component'+i).value),note:$('note').value,noteDirty,pending}));}catch{status('Draft recovery is unavailable in this browser. Save the inspection before closing.',true);}}
-function lockBench(lock){document.querySelectorAll('#bench input,#bench select,#bench textarea,#lookup,#regenerate,.sample').forEach(el=>el.disabled=lock);$('saveTeamNote').disabled=lock;$('queueReference').disabled=lock;$('registerCounterfeit').disabled=lock;}
+function lockBench(lock){document.querySelectorAll('#bench input,#bench select,#bench textarea,#lookup,#regenerate,.sample,[data-brand-choice]').forEach(el=>el.disabled=lock);$('saveTeamNote').disabled=lock;$('queueReference').disabled=lock;$('registerCounterfeit').disabled=lock;}
 function reset(){
  if(!saved&&(pending||$('comments').value||$('calibre').value||selectedConditions().length||noteDirty)&&!confirm('Start the next watch and discard this unsaved draft?'))return false;
- inputIds.forEach(id=>$(id).value=id==='workflow'?'authentication':id==='outcome'?'recorded':'');
+ $('brand').addEventListener('input',syncBrandButtons);
+$('identifyPanel').addEventListener('click',e=>{const b=e.target.closest('[data-brand-choice]');if(!b||pending||saved)return;$('brand').value=b.dataset.brandChoice;$('brand').dispatchEvent(new Event('input',{bubbles:true}));$('reference').focus();});
+inputIds.forEach(id=>$(id).value=id==='workflow'?'authentication':id==='outcome'?'recorded':'');
  document.querySelectorAll('#conditions input').forEach(x=>x.checked=false);componentNames.forEach((_,i)=>$('component'+i).value='');
- identity=null;rule=null;lookupVersion++;inspectionId=crypto.randomUUID();pending=null;saved=false;noteDirty=false;$('note').value='';$('teamNote').value='';$('watchInfo').hidden=true;$('movementCheck').hidden=true;$('batteryField').hidden=true;$('saveState').textContent='Not saved';$('complete').disabled=false;$('complete').textContent='Complete & save inspection';lockBench(false);localStorage.removeItem('benchauth.draft');status('Ready for the next watch.');$('brand').focus();return true;
+ identity=null;rule=null;lookupVersion++;inspectionId=crypto.randomUUID();pending=null;saved=false;noteDirty=false;$('note').value='';$('teamNote').value='';$('watchInfo').hidden=true;$('movementCheck').hidden=true;$('batteryField').hidden=true;$('saveState').textContent='Not saved';$('complete').disabled=false;$('complete').textContent='Complete & save inspection';lockBench(false);localStorage.removeItem('benchauth.draft');status('Ready for the next watch.');syncBrandButtons();$('brand').focus();return true;
 }
 function enforceSafety(){
  const s=safetyRule(intelligence.safety,$('brand').value,$('reference').value,rule?.family||rule?.model||'');
@@ -150,7 +153,7 @@ document.querySelectorAll('#conditions input').forEach(x=>x.addEventListener('ch
 document.querySelectorAll('#componentChecks select').forEach(x=>x.addEventListener('change',autosave));
 $('note').addEventListener('input',()=>{noteDirty=true;autosave();});
 bind('lookup',lookup);$('reference').addEventListener('keydown',e=>{if(e.key==='Enter')action($('lookup'),lookup);});
-document.querySelectorAll('.sample').forEach(b=>b.addEventListener('click',()=>action(b,async()=>{if(!reset())return;$('brand').value=b.dataset.brand;$('reference').value=b.dataset.ref;await lookup();})));
+document.querySelectorAll('.sample').forEach(b=>b.addEventListener('click',()=>action(b,async()=>{if(!reset())return;$('brand').value=b.dataset.brand;$('reference').value=b.dataset.ref;syncBrandButtons();await lookup();})));
 bind('newWatch',reset);bind('regenerate',()=>{generate(true);autosave();});bind('complete',complete);
 bind('copyNote',async()=>{generate();try{await navigator.clipboard.writeText($('note').value);status('Note copied.');}catch{$('note').focus();$('note').select();status('Select the note and press Ctrl+C.',true);}});
 bind('saveTeamNote',async()=>{requireTeam();if(!identity)throw new Error('Load the current reference first.');const note=$('teamNote').value.trim();if(!note)throw new Error('Enter one useful observation.');const key=JSON.stringify({...identity,note});let cached;try{cached=JSON.parse(localStorage.getItem('benchauth.pending-note'));}catch{}const id=cached?.key===key?cached.id:crypto.randomUUID();localStorage.setItem('benchauth.pending-note',JSON.stringify({key,id}));await cloud.insert('bench_notes',{id,...identity,note,author:user.id},{query:'on_conflict=id',prefer:'resolution=ignore-duplicates,return=representation'});localStorage.removeItem('benchauth.pending-note');$('teamNote').value='';await lookup();status('Observation saved for the team, labelled unverified.');});
@@ -176,11 +179,11 @@ window.addEventListener('beforeunload',()=>autosave());
 document.addEventListener('visibilitychange',()=>{if(!document.hidden&&member)updatePerformance().catch(e=>status(e.message,true));});
 setInterval(()=>{if(member){if(lastDay!==londonDay())updatePerformance().catch(e=>status(e.message,true));else if(daily)$('pace').textContent=pace(daily.completed,daily.target);}},60000);
 async function init(){
- try{const [data,pictures,types]=await Promise.all([fetch('intelligence.json?v=side01').then(r=>{if(!r.ok)throw new Error('Reference database unavailable.');return r.json();}),fetch('samples.json?v=side01').then(r=>r.json()),fetch('movement-types.json?v=side01').then(r=>r.json())]);intelligence=data;samples=pictures;types.forEach(x=>{const opt=document.createElement('option');opt.value=x;opt.textContent=x;$('movementType').appendChild(opt);});
- const brands=[...new Set(intelligence.rules.map(r=>r.brand).concat(intelligence.safety.map(r=>r.brand)))].sort();$('brandOptions').innerHTML=brands.map(x=>'<option value="'+esc(x)+'"></option>').join('');renderReferences();
+ try{const [data,pictures,types]=await Promise.all([fetch('intelligence.json?v=brands01').then(r=>{if(!r.ok)throw new Error('Reference database unavailable.');return r.json();}),fetch('samples.json?v=brands01').then(r=>r.json()),fetch('movement-types.json?v=brands01').then(r=>r.json())]);intelligence=data;samples=pictures;types.forEach(x=>{const opt=document.createElement('option');opt.value=x;opt.textContent=x;$('movementType').appendChild(opt);});
+ const brands=[...new Set(intelligence.rules.map(r=>r.brand).concat(intelligence.safety.map(r=>r.brand)))].sort();$('otherBrandButtons').innerHTML=brands.filter(x=>!['TUDOR','ROLEX','OMEGA','BREITLING','CARTIER','TAGHEUER'].includes(normalize(x))).map(x=>'<button type="button" data-brand-choice="'+esc(x)+'" aria-pressed="false">'+esc(x)+'</button>').join('');renderReferences();
  let draft;try{draft=JSON.parse(localStorage.getItem('benchauth.draft'));}catch{}
  if(draft){inspectionId=draft.inspectionId||inspectionId;for(const [k,v]of Object.entries(draft.values||{}))if($(k))$(k).value=v;document.querySelectorAll('#conditions input').forEach(x=>x.checked=draft.conditions?.includes(x.value));(draft.components||[]).forEach((v,i)=>$('component'+i).value=v);$('note').value=draft.note||'';noteDirty=!!draft.noteDirty;pending=draft.pending||null;enforceSafety();if(pending){lockBench(true);$('complete').textContent='Retry saving this inspection';}status('Previous unsaved inspection draft restored.');}
- cloud.callback();await connect();if($('brand').value&&$('reference').value)await lookup();
+ syncBrandButtons();cloud.callback();await connect();if($('brand').value&&$('reference').value)await lookup();
  }catch(e){status(e.message,true);}
 }
 document.addEventListener('click',e=>{const b=e.target.closest('[data-review-table]');if(b)action(b,async()=>{requireTeam();await cloud.update(b.dataset.reviewTable,b.dataset.id,{status:b.dataset.value});await refreshTab(b.dataset.reviewTable==='research_queue'?'research':'counterfeit');status('Review status saved.');});});

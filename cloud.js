@@ -1,4 +1,4 @@
-import {PROJECT_URL,PUBLISHABLE_KEY} from './config.js?v=side01';
+import {PROJECT_URL,PUBLISHABLE_KEY} from './config.js?v=brands01';
 let session=null;try{session=JSON.parse(localStorage.getItem('benchauth.session'));}catch{}
 let refreshPromise=null;
 export const getSession=()=>session;
