@@ -26,9 +26,7 @@ function autosave(){if(saved)return;try{localStorage.setItem('benchauth.draft',J
 function lockBench(lock){document.querySelectorAll('#bench input,#bench select,#bench textarea,#lookup,#regenerate,.sample,[data-brand-choice]').forEach(el=>el.disabled=lock);$('saveTeamNote').disabled=lock;$('queueReference').disabled=lock;$('registerCounterfeit').disabled=lock;}
 function reset(){
  if(!saved&&(pending||$('comments').value||$('calibre').value||selectedConditions().length||noteDirty)&&!confirm('Start the next watch and discard this unsaved draft?'))return false;
- $('brand').addEventListener('input',syncBrandButtons);
-$('identifyPanel').addEventListener('click',e=>{const b=e.target.closest('[data-brand-choice]');if(!b||pending||saved)return;$('brand').value=b.dataset.brandChoice;$('brand').dispatchEvent(new Event('input',{bubbles:true}));$('reference').focus();});
-inputIds.forEach(id=>$(id).value=id==='workflow'?'authentication':id==='outcome'?'recorded':'');
+ inputIds.forEach(id=>$(id).value=id==='workflow'?'authentication':id==='outcome'?'recorded':'');
  document.querySelectorAll('#conditions input').forEach(x=>x.checked=false);componentNames.forEach((_,i)=>$('component'+i).value='');
  identity=null;rule=null;lookupVersion++;inspectionId=crypto.randomUUID();pending=null;saved=false;noteDirty=false;$('note').value='';$('teamNote').value='';$('watchInfo').hidden=true;$('movementCheck').hidden=true;$('batteryField').hidden=true;$('saveState').textContent='Not saved';$('complete').disabled=false;$('complete').textContent='Complete & save inspection';lockBench(false);localStorage.removeItem('benchauth.draft');status('Ready for the next watch.');syncBrandButtons();$('brand').focus();return true;
 }
@@ -148,6 +146,8 @@ function downloadCsv(rows){const keys=['id','work_date','workflow','brand','refe
 const reviewButton=document.createElement('button');reviewButton.id='reviewReference';reviewButton.className='secondary';reviewButton.textContent='Add reviewed mapping';reviewButton.hidden=true;$('references').querySelector('.panel').prepend(reviewButton);
 $('conditions').innerHTML=conditionNames.map((name,i)=>'<label><input type="checkbox" value="'+esc(name)+'">'+esc(name)+' <small>MC'+(i+1)+'</small></label>').join('');
 $('componentChecks').innerHTML=componentNames.map((x,i)=>'<label>'+esc(x)+'<select id="component'+i+'"><option value="">Not recorded</option><option>Checked</option><option>Concern</option><option>Not applicable</option></select></label>').join('');
+$('brand').addEventListener('input',syncBrandButtons);
+$('identifyPanel').addEventListener('click',e=>{const b=e.target.closest('[data-brand-choice]');if(!b||pending||saved)return;$('brand').value=b.dataset.brandChoice;$('brand').dispatchEvent(new Event('input',{bubbles:true}));$('reference').focus();});
 inputIds.forEach(id=>$(id).addEventListener('input',()=>{if(pending||saved)return;if(['brand','reference'].includes(id)){identity=null;rule=null;lookupVersion++;$('watchInfo').hidden=true;$('teamNotes').textContent='';}const s=enforceSafety();if(s&&$('watchInfo').hidden)renderInfo();compare();if(!noteDirty)generate();autosave();if(['serial','clasp'].includes(id)&&identity){clearTimeout(serialTimer);serialTimer=setTimeout(()=>lookup().catch(e=>status(e.message,true)),400);}}));
 document.querySelectorAll('#conditions input').forEach(x=>x.addEventListener('change',()=>{enforceSafety();compare();generate();autosave();}));
 document.querySelectorAll('#componentChecks select').forEach(x=>x.addEventListener('change',autosave));
