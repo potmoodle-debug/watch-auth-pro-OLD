@@ -11,7 +11,8 @@ export function serialHints(data,brand,serial,clasp,series,rule){
  const c=normalize(clasp),m=c.match(/^([A-Z]{1,2})(\d{1,2})?$/),year=m&&data.ROLEX_CLASP_YEARS?.[m[1]];
  if(year&&(!m[2]||Number(m[2])>=1&&Number(m[2])<=12))lines.push('Historical clasp chart: '+year+(m[2]?' · month '+Number(m[2]):'')+'. Clasp/component estimate, not the watch production date; replacement clasps are possible.');
  else if(c)lines.push('No production date is inferred from this modern/unmapped clasp code.');
- }else if(b==='TUDOR'&&s){const t=estimateTudorSerial(s,data);if(t)lines.push((t.estimate?'Approximate Tudor benchmark: '+t.estimate+'. ':'')+t.note);}
+ }else if(b==='BREITLING'&&s){lines.push('Breitling serial '+String(serial).trim()+': no verified production date is inferred for this modern reference. Cross-check the caseback serial with matching papers and manufacturer records; do not apply pre-1980 serial charts.');}
+ else if(b==='TUDOR'&&s){const t=estimateTudorSerial(s,data);if(t)lines.push((t.estimate?'Approximate Tudor benchmark: '+t.estimate+'. ':'')+t.note);}
  else if(b==='OMEGA'&&s){const speed=series==='speedmaster'||series==='auto'&&/speedmaster/i.test(rule?.family||rule?.model||'');const chart=speed?'speedmaster':'standard';const v=Number(s),hit=/^\d{7,8}$/.test(s)&&(data.OMEGA_SERIAL_RANGES?.[chart]||[]).find(([lo,hi])=>v>=lo&&(hi==null||v<=hi));lines.push(hit?'Approximate Omega '+chart+' chart: '+hit[2]+'. Independent chart, not an official archive date.':'No supported date in the selected Omega '+chart+' chart.');if(speed&&v>=70000000)lines.push('Modern Speedmaster serial sequences are not reliably year-datable from a generic chart; cross-check the exact reference generation.');}
  return lines;
 }
