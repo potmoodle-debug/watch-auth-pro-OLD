@@ -1,0 +1,15 @@
+const {chromium}=require('playwright'),assert=require('node:assert/strict');
+(async()=>{const browser=await chromium.launch({headless:true});const page=await browser.newPage({viewport:{width:1440,height:1000}}),errors=[];page.on('pageerror',e=>errors.push(e.message));
+page.on('dialog',d=>d.accept());await page.goto('http://127.0.0.1:8765');await page.waitForFunction(()=>document.querySelector('#referenceRows').textContent.includes('935'));
+await page.locator('.sample[data-ref="25600T"]').click();assert.match(await page.locator('#model').textContent(),/Pelagos/);assert.match(await page.locator('#mapping').textContent(),/FAMILY/);
+await page.locator('#calibre').fill('MT5612');await page.locator('#conditions input[value="Clean"]').check();assert.match(await page.locator('#note').inputValue(),/Movement condition: Clean/);assert.match(await page.locator('#movementCheck').textContent(),/agrees|listed/);
+await page.locator('#calibre').fill('3135');assert.match(await page.locator('#movementCheck').textContent(),/not listed|differs/);
+await page.locator('#note').fill('Custom final note');await page.locator('#comments').fill('Visible wear');assert.equal(await page.locator('#note').inputValue(),'Custom final note');
+await page.locator('.sample[data-ref="T1"]').click();assert.match(await page.locator('#safety').textContent(),/DO NOT OPEN/);assert.equal(await page.locator('#calibre').isDisabled(),true);assert.equal(await page.locator('#conditions input[value="External only"]').isChecked(),true);assert.equal(await page.locator('#conditions input[value="Clean"]').isChecked(),false);
+await page.locator('#regenerate').click();assert.match(await page.locator('#note').inputValue(),/External inspection only/);
+await page.reload();await page.waitForFunction(()=>document.querySelector('#referenceRows').textContent.includes('935'));assert.equal(await page.locator('#brand').inputValue(),'Sinn');assert.equal(await page.locator('#reference').inputValue(),'T1');
+await page.locator('[data-tab="references"]').click();await page.locator('#referenceSearch').fill('W31010M7');assert.match(await page.locator('#referenceRows').textContent(),/Pasha/);
+await page.locator('#accountButton').click();assert.equal(await page.locator('#accountDialog').isVisible(),true);await page.locator('#closeAccount').click();
+await page.screenshot({path:'/tmp/benchauth-desktop.png',fullPage:true});
+await page.setViewportSize({width:390,height:844});await page.locator('[data-tab="bench"]').click();assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));await page.screenshot({path:'/tmp/benchauth-mobile.png',fullPage:true});
+assert.deepEqual(errors,[]);console.log('Browser checks passed: lookup, scope, movement conditions, discrepancies, manual note, safety, draft recovery, navigation, responsive layout.');await browser.close();})().catch(e=>{console.error(e);process.exit(1);});

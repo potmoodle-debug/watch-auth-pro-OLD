@@ -1,120 +1,18 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <meta name="theme-color" content="#0b0e12" />
-  <title>WatchAuthPro — Speed-first prototype</title>
-  <link rel="stylesheet" href="styles.css" />
-</head>
-<body>
-<header class="topbar">
-  <div><div class="eyebrow">WATCH AUTH PRO</div><h1>Bench Assistant</h1></div>
-  <div class="prototype-badge">PROTOTYPE · TEST DATA</div>
-</header>
-
-<main class="shell">
-  <section class="panel intake">
-    <div class="section-heading">
-      <div><span class="step">01</span><h2>Identify watch</h2></div>
-      <button id="resetBtn" class="button ghost">Reset</button>
-    </div>
-    <div class="intake-grid">
-      <label><span>Brand</span>
-        <select id="brandInput">
-          <option value="">Select brand</option>
-          <option>Rolex</option><option>Tudor</option><option>Breitling</option><option>Cartier</option><option>Sinn</option>
-        </select>
-      </label>
-      <label><span>Case reference</span><input id="referenceInput" autocomplete="off" placeholder="e.g. 126610LN" /></label>
-      <label><span>Serial</span><input id="serialInput" autocomplete="off" placeholder="Enter serial if useful" /></label>
-    </div>
-    <div class="intake-actions">
-      <button id="loadBtn" class="button primary">Show useful information</button>
-      <div class="sample-links">Try:
-        <button data-sample="Rolex|126610LN">126610LN</button>
-        <button data-sample="Tudor|25600T">25600T</button>
-        <button data-sample="Breitling|A13340">A13340</button>
-        <button data-sample="Sinn|UX">Sinn UX</button>
-      </div>
-    </div>
-  </section>
-
-  <section id="workspace" class="workspace hidden">
-    <section id="safetyGate" class="safety-gate"></section>
-
-    <section class="panel identity">
-      <div>
-        <div class="eyebrow" id="brandLabel"></div>
-        <h2 id="modelLabel"></h2>
-        <div id="identityMeta" class="identity-meta"></div>
-      </div>
-      <div class="confidence-stack"><span>Reference confidence</span><strong id="mappingConfidence"></strong></div>
-    </section>
-
-    <section class="panel quick-panel">
-      <div class="section-heading">
-        <div><span class="step">02</span><h2>Useful at the bench</h2></div>
-        <span id="coverageBadge" class="coverage-badge"></span>
-      </div>
-      <div id="quickFacts" class="quick-facts"></div>
-      <div id="noFacts" class="no-facts hidden">No reliable reference-specific bench information is loaded. Continue your normal authentication process; the app will not fill the screen with unknowns.</div>
-    </section>
-
-    <section id="visualPanel" class="panel visual-panel">
-      <div class="section-heading">
-        <div><span class="step">03</span><h2>Visual reference</h2></div>
-        <span class="coverage-badge">Open only when useful</span>
-      </div>
-      <div id="visualCards" class="visual-cards"></div>
-      <div id="visualEmpty" class="visual-empty hidden">No visual reference is loaded for this watch yet. Images are currently only attached to the four test references: Rolex 126610LN, Tudor 25600T, Breitling A13340 and Sinn UX.</div>
-    </section>
-
-    <section id="warningsPanel" class="panel warning-panel hidden">
-      <div class="section-heading">
-        <div><span class="step">04</span><h2>Pay attention to</h2></div>
-      </div>
-      <div id="warningsList"></div>
-    </section>
-
-    <section class="panel exception-panel">
-      <div class="exception-row">
-        <div>
-          <div class="eyebrow">ONLY IF NEEDED</div>
-          <h2>Something does not match?</h2>
-          <p>Most watches need no extra typing. Use this only when you find something worth recording.</p>
-        </div>
-        <button id="toggleIssueBtn" class="button ghost">Add issue</button>
-      </div>
-      <div id="issueBox" class="issue-box hidden">
-        <textarea id="issueInput" rows="3" placeholder="Example: movement fitted is not the calibre expected for this reference"></textarea>
-      </div>
-    </section>
-
-    <section class="panel final-note-panel">
-      <div class="section-heading">
-        <div><span class="step">05</span><h2>Final note</h2></div>
-        <button id="copyNoteBtn" class="button primary big-copy">Copy note</button>
-      </div>
-      <textarea id="finalNote" class="final-note" rows="5" spellcheck="true"></textarea>
-      <div id="copyNoteStatus" class="copy-note-status" aria-live="polite"></div>
-    </section>
-
-    <section class="details-grid">
-      <details class="panel"><summary>Reference detail <span>›</span></summary><div id="referenceIntel" class="details-body"></div></details>
-      <details class="panel"><summary>Serial detail <span>›</span></summary><div id="serialIntel" class="details-body"></div></details>
-      <details class="panel"><summary>Evidence & provenance <span>›</span></summary><div id="provenance" class="details-body"></div></details>
-    </section>
-  </section>
-
-  <section id="emptyState" class="empty-state panel">
-    <div class="empty-icon">⌁</div>
-    <h2>Reference in. Useful information out.</h2>
-    <p>No compulsory checklist and no wall of unknown fields. WatchAuthPro only surfaces information that can actually save time or prevent a mistake.</p>
-  </section>
-</main>
-
-<footer>Speed-first prototype. Test data only — not a production authentication source.</footer>
-<script src="app.js"></script>
-</body>
-</html>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#101719"><title>BenchAuth Lab</title><link rel="stylesheet" href="styles.css"></head><body>
+<header><a class="brand" href="./"><span class="brand-icon">B</span><span>BenchAuth <b>Lab</b><small>THE AUTHENTICATION BENCH</small></span></a><span class="pill">TEST WORKSTATION · v0.1</span><button id="accountButton" class="secondary">Team sign in</button></header>
+<main><section class="performance"><div><span class="eyebrow">YOUR WORK TODAY</span><strong id="progressTitle">Sign in for your daily total</strong><span id="progressMeta">Saved inspections and RMAs count together</span></div><div class="progress-track"><progress id="progress" max="100" value="0"></progress><span id="pace"></span></div><button id="addRma">+ RMA</button><button id="targetButton" class="secondary">Target</button></section>
+<nav aria-label="Workstation"><button data-tab="bench" class="active">Bench</button><button data-tab="inspections">Inspection logs</button><button data-tab="references">References</button><button data-tab="research">Missing references</button><button data-tab="counterfeit">Counterfeit register</button><button data-tab="performance">Performance</button></nav><p id="status" role="status" aria-live="polite"></p>
+<section id="bench" class="tab"><section class="panel"><div class="heading"><div><span class="eyebrow">01 / IDENTIFY</span><h1>Watch in hand</h1></div><button id="newWatch" class="secondary">Next watch</button></div><div class="fields three"><label>Brand<input id="brand" list="brandOptions" placeholder="Type or choose brand" autocomplete="off"><datalist id="brandOptions"></datalist></label><label>Case reference / model<input id="reference" placeholder="e.g. 25600T or Sinn T1" autocomplete="off"></label><label>Serial<input id="serial" placeholder="If available" autocomplete="off"></label></div><div class="actions"><button id="lookup">Show intelligence</button><span class="muted">Examples:</span><button class="chip sample" data-brand="Tudor" data-ref="25600T">Pelagos</button><button class="chip sample" data-brand="Breitling" data-ref="A13340">Chrono SuperOcean</button><button class="chip sample" data-brand="Sinn" data-ref="T1">Sinn T1</button></div></section>
+<section id="watchInfo" hidden><div id="safety" class="notice"></div><section class="panel"><div class="heading"><div><span id="mapping" class="eyebrow"></span><h2 id="model"></h2></div><span id="sourceBadge" class="pill"></span></div><div id="facts" class="facts"></div><div id="mappingNotes" class="muted"></div><details><summary>Reference detail and sources</summary><div id="provenance"></div></details><details><summary>Serial guidance</summary><div id="serialGuidance"></div></details><details id="images"><summary>Watch and movement photographs</summary><div id="visuals" class="visuals"></div></details></section><div id="alerts"></div><section class="panel"><div class="heading"><h2>Team knowledge</h2><span class="pill">OBSERVATIONS · UNVERIFIED</span></div><div id="teamNotes"></div><label>Add useful information<textarea id="teamNote" rows="2" placeholder="One useful sentence for the next authenticator"></textarea></label><div class="actions"><button id="saveTeamNote" class="secondary">Save for team</button><button id="queueReference" class="secondary">Send to research queue</button><button id="registerCounterfeit" class="danger secondary">Record counterfeit concern</button></div></section></section>
+<section class="panel"><div class="heading"><div><span class="eyebrow">02 / VERIFY</span><h2>Inspection results</h2></div><label class="compact">Workflow<select id="workflow"><option value="authentication">Authentication</option><option value="rma">RMA</option><option value="recheck">Recheck</option></select></label></div><div class="fields two"><label>Movement technology<select id="movementType"><option value="">Not recorded</option></select></label><label>Observed calibre<input id="calibre" placeholder="Calibre marking, if examined" list="calibreOptions"><datalist id="calibreOptions"></datalist></label></div><div id="movementCheck" hidden class="notice"></div><div id="batteryField" hidden><label>Battery changed<select id="battery"><option value="">Not recorded</option><option>Yes</option><option>No</option></select></label></div><h3>Movement condition</h3><div id="conditions" class="conditions"></div><details><summary>Bracelet, overall condition and component checks</summary><div class="fields two"><label>Clasp / bracelet reference<input id="clasp" placeholder="Optional"></label><label>Overall condition<input id="overall" placeholder="Optional"></label></div><div id="componentChecks" class="component-checks"></div></details><label>Comments / supporting observations<textarea id="comments" rows="3" placeholder="Only record what matters for this inspection"></textarea></label><label>Issue requiring review<input id="issue" placeholder="Optional discrepancy, limitation or concern"></label><label>Authenticator decision<select id="outcome"><option value="recorded">No decision recorded</option><option>Authentication completed</option><option>Further review required</option><option>Counterfeit suspected</option><option>Unable to authenticate</option><option>RMA processed</option></select></label></section>
+<section class="panel"><div class="heading"><div><span class="eyebrow">03 / FINISH</span><h2>Final authentication note</h2></div><button id="copyNote">Copy note</button></div><textarea id="note" rows="6" placeholder="Generated from your recorded inspection facts. You can edit it."></textarea><div class="actions"><button id="complete">Complete &amp; save inspection</button><button id="regenerate" class="secondary">Regenerate note</button><span id="saveState" class="muted">Not saved</span></div></section></section>
+<section id="inspections" class="tab" hidden><section class="panel"><div class="heading"><h1>Inspection logs</h1><button data-refresh="inspections" class="secondary">Refresh</button></div><label>Search brand, reference, serial or note<input id="logSearch" type="search"></label><div id="inspectionRows"></div><button id="moreInspections" class="secondary" hidden>Load older inspections</button><button id="exportLogs" class="secondary">Export loaded logs (CSV)</button></section></section>
+<section id="references" class="tab" hidden><section class="panel"><h1>Reference intelligence</h1><p class="muted">Existing WatchAuthPro research, with its original scope and sources. Imported research has not been independently reverified by BenchAuth Lab.</p><label>Search model, brand, reference or calibre<input id="referenceSearch" type="search"></label><div id="referenceRows"></div></section></section>
+<section id="research" class="tab" hidden><section class="panel"><div class="heading"><h1>Missing-reference queue</h1><button data-refresh="research" class="secondary">Refresh</button></div><p class="muted">One shared request per brand and reference.</p><div id="researchRows"></div></section></section>
+<section id="counterfeit" class="tab" hidden><section class="panel"><div class="heading"><h1>Counterfeit register</h1><button data-refresh="counterfeit" class="secondary">Refresh</button></div><p class="muted">Team concerns remain unreviewed until a reviewer checks the evidence. A serial match is a reason to investigate.</p><label>Search reference, serial or indicator<input id="counterfeitSearch" type="search"></label><div id="counterfeitRows"></div></section></section>
+<section id="performance" class="tab" hidden><section class="panel"><h1>Daily performance</h1><div id="performanceDetail"></div><p class="muted">Your total comes from saved work records. Days reset at midnight in London. Pace uses 09:00–17:00, breaks 10:00–10:15 and 14:00–14:15, lunch 12:30–13:00.</p><div class="actions"><button id="correction" class="secondary">Correct today's count</button><button id="performanceRefresh" class="secondary">Refresh</button></div><h3>Today's recorded work</h3><div id="todayRows"></div></section></section></main>
+<footer>BenchAuth Lab · Experimental rebuild · Authentication decisions remain with the authenticator</footer>
+<dialog id="accountDialog"><form id="authForm"><div class="heading"><h2>Team access</h2><button type="button" id="closeAccount" class="secondary">Close</button></div><p id="accountState">Sign in to share knowledge and save inspections.</p><div id="authFields"><label>Email<input id="email" type="email" required autocomplete="username"></label><label>Password<input id="password" type="password" required minlength="8" autocomplete="current-password"></label><div class="actions"><button type="submit">Sign in</button><button type="button" id="signup" class="secondary">Create account</button></div><details><summary>Confirm an account from your email</summary><p class="muted">If the email link redirects to localhost, copy its confirmation button link here instead.</p><label>Confirmation link<input id="confirmLink" type="url" autocomplete="off"></label><button type="button" id="confirmAccount">Confirm account</button></details></div><div id="signedInFields" hidden><button type="button" id="signout" class="secondary">Sign out</button><section id="adminFields" hidden><h3>Add a team member</h3><label>Colleague's account email<input id="memberEmail" type="email"></label><button type="button" id="addMember" class="secondary">Allow team access</button><p class="muted">They can then create their own account here. No invitation email is sent.</p></section></div><p id="authStatus" role="status"></p></form></dialog>
+<dialog id="entryDialog"><form id="entryForm"><h2 id="entryTitle"></h2><p id="entryHelp"></p><label id="entryLabel">Details<textarea id="entryValue" rows="4" required maxlength="6000"></textarea></label><label id="entryEvidenceLabel" hidden>Evidence/source URL (optional)<input id="entryEvidence" type="url"></label><div class="actions"><button type="submit">Save</button><button type="button" id="entryCancel" class="secondary">Cancel</button></div><p id="entryStatus" role="status"></p></form></dialog>
+<dialog id="reviewDialog"><form id="reviewForm"><h2>Save reviewed reference intelligence</h2><p class="muted">Only record the fields supported by your sources. This creates an exact reference mapping; variant and family research needs its full identifier.</p><div class="fields two"><label>Brand<input id="reviewBrand" required></label><label>Exact reference<input id="reviewRef" required></label></div><label>Model / family<input id="reviewModel" required></label><label>Supported movement calibres (comma-separated)<input id="reviewCalibres"></label><label>Production period, if supported<input id="reviewPeriod"></label><label>Bench notes<textarea id="reviewNotes" rows="3"></textarea></label><label>Evidence / source description<input id="reviewSource" required></label><label>Source URL<input id="reviewUrl" type="url" required></label><div class="actions"><button type="submit">Save reviewed mapping</button><button type="button" id="reviewCancel" class="secondary">Cancel</button></div><p id="reviewStatus" role="status"></p></form></dialog>
+<script type="module" src="bench.js"></script></body></html>
