@@ -12,4 +12,13 @@ assert.equal(matchingRule(rules,'Tudor','M79360N-9999').manualReview,true);
 assert.ok(safetyRule(base.safety,'Sinn','UX'));
 assert.equal(matchingRule(rules,'Rolex','126610LN').calibreDisplay,'Rolex 3235');
 assert.ok(base.serial.REP_DATABASE.length);
-console.log('All 23 reviewed model mappings, movement mismatch checks, variant scope, image URLs and retained safety data passed.');
+console.log(reviewed.length+' reviewed model mappings, movement mismatch checks, variant scope, image URLs and retained safety data passed.');
+
+assert.equal(matchingRule(rules,'Breitling','X83310D41B1S1').calibreDisplay,'Breitling 83');
+assert.equal(matchingRule(rules,'Breitling','X823109A1K1S1').calibreDisplay,'Breitling 82');
+assert.equal(movementResult(matchingRule(rules,'Breitling','AB2030'),'MT5612').level,'caution');
+assert.equal(movementResult(matchingRule(rules,'Breitling','A17328'),'SW200-1').level,'caution');
+assert.match(matchingRule(rules,'Breitling','EB7010').technology,/analogue.digital/);
+assert.equal(matchingRule(rules,'Breitling','A17366').technicalDetail.waterRating,'500 m when new');
+assert.ok(!matchingRule(rules,'Breitling','AB0139211G1A1').manualReview);
+assert.notEqual(matchingRule(rules,'Breitling','AB0139ZZZZ').benchStatus,'verified');

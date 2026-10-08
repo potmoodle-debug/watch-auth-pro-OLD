@@ -3,11 +3,11 @@
   "source_rule_count": 935,
   "rolex_catalogue_variants": 1465,
   "rolex_catalogue_base_references": 157,
-  "reviewed_models_this_pass": 23,
-  "official_watch_photographs_this_pass": 12,
+  "reviewed_models_this_pass": 39,
+  "official_watch_photographs_this_pass": 15,
   "record_status_counts": {
-    "pending source review": 2356,
-    "model reviewed": 20,
+    "pending source review": 2338,
+    "model reviewed": 38,
     "base reviewed; variant pending": 20,
     "variant source reviewed": 4
   },
@@ -66,5 +66,18 @@
     "RADO": 1,
     "HANHART": 1,
     "CASIO G-SHOCK": 1
-  }
+  },
+  "review_batches": [
+    {
+      "batch": "initial Tudor/Rolex",
+      "models": 23,
+      "watch_photographs": 12
+    },
+    {
+      "batch": "Breitling 02",
+      "models": 16,
+      "watch_photographs": 3
+    }
+  ],
+  "remaining_image_gaps": 24
 }

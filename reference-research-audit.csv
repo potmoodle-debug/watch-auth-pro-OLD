@@ -151,22 +151,22 @@ RULE:0148,BREITLING,UB0121,reference mapping,pending source review,,pending,pend
 RULE:0149,BREITLING,SB0147,reference mapping,pending source review,,pending,pending,
 RULE:0150,BREITLING,A73310,reference mapping,pending source review,,pending,pending,
 RULE:0151,BREITLING,V17310,reference mapping,pending source review,,pending,pending,
-RULE:0152,BREITLING,AB0139,reference mapping,pending source review,https://www.breitling.com/gb-en/watches/navitimer/navitimer-b01-chronograph-41-my22/AB0139211G1A1/,pending,pending,
-RULE:0153,BREITLING,AB0138,reference mapping,pending source review,https://www.breitling.com/gb-en/watches/navitimer/navitimer-b01-chronograph-43-my22/AB0138241L1P1/,pending,pending,
+RULE:0152,BREITLING,AB0139,reference mapping,model reviewed,https://www.breitling.com/gb-en/watches/navitimer/navitimer-b01-chronograph-41-my22/AB0139211G1A1/,pending,pending,2026-10-08
+RULE:0153,BREITLING,AB0138,reference mapping,model reviewed,https://www.breitling.com/gb-en/watches/navitimer/navitimer-b01-chronograph-43-my22/AB0138241L1P1/,pending,pending,2026-10-08
 RULE:0154,BREITLING,U13324,reference mapping,pending source review,https://www.breitling.com/,pending,pending,
 RULE:0155,BREITLING,N17375,reference mapping,pending source review,https://www.breitling.com/gb-en/collections/superocean/,pending,pending,
 RULE:0156,BREITLING,C17391,reference mapping,pending source review,https://www.breitlingsource.com/,pending,pending,
 RULE:0157,BREITLING,A16362,reference mapping,pending source review,https://www.breitlingsource.com/,pending,pending,
 RULE:0158,BREITLING,B30011,reference mapping,pending source review,https://www.breitlingsource.com/,pending,pending,
-RULE:0159,BREITLING,AB0176,reference mapping,pending source review,https://www.breitling.com/gb-en/watches/top-time/top-time-b01/AB01762C1I1X1/,pending,pending,
-RULE:0160,BREITLING,AB0145,reference mapping,pending source review,https://www.breitling.com/gb-en/watches/premier/premier-b01-chronograph-42-my23/AB0145211G1P1/,pending,pending,
+RULE:0159,BREITLING,AB0176,reference mapping,model reviewed,https://www.breitling.com/gb-en/watches/top-time/top-time-b01/AB01762C1I1X1/,pending,pending,2026-10-08
+RULE:0160,BREITLING,AB0145,reference mapping,model reviewed,https://www.breitling.com/gb-en/watches/premier/premier-b01-chronograph-42-my23/AB0145211G1P1/,pending,pending,2026-10-08
 RULE:0161,BREITLING,AB0118,reference mapping,pending source review,https://www.breitling.com/gb-en/watches/premier/premier-b01-chronograph-42/AB0118221G1A1/,pending,pending,
 RULE:0162,BREITLING,VB5510,reference mapping,pending source review,https://www.breitling.com/,pending,pending,
-RULE:0163,BREITLING,X83310,reference mapping,pending source review,https://www.breitling.com/gb-en/watches/professional/endurance-pro-38mm/X83310D41B1S1/,pending,pending,
-RULE:0164,BREITLING,X82310,reference mapping,pending source review,https://www.breitling.com/gb-en/watches/professional/endurance-pro/X823109A1K1S1/,pending,pending,
+RULE:0163,BREITLING,X83310,reference mapping,model reviewed,https://www.breitling.com/gb-en/watches/professional/endurance-pro-38mm/X83310D41B1S1/,available,pending,2026-10-08
+RULE:0164,BREITLING,X82310,reference mapping,model reviewed,https://www.breitling.com/gb-en/watches/professional/endurance-pro/X823109A1K1S1/,pending,pending,2026-10-08
 RULE:0165,BREITLING,A74380,reference mapping,pending source review,https://www.breitlingsource.com/watch_details/Colt_61.html,pending,pending,
 RULE:0166,BREITLING,A73380,reference mapping,pending source review,https://www.breitlingsource.com/watch_details/Colt_64.html,pending,pending,
-RULE:0167,BREITLING,EB7010,reference mapping,pending source review,https://www.breitling.com/gb-en/watches/professional/aerospace-b70/EB70101A1O1E1/,pending,pending,
+RULE:0167,BREITLING,EB7010,reference mapping,model reviewed,https://www.breitling.com/gb-en/watches/professional/aerospace-b70/EB70101A1O1E1/,available,pending,2026-10-08
 RULE:0168,BREITLING,E79363,reference mapping,pending source review,https://www.breitling.com/gb-en/collections/professional/,pending,pending,
 RULE:0169,BREITLING,E79362,reference mapping,pending source review,https://www.breitling.com/gb-en/collections/professional/,pending,pending,
 RULE:0170,BREITLING,A73322,reference mapping,pending source review,https://www.breitlingsource.com/,pending,pending,
@@ -185,15 +185,15 @@ RULE:0182,BREITLING,A17326,reference mapping,pending source review,https://www.b
 RULE:0183,BREITLING,P32398,reference mapping,pending source review,https://www.breitling.com/gb-en/watches/chronomat/chronomat-automatic-gmt-40/P32398101C1S1/,pending,pending,
 RULE:0184,BREITLING,A32398,reference mapping,pending source review,https://www.breitling.com/gb-en/watches/chronomat/chronomat-automatic-gmt-40/P32398101C1S1/,pending,pending,
 RULE:0185,BREITLING,A10320,reference mapping,pending source review,https://www.breitling.com/gb-en/watches/chronomat/chronomat-automatic-36-my26/A10320101A1A1/,pending,pending,
-RULE:0186,BREITLING,AB3114,reference mapping,pending source review,https://www.breitling.com/gb-en/watches/chronomat/chronomat-b31-automatic-40-my26/AB3114101L1A1/,pending,pending,
-RULE:0187,BREITLING,AB0134,reference mapping,pending source review,https://www.breitling.com/gb-en/watches/chronomat/chronomat-b01-42/AB01341B1B1A1/,pending,pending,
+RULE:0186,BREITLING,AB3114,reference mapping,model reviewed,https://www.breitling.com/gb-en/watches/chronomat/chronomat-b31-automatic-40-my26/AB3114101L1A1/,pending,pending,2026-10-08
+RULE:0187,BREITLING,AB0134,reference mapping,model reviewed,https://www.breitling.com/gb-en/watches/chronomat/chronomat-b01-42/AB01341B1B1A1/,pending,pending,2026-10-08
 RULE:0188,BREITLING,AB0110,reference mapping,pending source review,https://www.breitling.com/gb-en/collections/chronomat/,pending,pending,
 RULE:0189,BREITLING,A17331,reference mapping,pending source review,https://www.breitlingsource.com/,pending,pending,
 RULE:0190,BREITLING,A17321,reference mapping,pending source review,https://www.breitlingsource.com/,pending,pending,
 RULE:0191,BREITLING,M17368,reference mapping,pending source review,https://www.breitlingsource.com/,pending,pending,
-RULE:0192,BREITLING,AB0147,reference mapping,pending source review,https://www.breitling.com/gb-en/watches/avenger/avenger-b01-chronograph-44-my23/AB0147101A1X1/,pending,pending,
-RULE:0193,BREITLING,A32320,reference mapping,pending source review,https://www.breitling.com/gb-en/watches/avenger/avenger-automatic-gmt-44-my23/A32320101B1X1/,pending,pending,
-RULE:0194,BREITLING,A17328,reference mapping,pending source review,https://www.breitling.com/gb-en/watches/avenger/avenger-automatic-42-my23/A17328101B1X1/,pending,pending,
+RULE:0192,BREITLING,AB0147,reference mapping,model reviewed,https://www.breitling.com/gb-en/watches/avenger/avenger-b01-chronograph-44-my23/AB0147101A1X1/,pending,pending,2026-10-08
+RULE:0193,BREITLING,A32320,reference mapping,model reviewed,https://www.breitling.com/gb-en/watches/avenger/avenger-automatic-gmt-44-my23/A32320101B1X1/,pending,pending,2026-10-08
+RULE:0194,BREITLING,A17328,reference mapping,model reviewed,https://www.breitling.com/gb-en/watches/avenger/avenger-automatic-42-my23/A17328101B1X1/,pending,pending,2026-10-08
 RULE:0195,BREITLING,A17318,reference mapping,pending source review,https://www.breitling.com/gb-en/collections/avenger/,pending,pending,
 RULE:0196,BREITLING,A13385,reference mapping,pending source review,https://www.breitling.com/gb-en/collections/avenger/,pending,pending,
 RULE:0197,BREITLING,A13371,reference mapping,pending source review,https://www.breitlingsource.com/watch_details/Avenger_287.html,pending,pending,
@@ -209,8 +209,8 @@ RULE:0206,BREITLING,AB0156,reference mapping,pending source review,https://www.b
 RULE:0207,BREITLING,UB3112,reference mapping,pending source review,https://www.breitling.com/gb-en/watches/superocean-heritage/superocean-heritage-b31-automatic-44-my25/UB3112161C1A1/,pending,pending,
 RULE:0208,BREITLING,UB3111,reference mapping,pending source review,https://www.breitling.com/gb-en/watches/superocean-heritage/superocean-heritage-b31-automatic-44-my25/UB3112161C1A1/,pending,pending,
 RULE:0209,BREITLING,AB3110,reference mapping,pending source review,https://www.breitling.com/gb-en/about/madebybreitling/caliber-b31/,pending,pending,
-RULE:0210,BREITLING,AB2030,reference mapping,pending source review,https://www.breitling.com/gb-en/watches/superocean-heritage/superocean-heritage-b20-automatic-44/AB2030121B1S1/,pending,pending,
-RULE:0211,BREITLING,AB2020,reference mapping,pending source review,https://www.breitling.com/gb-en/watches/superocean-heritage/superocean-heritage-b20-automatic-46/AB2020121L1A1/,pending,pending,
+RULE:0210,BREITLING,AB2030,reference mapping,model reviewed,https://www.breitling.com/gb-en/watches/superocean-heritage/superocean-heritage-b20-automatic-44/AB2030121B1S1/,pending,pending,2026-10-08
+RULE:0211,BREITLING,AB2020,reference mapping,model reviewed,https://www.breitling.com/gb-en/watches/superocean-heritage/superocean-heritage-b20-automatic-46/AB2020121L1A1/,available,pending,2026-10-08
 RULE:0212,BREITLING,AB2010,reference mapping,pending source review,https://www.breitling.com/gb-en/watches/superocean-heritage/,pending,pending,
 RULE:0213,BREITLING,A13313,reference mapping,pending source review,https://www.breitling.com/,pending,pending,
 RULE:0214,BREITLING,A13320,reference mapping,pending source review,https://www.breitlingsource.com/watch_details/Soheritage_170.html,pending,pending,
@@ -222,8 +222,8 @@ RULE:0219,BREITLING,A17360,reference mapping,pending source review,https://www.b
 RULE:0220,BREITLING,A17378,reference mapping,pending source review,https://www.breitling.com/gb-en/collections/superocean/,pending,pending,
 RULE:0221,BREITLING,A17376,reference mapping,pending source review,https://www.breitling.com/gb-en/collections/superocean/,pending,pending,
 RULE:0222,BREITLING,A17375,reference mapping,pending source review,https://www.breitling.com/gb-en/collections/superocean/,pending,pending,
-RULE:0223,BREITLING,A17366,reference mapping,pending source review,https://www.breitling.com/gb-en/watches/superocean/superocean-automatic-42/A17366D71B2S1/,pending,pending,
-RULE:0224,BREITLING,A17316,reference mapping,pending source review,https://www.breitling.com/gb-en/watches/superocean/superocean-automatic-36/A17316D21A1S1/,pending,pending,
+RULE:0223,BREITLING,A17366,reference mapping,model reviewed,https://www.breitling.com/gb-en/watches/superocean/superocean-automatic-42/A17366D71B2S1/,pending,pending,2026-10-08
+RULE:0224,BREITLING,A17316,reference mapping,model reviewed,https://www.breitling.com/gb-en/watches/superocean/superocean-automatic-36/A17316D21A1S1/,pending,pending,2026-10-08
 RULE:0225,BREITLING,A17330,reference mapping,pending source review,,pending,pending,
 RULE:0226,BREITLING,UB2030,reference mapping,pending source review,,pending,pending,
 RULE:0227,BREITLING,UB2010,reference mapping,pending source review,,pending,pending,
@@ -560,7 +560,7 @@ RULE:0557,MAURICE LACROIX,AI6007,reference mapping,pending source review,,pendin
 RULE:0558,GRAND SEIKO,SBGA429,reference mapping,pending source review,,pending,pending,
 RULE:0559,IWC,IW370703,reference mapping,pending source review,,pending,pending,
 RULE:0560,AWAKE,Jurassic Watch RAPTORS,reference mapping,pending source review,,pending,pending,
-RULE:0561,BREITLING,A17316,reference mapping,pending source review,,pending,pending,
+RULE:0561,BREITLING,A17316,reference mapping,model reviewed,https://www.breitling.com/gb-en/watches/superocean/superocean-automatic-36/A17316D21A1S1/,pending,pending,2026-10-08
 RULE:0562,M.A.D,M.A.D. 2,reference mapping,pending source review,,pending,pending,
 RULE:0563,BREMONT,Supermarine S300,reference mapping,pending source review,,pending,pending,
 RULE:0564,DAMASKO,DC66,reference mapping,pending source review,,pending,pending,
@@ -601,7 +601,7 @@ RULE:0598,GRAND SEIKO,SBGH353G,reference mapping,pending source review,,pending,
 RULE:0599,SEIKO,SLA077J1,reference mapping,pending source review,,pending,pending,
 RULE:0600,IWC,IW371609,reference mapping,pending source review,,pending,pending,
 RULE:0601,TAG HEUER,WBN2113,reference mapping,pending source review,,pending,pending,
-RULE:0602,BREITLING,AB2030,reference mapping,pending source review,,pending,pending,
+RULE:0602,BREITLING,AB2030,reference mapping,model reviewed,https://www.breitling.com/gb-en/watches/superocean-heritage/superocean-heritage-b20-automatic-44/AB2030121B1S1/,pending,pending,2026-10-08
 RULE:0603,RAYMOND WEIL,2785,reference mapping,pending source review,,pending,pending,
 RULE:0604,TAG HEUER,WBP2111,reference mapping,pending source review,,pending,pending,
 RULE:0605,TAG HEUER,CBE2110,reference mapping,pending source review,,pending,pending,
