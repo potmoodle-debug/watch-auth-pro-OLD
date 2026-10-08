@@ -13,7 +13,30 @@ function authStatus(text,error=false){$('authStatus').textContent=text;$('authSt
 function requireTeam(){if(!user||!member){$('accountDialog').showModal();throw new Error('Sign in with an approved team account to save shared records.');}}
 async function action(button,fn){const was=button.disabled;button.disabled=true;try{await fn();}catch(e){status(e.message,true);}finally{button.disabled=was||saved&&button.id==='complete';}}
 function bind(id,fn){$(id).addEventListener('click',()=>action($(id),fn));}
-function syncBrandButtons(){document.querySelectorAll('[data-brand-choice]').forEach(b=>b.setAttribute('aria-pressed',String(normalize(b.dataset.brandChoice)===normalize($('brand').value))));}
+const carePages={
+ CARTIER:{name:'Cartier Care',url:'https://cartiercare.cartier.com/en-gb/register/manual'},
+ PANERAI:{name:'PAM.Guard',url:'https://services.panerai.com/en/register/manual'},
+ IWC:{name:'My IWC',url:'https://myiwc.iwc.com/en/register/manual'},
+ JAEGERLECOULTRE:{name:'Jaeger-LeCoultre Care',url:'https://services.jaeger-lecoultre.com/en/register/manual'},
+ BREITLING:{name:'Breitling digital passport',url:'https://www.breitling.com/gb-en/service/digital-passport/'},
+ VACHERONCONSTANTIN:{name:'Vacheron Constantin warranty & digital passport',url:'https://www.vacheron-constantin.com/gb/en/services/warranty-digital-passport.html'}
+};
+function updateBrandCare(){
+ const care=carePages[normalize($('brand').value)];$('brandCare').hidden=!care;
+ if(!care)return;
+ $('brandCareTitle').textContent=care.name;$('brandCareLink').href=care.url;
+ $('copySerialCare').disabled=!$('serial').value.trim();
+ $('brandCareStatus').textContent=$('serial').value.trim()?'Copy and paste the serial into the care page.':'Enter a serial to copy it into the care page.';
+}
+$('serial').addEventListener('input',updateBrandCare);
+$('copySerialCare').addEventListener('click',async()=>{
+ const care=carePages[normalize($('brand').value)],serial=$('serial').value.trim();if(!care||!serial)return;
+ // Open during the click gesture so popup blockers do not interrupt clipboard copying.
+ window.open(care.url,'_blank','noopener,noreferrer');
+ try{await navigator.clipboard.writeText(serial);$('brandCareStatus').textContent='Serial copied — paste into '+care.name+' with Ctrl+V.';}
+ catch{$('serial').focus();$('serial').select();$('brandCareStatus').textContent='Clipboard unavailable. Press Ctrl+C here, then paste into the care page.';}
+});
+function syncBrandButtons(){updateBrandCare();document.querySelectorAll('[data-brand-choice]').forEach(b=>b.setAttribute('aria-pressed',String(normalize(b.dataset.brandChoice)===normalize($('brand').value))));}
 function identityKey(){return {brand:normalize($('brand').value),reference:normalize($('reference').value)};}
 function selectedConditions(){return [...document.querySelectorAll('#conditions input:checked')].map(x=>x.value);}
 function collect(){
@@ -154,7 +177,7 @@ document.querySelectorAll('#componentChecks select').forEach(x=>x.addEventListen
 $('note').addEventListener('input',()=>{noteDirty=true;autosave();});
 bind('lookup',lookup);$('reference').addEventListener('keydown',e=>{if(e.key==='Enter')action($('lookup'),lookup);});
 document.querySelectorAll('.sample').forEach(b=>b.addEventListener('click',()=>action(b,async()=>{if(!reset())return;$('brand').value=b.dataset.brand;$('reference').value=b.dataset.ref;syncBrandButtons();await lookup();})));
-bind('newWatch',reset);bind('regenerate',()=>{generate(true);autosave();});bind('complete',complete);
+bind('newWatch',()=>{if(reset()){window.scrollTo({top:0,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});$('brand').focus({preventScroll:true});}});bind('regenerate',()=>{generate(true);autosave();});bind('complete',complete);
 bind('copyNote',async()=>{generate();try{await navigator.clipboard.writeText($('note').value);status('Note copied.');}catch{$('note').focus();$('note').select();status('Select the note and press Ctrl+C.',true);}});
 bind('saveTeamNote',async()=>{requireTeam();if(!identity)throw new Error('Load the current reference first.');const note=$('teamNote').value.trim();if(!note)throw new Error('Enter one useful observation.');const key=JSON.stringify({...identity,note});let cached;try{cached=JSON.parse(localStorage.getItem('benchauth.pending-note'));}catch{}const id=cached?.key===key?cached.id:crypto.randomUUID();localStorage.setItem('benchauth.pending-note',JSON.stringify({key,id}));await cloud.insert('bench_notes',{id,...identity,note,author:user.id},{query:'on_conflict=id',prefer:'resolution=ignore-duplicates,return=representation'});localStorage.removeItem('benchauth.pending-note');$('teamNote').value='';await lookup();status('Observation saved for the team, labelled unverified.');});
 bind('queueReference',()=>{if(!identity)throw new Error('Load the current reference first.');showEntry('Research this reference','Describe what is missing or needs checking.',async(text)=>{await cloud.insert('research_queue',{...identity,question:text,author:user.id},{query:'on_conflict=brand,reference',prefer:'resolution=ignore-duplicates,return=representation'});status('Reference is in the shared research queue.');},'Missing or uncertain reference / movement information.');});
