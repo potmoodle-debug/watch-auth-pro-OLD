@@ -3,11 +3,11 @@
   "source_rule_count": 935,
   "rolex_catalogue_variants": 1465,
   "rolex_catalogue_base_references": 157,
-  "reviewed_models_this_pass": 39,
-  "official_watch_photographs_this_pass": 15,
+  "reviewed_models_this_pass": 45,
+  "official_watch_photographs_this_pass": 20,
   "record_status_counts": {
-    "pending source review": 2338,
-    "model reviewed": 38,
+    "pending source review": 2332,
+    "model reviewed": 44,
     "base reviewed; variant pending": 20,
     "variant source reviewed": 4
   },
@@ -77,7 +77,12 @@
       "batch": "Breitling 02",
       "models": 16,
       "watch_photographs": 3
+    },
+    {
+      "batch": "IWC 03",
+      "models": 6,
+      "watch_photographs": 5
     }
   ],
-  "remaining_image_gaps": 24
+  "remaining_image_gaps": 25
 }

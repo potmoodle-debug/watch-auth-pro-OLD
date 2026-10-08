@@ -412,7 +412,7 @@ RULE:0409,TUDOR,^M?2836C1A0$,family / pattern,pending source review,,pending,pen
 RULE:0410,TUDOR,^M?2830A1A0$,family / pattern,pending source review,,pending,pending,
 RULE:0411,TUDOR,^M?79230DK$,family / pattern,pending source review,,pending,pending,
 RULE:0412,PANERAI,PAM00287,reference mapping,pending source review,,pending,pending,
-RULE:0413,IWC,IW388113,reference mapping,pending source review,,pending,pending,
+RULE:0413,IWC,IW388113,reference mapping,model reviewed,https://www.iwc.com/us-en/watches/pilot-watches/iw388113-pilots-watch-chronograph-41,official photograph,pending,2026-10-08
 RULE:0414,GENERIC,79220,reference mapping,pending source review,,pending,pending,
 RULE:0415,TAG HEUER,WW2110-0,reference mapping,pending source review,,pending,pending,
 RULE:0416,PANERAI,PAM01271,reference mapping,pending source review,,pending,pending,
@@ -470,7 +470,7 @@ RULE:0467,VERTEX,M100B,reference mapping,pending source review,,pending,pending,
 RULE:0468,SINN,Sinn 104,reference mapping,pending source review,,pending,pending,
 RULE:0469,GRAND SEIKO,SBGR319,reference mapping,pending source review,,pending,pending,
 RULE:0470,LONGINES,L3.764.4,reference mapping,pending source review,,pending,pending,
-RULE:0471,IWC,IW329301,reference mapping,pending source review,,pending,pending,
+RULE:0471,IWC,IW329301,reference mapping,model reviewed,https://www.iwc.com/ww-en/watches/pilot-watches/iw329301-big-pilots-watch-43,official photograph,pending,2026-10-08
 RULE:0472,TAG HEUER,WV211B-3,reference mapping,pending source review,,pending,pending,
 RULE:0473,GENERIC,BR03-92-DIV-C,reference mapping,pending source review,,pending,pending,
 RULE:0474,GENERIC,292X4P4/5/6,reference mapping,pending source review,,pending,pending,
@@ -488,7 +488,7 @@ RULE:0485,GENERIC,95.9000.670,reference mapping,pending source review,,pending,p
 RULE:0486,GENERIC,Nomos Glashutte Tangente,reference mapping,pending source review,,pending,pending,
 RULE:0487,SEIKO,7S36-5000,reference mapping,pending source review,,pending,pending,
 RULE:0488,GENERIC,49.9000.670,reference mapping,pending source review,,pending,pending,
-RULE:0489,IWC,IW370601,reference mapping,pending source review,,pending,pending,
+RULE:0489,IWC,IW370601,reference mapping,model reviewed,https://www.bukowskis.com/en/auctions/671/1021-iwc-pilot-s-watch-der-fliegerchronograph-ca-2000,pending,pending,2026-10-08
 RULE:0490,GENERIC,Parmigiani TONDA,reference mapping,pending source review,,pending,pending,
 RULE:0491,GENERIC,FC-303WGH5B4,reference mapping,pending source review,,pending,pending,
 RULE:0492,FEARS,BS23800B,reference mapping,pending source review,,pending,pending,
@@ -515,7 +515,7 @@ RULE:0512,PANERAI,PAM00024,reference mapping,pending source review,,pending,pend
 RULE:0513,DOXA,820.10,reference mapping,pending source review,,pending,pending,
 RULE:0514,FEARS,BS240.500A,reference mapping,pending source review,,pending,pending,
 RULE:0515,IWC,IW544501,reference mapping,pending source review,,pending,pending,
-RULE:0516,IWC,IW328206,reference mapping,pending source review,,pending,pending,
+RULE:0516,IWC,IW328206,reference mapping,model reviewed,https://www.iwc.com/ch-en/watches/pilot-watches/iw328206-pilots-watch-mark-xx,official photograph,pending,2026-10-08
 RULE:0517,ZENITH,03.2040.400,reference mapping,pending source review,,pending,pending,
 RULE:0518,CITIZEN,6930-09FE,reference mapping,pending source review,,pending,pending,
 RULE:0519,TAG HEUER,CAZ2012-1,reference mapping,pending source review,,pending,pending,
@@ -776,7 +776,7 @@ RULE:0773,SEIKO,^SLA021J1$,family / pattern,pending source review,,pending,pendi
 RULE:0774,STUDIO UNDERD0G,^03SAB-S$,family / pattern,pending source review,,pending,pending,
 RULE:0775,LONGINES,^L3\.812\.4(?:\..*)?$,family / pattern,pending source review,,pending,pending,
 RULE:0776,LONGINES,^L3\.774\.4(?:\..*)?$,family / pattern,pending source review,,pending,pending,
-RULE:0777,IWC,^IW388108$,family / pattern,pending source review,,pending,pending,
+RULE:0777,IWC,^IW388108$,family / pattern,model reviewed,https://www.iwc.com/ae-en/watches/pilot-watches/iw388108-pilots-watch-chronograph-41-edition-mercedes-amg-petronas,official photograph,pending,2026-10-08
 RULE:0778,TAG HEUER,^CV2111(?:[.-].*)?$,family / pattern,pending source review,,pending,pending,
 RULE:0779,TAG HEUER,^CBK2110(?:[.-].*)?$,family / pattern,pending source review,,pending,pending,
 RULE:0780,LONGINES,^L2\.816\.4(?:\..*)?$,family / pattern,pending source review,,pending,pending,
@@ -819,7 +819,7 @@ RULE:0816,CARTIER,^W7100056$,family / pattern,pending source review,,pending,pen
 RULE:0817,CARTIER,^W20073X8$,family / pattern,pending source review,,pending,pending,
 RULE:0818,CARTIER,^2961$,family / pattern,pending source review,,pending,pending,
 RULE:0819,GRAND SEIKO,^SBGN021$,family / pattern,pending source review,,pending,pending,
-RULE:0820,IWC,^IW328106$,family / pattern,pending source review,,pending,pending,
+RULE:0820,IWC,^IW328106$,family / pattern,model reviewed,https://www.iwc.com/gb-en/watches/pilot-watches/iw328106-pilots-watch-automatic-41-top-gun-mojave-desert,official photograph,pending,2026-10-08
 RULE:0821,OMEGA,^14384$,family / pattern,pending source review,,pending,pending,
 RULE:0822,OMEGA,^3577\.50\.00$,family / pattern,pending source review,,pending,pending,
 RULE:0823,OMEGA,^210\.32\.42\.20\.03\.001$,family / pattern,pending source review,,pending,pending,

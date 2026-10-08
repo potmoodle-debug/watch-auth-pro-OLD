@@ -22,3 +22,10 @@ assert.match(matchingRule(rules,'Breitling','EB7010').technology,/analogue.digit
 assert.equal(matchingRule(rules,'Breitling','A17366').technicalDetail.waterRating,'500 m when new');
 assert.ok(!matchingRule(rules,'Breitling','AB0139211G1A1').manualReview);
 assert.notEqual(matchingRule(rules,'Breitling','AB0139ZZZZ').benchStatus,'verified');
+
+assert.match(matchingRule(rules,'IWC','IW328106').family,/Mojave/);
+assert.equal(matchingRule(rules,'IWC','IW328106').calibreDisplay,'IWC 32112');
+assert.match(matchingRule(rules,'IWC','IW370601').family,/Pilot/);
+assert.equal(matchingRule(rules,'IWC','IW370601').manualReview,true);
+assert.equal(movementResult(matchingRule(rules,'IWC','IW388113'),'7750').level,'caution');
+assert.equal(matchingRule(rules,'IWC','IW328206').reserve,'120 hours');
