@@ -63,6 +63,8 @@ select count(*) as imported_rules from public.reference_facts;
 create index bench_notes_author on public.bench_notes(author);
 create index counterfeit_author on public.counterfeit_register(author);
 create index research_author on public.research_queue(author);
+grant update(author,work_date,target) on public.daily_targets to authenticated;
+grant update(brand,reference,data,status,source,verified_at) on public.reference_facts to authenticated;
 do $$ declare p record; q text; begin
 for p in select * from pg_policies where schemaname='public' loop
 q := format('alter policy %I on public.%I',p.policyname,p.tablename);
