@@ -1,8 +1,8 @@
-import {performanceStats,resetCorrections} from './performance.js?v=simple06';
-import {technologyReminder} from './movement-reminders.js?v=simple06';
-import {claspMatches,serialHints,needsResearch,replicaSignals} from './qol.js?v=simple06';
-import * as cloud from './cloud.js?v=simple06';
-import {normalize,londonDay,matchingRule,safetyRule,movementResult,finalNote,pace} from './core.js?v=simple06';
+import {performanceStats,resetCorrections} from './performance.js?v=labels07';
+import {technologyReminder} from './movement-reminders.js?v=labels07';
+import {claspMatches,serialHints,needsResearch,replicaSignals} from './qol.js?v=labels07';
+import * as cloud from './cloud.js?v=labels07';
+import {normalize,londonDay,matchingRule,safetyRule,movementResult,finalNote,pace} from './core.js?v=labels07';
 const $=id=>document.getElementById(id),esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const safeUrl=v=>{try{const u=new URL(v);return ['https:','http:'].includes(u.protocol)?u.href:'';}catch{return '';}};
 const link=(url,label)=>safeUrl(url)?'<a target="_blank" rel="noopener" href="'+esc(safeUrl(url))+'">'+esc(label)+'</a>':esc(label);
@@ -125,7 +125,7 @@ function serialGuidance(){
  $('serialGuidance').innerHTML=lines.map(x=>'<p>'+esc(x)+'</p>').join('');
  return lines.filter(x=>x.startsWith('ALERT:'));
 }
-function setIntelligenceExpanded(expanded){$('intelligenceContent').hidden=!expanded;$('lookup').textContent=expanded?'Hide intelligence':'Show intelligence';$('lookup').setAttribute('aria-expanded',String(expanded));}
+function setIntelligenceExpanded(expanded){$('intelligenceContent').hidden=!expanded;$('lookup').textContent=expanded?'Hide watch information':'Watch information';$('lookup').setAttribute('aria-expanded',String(expanded));}
 function renderInfo(){
  const s=enforceSafety(),sample=samples[normalize($('brand').value)+'|'+normalize($('reference').value)];
  if($('watchInfo').hidden)setIntelligenceExpanded(true);$('watchInfo').hidden=false;$('model').textContent=rule?.family||rule?.model||sample?.model||'Reference not mapped';
@@ -264,7 +264,7 @@ window.addEventListener('beforeunload',()=>autosave());
 document.addEventListener('visibilitychange',()=>{if(!document.hidden&&member)updatePerformance().catch(e=>status(e.message,true));});
 setInterval(()=>{if(member){if(lastDay!==londonDay())updatePerformance().catch(e=>status(e.message,true));else if(daily)renderDailyCard();}},60000);
 async function init(){
- try{const [data,pictures,types]=await Promise.all([fetch('intelligence.json?v=simple06').then(r=>{if(!r.ok)throw new Error('Reference database unavailable.');return r.json();}),fetch('samples.json?v=simple06').then(r=>r.json()),fetch('movement-types.json?v=simple06').then(r=>r.json())]);intelligence=data;const researched=await fetch('rolex-126505.json?v=simple06').then(r=>{if(!r.ok)throw new Error('Daytona research unavailable.');return r.json();});intelligence.rules=intelligence.rules.filter(r=>!(r.brand==='ROLEX'&&(r.refs||[]).includes('126505'))).concat([{...researched,benchStatus:'verified'}]);const updates=await fetch('research-updates-20261008.json?v=simple06').then(r=>{if(!r.ok)throw new Error('Reviewed research unavailable.');return r.json();});intelligence.rules=updates.concat(intelligence.rules);samples=pictures;types.forEach(x=>{const opt=document.createElement('option');opt.value=x;opt.textContent=x;$('movementType').appendChild(opt);});
+ try{const [data,pictures,types]=await Promise.all([fetch('intelligence.json?v=labels07').then(r=>{if(!r.ok)throw new Error('Reference database unavailable.');return r.json();}),fetch('samples.json?v=labels07').then(r=>r.json()),fetch('movement-types.json?v=labels07').then(r=>r.json())]);intelligence=data;const researched=await fetch('rolex-126505.json?v=labels07').then(r=>{if(!r.ok)throw new Error('Daytona research unavailable.');return r.json();});intelligence.rules=intelligence.rules.filter(r=>!(r.brand==='ROLEX'&&(r.refs||[]).includes('126505'))).concat([{...researched,benchStatus:'verified'}]);const updates=await fetch('research-updates-20261008.json?v=labels07').then(r=>{if(!r.ok)throw new Error('Reviewed research unavailable.');return r.json();});intelligence.rules=updates.concat(intelligence.rules);samples=pictures;types.forEach(x=>{const opt=document.createElement('option');opt.value=x;opt.textContent=x;$('movementType').appendChild(opt);});
  const brands=[...new Set(intelligence.rules.map(r=>r.brand).concat(intelligence.safety.map(r=>r.brand)))].sort();$('otherBrandButtons').innerHTML=brands.filter(x=>!['TUDOR','ROLEX','OMEGA','BREITLING','CARTIER','TAGHEUER'].includes(normalize(x))).map(x=>'<button type="button" data-brand-choice="'+esc(x)+'" aria-pressed="false">'+esc(x)+'</button>').join('');renderReferences();
  let draft;try{draft=JSON.parse(localStorage.getItem('benchauth.draft'));}catch{}
  if(draft){inspectionId=draft.inspectionId||inspectionId;for(const [k,v]of Object.entries(draft.values||{}))if($(k))$(k).value=v;document.querySelectorAll('#conditions input').forEach(x=>x.checked=draft.conditions?.includes(x.value));(draft.components||[]).forEach((v,i)=>$('component'+i).value=v);$('note').value=draft.note||'';noteDirty=!!draft.noteDirty;pending=draft.pending||null;pendingResearch=draft.pendingResearch||null;enforceSafety();if(pending){lockBench(true);$('complete').textContent='Retry saving this inspection';}status('Previous unsaved inspection draft restored.');}
