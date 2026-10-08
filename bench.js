@@ -1,7 +1,7 @@
-import {technologyReminder} from './movement-reminders.js?v=helpers02';
-import {claspMatches,serialHints,needsResearch,replicaSignals} from './qol.js?v=helpers02';
-import * as cloud from './cloud.js?v=helpers02';
-import {normalize,londonDay,matchingRule,safetyRule,movementResult,finalNote,pace} from './core.js?v=helpers02';
+import {technologyReminder} from './movement-reminders.js?v=carecopy02';
+import {claspMatches,serialHints,needsResearch,replicaSignals} from './qol.js?v=carecopy02';
+import * as cloud from './cloud.js?v=carecopy02';
+import {normalize,londonDay,matchingRule,safetyRule,movementResult,finalNote,pace} from './core.js?v=carecopy02';
 const $=id=>document.getElementById(id),esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const safeUrl=v=>{try{const u=new URL(v);return ['https:','http:'].includes(u.protocol)?u.href:'';}catch{return '';}};
 const link=(url,label)=>safeUrl(url)?'<a target="_blank" rel="noopener" href="'+esc(safeUrl(url))+'">'+esc(label)+'</a>':esc(label);
@@ -31,12 +31,18 @@ function updateBrandCare(){
  $('brandCareStatus').textContent=$('serial').value.trim()?'Copy and paste the serial into the care page.':'Enter a serial to copy it into the care page.';
 }
 $('serial').addEventListener('input',updateBrandCare);
+function copyImmediately(text){
+ const active=document.activeElement,field=document.createElement('textarea');field.value=text;field.readOnly=true;field.style.cssText='position:fixed;top:0;left:0;width:1px;height:1px;opacity:0';document.body.appendChild(field);field.focus();field.select();field.setSelectionRange(0,text.length);
+ let copied=false;try{copied=document.execCommand('copy');}catch{}field.remove();active?.focus({preventScroll:true});return copied;
+}
 $('copySerialCare').addEventListener('click',async()=>{
  const care=carePages[normalize($('brand').value)],serial=$('serial').value.trim();if(!care||!serial)return;
- // Open during the click gesture so popup blockers do not interrupt clipboard copying.
+ // Finish copying while BenchAuth still owns focus, before opening another tab.
+ let copied=copyImmediately(serial);
+ if(!copied){try{await navigator.clipboard.writeText(serial);copied=true;}catch{}}
+ if(!copied){$('serial').focus();$('serial').select();$('brandCareStatus').textContent='Serial not copied. Press Ctrl+C, then use Open care page.';return;}
+ $('brandCareStatus').textContent='Serial copied — paste into '+care.name+' with Ctrl+V. If no tab opens, use Open care page.';
  window.open(care.url,'_blank','noopener,noreferrer');
- try{await navigator.clipboard.writeText(serial);$('brandCareStatus').textContent='Serial copied — paste into '+care.name+' with Ctrl+V.';}
- catch{$('serial').focus();$('serial').select();$('brandCareStatus').textContent='Clipboard unavailable. Press Ctrl+C here, then paste into the care page.';}
 });
 function syncClaspField(){
  const rolex=normalize($('brand').value)==='ROLEX';
@@ -238,7 +244,7 @@ window.addEventListener('beforeunload',()=>autosave());
 document.addEventListener('visibilitychange',()=>{if(!document.hidden&&member)updatePerformance().catch(e=>status(e.message,true));});
 setInterval(()=>{if(member){if(lastDay!==londonDay())updatePerformance().catch(e=>status(e.message,true));else if(daily)$('pace').textContent=pace(daily.completed,daily.target);}},60000);
 async function init(){
- try{const [data,pictures,types]=await Promise.all([fetch('intelligence.json?v=helpers02').then(r=>{if(!r.ok)throw new Error('Reference database unavailable.');return r.json();}),fetch('samples.json?v=helpers02').then(r=>r.json()),fetch('movement-types.json?v=helpers02').then(r=>r.json())]);intelligence=data;const researched=await fetch('rolex-126505.json?v=helpers02').then(r=>{if(!r.ok)throw new Error('Daytona research unavailable.');return r.json();});intelligence.rules=intelligence.rules.filter(r=>!(r.brand==='ROLEX'&&(r.refs||[]).includes('126505'))).concat([{...researched,benchStatus:'verified'}]);samples=pictures;types.forEach(x=>{const opt=document.createElement('option');opt.value=x;opt.textContent=x;$('movementType').appendChild(opt);});
+ try{const [data,pictures,types]=await Promise.all([fetch('intelligence.json?v=carecopy02').then(r=>{if(!r.ok)throw new Error('Reference database unavailable.');return r.json();}),fetch('samples.json?v=carecopy02').then(r=>r.json()),fetch('movement-types.json?v=carecopy02').then(r=>r.json())]);intelligence=data;const researched=await fetch('rolex-126505.json?v=carecopy02').then(r=>{if(!r.ok)throw new Error('Daytona research unavailable.');return r.json();});intelligence.rules=intelligence.rules.filter(r=>!(r.brand==='ROLEX'&&(r.refs||[]).includes('126505'))).concat([{...researched,benchStatus:'verified'}]);samples=pictures;types.forEach(x=>{const opt=document.createElement('option');opt.value=x;opt.textContent=x;$('movementType').appendChild(opt);});
  const brands=[...new Set(intelligence.rules.map(r=>r.brand).concat(intelligence.safety.map(r=>r.brand)))].sort();$('otherBrandButtons').innerHTML=brands.filter(x=>!['TUDOR','ROLEX','OMEGA','BREITLING','CARTIER','TAGHEUER'].includes(normalize(x))).map(x=>'<button type="button" data-brand-choice="'+esc(x)+'" aria-pressed="false">'+esc(x)+'</button>').join('');renderReferences();
  let draft;try{draft=JSON.parse(localStorage.getItem('benchauth.draft'));}catch{}
  if(draft){inspectionId=draft.inspectionId||inspectionId;for(const [k,v]of Object.entries(draft.values||{}))if($(k))$(k).value=v;document.querySelectorAll('#conditions input').forEach(x=>x.checked=draft.conditions?.includes(x.value));(draft.components||[]).forEach((v,i)=>$('component'+i).value=v);$('note').value=draft.note||'';noteDirty=!!draft.noteDirty;pending=draft.pending||null;pendingResearch=draft.pendingResearch||null;enforceSafety();if(pending){lockBench(true);$('complete').textContent='Retry saving this inspection';}status('Previous unsaved inspection draft restored.');}
