@@ -27,7 +27,7 @@ export function finalNote(record){
  if(record.serial)lines.push('Serial: '+record.serial);
  const d=record.details||{};
  for(const [key,label] of [['movementType','Movement technology'],['calibre','Observed calibre'],['clasp','Clasp / bracelet'],['overall','Overall condition'],['battery','Battery changed']])if(d[key])lines.push(label+': '+d[key]);
- if(d.conditions?.length)lines.push('Movement condition: '+d.conditions.join(', '));
+ if(d.conditions?.length)lines.push('Movement condition: '+d.conditions.map(x=>({Clean:'MC1',Dirty:'MC2',Rusted:'MC3',Damaged:'MC4',Modified:'MC5',Aged:'MC6','External only':'MC7'}[x]||x)).join(', '));
  if(d.comments)lines.push('Observations: '+d.comments);
  if(d.issue)lines.push('Issue recorded: '+d.issue);
  if(d.externalOnly)lines.push('External inspection only; case not opened.');
