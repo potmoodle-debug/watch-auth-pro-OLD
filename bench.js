@@ -1,7 +1,8 @@
-import {technologyReminder} from './movement-reminders.js?v=clasp04';
-import {claspMatches,serialHints,needsResearch,replicaSignals} from './qol.js?v=clasp04';
-import * as cloud from './cloud.js?v=clasp04';
-import {normalize,londonDay,matchingRule,safetyRule,movementResult,finalNote,pace} from './core.js?v=clasp04';
+import {performanceStats,resetCorrections} from './performance.js?v=day05';
+import {technologyReminder} from './movement-reminders.js?v=day05';
+import {claspMatches,serialHints,needsResearch,replicaSignals} from './qol.js?v=day05';
+import * as cloud from './cloud.js?v=day05';
+import {normalize,londonDay,matchingRule,safetyRule,movementResult,finalNote,pace} from './core.js?v=day05';
 const $=id=>document.getElementById(id),esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const safeUrl=v=>{try{const u=new URL(v);return ['https:','http:'].includes(u.protocol)?u.href:'';}catch{return '';}};
 const link=(url,label)=>safeUrl(url)?'<a target="_blank" rel="noopener" href="'+esc(safeUrl(url))+'">'+esc(label)+'</a>':esc(label);
@@ -164,17 +165,27 @@ async function connect(){
  $('accountButton').textContent=user?'Account':'Team sign in';$('accountState').textContent=user?(member?'Signed in as '+user.email:'Account signed in, but team access has not been granted.'):'Sign in to share knowledge and save inspections.';
  $('authFields').hidden=!!user;$('signedInFields').hidden=!user;$('adminFields').hidden=member?.role!=='admin';$('reviewReference').hidden=member?.role!=='admin';
  if(member){await loadSharedRules();await updatePerformance();if(identity)await lookup();}
- else{$('progressTitle').textContent='Sign in for your daily total';$('progressMeta').textContent='Saved inspections and RMAs count together';$('progress').value=0;$('pace').textContent='';}
+ else{daily=null;renderDailyCard();}
 }
 async function loadSharedRules(){
  let rows=[];for(let offset=0;;offset+=500){const batch=await cloud.select('reference_facts','select=data,status,source,verified_at&order=id&limit=500&offset='+offset);rows.push(...batch);if(batch.length<500)break;}
  if(rows.length)intelligence.rules=rows.map(x=>({...x.data,benchStatus:x.status,benchSource:x.source,benchVerifiedAt:x.verified_at})).sort((a,b)=>(a.benchStatus==='verified'?-1:0)-(b.benchStatus==='verified'?-1:0)||(a.importOrder||0)-(b.importOrder||0));renderReferences();
 }
+function renderDailyCard(){
+ const stats=daily?performanceStats(daily.completed,daily.target):null;
+ $('targetButton').textContent=String(daily?.target||50);
+ $('progressTitle').textContent=daily?daily.completed+' / '+daily.target:'— / 50';
+ $('completedCount').textContent=daily?String(daily.completed):'—';
+ $('progress').value=daily?Math.max(0,Math.min(100,Math.round(daily.completed/daily.target*100))):0;
+ $('againstTarget').textContent=stats?.against||'—';$('againstTarget').classList.toggle('behind',!!stats&&stats.difference<0);
+ $('pace').textContent=stats&&stats.rate>0?stats.rate.toFixed(1)+' /hr':'—';
+ $('finishEstimate').textContent=stats?.finish||'—';$('finishEstimate').classList.toggle('behind',!!stats?.late);
+ $('workDayLabel').textContent='YOUR WORK · '+new Intl.DateTimeFormat('en-GB',{timeZone:'Europe/London',day:'numeric',month:'short'}).format(new Date());
+ $('progressMeta').textContent=daily?Math.max(0,daily.target-daily.completed)+' remaining · '+daily.rmas+' RMAs':'Sign in for your daily total';
+}
 async function updatePerformance(){
  requireTeam();lastDay=londonDay();daily=await cloud.rpc('daily_metrics',{day:lastDay});
- $('progressTitle').textContent=daily.completed+' / '+daily.target+' completed';const percent=Math.max(0,Math.round(daily.completed/daily.target*100));
- $('progressMeta').textContent=percent+'% · '+Math.max(0,daily.target-daily.completed)+' remaining · '+daily.rmas+' RMAs';
- $('progress').value=Math.min(100,percent);$('pace').textContent=pace(daily.completed,daily.target);
+ renderDailyCard();
  $('performanceDetail').innerHTML='<div class="metric-grid">'+[['Completed',daily.completed],['Target',daily.target],['RMAs',daily.rmas],['Remaining',Math.max(0,daily.target-daily.completed)]].map(([k,v])=>'<div><strong>'+v+'</strong><span>'+k+'</span></div>').join('')+'</div>';
  const rows=await cloud.select('inspections',new URLSearchParams({author:'eq.'+user.id,work_date:'eq.'+lastDay,order:'created_at.desc',limit:'1000'}).toString());$('todayRows').innerHTML=rows.map(x=>'<div class="row">'+esc(x.workflow)+' · '+esc(x.reference||x.note)+' <b>'+esc(x.contribution>0?'+'+x.contribution:x.contribution)+'</b></div>').join('')||'<p class="muted">No completed work recorded today.</p>';
 }
@@ -251,9 +262,9 @@ $('entryCancel').addEventListener('click',()=>$('entryDialog').close());
 $('entryForm').addEventListener('submit',async e=>{e.preventDefault();const btn=e.submitter;btn.disabled=true;try{const text=$('entryValue').value.trim();if(!text)throw new Error('Enter the requested information.');await entryAction(text,$('entryEvidence').value.trim());$('entryDialog').close();}catch(e){$('entryStatus').textContent=e.message;}finally{btn.disabled=false;}});
 window.addEventListener('beforeunload',()=>autosave());
 document.addEventListener('visibilitychange',()=>{if(!document.hidden&&member)updatePerformance().catch(e=>status(e.message,true));});
-setInterval(()=>{if(member){if(lastDay!==londonDay())updatePerformance().catch(e=>status(e.message,true));else if(daily)$('pace').textContent=pace(daily.completed,daily.target);}},60000);
+setInterval(()=>{if(member){if(lastDay!==londonDay())updatePerformance().catch(e=>status(e.message,true));else if(daily)renderDailyCard();}},60000);
 async function init(){
- try{const [data,pictures,types]=await Promise.all([fetch('intelligence.json?v=clasp04').then(r=>{if(!r.ok)throw new Error('Reference database unavailable.');return r.json();}),fetch('samples.json?v=clasp04').then(r=>r.json()),fetch('movement-types.json?v=clasp04').then(r=>r.json())]);intelligence=data;const researched=await fetch('rolex-126505.json?v=clasp04').then(r=>{if(!r.ok)throw new Error('Daytona research unavailable.');return r.json();});intelligence.rules=intelligence.rules.filter(r=>!(r.brand==='ROLEX'&&(r.refs||[]).includes('126505'))).concat([{...researched,benchStatus:'verified'}]);const updates=await fetch('research-updates-20261008.json?v=clasp04').then(r=>{if(!r.ok)throw new Error('Reviewed research unavailable.');return r.json();});intelligence.rules=updates.concat(intelligence.rules);samples=pictures;types.forEach(x=>{const opt=document.createElement('option');opt.value=x;opt.textContent=x;$('movementType').appendChild(opt);});
+ try{const [data,pictures,types]=await Promise.all([fetch('intelligence.json?v=day05').then(r=>{if(!r.ok)throw new Error('Reference database unavailable.');return r.json();}),fetch('samples.json?v=day05').then(r=>r.json()),fetch('movement-types.json?v=day05').then(r=>r.json())]);intelligence=data;const researched=await fetch('rolex-126505.json?v=day05').then(r=>{if(!r.ok)throw new Error('Daytona research unavailable.');return r.json();});intelligence.rules=intelligence.rules.filter(r=>!(r.brand==='ROLEX'&&(r.refs||[]).includes('126505'))).concat([{...researched,benchStatus:'verified'}]);const updates=await fetch('research-updates-20261008.json?v=day05').then(r=>{if(!r.ok)throw new Error('Reviewed research unavailable.');return r.json();});intelligence.rules=updates.concat(intelligence.rules);samples=pictures;types.forEach(x=>{const opt=document.createElement('option');opt.value=x;opt.textContent=x;$('movementType').appendChild(opt);});
  const brands=[...new Set(intelligence.rules.map(r=>r.brand).concat(intelligence.safety.map(r=>r.brand)))].sort();$('otherBrandButtons').innerHTML=brands.filter(x=>!['TUDOR','ROLEX','OMEGA','BREITLING','CARTIER','TAGHEUER'].includes(normalize(x))).map(x=>'<button type="button" data-brand-choice="'+esc(x)+'" aria-pressed="false">'+esc(x)+'</button>').join('');renderReferences();
  let draft;try{draft=JSON.parse(localStorage.getItem('benchauth.draft'));}catch{}
  if(draft){inspectionId=draft.inspectionId||inspectionId;for(const [k,v]of Object.entries(draft.values||{}))if($(k))$(k).value=v;document.querySelectorAll('#conditions input').forEach(x=>x.checked=draft.conditions?.includes(x.value));(draft.components||[]).forEach((v,i)=>$('component'+i).value=v);$('note').value=draft.note||'';noteDirty=!!draft.noteDirty;pending=draft.pending||null;pendingResearch=draft.pendingResearch||null;enforceSafety();if(pending){lockBench(true);$('complete').textContent='Retry saving this inspection';}status('Previous unsaved inspection draft restored.');}
@@ -279,3 +290,21 @@ $('rmaCopy').addEventListener('click',async()=>{try{await navigator.clipboard.wr
 bind('rmaSave',async()=>{requireTeam();if(!rmaPending){const note=$('rmaNote').value.trim();if(!note){$('rmaStatus').textContent='Record at least one inspection finding.';return;}rmaPending={id:rmaId,author:user.id,workflow:'rma',note,contribution:1};saveRmaDraft();syncRma();}try{await cloud.insert('inspections',rmaPending,{query:'on_conflict=id',prefer:'resolution=ignore-duplicates,return=representation'});const check=await cloud.select('inspections','id=eq.'+rmaId);if(!check.length)throw new Error('Save not confirmed. Retry this same RMA.');rmaPending=null;rmaId=crypto.randomUUID();$('rmaNote').value='';localStorage.removeItem('benchauth.rma-draft');syncRma();$('rmaStatus').textContent='RMA saved and counted once.';try{await updatePerformance();}catch{$('rmaStatus').textContent='RMA saved; refresh Performance to update the displayed total.';}}catch(e){$('rmaStatus').textContent=e.message;throw e;}});
 syncRma();
 await init();
+
+let dayResetJob=null;
+bind('startNewDay',async()=>{
+ requireTeam();await updatePerformance();
+ try{const cached=JSON.parse(localStorage.getItem('benchauth.day-reset'));dayResetJob=cached?.author===user.id&&cached?.day===londonDay()?cached:null;}catch{dayResetJob=null;}
+ $('dayResetDescription').textContent=dayResetJob?'A previous reset is awaiting confirmation. Retry it to complete the same reset.':daily.completed===0?'Today’s count is already zero. Start with the current target of '+daily.target+'.':'Reset today’s displayed count of '+daily.completed+' to zero and start again? A dated adjustment will be added to your work log.';
+ $('dayResetStatus').textContent='';$('dayResetConfirm').textContent=dayResetJob?'Retry reset':'Reset count & start';$('dayResetDialog').showModal();
+});
+bind('dayResetCancel',()=>{$('dayResetDialog').close();});
+bind('dayResetConfirm',async()=>{
+ requireTeam();
+ if(!dayResetJob){await updatePerformance();dayResetJob={author:user.id,day:londonDay(),rows:resetCorrections(daily.completed,user.id,londonDay(),()=>crypto.randomUUID())};localStorage.setItem('benchauth.day-reset',JSON.stringify(dayResetJob));}
+ if(dayResetJob.author!==user.id||dayResetJob.day!==londonDay()){dayResetJob=null;localStorage.removeItem('benchauth.day-reset');throw new Error('The workday changed. Close this dialog and start the new day again.');}
+ try{
+ if(dayResetJob.rows.length){await cloud.insert('inspections',dayResetJob.rows,{query:'on_conflict=id',prefer:'resolution=ignore-duplicates,return=representation'});const rows=await cloud.select('inspections',new URLSearchParams({select:'id',id:'in.('+dayResetJob.rows.map(x=>x.id).join(',')+')'}).toString());if(rows.length!==dayResetJob.rows.length)throw new Error('Reset not confirmed. Retry the same reset.');}
+ await updatePerformance();dayResetJob=null;localStorage.removeItem('benchauth.day-reset');$('dayResetDialog').close();status('New day ready. Previous work remains in the inspection log.');
+ }catch(e){$('dayResetStatus').textContent=e.message;$('dayResetConfirm').textContent='Retry reset';throw e;}
+});
