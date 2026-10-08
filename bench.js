@@ -61,11 +61,11 @@ function generate(force=false){if(noteDirty&&!force)return;$('note').value=final
 function autosave(){if(saved)return;try{localStorage.setItem('benchauth.draft',JSON.stringify({inspectionId,values:Object.fromEntries(inputIds.map(x=>[x,$(x).value])),conditions:selectedConditions(),components:componentNames.map((_,i)=>$('component'+i).value),note:$('note').value,noteDirty,pending}));}catch{status('Draft recovery is unavailable in this browser. Save the inspection before closing.',true);}}
 function lockBench(lock){document.querySelectorAll('#bench input,#bench select,#bench textarea,#lookup,#regenerate,.sample,[data-brand-choice]').forEach(el=>el.disabled=lock);$('saveTeamNote').disabled=lock;$('queueReference').disabled=lock;$('registerCounterfeit').disabled=lock;}
 function reset(){
- if(!confirmMissingClasp())return false;
+ if(!saved&&!confirmMissingClasp())return false;
  if(!saved&&(pending||$('comments').value||$('calibre').value||selectedConditions().length||noteDirty)&&!confirm('Start the next watch and discard this unsaved draft?'))return false;
  inputIds.forEach(id=>$(id).value=id==='workflow'?'authentication':id==='outcome'?'recorded':'');
  document.querySelectorAll('#conditions input').forEach(x=>x.checked=false);componentNames.forEach((_,i)=>$('component'+i).value='');
- identity=null;rule=null;lookupVersion++;inspectionId=crypto.randomUUID();pending=null;saved=false;noteDirty=false;$('note').value='';$('teamNote').value='';$('watchInfo').hidden=true;$('movementCheck').hidden=true;$('batteryField').hidden=true;$('saveState').textContent='Not saved';$('complete').disabled=false;$('complete').textContent='Complete & save inspection';lockBench(false);localStorage.removeItem('benchauth.draft');status('Ready for the next watch.');syncBrandButtons();$('brand').focus();return true;
+ identity=null;rule=null;lookupVersion++;inspectionId=crypto.randomUUID();pending=null;saved=false;noteDirty=false;$('note').value='';$('teamNote').value='';$('watchInfo').hidden=true;$('movementCheck').hidden=true;$('batteryField').hidden=true;$('saveState').textContent='Not saved';$('complete').disabled=false;$('complete').textContent='Save & start next watch ↑';lockBench(false);localStorage.removeItem('benchauth.draft');status('Ready for the next watch.');syncBrandButtons();$('brand').focus();return true;
 }
 function enforceSafety(){
  const s=safetyRule(intelligence.safety,$('brand').value,$('reference').value,rule?.family||rule?.model||'');
@@ -158,8 +158,10 @@ async function complete(){
  }
  try{await cloud.insert('inspections',pending,{query:'on_conflict=id',prefer:'resolution=ignore-duplicates,return=representation'});const check=await cloud.select('inspections','id=eq.'+pending.id);if(!check.length)throw new Error('Save could not be confirmed. Retry this same inspection.');}
  catch(e){$('complete').textContent='Retry saving this inspection';$('saveState').textContent='Not confirmed — draft retained';throw e;}
- saved=true;pending=null;$('saveState').textContent='Saved to shared inspection log';$('complete').disabled=true;$('complete').textContent='Inspection saved';localStorage.removeItem('benchauth.draft');status('Inspection saved once. Choose Next watch when ready.');
- try{await updatePerformance();}catch(e){status('Inspection saved, but the progress refresh failed. Use Performance → Refresh.',true);}
+ saved=true;pending=null;$('saveState').textContent='Saved to shared inspection log';$('complete').disabled=true;$('complete').textContent='Inspection saved';localStorage.removeItem('benchauth.draft');status('Inspection saved once.');
+ let refreshError;try{await updatePerformance();}catch(e){refreshError=e;}
+ reset();window.scrollTo({top:0,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});$('brand').focus({preventScroll:true});
+ status(refreshError?'Inspection saved. Ready for the next watch; progress refresh failed. Use Performance → Refresh.':'Inspection saved. Ready for the next watch.',!!refreshError);
 }
 function showEntry(title,help,fn,initial='',evidence=false){requireTeam();entryAction=fn;entryId=crypto.randomUUID();$('entryTitle').textContent=title;$('entryHelp').textContent=help;$('entryValue').value=initial;$('entryEvidence').value='';$('entryEvidenceLabel').hidden=!evidence;$('entryStatus').textContent='';$('entryDialog').showModal();}
 function renderReferences(){
@@ -193,7 +195,7 @@ document.querySelectorAll('#componentChecks select').forEach(x=>x.addEventListen
 $('note').addEventListener('input',()=>{noteDirty=true;autosave();});
 bind('lookup',lookup);$('reference').addEventListener('keydown',e=>{if(e.key==='Enter')action($('lookup'),lookup);});
 document.querySelectorAll('.sample').forEach(b=>b.addEventListener('click',()=>action(b,async()=>{if(!reset())return;$('brand').value=b.dataset.brand;$('reference').value=b.dataset.ref;syncBrandButtons();await lookup();})));
-bind('newWatch',()=>{if(reset()){window.scrollTo({top:0,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});$('brand').focus({preventScroll:true});}});bind('regenerate',()=>{generate(true);autosave();});bind('complete',complete);
+bind('regenerate',()=>{generate(true);autosave();});bind('complete',complete);
 bind('copyNote',async()=>{generate();try{await navigator.clipboard.writeText($('note').value);status('Note copied.');}catch{$('note').focus();$('note').select();status('Select the note and press Ctrl+C.',true);}});
 bind('saveTeamNote',async()=>{requireTeam();if(!identity)throw new Error('Load the current reference first.');const note=$('teamNote').value.trim();if(!note)throw new Error('Enter one useful observation.');const key=JSON.stringify({...identity,note});let cached;try{cached=JSON.parse(localStorage.getItem('benchauth.pending-note'));}catch{}const id=cached?.key===key?cached.id:crypto.randomUUID();localStorage.setItem('benchauth.pending-note',JSON.stringify({key,id}));await cloud.insert('bench_notes',{id,...identity,note,author:user.id},{query:'on_conflict=id',prefer:'resolution=ignore-duplicates,return=representation'});localStorage.removeItem('benchauth.pending-note');$('teamNote').value='';await lookup();status('Observation saved for the team, labelled unverified.');});
 bind('queueReference',()=>{if(!identity)throw new Error('Load the current reference first.');showEntry('Research this reference','Describe what is missing or needs checking.',async(text)=>{await cloud.insert('research_queue',{...identity,question:text,author:user.id},{query:'on_conflict=brand,reference',prefer:'resolution=ignore-duplicates,return=representation'});status('Reference is in the shared research queue.');},'Missing or uncertain reference / movement information.');});
