@@ -1,5 +1,5 @@
-import * as cloud from './cloud.js?v=lab02';
-import {normalize,londonDay,matchingRule,safetyRule,movementResult,finalNote,pace} from './core.js?v=lab02';
+import * as cloud from './cloud.js?v=design01';
+import {normalize,londonDay,matchingRule,safetyRule,movementResult,finalNote,pace} from './core.js?v=design01';
 const $=id=>document.getElementById(id),esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const safeUrl=v=>{try{const u=new URL(v);return ['https:','http:'].includes(u.protocol)?u.href:'';}catch{return '';}};
 const link=(url,label)=>safeUrl(url)?'<a target="_blank" rel="noopener" href="'+esc(safeUrl(url))+'">'+esc(label)+'</a>':esc(label);
@@ -175,7 +175,7 @@ window.addEventListener('beforeunload',()=>autosave());
 document.addEventListener('visibilitychange',()=>{if(!document.hidden&&member)updatePerformance().catch(e=>status(e.message,true));});
 setInterval(()=>{if(member){if(lastDay!==londonDay())updatePerformance().catch(e=>status(e.message,true));else if(daily)$('pace').textContent=pace(daily.completed,daily.target);}},60000);
 async function init(){
- try{const [data,pictures,types]=await Promise.all([fetch('intelligence.json?v=lab02').then(r=>{if(!r.ok)throw new Error('Reference database unavailable.');return r.json();}),fetch('samples.json?v=lab02').then(r=>r.json()),fetch('movement-types.json?v=lab02').then(r=>r.json())]);intelligence=data;samples=pictures;types.forEach(x=>{const opt=document.createElement('option');opt.value=x;opt.textContent=x;$('movementType').appendChild(opt);});
+ try{const [data,pictures,types]=await Promise.all([fetch('intelligence.json?v=design01').then(r=>{if(!r.ok)throw new Error('Reference database unavailable.');return r.json();}),fetch('samples.json?v=design01').then(r=>r.json()),fetch('movement-types.json?v=design01').then(r=>r.json())]);intelligence=data;samples=pictures;types.forEach(x=>{const opt=document.createElement('option');opt.value=x;opt.textContent=x;$('movementType').appendChild(opt);});
  const brands=[...new Set(intelligence.rules.map(r=>r.brand).concat(intelligence.safety.map(r=>r.brand)))].sort();$('brandOptions').innerHTML=brands.map(x=>'<option value="'+esc(x)+'"></option>').join('');renderReferences();
  let draft;try{draft=JSON.parse(localStorage.getItem('benchauth.draft'));}catch{}
  if(draft){inspectionId=draft.inspectionId||inspectionId;for(const [k,v]of Object.entries(draft.values||{}))if($(k))$(k).value=v;document.querySelectorAll('#conditions input').forEach(x=>x.checked=draft.conditions?.includes(x.value));(draft.components||[]).forEach((v,i)=>$('component'+i).value=v);$('note').value=draft.note||'';noteDirty=!!draft.noteDirty;pending=draft.pending||null;enforceSafety();if(pending){lockBench(true);$('complete').textContent='Retry saving this inspection';}status('Previous unsaved inspection draft restored.');}
