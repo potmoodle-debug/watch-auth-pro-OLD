@@ -1,7 +1,7 @@
-import {technologyReminder} from './movement-reminders.js?v=research03';
-import {claspMatches,serialHints,needsResearch,replicaSignals} from './qol.js?v=research03';
-import * as cloud from './cloud.js?v=research03';
-import {normalize,londonDay,matchingRule,safetyRule,movementResult,finalNote,pace} from './core.js?v=research03';
+import {technologyReminder} from './movement-reminders.js?v=clasp04';
+import {claspMatches,serialHints,needsResearch,replicaSignals} from './qol.js?v=clasp04';
+import * as cloud from './cloud.js?v=clasp04';
+import {normalize,londonDay,matchingRule,safetyRule,movementResult,finalNote,pace} from './core.js?v=clasp04';
 const $=id=>document.getElementById(id),esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const safeUrl=v=>{try{const u=new URL(v);return ['https:','http:'].includes(u.protocol)?u.href:'';}catch{return '';}};
 const link=(url,label)=>safeUrl(url)?'<a target="_blank" rel="noopener" href="'+esc(safeUrl(url))+'">'+esc(label)+'</a>':esc(label);
@@ -52,10 +52,19 @@ function syncClaspField(){
  $('clasp').placeholder=rolex?'Enter the code stamped inside the clasp':'Optional';
  $('claspHelp').textContent=rolex?'Record the clasp code before finishing or moving to the next watch.':'';
 }
-function confirmMissingClasp(){
+async function confirmMissingClasp(action='continue'){
  if(normalize($('brand').value)!=='ROLEX'||$('clasp').value.trim())return true;
- if(confirm('Rolex clasp code has not been entered. Press Cancel to enter it, or OK to continue without a clasp code.'))return true;
- $('clasp').focus();return false;
+ const dialog=$('claspReminder');
+ const copying=action==='copy';
+ $('claspReminderText').textContent=copying?'This is a Rolex inspection and the clasp-code field is blank. Add the clasp code before copying the authentication note if it is available on the watch.':'This is a Rolex inspection and the clasp-code field is blank. Add the clasp code before '+(action==='save'?'saving and starting the next watch':'moving to the next watch')+' if it is available on the watch.';
+ $('claspContinue').textContent=copying?'Copy anyway':action==='save'?'Save anyway':'Continue anyway';
+ return new Promise(resolve=>{
+  const finish=proceed=>{dialog.oncancel=null;$('claspEnter').onclick=null;$('claspContinue').onclick=null;dialog.close();if(!proceed){$('clasp').scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth',block:'center'});$('clasp').focus({preventScroll:true});}resolve(proceed);};
+  $('claspEnter').onclick=()=>finish(false);
+  $('claspContinue').onclick=()=>finish(true);
+  dialog.oncancel=e=>{e.preventDefault();finish(false);};
+  dialog.showModal();$('claspEnter').focus();
+ });
 }
 function syncBrandButtons(){updateBrandCare();syncClaspField();renderReplicaFlags();document.querySelectorAll('[data-brand-choice]').forEach(b=>b.setAttribute('aria-pressed',String(normalize(b.dataset.brandChoice)===normalize($('brand').value))));}
 function identityKey(){return {brand:normalize($('brand').value),reference:normalize($('reference').value)};}
@@ -68,8 +77,8 @@ function collect(){
 function generate(force=false){if(noteDirty&&!force)return;$('note').value=finalNote(collect());noteDirty=false;}
 function autosave(){if(saved)return;try{localStorage.setItem('benchauth.draft',JSON.stringify({inspectionId,values:Object.fromEntries(inputIds.map(x=>[x,$(x).value])),conditions:selectedConditions(),components:componentNames.map((_,i)=>$('component'+i).value),note:$('note').value,noteDirty,pending,pendingResearch}));}catch{status('Draft recovery is unavailable in this browser. Save the inspection before closing.',true);}}
 function lockBench(lock){document.querySelectorAll('#bench input,#bench select,#bench textarea,#lookup,#regenerate,#suggestCalibre,.sample,[data-brand-choice]').forEach(el=>el.disabled=lock);$('saveTeamNote').disabled=lock;$('queueReference').disabled=lock;$('registerCounterfeit').disabled=lock;}
-function reset(){
- if(!saved&&!confirmMissingClasp())return false;
+async function reset(){
+ if(!saved&&!(await confirmMissingClasp()))return false;
  if(!saved&&(pending||$('comments').value||$('calibre').value||selectedConditions().length||noteDirty)&&!confirm('Start the next watch and discard this unsaved draft?'))return false;
  inputIds.forEach(id=>$(id).value=id==='workflow'?'authentication':id==='outcome'?'recorded':'');
  document.querySelectorAll('#conditions input').forEach(x=>x.checked=false);componentNames.forEach((_,i)=>$('component'+i).value='');
@@ -171,7 +180,7 @@ async function updatePerformance(){
 }
 async function complete(){
  requireTeam();if(saved)return;if(!pending){
-  if(!confirmMissingClasp())return;
+  if(!(await confirmMissingClasp('save')))return;
   enforceSafety();const record=collect();if(!record.brand||!record.reference)throw new Error('Enter the watch brand and reference before completing an inspection. For an unrecorded RMA use + RMA.');
   generate();const referenceRule=matchingRule(intelligence.rules,record.brand,record.reference);pending={...record,note:$('note').value};pendingResearch=needsResearch(referenceRule,record.workflow)?{brand:record.brand,reference:record.reference,question:'Automatically captured when completing an inspection. '+(referenceRule?'Partial/family mapping requires review.':'No researched mapping found.')+' Serial: '+(record.serial||'not recorded')+'. Observed calibre: '+(record.details.calibre||'not recorded')+'. '+(record.details.issue||''),author:user.id}:null;lockBench(true);autosave();
  }
@@ -179,7 +188,7 @@ async function complete(){
  catch(e){$('complete').textContent='Retry saving this inspection';$('saveState').textContent='Not confirmed — draft retained';throw e;}
  saved=true;pending=null;$('saveState').textContent='Saved to shared inspection log';$('complete').disabled=true;$('complete').textContent='Inspection saved';localStorage.removeItem('benchauth.draft');status('Inspection saved once.');
  let refreshError;try{await updatePerformance();}catch(e){refreshError=e;}
- reset();window.scrollTo({top:0,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});$('brand').focus({preventScroll:true});
+ await reset();window.scrollTo({top:0,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});$('brand').focus({preventScroll:true});
  status(refreshError?'Inspection saved. Ready for the next watch; progress refresh failed. Use Performance → Refresh.':'Inspection saved. Ready for the next watch.',!!refreshError);
 }
 function showEntry(title,help,fn,initial='',evidence=false){requireTeam();entryAction=fn;entryId=crypto.randomUUID();$('entryTitle').textContent=title;$('entryHelp').textContent=help;$('entryValue').value=initial;$('entryEvidence').value='';$('entryEvidenceLabel').hidden=!evidence;$('entryStatus').textContent='';$('entryDialog').showModal();}
@@ -214,13 +223,13 @@ document.querySelectorAll('#conditions input').forEach(x=>x.addEventListener('ch
 document.querySelectorAll('#componentChecks select').forEach(x=>x.addEventListener('change',autosave));
 $('note').addEventListener('input',()=>{noteDirty=true;autosave();});
 bind('lookup',async()=>{if(identity&&!$('watchInfo').hidden){setIntelligenceExpanded($('intelligenceContent').hidden);return;}await lookup();});$('reference').addEventListener('keydown',e=>{if(e.key==='Enter')action($('lookup'),lookup);});
-document.querySelectorAll('.sample').forEach(b=>b.addEventListener('click',()=>action(b,async()=>{if(!reset())return;$('brand').value=b.dataset.brand;$('reference').value=b.dataset.ref;syncBrandButtons();await lookup();})));
+document.querySelectorAll('.sample').forEach(b=>b.addEventListener('click',()=>action(b,async()=>{if(!(await reset()))return;$('brand').value=b.dataset.brand;$('reference').value=b.dataset.ref;syncBrandButtons();await lookup();})));
 bind('copyReference',()=>copyIdentifier('reference','Reference'));bind('copySerial',()=>copyIdentifier('serial','Serial'));
 async function copyIdentifier(id,label){const value=$(id).value.trim();if(!value){status('Enter a '+label.toLowerCase()+' first.');return;}try{await navigator.clipboard.writeText(value);status(label+' copied.');}catch{$(id).focus();$(id).select();status('Press Ctrl+C to copy the '+label.toLowerCase()+'.',true);}}
 bind('suggestCalibre',()=>{if(pending||saved)return;const current=matchingRule(intelligence.rules,$('brand').value,$('reference').value);const stop=safetyRule(intelligence.safety,$('brand').value,$('reference').value,current?.family||'');if(stop||selectedConditions().includes('External only')){status('External inspection only — do not record an unobserved internal calibre.');return;}const choices=[...new Set((current?.calibre||[]).map(x=>String(x).replace(/^(?:CALIBRE|CAL)\.?\s*/i,'').trim()).filter(Boolean))];$('calibreChoices').hidden=false;if(!choices.length){$('calibreChoices').textContent='No supported calibre mapping for this reference.';return;}$('calibreChoices').innerHTML='<p>'+esc(current?.manualReview||current?.collectionOnly?'Family / review options — confirm the exact movement physically.':'Select only the calibre you have physically confirmed.')+'</p><div class="actions">'+choices.map(x=>'<button type="button" class="secondary" data-calibre-choice="'+esc(x)+'">'+esc(x)+'</button>').join('')+'</div>';});
 $('calibreChoices').addEventListener('click',e=>{const b=e.target.closest('[data-calibre-choice]');if(!b||pending||saved||$('calibre').disabled)return;$('calibre').value=b.dataset.calibreChoice;$('calibre').dispatchEvent(new Event('input',{bubbles:true}));$('calibreChoices').hidden=true;$('calibre').focus();});
 bind('regenerate',()=>{generate(true);autosave();});bind('complete',complete);
-bind('copyNote',async()=>{if(!confirmMissingClasp())return;generate();try{await navigator.clipboard.writeText($('note').value);status('Note copied.');}catch{$('note').focus();$('note').select();status('Select the note and press Ctrl+C.',true);}});
+bind('copyNote',async()=>{if(!(await confirmMissingClasp('copy')))return;generate();try{await navigator.clipboard.writeText($('note').value);status('Note copied.');}catch{$('note').focus();$('note').select();status('Select the note and press Ctrl+C.',true);}});
 bind('saveTeamNote',async()=>{requireTeam();if(!identity)throw new Error('Load the current reference first.');const note=$('teamNote').value.trim();if(!note)throw new Error('Enter one useful observation.');const key=JSON.stringify({...identity,note});let cached;try{cached=JSON.parse(localStorage.getItem('benchauth.pending-note'));}catch{}const id=cached?.key===key?cached.id:crypto.randomUUID();localStorage.setItem('benchauth.pending-note',JSON.stringify({key,id}));await cloud.insert('bench_notes',{id,...identity,note,author:user.id},{query:'on_conflict=id',prefer:'resolution=ignore-duplicates,return=representation'});localStorage.removeItem('benchauth.pending-note');$('teamNote').value='';await lookup();status('Observation saved for the team, labelled unverified.');});
 bind('queueReference',()=>{if(!identity)throw new Error('Load the current reference first.');showEntry('Research this reference','Describe what is missing or needs checking.',async(text)=>{await cloud.insert('research_queue',{...identity,question:text,author:user.id},{query:'on_conflict=brand,reference',prefer:'resolution=ignore-duplicates,return=representation'});status('Reference is in the shared research queue.');},'Missing or uncertain reference / movement information.');});
 bind('registerCounterfeit',()=>{if(!identity)throw new Error('Load the current reference first.');showEntry('Record a counterfeit concern','Record the physical indicators. This remains an unreviewed team observation.',async(text,evidence)=>{await cloud.insert('counterfeit_register',{id:entryId,...identity,serial:normalize($('serial').value),indicators:text,evidence_url:evidence||null,author:user.id},{query:'on_conflict=id',prefer:'resolution=ignore-duplicates,return=representation'});await lookup();status('Concern saved to the shared register as unreviewed.');},$('issue').value,true);});
@@ -244,7 +253,7 @@ window.addEventListener('beforeunload',()=>autosave());
 document.addEventListener('visibilitychange',()=>{if(!document.hidden&&member)updatePerformance().catch(e=>status(e.message,true));});
 setInterval(()=>{if(member){if(lastDay!==londonDay())updatePerformance().catch(e=>status(e.message,true));else if(daily)$('pace').textContent=pace(daily.completed,daily.target);}},60000);
 async function init(){
- try{const [data,pictures,types]=await Promise.all([fetch('intelligence.json?v=research03').then(r=>{if(!r.ok)throw new Error('Reference database unavailable.');return r.json();}),fetch('samples.json?v=research03').then(r=>r.json()),fetch('movement-types.json?v=research03').then(r=>r.json())]);intelligence=data;const researched=await fetch('rolex-126505.json?v=research03').then(r=>{if(!r.ok)throw new Error('Daytona research unavailable.');return r.json();});intelligence.rules=intelligence.rules.filter(r=>!(r.brand==='ROLEX'&&(r.refs||[]).includes('126505'))).concat([{...researched,benchStatus:'verified'}]);const updates=await fetch('research-updates-20261008.json?v=research03').then(r=>{if(!r.ok)throw new Error('Reviewed research unavailable.');return r.json();});intelligence.rules=updates.concat(intelligence.rules);samples=pictures;types.forEach(x=>{const opt=document.createElement('option');opt.value=x;opt.textContent=x;$('movementType').appendChild(opt);});
+ try{const [data,pictures,types]=await Promise.all([fetch('intelligence.json?v=clasp04').then(r=>{if(!r.ok)throw new Error('Reference database unavailable.');return r.json();}),fetch('samples.json?v=clasp04').then(r=>r.json()),fetch('movement-types.json?v=clasp04').then(r=>r.json())]);intelligence=data;const researched=await fetch('rolex-126505.json?v=clasp04').then(r=>{if(!r.ok)throw new Error('Daytona research unavailable.');return r.json();});intelligence.rules=intelligence.rules.filter(r=>!(r.brand==='ROLEX'&&(r.refs||[]).includes('126505'))).concat([{...researched,benchStatus:'verified'}]);const updates=await fetch('research-updates-20261008.json?v=clasp04').then(r=>{if(!r.ok)throw new Error('Reviewed research unavailable.');return r.json();});intelligence.rules=updates.concat(intelligence.rules);samples=pictures;types.forEach(x=>{const opt=document.createElement('option');opt.value=x;opt.textContent=x;$('movementType').appendChild(opt);});
  const brands=[...new Set(intelligence.rules.map(r=>r.brand).concat(intelligence.safety.map(r=>r.brand)))].sort();$('otherBrandButtons').innerHTML=brands.filter(x=>!['TUDOR','ROLEX','OMEGA','BREITLING','CARTIER','TAGHEUER'].includes(normalize(x))).map(x=>'<button type="button" data-brand-choice="'+esc(x)+'" aria-pressed="false">'+esc(x)+'</button>').join('');renderReferences();
  let draft;try{draft=JSON.parse(localStorage.getItem('benchauth.draft'));}catch{}
  if(draft){inspectionId=draft.inspectionId||inspectionId;for(const [k,v]of Object.entries(draft.values||{}))if($(k))$(k).value=v;document.querySelectorAll('#conditions input').forEach(x=>x.checked=draft.conditions?.includes(x.value));(draft.components||[]).forEach((v,i)=>$('component'+i).value=v);$('note').value=draft.note||'';noteDirty=!!draft.noteDirty;pending=draft.pending||null;pendingResearch=draft.pendingResearch||null;enforceSafety();if(pending){lockBench(true);$('complete').textContent='Retry saving this inspection';}status('Previous unsaved inspection draft restored.');}

@@ -1,0 +1,16 @@
+import fs from 'node:fs';
+import vm from 'node:vm';
+import assert from 'node:assert/strict';
+const script=fs.readFileSync(new URL('../bench.js',import.meta.url),'utf8');
+const markup=fs.readFileSync(new URL('../index.html',import.meta.url),'utf8');
+assert.ok(markup.indexOf('id="rolexClasp"')<markup.indexOf('id="inspectionPanel"'));
+const nodes=Object.fromEntries(['brand','clasp','claspReminder','claspReminderText','claspContinue','claspEnter'].map(id=>[id,{value:'',focus(){this.focused=true},scrollIntoView(){this.scrolled=true},showModal(){this.open=true},close(){this.open=false}}]));
+const context=vm.createContext({$:id=>nodes[id],normalize:s=>s.toUpperCase(),matchMedia:()=>({matches:true})});
+vm.runInContext(script.slice(script.indexOf('async function confirmMissingClasp'),script.indexOf('\nfunction syncBrandButtons')),context);
+nodes.brand.value='Rolex';
+let result=context.confirmMissingClasp('copy');assert.equal(nodes.claspReminder.open,true);assert.equal(nodes.claspContinue.textContent,'Copy anyway');nodes.claspEnter.onclick();assert.equal(await result,false);assert.equal(nodes.clasp.focused,true);assert.equal(nodes.clasp.scrolled,true);
+result=context.confirmMissingClasp('save');assert.equal(nodes.claspContinue.textContent,'Save anyway');nodes.claspContinue.onclick();assert.equal(await result,true);assert.equal(nodes.claspReminder.open,false);
+result=context.confirmMissingClasp();nodes.claspReminder.oncancel({preventDefault(){}});assert.equal(await result,false);
+nodes.clasp.value='ABC';assert.equal(await context.confirmMissingClasp('copy'),true);assert.equal(nodes.claspReminder.open,false);
+nodes.clasp.value='';nodes.brand.value='Tudor';assert.equal(await context.confirmMissingClasp('copy'),true);
+console.log('Clasp reminder: safe return, explicit override, Escape, entered-code and non-Rolex bypass passed.');
