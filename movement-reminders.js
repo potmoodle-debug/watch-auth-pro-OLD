@@ -1,4 +1,4 @@
-+import {normalize} from './core.js?v=helpers01';
+import {normalize} from './core.js?v=helpers01';
   const RULES = [
     {
       brands: ['TAG Heuer', 'Heuer', 'Breitling', 'Hamilton'],
