@@ -1,0 +1,823 @@
+{
+  "version": 1,
+  "auction": "Bukowskis Important Timepieces 671",
+  "source": "https://www.bukowskis.com/en/auctions/671/lots",
+  "catalogueLotsScanned": 160,
+  "matchingLotsFound": 38,
+  "candidateImagesDownloaded": 404,
+  "note": "Download and HTTP success do not establish visual review. Only explicitly selected research entries below have a four-category review; other matching lots remain candidates. Private paperwork is not attached. Existing IW370601 lot 1021 research is recorded separately in photographs.json.",
+  "reviewedLots": [
+    {
+      "brand": "ROLEX",
+      "reference": "1803",
+      "lot": 1003,
+      "source": "https://www.bukowskis.com/en/auctions/671/1003-rolex-day-date-pie-pan-ca-1971",
+      "galleryImages": 12,
+      "selectedPhotographIds": [
+        "bukowskis-1803-front",
+        "bukowskis-1803-caseback",
+        "bukowskis-1803-braceletClasp"
+      ],
+      "limitations": "Visible age and bracelet stretch; this specimen has a President clasp documented as 1-71/53.",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00"
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "16520",
+      "lot": 1005,
+      "source": "https://www.bukowskis.com/en/auctions/671/1005-rolex-cosmograph-daytona-rolex-cpo-ca-1997",
+      "galleryImages": 14,
+      "selectedPhotographIds": [
+        "bukowskis-16520-front",
+        "bukowskis-16520-caseback",
+        "bukowskis-16520-braceletClasp"
+      ],
+      "limitations": "Auction documents Oyster 78390-Z4/503B and calibre 4030; no movement is published. The shared internal back number 16500 does not change the entered model.",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00"
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "5513",
+      "lot": 1006,
+      "source": "https://www.bukowskis.com/en/auctions/671/1006-rolex-submariner-maxi-iv-dial-ca-1982",
+      "galleryImages": 7,
+      "selectedPhotographIds": [
+        "bukowskis-5513-front",
+        "bukowskis-5513-caseback",
+        "bukowskis-5513-braceletClasp"
+      ],
+      "limitations": "Hands and dial lume have different patina. The documented 93150-J9/580 clasp is circa 1985, later than the watch; do not use its date as a factory-original requirement.",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00"
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "16600",
+      "lot": 1028,
+      "source": "https://www.bukowskis.com/en/auctions/671/1028-rolex-sea-dweller-ca-2004",
+      "galleryImages": 12,
+      "selectedPhotographIds": [
+        "bukowskis-16600-front",
+        "bukowskis-16600-caseback",
+        "bukowskis-16600-braceletClasp"
+      ],
+      "limitations": "Compare date without a Cyclops and the closed back’s gas-escape-valve inscription. Auction documents 93160A-EO8 bracelet.",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00"
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "1601",
+      "lot": 1036,
+      "source": "https://www.bukowskis.com/en/auctions/671/1036-rolex-datejust-sigma-dial-ca-1973",
+      "galleryImages": 9,
+      "selectedPhotographIds": [
+        "bukowskis-1601-front",
+        "bukowskis-1601-caseback",
+        "bukowskis-1601-braceletClasp"
+      ],
+      "limitations": "Visible wear and stretch; auction documents Jubilee 62523H-14/455. This gold-bezel specimen does not represent every 1601 material/dial variant.",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00"
+    },
+    {
+      "brand": "IWC",
+      "reference": "IW371417",
+      "lot": 1044,
+      "source": "https://www.bukowskis.com/en/auctions/671/1044-iwc-portuguese-chrono-ca-2007",
+      "galleryImages": 17,
+      "selectedPhotographIds": [
+        "bukowskis-iw371417-front",
+        "bukowskis-iw371417-caseback",
+        "bukowskis-iw371417-braceletClasp"
+      ],
+      "limitations": "Auction records service in 2023 and new pushers in 2026. The outer clasp/strap view does not establish interior clasp codes.",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00"
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "16220",
+      "lot": 1046,
+      "source": "https://www.bukowskis.com/en/auctions/671/1046-rolex-datejust-diamond-dial-ca-1987",
+      "galleryImages": 7,
+      "selectedPhotographIds": [
+        "bukowskis-16220-caseback",
+        "bukowskis-16220-braceletClasp"
+      ],
+      "limitations": "The diamond-dial front is withheld because factory setting is not established. The Jubilee 62510H-Z/555B is circa 1997, later than the watch.",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00"
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "18038",
+      "lot": 1057,
+      "source": "https://www.bukowskis.com/en/auctions/671/1057-rolex-day-date-ca-1985",
+      "galleryImages": 11,
+      "selectedPhotographIds": [
+        "bukowskis-18038-front",
+        "bukowskis-18038-caseback",
+        "bukowskis-18038-braceletClasp"
+      ],
+      "limitations": "Auction documents President 8385/55; visible age and light bracelet stretch. Gold hallmarks belong to this specimen.",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00"
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "6917",
+      "lot": 1060,
+      "source": "https://www.bukowskis.com/en/auctions/671/1060-rolex-date-ca-1983",
+      "galleryImages": 10,
+      "selectedPhotographIds": [
+        "bukowskis-6917-front",
+        "bukowskis-6917-caseback",
+        "bukowskis-6917-braceletClasp"
+      ],
+      "limitations": "26 mm specimen; auction documents Jubilee 62523D-G11/468. Compare the closed back engraving and period folding-clasp construction.",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00"
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "16234",
+      "lot": 1063,
+      "source": "https://www.bukowskis.com/en/auctions/671/1063-rolex-datejust-volvo-ca-2001",
+      "galleryImages": 14,
+      "selectedPhotographIds": [
+        "bukowskis-16234-front",
+        "bukowskis-16234-caseback",
+        "bukowskis-16234-braceletClasp"
+      ],
+      "limitations": "The green reference sticker on the back is removable, not a permanent engraving requirement. Auction documents Jubilee 62510H-DE4/555B.",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00"
+    },
+    {
+      "brand": "CARTIER",
+      "reference": "W25022B9",
+      "lot": 1066,
+      "source": "https://www.bukowskis.com/en/auctions/671/1066-cartier-panthere-ca-2000",
+      "galleryImages": 7,
+      "selectedPhotographIds": [
+        "bukowskis-w25022b9-front",
+        "bukowskis-w25022b9-caseback",
+        "bukowskis-w25022b9-braceletClasp"
+      ],
+      "limitations": "21.5 mm square quartz specimen, documented calibre 157. Compare eight back screws, Cartier engraving and 18K/750 clasp hallmarks. The back’s 10702 marking is not added as an undocumented lookup alias.",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00"
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "126300",
+      "lot": 1067,
+      "source": "https://www.bukowskis.com/en/auctions/671/1067-rolex-datejust-41-slate-dial-ca-2019",
+      "galleryImages": 11,
+      "selectedPhotographIds": [
+        "bukowskis-126300-front",
+        "bukowskis-126300-caseback",
+        "bukowskis-126300-braceletClasp"
+      ],
+      "limitations": "Smooth-bezel specimen on Jubilee 62610-Z5D. Auction notes an incorrect certificate was removed; the discarded certificate is not evidence. No catalogue suffix or Oyster variant is inferred.",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00"
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "16610",
+      "lot": 1078,
+      "source": "https://www.bukowskis.com/en/auctions/671/1078-rolex-submariner-ca-1997",
+      "galleryImages": 10,
+      "selectedPhotographIds": [
+        "bukowskis-16610-front",
+        "bukowskis-16610-caseback",
+        "bukowskis-16610-braceletClasp"
+      ],
+      "limitations": "Compare date Cyclops, black insert and period tritium-marked dial. Auction documents Oyster 93150-Z6/501B.",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00"
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "1655",
+      "lot": 1088,
+      "source": "https://www.bukowskis.com/en/auctions/671/1088-rolex-explorer-ii-freccione-mark-4-dial-mark-3-bezel-ca-1981",
+      "galleryImages": 10,
+      "selectedPhotographIds": [
+        "bukowskis-1655-front",
+        "bukowskis-1655-caseback",
+        "bukowskis-1655-braceletClasp"
+      ],
+      "limitations": "Auction records service in 2019 and Oyster 78360-VE/580. A protective sticker on the back is temporary; specific dial-production variations are not inferred.",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00"
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "16618",
+      "lot": 1091,
+      "source": "https://www.bukowskis.com/en/auctions/671/1091-rolex-submariner-tritium-dial-ca-1995",
+      "galleryImages": 13,
+      "selectedPhotographIds": [
+        "bukowskis-16618-front",
+        "bukowskis-16618-caseback",
+        "bukowskis-16618-braceletClasp"
+      ],
+      "limitations": "Gold 16618 specimen; serial dated circa 1991, sale circa 1995. Auction documents 92908-R6/46B. The shared internal case number 16610 does not justify showing this gold watch for steel 16610.",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00"
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "16750",
+      "lot": 1102,
+      "source": "https://www.bukowskis.com/en/auctions/671/1102-rolex-gmt-master-ca-1981",
+      "galleryImages": 9,
+      "selectedPhotographIds": [
+        "bukowskis-16750-front",
+        "bukowskis-16750-caseback",
+        "bukowskis-16750-braceletClasp"
+      ],
+      "limitations": "Auction notes newer clasp circa 1991, reference 78360-SP1/580, hand patina and back porosity. The later clasp code is not a factory-original requirement.",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00"
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "1675",
+      "lot": 1112,
+      "source": "https://www.bukowskis.com/en/auctions/671/1112-rolex-gmt-master-nipple-dial-ca-1978",
+      "galleryImages": 7,
+      "selectedPhotographIds": [
+        "bukowskis-1675-front",
+        "bukowskis-1675-caseback",
+        "bukowskis-1675-braceletClasp"
+      ],
+      "limitations": "Auction explicitly identifies gold/steel 1675, newer hands and leather with original buckle missing its Rolex crown. This material/dial variant is representative; the damaged buckle is not an intact-marking baseline.",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00"
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "16233",
+      "lot": 1123,
+      "source": "https://www.bukowskis.com/en/auctions/671/1123-rolex-datejust-blue-diamond-vignette-dial-ca-1990",
+      "galleryImages": 9,
+      "selectedPhotographIds": [
+        "bukowskis-16233-caseback",
+        "bukowskis-16233-braceletClasp"
+      ],
+      "limitations": "Diamond-dial front withheld because factory setting is not established. Auction documents 62523H-O5/455B; the shared internal case 16200 is not a lookup alias.",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00"
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "279171",
+      "lot": 1129,
+      "source": "https://www.bukowskis.com/en/auctions/671/1129-rolex-lady-datejust-chocolate-diamond-dial-ca-2017",
+      "galleryImages": 16,
+      "selectedPhotographIds": [
+        "bukowskis-279171-caseback",
+        "bukowskis-279171-braceletClasp"
+      ],
+      "limitations": "Diamond-dial front withheld pending factory-setting provenance. Auction documents 28 mm case, Jubilee 63341-0KY/453/0US and minor crystal damage.",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00"
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "279160",
+      "lot": 1130,
+      "source": "https://www.bukowskis.com/en/auctions/671/1130-rolex-lady-datejust-ca-2018",
+      "galleryImages": 13,
+      "selectedPhotographIds": [
+        "bukowskis-279160-front",
+        "bukowskis-279160-caseback",
+        "bukowskis-279160-braceletClasp"
+      ],
+      "limitations": "28 mm smooth-bezel specimen; auction documents Jubilee 63340-5LX. Compare concealed Crownclasp construction; no full catalogue suffix is inferred.",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00"
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "16030",
+      "lot": 1132,
+      "source": "https://www.bukowskis.com/en/auctions/671/1132-rolex-datejust-ca-1979",
+      "galleryImages": 10,
+      "selectedPhotographIds": [
+        "bukowskis-16030-front",
+        "bukowskis-16030-caseback",
+        "bukowskis-16030-braceletClasp"
+      ],
+      "limitations": "Visible ding on lower-left lug. Auction documents Oyster 78360-VE/558; compare engine-turned bezel and the worn closed back.",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00"
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "25407N",
+      "lot": 1133,
+      "source": "https://www.bukowskis.com/en/auctions/671/1133-tudor-pelagos-39-ca-2023",
+      "galleryImages": 12,
+      "selectedPhotographIds": [
+        "bukowskis-25407n-front",
+        "bukowskis-25407n-caseback",
+        "bukowskis-25407n-braceletClasp"
+      ],
+      "limitations": "39 mm titanium specimen; auction documents MT5400 and bracelet 95817-UZ09. Compare calibre-manufacture/GENEVE back markings and inner clasp. No movement is visible and no M-prefixed catalogue alias is assumed.",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00"
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "16550",
+      "lot": 1136,
+      "source": "https://www.bukowskis.com/en/auctions/671/1136-rolex-explorer-ii-16550-ca-1988",
+      "galleryImages": 7,
+      "selectedPhotographIds": [
+        "bukowskis-16550-front",
+        "bukowskis-16550-caseback",
+        "bukowskis-16550-braceletClasp"
+      ],
+      "limitations": "Auction documents 78360-VC/501B with clasp circa 1978, earlier than the watch, and damaged minute-hand lume. This replacement/period mismatch is not a factory-original clasp requirement.",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00"
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "116233",
+      "lot": 1140,
+      "source": "https://www.bukowskis.com/en/auctions/671/1140-rolex-datejust-36-ca-2017",
+      "galleryImages": 11,
+      "selectedPhotographIds": [
+        "bukowskis-116233-front",
+        "bukowskis-116233-caseback",
+        "bukowskis-116233-braceletClasp"
+      ],
+      "limitations": "Auction documents Jubilee 63603-L7S, service in 2022 and a functioning but slightly crooked crown. This is a used specimen with service history.",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00"
+    },
+    {
+      "brand": "OMEGA",
+      "reference": "310.32.42.50.02.001",
+      "lot": 1149,
+      "source": "https://www.bukowskis.com/en/auctions/671/1149-omega-speedmaster-moonwatch-professional-silver-snoopy-award-50th-anniversary-ca-2023",
+      "galleryImages": 16,
+      "selectedPhotographIds": [
+        "bukowskis-310.32.42.50.02.001-front",
+        "bukowskis-310.32.42.50.02.001-caseback",
+        "bukowskis-310.32.42.50.02.001-braceletClasp"
+      ],
+      "limitations": "Exact reference 310.32.42.50.02.001. Compare Snoopy subdial at 9, blue bezel, animated commemorative closed back and original strap buckle. The back is not an exposed movement photo; calibre 3861 is documented in text only.",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00"
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "16013",
+      "lot": 1151,
+      "source": "https://www.bukowskis.com/en/auctions/671/1151-rolex-datejust-ca-1983",
+      "galleryImages": 7,
+      "selectedPhotographIds": [
+        "bukowskis-16013-front",
+        "bukowskis-16013-caseback",
+        "bukowskis-16013-braceletClasp"
+      ],
+      "limitations": "Auction documents Jubilee 62523H-H2/455 and first-owner-family provenance. Visible wear is specimen condition, not a requirement for every reference.",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00"
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "1680",
+      "lot": 1155,
+      "source": "https://www.bukowskis.com/en/auctions/671/1155-rolex-submariner-ca-1978",
+      "galleryImages": 11,
+      "selectedPhotographIds": [
+        "bukowskis-1680-caseback",
+        "bukowskis-1680-braceletClasp"
+      ],
+      "limitations": "Front withheld as a baseline: source reports damaged dial, worn case and newer bezel insert. The 93150-MA6/580 clasp is circa 2005, much later than the watch; compare construction only, not original date codes.",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00"
+    }
+  ],
+  "withheldLots": [
+    {
+      "lot": 1020,
+      "brand": "ROLEX",
+      "reference": "6605",
+      "source": "https://www.bukowskis.com/en/auctions/671/1020-rolex-datejust-ca-1959",
+      "reviewedAt": "2026-10-08T16:11:24.212924+00:00",
+      "reason": "https://www.bukowskis.com/en/auctions/671/1020-rolex-datejust-ca-1959 — inspected lot description and all seven actual gallery images. Auction explicitly reports a newer dial and smooth bezel not intended for 6605. Withhold front comparison baseline; no opened movement, fully proven original back execution or original clasp construction is established. The leather/gold buckle specimen remains a candidate pending execution evidence."
+    },
+    {
+      "lot": 1076,
+      "brand": "ROLEX",
+      "reference": "1675",
+      "source": "https://www.bukowskis.com/en/auctions/671/1076-rolex-gmt-master-nipple-dial-ca-1970",
+      "status": "candidate not selected",
+      "reason": "Description identifies a steel case with a newer dial intended for gold/steel and newer insert/bracelet; not an exact steel-reference baseline. Alternative lot 1112 is explicitly identified as a gold/steel variant and captioned as representative."
+    }
+  ],
+  "matchingCandidates": [
+    {
+      "lot": "1003",
+      "source": "https://www.bukowskis.com/en/auctions/671/1003-rolex-day-date-pie-pan-ca-1971",
+      "identifiers": [
+        [
+          "ROLEX",
+          "1803"
+        ]
+      ],
+      "galleryImages": 12
+    },
+    {
+      "lot": "1005",
+      "source": "https://www.bukowskis.com/en/auctions/671/1005-rolex-cosmograph-daytona-rolex-cpo-ca-1997",
+      "identifiers": [
+        [
+          "ROLEX",
+          "16520"
+        ]
+      ],
+      "galleryImages": 14
+    },
+    {
+      "lot": "1006",
+      "source": "https://www.bukowskis.com/en/auctions/671/1006-rolex-submariner-maxi-iv-dial-ca-1982",
+      "identifiers": [
+        [
+          "ROLEX",
+          "5513"
+        ]
+      ],
+      "galleryImages": 7
+    },
+    {
+      "lot": "1020",
+      "source": "https://www.bukowskis.com/en/auctions/671/1020-rolex-datejust-ca-1959",
+      "identifiers": [
+        [
+          "ROLEX",
+          "6605"
+        ]
+      ],
+      "galleryImages": 7
+    },
+    {
+      "lot": "1021",
+      "source": "https://www.bukowskis.com/en/auctions/671/1021-iwc-pilot-s-watch-der-fliegerchronograph-ca-2000",
+      "identifiers": [
+        [
+          "IWC",
+          "IW370601"
+        ]
+      ],
+      "galleryImages": 6
+    },
+    {
+      "lot": "1028",
+      "source": "https://www.bukowskis.com/en/auctions/671/1028-rolex-sea-dweller-ca-2004",
+      "identifiers": [
+        [
+          "ROLEX",
+          "16600"
+        ]
+      ],
+      "galleryImages": 12
+    },
+    {
+      "lot": "1036",
+      "source": "https://www.bukowskis.com/en/auctions/671/1036-rolex-datejust-sigma-dial-ca-1973",
+      "identifiers": [
+        [
+          "ROLEX",
+          "1601"
+        ]
+      ],
+      "galleryImages": 9
+    },
+    {
+      "lot": "1044",
+      "source": "https://www.bukowskis.com/en/auctions/671/1044-iwc-portuguese-chrono-ca-2007",
+      "identifiers": [
+        [
+          "IWC",
+          "IW371417"
+        ]
+      ],
+      "galleryImages": 17
+    },
+    {
+      "lot": "1046",
+      "source": "https://www.bukowskis.com/en/auctions/671/1046-rolex-datejust-diamond-dial-ca-1987",
+      "identifiers": [
+        [
+          "ROLEX",
+          "16220"
+        ]
+      ],
+      "galleryImages": 7
+    },
+    {
+      "lot": "1057",
+      "source": "https://www.bukowskis.com/en/auctions/671/1057-rolex-day-date-ca-1985",
+      "identifiers": [
+        [
+          "ROLEX",
+          "18038"
+        ]
+      ],
+      "galleryImages": 11
+    },
+    {
+      "lot": "1060",
+      "source": "https://www.bukowskis.com/en/auctions/671/1060-rolex-date-ca-1983",
+      "identifiers": [
+        [
+          "ROLEX",
+          "6917"
+        ]
+      ],
+      "galleryImages": 10
+    },
+    {
+      "lot": "1063",
+      "source": "https://www.bukowskis.com/en/auctions/671/1063-rolex-datejust-volvo-ca-2001",
+      "identifiers": [
+        [
+          "ROLEX",
+          "16234"
+        ]
+      ],
+      "galleryImages": 14
+    },
+    {
+      "lot": "1066",
+      "source": "https://www.bukowskis.com/en/auctions/671/1066-cartier-panthere-ca-2000",
+      "identifiers": [
+        [
+          "CARTIER",
+          "W25022B9"
+        ]
+      ],
+      "galleryImages": 7
+    },
+    {
+      "lot": "1067",
+      "source": "https://www.bukowskis.com/en/auctions/671/1067-rolex-datejust-41-slate-dial-ca-2019",
+      "identifiers": [
+        [
+          "ROLEX",
+          "126300"
+        ]
+      ],
+      "galleryImages": 11
+    },
+    {
+      "lot": "1073",
+      "source": "https://www.bukowskis.com/en/auctions/671/1073-rolex-day-date-ca-1970",
+      "identifiers": [
+        [
+          "ROLEX",
+          "1803"
+        ]
+      ],
+      "galleryImages": 25
+    },
+    {
+      "lot": "1076",
+      "source": "https://www.bukowskis.com/en/auctions/671/1076-rolex-gmt-master-nipple-dial-ca-1970",
+      "identifiers": [
+        [
+          "ROLEX",
+          "1675"
+        ]
+      ],
+      "galleryImages": 8
+    },
+    {
+      "lot": "1078",
+      "source": "https://www.bukowskis.com/en/auctions/671/1078-rolex-submariner-ca-1997",
+      "identifiers": [
+        [
+          "ROLEX",
+          "16610"
+        ]
+      ],
+      "galleryImages": 10
+    },
+    {
+      "lot": "1084",
+      "source": "https://www.bukowskis.com/en/auctions/671/1084-rolex-submariner-underline-gilt-swiss-only-pointed-crown-guards-provenance-rodriquez-messina-ca-1963",
+      "identifiers": [
+        [
+          "ROLEX",
+          "5513"
+        ]
+      ],
+      "galleryImages": 13
+    },
+    {
+      "lot": "1088",
+      "source": "https://www.bukowskis.com/en/auctions/671/1088-rolex-explorer-ii-freccione-mark-4-dial-mark-3-bezel-ca-1981",
+      "identifiers": [
+        [
+          "ROLEX",
+          "1655"
+        ]
+      ],
+      "galleryImages": 10
+    },
+    {
+      "lot": "1091",
+      "source": "https://www.bukowskis.com/en/auctions/671/1091-rolex-submariner-tritium-dial-ca-1995",
+      "identifiers": [
+        [
+          "ROLEX",
+          "16618"
+        ]
+      ],
+      "galleryImages": 13
+    },
+    {
+      "lot": "1102",
+      "source": "https://www.bukowskis.com/en/auctions/671/1102-rolex-gmt-master-ca-1981",
+      "identifiers": [
+        [
+          "ROLEX",
+          "16750"
+        ]
+      ],
+      "galleryImages": 9
+    },
+    {
+      "lot": "1112",
+      "source": "https://www.bukowskis.com/en/auctions/671/1112-rolex-gmt-master-nipple-dial-ca-1978",
+      "identifiers": [
+        [
+          "ROLEX",
+          "1675"
+        ]
+      ],
+      "galleryImages": 7
+    },
+    {
+      "lot": "1117",
+      "source": "https://www.bukowskis.com/en/auctions/671/1117-rolex-day-date-buckley-dial-ca-1976",
+      "identifiers": [
+        [
+          "ROLEX",
+          "1803"
+        ]
+      ],
+      "galleryImages": 8
+    },
+    {
+      "lot": "1123",
+      "source": "https://www.bukowskis.com/en/auctions/671/1123-rolex-datejust-blue-diamond-vignette-dial-ca-1990",
+      "identifiers": [
+        [
+          "ROLEX",
+          "16233"
+        ]
+      ],
+      "galleryImages": 9
+    },
+    {
+      "lot": "1125",
+      "source": "https://www.bukowskis.com/en/auctions/671/1125-rolex-datejust-ca-1962",
+      "identifiers": [
+        [
+          "ROLEX",
+          "1601"
+        ]
+      ],
+      "galleryImages": 6
+    },
+    {
+      "lot": "1129",
+      "source": "https://www.bukowskis.com/en/auctions/671/1129-rolex-lady-datejust-chocolate-diamond-dial-ca-2017",
+      "identifiers": [
+        [
+          "ROLEX",
+          "279171"
+        ]
+      ],
+      "galleryImages": 16
+    },
+    {
+      "lot": "1130",
+      "source": "https://www.bukowskis.com/en/auctions/671/1130-rolex-lady-datejust-ca-2018",
+      "identifiers": [
+        [
+          "ROLEX",
+          "279160"
+        ]
+      ],
+      "galleryImages": 13
+    },
+    {
+      "lot": "1132",
+      "source": "https://www.bukowskis.com/en/auctions/671/1132-rolex-datejust-ca-1979",
+      "identifiers": [
+        [
+          "ROLEX",
+          "16030"
+        ]
+      ],
+      "galleryImages": 10
+    },
+    {
+      "lot": "1133",
+      "source": "https://www.bukowskis.com/en/auctions/671/1133-tudor-pelagos-39-ca-2023",
+      "identifiers": [
+        [
+          "TUDOR",
+          "25407N"
+        ]
+      ],
+      "galleryImages": 12
+    },
+    {
+      "lot": "1135",
+      "source": "https://www.bukowskis.com/en/auctions/671/1135-rolex-day-date-pie-pan-ca-1975",
+      "identifiers": [
+        [
+          "ROLEX",
+          "1803"
+        ]
+      ],
+      "galleryImages": 16
+    },
+    {
+      "lot": "1136",
+      "source": "https://www.bukowskis.com/en/auctions/671/1136-rolex-explorer-ii-16550-ca-1988",
+      "identifiers": [
+        [
+          "ROLEX",
+          "16550"
+        ]
+      ],
+      "galleryImages": 7
+    },
+    {
+      "lot": "1137",
+      "source": "https://www.bukowskis.com/en/auctions/671/1137-rolex-datejust-linen-dial-ca-1978",
+      "identifiers": [
+        [
+          "ROLEX",
+          "1601"
+        ]
+      ],
+      "galleryImages": 7
+    },
+    {
+      "lot": "1140",
+      "source": "https://www.bukowskis.com/en/auctions/671/1140-rolex-datejust-36-ca-2017",
+      "identifiers": [
+        [
+          "ROLEX",
+          "116233"
+        ]
+      ],
+      "galleryImages": 11
+    },
+    {
+      "lot": "1149",
+      "source": "https://www.bukowskis.com/en/auctions/671/1149-omega-speedmaster-moonwatch-professional-silver-snoopy-award-50th-anniversary-ca-2023",
+      "identifiers": [
+        [
+          "OMEGA",
+          "310.32.42.50.02.001"
+        ]
+      ],
+      "galleryImages": 16
+    },
+    {
+      "lot": "1151",
+      "source": "https://www.bukowskis.com/en/auctions/671/1151-rolex-datejust-ca-1983",
+      "identifiers": [
+        [
+          "ROLEX",
+          "16013"
+        ]
+      ],
+      "galleryImages": 7
+    },
+    {
+      "lot": "1154",
+      "source": "https://www.bukowskis.com/en/auctions/671/1154-rolex-day-date-the-three-crowns-cal-1555-swedish-day-ca-1963",
+      "identifiers": [
+        [
+          "ROLEX",
+          "1803"
+        ]
+      ],
+      "galleryImages": 9
+    },
+    {
+      "lot": "1155",
+      "source": "https://www.bukowskis.com/en/auctions/671/1155-rolex-submariner-ca-1978",
+      "identifiers": [
+        [
+          "ROLEX",
+          "1680"
+        ]
+      ],
+      "galleryImages": 11
+    },
+    {
+      "lot": "1159",
+      "source": "https://www.bukowskis.com/en/auctions/671/1159-rolex-datejust-wood-dial-ca-1985",
+      "identifiers": [
+        [
+          "ROLEX",
+          "16013"
+        ]
+      ],
+      "galleryImages": 7
+    }
+  ]
+}

@@ -1,5 +1,1691 @@
 {
   "version": 1,
-  "identifierReviews": [],
-  "sourceRecordReviews": []
+  "identifierReviews": [
+    {
+      "brand": "BREITLING",
+      "reference": "A13320",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Soheritage_170.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Visually inspected breitlingsource-a13320-cso-03-front, with variant/period restrictions in captions.",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Soheritage_170.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Model calibre identified but no photographed movement execution tied to this case reference in these galleries; generic shared-calibre images withheld.",
+          "finding": "No verified photograph in inspected source set; further auction/dealer research remains open."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Soheritage_170.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Gallery views do not independently document this category for the entered case reference; front bracelet visibility does not establish clasp markings.",
+          "finding": "No verified photograph in inspected source set; further auction/dealer research remains open."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Soheritage_170.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Gallery views do not independently document this category for the entered case reference; front bracelet visibility does not establish clasp markings.",
+          "finding": "No verified photograph in inspected source set; further auction/dealer research remains open."
+        }
+      }
+    },
+    {
+      "brand": "BREITLING",
+      "reference": "A13340",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Superocean_75.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Visually inspected legacy-029, breitlingsource-a13340-cso-02-front, with variant/period restrictions in captions.",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Superocean_75.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Model calibre identified but no photographed movement execution tied to this case reference in these galleries; generic shared-calibre images withheld.",
+          "finding": "No verified photograph in inspected source set; further auction/dealer research remains open."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Superocean_75.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Gallery views do not independently document this category for the entered case reference; front bracelet visibility does not establish clasp markings.",
+          "finding": "No verified photograph in inspected source set; further auction/dealer research remains open."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Superocean_75.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Gallery views do not independently document this category for the entered case reference; front bracelet visibility does not establish clasp markings.",
+          "finding": "No verified photograph in inspected source set; further auction/dealer research remains open."
+        }
+      }
+    },
+    {
+      "brand": "BREITLING",
+      "reference": "A13356",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Chronomat_185.html, https://www.breitlingsource.com/watch_details/Chronomat_260.html, https://www.breitlingsource.com/watch_details/Chronomat_3.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Visually inspected breitlingsource-a13356-chronomat-evo-04-front, with variant/period restrictions in captions.",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Chronomat_185.html, https://www.breitlingsource.com/watch_details/Chronomat_260.html, https://www.breitlingsource.com/watch_details/Chronomat_3.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Model calibre identified but no photographed movement execution tied to this case reference in these galleries; generic shared-calibre images withheld.",
+          "finding": "No verified photograph in inspected source set; further auction/dealer research remains open."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Chronomat_185.html, https://www.breitlingsource.com/watch_details/Chronomat_260.html, https://www.breitlingsource.com/watch_details/Chronomat_3.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Gallery views do not independently document this category for the entered case reference; front bracelet visibility does not establish clasp markings.",
+          "finding": "No verified photograph in inspected source set; further auction/dealer research remains open."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Chronomat_185.html, https://www.breitlingsource.com/watch_details/Chronomat_260.html, https://www.breitlingsource.com/watch_details/Chronomat_3.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Gallery views do not independently document this category for the entered case reference; front bracelet visibility does not establish clasp markings.",
+          "finding": "No verified photograph in inspected source set; further auction/dealer research remains open."
+        }
+      }
+    },
+    {
+      "brand": "BREITLING",
+      "reference": "A17320",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Soheritage_126.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Visually inspected breitlingsource-a17320-superocean-heritage-03-front, with variant/period restrictions in captions.",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Soheritage_126.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Model calibre identified but no photographed movement execution tied to this case reference in these galleries; generic shared-calibre images withheld.",
+          "finding": "No verified photograph in inspected source set; further auction/dealer research remains open."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Soheritage_126.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Visually inspected breitlingsource-a17320-superocean-heritage-04-caseback, with variant/period restrictions in captions.",
+          "finding": "verified representative specimen"
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Soheritage_126.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Gallery views do not independently document this category for the entered case reference; front bracelet visibility does not establish clasp markings.",
+          "finding": "No verified photograph in inspected source set; further auction/dealer research remains open."
+        }
+      }
+    },
+    {
+      "brand": "BREITLING",
+      "reference": "A17330",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Avenger_181.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Visually inspected breitlingsource-a17330-seawolf-steel-02-front, with variant/period restrictions in captions.",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Avenger_181.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Model calibre identified but no photographed movement execution tied to this case reference in these galleries; generic shared-calibre images withheld.",
+          "finding": "No verified photograph in inspected source set; further auction/dealer research remains open."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Avenger_181.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Gallery views do not independently document this category for the entered case reference; front bracelet visibility does not establish clasp markings.",
+          "finding": "No verified photograph in inspected source set; further auction/dealer research remains open."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Avenger_181.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Gallery views do not independently document this category for the entered case reference; front bracelet visibility does not establish clasp markings.",
+          "finding": "No verified photograph in inspected source set; further auction/dealer research remains open."
+        }
+      }
+    },
+    {
+      "brand": "BREITLING",
+      "reference": "A17360",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Superocean_101.html, https://www.breitlingsource.com/watch_details/Superocean_16.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Visually inspected breitlingsource-a17360-so-current-01-front, breitlingsource-a17360-superocean-02-front, with variant/period restrictions in captions.",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Superocean_101.html, https://www.breitlingsource.com/watch_details/Superocean_16.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Model calibre identified but no photographed movement execution tied to this case reference in these galleries; generic shared-calibre images withheld.",
+          "finding": "No verified photograph in inspected source set; further auction/dealer research remains open."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Superocean_101.html, https://www.breitlingsource.com/watch_details/Superocean_16.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Visually inspected breitlingsource-a17360-so-current-02-caseback, with variant/period restrictions in captions.",
+          "finding": "verified representative specimen"
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Superocean_101.html, https://www.breitlingsource.com/watch_details/Superocean_16.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Gallery views do not independently document this category for the entered case reference; front bracelet visibility does not establish clasp markings.",
+          "finding": "No verified photograph in inspected source set; further auction/dealer research remains open."
+        }
+      }
+    },
+    {
+      "brand": "BREITLING",
+      "reference": "A24322",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Navitimer_52.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Visually inspected breitlingsource-a24322-navitimer-world-01-front, with variant/period restrictions in captions.",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Navitimer_52.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Model calibre identified but no photographed movement execution tied to this case reference in these galleries; generic shared-calibre images withheld.",
+          "finding": "No verified photograph in inspected source set; further auction/dealer research remains open."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Navitimer_52.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Visually inspected breitlingsource-a24322-navitimer-world-02-caseback, with variant/period restrictions in captions.",
+          "finding": "verified representative specimen"
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Navitimer_52.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Gallery views do not independently document this category for the entered case reference; front bracelet visibility does not establish clasp markings.",
+          "finding": "No verified photograph in inspected source set; further auction/dealer research remains open."
+        }
+      }
+    },
+    {
+      "brand": "BREITLING",
+      "reference": "A32360",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Limited_213.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Visually inspected breitlingsource-a32360-steelfish-gmt-01-front, with variant/period restrictions in captions.",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Limited_213.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Model calibre identified but no photographed movement execution tied to this case reference in these galleries; generic shared-calibre images withheld.",
+          "finding": "No verified photograph in inspected source set; further auction/dealer research remains open."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Limited_213.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Gallery views do not independently document this category for the entered case reference; front bracelet visibility does not establish clasp markings.",
+          "finding": "No verified photograph in inspected source set; further auction/dealer research remains open."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Limited_213.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Gallery views do not independently document this category for the entered case reference; front bracelet visibility does not establish clasp markings.",
+          "finding": "No verified photograph in inspected source set; further auction/dealer research remains open."
+        }
+      }
+    },
+    {
+      "brand": "BREITLING",
+      "reference": "A74380",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Colt_61.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Visually inspected breitlingsource-a74380-colt-quartz2-01-front, with variant/period restrictions in captions.",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Colt_61.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Model calibre identified but no photographed movement execution tied to this case reference in these galleries; generic shared-calibre images withheld.",
+          "finding": "No verified photograph in inspected source set; further auction/dealer research remains open."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Colt_61.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Visually inspected breitlingsource-a74380-colt-quartz2-02-caseback, with variant/period restrictions in captions.",
+          "finding": "verified representative specimen"
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Colt_61.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Visually inspected breitlingsource-a74380-colt-quartz2-02-braceletClasp, with variant/period restrictions in captions.",
+          "finding": "verified representative specimen"
+        }
+      }
+    },
+    {
+      "brand": "BREITLING",
+      "reference": "AB0110",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Chronomat_195.html, https://www.breitlingsource.com/watch_details/Chronomat_254.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Visually inspected breitlingsource-ab0110-chronomat-b01-03-front, with variant/period restrictions in captions.",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Chronomat_195.html, https://www.breitlingsource.com/watch_details/Chronomat_254.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Model calibre identified but no photographed movement execution tied to this case reference in these galleries; generic shared-calibre images withheld.",
+          "finding": "No verified photograph in inspected source set; further auction/dealer research remains open."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Chronomat_195.html, https://www.breitlingsource.com/watch_details/Chronomat_254.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Gallery views do not independently document this category for the entered case reference; front bracelet visibility does not establish clasp markings.",
+          "finding": "No verified photograph in inspected source set; further auction/dealer research remains open."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Chronomat_195.html, https://www.breitlingsource.com/watch_details/Chronomat_254.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Gallery views do not independently document this category for the entered case reference; front bracelet visibility does not establish clasp markings.",
+          "finding": "No verified photograph in inspected source set; further auction/dealer research remains open."
+        }
+      }
+    },
+    {
+      "brand": "BREITLING",
+      "reference": "E79362",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Professional_184.html, https://www.breitlingsource.com/watch_details/Professional_26.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Visually inspected breitlingsource-e79362-aerospace-av-01-front, breitlingsource-e79362-aerospace-av-04-front, with variant/period restrictions in captions.",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Professional_184.html, https://www.breitlingsource.com/watch_details/Professional_26.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Model calibre identified but no photographed movement execution tied to this case reference in these galleries; generic shared-calibre images withheld.",
+          "finding": "No verified photograph in inspected source set; further auction/dealer research remains open."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Professional_184.html, https://www.breitlingsource.com/watch_details/Professional_26.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Gallery views do not independently document this category for the entered case reference; front bracelet visibility does not establish clasp markings.",
+          "finding": "No verified photograph in inspected source set; further auction/dealer research remains open."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "Reviewed public specialist model specifications and every gallery image at https://www.breitlingsource.com/watch_details/Professional_184.html, https://www.breitlingsource.com/watch_details/Professional_26.html. Manufacturer www.breitling.com returns HTTP 403 in this environment. Gallery views do not independently document this category for the entered case reference; front bracelet visibility does not establish clasp markings.",
+          "finding": "No verified photograph in inspected source set; further auction/dealer research remains open."
+        }
+      }
+    },
+    {
+      "brand": "IWC",
+      "reference": "IW370601",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "https://www.bukowskis.com/en/auctions/671/1021-iwc-pilot-s-watch-der-fliegerchronograph-ca-2000 — inspected all six photographs and lot description. Verified matching photographed circa-2000 auction specimen, with variant and serial limitations in its caption.",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "https://www.bukowskis.com/en/auctions/671/1021-iwc-pilot-s-watch-der-fliegerchronograph-ca-2000 — inspected all six photographs and lot description. Source explicitly says movement pictures are available upon request; none is published. The page also documents three period-dependent calibres (7902/7912/7922); a generic 7750 image cannot establish this execution.",
+          "finding": "No published movement photograph; request-only image not obtained."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "https://www.bukowskis.com/en/auctions/671/1021-iwc-pilot-s-watch-der-fliegerchronograph-ca-2000 — inspected all six photographs and lot description. Verified matching photographed circa-2000 auction specimen, with variant and serial limitations in its caption.",
+          "finding": "verified representative specimen"
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+          "evidence": "https://www.bukowskis.com/en/auctions/671/1021-iwc-pilot-s-watch-der-fliegerchronograph-ca-2000 — inspected all six photographs and lot description. Verified matching photographed circa-2000 auction specimen, with variant and serial limitations in its caption.",
+          "finding": "verified representative specimen"
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "1803",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1003-rolex-day-date-pie-pan-ca-1971, lot identification and gallery pixels. Visible age and bracelet stretch; this specimen has a President clasp documented as 1-71/53. Visually inspected bukowskis-1803-front."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1003-rolex-day-date-pie-pan-ca-1971, lot identification and gallery pixels. Visible age and bracelet stretch; this specimen has a President clasp documented as 1-71/53. Calibre identification in source text does not prove photographed execution; no movement image is published."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1003-rolex-day-date-pie-pan-ca-1971, lot identification and gallery pixels. Visible age and bracelet stretch; this specimen has a President clasp documented as 1-71/53. Visually inspected bukowskis-1803-caseback."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1003-rolex-day-date-pie-pan-ca-1971, lot identification and gallery pixels. Visible age and bracelet stretch; this specimen has a President clasp documented as 1-71/53. Visually inspected bukowskis-1803-braceletClasp."
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "16520",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1005-rolex-cosmograph-daytona-rolex-cpo-ca-1997, lot identification and gallery pixels. Auction documents Oyster 78390-Z4/503B and calibre 4030; no movement is published. The shared internal back number 16500 does not change the entered model. Visually inspected bukowskis-16520-front."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1005-rolex-cosmograph-daytona-rolex-cpo-ca-1997, lot identification and gallery pixels. Auction documents Oyster 78390-Z4/503B and calibre 4030; no movement is published. The shared internal back number 16500 does not change the entered model. Calibre identification in source text does not prove photographed execution; no movement image is published."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1005-rolex-cosmograph-daytona-rolex-cpo-ca-1997, lot identification and gallery pixels. Auction documents Oyster 78390-Z4/503B and calibre 4030; no movement is published. The shared internal back number 16500 does not change the entered model. Visually inspected bukowskis-16520-caseback."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1005-rolex-cosmograph-daytona-rolex-cpo-ca-1997, lot identification and gallery pixels. Auction documents Oyster 78390-Z4/503B and calibre 4030; no movement is published. The shared internal back number 16500 does not change the entered model. Visually inspected bukowskis-16520-braceletClasp."
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "5513",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1006-rolex-submariner-maxi-iv-dial-ca-1982, lot identification and gallery pixels. Hands and dial lume have different patina. The documented 93150-J9/580 clasp is circa 1985, later than the watch; do not use its date as a factory-original requirement. Visually inspected bukowskis-5513-front."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1006-rolex-submariner-maxi-iv-dial-ca-1982, lot identification and gallery pixels. Hands and dial lume have different patina. The documented 93150-J9/580 clasp is circa 1985, later than the watch; do not use its date as a factory-original requirement. Calibre identification in source text does not prove photographed execution; no movement image is published."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1006-rolex-submariner-maxi-iv-dial-ca-1982, lot identification and gallery pixels. Hands and dial lume have different patina. The documented 93150-J9/580 clasp is circa 1985, later than the watch; do not use its date as a factory-original requirement. Visually inspected bukowskis-5513-caseback."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1006-rolex-submariner-maxi-iv-dial-ca-1982, lot identification and gallery pixels. Hands and dial lume have different patina. The documented 93150-J9/580 clasp is circa 1985, later than the watch; do not use its date as a factory-original requirement. Visually inspected bukowskis-5513-braceletClasp."
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "16600",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1028-rolex-sea-dweller-ca-2004, lot identification and gallery pixels. Compare date without a Cyclops and the closed back’s gas-escape-valve inscription. Auction documents 93160A-EO8 bracelet. Visually inspected bukowskis-16600-front."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1028-rolex-sea-dweller-ca-2004, lot identification and gallery pixels. Compare date without a Cyclops and the closed back’s gas-escape-valve inscription. Auction documents 93160A-EO8 bracelet. Calibre identification in source text does not prove photographed execution; no movement image is published."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1028-rolex-sea-dweller-ca-2004, lot identification and gallery pixels. Compare date without a Cyclops and the closed back’s gas-escape-valve inscription. Auction documents 93160A-EO8 bracelet. Visually inspected bukowskis-16600-caseback."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1028-rolex-sea-dweller-ca-2004, lot identification and gallery pixels. Compare date without a Cyclops and the closed back’s gas-escape-valve inscription. Auction documents 93160A-EO8 bracelet. Visually inspected bukowskis-16600-braceletClasp."
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "1601",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1036-rolex-datejust-sigma-dial-ca-1973, lot identification and gallery pixels. Visible wear and stretch; auction documents Jubilee 62523H-14/455. This gold-bezel specimen does not represent every 1601 material/dial variant. Visually inspected bukowskis-1601-front."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1036-rolex-datejust-sigma-dial-ca-1973, lot identification and gallery pixels. Visible wear and stretch; auction documents Jubilee 62523H-14/455. This gold-bezel specimen does not represent every 1601 material/dial variant. Calibre identification in source text does not prove photographed execution; no movement image is published."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1036-rolex-datejust-sigma-dial-ca-1973, lot identification and gallery pixels. Visible wear and stretch; auction documents Jubilee 62523H-14/455. This gold-bezel specimen does not represent every 1601 material/dial variant. Visually inspected bukowskis-1601-caseback."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1036-rolex-datejust-sigma-dial-ca-1973, lot identification and gallery pixels. Visible wear and stretch; auction documents Jubilee 62523H-14/455. This gold-bezel specimen does not represent every 1601 material/dial variant. Visually inspected bukowskis-1601-braceletClasp."
+        }
+      }
+    },
+    {
+      "brand": "IWC",
+      "reference": "IW371417",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1044-iwc-portuguese-chrono-ca-2007, lot identification and gallery pixels. Auction records service in 2023 and new pushers in 2026. The outer clasp/strap view does not establish interior clasp codes. Visually inspected bukowskis-iw371417-front."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1044-iwc-portuguese-chrono-ca-2007, lot identification and gallery pixels. Auction records service in 2023 and new pushers in 2026. The outer clasp/strap view does not establish interior clasp codes. Calibre identification in source text does not prove photographed execution; no movement image is published."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1044-iwc-portuguese-chrono-ca-2007, lot identification and gallery pixels. Auction records service in 2023 and new pushers in 2026. The outer clasp/strap view does not establish interior clasp codes. Visually inspected bukowskis-iw371417-caseback."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1044-iwc-portuguese-chrono-ca-2007, lot identification and gallery pixels. Auction records service in 2023 and new pushers in 2026. The outer clasp/strap view does not establish interior clasp codes. Visually inspected bukowskis-iw371417-braceletClasp."
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "16220",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1046-rolex-datejust-diamond-dial-ca-1987, lot identification and gallery pixels. The diamond-dial front is withheld because factory setting is not established. The Jubilee 62510H-Z/555B is circa 1997, later than the watch. Candidate withheld; no supported baseline image selected for this category."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1046-rolex-datejust-diamond-dial-ca-1987, lot identification and gallery pixels. The diamond-dial front is withheld because factory setting is not established. The Jubilee 62510H-Z/555B is circa 1997, later than the watch. Calibre identification in source text does not prove photographed execution; no movement image is published."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1046-rolex-datejust-diamond-dial-ca-1987, lot identification and gallery pixels. The diamond-dial front is withheld because factory setting is not established. The Jubilee 62510H-Z/555B is circa 1997, later than the watch. Visually inspected bukowskis-16220-caseback."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1046-rolex-datejust-diamond-dial-ca-1987, lot identification and gallery pixels. The diamond-dial front is withheld because factory setting is not established. The Jubilee 62510H-Z/555B is circa 1997, later than the watch. Visually inspected bukowskis-16220-braceletClasp."
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "18038",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1057-rolex-day-date-ca-1985, lot identification and gallery pixels. Auction documents President 8385/55; visible age and light bracelet stretch. Gold hallmarks belong to this specimen. Visually inspected bukowskis-18038-front."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1057-rolex-day-date-ca-1985, lot identification and gallery pixels. Auction documents President 8385/55; visible age and light bracelet stretch. Gold hallmarks belong to this specimen. Calibre identification in source text does not prove photographed execution; no movement image is published."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1057-rolex-day-date-ca-1985, lot identification and gallery pixels. Auction documents President 8385/55; visible age and light bracelet stretch. Gold hallmarks belong to this specimen. Visually inspected bukowskis-18038-caseback."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1057-rolex-day-date-ca-1985, lot identification and gallery pixels. Auction documents President 8385/55; visible age and light bracelet stretch. Gold hallmarks belong to this specimen. Visually inspected bukowskis-18038-braceletClasp."
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "6917",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1060-rolex-date-ca-1983, lot identification and gallery pixels. 26 mm specimen; auction documents Jubilee 62523D-G11/468. Compare the closed back engraving and period folding-clasp construction. Visually inspected bukowskis-6917-front."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1060-rolex-date-ca-1983, lot identification and gallery pixels. 26 mm specimen; auction documents Jubilee 62523D-G11/468. Compare the closed back engraving and period folding-clasp construction. Calibre identification in source text does not prove photographed execution; no movement image is published."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1060-rolex-date-ca-1983, lot identification and gallery pixels. 26 mm specimen; auction documents Jubilee 62523D-G11/468. Compare the closed back engraving and period folding-clasp construction. Visually inspected bukowskis-6917-caseback."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1060-rolex-date-ca-1983, lot identification and gallery pixels. 26 mm specimen; auction documents Jubilee 62523D-G11/468. Compare the closed back engraving and period folding-clasp construction. Visually inspected bukowskis-6917-braceletClasp."
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "16234",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1063-rolex-datejust-volvo-ca-2001, lot identification and gallery pixels. The green reference sticker on the back is removable, not a permanent engraving requirement. Auction documents Jubilee 62510H-DE4/555B. Visually inspected bukowskis-16234-front."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1063-rolex-datejust-volvo-ca-2001, lot identification and gallery pixels. The green reference sticker on the back is removable, not a permanent engraving requirement. Auction documents Jubilee 62510H-DE4/555B. Calibre identification in source text does not prove photographed execution; no movement image is published."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1063-rolex-datejust-volvo-ca-2001, lot identification and gallery pixels. The green reference sticker on the back is removable, not a permanent engraving requirement. Auction documents Jubilee 62510H-DE4/555B. Visually inspected bukowskis-16234-caseback."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1063-rolex-datejust-volvo-ca-2001, lot identification and gallery pixels. The green reference sticker on the back is removable, not a permanent engraving requirement. Auction documents Jubilee 62510H-DE4/555B. Visually inspected bukowskis-16234-braceletClasp."
+        }
+      }
+    },
+    {
+      "brand": "CARTIER",
+      "reference": "W25022B9",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1066-cartier-panthere-ca-2000, lot identification and gallery pixels. 21.5 mm square quartz specimen, documented calibre 157. Compare eight back screws, Cartier engraving and 18K/750 clasp hallmarks. The back’s 10702 marking is not added as an undocumented lookup alias. Visually inspected bukowskis-w25022b9-front."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1066-cartier-panthere-ca-2000, lot identification and gallery pixels. 21.5 mm square quartz specimen, documented calibre 157. Compare eight back screws, Cartier engraving and 18K/750 clasp hallmarks. The back’s 10702 marking is not added as an undocumented lookup alias. Calibre identification in source text does not prove photographed execution; no movement image is published."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1066-cartier-panthere-ca-2000, lot identification and gallery pixels. 21.5 mm square quartz specimen, documented calibre 157. Compare eight back screws, Cartier engraving and 18K/750 clasp hallmarks. The back’s 10702 marking is not added as an undocumented lookup alias. Visually inspected bukowskis-w25022b9-caseback."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1066-cartier-panthere-ca-2000, lot identification and gallery pixels. 21.5 mm square quartz specimen, documented calibre 157. Compare eight back screws, Cartier engraving and 18K/750 clasp hallmarks. The back’s 10702 marking is not added as an undocumented lookup alias. Visually inspected bukowskis-w25022b9-braceletClasp."
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "126300",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1067-rolex-datejust-41-slate-dial-ca-2019, lot identification and gallery pixels. Smooth-bezel specimen on Jubilee 62610-Z5D. Auction notes an incorrect certificate was removed; the discarded certificate is not evidence. No catalogue suffix or Oyster variant is inferred. Visually inspected bukowskis-126300-front."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1067-rolex-datejust-41-slate-dial-ca-2019, lot identification and gallery pixels. Smooth-bezel specimen on Jubilee 62610-Z5D. Auction notes an incorrect certificate was removed; the discarded certificate is not evidence. No catalogue suffix or Oyster variant is inferred. Calibre identification in source text does not prove photographed execution; no movement image is published."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1067-rolex-datejust-41-slate-dial-ca-2019, lot identification and gallery pixels. Smooth-bezel specimen on Jubilee 62610-Z5D. Auction notes an incorrect certificate was removed; the discarded certificate is not evidence. No catalogue suffix or Oyster variant is inferred. Visually inspected bukowskis-126300-caseback."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1067-rolex-datejust-41-slate-dial-ca-2019, lot identification and gallery pixels. Smooth-bezel specimen on Jubilee 62610-Z5D. Auction notes an incorrect certificate was removed; the discarded certificate is not evidence. No catalogue suffix or Oyster variant is inferred. Visually inspected bukowskis-126300-braceletClasp."
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "16610",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1078-rolex-submariner-ca-1997, lot identification and gallery pixels. Compare date Cyclops, black insert and period tritium-marked dial. Auction documents Oyster 93150-Z6/501B. Visually inspected bukowskis-16610-front."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1078-rolex-submariner-ca-1997, lot identification and gallery pixels. Compare date Cyclops, black insert and period tritium-marked dial. Auction documents Oyster 93150-Z6/501B. Calibre identification in source text does not prove photographed execution; no movement image is published."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1078-rolex-submariner-ca-1997, lot identification and gallery pixels. Compare date Cyclops, black insert and period tritium-marked dial. Auction documents Oyster 93150-Z6/501B. Visually inspected bukowskis-16610-caseback."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1078-rolex-submariner-ca-1997, lot identification and gallery pixels. Compare date Cyclops, black insert and period tritium-marked dial. Auction documents Oyster 93150-Z6/501B. Visually inspected bukowskis-16610-braceletClasp."
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "1655",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1088-rolex-explorer-ii-freccione-mark-4-dial-mark-3-bezel-ca-1981, lot identification and gallery pixels. Auction records service in 2019 and Oyster 78360-VE/580. A protective sticker on the back is temporary; specific dial-production variations are not inferred. Visually inspected bukowskis-1655-front."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1088-rolex-explorer-ii-freccione-mark-4-dial-mark-3-bezel-ca-1981, lot identification and gallery pixels. Auction records service in 2019 and Oyster 78360-VE/580. A protective sticker on the back is temporary; specific dial-production variations are not inferred. Calibre identification in source text does not prove photographed execution; no movement image is published."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1088-rolex-explorer-ii-freccione-mark-4-dial-mark-3-bezel-ca-1981, lot identification and gallery pixels. Auction records service in 2019 and Oyster 78360-VE/580. A protective sticker on the back is temporary; specific dial-production variations are not inferred. Visually inspected bukowskis-1655-caseback."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1088-rolex-explorer-ii-freccione-mark-4-dial-mark-3-bezel-ca-1981, lot identification and gallery pixels. Auction records service in 2019 and Oyster 78360-VE/580. A protective sticker on the back is temporary; specific dial-production variations are not inferred. Visually inspected bukowskis-1655-braceletClasp."
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "16618",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1091-rolex-submariner-tritium-dial-ca-1995, lot identification and gallery pixels. Gold 16618 specimen; serial dated circa 1991, sale circa 1995. Auction documents 92908-R6/46B. The shared internal case number 16610 does not justify showing this gold watch for steel 16610. Visually inspected bukowskis-16618-front."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1091-rolex-submariner-tritium-dial-ca-1995, lot identification and gallery pixels. Gold 16618 specimen; serial dated circa 1991, sale circa 1995. Auction documents 92908-R6/46B. The shared internal case number 16610 does not justify showing this gold watch for steel 16610. Calibre identification in source text does not prove photographed execution; no movement image is published."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1091-rolex-submariner-tritium-dial-ca-1995, lot identification and gallery pixels. Gold 16618 specimen; serial dated circa 1991, sale circa 1995. Auction documents 92908-R6/46B. The shared internal case number 16610 does not justify showing this gold watch for steel 16610. Visually inspected bukowskis-16618-caseback."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1091-rolex-submariner-tritium-dial-ca-1995, lot identification and gallery pixels. Gold 16618 specimen; serial dated circa 1991, sale circa 1995. Auction documents 92908-R6/46B. The shared internal case number 16610 does not justify showing this gold watch for steel 16610. Visually inspected bukowskis-16618-braceletClasp."
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "16750",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1102-rolex-gmt-master-ca-1981, lot identification and gallery pixels. Auction notes newer clasp circa 1991, reference 78360-SP1/580, hand patina and back porosity. The later clasp code is not a factory-original requirement. Visually inspected bukowskis-16750-front."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1102-rolex-gmt-master-ca-1981, lot identification and gallery pixels. Auction notes newer clasp circa 1991, reference 78360-SP1/580, hand patina and back porosity. The later clasp code is not a factory-original requirement. Calibre identification in source text does not prove photographed execution; no movement image is published."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1102-rolex-gmt-master-ca-1981, lot identification and gallery pixels. Auction notes newer clasp circa 1991, reference 78360-SP1/580, hand patina and back porosity. The later clasp code is not a factory-original requirement. Visually inspected bukowskis-16750-caseback."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1102-rolex-gmt-master-ca-1981, lot identification and gallery pixels. Auction notes newer clasp circa 1991, reference 78360-SP1/580, hand patina and back porosity. The later clasp code is not a factory-original requirement. Visually inspected bukowskis-16750-braceletClasp."
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "1675",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1112-rolex-gmt-master-nipple-dial-ca-1978, lot identification and gallery pixels. Auction explicitly identifies gold/steel 1675, newer hands and leather with original buckle missing its Rolex crown. This material/dial variant is representative; the damaged buckle is not an intact-marking baseline. Visually inspected bukowskis-1675-front."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1112-rolex-gmt-master-nipple-dial-ca-1978, lot identification and gallery pixels. Auction explicitly identifies gold/steel 1675, newer hands and leather with original buckle missing its Rolex crown. This material/dial variant is representative; the damaged buckle is not an intact-marking baseline. Calibre identification in source text does not prove photographed execution; no movement image is published."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1112-rolex-gmt-master-nipple-dial-ca-1978, lot identification and gallery pixels. Auction explicitly identifies gold/steel 1675, newer hands and leather with original buckle missing its Rolex crown. This material/dial variant is representative; the damaged buckle is not an intact-marking baseline. Visually inspected bukowskis-1675-caseback."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1112-rolex-gmt-master-nipple-dial-ca-1978, lot identification and gallery pixels. Auction explicitly identifies gold/steel 1675, newer hands and leather with original buckle missing its Rolex crown. This material/dial variant is representative; the damaged buckle is not an intact-marking baseline. Visually inspected bukowskis-1675-braceletClasp."
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "16233",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1123-rolex-datejust-blue-diamond-vignette-dial-ca-1990, lot identification and gallery pixels. Diamond-dial front withheld because factory setting is not established. Auction documents 62523H-O5/455B; the shared internal case 16200 is not a lookup alias. Candidate withheld; no supported baseline image selected for this category."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1123-rolex-datejust-blue-diamond-vignette-dial-ca-1990, lot identification and gallery pixels. Diamond-dial front withheld because factory setting is not established. Auction documents 62523H-O5/455B; the shared internal case 16200 is not a lookup alias. Calibre identification in source text does not prove photographed execution; no movement image is published."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1123-rolex-datejust-blue-diamond-vignette-dial-ca-1990, lot identification and gallery pixels. Diamond-dial front withheld because factory setting is not established. Auction documents 62523H-O5/455B; the shared internal case 16200 is not a lookup alias. Visually inspected bukowskis-16233-caseback."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1123-rolex-datejust-blue-diamond-vignette-dial-ca-1990, lot identification and gallery pixels. Diamond-dial front withheld because factory setting is not established. Auction documents 62523H-O5/455B; the shared internal case 16200 is not a lookup alias. Visually inspected bukowskis-16233-braceletClasp."
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "279171",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1129-rolex-lady-datejust-chocolate-diamond-dial-ca-2017, lot identification and gallery pixels. Diamond-dial front withheld pending factory-setting provenance. Auction documents 28 mm case, Jubilee 63341-0KY/453/0US and minor crystal damage. Candidate withheld; no supported baseline image selected for this category."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1129-rolex-lady-datejust-chocolate-diamond-dial-ca-2017, lot identification and gallery pixels. Diamond-dial front withheld pending factory-setting provenance. Auction documents 28 mm case, Jubilee 63341-0KY/453/0US and minor crystal damage. Calibre identification in source text does not prove photographed execution; no movement image is published."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1129-rolex-lady-datejust-chocolate-diamond-dial-ca-2017, lot identification and gallery pixels. Diamond-dial front withheld pending factory-setting provenance. Auction documents 28 mm case, Jubilee 63341-0KY/453/0US and minor crystal damage. Visually inspected bukowskis-279171-caseback."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1129-rolex-lady-datejust-chocolate-diamond-dial-ca-2017, lot identification and gallery pixels. Diamond-dial front withheld pending factory-setting provenance. Auction documents 28 mm case, Jubilee 63341-0KY/453/0US and minor crystal damage. Visually inspected bukowskis-279171-braceletClasp."
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "279160",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1130-rolex-lady-datejust-ca-2018, lot identification and gallery pixels. 28 mm smooth-bezel specimen; auction documents Jubilee 63340-5LX. Compare concealed Crownclasp construction; no full catalogue suffix is inferred. Visually inspected bukowskis-279160-front."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1130-rolex-lady-datejust-ca-2018, lot identification and gallery pixels. 28 mm smooth-bezel specimen; auction documents Jubilee 63340-5LX. Compare concealed Crownclasp construction; no full catalogue suffix is inferred. Calibre identification in source text does not prove photographed execution; no movement image is published."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1130-rolex-lady-datejust-ca-2018, lot identification and gallery pixels. 28 mm smooth-bezel specimen; auction documents Jubilee 63340-5LX. Compare concealed Crownclasp construction; no full catalogue suffix is inferred. Visually inspected bukowskis-279160-caseback."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1130-rolex-lady-datejust-ca-2018, lot identification and gallery pixels. 28 mm smooth-bezel specimen; auction documents Jubilee 63340-5LX. Compare concealed Crownclasp construction; no full catalogue suffix is inferred. Visually inspected bukowskis-279160-braceletClasp."
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "16030",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1132-rolex-datejust-ca-1979, lot identification and gallery pixels. Visible ding on lower-left lug. Auction documents Oyster 78360-VE/558; compare engine-turned bezel and the worn closed back. Visually inspected bukowskis-16030-front."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1132-rolex-datejust-ca-1979, lot identification and gallery pixels. Visible ding on lower-left lug. Auction documents Oyster 78360-VE/558; compare engine-turned bezel and the worn closed back. Calibre identification in source text does not prove photographed execution; no movement image is published."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1132-rolex-datejust-ca-1979, lot identification and gallery pixels. Visible ding on lower-left lug. Auction documents Oyster 78360-VE/558; compare engine-turned bezel and the worn closed back. Visually inspected bukowskis-16030-caseback."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1132-rolex-datejust-ca-1979, lot identification and gallery pixels. Visible ding on lower-left lug. Auction documents Oyster 78360-VE/558; compare engine-turned bezel and the worn closed back. Visually inspected bukowskis-16030-braceletClasp."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "25407N",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1133-tudor-pelagos-39-ca-2023, lot identification and gallery pixels. 39 mm titanium specimen; auction documents MT5400 and bracelet 95817-UZ09. Compare calibre-manufacture/GENEVE back markings and inner clasp. No movement is visible and no M-prefixed catalogue alias is assumed. Visually inspected bukowskis-25407n-front."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1133-tudor-pelagos-39-ca-2023, lot identification and gallery pixels. 39 mm titanium specimen; auction documents MT5400 and bracelet 95817-UZ09. Compare calibre-manufacture/GENEVE back markings and inner clasp. No movement is visible and no M-prefixed catalogue alias is assumed. Calibre identification in source text does not prove photographed execution; no movement image is published."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1133-tudor-pelagos-39-ca-2023, lot identification and gallery pixels. 39 mm titanium specimen; auction documents MT5400 and bracelet 95817-UZ09. Compare calibre-manufacture/GENEVE back markings and inner clasp. No movement is visible and no M-prefixed catalogue alias is assumed. Visually inspected bukowskis-25407n-caseback."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1133-tudor-pelagos-39-ca-2023, lot identification and gallery pixels. 39 mm titanium specimen; auction documents MT5400 and bracelet 95817-UZ09. Compare calibre-manufacture/GENEVE back markings and inner clasp. No movement is visible and no M-prefixed catalogue alias is assumed. Visually inspected bukowskis-25407n-braceletClasp."
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "16550",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1136-rolex-explorer-ii-16550-ca-1988, lot identification and gallery pixels. Auction documents 78360-VC/501B with clasp circa 1978, earlier than the watch, and damaged minute-hand lume. This replacement/period mismatch is not a factory-original clasp requirement. Visually inspected bukowskis-16550-front."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1136-rolex-explorer-ii-16550-ca-1988, lot identification and gallery pixels. Auction documents 78360-VC/501B with clasp circa 1978, earlier than the watch, and damaged minute-hand lume. This replacement/period mismatch is not a factory-original clasp requirement. Calibre identification in source text does not prove photographed execution; no movement image is published."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1136-rolex-explorer-ii-16550-ca-1988, lot identification and gallery pixels. Auction documents 78360-VC/501B with clasp circa 1978, earlier than the watch, and damaged minute-hand lume. This replacement/period mismatch is not a factory-original clasp requirement. Visually inspected bukowskis-16550-caseback."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1136-rolex-explorer-ii-16550-ca-1988, lot identification and gallery pixels. Auction documents 78360-VC/501B with clasp circa 1978, earlier than the watch, and damaged minute-hand lume. This replacement/period mismatch is not a factory-original clasp requirement. Visually inspected bukowskis-16550-braceletClasp."
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "116233",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1140-rolex-datejust-36-ca-2017, lot identification and gallery pixels. Auction documents Jubilee 63603-L7S, service in 2022 and a functioning but slightly crooked crown. This is a used specimen with service history. Visually inspected bukowskis-116233-front."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1140-rolex-datejust-36-ca-2017, lot identification and gallery pixels. Auction documents Jubilee 63603-L7S, service in 2022 and a functioning but slightly crooked crown. This is a used specimen with service history. Calibre identification in source text does not prove photographed execution; no movement image is published."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1140-rolex-datejust-36-ca-2017, lot identification and gallery pixels. Auction documents Jubilee 63603-L7S, service in 2022 and a functioning but slightly crooked crown. This is a used specimen with service history. Visually inspected bukowskis-116233-caseback."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1140-rolex-datejust-36-ca-2017, lot identification and gallery pixels. Auction documents Jubilee 63603-L7S, service in 2022 and a functioning but slightly crooked crown. This is a used specimen with service history. Visually inspected bukowskis-116233-braceletClasp."
+        }
+      }
+    },
+    {
+      "brand": "OMEGA",
+      "reference": "310.32.42.50.02.001",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1149-omega-speedmaster-moonwatch-professional-silver-snoopy-award-50th-anniversary-ca-2023, lot identification and gallery pixels. Exact reference 310.32.42.50.02.001. Compare Snoopy subdial at 9, blue bezel, animated commemorative closed back and original strap buckle. The back is not an exposed movement photo; calibre 3861 is documented in text only. Visually inspected bukowskis-310.32.42.50.02.001-front."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1149-omega-speedmaster-moonwatch-professional-silver-snoopy-award-50th-anniversary-ca-2023, lot identification and gallery pixels. Exact reference 310.32.42.50.02.001. Compare Snoopy subdial at 9, blue bezel, animated commemorative closed back and original strap buckle. The back is not an exposed movement photo; calibre 3861 is documented in text only. Calibre identification in source text does not prove photographed execution; no movement image is published."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1149-omega-speedmaster-moonwatch-professional-silver-snoopy-award-50th-anniversary-ca-2023, lot identification and gallery pixels. Exact reference 310.32.42.50.02.001. Compare Snoopy subdial at 9, blue bezel, animated commemorative closed back and original strap buckle. The back is not an exposed movement photo; calibre 3861 is documented in text only. Visually inspected bukowskis-310.32.42.50.02.001-caseback."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1149-omega-speedmaster-moonwatch-professional-silver-snoopy-award-50th-anniversary-ca-2023, lot identification and gallery pixels. Exact reference 310.32.42.50.02.001. Compare Snoopy subdial at 9, blue bezel, animated commemorative closed back and original strap buckle. The back is not an exposed movement photo; calibre 3861 is documented in text only. Visually inspected bukowskis-310.32.42.50.02.001-braceletClasp."
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "16013",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1151-rolex-datejust-ca-1983, lot identification and gallery pixels. Auction documents Jubilee 62523H-H2/455 and first-owner-family provenance. Visible wear is specimen condition, not a requirement for every reference. Visually inspected bukowskis-16013-front."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1151-rolex-datejust-ca-1983, lot identification and gallery pixels. Auction documents Jubilee 62523H-H2/455 and first-owner-family provenance. Visible wear is specimen condition, not a requirement for every reference. Calibre identification in source text does not prove photographed execution; no movement image is published."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1151-rolex-datejust-ca-1983, lot identification and gallery pixels. Auction documents Jubilee 62523H-H2/455 and first-owner-family provenance. Visible wear is specimen condition, not a requirement for every reference. Visually inspected bukowskis-16013-caseback."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1151-rolex-datejust-ca-1983, lot identification and gallery pixels. Auction documents Jubilee 62523H-H2/455 and first-owner-family provenance. Visible wear is specimen condition, not a requirement for every reference. Visually inspected bukowskis-16013-braceletClasp."
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "1680",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1155-rolex-submariner-ca-1978, lot identification and gallery pixels. Front withheld as a baseline: source reports damaged dial, worn case and newer bezel insert. The 93150-MA6/580 clasp is circa 2005, much later than the watch; compare construction only, not original date codes. Candidate withheld; no supported baseline image selected for this category."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1155-rolex-submariner-ca-1978, lot identification and gallery pixels. Front withheld as a baseline: source reports damaged dial, worn case and newer bezel insert. The 93150-MA6/580 clasp is circa 2005, much later than the watch; compare construction only, not original date codes. Calibre identification in source text does not prove photographed execution; no movement image is published."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1155-rolex-submariner-ca-1978, lot identification and gallery pixels. Front withheld as a baseline: source reports damaged dial, worn case and newer bezel insert. The 93150-MA6/580 clasp is circa 2005, much later than the watch; compare construction only, not original date codes. Visually inspected bukowskis-1680-caseback."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1155-rolex-submariner-ca-1978, lot identification and gallery pixels. Front withheld as a baseline: source reports damaged dial, worn case and newer bezel insert. The 93150-MA6/580 clasp is circa 2005, much later than the watch; compare construction only, not original date codes. Visually inspected bukowskis-1680-braceletClasp."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "7031/0",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1970 and every one of its 7 main historical gallery images. Selected tudor-history-70310-2-3-front, with specimen/year/finishing boundaries documented.",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1970 and every one of its 7 main historical gallery images. Selected tudor-history-70310-2-2-movement, with specimen/year/finishing boundaries documented.",
+          "finding": "verified representative specimen"
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1970 and every one of its 7 main historical gallery images. Selected tudor-history-70310-2-2-caseback, with specimen/year/finishing boundaries documented.",
+          "finding": "verified representative specimen"
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1970 and every one of its 7 main historical gallery images. Front views/text document some bracelet types but do not show sufficient clasp construction/markings; no separate clasp photograph selected.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "7032/0",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1970 and every one of its 7 main historical gallery images. This source’s exact-reference front view is an archival advertisement rather than a useful isolated specimen; the neighbouring 7031/0 and prototype are withheld. No independent clasp/back/movement execution selected.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1970 and every one of its 7 main historical gallery images. This source’s exact-reference front view is an archival advertisement rather than a useful isolated specimen; the neighbouring 7031/0 and prototype are withheld. No independent clasp/back/movement execution selected.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1970 and every one of its 7 main historical gallery images. This source’s exact-reference front view is an archival advertisement rather than a useful isolated specimen; the neighbouring 7031/0 and prototype are withheld. No independent clasp/back/movement execution selected.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1970 and every one of its 7 main historical gallery images. This source’s exact-reference front view is an archival advertisement rather than a useful isolated specimen; the neighbouring 7031/0 and prototype are withheld. No independent clasp/back/movement execution selected.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "7149/0",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1971-to-1976 and every one of its 9 main historical gallery images. Selected tudor-history-71490-3-4-front, tudor-history-71490-3-6-front, with specimen/year/finishing boundaries documented.",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1971-to-1976 and every one of its 9 main historical gallery images. Selected tudor-history-71490-3-7-movement, with specimen/year/finishing boundaries documented.",
+          "finding": "verified representative specimen"
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1971-to-1976 and every one of its 9 main historical gallery images. Selected tudor-history-71490-3-5-caseback, with specimen/year/finishing boundaries documented.",
+          "finding": "verified representative specimen"
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1971-to-1976 and every one of its 9 main historical gallery images. Front views/text document some bracelet types but do not show sufficient clasp construction/markings; no separate clasp photograph selected.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "7169/0",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1971-to-1976 and every one of its 9 main historical gallery images. Selected tudor-history-71690-3-2-front, with specimen/year/finishing boundaries documented.",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1971-to-1976 and every one of its 9 main historical gallery images. Selected tudor-history-71690-3-3-movement, with specimen/year/finishing boundaries documented.",
+          "finding": "verified representative specimen"
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1971-to-1976 and every one of its 9 main historical gallery images. No separately supported caseback photograph selected from this source.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1971-to-1976 and every one of its 9 main historical gallery images. Front views/text document some bracelet types but do not show sufficient clasp construction/markings; no separate clasp photograph selected.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "79090",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1969-to-1999 and every one of its 12 main historical gallery images. Selected tudor-history-79090-1-8-front, with specimen/year/finishing boundaries documented.",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1969-to-1999 and every one of its 12 main historical gallery images. No separately photographed execution tied to this case reference is published here; shared-calibre photographs for other specimens withheld.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1969-to-1999 and every one of its 12 main historical gallery images. No separately supported caseback photograph selected from this source.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1969-to-1999 and every one of its 12 main historical gallery images. Front views/text document some bracelet types but do not show sufficient clasp construction/markings; no separate clasp photograph selected.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "79160",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1976-to-1991 and every one of its 12 main historical gallery images. Selected tudor-history-79160-4-6-front, with specimen/year/finishing boundaries documented.",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1976-to-1991 and every one of its 12 main historical gallery images. Selected tudor-history-79160-4-7-movement, with specimen/year/finishing boundaries documented.",
+          "finding": "verified representative specimen"
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1976-to-1991 and every one of its 12 main historical gallery images. No separately supported caseback photograph selected from this source.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1976-to-1991 and every one of its 12 main historical gallery images. Front views/text document some bracelet types but do not show sufficient clasp construction/markings; no separate clasp photograph selected.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "79170",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1976-to-1991 and every one of its 12 main historical gallery images. Selected tudor-history-79170-4-9-front, with specimen/year/finishing boundaries documented.",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1976-to-1991 and every one of its 12 main historical gallery images. Selected tudor-history-79170-4-10-movement, with specimen/year/finishing boundaries documented.",
+          "finding": "verified representative specimen"
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1976-to-1991 and every one of its 12 main historical gallery images. No separately supported caseback photograph selected from this source.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1976-to-1991 and every one of its 12 main historical gallery images. Front views/text document some bracelet types but do not show sufficient clasp construction/markings; no separate clasp photograph selected.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "79180",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1976-to-1991 and every one of its 12 main historical gallery images. The page illustrates 79160 and 79170, not a specifically identified 79180 specimen. Family movement similarity does not establish exact execution; all neighbouring images withheld.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1976-to-1991 and every one of its 12 main historical gallery images. The page illustrates 79160 and 79170, not a specifically identified 79180 specimen. Family movement similarity does not establish exact execution; all neighbouring images withheld.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1976-to-1991 and every one of its 12 main historical gallery images. The page illustrates 79160 and 79170, not a specifically identified 79180 specimen. Family movement similarity does not establish exact execution; all neighbouring images withheld.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1976-to-1991 and every one of its 12 main historical gallery images. The page illustrates 79160 and 79170, not a specifically identified 79180 specimen. Family movement similarity does not establish exact execution; all neighbouring images withheld.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "79190",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1969-to-1999 and every one of its 12 main historical gallery images. Selected tudor-history-79190-1-9-front, with specimen/year/finishing boundaries documented.",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1969-to-1999 and every one of its 12 main historical gallery images. Selected tudor-history-79190-1-10-movement, with specimen/year/finishing boundaries documented.",
+          "finding": "verified representative specimen"
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1969-to-1999 and every one of its 12 main historical gallery images. No separately supported caseback photograph selected from this source.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1969-to-1999 and every one of its 12 main historical gallery images. Front views/text document some bracelet types but do not show sufficient clasp construction/markings; no separate clasp photograph selected.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "7922",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1954-to-1968 and every one of its 14 main historical gallery images. Selected tudor-history-7922-0-1-front, with specimen/year/finishing boundaries documented.",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1954-to-1968 and every one of its 14 main historical gallery images. Selected tudor-history-7922-0-2-movement, with specimen/year/finishing boundaries documented.",
+          "finding": "verified representative specimen"
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1954-to-1968 and every one of its 14 main historical gallery images. No separately supported caseback photograph selected from this source.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1954-to-1968 and every one of its 14 main historical gallery images. Front views/text document some bracelet types but do not show sufficient clasp construction/markings; no separate clasp photograph selected.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "7924",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1954-to-1968 and every one of its 14 main historical gallery images. Selected tudor-history-7924-0-4-front, with specimen/year/finishing boundaries documented.",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1954-to-1968 and every one of its 14 main historical gallery images. No separately photographed execution tied to this case reference is published here; shared-calibre photographs for other specimens withheld.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1954-to-1968 and every one of its 14 main historical gallery images. No separately supported caseback photograph selected from this source.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1954-to-1968 and every one of its 14 main historical gallery images. Front views/text document some bracelet types but do not show sufficient clasp construction/markings; no separate clasp photograph selected.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "79260",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1995-to-2000 and every one of its 8 main historical gallery images. Selected tudor-history-79260-5-5-front, tudor-history-79260-5-7-front, with specimen/year/finishing boundaries documented.",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1995-to-2000 and every one of its 8 main historical gallery images. Selected tudor-history-79260-5-6-movement, with specimen/year/finishing boundaries documented.",
+          "finding": "verified representative specimen"
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1995-to-2000 and every one of its 8 main historical gallery images. No separately supported caseback photograph selected from this source.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1995-to-2000 and every one of its 8 main historical gallery images. Front views/text document some bracelet types but do not show sufficient clasp construction/markings; no separate clasp photograph selected.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "7928",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1954-to-1968 and every one of its 14 main historical gallery images. Selected tudor-history-7928-0-5-front, tudor-history-7928-0-8-front, tudor-history-7928-0-11-front, tudor-history-7928-0-13-front, with specimen/year/finishing boundaries documented.",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1954-to-1968 and every one of its 14 main historical gallery images. Selected tudor-history-7928-0-6-movement, tudor-history-7928-0-9-movement, tudor-history-7928-0-12-movement, with specimen/year/finishing boundaries documented.",
+          "finding": "verified representative specimen"
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1954-to-1968 and every one of its 14 main historical gallery images. No separately supported caseback photograph selected from this source.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1954-to-1968 and every one of its 14 main historical gallery images. Front views/text document some bracelet types but do not show sufficient clasp construction/markings; no separate clasp photograph selected.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "79280",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1995-to-2000 and every one of its 8 main historical gallery images. Selected tudor-history-79280-5-2-front, with specimen/year/finishing boundaries documented.",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1995-to-2000 and every one of its 8 main historical gallery images. Selected tudor-history-79280-5-3-movement, with specimen/year/finishing boundaries documented.",
+          "finding": "verified representative specimen"
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1995-to-2000 and every one of its 8 main historical gallery images. No separately supported caseback photograph selected from this source.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1995-to-2000 and every one of its 8 main historical gallery images. Front views/text document some bracelet types but do not show sufficient clasp construction/markings; no separate clasp photograph selected.",
+          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "6605",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-08T16:11:24.212924+00:00",
+          "evidence": "https://www.bukowskis.com/en/auctions/671/1020-rolex-datejust-ca-1959 — inspected lot description and all seven actual gallery images. Auction explicitly reports a newer dial and smooth bezel not intended for 6605. Withhold front comparison baseline; no opened movement, fully proven original back execution or original clasp construction is established. The leather/gold buckle specimen remains a candidate pending execution evidence.",
+          "finding": "No verified photograph selected from inspected auction; incompatible replacement dial/bezel withheld and further source research remains open."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-08T16:11:24.212924+00:00",
+          "evidence": "https://www.bukowskis.com/en/auctions/671/1020-rolex-datejust-ca-1959 — inspected lot description and all seven actual gallery images. Auction explicitly reports a newer dial and smooth bezel not intended for 6605. Withhold front comparison baseline; no opened movement, fully proven original back execution or original clasp construction is established. The leather/gold buckle specimen remains a candidate pending execution evidence.",
+          "finding": "No verified photograph selected from inspected auction; incompatible replacement dial/bezel withheld and further source research remains open."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-08T16:11:24.212924+00:00",
+          "evidence": "https://www.bukowskis.com/en/auctions/671/1020-rolex-datejust-ca-1959 — inspected lot description and all seven actual gallery images. Auction explicitly reports a newer dial and smooth bezel not intended for 6605. Withhold front comparison baseline; no opened movement, fully proven original back execution or original clasp construction is established. The leather/gold buckle specimen remains a candidate pending execution evidence.",
+          "finding": "No verified photograph selected from inspected auction; incompatible replacement dial/bezel withheld and further source research remains open."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-08T16:11:24.212924+00:00",
+          "evidence": "https://www.bukowskis.com/en/auctions/671/1020-rolex-datejust-ca-1959 — inspected lot description and all seven actual gallery images. Auction explicitly reports a newer dial and smooth bezel not intended for 6605. Withhold front comparison baseline; no opened movement, fully proven original back execution or original clasp construction is established. The leather/gold buckle specimen remains a candidate pending execution evidence.",
+          "finding": "No verified photograph selected from inspected auction; incompatible replacement dial/bezel withheld and further source research remains open."
+        }
+      }
+    }
+  ],
+  "sourceRecordReviews": [
+    {
+      "id": "RULE:0215",
+      "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+      "evidence": "Reviewed all four image categories for literal A13320 using the specialist source set recorded in identifierReviews. Unsupported categories remain reviewed gaps."
+    },
+    {
+      "id": "RULE:0568",
+      "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+      "evidence": "Reviewed all four image categories for literal A13320 using the specialist source set recorded in identifierReviews. Unsupported categories remain reviewed gaps."
+    },
+    {
+      "id": "RULE:0204",
+      "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+      "evidence": "Reviewed all four image categories for literal A13340 using the specialist source set recorded in identifierReviews. Unsupported categories remain reviewed gaps."
+    },
+    {
+      "id": "RULE:0201",
+      "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+      "evidence": "Reviewed all four image categories for literal A13356 using the specialist source set recorded in identifierReviews. Unsupported categories remain reviewed gaps."
+    },
+    {
+      "id": "RULE:0216",
+      "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+      "evidence": "Reviewed all four image categories for literal A17320 using the specialist source set recorded in identifierReviews. Unsupported categories remain reviewed gaps."
+    },
+    {
+      "id": "RULE:0226",
+      "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+      "evidence": "Reviewed all four image categories for literal A17330 using the specialist source set recorded in identifierReviews. Unsupported categories remain reviewed gaps."
+    },
+    {
+      "id": "RULE:0220",
+      "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+      "evidence": "Reviewed all four image categories for literal A17360 using the specialist source set recorded in identifierReviews. Unsupported categories remain reviewed gaps."
+    },
+    {
+      "id": "RULE:0587",
+      "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+      "evidence": "Reviewed all four image categories for literal A17360 using the specialist source set recorded in identifierReviews. Unsupported categories remain reviewed gaps."
+    },
+    {
+      "id": "RULE:0177",
+      "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+      "evidence": "Reviewed all four image categories for literal A24322 using the specialist source set recorded in identifierReviews. Unsupported categories remain reviewed gaps."
+    },
+    {
+      "id": "RULE:0000",
+      "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+      "evidence": "Reviewed all four image categories for literal A32360 using the specialist source set recorded in identifierReviews. Unsupported categories remain reviewed gaps."
+    },
+    {
+      "id": "RULE:0166",
+      "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+      "evidence": "Reviewed all four image categories for literal A74380 using the specialist source set recorded in identifierReviews. Unsupported categories remain reviewed gaps."
+    },
+    {
+      "id": "RULE:0189",
+      "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+      "evidence": "Reviewed all four image categories for literal AB0110 using the specialist source set recorded in identifierReviews. Unsupported categories remain reviewed gaps."
+    },
+    {
+      "id": "RULE:0170",
+      "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+      "evidence": "Reviewed all four image categories for literal E79362 using the specialist source set recorded in identifierReviews. Unsupported categories remain reviewed gaps."
+    },
+    {
+      "id": "RULE:0490",
+      "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+      "evidence": "https://www.bukowskis.com/en/auctions/671/1021-iwc-pilot-s-watch-der-fliegerchronograph-ca-2000 — examined lot identification, period/calibre limitations and all six photographs; all four categories reviewed."
+    },
+    {
+      "id": "UPDATE:IWC|IW370601",
+      "reviewedAt": "2026-10-08T15:40:10.119840+00:00",
+      "evidence": "https://www.bukowskis.com/en/auctions/671/1021-iwc-pilot-s-watch-der-fliegerchronograph-ca-2000 — examined lot identification, period/calibre limitations and all six photographs; all four categories reviewed."
+    },
+    {
+      "id": "RULE:0858",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+      "evidence": "https://www.bukowskis.com/en/auctions/671/1006-rolex-submariner-maxi-iv-dial-ca-1982 — reviewed public lot identification, specimen variant and all four categories, with documented condition/parts limits. Additional sources remain open."
+    },
+    {
+      "id": "RULE:0863",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+      "evidence": "https://www.bukowskis.com/en/auctions/671/1028-rolex-sea-dweller-ca-2004 — reviewed public lot identification, specimen variant and all four categories, with documented condition/parts limits. Additional sources remain open."
+    },
+    {
+      "id": "RULE:0441",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+      "evidence": "https://www.bukowskis.com/en/auctions/671/1044-iwc-portuguese-chrono-ca-2007 — reviewed public lot identification, specimen variant and all four categories, with documented condition/parts limits. Additional sources remain open."
+    },
+    {
+      "id": "RULE:0846",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+      "evidence": "https://www.bukowskis.com/en/auctions/671/1060-rolex-date-ca-1983 — reviewed public lot identification, specimen variant and all four categories, with documented condition/parts limits. Additional sources remain open."
+    },
+    {
+      "id": "RULE:0254",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+      "evidence": "https://www.bukowskis.com/en/auctions/671/1066-cartier-panthere-ca-2000 — reviewed public lot identification, specimen variant and all four categories, with documented condition/parts limits. Additional sources remain open."
+    },
+    {
+      "id": "RULE:0762",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+      "evidence": "https://www.bukowskis.com/en/auctions/671/1066-cartier-panthere-ca-2000 — reviewed public lot identification, specimen variant and all four categories, with documented condition/parts limits. Additional sources remain open."
+    },
+    {
+      "id": "UPDATE:ROLEX|126300",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+      "evidence": "https://www.bukowskis.com/en/auctions/671/1067-rolex-datejust-41-slate-dial-ca-2019 — reviewed public lot identification, specimen variant and all four categories, with documented condition/parts limits. Additional sources remain open."
+    },
+    {
+      "id": "RULE:0879",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+      "evidence": "https://www.bukowskis.com/en/auctions/671/1088-rolex-explorer-ii-freccione-mark-4-dial-mark-3-bezel-ca-1981 — reviewed public lot identification, specimen variant and all four categories, with documented condition/parts limits. Additional sources remain open."
+    },
+    {
+      "id": "RULE:0877",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+      "evidence": "https://www.bukowskis.com/en/auctions/671/1102-rolex-gmt-master-ca-1981 — reviewed public lot identification, specimen variant and all four categories, with documented condition/parts limits. Additional sources remain open."
+    },
+    {
+      "id": "RULE:0876",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+      "evidence": "https://www.bukowskis.com/en/auctions/671/1112-rolex-gmt-master-nipple-dial-ca-1978 — reviewed public lot identification, specimen variant and all four categories, with documented condition/parts limits. Additional sources remain open."
+    },
+    {
+      "id": "RULE:0332",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+      "evidence": "https://www.bukowskis.com/en/auctions/671/1133-tudor-pelagos-39-ca-2023 — reviewed public lot identification, specimen variant and all four categories, with documented condition/parts limits. Additional sources remain open."
+    },
+    {
+      "id": "UPDATE:TUDOR|25407N",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+      "evidence": "https://www.bukowskis.com/en/auctions/671/1133-tudor-pelagos-39-ca-2023 — reviewed public lot identification, specimen variant and all four categories, with documented condition/parts limits. Additional sources remain open."
+    },
+    {
+      "id": "RULE:0880",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+      "evidence": "https://www.bukowskis.com/en/auctions/671/1136-rolex-explorer-ii-16550-ca-1988 — reviewed public lot identification, specimen variant and all four categories, with documented condition/parts limits. Additional sources remain open."
+    },
+    {
+      "id": "RULE:0080",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+      "evidence": "https://www.bukowskis.com/en/auctions/671/1149-omega-speedmaster-moonwatch-professional-silver-snoopy-award-50th-anniversary-ca-2023 — reviewed public lot identification, specimen variant and all four categories, with documented condition/parts limits. Additional sources remain open."
+    },
+    {
+      "id": "RULE:0859",
+      "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
+      "evidence": "https://www.bukowskis.com/en/auctions/671/1155-rolex-submariner-ca-1978 — reviewed public lot identification, specimen variant and all four categories, with documented condition/parts limits. Additional sources remain open."
+    },
+    {
+      "id": "RULE:0355",
+      "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+      "evidence": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1970 — reviewed exact specimen associations, all main historical gallery pixels and all four categories. Unsupported categories and further source research remain open."
+    },
+    {
+      "id": "UPDATE:TUDOR|70310",
+      "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+      "evidence": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1970 — reviewed exact specimen associations, all main historical gallery pixels and all four categories. Unsupported categories and further source research remain open."
+    },
+    {
+      "id": "RULE:0356",
+      "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+      "evidence": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1970 — reviewed exact specimen associations, all main historical gallery pixels and all four categories. Unsupported categories and further source research remain open."
+    },
+    {
+      "id": "UPDATE:TUDOR|70320",
+      "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+      "evidence": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1970 — reviewed exact specimen associations, all main historical gallery pixels and all four categories. Unsupported categories and further source research remain open."
+    },
+    {
+      "id": "RULE:0357",
+      "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+      "evidence": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1971-to-1976 — reviewed exact specimen associations, all main historical gallery pixels and all four categories. Unsupported categories and further source research remain open."
+    },
+    {
+      "id": "UPDATE:TUDOR|71490",
+      "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+      "evidence": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1971-to-1976 — reviewed exact specimen associations, all main historical gallery pixels and all four categories. Unsupported categories and further source research remain open."
+    },
+    {
+      "id": "RULE:0358",
+      "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+      "evidence": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1971-to-1976 — reviewed exact specimen associations, all main historical gallery pixels and all four categories. Unsupported categories and further source research remain open."
+    },
+    {
+      "id": "UPDATE:TUDOR|71690",
+      "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+      "evidence": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1971-to-1976 — reviewed exact specimen associations, all main historical gallery pixels and all four categories. Unsupported categories and further source research remain open."
+    },
+    {
+      "id": "RULE:0350",
+      "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+      "evidence": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1969-to-1999 — reviewed exact specimen associations, all main historical gallery pixels and all four categories. Unsupported categories and further source research remain open."
+    },
+    {
+      "id": "UPDATE:TUDOR|79090",
+      "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+      "evidence": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1969-to-1999 — reviewed exact specimen associations, all main historical gallery pixels and all four categories. Unsupported categories and further source research remain open."
+    },
+    {
+      "id": "RULE:0359",
+      "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+      "evidence": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1976-to-1991 — reviewed exact specimen associations, all main historical gallery pixels and all four categories. Unsupported categories and further source research remain open."
+    },
+    {
+      "id": "UPDATE:TUDOR|79160",
+      "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+      "evidence": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1976-to-1991 — reviewed exact specimen associations, all main historical gallery pixels and all four categories. Unsupported categories and further source research remain open."
+    },
+    {
+      "id": "RULE:0360",
+      "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+      "evidence": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1976-to-1991 — reviewed exact specimen associations, all main historical gallery pixels and all four categories. Unsupported categories and further source research remain open."
+    },
+    {
+      "id": "RULE:0361",
+      "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+      "evidence": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1976-to-1991 — reviewed exact specimen associations, all main historical gallery pixels and all four categories. Unsupported categories and further source research remain open."
+    },
+    {
+      "id": "RULE:0351",
+      "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+      "evidence": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1969-to-1999 — reviewed exact specimen associations, all main historical gallery pixels and all four categories. Unsupported categories and further source research remain open."
+    },
+    {
+      "id": "RULE:0352",
+      "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+      "evidence": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1954-to-1968 — reviewed exact specimen associations, all main historical gallery pixels and all four categories. Unsupported categories and further source research remain open."
+    },
+    {
+      "id": "UPDATE:TUDOR|7922",
+      "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+      "evidence": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1954-to-1968 — reviewed exact specimen associations, all main historical gallery pixels and all four categories. Unsupported categories and further source research remain open."
+    },
+    {
+      "id": "RULE:0353",
+      "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+      "evidence": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1954-to-1968 — reviewed exact specimen associations, all main historical gallery pixels and all four categories. Unsupported categories and further source research remain open."
+    },
+    {
+      "id": "UPDATE:TUDOR|7924",
+      "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+      "evidence": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1954-to-1968 — reviewed exact specimen associations, all main historical gallery pixels and all four categories. Unsupported categories and further source research remain open."
+    },
+    {
+      "id": "RULE:0362",
+      "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+      "evidence": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1995-to-2000 — reviewed exact specimen associations, all main historical gallery pixels and all four categories. Unsupported categories and further source research remain open."
+    },
+    {
+      "id": "UPDATE:TUDOR|79260",
+      "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+      "evidence": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1995-to-2000 — reviewed exact specimen associations, all main historical gallery pixels and all four categories. Unsupported categories and further source research remain open."
+    },
+    {
+      "id": "RULE:0354",
+      "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+      "evidence": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1954-to-1968 — reviewed exact specimen associations, all main historical gallery pixels and all four categories. Unsupported categories and further source research remain open."
+    },
+    {
+      "id": "UPDATE:TUDOR|7928",
+      "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+      "evidence": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1954-to-1968 — reviewed exact specimen associations, all main historical gallery pixels and all four categories. Unsupported categories and further source research remain open."
+    },
+    {
+      "id": "RULE:0363",
+      "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+      "evidence": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1995-to-2000 — reviewed exact specimen associations, all main historical gallery pixels and all four categories. Unsupported categories and further source research remain open."
+    },
+    {
+      "id": "UPDATE:TUDOR|79280",
+      "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+      "evidence": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1995-to-2000 — reviewed exact specimen associations, all main historical gallery pixels and all four categories. Unsupported categories and further source research remain open."
+    },
+    {
+      "id": "RULE:0892",
+      "reviewedAt": "2026-10-08T16:11:24.212924+00:00",
+      "evidence": "https://www.bukowskis.com/en/auctions/671/1020-rolex-datejust-ca-1959 — inspected lot description and all seven actual gallery images. Auction explicitly reports a newer dial and smooth bezel not intended for 6605. Withhold front comparison baseline; no opened movement, fully proven original back execution or original clasp construction is established. The leather/gold buckle specimen remains a candidate pending execution evidence."
+    }
+  ]
 }

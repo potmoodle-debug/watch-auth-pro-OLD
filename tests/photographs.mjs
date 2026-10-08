@@ -11,6 +11,11 @@ test('only explicit identifiers match, including normalized punctuation',()=>{
  for(const ref of ['25600TB','25600T','25600TN-0002','M25600TN-9999'])assert.equal(photographMatch(p,'Tudor',ref),null);
  assert.equal(photographMatch(p,'Rolex','25600TN'),null);assert.equal(photographMatch(p,'Tudor',''),null);
 });
+test('a documented case reference retains an explicit representative-variant label',()=>{
+ const p=fixture({brand:'Breitling',references:['A32360'],representativeFor:['A32360']});
+ assert.equal(photographMatch(p,'Breitling','A 32360'),'representative variant');
+ assert.equal(photographMatch(p,'Breitling','A32360B4/C698'),null);
+});
 test('neighbouring Rolex/Breitling/Cartier/Omega/Panerai references cannot inherit images',()=>{
  for(const [brand,ref,near] of [['Rolex','126610LN','126610LV'],['Breitling','A32360','A32350'],['Cartier','WSSA0022','WSSA0023'],['Omega','2254.50','2255.50'],['Panerai','PAM00024','PAM00025']]){
   const p=fixture({brand,references:[ref],representativeFor:[]});assert.equal(matchingPhotographs([p],brand,ref).length,1);assert.equal(matchingPhotographs([p],brand,near).length,0);
@@ -46,4 +51,21 @@ test('coverage never promotes textual research to verified photographs',()=>{
  assert.equal(new Set(catalogue.photographs.map(p=>p.id)).size,catalogue.photographs.length);
  assert.ok(catalogue.photographs.some(p=>p.review.status==='rejected'&&p.category==='movement'));
  assert.match(coverage.completion,/IN PROGRESS/);
+});
+test('accepted specimen photographs retain material, period and movement boundaries',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const forRef=(brand,reference)=>matchingPhotographs(photos,brand,reference);
+ const gold=forRef('Rolex','16618');assert.ok(gold.some(p=>p.id==='bukowskis-16618-front'));
+ assert.ok(!forRef('Rolex','16610').some(p=>p.id==='bukowskis-16618-front'));
+ assert.ok(!forRef('Rolex','126300-0007').some(p=>p.id==='bukowskis-126300-front'));
+ assert.ok(!forRef('Tudor','M25407N-0001').some(p=>p.id==='bukowskis-25407n-front'));
+ const early=forRef('Tudor','79160').filter(p=>p.category==='movement');
+ const later=forRef('Tudor','79170').filter(p=>p.category==='movement');
+ assert.ok(early.length&&later.length);assert.ok(early.every(p=>!later.some(q=>q.id===p.id)));
+ assert.ok(early.every(p=>/plain printed rotor/.test(p.variant)));
+ assert.ok(later.every(p=>/striped printed rotor/.test(p.variant)));
+ assert.ok(forRef('Tudor','7032/0').every(p=>p.category!=='movement'));
+ for(const reference of ['16220','16233','279171','6605','1680'])assert.ok(forRef('Rolex',reference).every(p=>p.category!=='front'),reference);
+ assert.ok(forRef('Tudor','79090').some(p=>p.category==='front'&&p.variant.includes('1993 blue')));
+ assert.ok(forRef('Tudor','79190').filter(p=>p.category==='front').every(p=>!p.variant.includes('1993 blue')));
 });

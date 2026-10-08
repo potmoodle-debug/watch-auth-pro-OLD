@@ -33,3 +33,5 @@ Run node --test tests/*.mjs for scope, movement comparison, factual note wording
 Run python -m http.server 8765 and node tests/photographs-browser.cjs with Playwright and system Chromium for browser workflow checks. These use mocked account/database responses and non-watch image fixtures; real photographs, live RLS and deployment require separate verification.
 
 The account/session client uses Supabase REST endpoints, refreshes expiring access tokens and preserves errors without reporting unsaved writes as completed. Draft/session storage is browser-local; completed records and team knowledge are central.
+
+Run node tests/photographs-real-browser.cjs against the same local server to load and enlarge every accepted actual photograph with credits and representative labels. This uses public image servers and normal TLS certificate checks; configure Chromium to trust the environment proxy CA when required. It does not authenticate to or mutate the shared database. See PHOTO_RESEARCH.md for exact research coverage and remaining live-validation requirements.

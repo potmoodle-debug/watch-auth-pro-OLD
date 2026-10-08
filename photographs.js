@@ -10,8 +10,10 @@ export const photoCategories=[
 export function photographMatch(photo,brand,reference){
  if(normalize(photo.brand)!==normalize(brand)||!normalize(reference))return null;
  const n=normalize(reference);
- if((photo.references||[]).some(r=>normalize(r)===n))return 'documented reference / variant';
+ // A source can identify the case reference while only illustrating one of
+ // its dial/bracelet variants. Preserve that explicitly representative label.
  if((photo.representativeFor||[]).some(r=>normalize(r)===n))return 'representative variant';
+ if((photo.references||[]).some(r=>normalize(r)===n))return 'documented reference / variant';
  return null;
 }
 
