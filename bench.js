@@ -1,14 +1,14 @@
-import {performanceStats,resetCorrections} from './performance.js?v=day05';
-import {technologyReminder} from './movement-reminders.js?v=day05';
-import {claspMatches,serialHints,needsResearch,replicaSignals} from './qol.js?v=day05';
-import * as cloud from './cloud.js?v=day05';
-import {normalize,londonDay,matchingRule,safetyRule,movementResult,finalNote,pace} from './core.js?v=day05';
+import {performanceStats,resetCorrections} from './performance.js?v=simple06';
+import {technologyReminder} from './movement-reminders.js?v=simple06';
+import {claspMatches,serialHints,needsResearch,replicaSignals} from './qol.js?v=simple06';
+import * as cloud from './cloud.js?v=simple06';
+import {normalize,londonDay,matchingRule,safetyRule,movementResult,finalNote,pace} from './core.js?v=simple06';
 const $=id=>document.getElementById(id),esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const safeUrl=v=>{try{const u=new URL(v);return ['https:','http:'].includes(u.protocol)?u.href:'';}catch{return '';}};
 const link=(url,label)=>safeUrl(url)?'<a target="_blank" rel="noopener" href="'+esc(safeUrl(url))+'">'+esc(label)+'</a>':esc(label);
 let intelligence={rules:[],safety:[],serial:{}},samples={},identity=null,rule=null,user=null,member=null,lookupVersion=0;
 let inspectionId=crypto.randomUUID(),pending=null,saved=false,noteDirty=false,logs=[],counterfeits=[],entryAction=null,entryId=null,lastDay=londonDay(),daily=null,serialTimer=null,pendingResearch=null;
-const inputIds=['brand','reference','serial','movementType','calibre','clasp','overall','comments','issue','outcome','workflow','battery'];
+const inputIds=['brand','reference','serial','movementType','calibre','clasp','overall','comments','issue','battery'];
 const conditionNames=['Clean','Dirty','Rusted','Damaged','Modified','Aged','External only'];
 const componentNames=['Clasp','Bracelet / strap','Case','Crown','Pushers','Crystal','Dial','Hands','Movement'];
 function status(text,error=false){$('status').textContent=text;$('status').className=error?'error':'';}
@@ -73,7 +73,7 @@ function selectedConditions(){return [...document.querySelectorAll('#conditions 
 function collect(){
  const details={movementType:$('movementType').value,calibre:$('calibre').value.trim(),clasp:$('clasp').value.trim(),overall:$('overall').value.trim(),comments:$('comments').value.trim(),issue:$('issue').value.trim(),conditions:selectedConditions(),battery:$('batteryField').hidden?'':$('battery').value,components:Object.fromEntries(componentNames.map((x,i)=>[x,$('component'+i).value]))};
  details.externalOnly=details.conditions.includes('External only');
- return {id:inspectionId,author:user?.id,workflow:$('workflow').value,...identityKey(),serial:$('serial').value.trim(),details,outcome:$('outcome').value,contribution:1};
+ return {id:inspectionId,author:user?.id,workflow:'authentication',...identityKey(),serial:$('serial').value.trim(),details,outcome:'recorded',contribution:1};
 }
 function generate(force=false){if(noteDirty&&!force)return;$('note').value=finalNote(collect());noteDirty=false;}
 function autosave(){if(saved)return;try{localStorage.setItem('benchauth.draft',JSON.stringify({inspectionId,values:Object.fromEntries(inputIds.map(x=>[x,$(x).value])),conditions:selectedConditions(),components:componentNames.map((_,i)=>$('component'+i).value),note:$('note').value,noteDirty,pending,pendingResearch}));}catch{status('Draft recovery is unavailable in this browser. Save the inspection before closing.',true);}}
@@ -81,7 +81,7 @@ function lockBench(lock){document.querySelectorAll('#bench input,#bench select,#
 async function reset(){
  if(!saved&&!(await confirmMissingClasp()))return false;
  if(!saved&&(pending||$('comments').value||$('calibre').value||selectedConditions().length||noteDirty)&&!confirm('Start the next watch and discard this unsaved draft?'))return false;
- inputIds.forEach(id=>$(id).value=id==='workflow'?'authentication':id==='outcome'?'recorded':'');
+ inputIds.forEach(id=>$(id).value='');
  document.querySelectorAll('#conditions input').forEach(x=>x.checked=false);componentNames.forEach((_,i)=>$('component'+i).value='');
  identity=null;rule=null;lookupVersion++;inspectionId=crypto.randomUUID();pending=null;pendingResearch=null;saved=false;noteDirty=false;$('note').value='';$('teamNote').value='';$('watchInfo').hidden=true;$('calibreChoices').hidden=true;setIntelligenceExpanded(false);$('movementCheck').hidden=true;$('technologyReminder').hidden=true;$('batteryField').hidden=true;$('saveState').textContent='Not saved';$('complete').disabled=false;$('complete').textContent='Save & start next watch ↑';lockBench(false);localStorage.removeItem('benchauth.draft');status('Ready for the next watch.');syncBrandButtons();$('brand').focus();return true;
 }
@@ -264,7 +264,7 @@ window.addEventListener('beforeunload',()=>autosave());
 document.addEventListener('visibilitychange',()=>{if(!document.hidden&&member)updatePerformance().catch(e=>status(e.message,true));});
 setInterval(()=>{if(member){if(lastDay!==londonDay())updatePerformance().catch(e=>status(e.message,true));else if(daily)renderDailyCard();}},60000);
 async function init(){
- try{const [data,pictures,types]=await Promise.all([fetch('intelligence.json?v=day05').then(r=>{if(!r.ok)throw new Error('Reference database unavailable.');return r.json();}),fetch('samples.json?v=day05').then(r=>r.json()),fetch('movement-types.json?v=day05').then(r=>r.json())]);intelligence=data;const researched=await fetch('rolex-126505.json?v=day05').then(r=>{if(!r.ok)throw new Error('Daytona research unavailable.');return r.json();});intelligence.rules=intelligence.rules.filter(r=>!(r.brand==='ROLEX'&&(r.refs||[]).includes('126505'))).concat([{...researched,benchStatus:'verified'}]);const updates=await fetch('research-updates-20261008.json?v=day05').then(r=>{if(!r.ok)throw new Error('Reviewed research unavailable.');return r.json();});intelligence.rules=updates.concat(intelligence.rules);samples=pictures;types.forEach(x=>{const opt=document.createElement('option');opt.value=x;opt.textContent=x;$('movementType').appendChild(opt);});
+ try{const [data,pictures,types]=await Promise.all([fetch('intelligence.json?v=simple06').then(r=>{if(!r.ok)throw new Error('Reference database unavailable.');return r.json();}),fetch('samples.json?v=simple06').then(r=>r.json()),fetch('movement-types.json?v=simple06').then(r=>r.json())]);intelligence=data;const researched=await fetch('rolex-126505.json?v=simple06').then(r=>{if(!r.ok)throw new Error('Daytona research unavailable.');return r.json();});intelligence.rules=intelligence.rules.filter(r=>!(r.brand==='ROLEX'&&(r.refs||[]).includes('126505'))).concat([{...researched,benchStatus:'verified'}]);const updates=await fetch('research-updates-20261008.json?v=simple06').then(r=>{if(!r.ok)throw new Error('Reviewed research unavailable.');return r.json();});intelligence.rules=updates.concat(intelligence.rules);samples=pictures;types.forEach(x=>{const opt=document.createElement('option');opt.value=x;opt.textContent=x;$('movementType').appendChild(opt);});
  const brands=[...new Set(intelligence.rules.map(r=>r.brand).concat(intelligence.safety.map(r=>r.brand)))].sort();$('otherBrandButtons').innerHTML=brands.filter(x=>!['TUDOR','ROLEX','OMEGA','BREITLING','CARTIER','TAGHEUER'].includes(normalize(x))).map(x=>'<button type="button" data-brand-choice="'+esc(x)+'" aria-pressed="false">'+esc(x)+'</button>').join('');renderReferences();
  let draft;try{draft=JSON.parse(localStorage.getItem('benchauth.draft'));}catch{}
  if(draft){inspectionId=draft.inspectionId||inspectionId;for(const [k,v]of Object.entries(draft.values||{}))if($(k))$(k).value=v;document.querySelectorAll('#conditions input').forEach(x=>x.checked=draft.conditions?.includes(x.value));(draft.components||[]).forEach((v,i)=>$('component'+i).value=v);$('note').value=draft.note||'';noteDirty=!!draft.noteDirty;pending=draft.pending||null;pendingResearch=draft.pendingResearch||null;enforceSafety();if(pending){lockBench(true);$('complete').textContent='Retry saving this inspection';}status('Previous unsaved inspection draft restored.');}
