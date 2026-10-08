@@ -1,0 +1,721 @@
+{
+  "version": 1,
+  "completion": "IN PROGRESS",
+  "photographs": [
+    {
+      "id": "legacy-001",
+      "brand": "BREITLING",
+      "references": [
+        "A32360"
+      ],
+      "representativeFor": [],
+      "variant": "A32360",
+      "category": "front",
+      "title": "A32360 \u2014 white-dial specimen",
+      "caption": "Cash Converters' photographed A32360, described as 90/100. Comparison example, not serial 740203; dial and edition must be checked separately. \u00a9 source seller.",
+      "image": "https://www.cashconverters.co.uk/globalassets/catalogs/7add603c-5f8b-40e5-9b27-b0d500fd6be6.jpg",
+      "source": "https://www.cashconverters.co.uk/shop/jewellery--fashion/fashion-accessories/watches/watch/052700082882",
+      "credit": "Unconfirmed \u2014 verify with originating source",
+      "mediaKind": "unverified",
+      "origin": "intelligence.json",
+      "review": {
+        "status": "pending",
+        "reason": "Existing asset: source identity, real-photograph status, visual contents and live loading await inspection."
+      }
+    },
+    {
+      "id": "legacy-002",
+      "brand": "ROLEX",
+      "references": [
+        "126505-0001",
+        "M126505-0001"
+      ],
+      "representativeFor": [
+        "126505",
+        "M126505"
+      ],
+      "variant": "126505-0001",
+      "category": "front",
+      "title": "126505-0001 \u2014 black / Sundust",
+      "caption": "Official Rolex reference image. This dial variant is one example; base reference 126505 does not uniquely identify the dial. \u00a9 Rolex.",
+      "image": "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit%2Cw_1920/v1/a677b2c664f6/catalogue/2026/upright-c/m126505-0001",
+      "source": "https://www.rolex.com/en-gb/watches/cosmograph-daytona/m126505-0001",
+      "credit": "Unconfirmed \u2014 verify with originating source",
+      "mediaKind": "unverified",
+      "origin": "intelligence.json",
+      "review": {
+        "status": "pending",
+        "reason": "Existing asset: source identity, real-photograph status, visual contents and live loading await inspection."
+      }
+    },
+    {
+      "id": "legacy-003",
+      "brand": "ROLEX",
+      "references": [
+        "126505"
+      ],
+      "representativeFor": [],
+      "variant": "126505",
+      "category": "movement",
+      "title": "Genuine calibre 4131 \u2014 Rolex movement photograph",
+      "caption": "Official Rolex 4131 photograph: compare rotor, bridge layout, balance and finishing. Calibre-level comparison, not a photograph of this individual watch. \u00a9 Rolex.",
+      "image": "https://newsroom-content.rolex.com/-/media/project/rolex/newsroom/rolex/rolex-newsroom-int/2024-04/cosmograph-daytona/gallery/newsroom-joyeuse-movt4131_2301dh_001.jpg?imwidth=1600",
+      "source": "https://newsroom.rolex.com/watches/new-watches-2024/cosmograph-daytona",
+      "credit": "Unconfirmed \u2014 verify with originating source",
+      "mediaKind": "unverified",
+      "origin": "intelligence.json",
+      "review": {
+        "status": "pending",
+        "reason": "Existing asset: source identity, real-photograph status, visual contents and live loading await inspection."
+      }
+    },
+    {
+      "id": "legacy-004",
+      "brand": "ROLEX",
+      "references": [
+        "126505-0001",
+        "M126505-0001"
+      ],
+      "representativeFor": [
+        "126505",
+        "M126505"
+      ],
+      "variant": "126505-0001",
+      "category": "detail",
+      "title": "Look here \u2014 dial and counter layout",
+      "caption": "126505-0001 dial close-up. Small seconds at 6; elapsed minutes at 3; elapsed hours at 9. Compare the actual dial execution separately. \u00a9 Rolex.",
+      "image": "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7/c_limit%2Cw_1920/v1/a677b2c664f6/catalogue/2026/raw-dial-constant-size-with-shadow/m126505-0001",
+      "source": "https://www.rolex.com/en-gb/watches/cosmograph-daytona/m126505-0001",
+      "credit": "Unconfirmed \u2014 verify with originating source",
+      "mediaKind": "unverified",
+      "origin": "intelligence.json",
+      "review": {
+        "status": "pending",
+        "reason": "Existing asset: source identity, real-photograph status, visual contents and live loading await inspection."
+      }
+    },
+    {
+      "id": "legacy-005",
+      "brand": "TUDOR",
+      "references": [
+        "25600TN-0001",
+        "M25600TN-0001"
+      ],
+      "representativeFor": [
+        "25600TN",
+        "M25600TN"
+      ],
+      "variant": "25600TN-0001",
+      "category": "front",
+      "title": "25600TN-0001 \u2014 official watch photograph",
+      "caption": "Manufacturer catalogue execution. Compare the actual dial and bracelet suffix separately. \u00a9 TUDOR.",
+      "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-watch/c_limit%2Cw_3840/v1/catalogue/0yi5ee8b69yh3/upright-cb-with-drop-shadow/tudor-m25600tn-0001",
+      "source": "https://www.tudorwatch.com/en/watches/pelagos/m25600tn-0001",
+      "credit": "Unconfirmed \u2014 verify with originating source",
+      "mediaKind": "unverified",
+      "origin": "research-updates-20261008.json",
+      "review": {
+        "status": "pending",
+        "reason": "Existing asset: source identity, real-photograph status, visual contents and live loading await inspection."
+      }
+    },
+    {
+      "id": "legacy-006",
+      "brand": "TUDOR",
+      "references": [
+        "25600TB-0001",
+        "M25600TB-0001"
+      ],
+      "representativeFor": [
+        "25600TB",
+        "M25600TB"
+      ],
+      "variant": "25600TB-0001",
+      "category": "front",
+      "title": "25600TB-0001 \u2014 official watch photograph",
+      "caption": "Manufacturer catalogue execution. Compare the actual dial and bracelet suffix separately. \u00a9 TUDOR.",
+      "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-watch/c_limit%2Cw_3840/v1/catalogue/0yi5ee8b69yh3/upright-cb-with-drop-shadow/tudor-m25600tb-0001",
+      "source": "https://www.tudorwatch.com/en/watches/pelagos/m25600tb-0001",
+      "credit": "Unconfirmed \u2014 verify with originating source",
+      "mediaKind": "unverified",
+      "origin": "research-updates-20261008.json",
+      "review": {
+        "status": "pending",
+        "reason": "Existing asset: source identity, real-photograph status, visual contents and live loading await inspection."
+      }
+    },
+    {
+      "id": "legacy-007",
+      "brand": "TUDOR",
+      "references": [
+        "79470-0001",
+        "M79470-0001"
+      ],
+      "representativeFor": [
+        "79470",
+        "M79470"
+      ],
+      "variant": "79470-0001",
+      "category": "front",
+      "title": "79470-0001 \u2014 official watch photograph",
+      "caption": "Manufacturer catalogue execution. Compare the actual dial and bracelet suffix separately. \u00a9 TUDOR.",
+      "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-watch/c_limit%2Cw_3840/v1/catalogue/0yi5ee8b69yh3/upright-cb-with-drop-shadow/tudor-m79470-0001",
+      "source": "https://www.tudorwatch.com/en/watches/black-bay-pro/m79470-0001",
+      "credit": "Unconfirmed \u2014 verify with originating source",
+      "mediaKind": "unverified",
+      "origin": "research-updates-20261008.json",
+      "review": {
+        "status": "pending",
+        "reason": "Existing asset: source identity, real-photograph status, visual contents and live loading await inspection."
+      }
+    },
+    {
+      "id": "legacy-008",
+      "brand": "TUDOR",
+      "references": [
+        "79000N-0001",
+        "M79000N-0001"
+      ],
+      "representativeFor": [
+        "79000N",
+        "M79000N"
+      ],
+      "variant": "79000N-0001",
+      "category": "front",
+      "title": "79000N-0001 \u2014 official watch photograph",
+      "caption": "Manufacturer catalogue execution. Compare the actual dial and bracelet suffix separately. \u00a9 TUDOR.",
+      "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-watch/c_limit%2Cw_3840/v1/catalogue/0yi5ee8b69yh3/upright-cb-with-drop-shadow/tudor-m79000n-0001",
+      "source": "https://www.tudorwatch.com/en/watches/black-bay-54/m79000n-0001",
+      "credit": "Unconfirmed \u2014 verify with originating source",
+      "mediaKind": "unverified",
+      "origin": "research-updates-20261008.json",
+      "review": {
+        "status": "pending",
+        "reason": "Existing asset: source identity, real-photograph status, visual contents and live loading await inspection."
+      }
+    },
+    {
+      "id": "legacy-009",
+      "brand": "TUDOR",
+      "references": [
+        "7939G1A0NRU-0001",
+        "M7939G1A0NRU-0001"
+      ],
+      "representativeFor": [
+        "7939G1A0NRU",
+        "M7939G1A0NRU"
+      ],
+      "variant": "7939G1A0NRU-0001",
+      "category": "front",
+      "title": "7939G1A0NRU-0001 \u2014 official watch photograph",
+      "caption": "Manufacturer catalogue execution. Compare the actual dial and bracelet suffix separately. \u00a9 TUDOR.",
+      "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-watch/c_limit%2Cw_3840/v1/catalogue/0yi5ee8b69yh3/upright-cb-with-drop-shadow/tudor-m7939g1a0nru-0001",
+      "source": "https://www.tudorwatch.com/en/watches/black-bay-58/m7939g1a0nru-0001",
+      "credit": "Unconfirmed \u2014 verify with originating source",
+      "mediaKind": "unverified",
+      "origin": "research-updates-20261008.json",
+      "review": {
+        "status": "pending",
+        "reason": "Existing asset: source identity, real-photograph status, visual contents and live loading await inspection."
+      }
+    },
+    {
+      "id": "legacy-010",
+      "brand": "TUDOR",
+      "references": [
+        "79360N-0013",
+        "M79360N-0013"
+      ],
+      "representativeFor": [
+        "79360N",
+        "M79360N"
+      ],
+      "variant": "79360N-0013",
+      "category": "front",
+      "title": "79360N-0013 \u2014 official watch photograph",
+      "caption": "Manufacturer catalogue execution. Compare the actual dial and bracelet suffix separately. \u00a9 TUDOR.",
+      "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-watch/c_limit%2Cw_3840/v1/catalogue/0yi5ee8b69yh3/upright-cb-with-drop-shadow/tudor-m79360n-0013",
+      "source": "https://www.tudorwatch.com/en/watches/black-bay-chrono/m79360n-0013",
+      "credit": "Unconfirmed \u2014 verify with originating source",
+      "mediaKind": "unverified",
+      "origin": "research-updates-20261008.json",
+      "review": {
+        "status": "pending",
+        "reason": "Existing asset: source identity, real-photograph status, visual contents and live loading await inspection."
+      }
+    },
+    {
+      "id": "legacy-011",
+      "brand": "TUDOR",
+      "references": [
+        "79950-0001",
+        "M79950-0001"
+      ],
+      "representativeFor": [
+        "79950",
+        "M79950"
+      ],
+      "variant": "79950-0001",
+      "category": "front",
+      "title": "79950-0001 \u2014 official watch photograph",
+      "caption": "Manufacturer catalogue execution. Compare the actual dial and bracelet suffix separately. \u00a9 TUDOR.",
+      "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-watch/c_limit%2Cw_3840/v1/catalogue/0yi5ee8b69yh3/upright-cb-with-drop-shadow/tudor-m79950-0001",
+      "source": "https://www.tudorwatch.com/en/watches/ranger/m79950-0001",
+      "credit": "Unconfirmed \u2014 verify with originating source",
+      "mediaKind": "unverified",
+      "origin": "research-updates-20261008.json",
+      "review": {
+        "status": "pending",
+        "reason": "Existing asset: source identity, real-photograph status, visual contents and live loading await inspection."
+      }
+    },
+    {
+      "id": "legacy-012",
+      "brand": "TUDOR",
+      "references": [
+        "25407N-0001",
+        "M25407N-0001"
+      ],
+      "representativeFor": [
+        "25407N",
+        "M25407N"
+      ],
+      "variant": "25407N-0001",
+      "category": "front",
+      "title": "25407N-0001 \u2014 official watch photograph",
+      "caption": "Manufacturer catalogue execution. Compare the actual dial and bracelet suffix separately. \u00a9 TUDOR.",
+      "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-watch/c_limit%2Cw_3840/v1/catalogue/0yi5ee8b69yh3/upright-cb-with-drop-shadow/tudor-m25407n-0001",
+      "source": "https://www.tudorwatch.com/en/watches/pelagos/m25407n-0001",
+      "credit": "Unconfirmed \u2014 verify with originating source",
+      "mediaKind": "unverified",
+      "origin": "research-updates-20261008.json",
+      "review": {
+        "status": "pending",
+        "reason": "Existing asset: source identity, real-photograph status, visual contents and live loading await inspection."
+      }
+    },
+    {
+      "id": "legacy-013",
+      "brand": "ROLEX",
+      "references": [
+        "126610LN-0001",
+        "M126610LN-0001"
+      ],
+      "representativeFor": [
+        "126610LN",
+        "M126610LN"
+      ],
+      "variant": "126610LN-0001",
+      "category": "front",
+      "title": "126610LN-0001 \u2014 official catalogue photograph",
+      "caption": "Compare dial and bracelet execution separately. \u00a9 Rolex.",
+      "image": "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit%2Cw_1920/v1/a677b2c664f6/catalogue/2026/upright-c/m126610ln-0001",
+      "source": "https://www.rolex.com/watches/submariner/m126610ln-0001",
+      "credit": "Unconfirmed \u2014 verify with originating source",
+      "mediaKind": "unverified",
+      "origin": "research-updates-20261008.json",
+      "review": {
+        "status": "pending",
+        "reason": "Existing asset: source identity, real-photograph status, visual contents and live loading await inspection."
+      }
+    },
+    {
+      "id": "legacy-014",
+      "brand": "ROLEX",
+      "references": [
+        "126710BLNR-0003",
+        "M126710BLNR-0003"
+      ],
+      "representativeFor": [
+        "126710BLNR",
+        "M126710BLNR"
+      ],
+      "variant": "126710BLNR-0003",
+      "category": "front",
+      "title": "126710BLNR-0003 \u2014 official catalogue photograph",
+      "caption": "Compare dial and bracelet execution separately. \u00a9 Rolex.",
+      "image": "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit%2Cw_1920/v1/a677b2c664f6/catalogue/2026/upright-c/m126710blnr-0003",
+      "source": "https://www.rolex.com/watches/gmt-master-ii/m126710blnr-0003",
+      "credit": "Unconfirmed \u2014 verify with originating source",
+      "mediaKind": "unverified",
+      "origin": "research-updates-20261008.json",
+      "review": {
+        "status": "pending",
+        "reason": "Existing asset: source identity, real-photograph status, visual contents and live loading await inspection."
+      }
+    },
+    {
+      "id": "legacy-015",
+      "brand": "ROLEX",
+      "references": [
+        "124270-0001",
+        "M124270-0001"
+      ],
+      "representativeFor": [
+        "124270",
+        "M124270"
+      ],
+      "variant": "124270-0001",
+      "category": "front",
+      "title": "124270-0001 \u2014 official catalogue photograph",
+      "caption": "Compare dial and bracelet execution separately. \u00a9 Rolex.",
+      "image": "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit%2Cw_1920/v1/a677b2c664f6/catalogue/2026/upright-c/m124270-0001",
+      "source": "https://www.rolex.com/watches/explorer/m124270-0001",
+      "credit": "Unconfirmed \u2014 verify with originating source",
+      "mediaKind": "unverified",
+      "origin": "research-updates-20261008.json",
+      "review": {
+        "status": "pending",
+        "reason": "Existing asset: source identity, real-photograph status, visual contents and live loading await inspection."
+      }
+    },
+    {
+      "id": "legacy-016",
+      "brand": "ROLEX",
+      "references": [
+        "126300-0007",
+        "M126300-0007"
+      ],
+      "representativeFor": [
+        "126300",
+        "M126300"
+      ],
+      "variant": "126300-0007",
+      "category": "front",
+      "title": "126300-0007 \u2014 official catalogue photograph",
+      "caption": "Compare dial and bracelet execution separately. \u00a9 Rolex.",
+      "image": "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit%2Cw_1920/v1/a677b2c664f6/catalogue/2026/upright-c/m126300-0007",
+      "source": "https://www.rolex.com/en-gb/watches/datejust/m126300-0007",
+      "credit": "Unconfirmed \u2014 verify with originating source",
+      "mediaKind": "unverified",
+      "origin": "research-updates-20261008.json",
+      "review": {
+        "status": "pending",
+        "reason": "Existing asset: source identity, real-photograph status, visual contents and live loading await inspection."
+      }
+    },
+    {
+      "id": "legacy-017",
+      "brand": "BREITLING",
+      "references": [
+        "X83310"
+      ],
+      "representativeFor": [],
+      "variant": "X83310",
+      "category": "front",
+      "title": "X83310D41B1S1 \u2014 official watch photograph",
+      "caption": "Manufacturer catalogue execution. Other dial/strap or limited-edition suffixes require separate comparison. \u00a9 Breitling.",
+      "image": "https://www.breitling.com/api/image-proxy/www-breitling.eu.saleor.cloud/media/thumbnails/products/x83310d41b1s1-soldier_049e2d75_thumbnail_1024.webp?format=auto&imwidth=2040",
+      "source": "https://www.breitling.com/gb-en/watches/professional/endurance-pro-38mm/X83310D41B1S1/",
+      "credit": "Unconfirmed \u2014 verify with originating source",
+      "mediaKind": "unverified",
+      "origin": "research-updates-20261008.json",
+      "review": {
+        "status": "pending",
+        "reason": "Existing asset: source identity, real-photograph status, visual contents and live loading await inspection."
+      }
+    },
+    {
+      "id": "legacy-018",
+      "brand": "BREITLING",
+      "references": [
+        "EB7010"
+      ],
+      "representativeFor": [],
+      "variant": "EB7010",
+      "category": "front",
+      "title": "EB70101A1O1E1 \u2014 official watch photograph",
+      "caption": "Manufacturer catalogue execution. Other dial/strap or limited-edition suffixes require separate comparison. \u00a9 Breitling.",
+      "image": "https://www.breitling.com/api/image-proxy/www-breitling.eu.saleor.cloud/media/thumbnails/products/eb70101a1o1e1-soldier_c302df32_thumbnail_1024.webp?format=auto&imwidth=2040",
+      "source": "https://www.breitling.com/gb-en/watches/professional/aerospace-b70/EB70101A1O1E1/",
+      "credit": "Unconfirmed \u2014 verify with originating source",
+      "mediaKind": "unverified",
+      "origin": "research-updates-20261008.json",
+      "review": {
+        "status": "pending",
+        "reason": "Existing asset: source identity, real-photograph status, visual contents and live loading await inspection."
+      }
+    },
+    {
+      "id": "legacy-019",
+      "brand": "BREITLING",
+      "references": [
+        "AB2020"
+      ],
+      "representativeFor": [],
+      "variant": "AB2020",
+      "category": "front",
+      "title": "AB2020121L1A1 \u2014 official watch photograph",
+      "caption": "Manufacturer catalogue execution. Other dial/strap or limited-edition suffixes require separate comparison. \u00a9 Breitling.",
+      "image": "https://www.breitling.com/api/image-proxy/www-breitling.eu.saleor.cloud/media/thumbnails/products/ab2020121l1a1-soldier_550323e2_thumbnail_1024.webp?format=auto&imwidth=780",
+      "source": "https://www.breitling.com/gb-en/watches/superocean-heritage/superocean-heritage-b20-automatic-46/AB2020121L1A1/",
+      "credit": "Unconfirmed \u2014 verify with originating source",
+      "mediaKind": "unverified",
+      "origin": "research-updates-20261008.json",
+      "review": {
+        "status": "pending",
+        "reason": "Existing asset: source identity, real-photograph status, visual contents and live loading await inspection."
+      }
+    },
+    {
+      "id": "legacy-020",
+      "brand": "IWC",
+      "references": [
+        "IW328106"
+      ],
+      "representativeFor": [],
+      "variant": "IW328106",
+      "category": "front",
+      "title": "IW328106 official product photograph",
+      "caption": "Exact-reference comparison photograph \u00a9 IWC. Product imagery does not authenticate the inspected watch.",
+      "image": "https://img.iwc.com/product-slideshow-thumbnail-1/5052f4586eda0a557644cb6d4d995cffe72d5025.jpg",
+      "source": "https://www.iwc.com/gb-en/watches/pilot-watches/iw328106-pilots-watch-automatic-41-top-gun-mojave-desert",
+      "credit": "Unconfirmed \u2014 verify with originating source",
+      "mediaKind": "unverified",
+      "origin": "research-updates-20261008.json",
+      "review": {
+        "status": "pending",
+        "reason": "Existing asset: source identity, real-photograph status, visual contents and live loading await inspection."
+      }
+    },
+    {
+      "id": "legacy-021",
+      "brand": "IWC",
+      "references": [
+        "IW388113"
+      ],
+      "representativeFor": [],
+      "variant": "IW388113",
+      "category": "front",
+      "title": "IW388113 official product photograph",
+      "caption": "Exact-reference comparison photograph \u00a9 IWC. Product imagery does not authenticate the inspected watch.",
+      "image": "https://img.iwc.com/product-slideshow-thumbnail-1/cd1db0d2fc91cad7fce41c08b55ea837b9a4031d.jpg",
+      "source": "https://www.iwc.com/us-en/watches/pilot-watches/iw388113-pilots-watch-chronograph-41",
+      "credit": "Unconfirmed \u2014 verify with originating source",
+      "mediaKind": "unverified",
+      "origin": "research-updates-20261008.json",
+      "review": {
+        "status": "pending",
+        "reason": "Existing asset: source identity, real-photograph status, visual contents and live loading await inspection."
+      }
+    },
+    {
+      "id": "legacy-022",
+      "brand": "IWC",
+      "references": [
+        "IW329301"
+      ],
+      "representativeFor": [],
+      "variant": "IW329301",
+      "category": "front",
+      "title": "IW329301 official product photograph",
+      "caption": "Exact-reference comparison photograph \u00a9 IWC. Product imagery does not authenticate the inspected watch.",
+      "image": "https://img.iwc.com/product-slideshow-thumbnail-1/f3d8442f923c59ce823075304de4c5911ecad302.jpg",
+      "source": "https://www.iwc.com/ww-en/watches/pilot-watches/iw329301-big-pilots-watch-43",
+      "credit": "Unconfirmed \u2014 verify with originating source",
+      "mediaKind": "unverified",
+      "origin": "research-updates-20261008.json",
+      "review": {
+        "status": "pending",
+        "reason": "Existing asset: source identity, real-photograph status, visual contents and live loading await inspection."
+      }
+    },
+    {
+      "id": "legacy-023",
+      "brand": "IWC",
+      "references": [
+        "IW328206"
+      ],
+      "representativeFor": [],
+      "variant": "IW328206",
+      "category": "front",
+      "title": "IW328206 official product photograph",
+      "caption": "Exact-reference comparison photograph \u00a9 IWC. Product imagery does not authenticate the inspected watch.",
+      "image": "https://img.iwc.com/product-slideshow-thumbnail-1/186d2139ab66c13ecccb8bf6564e3126af09ae04.jpg",
+      "source": "https://www.iwc.com/ch-en/watches/pilot-watches/iw328206-pilots-watch-mark-xx",
+      "credit": "Unconfirmed \u2014 verify with originating source",
+      "mediaKind": "unverified",
+      "origin": "research-updates-20261008.json",
+      "review": {
+        "status": "pending",
+        "reason": "Existing asset: source identity, real-photograph status, visual contents and live loading await inspection."
+      }
+    },
+    {
+      "id": "legacy-024",
+      "brand": "IWC",
+      "references": [
+        "IW388108"
+      ],
+      "representativeFor": [],
+      "variant": "IW388108",
+      "category": "front",
+      "title": "IW388108 official product photograph",
+      "caption": "Exact-reference comparison photograph \u00a9 IWC. Product imagery does not authenticate the inspected watch.",
+      "image": "https://img.iwc.com/product-slideshow-thumbnail-1/a4a5b01633e9091f1e037323efb5f294a2e86213.jpg",
+      "source": "https://www.iwc.com/ae-en/watches/pilot-watches/iw388108-pilots-watch-chronograph-41-edition-mercedes-amg-petronas",
+      "credit": "Unconfirmed \u2014 verify with originating source",
+      "mediaKind": "unverified",
+      "origin": "research-updates-20261008.json",
+      "review": {
+        "status": "pending",
+        "reason": "Existing asset: source identity, real-photograph status, visual contents and live loading await inspection."
+      }
+    },
+    {
+      "id": "legacy-025",
+      "brand": "ROLEX",
+      "references": [
+        "126610LN-0001",
+        "M126610LN-0001"
+      ],
+      "representativeFor": [
+        "126610LN",
+        "M126610LN"
+      ],
+      "variant": "126610LN-0001",
+      "category": "front",
+      "title": "Reference appearance",
+      "caption": "Quick visual confirmation of overall configuration.",
+      "image": "https://www.ap-watches.com/ap-watches/fotos/1-2-rolex-submariner-date-126610ln-nuevo-modelo-id14934-1611744892.png",
+      "source": "https://www.rolex.com/en-us/watches/submariner/m126610ln-0001",
+      "credit": "Unconfirmed \u2014 verify with originating source",
+      "mediaKind": "unverified",
+      "origin": "samples.json",
+      "review": {
+        "status": "pending",
+        "reason": "Existing asset: source identity, real-photograph status, visual contents and live loading await inspection."
+      }
+    },
+    {
+      "id": "legacy-026",
+      "brand": "ROLEX",
+      "references": [
+        "126610LN"
+      ],
+      "representativeFor": [],
+      "variant": "126610LN",
+      "category": "movement",
+      "title": "Calibre 3235",
+      "caption": "Open only when an internal visual comparison is useful.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/12/27/rolex-submariner-black-dial-ceramic-bezel-steel-mens-watch-126610-box-card-57461_6ecca.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex-submariner-black-dial-ceramic-bezel-steel-mens-watch-126610-box-card-57461/",
+      "credit": "Unconfirmed \u2014 verify with originating source",
+      "mediaKind": "unverified",
+      "origin": "samples.json",
+      "review": {
+        "status": "rejected",
+        "reason": "Prototype labels a dealer product-gallery photo as calibre 3235 without checked movement content or execution evidence. Do not use as a movement match."
+      }
+    },
+    {
+      "id": "legacy-027",
+      "brand": "TUDOR",
+      "references": [
+        "25600TN-0001",
+        "M25600TN-0001"
+      ],
+      "representativeFor": [
+        "25600T",
+        "M25600T"
+      ],
+      "variant": "25600TN-0001",
+      "category": "front",
+      "title": "Reference appearance",
+      "caption": "Use as a quick visual orientation, not as proof of authenticity.",
+      "image": "https://cdn.ugursaat.com.tr/images/products/tudor-pelagos-3-11685361026.jpg",
+      "source": "https://www.tudorwatch.com/en/watches/pelagos/m25600tn-0001",
+      "credit": "Unconfirmed \u2014 verify with originating source",
+      "mediaKind": "unverified",
+      "origin": "samples.json",
+      "review": {
+        "status": "pending",
+        "reason": "Prototype family 25600T must not be silently equated to exact 25600TN. Confirm source, contents and alias scope before use."
+      }
+    },
+    {
+      "id": "legacy-028",
+      "brand": "TUDOR",
+      "references": [
+        "25600T"
+      ],
+      "representativeFor": [],
+      "variant": "25600T",
+      "category": "movement",
+      "title": "Calibre MT5612",
+      "caption": "Useful when you want a fast bridge/rotor layout comparison.",
+      "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit%2Cw_3840/v1/tudorwatch/watch-family/pelagos/07-features-popin/03-tudor-manufacture-calibre",
+      "source": "https://www.tudorwatch.com/en/watch-family/pelagos",
+      "credit": "Unconfirmed \u2014 verify with originating source",
+      "mediaKind": "unverified",
+      "origin": "samples.json",
+      "review": {
+        "status": "pending",
+        "reason": "Prototype family 25600T must not be silently equated to exact 25600TN. Confirm source, contents and alias scope before use."
+      }
+    },
+    {
+      "id": "legacy-029",
+      "brand": "BREITLING",
+      "references": [
+        "A13340"
+      ],
+      "representativeFor": [],
+      "variant": "A13340",
+      "category": "front",
+      "title": "A13340 reference watch",
+      "caption": "Actual Chrono SuperOcean A13340 reference photograph.",
+      "image": "https://www.breitlingsource.com/images/watches/cso_01.jpg",
+      "source": "https://www.breitlingsource.com/watch_details/Superocean_75.html",
+      "credit": "Unconfirmed \u2014 verify with originating source",
+      "mediaKind": "unverified",
+      "origin": "samples.json",
+      "review": {
+        "status": "pending",
+        "reason": "Existing asset: source identity, real-photograph status, visual contents and live loading await inspection."
+      }
+    },
+    {
+      "id": "legacy-030",
+      "brand": "BREITLING",
+      "references": [
+        "A13340"
+      ],
+      "representativeFor": [],
+      "variant": "A13340",
+      "category": "movement",
+      "title": "Breitling 13 / B13",
+      "caption": "Actual Breitling 13 reference movement image; base architecture is ETA Valjoux 7750.",
+      "image": "https://www.breitlingsource.com/images/movements/b13.jpg",
+      "source": "https://www.breitlingsource.com/details/B13.html",
+      "credit": "Unconfirmed \u2014 verify with originating source",
+      "mediaKind": "unverified",
+      "origin": "samples.json",
+      "review": {
+        "status": "pending",
+        "reason": "Existing asset: source identity, real-photograph status, visual contents and live loading await inspection."
+      }
+    },
+    {
+      "id": "legacy-031",
+      "brand": "SINN",
+      "references": [
+        "UX"
+      ],
+      "representativeFor": [],
+      "variant": "UX",
+      "category": "front",
+      "title": "Reference appearance",
+      "caption": "External reference only. No movement-comparison image is offered because the safety warning takes priority.",
+      "image": "https://www.hourstriker.com/core/images/articles/extreme-diving-watches-arms-race-11-21-2023-09.webp",
+      "source": "https://www.hourstriker.com/articles/extreme-diving-watches-arms-race",
+      "credit": "Unconfirmed \u2014 verify with originating source",
+      "mediaKind": "unverified",
+      "origin": "samples.json",
+      "review": {
+        "status": "pending",
+        "reason": "Existing asset: source identity, real-photograph status, visual contents and live loading await inspection."
+      }
+    }
+  ]
+}
