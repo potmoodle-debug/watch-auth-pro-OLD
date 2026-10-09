@@ -1,0 +1,1098 @@
+{
+  "reviewedAt": "2026-10-09T15:29:25.679453+00:00",
+  "completion": "IN PROGRESS",
+  "sourcePagesFetched": 44,
+  "galleriesInspected": 6,
+  "imageOccurrencesInspected": 83,
+  "attachedSpecimens": [
+    {
+      "caseReference": "116619",
+      "documentedVariant": "116619LB",
+      "source": "https://www.bukowskis.com/en/auctions/638/21-rolex-submariner-smurf-ca-2012",
+      "specimenDescription": "Case size: 40 mm Material: 18K white gold Movement: automatic, caliber 3135 Year: circa 2012 Crystal: sapphire crystal Bracelet: Oyster bracelet, folding clasp, ref. 97209-LT6/LT Reference number: 116619LB Serial number: V'712'370 Movement number: 3 2'964'838 Case number: 2379 Accompanied by: certificate, box, paper box Total weight: circa 217 grams Signs of wear with dings and scratches on the case and bracelet. Watches have been opened to examine movements therefore no warranties are made that the watches are water-resistant. Potential buyers should inspect each watch to satisfy themselves as to condition. For more information, please read our Conditions of Purchase. For condition report contact specialist Simon Naeslund Specialist Watches +46 (0)735 95 68 75 Email ",
+      "evidence": "Actual Bukowskis gallery photographs visually inspected, with selected fronts, movements, internal backs, clasps and case stamps inspected at full resolution. Source identifies 116619LB; photographed between-lug stamp identifies 116619, documenting this representative physical case-reference match. Case size: 40 mm Material: 18K white gold Movement: automatic, caliber 3135 Year: circa 2012 Crystal: sapphire crystal Bracelet: Oyster bracelet, folding clasp, ref. 97209-LT6/LT Reference number: 116619LB Serial number: V'712'370 Movement number: 3 2'964'838 Case number: 2379 Accompanied by: certificate, box, paper box Total weight: circa 217 grams Signs of wear with dings and scratches on the case and bracelet. Watches have been opened to examine movements therefore no warranties are made that the watches are water-resistant. Potential buyers should inspect each watch to satisfy themselves as to condition. For more information, please read our Conditions of Purchase. For condition report contact specialist Simon Naeslund Specialist Watches +46 (0)735 95 68 75 Email  Source: https://www.bukowskis.com/en/auctions/638/21-rolex-submariner-smurf-ca-2012",
+      "inspectedImages": [
+        {
+          "key": "638-21",
+          "reference": "116619LB",
+          "candidateCaseKey": "116619",
+          "source": "https://www.bukowskis.com/en/auctions/638/21-rolex-submariner-smurf-ca-2012",
+          "index": 0,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/yjdsfpDMUH0Fbccc4LSycdKtskGbKCdFg2TvDfLCE-E/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1392686-12732967_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM5MjY4Ni8xMjcz/Mjk2N19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "c150d997292f977a87dabb43620bd0d5155727892f4ec9499e85edfc1b6bb791"
+        },
+        {
+          "key": "638-21",
+          "reference": "116619LB",
+          "candidateCaseKey": "116619",
+          "source": "https://www.bukowskis.com/en/auctions/638/21-rolex-submariner-smurf-ca-2012",
+          "index": 1,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/M6FOxbG5sZipLevuGwkddNJFn2j-YtjBS1Z3qmpokhs/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1392686-12740818_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM5MjY4Ni8xMjc0/MDgxOF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "b99ded7df568bedc07ebbf68cdbe44670a4d4203ec59c0756c369a6c88a36b44"
+        },
+        {
+          "key": "638-21",
+          "reference": "116619LB",
+          "candidateCaseKey": "116619",
+          "source": "https://www.bukowskis.com/en/auctions/638/21-rolex-submariner-smurf-ca-2012",
+          "index": 2,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/xMMFhsCnZ5449iOepY0HutdAIeHu6HPXAQ2oo9xBEGo/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1392686-12740819_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM5MjY4Ni8xMjc0/MDgxOV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "7cefbf99bd5f01ac57a8204515c6b907b36ba757d20c1e96ddc981c9ff865ebd"
+        },
+        {
+          "key": "638-21",
+          "reference": "116619LB",
+          "candidateCaseKey": "116619",
+          "source": "https://www.bukowskis.com/en/auctions/638/21-rolex-submariner-smurf-ca-2012",
+          "index": 3,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/t0DeKEv84lNDLWHocs72L8RY0Czlybt47pl2LiViRqs/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1392686-12740820_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM5MjY4Ni8xMjc0/MDgyMF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            1999,
+            2000
+          ],
+          "sha256": "90d2ac18f368e76b0646adc3cd07b3e074bc1103af2668cd3fdb52c381a2fbec"
+        },
+        {
+          "key": "638-21",
+          "reference": "116619LB",
+          "candidateCaseKey": "116619",
+          "source": "https://www.bukowskis.com/en/auctions/638/21-rolex-submariner-smurf-ca-2012",
+          "index": 4,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/OWvkCzhht0lPjVxqtOQMfDwra85N6YgsAjAP2-RMcU4/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1392686-12740821_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM5MjY4Ni8xMjc0/MDgyMV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            1999
+          ],
+          "sha256": "0cb316c4aa3079ef9fc41d41a9d7d5d37bf1e9d235494046baeff369a499c9f9"
+        },
+        {
+          "key": "638-21",
+          "reference": "116619LB",
+          "candidateCaseKey": "116619",
+          "source": "https://www.bukowskis.com/en/auctions/638/21-rolex-submariner-smurf-ca-2012",
+          "index": 5,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/YoyqN4Jo6YtWEwUaF6PBX3JP7Q3nI10NFb6bsCSOPL0/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1392686-12740822_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM5MjY4Ni8xMjc0/MDgyMl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "4930b96a18baa9a90baceba37bc4ab4647cd35edc690ef70573deb77e165dd5a"
+        },
+        {
+          "key": "638-21",
+          "reference": "116619LB",
+          "candidateCaseKey": "116619",
+          "source": "https://www.bukowskis.com/en/auctions/638/21-rolex-submariner-smurf-ca-2012",
+          "index": 6,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/LxGEhoY7YIXQKjyqZQvxITdVeiD5ng2EVl-PDf2sgx4/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1392686-12740823_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM5MjY4Ni8xMjc0/MDgyM19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            1999,
+            2000
+          ],
+          "sha256": "42db7f55b91cd368709c85a1f4604af5c98db12c17c3cb46c6a3bbf686ddae12"
+        },
+        {
+          "key": "638-21",
+          "reference": "116619LB",
+          "candidateCaseKey": "116619",
+          "source": "https://www.bukowskis.com/en/auctions/638/21-rolex-submariner-smurf-ca-2012",
+          "index": 7,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/0FlziilW6YpbVNA_1FCe9iYFxy9_yOsdVJPmkm9XKVA/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1392686-12740824_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM5MjY4Ni8xMjc0/MDgyNF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "de4ce99b4278f931410946d120a6c473e9f9b06844c7b3c2e2af44e24c6caf68"
+        },
+        {
+          "key": "638-21",
+          "reference": "116619LB",
+          "candidateCaseKey": "116619",
+          "source": "https://www.bukowskis.com/en/auctions/638/21-rolex-submariner-smurf-ca-2012",
+          "index": 8,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/x6c7VRa954lLWCDCXfvJpZ6eOzTLyty_-1f_ZeBj8YI/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1392686-12740826_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM5MjY4Ni8xMjc0/MDgyNl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "d66f0d1986175c1de14f48ce78e49f6b1b91843ad2e63d3873bd8410bf702cac"
+        },
+        {
+          "key": "638-21",
+          "reference": "116619LB",
+          "candidateCaseKey": "116619",
+          "source": "https://www.bukowskis.com/en/auctions/638/21-rolex-submariner-smurf-ca-2012",
+          "index": 9,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/7kzPq-5zJU8pJgfYjKzn9TLXjvL3OvliXFb_yHNzlAo/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1392686-12740825_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM5MjY4Ni8xMjc0/MDgyNV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "b1a8ddc33a004ce1727414401c904dacd055e3f745efd2990848f28bda205b6b"
+        },
+        {
+          "key": "638-21",
+          "reference": "116619LB",
+          "candidateCaseKey": "116619",
+          "source": "https://www.bukowskis.com/en/auctions/638/21-rolex-submariner-smurf-ca-2012",
+          "index": 10,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/O5n4wjgttzP3Vdpjgx_5To28Sqo4ecEJGuEdh0nc61o/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1392686-12740827_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM5MjY4Ni8xMjc0/MDgyN19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "621280aa38690b971e03c92d390e1726a2f810bfb579f4c8e6a419fb5aa2d271"
+        },
+        {
+          "key": "638-21",
+          "reference": "116619LB",
+          "candidateCaseKey": "116619",
+          "source": "https://www.bukowskis.com/en/auctions/638/21-rolex-submariner-smurf-ca-2012",
+          "index": 11,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/cLL_b1-1Z0-dk_a_r7rtIapkLIPg22eaG1GBlm8Qe8s/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1392686-12740828_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM5MjY4Ni8xMjc0/MDgyOF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            1999
+          ],
+          "sha256": "64ba8cb815a815399522bb1b17eb9b8917f770356ca87e34ab75ff6f95203600"
+        },
+        {
+          "key": "638-21",
+          "reference": "116619LB",
+          "candidateCaseKey": "116619",
+          "source": "https://www.bukowskis.com/en/auctions/638/21-rolex-submariner-smurf-ca-2012",
+          "index": 12,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/DWcAb7YTktstEsFsclar4kPZNgAQX2KWS8TTOxWdK20/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1392686-12743243_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM5MjY4Ni8xMjc0/MzI0M19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            1999,
+            2000
+          ],
+          "sha256": "64c1368b276e3bbc7247dd70ace959825b2c21ba533df94f27236ab2ea3fc428"
+        },
+        {
+          "key": "638-21",
+          "reference": "116619LB",
+          "candidateCaseKey": "116619",
+          "source": "https://www.bukowskis.com/en/auctions/638/21-rolex-submariner-smurf-ca-2012",
+          "index": 13,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/f_E0cTcesg9IC6FWsbrpb7bcrn5hEpR3t7aYhiDn9Fg/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1392686-12743244_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM5MjY4Ni8xMjc0/MzI0NF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "60c735309ea33593669213b02c20bdbdcdd8cf7aa688189bdb62529db7e46a0f"
+        },
+        {
+          "key": "638-21",
+          "reference": "116619LB",
+          "candidateCaseKey": "116619",
+          "source": "https://www.bukowskis.com/en/auctions/638/21-rolex-submariner-smurf-ca-2012",
+          "index": 14,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/CHZdOiL024LC5F-1o7KNRHWC-1ebYqM7iZ3ip4hEIkI/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1392686-12743245_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM5MjY4Ni8xMjc0/MzI0NV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            1999
+          ],
+          "sha256": "1f6ec67e3f356c295719515eeae1af1db89fd325ad08c8f60a834baa8f75aa79"
+        },
+        {
+          "key": "638-21",
+          "reference": "116619LB",
+          "candidateCaseKey": "116619",
+          "source": "https://www.bukowskis.com/en/auctions/638/21-rolex-submariner-smurf-ca-2012",
+          "index": 15,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/iCopk3-9-VtMjzdiPaXPUsBtHE7-1Ke_1lvo9RqwQM8/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1392686-12743246_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM5MjY4Ni8xMjc0/MzI0Nl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "ab66ab9c0b62df0979f7d991a748de6d63e37c2a7f36f74c9f7ef04ac9a88195"
+        },
+        {
+          "key": "638-21",
+          "reference": "116619LB",
+          "candidateCaseKey": "116619",
+          "source": "https://www.bukowskis.com/en/auctions/638/21-rolex-submariner-smurf-ca-2012",
+          "index": 16,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/Aiv60ow_1CFYFgk3yyEtnUpLLAqwPLCIeH0OlLd3qWs/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1392686-12743247_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM5MjY4Ni8xMjc0/MzI0N19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "4b2d944e57f107134076f4d781f9d473bb4a9c8d733a71b2b84fa8ad414fa125"
+        }
+      ],
+      "acceptedPhotographIds": [
+        "bukowskis-case-638-21-front-0",
+        "bukowskis-case-638-21-caseback-14",
+        "bukowskis-case-638-21-movement-13",
+        "bukowskis-case-638-21-braceletClasp-6",
+        "bukowskis-case-638-21-detail-15"
+      ]
+    },
+    {
+      "caseReference": "116710",
+      "documentedVariant": "116710LN",
+      "source": "https://www.bukowskis.com/en/auctions/638/82-rolex-gmt-master-ii-ca-2017",
+      "specimenDescription": "Case size: 40 mm Material: steel Movement: automatic, caliber 3186 Year: circa 2017 Crystal: sapphire crystal Bracelet: Oyster bracelet, folding clasp, ref. 78200-9UM Reference number: 116710LN Serial number: 04'TG6'299 Movement number: 47'7SM'361 Case number: 2350 Accompanied by: certificate, box, paper box Watches have been opened to examine movements therefore no warranties are made that the watches are water-resistant. Potential buyers should inspect each watch to satisfy themselves as to condition. For more information, please read our Conditions of Purchase. For condition report contact specialist Carl  Palmegren Head Specialist Watches +46 (0)739 40 08 23 Email ",
+      "evidence": "Actual Bukowskis gallery photographs visually inspected, with selected fronts, movements, internal backs, clasps and case stamps inspected at full resolution. Source identifies 116710LN; photographed between-lug stamp identifies 116710, documenting this representative physical case-reference match. Case size: 40 mm Material: steel Movement: automatic, caliber 3186 Year: circa 2017 Crystal: sapphire crystal Bracelet: Oyster bracelet, folding clasp, ref. 78200-9UM Reference number: 116710LN Serial number: 04'TG6'299 Movement number: 47'7SM'361 Case number: 2350 Accompanied by: certificate, box, paper box Watches have been opened to examine movements therefore no warranties are made that the watches are water-resistant. Potential buyers should inspect each watch to satisfy themselves as to condition. For more information, please read our Conditions of Purchase. For condition report contact specialist Carl  Palmegren Head Specialist Watches +46 (0)739 40 08 23 Email  Source: https://www.bukowskis.com/en/auctions/638/82-rolex-gmt-master-ii-ca-2017",
+      "inspectedImages": [
+        {
+          "key": "638-82",
+          "reference": "116710LN",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/638/82-rolex-gmt-master-ii-ca-2017",
+          "index": 0,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/fhluTuCUey0YYTKw7GL8rpQZiwOPhRWFvOV7G-8ftcU/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1369689-12689159_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM2OTY4OS8xMjY4/OTE1OV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "0dff9ef2f28731f430bc3166f005ac0a03b77973c1268c7fbd1a82196e83e8f6"
+        },
+        {
+          "key": "638-82",
+          "reference": "116710LN",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/638/82-rolex-gmt-master-ii-ca-2017",
+          "index": 1,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/f4u36S2plIPWNkFA6FXv-Ya-CBlnlav10xAUaMtSbRA/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1369689-12689293_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM2OTY4OS8xMjY4/OTI5M19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            1999
+          ],
+          "sha256": "2d59fa05fd92d29dc89c4e790d22201dc53bb1de9a7f859cb4e2c7f156590cb8"
+        },
+        {
+          "key": "638-82",
+          "reference": "116710LN",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/638/82-rolex-gmt-master-ii-ca-2017",
+          "index": 2,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/Ok_L5oCO1TIeCdmD3VTyOLM0EuE2Rb3lbvANcsBCzC0/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1369689-12689294_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM2OTY4OS8xMjY4/OTI5NF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "afc9fd3d9f98a79dc94f92b089b6b76a2068d5722da017538a6a12494f188593"
+        },
+        {
+          "key": "638-82",
+          "reference": "116710LN",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/638/82-rolex-gmt-master-ii-ca-2017",
+          "index": 3,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/JdctcqGLfrWzrQmYmq4ZHNvRy73MLJFzPjOOIeRkT3o/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1369689-12689295_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM2OTY4OS8xMjY4/OTI5NV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "3c139d6392db5d5bbbe70b3217d866fb5e2a3c97580a1a77b86ed205b25bddaf"
+        },
+        {
+          "key": "638-82",
+          "reference": "116710LN",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/638/82-rolex-gmt-master-ii-ca-2017",
+          "index": 4,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/F2d4RI96vzBHy3U7xA6PTQRsADmDrB7fUOoky4P-k_4/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1369689-12689296_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM2OTY4OS8xMjY4/OTI5Nl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "19593e0214af750bfc8f06f9c8573c33f25e970b55f54340cfe411452c3478ee"
+        },
+        {
+          "key": "638-82",
+          "reference": "116710LN",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/638/82-rolex-gmt-master-ii-ca-2017",
+          "index": 5,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/xmpi_B_Az0QIEH5uehgTsZRkn4LZtrESZjEnICW12vA/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1369689-12689297_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM2OTY4OS8xMjY4/OTI5N19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "62a75f2505fa06b0cc3eb3f004556b6b50d3c03d77f785c4ce9c90947feb8a72"
+        },
+        {
+          "key": "638-82",
+          "reference": "116710LN",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/638/82-rolex-gmt-master-ii-ca-2017",
+          "index": 6,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/yVv7xV34AJ_tm2c8bot55G2D1-JXaVq_5xLDNnPmXLQ/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1369689-12689298_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM2OTY4OS8xMjY4/OTI5OF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "bd1508f940b22aa980042d53d1046112e333242272f61643443851f6a57132e0"
+        },
+        {
+          "key": "638-82",
+          "reference": "116710LN",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/638/82-rolex-gmt-master-ii-ca-2017",
+          "index": 7,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/D5ril4-Z6W1sIQ7r8yDqyXDRZSeZRaKnnEjHZNiA1bs/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1369689-12689299_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM2OTY4OS8xMjY4/OTI5OV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "5f06cc685ae1d5861e72e4412a57a628a9994c6e019b1fcc55de52dc7f152810"
+        },
+        {
+          "key": "638-82",
+          "reference": "116710LN",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/638/82-rolex-gmt-master-ii-ca-2017",
+          "index": 8,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/bGxztjsfxDzfz-zcBMOjVvVJHK-O_DVSq3Q0jBoGRK4/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1369689-12689300_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM2OTY4OS8xMjY4/OTMwMF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "8d8c51c345d6dffeef82d5e54205f00750fc29e29d8eee3be797b087927615bc"
+        },
+        {
+          "key": "638-82",
+          "reference": "116710LN",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/638/82-rolex-gmt-master-ii-ca-2017",
+          "index": 9,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/zYUHFZrlmrWLa9rDggD4wsDciL9x3-xRpjHN68ApRBc/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1369689-12689301_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM2OTY4OS8xMjY4/OTMwMV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            1999
+          ],
+          "sha256": "5ec6e9015dd7e5493a2f469f4e45b419bcd74b4706d36245591b2bd0949aec26"
+        },
+        {
+          "key": "638-82",
+          "reference": "116710LN",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/638/82-rolex-gmt-master-ii-ca-2017",
+          "index": 10,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/Uji7mPXjjAbXL6sxyINqd2Lb9Ew4kXxCBI1IETzut3Q/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1369689-12706275_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM2OTY4OS8xMjcw/NjI3NV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "4fa430ee7741df2b9cd12f461136c47a659c668fc25e84fcdcb5a234ce510927"
+        },
+        {
+          "key": "638-82",
+          "reference": "116710LN",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/638/82-rolex-gmt-master-ii-ca-2017",
+          "index": 11,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/7eYeED1V9rZj-lBsoCCoaOZ_TyR5RSsGLfS5vPxe9YI/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1369689-12742065_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM2OTY4OS8xMjc0/MjA2NV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            1999
+          ],
+          "sha256": "e0e5748016f25d8da9ffc280847c2eceb9235c645dae079f94babdd345c98b89"
+        },
+        {
+          "key": "638-82",
+          "reference": "116710LN",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/638/82-rolex-gmt-master-ii-ca-2017",
+          "index": 12,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/GmDWcbOV2r0rbbhvotejYQt4HBzgkXY_XA9G2stsEIo/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1369689-12742066_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM2OTY4OS8xMjc0/MjA2Nl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "19fff52f99a1ca8e7b2721cd3ff6e1f9887243c2df6c812bb41cf3c40b2dbc4c"
+        },
+        {
+          "key": "638-82",
+          "reference": "116710LN",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/638/82-rolex-gmt-master-ii-ca-2017",
+          "index": 13,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/6ZEcfYjyyP9-EoR7JV2DKc2Jmhl44cCh0b6G0AEn848/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1369689-12742068_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM2OTY4OS8xMjc0/MjA2OF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "710cb11fdbdf3990226b3ae782316e637a90a276b3d3c1e2d868ead267fc3d95"
+        },
+        {
+          "key": "638-82",
+          "reference": "116710LN",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/638/82-rolex-gmt-master-ii-ca-2017",
+          "index": 14,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/HBkZ1C_bZhIAJ3CmYz_cPRVFeZSFgAaGCYWp-HCxLOk/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1369689-12742067_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM2OTY4OS8xMjc0/MjA2N19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "1d4bbe82ab84eee174b295d25f68a5990fb656149a2cd1ae40ae65609241cec3"
+        },
+        {
+          "key": "638-82",
+          "reference": "116710LN",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/638/82-rolex-gmt-master-ii-ca-2017",
+          "index": 15,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/nRbQhtpRPWfhk4pSq26N4Hjt_NNlEeu0AUaOLIjo_qA/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1369689-12742073_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM2OTY4OS8xMjc0/MjA3M19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "5ca0ea2e13313abd2d62164b6256e959814f4a3672eb6c5f54b1e97735b09cf2"
+        }
+      ],
+      "acceptedPhotographIds": [
+        "bukowskis-case-638-82-front-0",
+        "bukowskis-case-638-82-caseback-13",
+        "bukowskis-case-638-82-movement-12",
+        "bukowskis-case-638-82-braceletClasp-6",
+        "bukowskis-case-638-82-detail-14"
+      ]
+    },
+    {
+      "caseReference": "116713",
+      "documentedVariant": "116713LN",
+      "source": "https://www.bukowskis.com/en/auctions/634/49-rolex-gmt-master-ii",
+      "specimenDescription": "Case size: 40 mm Material: steel/gold Movement: automatic, caliber 3186 Year: circa 2013 Crystal: sapphire crystal Bracelet : Oyster bracelet, folding clasp, ref. 78203-M1F/S4D Reference number: 116713LN Serial number: U7'3F7'973 Movement number: 56'E53'1S9 Case number: 2350 Accompanied by: certificate, box, paper box The movement is running at the time of cataloging. Please note that the movement has not been tested for timekeeping accuracy and may need a service at the buyer's expense. Watches have been opened to examine movements therefore no warranties are made that the watches are water-resistant. Potential buyers should inspect each watch to satisfy themselves as to condition. For more information, please read our Conditions of Purchase. For condition report contact specialist Carl  Palmegren Head Specialist Watches +46 (0)739 40 08 23 Email ",
+      "evidence": "Actual Bukowskis gallery photographs visually inspected, with selected fronts, movements, internal backs, clasps and case stamps inspected at full resolution. Source identifies 116713LN; photographed between-lug stamp identifies 116713, documenting this representative physical case-reference match. Case size: 40 mm Material: steel/gold Movement: automatic, caliber 3186 Year: circa 2013 Crystal: sapphire crystal Bracelet : Oyster bracelet, folding clasp, ref. 78203-M1F/S4D Reference number: 116713LN Serial number: U7'3F7'973 Movement number: 56'E53'1S9 Case number: 2350 Accompanied by: certificate, box, paper box The movement is running at the time of cataloging. Please note that the movement has not been tested for timekeeping accuracy and may need a service at the buyer's expense. Watches have been opened to examine movements therefore no warranties are made that the watches are water-resistant. Potential buyers should inspect each watch to satisfy themselves as to condition. For more information, please read our Conditions of Purchase. For condition report contact specialist Carl  Palmegren Head Specialist Watches +46 (0)739 40 08 23 Email  Source: https://www.bukowskis.com/en/auctions/634/49-rolex-gmt-master-ii",
+      "inspectedImages": [
+        {
+          "key": "634-49",
+          "reference": "116713LN",
+          "candidateCaseKey": "116713",
+          "source": "https://www.bukowskis.com/en/auctions/634/49-rolex-gmt-master-ii",
+          "index": 0,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/6UrsDcRD6ZKsiJe-fVHevWaZjgH5op6u37vjuN6KtHw/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1347654-12518415_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM0NzY1NC8xMjUx/ODQxNV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "856f1c887eade34416213a0d471646d80c9cd3831040db3d368bc05ffdca22e4"
+        },
+        {
+          "key": "634-49",
+          "reference": "116713LN",
+          "candidateCaseKey": "116713",
+          "source": "https://www.bukowskis.com/en/auctions/634/49-rolex-gmt-master-ii",
+          "index": 1,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/9dljaEpB1bbk37HJIfqDAaYkfA13NswUWFXTIqaDzcc/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1347654-12560433_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM0NzY1NC8xMjU2/MDQzM19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            1999,
+            2000
+          ],
+          "sha256": "ef43ae05cd253734028dad094db5c81efc37127c8f03eec68d54998b980cf56d"
+        },
+        {
+          "key": "634-49",
+          "reference": "116713LN",
+          "candidateCaseKey": "116713",
+          "source": "https://www.bukowskis.com/en/auctions/634/49-rolex-gmt-master-ii",
+          "index": 2,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/Eex1VxPi-g2Y9QaKE05EE8sYtgQadygwveG8EMUc2cA/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1347654-12560434_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM0NzY1NC8xMjU2/MDQzNF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "29a19438c9794db133514a167c9b95957836d6c03316a811f198cb1d228a713b"
+        },
+        {
+          "key": "634-49",
+          "reference": "116713LN",
+          "candidateCaseKey": "116713",
+          "source": "https://www.bukowskis.com/en/auctions/634/49-rolex-gmt-master-ii",
+          "index": 3,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/fwXuysv96On7CsF14icQYPyOr488q6xfA95835Qm0Lk/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1347654-12560435_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM0NzY1NC8xMjU2/MDQzNV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "bcf37f92b16c6f455b69e0c2465d8f6b65e0ae312b35c78b14abf5607eef9262"
+        },
+        {
+          "key": "634-49",
+          "reference": "116713LN",
+          "candidateCaseKey": "116713",
+          "source": "https://www.bukowskis.com/en/auctions/634/49-rolex-gmt-master-ii",
+          "index": 4,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/4OVlUDw_mlXMLga8iwOKHD_lg4SI_Jzicml6Px55r3Q/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1347654-12560436_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM0NzY1NC8xMjU2/MDQzNl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "d670dba8dcb7c024db7145d6cb1109a0e085ee5f03dcd60ff6651ca1547ce69f"
+        },
+        {
+          "key": "634-49",
+          "reference": "116713LN",
+          "candidateCaseKey": "116713",
+          "source": "https://www.bukowskis.com/en/auctions/634/49-rolex-gmt-master-ii",
+          "index": 5,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/UFAtV22XPK742pkZ9D2XCJOsbl5fENMnxiFA0VVwfe8/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1347654-12560437_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM0NzY1NC8xMjU2/MDQzN19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "b7c8c001da3b7dba894c7aecc90be132ea33e9014c7e5d1fed5bb40156103b9e"
+        },
+        {
+          "key": "634-49",
+          "reference": "116713LN",
+          "candidateCaseKey": "116713",
+          "source": "https://www.bukowskis.com/en/auctions/634/49-rolex-gmt-master-ii",
+          "index": 6,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/LfcIJbl8vLN8U4Byy7aU2npDM6hgFuH8nsdsEdHjLuo/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1347654-12560438_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM0NzY1NC8xMjU2/MDQzOF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "ea519f2025e41db6411e032be7c5afca52a8b7bb5e70e3fd039e6678567eabf7"
+        },
+        {
+          "key": "634-49",
+          "reference": "116713LN",
+          "candidateCaseKey": "116713",
+          "source": "https://www.bukowskis.com/en/auctions/634/49-rolex-gmt-master-ii",
+          "index": 7,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/1LCPgBzAfvhXN-9KNjuPocoU05ychCHdDxJR_-xiuSY/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1347654-12560439_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM0NzY1NC8xMjU2/MDQzOV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            1999,
+            2000
+          ],
+          "sha256": "b02a6588f9af242bc516b9bcabf47fdaef8e4d8793c13ca740656d776405974c"
+        },
+        {
+          "key": "634-49",
+          "reference": "116713LN",
+          "candidateCaseKey": "116713",
+          "source": "https://www.bukowskis.com/en/auctions/634/49-rolex-gmt-master-ii",
+          "index": 8,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/Mpt_8y9-7i16CpSlaAp5SjJ9X2MxebyzxBzG6ms5BMA/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1347654-12560441_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM0NzY1NC8xMjU2/MDQ0MV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "d17c1879ca55450942a559cafc4f6e42625e3755027b1ab51f1031495c78e43f"
+        },
+        {
+          "key": "634-49",
+          "reference": "116713LN",
+          "candidateCaseKey": "116713",
+          "source": "https://www.bukowskis.com/en/auctions/634/49-rolex-gmt-master-ii",
+          "index": 9,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/_Wr28Pr6KL5bSnKBWlOIpjvAM7dRVWPGzpS3COmxNkc/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1347654-12560442_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM0NzY1NC8xMjU2/MDQ0Ml9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "cb378c17b16bc201509dc85a97965b63b2b7941bbe7b7a2f510db28c6a82b111"
+        },
+        {
+          "key": "634-49",
+          "reference": "116713LN",
+          "candidateCaseKey": "116713",
+          "source": "https://www.bukowskis.com/en/auctions/634/49-rolex-gmt-master-ii",
+          "index": 10,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/XEsDOl7nWzjBeIH6Jb64V2-IyHRQalLjUoXhFE1fuaM/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1347654-12556612_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM0NzY1NC8xMjU1/NjYxMl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "04304b09f85be57ccba2aa0b3aa0003d00424ed78772ab7709f7c54b9d5f4a35"
+        },
+        {
+          "key": "634-49",
+          "reference": "116713LN",
+          "candidateCaseKey": "116713",
+          "source": "https://www.bukowskis.com/en/auctions/634/49-rolex-gmt-master-ii",
+          "index": 11,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/Bqhvb21D-5H5vDN8_nLUBtV7ijqg5y9k30sgQduv5wI/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1347654-12556613_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM0NzY1NC8xMjU1/NjYxM19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "9390ecaff26bb4d916fdb08d2f55d992f10766f5db03df4836631b5f0fc57372"
+        },
+        {
+          "key": "634-49",
+          "reference": "116713LN",
+          "candidateCaseKey": "116713",
+          "source": "https://www.bukowskis.com/en/auctions/634/49-rolex-gmt-master-ii",
+          "index": 12,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/iV-Ocoq8iR0_erXKn9qFXGv_yySillRerQNGhRtiGUA/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1347654-12556614_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM0NzY1NC8xMjU1/NjYxNF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "b99076cd54a835af5866db558bcd4199a964c2e15819c8283b526c6cf281b933"
+        },
+        {
+          "key": "634-49",
+          "reference": "116713LN",
+          "candidateCaseKey": "116713",
+          "source": "https://www.bukowskis.com/en/auctions/634/49-rolex-gmt-master-ii",
+          "index": 13,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/-f3U07BmKVL1_kXGn4vRsNBdHvCrlkDmyLaK7eDEBf0/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1347654-12556615_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM0NzY1NC8xMjU1/NjYxNV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "e4c9940d5af45f0264b9da15ca61f3a6c019f2d589a9cef1161ac869c65ad75e"
+        },
+        {
+          "key": "634-49",
+          "reference": "116713LN",
+          "candidateCaseKey": "116713",
+          "source": "https://www.bukowskis.com/en/auctions/634/49-rolex-gmt-master-ii",
+          "index": 14,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/eQ3dUs_7dSD5gt6g0yS_vBfAskzCopn_voemZCFKLuU/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1347654-12556616_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM0NzY1NC8xMjU1/NjYxNl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            1999,
+            2000
+          ],
+          "sha256": "9326e92d3b2f0d1fa4d29651ae4fc6ac35093e4900419411b78f60d3bf00ffde"
+        }
+      ],
+      "acceptedPhotographIds": [
+        "bukowskis-case-634-49-front-0",
+        "bukowskis-case-634-49-caseback-10",
+        "bukowskis-case-634-49-movement-11",
+        "bukowskis-case-634-49-braceletClasp-6",
+        "bukowskis-case-634-49-detail-13"
+      ]
+    },
+    {
+      "caseReference": "6305",
+      "documentedVariant": "6305/1",
+      "source": "https://www.bukowskis.com/en/auctions/634/99-rolex-datejust-red-ovettone-honeycomb-dial",
+      "specimenDescription": "Case size: 36 mm Material: steel/white gold Movement: automatic Year: circa 1955 Crystal: plastic crystal Bracelet: leather strap Reference number: 6305 1 Serial number: 111'068 Movement number: 46'169 Case number: 6305/III-55 Defect. Please note that the movement has not been tested for timekeeping accuracy and may need a service at the buyer's expense. Watches have been opened to examine movements therefore no warranties are made that the watches are water-resistant. Potential buyers should inspect each watch to satisfy themselves as to condition. For more information, please read our Conditions of Purchase. For condition report contact specialist Simon Naeslund Specialist Watches +46 (0)735 95 68 75 Email ",
+      "evidence": "Actual Bukowskis gallery photographs visually inspected, with selected fronts, movements, internal backs, clasps and case stamps inspected at full resolution. Source identifies 6305/1; photographed internal back stamp identifies 6305, documenting this representative physical case-reference match. Case size: 36 mm Material: steel/white gold Movement: automatic Year: circa 1955 Crystal: plastic crystal Bracelet: leather strap Reference number: 6305 1 Serial number: 111'068 Movement number: 46'169 Case number: 6305/III-55 Defect. Please note that the movement has not been tested for timekeeping accuracy and may need a service at the buyer's expense. Watches have been opened to examine movements therefore no warranties are made that the watches are water-resistant. Potential buyers should inspect each watch to satisfy themselves as to condition. For more information, please read our Conditions of Purchase. For condition report contact specialist Simon Naeslund Specialist Watches +46 (0)735 95 68 75 Email  Source: https://www.bukowskis.com/en/auctions/634/99-rolex-datejust-red-ovettone-honeycomb-dial Movement photographs show an 18-jewel execution but the exact calibre is not established; movement remains empty. Unsigned leather-strap buckle is not established as factory equipment; clasp remains empty. Source condition is Defect; no functionality or untouched originality is claimed.",
+      "inspectedImages": [
+        {
+          "key": "634-99",
+          "reference": "6305 1",
+          "candidateCaseKey": "6305",
+          "source": "https://www.bukowskis.com/en/auctions/634/99-rolex-datejust-red-ovettone-honeycomb-dial",
+          "index": 0,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/Yoc5sfsOrxC6kQn4B1tlvhmdNbUSaTZNPeOai0aEsd8/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1343739-12513859_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM0MzczOS8xMjUx/Mzg1OV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "68c150ec5149f121c2fdce36fa70c6c62a6d13be43750c5153ac35508ad2031a"
+        },
+        {
+          "key": "634-99",
+          "reference": "6305 1",
+          "candidateCaseKey": "6305",
+          "source": "https://www.bukowskis.com/en/auctions/634/99-rolex-datejust-red-ovettone-honeycomb-dial",
+          "index": 1,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/pm7XONYzkiq4JU1DAP6SQLPK6YJ_FdLft_zTw_XqoUc/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1343739-12560281_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM0MzczOS8xMjU2/MDI4MV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "27461d01720cfbcdcf9dfdc232f8ca88d41f2899dfd7d5683ee4243849179e59"
+        },
+        {
+          "key": "634-99",
+          "reference": "6305 1",
+          "candidateCaseKey": "6305",
+          "source": "https://www.bukowskis.com/en/auctions/634/99-rolex-datejust-red-ovettone-honeycomb-dial",
+          "index": 2,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/aHRaaPQix0yhmJ6OqhP_ja3t9bUquDURbvYJV2LTVkA/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1343739-12560284_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM0MzczOS8xMjU2/MDI4NF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "97a65b24bbbcf74033d8e8acbff765c3e6dd766b8b775bf14b497960680c48cc"
+        },
+        {
+          "key": "634-99",
+          "reference": "6305 1",
+          "candidateCaseKey": "6305",
+          "source": "https://www.bukowskis.com/en/auctions/634/99-rolex-datejust-red-ovettone-honeycomb-dial",
+          "index": 3,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/H3Y8Lo3RMJBTMy8PKCm26X3MWBt1warepWN4Hi4xwBI/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1343739-12560286_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM0MzczOS8xMjU2/MDI4Nl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            1999,
+            2000
+          ],
+          "sha256": "dced93f5b8feb8f1eded2a0c448e4ee8c540ebd347b3e259e8dfd9377cea5a2c"
+        },
+        {
+          "key": "634-99",
+          "reference": "6305 1",
+          "candidateCaseKey": "6305",
+          "source": "https://www.bukowskis.com/en/auctions/634/99-rolex-datejust-red-ovettone-honeycomb-dial",
+          "index": 4,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/OIAcitQv3fl-lgcrHJ92W0_woU0lrdC4oNB8h9eNNMs/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1343739-12560285_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM0MzczOS8xMjU2/MDI4NV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            1999
+          ],
+          "sha256": "f899b9b98fb5c9f93fb5e62a89c5df4c4e296a9daef1d726a52b21e5a6d769af"
+        },
+        {
+          "key": "634-99",
+          "reference": "6305 1",
+          "candidateCaseKey": "6305",
+          "source": "https://www.bukowskis.com/en/auctions/634/99-rolex-datejust-red-ovettone-honeycomb-dial",
+          "index": 5,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/Ql2O14UOaLlRnKp2AyBHvFgAunPP7Rx7cxRoqQVM4XA/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1343739-12560290_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM0MzczOS8xMjU2/MDI5MF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "79bc94e8d4ab0aedc106628597d6f04901ac786497a1a28d08456231f569a4bc"
+        },
+        {
+          "key": "634-99",
+          "reference": "6305 1",
+          "candidateCaseKey": "6305",
+          "source": "https://www.bukowskis.com/en/auctions/634/99-rolex-datejust-red-ovettone-honeycomb-dial",
+          "index": 6,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/aI1AW7Dn1bdnBU2ogJXTJHTGVCnKQl9rwBR45gxbQPI/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1343739-12560291_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM0MzczOS8xMjU2/MDI5MV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "74b0058bf36edb5fa9093db7d2c9941646de705b1b5aa0514543d2fdf0e69dbb"
+        },
+        {
+          "key": "634-99",
+          "reference": "6305 1",
+          "candidateCaseKey": "6305",
+          "source": "https://www.bukowskis.com/en/auctions/634/99-rolex-datejust-red-ovettone-honeycomb-dial",
+          "index": 7,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/UDY6aRQsjQR9YsAtkAWlIFRH0JU2dLEt9W9zRk-irYI/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1343739-12552310_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM0MzczOS8xMjU1/MjMxMF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            1999
+          ],
+          "sha256": "2fb2659f365e3e10f2150083f8c7eeea71c82de38b15551bb3f2ea0d9ec996bc"
+        },
+        {
+          "key": "634-99",
+          "reference": "6305 1",
+          "candidateCaseKey": "6305",
+          "source": "https://www.bukowskis.com/en/auctions/634/99-rolex-datejust-red-ovettone-honeycomb-dial",
+          "index": 8,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/QIlb50rZd6SQMoOtoj4sfawd_THECZMnDxK9eEmQ4EE/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1343739-12552312_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM0MzczOS8xMjU1/MjMxMl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            1999
+          ],
+          "sha256": "d206055e5d0367f7e6373d684300ff90b5370433fbcfd636a1632630993a6721"
+        },
+        {
+          "key": "634-99",
+          "reference": "6305 1",
+          "candidateCaseKey": "6305",
+          "source": "https://www.bukowskis.com/en/auctions/634/99-rolex-datejust-red-ovettone-honeycomb-dial",
+          "index": 9,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/3-QzvIhI7xMnRZ_uQ6gNlQkZeLxF5mweX1Yj6Tbhmso/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1343739-12552311_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM0MzczOS8xMjU1/MjMxMV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "3fe9c8b211913971731569bd0cb32de069fb136bc6dcf9f372cd15aee2f80e99"
+        },
+        {
+          "key": "634-99",
+          "reference": "6305 1",
+          "candidateCaseKey": "6305",
+          "source": "https://www.bukowskis.com/en/auctions/634/99-rolex-datejust-red-ovettone-honeycomb-dial",
+          "index": 10,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/GBL9vrEYc2qslqOOekia_9uOokqASyVrTTQzSpXgXzA/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1343739-12552313_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM0MzczOS8xMjU1/MjMxM19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "b076e9003b86584d4495fa0d26ee46a00d077299d5cae5dc949057942c1807f7"
+        },
+        {
+          "key": "634-99",
+          "reference": "6305 1",
+          "candidateCaseKey": "6305",
+          "source": "https://www.bukowskis.com/en/auctions/634/99-rolex-datejust-red-ovettone-honeycomb-dial",
+          "index": 11,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/L18nYlHq4M5EVHJb_y-tiwCGTTiUHTaJ2V9kegMXKTM/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1343739-12552314_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM0MzczOS8xMjU1/MjMxNF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "55509701cb65b81668623bdb1846c0537bcd02b67c6218e670440199355e39ea"
+        }
+      ],
+      "acceptedPhotographIds": [
+        "bukowskis-case-634-99-front-0",
+        "bukowskis-case-634-99-caseback-7"
+      ]
+    },
+    {
+      "caseReference": "6611",
+      "documentedVariant": "6611B",
+      "source": "https://www.bukowskis.com/en/auctions/651/68-rolex-day-date-scoc-dial-second-gen-ca-1958",
+      "specimenDescription": "Case size: 36 mm Material: 18K gold Movement: automatic, caliber 1055 Year: circa 1958 Crystal: plastic crystal Bracelet: leather strap, gold plated original buckle Reference number: 6611 B Serial number: 366'259 Movement number: 843'244 Case number: 6611 Dial with patina. Wear due to age and use. The movement is running at the time of cataloguing, Bukowskis does not guarantee the future function of the movement. Please note that the movement has not been tested for timekeeping accuracy and may need a service at the buyer's expense. Watches have been opened to examine movements therefore no warranties are made that the watches are water-resistant. Potential buyers should inspect each watch to satisfy themselves as to condition. For more information, please read our Conditions of Purchase. More information In 1956, Rolex introduced its Day-Date references, namely the reference 6510 sporting a distinguished domed bezel, and the reference 6511 adorned with an elegant fluted bezel. These models graced the horological scene for a mere year before undergoing an impressive transformation, receiving a notable upgrade in their movements. The subsequent generation, comprising references 6611, 6612, and 6613, marked a pivotal moment in the Day-Date's evolution. These refined timepieces were equipped with an enhanced iteration of the caliber 1055, a testament to Rolex's unwavering commitment to precision. One of the standout improvements was the incorporation of a novel balance wheel, featuring microstella regulating screws. This innovation not only accentuated the watch's accuracy but also contributed to its esteemed status in the realm of timekeeping. To solidify this newfound excellence, the updated movement underwent rigorous testing by the Official Swiss Chronometer Testing Institute (C.O.S.C.), ultimately earning the prestigious Swiss chronometer certification. What makes these references particularly special is the subtle yet significant alteration to the dial's nomenclature. For the very first time in Day-Date history, the inscription proudly displayed reads 'Superlative Chronometer Officially Certified,' an emblem of Rolex's relentless pursuit of horological excellence. In contrast, the previous iterations had borne the label 'Officially Certified Chronometer,' marking a subtle shift in the brand's proclamation of its timekeeping prowess. For condition report contact specialist Simon Naeslund Specialist Watches +46 (0)735 95 68 75 Email ",
+      "evidence": "Actual Bukowskis gallery photographs visually inspected, with selected fronts, movements, internal backs, clasps and case stamps inspected at full resolution. Source identifies 6611B; photographed internal back stamp identifies 6611, documenting this representative physical case-reference match. Case size: 36 mm Material: 18K gold Movement: automatic, caliber 1055 Year: circa 1958 Crystal: plastic crystal Bracelet: leather strap, gold plated original buckle Reference number: 6611 B Serial number: 366'259 Movement number: 843'244 Case number: 6611 Dial with patina. Wear due to age and use. The movement is running at the time of cataloguing, Bukowskis does not guarantee the future function of the movement. Please note that the movement has not been tested for timekeeping accuracy and may need a service at the buyer's expense. Watches have been opened to examine movements therefore no warranties are made that the watches are water-resistant. Potential buyers should inspect each watch to satisfy themselves as to condition. For more information, please read our Conditions of Purchase. More information In 1956, Rolex introduced its Day-Date references, namely the reference 6510 sporting a distinguished domed bezel, and the reference 6511 adorned with an elegant fluted bezel. These models graced the horological scene for a mere year before undergoing an impressive transformation, receiving a notable upgrade in their movements. The subsequent generation, comprising references 6611, 6612, and 6613, marked a pivotal moment in the Day-Date's evolution. These refined timepieces were equipped with an enhanced iteration of the caliber 1055, a testament to Rolex's unwavering commitment to precision. One of the standout improvements was the incorporation of a novel balance wheel, featuring microstella regulating screws. This innovation not only accentuated the watch's accuracy but also contributed to its esteemed status in the realm of timekeeping. To solidify this newfound excellence, the updated movement underwent rigorous testing by the Official Swiss Chronometer Testing Institute (C.O.S.C.), ultimately earning the prestigious Swiss chronometer certification. What makes these references particularly special is the subtle yet significant alteration to the dial's nomenclature. For the very first time in Day-Date history, the inscription proudly displayed reads 'Superlative Chronometer Officially Certified,' an emblem of Rolex's relentless pursuit of horological excellence. In contrast, the previous iterations had borne the label 'Officially Certified Chronometer,' marking a subtle shift in the brand's proclamation of its timekeeping prowess. For condition report contact specialist Simon Naeslund Specialist Watches +46 (0)735 95 68 75 Email  Source: https://www.bukowskis.com/en/auctions/651/68-rolex-day-date-scoc-dial-second-gen-ca-1958",
+      "inspectedImages": [
+        {
+          "key": "651-68",
+          "reference": "6611 B",
+          "candidateCaseKey": "6611",
+          "source": "https://www.bukowskis.com/en/auctions/651/68-rolex-day-date-scoc-dial-second-gen-ca-1958",
+          "index": 0,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/R7wtOasSGelj_ip2n8fMCBLvSW5Pi3IKU-iZfUVDWww/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1497005-13329010_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ5NzAwNS8xMzMy/OTAxMF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "9d974e7326be9c3cba5fa26ffdc5fd73a5a9ca4ddf7a2e2f7c0186ecf314dab7"
+        },
+        {
+          "key": "651-68",
+          "reference": "6611 B",
+          "candidateCaseKey": "6611",
+          "source": "https://www.bukowskis.com/en/auctions/651/68-rolex-day-date-scoc-dial-second-gen-ca-1958",
+          "index": 1,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/dLh4ho0aSwI1DnFsZnT8IYSEEJpE-3KxZJhMU0uge48/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1497005-13343405_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ5NzAwNS8xMzM0/MzQwNV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "181a26151f73393480c79aa4a850fa25e9a7cfa650c60bbba2e16ce0a11b06a7"
+        },
+        {
+          "key": "651-68",
+          "reference": "6611 B",
+          "candidateCaseKey": "6611",
+          "source": "https://www.bukowskis.com/en/auctions/651/68-rolex-day-date-scoc-dial-second-gen-ca-1958",
+          "index": 2,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/H-Cy7p0UCnKy_gdkIZ1MFB6SWZE7iIc05ZZRBwXjT_A/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1497005-13343406_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ5NzAwNS8xMzM0/MzQwNl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "b0e10bf5554aaab0ee1335be72b8b2d89c3ad569a461f7133a9f81ec8f9c8859"
+        },
+        {
+          "key": "651-68",
+          "reference": "6611 B",
+          "candidateCaseKey": "6611",
+          "source": "https://www.bukowskis.com/en/auctions/651/68-rolex-day-date-scoc-dial-second-gen-ca-1958",
+          "index": 3,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/hJIkC_oEDCIZr9EL8H71l42N9KoYyxOm2bs-rluj1Kw/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1497005-13343415_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ5NzAwNS8xMzM0/MzQxNV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "05add78b231227a9c08d22774db312c2497765e9cf4ccc9ee5fd01c9e41a6007"
+        },
+        {
+          "key": "651-68",
+          "reference": "6611 B",
+          "candidateCaseKey": "6611",
+          "source": "https://www.bukowskis.com/en/auctions/651/68-rolex-day-date-scoc-dial-second-gen-ca-1958",
+          "index": 4,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/Mlq5oiW18hn4KnQQrM1EjzmtkWyLgJuNf--Mz9xtrXI/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1497005-13343411_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ5NzAwNS8xMzM0/MzQxMV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "2e255e399eff989f37aa827ade77ceb5659b30982ed6f07a22098e9ad9801264"
+        },
+        {
+          "key": "651-68",
+          "reference": "6611 B",
+          "candidateCaseKey": "6611",
+          "source": "https://www.bukowskis.com/en/auctions/651/68-rolex-day-date-scoc-dial-second-gen-ca-1958",
+          "index": 5,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/_-4gLukMae8NbLvHoFvvUx0iobIYJljudnVk4q3gC50/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1497005-13343413_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ5NzAwNS8xMzM0/MzQxM19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "694b3854f5440cf54891fdda4afbb1b0fbc911b67d06f44c4d309230b676becd"
+        },
+        {
+          "key": "651-68",
+          "reference": "6611 B",
+          "candidateCaseKey": "6611",
+          "source": "https://www.bukowskis.com/en/auctions/651/68-rolex-day-date-scoc-dial-second-gen-ca-1958",
+          "index": 6,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/DvVmXjRSLhW2MMpyvMu2u0Ru9vqFjeYBY5_IS8N1hMo/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1497005-13343414_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ5NzAwNS8xMzM0/MzQxNF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "b153e70e2290a18f7336e822646d8c34f916088cfcf35f54ae6c54a570801b99"
+        },
+        {
+          "key": "651-68",
+          "reference": "6611 B",
+          "candidateCaseKey": "6611",
+          "source": "https://www.bukowskis.com/en/auctions/651/68-rolex-day-date-scoc-dial-second-gen-ca-1958",
+          "index": 7,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/kASSzNRIxMiaEEBlctMYmBVdERg4Vy2hqd9vaAbDjSM/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1497005-13343407_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ5NzAwNS8xMzM0/MzQwN19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "41b18f7bff8df6b5f34ba8964d6c275f21cfdfd47cfd5a84cf3ac99bd413d2b7"
+        },
+        {
+          "key": "651-68",
+          "reference": "6611 B",
+          "candidateCaseKey": "6611",
+          "source": "https://www.bukowskis.com/en/auctions/651/68-rolex-day-date-scoc-dial-second-gen-ca-1958",
+          "index": 8,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/UsEi1voqwjpsVskfbbmXbxdS0ZJvPgh8oH9zthLDKIo/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1497005-13343410_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ5NzAwNS8xMzM0/MzQxMF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "9742e766ba54f70013d638a6048cef9f52f06383ec901e096e924ebe5326b5d6"
+        },
+        {
+          "key": "651-68",
+          "reference": "6611 B",
+          "candidateCaseKey": "6611",
+          "source": "https://www.bukowskis.com/en/auctions/651/68-rolex-day-date-scoc-dial-second-gen-ca-1958",
+          "index": 9,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/e9lVdG6GOfTLsnFXA-6Di31O-5fBol4KXL1YTV4lQ3g/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1497005-13343409_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ5NzAwNS8xMzM0/MzQwOV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "23a89758be0f91960e2d6e7f31f4e9a48088a4d013d34e42f488e9de9dedd89a"
+        },
+        {
+          "key": "651-68",
+          "reference": "6611 B",
+          "candidateCaseKey": "6611",
+          "source": "https://www.bukowskis.com/en/auctions/651/68-rolex-day-date-scoc-dial-second-gen-ca-1958",
+          "index": 10,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/aap-d8BDXOMpyACXzeY3yV-Fdw6EKqwKHbHTRp6XFQI/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1497005-13343412_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ5NzAwNS8xMzM0/MzQxMl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "2c2adbb89a0f7c170c0501a17df78f87b756720882c27de8aca188a042b48006"
+        },
+        {
+          "key": "651-68",
+          "reference": "6611 B",
+          "candidateCaseKey": "6611",
+          "source": "https://www.bukowskis.com/en/auctions/651/68-rolex-day-date-scoc-dial-second-gen-ca-1958",
+          "index": 11,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/6UtlJqUmH9ivP3WjhKXunj5edv64yL4u_H5y-j-etZ0/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1497005-13343408_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ5NzAwNS8xMzM0/MzQwOF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "94561dff053d6e02a39bcb16968f6333fa8cfd0d4678708ae6bcef35891bcd63"
+        }
+      ],
+      "acceptedPhotographIds": [
+        "bukowskis-case-651-68-front-0",
+        "bukowskis-case-651-68-caseback-8",
+        "bukowskis-case-651-68-movement-7",
+        "bukowskis-case-651-68-braceletClasp-9"
+      ]
+    }
+  ],
+  "unattachedSpecimen": {
+    "reference": "116610LN",
+    "source": "https://www.bukowskis.com/en/auctions/630/39-rolex-submariner",
+    "reason": "Gallery inspected; no legible physical 116610 stamp or opened movement. Further sources are being checked before accepting the numeric case alias."
+  }
+}

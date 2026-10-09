@@ -41,6 +41,6 @@ const fs=require('node:fs');
   await page.evaluate(()=>scrollTo(0,0));
   await page.screenshot({path:'/tmp/benchauth-real-photographs-mobile.png',fullPage:true});
   assert.deepEqual(errors,[]);
-  console.log('Actual catalogue: '+loaded.size+' accepted photographs loaded and enlarged across '+references.size+' explicit reference keys; credits, representative labels and mobile overflow checked. Live authenticated refresh/RLS remains separate.');
+  console.log('Actual catalogue: '+loaded.size+' accepted gallery entries ('+new Set(accepted.map(p=>p.review.imageSha256||p.image)).size+' distinct inspected files) loaded and enlarged across '+references.size+' explicit reference keys; credits, representative labels and mobile overflow checked. Live authenticated refresh/RLS remains separate.');
  }finally{await browser.close();}
 })().catch(error=>{console.error(error);process.exit(1);});
