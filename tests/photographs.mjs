@@ -3,6 +3,23 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import {matchingPhotographs,photographMatch,verifiedPhotograph,mergeReferenceRules} from '../photographs.js';
 
+test('photographed Rolex case stamps keep full variant and movement execution boundaries',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=ref=>matchingPhotographs(photos,'Rolex',ref).filter(p=>p.id.startsWith('bukowskis-case-'));
+ for(const [base,full,count] of [['116619','116619LB',5],['116710','116710LN',5],['116713','116713LN',5],['6305','6305/1',2],['6611','6611B',4]]){
+  assert.equal(get(base).length,count);assert.equal(get(full).length,count);
+  assert.ok(get(base).every(p=>p.matchScope==='representative variant'));
+  assert.equal(get(base+'-0001').length,0);
+ }
+ for(const ref of ['116619LN','116710BLNR','116713LB','6304','6612','116610'])assert.equal(get(ref).length,0,ref);
+ const steel=get('116710').find(p=>p.category==='movement'),twoTone=get('116713').find(p=>p.category==='movement');
+ assert.ok(steel&&twoTone);assert.notEqual(steel.image,twoTone.image);
+ assert.ok(get('6305').every(p=>!['movement','braceletClasp'].includes(p.category)));
+ assert.ok(get('6611').find(p=>p.category==='braceletClasp').caption.includes('gold-plated'));
+ assert.equal(matchingPhotographs(photos,'Tudor','116619').length,0);
+ assert.ok(matchingPhotographs(photos,'Rolex','116619',{externalOnly:true}).every(p=>p.category!=='movement'));
+});
+
 // Metadata fixtures test the matcher; these are not watch photographs or catalogue assets.
 const fixture=(overrides={})=>({id:'fixture',brand:'Tudor',references:['M25600TN-0001','25600TN-0001'],representativeFor:['25600TN','M25600TN'],variant:'25600TN-0001 black dial / titanium bracelet',category:'front',title:'Test metadata only',caption:'Representative variant',credit:'Test fixture',image:'https://example.invalid/front.jpg',source:'https://example.invalid/reference',mediaKind:'photograph',review:{status:'verified',visualInspected:true,referenceVerified:true,executionVerified:true,inspectedAt:'2026-10-08',loadedAt:'2026-10-08',evidence:'Test metadata only'},...overrides});
 test('only explicit identifiers match, including normalized punctuation',()=>{

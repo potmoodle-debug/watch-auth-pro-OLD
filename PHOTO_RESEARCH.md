@@ -11,7 +11,7 @@ repository must not be modified.
 Network access was verified first. GitHub and the BenchAuth live site return HTTP
 200. Of 1,564 distinct stored source URLs, 1,531 return HTTP 200 and 33 manufacturer
 Breitling URLs return HTTP 403. HTTP access and download counts **do not** establish
-visual review. The current verified checkpoint is prepared for publication to BenchAuth.
+visual review. The published checkpoint is PR #11 at 332742d25695996d2d04fa9f8089842fff6b21e5. New research additions below remain unpublished until validation passes.
 
 Rollback: GitHub branch `rollback/benchauth-before-photographs-20261008`, commit
 `b4ffc080c4dba6f55bb246377a24a3c2bf284052`. A local Git bundle is saved at
@@ -36,11 +36,11 @@ watch models: punctuation/case duplicates collapse; M-prefixed aliases, base
 references and catalogue suffixes remain separate keys. Broad patterns require
 enumeration and source review; they are never counted as exact references.
 
-Current exact progress is in the generated coverage files: **211 identifier keys
-reviewed, 2,027 unreviewed; 163 source records reviewed, 2,284 unreviewed**. There are
-**555 catalogue assets: 523 verified gallery entries, 23 pending and 9 rejected**, including 31
-legacy assets. Verified entries use **512 distinct stored image URLs and 511 distinct inspected file hashes**; the same photograph can serve two categories. Verified reference-key coverage: **front 175, movement 66, caseback
-147, bracelet/clasp 143**. Reviewed gaps describe the inspected source set, not a
+Current exact progress is in the generated coverage files: **216 identifier keys
+reviewed, 2,022 unreviewed; 164 source records reviewed, 2,283 unreviewed**. There are
+**576 catalogue assets: 544 verified gallery entries, 23 pending and 9 rejected**, including 31
+legacy assets. Verified entries use **533 distinct stored image URLs and 532 distinct inspected file hashes**; the same photograph can serve two categories. Verified reference-key coverage: **front 180, movement 70, caseback
+152, bracelet/clasp 147**. Reviewed gaps describe the inspected source set, not a
 claim that no suitable image exists elsewhere. Existing textual research and
 pre-existing "verified" mapping badges do not verify photographs. Unreviewed
 categories are not counted as reviewed gaps.
@@ -319,3 +319,38 @@ and mobile layout checked. The latest ready-list exports reflect that deployment
 The subsequent four photographs and documented case aliases remain unpublished
 until validation passes. Unique-file counts now accompany gallery-entry counts
 to avoid counting one photograph in two categories as two distinct image files.
+
+## Published PR #11 and next Rolex case-reference batch
+
+PR #11 is published at `332742d25695996d2d04fa9f8089842fff6b21e5`, with
+523 gallery entries using 511 distinct inspected image files. Pages build
+37948606608 succeeded. Public release files match the local release byte for byte;
+all 523 gallery entries loaded and enlarged across 244 accepted keys. The live
+mobile checks verified the documented Tudor case aliases and withheld variants.
+The rollback branch remains at `b4ffc080c4dba6f55bb246377a24a3c2bf284052`.
+Live authenticated shared-refresh/RLS testing still requires permitted test access.
+
+The next unpublished batch adds 21 real photographs for physical cases 116619,
+116710, 116713, 6305 and 6611. `photograph-rolex-case-sources.json` records the
+actual inspected galleries, source descriptions, decoded file hashes and decisions.
+Visible between-lug stamps pair the modern cases with documented LB/LN variants;
+internal back stamps pair the vintage cases with 6305/1 and 6611B. Actual cased
+3135, separate steel/two-tone 3186 executions and stamped 1055 photographs are
+accepted. Unidentified 6305 movement photographs and its unsigned strap buckle
+remain withheld. The 6611 buckle is explicitly gold-plated; the leather strap's
+factory originality is not established. Internal 2350/2379 back numbers are not
+new watch-reference aliases. Source condition and wear remain specimen-specific.
+
+44 Rolex-only candidate auction pages were fetched. Six galleries (83 image
+occurrences) were visually inspected in the first batch. These counts do not
+claim all 44 galleries reviewed. The 116610LN gallery lacks a legible numeric
+case stamp or opened movement; further LN/LV specimens are being inspected.
+A number-only Patek 3546 candidate was excluded from Rolex research.
+
+Validation for this 21-photo batch: all 32 Node tests pass, including exact
+case-stamp aliases, suffix boundaries, separate 3186 specimen images and the
+unsupported 6305 movement/clasp gap. Browser fixtures pass all preserved workflows,
+sign-in/out matching, shared refreshes and safety restrictions. Actual public
+images load and enlarge for all 544 accepted gallery entries (532 distinct
+inspected files) across 254 exact accepted keys, with credits, representative
+labels and mobile overflow checked. No TLS verification was disabled.
