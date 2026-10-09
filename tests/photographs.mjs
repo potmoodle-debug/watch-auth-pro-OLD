@@ -312,3 +312,19 @@ test('Loupe archive specimens retain documented suffix, case and calibre boundar
  assert.ok(matchingPhotographs(photos,'Rolex','18239',{externalOnly:true}).every(p=>p.category!=='movement'));
  assert.equal(matchingPhotographs(photos,'Tudor','134300').length,0);
 });
+
+test('photographed Rolex configurations keep Jubilee, dial and numeric case boundaries',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=ref=>matchingPhotographs(photos,'Rolex',ref).filter(p=>p.id.startsWith('loupe-config-'));
+ for(const [ref,n] of [['116000',5],['116900',3],['124200',3],['124300',3],['126200',3],['126600',3],['126710BLNR',3],['126711',4],['126711CHNR',4]])assert.equal(get(ref).length,n,ref);
+ for(const [ref,suffix] of [['116900','0001'],['124300','0003'],['126200','0017'],['126710BLNR','0002']]){
+  assert.equal(get(ref+'-'+suffix).length,3);assert.equal(get('M'+ref+'-'+suffix).length,3);
+ }
+ for(const ref of ['116000-0001','124200-0001','124300-0001','126200-0016','126600-0001','126710','126710BLRO','126710BLNR-0003','126711CHNR-0002','2080','116200','126900'])assert.equal(get(ref).length,0,ref);
+ assert.match(get('116000').find(p=>p.category==='movement').caption,/3130/);
+ for(const ref of ['116900','124200','124300','126200','126600','126710BLNR','126711'])assert.ok(get(ref).every(p=>p.category!=='movement'));
+ assert.match(get('126710BLNR').find(p=>p.category==='braceletClasp').caption,/Jubilee/);
+ assert.match(get('126200').find(p=>p.category==='front').variant,/Wimbledon.*Jubilee/);
+ assert.match(get('116900').find(p=>p.category==='caseback').caption,/not a standard 116900 baseline/);
+ assert.ok(matchingPhotographs(photos,'Rolex','116000',{externalOnly:true}).every(p=>p.category!=='movement'));
+});
