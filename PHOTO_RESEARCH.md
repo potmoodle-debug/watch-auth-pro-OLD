@@ -36,11 +36,11 @@ watch models: punctuation/case duplicates collapse; M-prefixed aliases, base
 references and catalogue suffixes remain separate keys. Broad patterns require
 enumeration and source review; they are never counted as exact references.
 
-Current exact progress is in the generated coverage files: **190 identifier keys
-reviewed, 2,048 unreviewed; 144 source records reviewed, 2,303 unreviewed**. There are
-**538 catalogue assets: 507 verified, 22 pending and 9 rejected**, including 31
-legacy assets. Verified reference-key coverage: **front 165, movement 65, caseback
-139, bracelet/clasp 137**. Reviewed gaps describe the inspected source set, not a
+Current exact progress is in the generated coverage files: **195 identifier keys
+reviewed, 2,043 unreviewed; 149 source records reviewed, 2,298 unreviewed**. There are
+**546 catalogue assets: 515 verified, 22 pending and 9 rejected**, including 31
+legacy assets. Verified reference-key coverage: **front 168, movement 65, caseback
+141, bracelet/clasp 140**. Reviewed gaps describe the inspected source set, not a
 claim that no suitable image exists elsewhere. Existing textual research and
 pre-existing "verified" mapping badges do not verify photographs. Unreviewed
 categories are not counted as reviewed gaps.
@@ -250,3 +250,25 @@ accepted assets: ETA 79220N/R and explicitly labelled State of Qatar 79230R.
 Protective film and specimen clasp codes are explained; no opened movement is
 implied. See `photograph-monochrome-tudor-history-sources.json` and
 `photograph-tudor-extra-auction-sources.json`.
+
+## Research after the published checkpoint
+
+The published PR #8 checkpoint is commit `e18a772808cdd56cf2e7bb4f32b285b79f8dc22c`
+with 507 verified photographs. Subsequent additions remain on the research branch
+until tested and deployed; current catalogue counts above include those additions.
+
+`photograph-tudor-older-sources.json` records 25 actual auction/dealer gallery
+photographs inspected. Six Sterling Vault photographs add front, closed caseback
+and outer bracelet/clasp views for Clair de Rose 35200 (26 mm Roman dial) and
+35500 (30 mm eight-diamond dial). Manufacturer specifications corroborate these
+configurations; no full suffix or opened T201 movement photograph is inferred.
+The 74000 candidate has inconsistent dating, unsupported diamond originality and
+no visible exact reference stamp; the 74033 candidate has conflicting 75203 image
+metadata. Both remain reviewed gaps, with all photographs withheld. Further
+research remains open, including other fetched candidates not visually reviewed.
+
+`photograph-tudor-watchfinder-sources.json` records seven actual Watchfinder
+M91650-0001 gallery photographs inspected. Two accepted photographs document
+the 41 mm silver-blue Arabic-dial 1926 front and steel bracelet/outer clasp.
+The obscured caseback and unphotographed movement remain empty; no neighbouring
+size or dial suffix inherits these images.
