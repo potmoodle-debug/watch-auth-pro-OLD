@@ -1,0 +1,2539 @@
+{
+  "version": 1,
+  "reviewedAt": "2026-10-09T08:30:40.646691+00:00",
+  "articleImagesInspected": 178,
+  "reviewedArticles": [
+    {
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-chrono-blue-boutique-edition/",
+      "inventoryKeysReviewed": [],
+      "imagesInspected": 13,
+      "selectedImages": [],
+      "referenceEvidence": "Blue Chrono M79360B-0002 is not black M79360N-0013; no attachment."
+    },
+    {
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-58-gmt/",
+      "primarySource": "https://www.tudorwatch.com/en/watches/black-bay-58/m7939g1a0nru-0001",
+      "reference": "7939G1A0NRU",
+      "inventoryKeysReviewed": [
+        "7939G1A0NRU",
+        "7939G1A0NRU-0001",
+        "M7939G1A0NRU",
+        "M7939G1A0NRU-0001"
+      ],
+      "imagesInspected": 16,
+      "selectedImages": [
+        [
+          "front",
+          17,
+          "Black/gilt dial, burgundy-and-black GMT bezel and steel bracelet."
+        ],
+        [
+          "caseback",
+          8,
+          "Actual closed steel back and visible case/lug construction; short tooling stamp and serial belong to the specimen."
+        ],
+        [
+          "braceletClasp",
+          9,
+          "Steel bracelet and photographed clasp exterior; no hidden interior codes claimed."
+        ]
+      ],
+      "referenceEvidence": "Hands-on specification identifies M7939G1A0NRU; manufacturer confirms full -0001 bracelet version and MT5450-U. Only bracelet photographs selected. Short tooling stamp is not a lookup alias. No opened movement photographed."
+    },
+    {
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/a-much-desired-encounter-with-the-master-chronometer-tudor-black-bay-monochrome/",
+      "primarySource": "https://www.tudorwatch.com/en/watches/black-bay/m7941a1a0nu-0001",
+      "reference": "7941A1A0NU",
+      "inventoryKeysReviewed": [
+        "7941A1A0NU"
+      ],
+      "imagesInspected": 24,
+      "selectedImages": [
+        [
+          "front",
+          8,
+          "Black dial and bezel with silver accents on three-link bracelet."
+        ],
+        [
+          "front",
+          13,
+          "Black Monochrome on five-link bracelet; representative base-reference variant."
+        ],
+        [
+          "caseback",
+          11,
+          "Closed back of the five-link specimen; visible construction and markings only."
+        ],
+        [
+          "braceletClasp",
+          15,
+          "Opened five-link bracelet T-fit clasp and adjustment springs."
+        ]
+      ],
+      "referenceEvidence": "Hands-on specifications identify M7941A1A0NU; manufacturer confirms -0001 three-link version. Base reference covers clearly labelled photographed bracelet variants; no full bracelet suffix is inferred for five-link photos. MT5602-U is technical text only."
+    },
+    {
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/a-detailed-look-at-the-2023-tudor-black-bay-redesign-and-metas-upgrade/",
+      "primarySource": "https://www.tudorwatch.com/en/watches/black-bay/m7941a1a0ru-0003",
+      "reference": "7941A1A0RU",
+      "inventoryKeysReviewed": [
+        "7941A1A0RU"
+      ],
+      "imagesInspected": 16,
+      "selectedImages": [
+        [
+          "front",
+          5,
+          "Black/gilt dial, burgundy bezel and five-link steel bracelet."
+        ],
+        [
+          "braceletClasp",
+          10,
+          "Five-link bracelet and T-fit clasp exterior; protective film is temporary."
+        ]
+      ],
+      "referenceEvidence": "Hands-on source links to manufacturer M7941A1A0RU-0003, confirming burgundy redesign on five-link bracelet. No older 79220/79230 reference is inferred; movement and obscured caseback remain empty."
+    },
+    {
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-gmt-opaline-and-black-bay-pro/",
+      "primarySource": "https://www.tudorwatch.com/en/watches/black-bay-gmt/m79830rb-0010",
+      "reference": "79830RB",
+      "inventoryKeysReviewed": [
+        "79830RB"
+      ],
+      "imagesInspected": 16,
+      "selectedImages": [
+        [
+          "front",
+          3,
+          "Opaline dial, blue/red GMT bezel, red GMT hand and riveted steel bracelet."
+        ]
+      ],
+      "referenceEvidence": "Manufacturer exact page confirms opaline dial and riveted bracelet for M79830RB-0010; hands-on source photographs this opaline GMT alongside separately identified Black Bay Pro. Pro images excluded. No MT5652 movement photograph established."
+    },
+    {
+      "articleKey": 5,
+      "source": "https://www.fratellowatches.com/two-months-of-living-with-the-tudor-black-bay-fifty-eight-silver/",
+      "primarySource": "https://www.tudorwatch.com/en/watches/black-bay-58/m79010sg-0001",
+      "reference": "79010SG",
+      "inventoryKeysReviewed": [
+        "79010SG"
+      ],
+      "imagesInspected": 12,
+      "selectedImages": [
+        [
+          "front",
+          3,
+          "Silver 925 case, taupe dial/bezel and green aftermarket Tropic-style strap; strap is not a factory configuration baseline."
+        ],
+        [
+          "movement",
+          6,
+          "Actual MT5400 through this silver specimen display back: silver Tudor cut-out rotor, striped bridges and visible 27-jewel inscriptions. No bronze or ceramic execution inferred."
+        ],
+        [
+          "caseback",
+          6,
+          "Actual sapphire display back, surrounding silver case and specimen inscriptions; partial tooling stamp is not a lookup alias."
+        ]
+      ],
+      "referenceEvidence": "Hands-on owner source identifies silver 925 model; manufacturer confirms M79010SG-0001 with MT5400. Owner changed straps, so photographed aftermarket strap is labelled and full factory leather suffix is not attached. Actual display-back movement inspected at full resolution; short 79010S tooling stamp does not establish that incomplete lookup alias."
+    },
+    {
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-black-bay-chrono-carbon-25/",
+      "inventoryKeysReviewed": [],
+      "imagesInspected": 12,
+      "selectedImages": [],
+      "referenceEvidence": "Carbon 25 M79377KN-0001 is outside stored inventory; no neighbouring FXD inheritance."
+    },
+    {
+      "articleKey": 7,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-sg-champagne-dial/",
+      "inventoryKeysReviewed": [],
+      "imagesInspected": 14,
+      "selectedImages": [],
+      "referenceEvidence": "Source manufacturer link identifies M79733N-0004; stored incomplete 79733 has no established alias. No attachment."
+    },
+    {
+      "articleKey": 8,
+      "source": "https://www.fratellowatches.com/tudor-north-flag-introduced-during-bloggers-evening/",
+      "primarySource": "https://monochrome-watches.com/review-tudor-north-flag-m91210n-specs-price/",
+      "reference": "91210N",
+      "inventoryKeysReviewed": [
+        "91210N"
+      ],
+      "imagesInspected": 23,
+      "selectedImages": [
+        [
+          "front",
+          3,
+          "Black dial with white raised 12/6, arrow hour hand, yellow seconds and power reserve at 9, black ceramic bezel middle section and integrated steel bracelet."
+        ],
+        [
+          "movement",
+          7,
+          "Actual MT5621 through this specimen display back: open satin-brushed rotor, matte/grained bridges and balance. MT5621 is explicitly engraved on caseback; no GMT or other Tudor execution inherited."
+        ],
+        [
+          "caseback",
+          7,
+          "Actual sapphire back with TUDOR MANUFACTURE CALIBRE MT5621 inscriptions, specimen serial and short tooling stamp. These specimen stamps do not create additional lookup aliases."
+        ],
+        [
+          "braceletClasp",
+          8,
+          "Actual opened folding clasp marked TUDOR GENEVE, SWISS MADE and STEELINOX EB; EB belongs to the photographed specimen, not every production year."
+        ]
+      ],
+      "referenceEvidence": "Independent documented specialist review explicitly identifies M91210N-0001 steel bracelet, M91210N-0002 leather, 40 mm case and MT5621 with power reserve. Original Fratello event photographs show the same black-yellow North Flag on integrated steel bracelet and its actual display back engraved MT5621. Full movement photograph inspected: matte/grained bridges, satin-brushed open rotor and visible calibre ring. The short tooling 91210 stamp is not added as a lookup alias; new 2026 Northflag GMT is excluded."
+    },
+    {
+      "articleKey": 9,
+      "source": "https://www.fratellowatches.com/34mm-tudor-royal/",
+      "inventoryKeysReviewed": [],
+      "imagesInspected": 10,
+      "selectedImages": [],
+      "referenceEvidence": "Royal M28403-0008 outside inventory; no inheritance by other small Tudor models."
+    },
+    {
+      "articleKey": 10,
+      "source": "https://www.fratellowatches.com/hands-on-with-the-chocolate-dial-tudor-royal-in-steel-gold/",
+      "inventoryKeysReviewed": [],
+      "imagesInspected": 12,
+      "selectedImages": [],
+      "referenceEvidence": "Royal M28603-0007 outside inventory; no inheritance by Prince Day Date."
+    },
+    {
+      "articleKey": 11,
+      "source": "https://www.fratellowatches.com/two-years-on-living-with-tudors-black-bay-fifty-eight/",
+      "inventoryKeysReviewed": [],
+      "imagesInspected": 10,
+      "selectedImages": [],
+      "referenceEvidence": "Blue Black Bay 58 owner photographs inspected; no additional attachment needed for already reviewed 79030B. Aftermarket configurations excluded from factory suffix matching."
+    }
+  ],
+  "manufacturerAccess": [],
+  "note": "Every main article image was decoded and visually inspected, including embedded tiled galleries and off-model comparisons. Duplicate article/gallery appearances count as image occurrences, not unique media. Related-post thumbnails and avatars excluded. Unsupported movements and year-coded aliases withheld.",
+  "access": [
+    {
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/10/Tudor-Black-Bay-Chronograph-Blue-Boutique-Edition-5.jpg",
+      "alt": "Tudor Black Bay Chrono",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-chrono-blue-boutique-edition/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "5ba0683ec8e5ef7b1ab2264bfef81e8b00eeb08d8dbc28f1cb89505049662427"
+    },
+    {
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/10/Tudor-Black-Bay-Chronograph-Blue-Boutique-Edition-3.jpg",
+      "alt": "Black Bay Chrono",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-chrono-blue-boutique-edition/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "7b6459704b623920efec3a199517bce671e6a636befa3c5893fb6b9e4d6662ad"
+    },
+    {
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/10/Tudor-Black-Bay-Chronograph-Blue-Boutique-Edition-6.jpg",
+      "alt": "Tudor Black Bay Chrono",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-chrono-blue-boutique-edition/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "bfdf393011d7f7ef130e334c4785198875d4a7866674818e008a63e7d2baccbc"
+    },
+    {
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/10/Tudor-Black-Bay-Chronograph-Blue-Boutique-Edition-9.jpg",
+      "alt": "",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-chrono-blue-boutique-edition/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "e432772ba3e0a5f35fd81df5e602296749e31bde5920f398227d4c8348683f05"
+    },
+    {
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/10/Tudor-Black-Bay-Chronograph-Blue-Boutique-Edition-14.jpg",
+      "alt": "",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-chrono-blue-boutique-edition/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "9d0fb749cd928b1db50853f8c5bb7b13dba782f7ada34be5afb3f82f8b200cb7"
+    },
+    {
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/10/Tudor-Black-Bay-Chronograph-Blue-Boutique-Edition-15.jpg",
+      "alt": "",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-chrono-blue-boutique-edition/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "984a1f20f84a9475a4eb9bfd54e0477e9d898768a3565f7cb5e162d7e423559d"
+    },
+    {
+      "index": 9,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/10/Tudor-Black-Bay-Chronograph-Blue-Boutique-Edition-7.jpg",
+      "alt": "",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-chrono-blue-boutique-edition/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "1c212e1281d8f9be030d680de29a81603ad4a63cfb9c4f28575056c431bb02c0"
+    },
+    {
+      "index": 10,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/10/Tudor-Black-Bay-Chronograph-Blue-Boutique-Edition-11.jpg",
+      "alt": "Tudor",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-chrono-blue-boutique-edition/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "e7efbd0306f2f43d8c33da31586c6644667132b2db8cd28039712cd57129911e"
+    },
+    {
+      "index": 11,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/10/Tudor-Black-Bay-Chronograph-Blue-Boutique-Edition-12.jpg",
+      "alt": "",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-chrono-blue-boutique-edition/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "27f3df8d9b40b3c4f12c1899df713d5d7e4fb3a055a2a9086ebd07833ae0e8dc"
+    },
+    {
+      "index": 12,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/10/Tudor-Black-Bay-Chronograph-Blue-Boutique-Edition-16.jpg",
+      "alt": "",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-chrono-blue-boutique-edition/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "bec88b72d9634eca7f1b53a4d452ea3c99a0c739b53b2b34729f8f8fad94210e"
+    },
+    {
+      "index": 13,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/10/Tudor-Black-Bay-Chronograph-Blue-Boutique-Edition-13.jpg",
+      "alt": "",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-chrono-blue-boutique-edition/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "fe6c004934d16b805baf93e78aa8dc71c98d52f928e7bc8f91cd48cf0b76ccd9"
+    },
+    {
+      "index": 14,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/10/Tudor-Black-Bay-Chrono-Blue-M79360B-1.jpg",
+      "alt": "",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-chrono-blue-boutique-edition/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "11c60b49c8b84d164595e144117e6bde47823a303da6669dab2c89e91bd8842f"
+    },
+    {
+      "index": 15,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/10/Tudor-Black-Bay-Chrono-Blue-M79360B-3.jpg",
+      "alt": "",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-chrono-blue-boutique-edition/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "c32106375c6ce4347eb2650115fbfd7ccf81fb96f81af748c33718d52154f2d7"
+    },
+    {
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/10/Tudor-BB-GMT16.jpg",
+      "alt": "Tudor Black Bay 58 GMT",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-58-gmt/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "20148ab8a1e05bfb430b198d1787f4a68132153168610ffc3b854dfab9651900"
+    },
+    {
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/10/Tudor-BB-GMT21.jpg",
+      "alt": "Tudor Black Bay 58 GMT dial",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-58-gmt/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "2ffbbed7cdef6356f1c8db57b8ba8c11a2763902076f46b93474776e0ef70329"
+    },
+    {
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/10/Tudor-BB-GMT31.jpg",
+      "alt": "Tudor Black Bay 58 GMT",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-58-gmt/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "61337456f4761222d94d12bcfda04bbb8b08d1ad8254ea37da031ccec2d2db17"
+    },
+    {
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/10/Tudor-BB-GMT28.jpg",
+      "alt": "",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-58-gmt/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "fc26127d679e79d79b03a3d0937e9a6b8d38d368fb9eda3e9eb0a5db3a4fa277"
+    },
+    {
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/10/Tudor-BB-GMT27.jpg",
+      "alt": "",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-58-gmt/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "a3ba72edf1a307dd6ce2357c9c02b7b9b6925a00e2541fbaa18e76eae4c75edb"
+    },
+    {
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/10/Tudor-BB-GMT18.jpg",
+      "alt": "",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-58-gmt/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "00162de1d06e4a85864171c552dbb6296c5959bb986e421905745e173b8b043b"
+    },
+    {
+      "index": 9,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/10/Tudor-BB-GMT19.jpg",
+      "alt": "",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-58-gmt/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "90c866d8f3d735d197e1de96e3478420064a73cff38b73e2eb15fe6f5b183442"
+    },
+    {
+      "index": 10,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/10/Tudor-BB-GMT20.jpg",
+      "alt": "",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-58-gmt/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "b33113c7a2ed19493fb165d58fdfde4598253a7d4337c35bb515611c6981e92e"
+    },
+    {
+      "index": 11,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/10/Tudor-BB-GMT6.jpg",
+      "alt": "",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-58-gmt/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "b441e7549bc88a80836320cc226abb23f60781914a44d60ff499b7835e34c633"
+    },
+    {
+      "index": 12,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/10/Tudor-BB-GMT22.jpg",
+      "alt": "Tudor Black Bay 58 GMT",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-58-gmt/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "3002471645f7a2233f51bc716aaade07d08782b0297c3ca754126b2edd13a8c2"
+    },
+    {
+      "index": 13,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/10/Tudor-BB-GMT5.jpg",
+      "alt": "Tudor Black Bay 58 GMT wristshot",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-58-gmt/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "d2237e784e91b36dca23650b1876edcc458884e300dd5becd6ddf242023e8425"
+    },
+    {
+      "index": 14,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/10/Tudor-BB-GMT3.jpg",
+      "alt": "Tudor Black Bay 58 GMT on the wrist",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-58-gmt/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "14837163e068d70c658e119e394e8f7d9411752a24d1510f4da0057f6032883e"
+    },
+    {
+      "index": 15,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/10/Tudor-Black-Bay-58-GMT-5.jpg",
+      "alt": "",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-58-gmt/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "34cb1af3a78f1a59ae815470ff4658a62b6029f7dc7d44e40b57e89e06aad0aa"
+    },
+    {
+      "index": 16,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/10/Tudor-BB-GMT10.jpg",
+      "alt": "Tudor Black Bay 58 GMT",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-58-gmt/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "bea7205c493c2b7b888e1cb6aae1c934825dcfb59492c02544937fa0e0afc6df"
+    },
+    {
+      "index": 17,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/10/Tudor-BB-GMT11.jpg",
+      "alt": "",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-58-gmt/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "fda413e7401c80a0e10633d113c9c79e4ce16d4007a4fe4011a0e2259bc6ccef"
+    },
+    {
+      "index": 18,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/10/Tudor-BB-GMT1.jpg",
+      "alt": "",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-58-gmt/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "f5b2441372b88a507fae80dc01412ff3a10e7b6d3209f683beb132fab3df4026"
+    },
+    {
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/02/Tudor-BB-Black8.jpg",
+      "alt": "Tudor Black Bay \"Monochrome\" all variants",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/a-much-desired-encounter-with-the-master-chronometer-tudor-black-bay-monochrome/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1203
+      ],
+      "sha256": "bac465c85fe45904a44d1d0c33656b11b4610c439a808a6581dafbc648d5eb18"
+    },
+    {
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/02/Tudor-BB-Black21.jpg",
+      "alt": "Tudor Black Bay \"Monochrome\" dial",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/a-much-desired-encounter-with-the-master-chronometer-tudor-black-bay-monochrome/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "6aaaf4eadec9f44fe05c82eaa97396706424e5583ecb7fadc836a1a445fd89ce"
+    },
+    {
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/02/Tudor-BB-Black11.jpg",
+      "alt": "Tudor Black Bay \"Monochrome\" on Jubilee-style bracelet",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/a-much-desired-encounter-with-the-master-chronometer-tudor-black-bay-monochrome/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "31fdc4e4b9bd1811c9b11ae6c1fa06e87392f85b7900582a0264f89debd2a00f"
+    },
+    {
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/02/Tudor-BB-Black26.jpg",
+      "alt": "Tudor Black Bay \"Monochrome\" lugs and end links",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/a-much-desired-encounter-with-the-master-chronometer-tudor-black-bay-monochrome/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "d7b92a6f9973db4f24c88772897a89ceb7a960e10875a18aa756c627bd9bbde2"
+    },
+    {
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/02/Tudor-BB-Black5.jpg",
+      "alt": "Tudor Black Bay \"Monochrome\" with Oyster-style bracelet on wrist",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/a-much-desired-encounter-with-the-master-chronometer-tudor-black-bay-monochrome/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "487d29464d119ebc30f9499ecc28b6ffec074d55f32f5f56eadc85126f85fdae"
+    },
+    {
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/02/Tudor-BB-Black13.jpg",
+      "alt": "Tudor Black Bay \"Monochrome\" with Oyster-style bracelet, flat-lay",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/a-much-desired-encounter-with-the-master-chronometer-tudor-black-bay-monochrome/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "fbfeefbba4b91dd2397284cf57066a44b5be2db6e9748dd16011b888eca95daa"
+    },
+    {
+      "index": 9,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/02/Tudor-BB-Black23.jpg",
+      "alt": "Tudor Black Bay \"Monochrome\" case profile from crown side",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/a-much-desired-encounter-with-the-master-chronometer-tudor-black-bay-monochrome/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "7dce13e16e836d61251d1dbadb65408b572036ce390761eace2d0402e679efc4"
+    },
+    {
+      "index": 10,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/02/Tudor-BB-Black24.jpg",
+      "alt": "Tudor Black Bay \"Monochrome\" lug",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/a-much-desired-encounter-with-the-master-chronometer-tudor-black-bay-monochrome/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "be2ec28166859f163022d6bc8fa4a98059376c81a6c2e38bd3ec032a49e590e8"
+    },
+    {
+      "index": 11,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/02/Tudor-BB-Black36.jpg",
+      "alt": "Tudor Black Bay \"Monochrome\" case back",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/a-much-desired-encounter-with-the-master-chronometer-tudor-black-bay-monochrome/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "57bf92b31caf650378eb8c3a72f1a08bb96799f53ea6fe751c17efef40c8b9f0"
+    },
+    {
+      "index": 12,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/02/Tudor-BB-Black31.jpg",
+      "alt": "Tudor Black Bay \"Monochrome\" with Jubilee-style bracelet, pocket shot",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/a-much-desired-encounter-with-the-master-chronometer-tudor-black-bay-monochrome/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "01b5e3cac6deb2ddd55b93777ca8d9f433972619732de974979d6bfc230673ff"
+    },
+    {
+      "index": 13,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/02/Tudor-BB-Black18.jpg",
+      "alt": "Tudor Black Bay \"Monochrome\" with Oyster-style bracelet in hand",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/a-much-desired-encounter-with-the-master-chronometer-tudor-black-bay-monochrome/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "db1264ea90dc475baaa5e8b745314c010ad4375973ee068ffa9629a787a52661"
+    },
+    {
+      "index": 14,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/02/Tudor-BB-Black10.jpg",
+      "alt": "Tudor Black Bay \"Monochrome\" with rubber strap and diving equipment",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/a-much-desired-encounter-with-the-master-chronometer-tudor-black-bay-monochrome/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "3b82dce1f2a53a28f329f78a772c72bac019cb0c12eda1a097109948baa2b1df"
+    },
+    {
+      "index": 15,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/02/Tudor-BB-Black29.jpg",
+      "alt": "Tudor Oyster-style bracelet T-fit clasp",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/a-much-desired-encounter-with-the-master-chronometer-tudor-black-bay-monochrome/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "7a109f1f98fa5e31d39a2450a7ef3a0de9dbdb3e7f3c0690534b778fc33a469f"
+    },
+    {
+      "index": 16,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/02/Tudor-BB-Black9.jpg",
+      "alt": "wet Tudor Black Bay \"Monochrome\" with Oyster-style bracelet",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/a-much-desired-encounter-with-the-master-chronometer-tudor-black-bay-monochrome/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "de893441128941454dc5a5794d195a42b59d4455d6f8ff33469b6b1238e74df3"
+    },
+    {
+      "index": 17,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/02/Tudor-BB-Black2.jpg",
+      "alt": "Tudor Black Bay \"Monochrome\" with Jubilee-style bracelet, on wrist",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/a-much-desired-encounter-with-the-master-chronometer-tudor-black-bay-monochrome/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "f5a3169adba120518061427696defa95a57a488ba05ca6d24d6905b7f1326041"
+    },
+    {
+      "index": 18,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/02/Tudor-BB-Black19.jpg",
+      "alt": "Tudor Black Bay \"Monochrome\" with Oyster-style bracelet in hand",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/a-much-desired-encounter-with-the-master-chronometer-tudor-black-bay-monochrome/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "820f57bc2730def3fa608b0de2f38e8114a736f998a8539def0032ee2edac984"
+    },
+    {
+      "index": 19,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/02/Tudor-BB-Black1.jpg",
+      "alt": "Tudor Black Bay \"Monochrome\" with Jubilee-style bracelet on wrist",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/a-much-desired-encounter-with-the-master-chronometer-tudor-black-bay-monochrome/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "95beae12db2fa3f088c5c80388b84b3ad950f3cd00ac0ecc1a5d37b996c0d03f"
+    },
+    {
+      "index": 20,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/02/Tudor-BB-Black25.jpg",
+      "alt": "Tudor Black Bay \"Monochrome\" bezel pip",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/a-much-desired-encounter-with-the-master-chronometer-tudor-black-bay-monochrome/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "b177dc1d66eba1ae1b1cbb2f30dcb709a25f243a2e4ec20c86377aa9c093dce0"
+    },
+    {
+      "index": 21,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/02/Tudor-BB-Black4.jpg",
+      "alt": "Tudor Black Bay \"Monochrome\" with Oyster-style bracelet on wrist",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/a-much-desired-encounter-with-the-master-chronometer-tudor-black-bay-monochrome/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "9cc077cdbff51a5b94d4ab97540e95e317cf97965b76cbd16603527b766c448d"
+    },
+    {
+      "index": 22,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/02/Tudor-BB-Black33.jpg",
+      "alt": "Tudor Black Bay \"Monochrome\" all variants, flat-lay",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/a-much-desired-encounter-with-the-master-chronometer-tudor-black-bay-monochrome/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "5136c3ad033c1392541c3e086d4a2cd4f319d569d0c5b03736c2d07b382602e4"
+    },
+    {
+      "index": 23,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/02/Tudor-BB-Black34.jpg",
+      "alt": "Tudor Black Bay \"Monochrome\" with Jubilee-style bracelet",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/a-much-desired-encounter-with-the-master-chronometer-tudor-black-bay-monochrome/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "2f0b6fd6c8c8ffbba893d55f0bae1ae2c954cc1a875adc3bef78133b7e870bf0"
+    },
+    {
+      "index": 24,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/02/Tudor-BB-Black22.jpg",
+      "alt": "Tudor Black Bay \"Monochrome\" dial close-up",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/a-much-desired-encounter-with-the-master-chronometer-tudor-black-bay-monochrome/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "e5ace762e70bbaf6fcc4d0c8fa2cd29d72daeb1574f7e665ee6ce369d90e0014"
+    },
+    {
+      "index": 25,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/02/Tudor-BB-Black3.jpg",
+      "alt": "Tudor Black Bay \"Monochrome\" with Oyster bracelet, pocket shot",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/a-much-desired-encounter-with-the-master-chronometer-tudor-black-bay-monochrome/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "db67d37ab4b5be93f4b8a730a86fd61acc05d31d568db059fe15469ea8d01d63"
+    },
+    {
+      "index": 26,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/02/Tudor-BB-Black12.jpg",
+      "alt": "Tudor Black Bay \"Monochrome\" with rubber strap",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/a-much-desired-encounter-with-the-master-chronometer-tudor-black-bay-monochrome/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "0cb800bf2e3448060db36a681e249e18e6c0a9ea74e1c4adb93b8546b0624838"
+    },
+    {
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/04/Tudor-Black-Bay-2023-wrist-shot-2.jpg",
+      "alt": "2023 Tudor Black Bay",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/a-detailed-look-at-the-2023-tudor-black-bay-redesign-and-metas-upgrade/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "b8c248b9e807a4890a01d544943d29dbc034d27af073eafdda60c61abb8ce189"
+    },
+    {
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/03/Tudor-Black-Bay-2023-Burgundy-9.jpg",
+      "alt": "2023 Tudor Black Bay",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/a-detailed-look-at-the-2023-tudor-black-bay-redesign-and-metas-upgrade/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "7c99dea9b458e670b0b41c5badb3cdc34b521b3a5a66e4646c8c7ed8ee9cbb26"
+    },
+    {
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/03/Tudor-Black-Bay-2023-Burgundy-8.jpg",
+      "alt": "2023 Tudor Black Bay",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/a-detailed-look-at-the-2023-tudor-black-bay-redesign-and-metas-upgrade/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "259dfbc1927ad52e381ed76217fec5c0d3d71f65323a6423d31a95e839c5a39d"
+    },
+    {
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/04/Tudor-Black-Bay-23-closeup.jpg",
+      "alt": "",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/a-detailed-look-at-the-2023-tudor-black-bay-redesign-and-metas-upgrade/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "6704082854235a5d4abbb9e537c1fc0314172503ae0729facfb7151923c6f2b6"
+    },
+    {
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/03/Tudor-Black-Bay-2023-Burgundy-10.jpg",
+      "alt": "",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/a-detailed-look-at-the-2023-tudor-black-bay-redesign-and-metas-upgrade/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "d692ec68bdd26fa2e13dccab441777071b088260183ee6d20830e9974160fa7e"
+    },
+    {
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/03/Tudor-Black-Bay-2023-Burgundy-11.jpg",
+      "alt": "",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/a-detailed-look-at-the-2023-tudor-black-bay-redesign-and-metas-upgrade/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "37a776ad64974d75d8acc92803ddbc0f1d5dbdfc13128252d2ed5afe0588366b"
+    },
+    {
+      "index": 9,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/03/Tudor-Black-Bay-2023-Burgundy-3.jpg",
+      "alt": "",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/a-detailed-look-at-the-2023-tudor-black-bay-redesign-and-metas-upgrade/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "d3a6643635635842b6daacfedb8895517fe06935219d89d914109c16115dd5a3"
+    },
+    {
+      "index": 10,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/03/Tudor-Black-Bay-2023-Burgundy-12.jpg",
+      "alt": "",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/a-detailed-look-at-the-2023-tudor-black-bay-redesign-and-metas-upgrade/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "1e744cb0d3ae171ea5cee1dd3f103f296dad80a8accd4141ce906c258466d2ec"
+    },
+    {
+      "index": 11,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/03/Tudor-Black-Bay-2023-Burgundy-2.jpg",
+      "alt": "2023 Tudor Black Bay",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/a-detailed-look-at-the-2023-tudor-black-bay-redesign-and-metas-upgrade/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "973e12ffbcb85a43329f2d9491f56c302f3f3f8705045f957ebce57a48f0b02b"
+    },
+    {
+      "index": 12,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/03/Tudor-Black-Bay-2023-Burgundy-5.jpg",
+      "alt": "",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/a-detailed-look-at-the-2023-tudor-black-bay-redesign-and-metas-upgrade/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "dc47fb8d91e9f538cc5067110edac629b81a0f30adcc175cb527924d2aa77689"
+    },
+    {
+      "index": 13,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/03/Tudor-Black-Bay-2023-Burgundy-13.jpg",
+      "alt": "",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/a-detailed-look-at-the-2023-tudor-black-bay-redesign-and-metas-upgrade/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "cffe8ffedc4b40859b9458c2577e9a374c0b27cacd297d70b50ff6576ec8311f"
+    },
+    {
+      "index": 14,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/03/Tudor-Black-Bay-2023-Burgundy-6.jpg",
+      "alt": "",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/a-detailed-look-at-the-2023-tudor-black-bay-redesign-and-metas-upgrade/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "6e4eee0c5230821cc8f9a7ad2a520bebfb4f943ff607ac838d8bb17768cadd60"
+    },
+    {
+      "index": 15,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/03/Tudor-Black-Bay-2023-Burgundy-7.jpg",
+      "alt": "2023 Tudor Black Bay",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/a-detailed-look-at-the-2023-tudor-black-bay-redesign-and-metas-upgrade/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "5375d385764d4824df53470900e9a0b34511fa876e3e324257f9dbf7083591a7"
+    },
+    {
+      "index": 16,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/03/Tudor-Le-Locle-Manufacture-Inauguration-24.jpg",
+      "alt": "",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/a-detailed-look-at-the-2023-tudor-black-bay-redesign-and-metas-upgrade/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "6d522d6e6e511fb02ee7ce8d09b9814957e60c6645b0c536720a7bbe7a275df8"
+    },
+    {
+      "index": 17,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/04/Tudor-Black-Bay-2023-wrist-shot-1.jpg",
+      "alt": "2023 Tudor Black Bay",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/a-detailed-look-at-the-2023-tudor-black-bay-redesign-and-metas-upgrade/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "8763a5cb9afc9d9d7e6ee019c68bfc37d75dd76a5379a288b1af4e44aa7988b6"
+    },
+    {
+      "index": 18,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/04/Tudor-Black-Bay-2023-Burgundy-1.jpg",
+      "alt": "",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/a-detailed-look-at-the-2023-tudor-black-bay-redesign-and-metas-upgrade/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "95ca8f48e821db95d1e4b049365129d229a283d32c230cd80eca59a12e643119"
+    },
+    {
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/03/Tudor-Black-Bay-GMT-Opaline-1.jpg",
+      "alt": "",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-gmt-opaline-and-black-bay-pro/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "a814f7825d791fca3db73c9ab76af86ba45200673590c5f0a69641494c357601"
+    },
+    {
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/01/Tudor-Black-Bay-Pro-1.jpg",
+      "alt": "",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-gmt-opaline-and-black-bay-pro/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "8f3a610b442aea1c7801a92a5176e61b50bf4d1d2c82ab41d9d6d61d013825c8"
+    },
+    {
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/01/Tudor-Black-Bay-Pro-2.jpg",
+      "alt": "",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-gmt-opaline-and-black-bay-pro/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "9248943bce253b554a546dc1aede3f5381253237411ef7c951820c93475e6305"
+    },
+    {
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/06/Tudor-Black-Bay-GMT-Opaline-2.jpg",
+      "alt": "",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-gmt-opaline-and-black-bay-pro/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "912b4cde4a82556429ed958a213b89894674530a9416e8d303306e1920d5355c"
+    },
+    {
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/06/Tudor-Black-Bay-GMT-Opaline-8.jpg",
+      "alt": "",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-gmt-opaline-and-black-bay-pro/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "5136a68e0170aeee9239f86e35c877dc753bc812b6cc45e3a948916b25292605"
+    },
+    {
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/06/Tudor-Black-Bay-GMT-Opaline-3.jpg",
+      "alt": "",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-gmt-opaline-and-black-bay-pro/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "5170e4d21f531b5b5305c50f9c2a978cc3689f80de75ccc86d037cc62e875f87"
+    },
+    {
+      "index": 9,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/03/Forstner-Bracelets-for-Tudor-Black-Bay-Pro-28.jpg",
+      "alt": "",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-gmt-opaline-and-black-bay-pro/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "a83c52ff0b5a0ad2674cdd8e2402dc0e200f4e918993ed5835dfa4974007a7c4"
+    },
+    {
+      "index": 10,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/06/Tudor-Black-Bay-GMT-Opaline-6.jpg",
+      "alt": "",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-gmt-opaline-and-black-bay-pro/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "2f4adc5823fe18800c1487e096372f3c839efa2dca273a712c2a8affd9551179"
+    },
+    {
+      "index": 11,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/03/Forstner-Bracelets-for-Tudor-Black-Bay-Pro-2.jpg",
+      "alt": "",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-gmt-opaline-and-black-bay-pro/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "b71f2e484433b7050d30fc599b6a0c25ff4d7a39428e0158052c3919d64dc1b8"
+    },
+    {
+      "index": 12,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/03/Tudor-Black-Bay-GMT-Opaline-10.jpg",
+      "alt": "",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-gmt-opaline-and-black-bay-pro/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "f88ab1441a3a9a64c8155f68be1d28b20d12c8e301a60636fbb9a073d16b9317"
+    },
+    {
+      "index": 13,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/06/Tudor-Black-Bay-GMT-White-67.jpg",
+      "alt": "",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-gmt-opaline-and-black-bay-pro/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "cd8961b00778b86c4067937c9d21bf201c069882dad891ed0ab1e7f1a8304991"
+    },
+    {
+      "index": 14,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/06/Tudor-Black-Bay-GMT-White-66.jpg",
+      "alt": "GMT watches Tudor Black Bay GMT",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-gmt-opaline-and-black-bay-pro/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "cc929350243adcd949fb108899ce5336c32dd5364685f601266e8de19424ab68"
+    },
+    {
+      "index": 15,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/01/Tudor-Black-Bay-Pro-4.jpg",
+      "alt": "",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-gmt-opaline-and-black-bay-pro/",
+      "status": "decoded",
+      "dimensions": [
+        1201,
+        1800
+      ],
+      "sha256": "a36dae1e8e7258bca2d258bc02bcc8339188789d441dd31324a423a9fcf51aff"
+    },
+    {
+      "index": 16,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/03/Forstner-Bracelets-for-Tudor-Black-Bay-Pro-10.jpg",
+      "alt": "",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-gmt-opaline-and-black-bay-pro/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "a11f6b42269b685bb89647bc67bb347da4ff87931ed9afa16cd1d6cd32306b1b"
+    },
+    {
+      "index": 17,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/01/Tudor-Black-Bay-Pro-5.jpg",
+      "alt": "",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-gmt-opaline-and-black-bay-pro/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "9e68dc3155d2844c1cb0c3c348843e24c709a62b551d5d5c7c9c0231e10f7883"
+    },
+    {
+      "index": 18,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/06/Tudor-Black-Bay-GMT-Opaline-7.jpg",
+      "alt": "",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/hands-on-tudor-black-bay-gmt-opaline-and-black-bay-pro/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "83c194badbea65f1d2149eebb9f2629a2baf9e55848de9f95133f6d0a0b56628"
+    },
+    {
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2021/08/2021-07-11-14.14.25.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight Silver 4",
+      "articleKey": 5,
+      "source": "https://www.fratellowatches.com/two-months-of-living-with-the-tudor-black-bay-fifty-eight-silver/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "04407dbbfa225607d750563c8324157606f0ef097d56da4d877e27886a4c9742"
+    },
+    {
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2021/08/2021-07-11-14.25.06.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight Silver 14",
+      "articleKey": 5,
+      "source": "https://www.fratellowatches.com/two-months-of-living-with-the-tudor-black-bay-fifty-eight-silver/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "0b205b2a0cc4bf8de0964ffd848c5424ed11f8987d796f0fc41295c3f66249be"
+    },
+    {
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2021/08/2021-07-11-14.32.11.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight Silver 16",
+      "articleKey": 5,
+      "source": "https://www.fratellowatches.com/two-months-of-living-with-the-tudor-black-bay-fifty-eight-silver/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "8d860a1b99f6ad42410baaca9ee0d666c1ab52788440f9b3a712cf7432d651d6"
+    },
+    {
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2021/08/2021-07-11-14.15.33.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight Silver 7",
+      "articleKey": 5,
+      "source": "https://www.fratellowatches.com/two-months-of-living-with-the-tudor-black-bay-fifty-eight-silver/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "b60b51c4e643df421eaa1c688d1351f16577f9358ab640f33777c91300c3b8bb"
+    },
+    {
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2021/08/2021-07-11-14.29.56.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight Silver 15",
+      "articleKey": 5,
+      "source": "https://www.fratellowatches.com/two-months-of-living-with-the-tudor-black-bay-fifty-eight-silver/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "56c5164c53f925aed9f70b53aab7c857ed61eb9b7ef25f07ae3bdf7a386be7d4"
+    },
+    {
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2021/08/2021-07-11-14.16.15.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight Silver 8",
+      "articleKey": 5,
+      "source": "https://www.fratellowatches.com/two-months-of-living-with-the-tudor-black-bay-fifty-eight-silver/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "45f700cd295473fb398d69451a7edc3a2d45ee27013d31935b4304a78f06309e"
+    },
+    {
+      "index": 9,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2021/08/2021-07-11-14.13.44.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight Silver 3",
+      "articleKey": 5,
+      "source": "https://www.fratellowatches.com/two-months-of-living-with-the-tudor-black-bay-fifty-eight-silver/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "823356df10246133a511f10b0cc749543c9954516a5ee1a63f4173b7dc092c24"
+    },
+    {
+      "index": 10,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2021/08/2021-07-11-14.34.34.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight Silver 19",
+      "articleKey": 5,
+      "source": "https://www.fratellowatches.com/two-months-of-living-with-the-tudor-black-bay-fifty-eight-silver/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "4b3bc12126baa28c499a33c8993d80f4a71afdf0f7970aa2fd85c1c9b63c90e3"
+    },
+    {
+      "index": 11,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2021/08/2021-07-11-14.20.31.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight Silver 12",
+      "articleKey": 5,
+      "source": "https://www.fratellowatches.com/two-months-of-living-with-the-tudor-black-bay-fifty-eight-silver/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "ca09ab60b079593e43ee02190e2a9eb80c9d6bacf0d4b8fee2171777fd7fc411"
+    },
+    {
+      "index": 12,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2021/08/2021-07-11-14.19.19.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight Silver 10",
+      "articleKey": 5,
+      "source": "https://www.fratellowatches.com/two-months-of-living-with-the-tudor-black-bay-fifty-eight-silver/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "728893daf7327b08a824c532ff813f048635a9810e1c798444707d10931aeafe"
+    },
+    {
+      "index": 13,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2021/08/2021-07-11-14.14.46.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight Silver 5",
+      "articleKey": 5,
+      "source": "https://www.fratellowatches.com/two-months-of-living-with-the-tudor-black-bay-fifty-eight-silver/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "ffe154410f3e54fd5ec6d5238ab59084c53ca43e85b2f2bbf38fb4e3a95367d9"
+    },
+    {
+      "index": 14,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2021/08/2021-07-11-14.32.26.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight Silver 17",
+      "articleKey": 5,
+      "source": "https://www.fratellowatches.com/two-months-of-living-with-the-tudor-black-bay-fifty-eight-silver/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "b8d9bb5ba9ccc1863d47cbb422a8af42951144021b2fe61d6b380af174301c08"
+    },
+    {
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/05/Tudor-Black-Bay-Chrono-Carbon-25-4.jpg",
+      "alt": "Tudor Black Bay Chrono “Carbon 25” propped up",
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-black-bay-chrono-carbon-25/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "91cccbbeb4ae9328721010ff6d892e849eda03e70f7ceeb2bd038093382266b9"
+    },
+    {
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/05/Tudor-Black-Bay-Chrono-Carbon-25-10.jpg",
+      "alt": "Tudor Black Bay Chrono “Carbon 25” case back",
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-black-bay-chrono-carbon-25/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "f1ed6892acad88c1d75a403af019ddb1dd8cdbd0d36ee8d89f0eeccebd979608"
+    },
+    {
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/05/Tudor-Black-Bay-Chrono-Carbon-25-17.jpg",
+      "alt": "Tudor Black Bay Chrono “Carbon 25” with end link removed",
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-black-bay-chrono-carbon-25/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "1c5713f7b70b00c25006284bf323b12d060a022e7ddc82ba10a2d7f3c3c81916"
+    },
+    {
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/05/Tudor-Black-Bay-Chrono-Carbon-25-16.jpg",
+      "alt": "Tudor Black Bay Chrono “Carbon 25” with end link removed",
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-black-bay-chrono-carbon-25/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "3153718766a3a2bc620b58578aee72380feb803e463cedd9d31a8201fa1d2922"
+    },
+    {
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/05/Tudor-Black-Bay-Chrono-Carbon-25-8.jpg",
+      "alt": "Tudor Black Bay Chrono “Carbon 25” buckle",
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-black-bay-chrono-carbon-25/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "aeec9741ce1f96f215d5883902eed10dd3210b4e1a8ba865502adc226f184a81"
+    },
+    {
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/05/Tudor-Black-Bay-Chrono-Carbon-25-5.jpg",
+      "alt": "Tudor Black Bay Chrono “Carbon 25” flat-lay",
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-black-bay-chrono-carbon-25/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "756693f3669c3e1fec91c5b8dbb137fdfed33c1d2cda47d51edbde815beb6caa"
+    },
+    {
+      "index": 9,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/05/Tudor-Black-Bay-Chrono-Carbon-25-12.jpg",
+      "alt": "Tudor Black Bay Chrono “Carbon 25” dial up close",
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-black-bay-chrono-carbon-25/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "36871e6f4af77b9c16a929fb3495e2c81617fd14540c9a2ba212ed528762a598"
+    },
+    {
+      "index": 10,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/05/Tudor-Black-Bay-Chrono-Carbon-25-14.jpg",
+      "alt": "Tudor Black Bay Chrono “Carbon 25” dial macro",
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-black-bay-chrono-carbon-25/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "2c06be0aecc52b7163b4e27ae891f99bef4fcdc693b49a5219d0c4289897ef5b"
+    },
+    {
+      "index": 11,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/05/Tudor-Black-Bay-Chrono-Carbon-25.jpg",
+      "alt": "Tudor Black Bay Chrono “Carbon 25” pocket shot",
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-black-bay-chrono-carbon-25/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "234fed923ef91852bf16f7589d5b15b30534bc1714c5549a91bcc444547dd48d"
+    },
+    {
+      "index": 12,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/05/Tudor-Black-Bay-Chrono-Carbon-25-2.jpg",
+      "alt": "Tudor Black Bay Chrono “Carbon 25” on wrist, arms crossed",
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-black-bay-chrono-carbon-25/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "874d3b165346975ecaf48f1fb01818170ee77078b46da510ec84a6ead0eca881"
+    },
+    {
+      "index": 13,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/05/Tudor-Black-Bay-Chrono-Carbon-25-6.jpg",
+      "alt": "Tudor Black Bay Chrono “Carbon 25” crown up",
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-black-bay-chrono-carbon-25/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "f46dbd6d923b63b0a2bc85fe18121fdfb63f01519a3fbd4b7882281117e2f348"
+    },
+    {
+      "index": 14,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/05/Tudor-Black-Bay-Chrono-Carbon-25-7.jpg",
+      "alt": "Tudor Black Bay Chrono “Carbon 25” propped up",
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-black-bay-chrono-carbon-25/",
+      "status": "decoded",
+      "dimensions": [
+        1201,
+        1800
+      ],
+      "sha256": "1d59e258f40d3a595272e2a9202eda17af5cc2fda0ee2e77a50d297463e38701"
+    },
+    {
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//2018/03/Tudor-Black-Bay-SG..002.jpg",
+      "alt": "",
+      "articleKey": 7,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-sg-champagne-dial/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "8e7f24479823ed5e4914be585e79b4578934794d834ada24c02d39b4099b346f"
+    },
+    {
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//2018/03/Tudor-Black-Bay-SG..004.jpg",
+      "alt": "",
+      "articleKey": 7,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-sg-champagne-dial/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "d473add8301514d0ae0c86958955cf4c0c36a5c3e68f41343050df416380de2f"
+    },
+    {
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//2018/03/Tudor-Black-Bay-SG..005.jpg",
+      "alt": "",
+      "articleKey": 7,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-sg-champagne-dial/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "ba6fd73215477ec60090f7a6f59665453d16249a01ad75a301a27e6d66627fe2"
+    },
+    {
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//2018/03/Tudor-Black-Bay-SG..006.jpg",
+      "alt": "",
+      "articleKey": 7,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-sg-champagne-dial/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "a2c3dfb38480b4b3ef3587f8fb20801406ffedbeb265f4fcf47a47b9425d91e6"
+    },
+    {
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//2018/03/Tudor-Black-Bay-SG..003.jpg",
+      "alt": "",
+      "articleKey": 7,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-sg-champagne-dial/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "42e50553c484cf49e9b50766b9b6b879a6b68f13ef8291a1a2667b5938a07ca6"
+    },
+    {
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//2018/03/Tudor-Black-Bay-SG..007.jpg",
+      "alt": "",
+      "articleKey": 7,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-sg-champagne-dial/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "70a0707e4f657071550d463d77e84783215ed616539660fe8d5ac3f476760cf6"
+    },
+    {
+      "index": 9,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2018/03/Tudor-Black-Bay-SG..008.jpg",
+      "alt": "bi-color Tudor Black Bay",
+      "articleKey": 7,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-sg-champagne-dial/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "a88b92f5ea6067263442dcfbbd0fa066d75b6e12c3b9e12889d9ffc8d8b66d16"
+    },
+    {
+      "index": 10,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2018/03/Tudor-Black-Bay-SG..007.jpg",
+      "alt": "Tudor Black Bay SG..007",
+      "articleKey": 7,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-sg-champagne-dial/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "0f81b6728133ca458525b28be881300f90800c69f5147963688ec354b4643aa6"
+    },
+    {
+      "index": 11,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2018/03/Tudor-Black-Bay-SG..006.jpg",
+      "alt": "Tudor Black Bay SG..006",
+      "articleKey": 7,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-sg-champagne-dial/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "a385618512a0842c925edf73c092da8926c886431c9570500cead07c590318ff"
+    },
+    {
+      "index": 12,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2018/03/Tudor-Black-Bay-SG..005.jpg",
+      "alt": "Tudor Black Bay SG..005",
+      "articleKey": 7,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-sg-champagne-dial/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "ba6fd73215477ec60090f7a6f59665453d16249a01ad75a301a27e6d66627fe2"
+    },
+    {
+      "index": 13,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2018/03/Tudor-Black-Bay-SG..004.jpg",
+      "alt": "Tudor Black Bay SG..004",
+      "articleKey": 7,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-sg-champagne-dial/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "d473add8301514d0ae0c86958955cf4c0c36a5c3e68f41343050df416380de2f"
+    },
+    {
+      "index": 14,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2018/03/Tudor-Black-Bay-SG..003.jpg",
+      "alt": "Tudor Black Bay SG..003",
+      "articleKey": 7,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-sg-champagne-dial/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "42e50553c484cf49e9b50766b9b6b879a6b68f13ef8291a1a2667b5938a07ca6"
+    },
+    {
+      "index": 15,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2018/03/Tudor-Black-Bay-SG..002.jpg",
+      "alt": "Tudor Black Bay SG..002",
+      "articleKey": 7,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-sg-champagne-dial/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "8e7f24479823ed5e4914be585e79b4578934794d834ada24c02d39b4099b346f"
+    },
+    {
+      "index": 16,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2018/03/Tudor-Black-Bay-SG..001.jpg",
+      "alt": "Tudor Black Bay SG..001",
+      "articleKey": 7,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-sg-champagne-dial/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "93a229000868f53abce1d935308155eb63f83acd26ab30681b163d231a272217"
+    },
+    {
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//150317_DSC_5079.jpg",
+      "alt": "Tudor North Flag",
+      "articleKey": 8,
+      "source": "https://www.fratellowatches.com/tudor-north-flag-introduced-during-bloggers-evening/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "3bf42290e111c6de31ea7589e811d7bfadf4543c751a3c3b125c77e28cfd3c0e"
+    },
+    {
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//150317_DSC_5075.jpg",
+      "alt": "Tudor North Flag",
+      "articleKey": 8,
+      "source": "https://www.fratellowatches.com/tudor-north-flag-introduced-during-bloggers-evening/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "1a6cf187f52cf2f74290d63a70f3944b96dce71b1c4cfb85a5249f8593138e75"
+    },
+    {
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//150317_DSC_5081.jpg",
+      "alt": "Tudor North Flag",
+      "articleKey": 8,
+      "source": "https://www.fratellowatches.com/tudor-north-flag-introduced-during-bloggers-evening/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "01e23fd7fa8742e525b5830f331a19fdbbae1e8f58a7721e5ccf0de938bc3a65"
+    },
+    {
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//150317_DSC_5085.jpg",
+      "alt": "Tudor North Flag",
+      "articleKey": 8,
+      "source": "https://www.fratellowatches.com/tudor-north-flag-introduced-during-bloggers-evening/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "a9f40cc337a44f30c6da4bcd7cc0d395ec08d2fbb1e2cf75a59330571a7041e0"
+    },
+    {
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//150317_DSC_5073.jpg",
+      "alt": "Tudor North Flag",
+      "articleKey": 8,
+      "source": "https://www.fratellowatches.com/tudor-north-flag-introduced-during-bloggers-evening/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "eb542715071e5b46e5f168297f4dd4d8ce58b8636ea4c14aa1ef464298a2efe8"
+    },
+    {
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//150317_DSC_5083.jpg",
+      "alt": "Tudor North Flag",
+      "articleKey": 8,
+      "source": "https://www.fratellowatches.com/tudor-north-flag-introduced-during-bloggers-evening/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "9e10280b169e75cfc553d067b7096c356249cfbef92e5a048c298d64fc734d30"
+    },
+    {
+      "index": 9,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//150318_DSC_5137.jpg",
+      "alt": "150318_DSC_5137",
+      "articleKey": 8,
+      "source": "https://www.fratellowatches.com/tudor-north-flag-introduced-during-bloggers-evening/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "4a8b25efbddf177d5e2cb0f583204897584692df6cd9e1061d86b1cf90e44949"
+    },
+    {
+      "index": 10,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//150317_DSC_5126.jpg",
+      "alt": "150317_DSC_5126",
+      "articleKey": 8,
+      "source": "https://www.fratellowatches.com/tudor-north-flag-introduced-during-bloggers-evening/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "800bb292285058719224e25ee46346e924609a530a5d95cec59365ba800c96ca"
+    },
+    {
+      "index": 11,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//150317_DSC_5115.jpg",
+      "alt": "150317_DSC_5115",
+      "articleKey": 8,
+      "source": "https://www.fratellowatches.com/tudor-north-flag-introduced-during-bloggers-evening/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "6012d0471202e32ac52d58c7b90ec608b71d1e19bfd506da1c98d3e7a49057df"
+    },
+    {
+      "index": 12,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//150317_DSC_5109.jpg",
+      "alt": "150317_DSC_5109",
+      "articleKey": 8,
+      "source": "https://www.fratellowatches.com/tudor-north-flag-introduced-during-bloggers-evening/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "86c3c0e01fd2516b17c61f0bba79dfd9056ae78226581a51f19f870a2425d9a1"
+    },
+    {
+      "index": 13,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//150317_DSC_5107.jpg",
+      "alt": "150317_DSC_5107",
+      "articleKey": 8,
+      "source": "https://www.fratellowatches.com/tudor-north-flag-introduced-during-bloggers-evening/",
+      "status": "decoded",
+      "dimensions": [
+        834,
+        1250
+      ],
+      "sha256": "164d8e940e0aa86ea3bfbc7847f29f12bf106bc3df07f65ac258f6849c707a9d"
+    },
+    {
+      "index": 14,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//150317_DSC_5105.jpg",
+      "alt": "150317_DSC_5105",
+      "articleKey": 8,
+      "source": "https://www.fratellowatches.com/tudor-north-flag-introduced-during-bloggers-evening/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "26e472f394e287baea0e221ff9a2ff36d187e95a5f837afa04ada93ec88f06e5"
+    },
+    {
+      "index": 15,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//150317_DSC_5101.jpg",
+      "alt": "150317_DSC_5101",
+      "articleKey": 8,
+      "source": "https://www.fratellowatches.com/tudor-north-flag-introduced-during-bloggers-evening/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "81ddee59baadcd9e97a0272b110394a41d775d760ec031bc10a2ba879a20b2ac"
+    },
+    {
+      "index": 16,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//150317_DSC_5064.jpg",
+      "alt": "150317_DSC_5064",
+      "articleKey": 8,
+      "source": "https://www.fratellowatches.com/tudor-north-flag-introduced-during-bloggers-evening/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "48268ef688488f279267e663f047363cb5bae07976fb5517b2a6aac0fd4d3a1a"
+    },
+    {
+      "index": 17,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//150317_DSC_5057.jpg",
+      "alt": "150317_DSC_5057",
+      "articleKey": 8,
+      "source": "https://www.fratellowatches.com/tudor-north-flag-introduced-during-bloggers-evening/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "38ea9bfef47088862d370442b206ca34d159e723104780def631257ad1452df9"
+    },
+    {
+      "index": 18,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//150317_DSC_5051.jpg",
+      "alt": "150317_DSC_5051",
+      "articleKey": 8,
+      "source": "https://www.fratellowatches.com/tudor-north-flag-introduced-during-bloggers-evening/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "1ce6706c8bf41a4f8b8922479588a42177c4a669f3e67b98b5aa923d752cf1be"
+    },
+    {
+      "index": 19,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//150317_DSC_5050.jpg",
+      "alt": "150317_DSC_5050",
+      "articleKey": 8,
+      "source": "https://www.fratellowatches.com/tudor-north-flag-introduced-during-bloggers-evening/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "1d1d008ac95fc13ca49c4ceb5ef0c9938b60fec1c4328a684bf1290b1005575d"
+    },
+    {
+      "index": 20,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//150317_DSC_5033.jpg",
+      "alt": "150317_DSC_5033",
+      "articleKey": 8,
+      "source": "https://www.fratellowatches.com/tudor-north-flag-introduced-during-bloggers-evening/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "08f513940c27a0e1c372a75d3819093b32b94e5411a3fa39b804c769830dc68f"
+    },
+    {
+      "index": 21,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//150317_DSC_5035.jpg",
+      "alt": "150317_DSC_5035",
+      "articleKey": 8,
+      "source": "https://www.fratellowatches.com/tudor-north-flag-introduced-during-bloggers-evening/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "3f8261fd45726cd7fd21da586cb866a692fa25a4fbaa283c44c901da620433c2"
+    },
+    {
+      "index": 22,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//150317_DSC_5039.jpg",
+      "alt": "150317_DSC_5039",
+      "articleKey": 8,
+      "source": "https://www.fratellowatches.com/tudor-north-flag-introduced-during-bloggers-evening/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "62204c31c40232a85c3de66270ae49925b6922182fc6f0ac6fdae6815dafec8a"
+    },
+    {
+      "index": 23,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//150317_DSC_5044.jpg",
+      "alt": "150317_DSC_5044",
+      "articleKey": 8,
+      "source": "https://www.fratellowatches.com/tudor-north-flag-introduced-during-bloggers-evening/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "26ecaf623b68b65962a88b2e0bb491be630b4dd0d314669fa0870c6f119a42fa"
+    },
+    {
+      "index": 24,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//150317_DSC_5128.jpg",
+      "alt": "150317_DSC_5128",
+      "articleKey": 8,
+      "source": "https://www.fratellowatches.com/tudor-north-flag-introduced-during-bloggers-evening/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "d3e99251e36d148761e43ddb2f9c77576cfc0f6a10763d1cd8ee4c4be5eccfa3"
+    },
+    {
+      "index": 25,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//150317_DSC_5132.jpg",
+      "alt": "150317_DSC_5132",
+      "articleKey": 8,
+      "source": "https://www.fratellowatches.com/tudor-north-flag-introduced-during-bloggers-evening/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "b1e5c9706b8c3e0896eb6743c22a058b95cac43bcddee637d3a43f333888dc7d"
+    },
+    {
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/07/Purple-Lex-and-Tudor-3.jpg",
+      "alt": "34mm Tudor Royal",
+      "articleKey": 9,
+      "source": "https://www.fratellowatches.com/34mm-tudor-royal/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "45c39c08ebb02427264c787659a2eaa8754254bb158abf58eee01bf3989dabfe"
+    },
+    {
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/07/Purple-Lex-and-Tudor-1.jpg",
+      "alt": "Tudor",
+      "articleKey": 9,
+      "source": "https://www.fratellowatches.com/34mm-tudor-royal/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "884962a64c31c7a34886aee6e330bb02354845c2fe1a6f11a2d5bc158297459b"
+    },
+    {
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/07/Purple-Lex-and-Tudor-9.jpg",
+      "alt": "34mm Tudor Royal",
+      "articleKey": 9,
+      "source": "https://www.fratellowatches.com/34mm-tudor-royal/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "7f784b1d20a8eab997d8a54757bba5b2eaf442954532f3a9de5130875e29fe8a"
+    },
+    {
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/07/Purple-Lex-and-Tudor-11.jpg",
+      "alt": "34mm Tudor Royal",
+      "articleKey": 9,
+      "source": "https://www.fratellowatches.com/34mm-tudor-royal/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "00079e88ad647a7500107d14191d57e08c5a3b83b9eb0eae9ef57db35470080f"
+    },
+    {
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/07/Purple-Lex-and-Tudor-12.jpg",
+      "alt": "",
+      "articleKey": 9,
+      "source": "https://www.fratellowatches.com/34mm-tudor-royal/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "717bcb836fd711e9a5f355b59134ad8d830178a69fc72bc44133cbb05ffda2ce"
+    },
+    {
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/07/Purple-Lex-and-Tudor-10.jpg",
+      "alt": "",
+      "articleKey": 9,
+      "source": "https://www.fratellowatches.com/34mm-tudor-royal/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "62d5ddbce75b5ba56cc39cb682d880d8bc7e1b3c81d6f2207a689ce056a15740"
+    },
+    {
+      "index": 9,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/07/Purple-Lex-and-Tudor-8.jpg",
+      "alt": "34mm Tudor Royal",
+      "articleKey": 9,
+      "source": "https://www.fratellowatches.com/34mm-tudor-royal/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "4cf8325f5aed5e2adc493333a312936becf2d120c7ca64c774de8e019fe54b4c"
+    },
+    {
+      "index": 10,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/07/Purple-Lex-and-Tudor-7.jpg",
+      "alt": "Tudor",
+      "articleKey": 9,
+      "source": "https://www.fratellowatches.com/34mm-tudor-royal/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "1e7046bf6f7fa915948120b39ca92683e5383fa3f799b19ec405d0eac2f37d8b"
+    },
+    {
+      "index": 11,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/07/Purple-Lex-and-Tudor-5.jpg",
+      "alt": "",
+      "articleKey": 9,
+      "source": "https://www.fratellowatches.com/34mm-tudor-royal/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "d0544a42b7ae8a0a2d977d5d318aa7d948521d4c8579a33fde8c0e3d4d6e3559"
+    },
+    {
+      "index": 12,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/07/Purple-Lex-and-Tudor-4.jpg",
+      "alt": "34mm Tudor Royal",
+      "articleKey": 9,
+      "source": "https://www.fratellowatches.com/34mm-tudor-royal/",
+      "status": "decoded",
+      "dimensions": [
+        1201,
+        1800
+      ],
+      "sha256": "fd176f61efa35457431a97b6151e3c5fd659fca744384a41dc858f04fc5e0816"
+    },
+    {
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/11/Oysterquartz-and-coffee-4.jpg",
+      "alt": "",
+      "articleKey": 10,
+      "source": "https://www.fratellowatches.com/hands-on-with-the-chocolate-dial-tudor-royal-in-steel-gold/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "7978fda860cf0cc5bc2cd37848c909135bdb7835804855646daef26b2fb5e93e"
+    },
+    {
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/10/Tudor-Royal-41mm-Two-tone-4.jpg",
+      "alt": "Tudor Royal 41mm M28603-0007 brown",
+      "articleKey": 10,
+      "source": "https://www.fratellowatches.com/hands-on-with-the-chocolate-dial-tudor-royal-in-steel-gold/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "d842e38bf54676668acc784f935fc557bd4933c19c19f17903e4f5cd8ed1611e"
+    },
+    {
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/10/Tudor-Royal-41mm-Two-tone-5.jpg",
+      "alt": "Tudor Royal 41mm M28603-0007 brown",
+      "articleKey": 10,
+      "source": "https://www.fratellowatches.com/hands-on-with-the-chocolate-dial-tudor-royal-in-steel-gold/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "4af3c36ec8e3a4df5d86a238eb9a7292be2bb7bad68182b9e3b7df0aa15c7a71"
+    },
+    {
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/10/Tudor-Royal-41mm-Two-tone-8.jpg",
+      "alt": "Tudor Royal 41mm M28603-0007 brown",
+      "articleKey": 10,
+      "source": "https://www.fratellowatches.com/hands-on-with-the-chocolate-dial-tudor-royal-in-steel-gold/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "1494eacd602829c3e65eab3e63f46bb2ae8c7202a8a9cce7ae0178c4e14ed5f3"
+    },
+    {
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/10/Tudor-Royal-41mm-Two-tone-15.jpg",
+      "alt": "",
+      "articleKey": 10,
+      "source": "https://www.fratellowatches.com/hands-on-with-the-chocolate-dial-tudor-royal-in-steel-gold/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "c6fed77350115a3b00a984dc5fb15c1730ffb9bd119b8459ec19142391f465a7"
+    },
+    {
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/10/Tudor-Royal-41mm-Two-tone-6.jpg",
+      "alt": "",
+      "articleKey": 10,
+      "source": "https://www.fratellowatches.com/hands-on-with-the-chocolate-dial-tudor-royal-in-steel-gold/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "00025f588d295834772c7ca7f6f69454e7b795e0b8a2b89c5bab43528bcd3c57"
+    },
+    {
+      "index": 9,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/10/Tudor-Royal-41mm-Two-tone-11.jpg",
+      "alt": "",
+      "articleKey": 10,
+      "source": "https://www.fratellowatches.com/hands-on-with-the-chocolate-dial-tudor-royal-in-steel-gold/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "3cc3451fc929cccdca7311b696afb7cb6624e0694164529a89dea163eff55db7"
+    },
+    {
+      "index": 10,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/10/Tudor-Royal-41mm-Two-tone-2.jpg",
+      "alt": "Tudor Royal 41mm M28603-0007 brown lifestyle",
+      "articleKey": 10,
+      "source": "https://www.fratellowatches.com/hands-on-with-the-chocolate-dial-tudor-royal-in-steel-gold/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "2a9c2dc75f0b73db1ee4593dcfec3fbc3b72a9e56f9d4526ca802f0f9584c498"
+    },
+    {
+      "index": 11,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/10/Tudor-Royal-41mm-Two-tone-3.jpg",
+      "alt": "",
+      "articleKey": 10,
+      "source": "https://www.fratellowatches.com/hands-on-with-the-chocolate-dial-tudor-royal-in-steel-gold/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "fdebe19cc2479a67cf938341c5739f615f4594bd45046e8ac9a02b80c9080ba8"
+    },
+    {
+      "index": 12,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/10/Tudor-Royal-41mm-Two-tone-1.jpg",
+      "alt": "Tudor Royal 41mm M28603-0007 brown lifestyle",
+      "articleKey": 10,
+      "source": "https://www.fratellowatches.com/hands-on-with-the-chocolate-dial-tudor-royal-in-steel-gold/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "20d65b62fc99f76a2fa3477b702b111560ef2f95e97c3fc517be451396086cdb"
+    },
+    {
+      "index": 13,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/10/Tudor-Royal-41mm-Two-tone-14.jpg",
+      "alt": "",
+      "articleKey": 10,
+      "source": "https://www.fratellowatches.com/hands-on-with-the-chocolate-dial-tudor-royal-in-steel-gold/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "0a54ee5de497e4b8b29d333a50a3939514ad9d66286ed95b09ea006e10c2b7ac"
+    },
+    {
+      "index": 14,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/10/Tudor-Royal-41mm-Two-tone-7.jpg",
+      "alt": "Tudor Royal 41mm M28603-0007 brown close-up",
+      "articleKey": 10,
+      "source": "https://www.fratellowatches.com/hands-on-with-the-chocolate-dial-tudor-royal-in-steel-gold/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "917315215aad87a47692dd3e3878256fca650328aedefedded0432acc3c4d78b"
+    },
+    {
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/02/Tudor-Black-Bay-58-Blue-Henry-Zwartz-5.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight Blue",
+      "articleKey": 11,
+      "source": "https://www.fratellowatches.com/two-years-on-living-with-tudors-black-bay-fifty-eight/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "efb4abd433ad140b94a1dff44e404893bc44ca17223d5928de97f7a3aad247c0"
+    },
+    {
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/02/Tudor-Black-Bay-58-Blue-Henry-Zwartz-13.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight Blue",
+      "articleKey": 11,
+      "source": "https://www.fratellowatches.com/two-years-on-living-with-tudors-black-bay-fifty-eight/",
+      "status": "decoded",
+      "dimensions": [
+        1200,
+        1800
+      ],
+      "sha256": "e3344446a8401e17845f60e64b5d1fa61fc8939c4397bf84dcbf5f137ef464ec"
+    },
+    {
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/02/Tudor-Black-Bay-58-Blue-Henry-Zwartz-2.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight Blue",
+      "articleKey": 11,
+      "source": "https://www.fratellowatches.com/two-years-on-living-with-tudors-black-bay-fifty-eight/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "ff022164dec8b2761f36eee19e28eeffed42f1299d1235dd4867ac755deb5a54"
+    },
+    {
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/02/Tudor-Black-Bay-58-Blue-Henry-Zwartz-4.jpg",
+      "alt": "",
+      "articleKey": 11,
+      "source": "https://www.fratellowatches.com/two-years-on-living-with-tudors-black-bay-fifty-eight/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "6f368b9b2e875c40146e817280561065b2872a5e5aa2d647036e59aa017d496a"
+    },
+    {
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/02/Tudor-Black-Bay-58-Blue-Henry-Zwartz-5.jpg",
+      "alt": "",
+      "articleKey": 11,
+      "source": "https://www.fratellowatches.com/two-years-on-living-with-tudors-black-bay-fifty-eight/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "efb4abd433ad140b94a1dff44e404893bc44ca17223d5928de97f7a3aad247c0"
+    },
+    {
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/02/Tudor-Black-Bay-58-Blue-Henry-Zwartz-7.jpg",
+      "alt": "",
+      "articleKey": 11,
+      "source": "https://www.fratellowatches.com/two-years-on-living-with-tudors-black-bay-fifty-eight/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "2da0c0803ef6c122e9c2d330111f432551d635a60539701003a58994a9a5ad20"
+    },
+    {
+      "index": 9,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/05/Tudor-Black-Bay-Fifty-Eight-m79030b-0001-Daan.006.jpg",
+      "alt": "",
+      "articleKey": 11,
+      "source": "https://www.fratellowatches.com/two-years-on-living-with-tudors-black-bay-fifty-eight/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "c0a613329776b714c9e6df2b73b8389013659092cbfe0297edc8741c491ea305"
+    },
+    {
+      "index": 10,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2020/07/Tudor-Black-Bay-Fifty-Eight-Blue.021.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight Blue.021",
+      "articleKey": 11,
+      "source": "https://www.fratellowatches.com/two-years-on-living-with-tudors-black-bay-fifty-eight/",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        1334
+      ],
+      "sha256": "d8112d0cd39dba0e6699c238ed7e4ef138481f499924ab0b59ff72759bde8472"
+    },
+    {
+      "index": 11,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/02/Tudor-Black-Bay-58-Blue-Henry-Zwartz-12.jpg",
+      "alt": "",
+      "articleKey": 11,
+      "source": "https://www.fratellowatches.com/two-years-on-living-with-tudors-black-bay-fifty-eight/",
+      "status": "decoded",
+      "dimensions": [
+        1350,
+        1800
+      ],
+      "sha256": "91b64daa99f990b9aab8b31eb95039f822e99fb4266c014d63b4c5e6001fe864"
+    },
+    {
+      "index": 12,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2020/07/Tudor-Black-Bay-Fifty-Eight-Blue.015.jpg",
+      "alt": "",
+      "articleKey": 11,
+      "source": "https://www.fratellowatches.com/two-years-on-living-with-tudors-black-bay-fifty-eight/",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        1334
+      ],
+      "sha256": "a9b42d2be572fad38272ebdcd8dd6c3805a1d8d99325ef6943d917e5a471fb66"
+    }
+  ]
+}

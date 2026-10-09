@@ -118,3 +118,23 @@ test('documented Tudor configurations match full keys without inheriting other F
  assert.ok(forRef('25717N').some(p=>p.id==='fratello-tudor-usn-front-13'));
  for(const reference of ['2542G257','2542G267NU'])assert.equal(forRef(reference).length,0);
 });
+
+test('Tudor GMT suffixes and silver movement execution retain documented boundaries',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const forRef=reference=>matchingPhotographs(photos,'Tudor',reference);
+ const gmt=forRef('m7939g1a0nru 0001');
+ assert.ok(gmt.some(p=>p.category==='front'));
+ assert.ok(gmt.some(p=>p.category==='caseback'));
+ assert.ok(forRef('M7939G1A0NRU-0002').every(p=>!gmt.some(q=>q.id===p.id)));
+ assert.ok(forRef('7939G1A0').every(p=>!gmt.some(q=>q.id===p.id)));
+ const silver=forRef('79010SG');
+ assert.ok(silver.some(p=>p.category==='front'&&/aftermarket/.test(p.caption)));
+ const movement=silver.filter(p=>p.category==='movement');
+ assert.ok(movement.length);
+ for(const reference of ['79010S','M79010SG-0001','79012M','79210CNU'])assert.ok(forRef(reference).every(p=>!movement.some(q=>q.id===p.id)),reference);
+ assert.ok(forRef('M79360N-0013').every(p=>!p.id.startsWith('fratello-tudor-third-')));
+ const north=forRef('91210N').filter(p=>p.category==='movement');
+ assert.ok(north.length);
+ assert.ok(north.every(p=>p.caption.includes('MT5621')));
+ for(const reference of ['91210','M91210N-0002','79470'])assert.ok(forRef(reference).every(p=>!north.some(q=>q.id===p.id)),reference);
+});

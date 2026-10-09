@@ -36,11 +36,11 @@ watch models: punctuation/case duplicates collapse; M-prefixed aliases, base
 references and catalogue suffixes remain separate keys. Broad patterns require
 enumeration and source review; they are never counted as exact references.
 
-Current exact progress is in the generated coverage files: **160 identifier keys
-reviewed, 2,078 unreviewed; 118 source records reviewed, 2,329 unreviewed**. There are
-**469 catalogue assets: 438 verified, 22 pending and 9 rejected**, including 31
-legacy assets. Verified reference-key coverage: **front 143, movement 63, caseback
-126, bracelet/clasp 124**. Reviewed gaps describe the inspected source set, not a
+Current exact progress is in the generated coverage files: **169 identifier keys
+reviewed, 2,069 unreviewed; 125 source records reviewed, 2,322 unreviewed**. There are
+**486 catalogue assets: 455 verified, 22 pending and 9 rejected**, including 31
+legacy assets. Verified reference-key coverage: **front 152, movement 65, caseback
+133, bracelet/clasp 131**. Reviewed gaps describe the inspected source set, not a
 claim that no suitable image exists elsewhere. Existing textual research and
 pre-existing "verified" mapping badges do not verify photographs. Unreviewed
 categories are not counted as reviewed gaps.
@@ -175,8 +175,8 @@ authenticate to Supabase or verify real photograph loading or live RLS.
 public image servers without mocked images or authenticated database mutations.
 It checks every accepted photograph's load, enlargement, credit, representative
 label and mobile overflow. Chromium must trust the configured environment proxy
-CA; certificate verification must remain enabled. All 438 accepted photographs across 168 explicit covered keys
-passed this check on 2026-10-09. Rerun after catalogue additions. The Node suite passes all 26
+CA; certificate verification must remain enabled. All 455 accepted photographs across 181 explicit covered keys
+passed this check on 2026-10-09. Rerun after catalogue additions. The Node suite passes all 27
 tests, and the fixture browser suite covers the preserved workflows and mocked
 authenticated refreshes.
 
@@ -187,3 +187,14 @@ production repository. Publication is pending complete inventory research and
 these checks. Live authenticated refresh/RLS testing requires a permitted BenchAuth
 test account or an authenticated test browser; neither is configured. Public read
 access alone does not prove live signed-in behavior.
+
+The third Tudor hands-on pass inspected all 178 main image occurrences in 12
+articles and accepted 17 photographs for nine additional stored identifier keys.
+Black Bay 58 GMT bracelet photographs match its full -0001 configuration;
+Monochrome and burgundy bracelet variants retain base-reference labels. The
+silver 925 owner photograph explicitly labels its aftermarket strap, and its
+actual MT5400 display-back photograph remains separate from bronze and ceramic
+executions. Blue Chrono, Carbon 25 and Royal photographs do not establish
+coverage for neighbouring stored models. An independent Monochrome review corroborates North Flag M91210N-0001
+and MT5621; four actual Fratello specimen photographs are accepted, including
+the visible movement execution. Incomplete 79733 identity remains open. See `photograph-fratello-tudor-third-sources.json`.
