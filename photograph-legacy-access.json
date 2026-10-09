@@ -1,0 +1,622 @@
+{
+  "version": 1,
+  "checkedAt": "2026-10-08T15:36:49.743742+00:00",
+  "scope": "Access checks for all 31 original assets; only decodable downloaded pixels were visually inspected. Access success does not imply verification.",
+  "assets": [
+    {
+      "id": "legacy-001",
+      "checks": [
+        {
+          "kind": "source",
+          "url": "https://www.cashconverters.co.uk/shop/jewellery--fashion/fashion-accessories/watches/watch/052700082882",
+          "error": "HTTP Error 403: Forbidden"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.cashconverters.co.uk/globalassets/catalogs/7add603c-5f8b-40e5-9b27-b0d500fd6be6.jpg",
+          "error": "HTTP Error 403: Forbidden"
+        }
+      ]
+    },
+    {
+      "id": "legacy-002",
+      "checks": [
+        {
+          "kind": "source",
+          "url": "https://www.rolex.com/en-gb/watches/cosmograph-daytona/m126505-0001",
+          "status": 200,
+          "type": "text/html",
+          "bytes": 1890943,
+          "sha256": "d2b31ee8d01c57b387ae2bce785a26d583ca1378f743f5a5be428a4811ab28bb"
+        },
+        {
+          "kind": "image",
+          "url": "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit%2Cw_1920/v1/a677b2c664f6/catalogue/2026/upright-c/m126505-0001",
+          "status": 200,
+          "type": "image/png",
+          "bytes": 352004,
+          "sha256": "cf441af8b13098287dccf44630ad10c823133216a0ee41a1ecf5146e8419d6c0"
+        }
+      ]
+    },
+    {
+      "id": "legacy-003",
+      "checks": [
+        {
+          "kind": "source",
+          "url": "https://newsroom.rolex.com/watches/new-watches-2024/cosmograph-daytona",
+          "status": 200,
+          "type": "text/html; charset=utf-8",
+          "bytes": 221252,
+          "sha256": "67584c2842ab77f50b47985e42e3cda8d3770d14099be31d5e8140b1d764af07"
+        },
+        {
+          "kind": "image",
+          "url": "https://newsroom-content.rolex.com/-/media/project/rolex/newsroom/rolex/rolex-newsroom-int/2024-04/cosmograph-daytona/gallery/newsroom-joyeuse-movt4131_2301dh_001.jpg?imwidth=1600",
+          "status": 200,
+          "type": "image/jpeg",
+          "bytes": 150369,
+          "sha256": "5af57f7b486901b2a51a49d98ad347855915e69960ea5a77ac26a64848da5dfa"
+        }
+      ]
+    },
+    {
+      "id": "legacy-004",
+      "checks": [
+        {
+          "kind": "source",
+          "url": "https://www.rolex.com/en-gb/watches/cosmograph-daytona/m126505-0001",
+          "status": 200,
+          "type": "text/html",
+          "bytes": 1890943,
+          "sha256": "d2b31ee8d01c57b387ae2bce785a26d583ca1378f743f5a5be428a4811ab28bb"
+        },
+        {
+          "kind": "image",
+          "url": "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7/c_limit%2Cw_1920/v1/a677b2c664f6/catalogue/2026/raw-dial-constant-size-with-shadow/m126505-0001",
+          "status": 200,
+          "type": "image/png",
+          "bytes": 432063,
+          "sha256": "370fc210ed703f5c5f4a5f98a69985e748e54276d5e2ba040b85920ac0c0cbd5"
+        }
+      ]
+    },
+    {
+      "id": "legacy-005",
+      "checks": [
+        {
+          "kind": "source",
+          "url": "https://www.tudorwatch.com/en/watches/pelagos/m25600tn-0001",
+          "status": 200,
+          "type": "text/html; charset=utf-8",
+          "bytes": 1390110,
+          "sha256": "f73f56e4f33e3d571ba210f45cbcdb6b76692a12ac7c157e1eb91a43da142ed1"
+        },
+        {
+          "kind": "image",
+          "url": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-watch/c_limit%2Cw_3840/v1/catalogue/0yi5ee8b69yh3/upright-cb-with-drop-shadow/tudor-m25600tn-0001",
+          "status": 200,
+          "type": "image/png",
+          "bytes": 305163,
+          "sha256": "029f374c5973e0162a9bcd61101967d6d6723967b413b42c551bec596dae594f"
+        }
+      ]
+    },
+    {
+      "id": "legacy-006",
+      "checks": [
+        {
+          "kind": "source",
+          "url": "https://www.tudorwatch.com/en/watches/pelagos/m25600tb-0001",
+          "status": 200,
+          "type": "text/html; charset=utf-8",
+          "bytes": 1390016,
+          "sha256": "4fbb57a12d92af74aee54a2d13378df053cab6cd80edaa36f47934bc3836f9a8"
+        },
+        {
+          "kind": "image",
+          "url": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-watch/c_limit%2Cw_3840/v1/catalogue/0yi5ee8b69yh3/upright-cb-with-drop-shadow/tudor-m25600tb-0001",
+          "status": 200,
+          "type": "image/png",
+          "bytes": 262030,
+          "sha256": "d9e373492ae4701d12e98aeee9b060d6ff4e27a17fb1aa94f0261b6ff4638235"
+        }
+      ]
+    },
+    {
+      "id": "legacy-007",
+      "checks": [
+        {
+          "kind": "source",
+          "url": "https://www.tudorwatch.com/en/watches/black-bay-pro/m79470-0001",
+          "status": 200,
+          "type": "text/html; charset=utf-8",
+          "bytes": 1376381,
+          "sha256": "5a741574e450f163b2a210d76563a4b71b03ed1721f43748e30cd46d40601e1f"
+        },
+        {
+          "kind": "image",
+          "url": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-watch/c_limit%2Cw_3840/v1/catalogue/0yi5ee8b69yh3/upright-cb-with-drop-shadow/tudor-m79470-0001",
+          "status": 200,
+          "type": "image/png",
+          "bytes": 248455,
+          "sha256": "8bcff2d3d867555d3dde2cc7151a8bc7f493f8a06a990a3929194f54522828d6"
+        }
+      ]
+    },
+    {
+      "id": "legacy-008",
+      "checks": [
+        {
+          "kind": "source",
+          "url": "https://www.tudorwatch.com/en/watches/black-bay-54/m79000n-0001",
+          "status": 200,
+          "type": "text/html; charset=utf-8",
+          "bytes": 1186733,
+          "sha256": "ae8c89a1535298812f1c7eea9b6336b6d7e6b0157c9776fc72593cdc4af65be7"
+        },
+        {
+          "kind": "image",
+          "url": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-watch/c_limit%2Cw_3840/v1/catalogue/0yi5ee8b69yh3/upright-cb-with-drop-shadow/tudor-m79000n-0001",
+          "status": 200,
+          "type": "image/png",
+          "bytes": 225015,
+          "sha256": "f8a384efa98618e3d47a91cda216ab5220b134418b283ab71c6225e1faac2558"
+        }
+      ]
+    },
+    {
+      "id": "legacy-009",
+      "checks": [
+        {
+          "kind": "source",
+          "url": "https://www.tudorwatch.com/en/watches/black-bay-58/m7939g1a0nru-0001",
+          "status": 200,
+          "type": "text/html; charset=utf-8",
+          "bytes": 1937318,
+          "sha256": "e6f1416d03d8f49c36e5c8b2f27b3a67d01a753c6c10aacf8e018dcada413af6"
+        },
+        {
+          "kind": "image",
+          "url": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-watch/c_limit%2Cw_3840/v1/catalogue/0yi5ee8b69yh3/upright-cb-with-drop-shadow/tudor-m7939g1a0nru-0001",
+          "status": 200,
+          "type": "image/png",
+          "bytes": 231522,
+          "sha256": "27418bae735da6677b23c8fa7fba4866c9e0f08a015ba314e3193b067a39c7b2"
+        }
+      ]
+    },
+    {
+      "id": "legacy-010",
+      "checks": [
+        {
+          "kind": "source",
+          "url": "https://www.tudorwatch.com/en/watches/black-bay-chrono/m79360n-0013",
+          "status": 200,
+          "type": "text/html; charset=utf-8",
+          "bytes": 1732230,
+          "sha256": "bc0733a3a10814121f0d76e0dbd0145b842304094389a068e1630a983ad322b3"
+        },
+        {
+          "kind": "image",
+          "url": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-watch/c_limit%2Cw_3840/v1/catalogue/0yi5ee8b69yh3/upright-cb-with-drop-shadow/tudor-m79360n-0013",
+          "status": 200,
+          "type": "image/png",
+          "bytes": 251185,
+          "sha256": "f031568d7b357d75e7d15b1d86750a0caeceda1b4c56373866e59c5e7bc2d375"
+        }
+      ]
+    },
+    {
+      "id": "legacy-011",
+      "checks": [
+        {
+          "kind": "source",
+          "url": "https://www.tudorwatch.com/en/watches/ranger/m79950-0001",
+          "status": 200,
+          "type": "text/html; charset=utf-8",
+          "bytes": 1358314,
+          "sha256": "d83074ab062f2f83623ab30307d84c5245d4d933ab117fad5229aaa023ea9de1"
+        },
+        {
+          "kind": "image",
+          "url": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-watch/c_limit%2Cw_3840/v1/catalogue/0yi5ee8b69yh3/upright-cb-with-drop-shadow/tudor-m79950-0001",
+          "status": 200,
+          "type": "image/png",
+          "bytes": 264348,
+          "sha256": "51213456646be66177ba399e34da56606a36066b02be4835bae962331b9e1ec3"
+        }
+      ]
+    },
+    {
+      "id": "legacy-012",
+      "checks": [
+        {
+          "kind": "source",
+          "url": "https://www.tudorwatch.com/en/watches/pelagos/m25407n-0001",
+          "status": 200,
+          "type": "text/html; charset=utf-8",
+          "bytes": 1406657,
+          "sha256": "87716933120a8c5a90c7779f803313b8696c9d6dbbe8bdddc6c78416ab846904"
+        },
+        {
+          "kind": "image",
+          "url": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-watch/c_limit%2Cw_3840/v1/catalogue/0yi5ee8b69yh3/upright-cb-with-drop-shadow/tudor-m25407n-0001",
+          "status": 200,
+          "type": "image/png",
+          "bytes": 254254,
+          "sha256": "6156a416dea6c3193de5f0e67e70e9b6eb0f1b44f054d9855ac38992b89e9f26"
+        }
+      ]
+    },
+    {
+      "id": "legacy-013",
+      "checks": [
+        {
+          "kind": "source",
+          "url": "https://www.rolex.com/watches/submariner/m126610ln-0001",
+          "status": 200,
+          "type": "text/html",
+          "bytes": 1882521,
+          "sha256": "186d3a27bacaf5143eb03ca350ac28ac2bb564ecfbc4996317b80ea1992ca907"
+        },
+        {
+          "kind": "image",
+          "url": "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit%2Cw_1920/v1/a677b2c664f6/catalogue/2026/upright-c/m126610ln-0001",
+          "status": 200,
+          "type": "image/png",
+          "bytes": 314965,
+          "sha256": "2acd92db763855db0a2184abe2cd2560cd9dc204b212f5e5afe3cb36c1485be2"
+        }
+      ]
+    },
+    {
+      "id": "legacy-014",
+      "checks": [
+        {
+          "kind": "source",
+          "url": "https://www.rolex.com/watches/gmt-master-ii/m126710blnr-0003",
+          "status": 200,
+          "type": "text/html",
+          "bytes": 1886577,
+          "sha256": "326519a3faa52a4b13f8a1f3e09d931f43ab42e82500ee397193ff01e8216851"
+        },
+        {
+          "kind": "image",
+          "url": "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit%2Cw_1920/v1/a677b2c664f6/catalogue/2026/upright-c/m126710blnr-0003",
+          "status": 200,
+          "type": "image/png",
+          "bytes": 325945,
+          "sha256": "d12fdc92aeb09b2ee38577fd5d8a5062e58a300accbce4e740725230db154ac9"
+        }
+      ]
+    },
+    {
+      "id": "legacy-015",
+      "checks": [
+        {
+          "kind": "source",
+          "url": "https://www.rolex.com/watches/explorer/m124270-0001",
+          "status": 200,
+          "type": "text/html",
+          "bytes": 1879062,
+          "sha256": "3f9785bddf6506b73e490c8a24d00d0cfeff1fe98f986bf2a9fd209cca4b0935"
+        },
+        {
+          "kind": "image",
+          "url": "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit%2Cw_1920/v1/a677b2c664f6/catalogue/2026/upright-c/m124270-0001",
+          "status": 200,
+          "type": "image/png",
+          "bytes": 242232,
+          "sha256": "ed2390e8507ce4e1185b01dc0766b935a227e443e534b7043799350d91b49250"
+        }
+      ]
+    },
+    {
+      "id": "legacy-016",
+      "checks": [
+        {
+          "kind": "source",
+          "url": "https://www.rolex.com/en-gb/watches/datejust/m126300-0007",
+          "status": 200,
+          "type": "text/html",
+          "bytes": 1877875,
+          "sha256": "0399acb18dcd7237746d0adb1d0fa230513237249a8848db027a927c2ee72f62"
+        },
+        {
+          "kind": "image",
+          "url": "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit%2Cw_1920/v1/a677b2c664f6/catalogue/2026/upright-c/m126300-0007",
+          "status": 200,
+          "type": "image/png",
+          "bytes": 306201,
+          "sha256": "b8f49417557df538bf29537bc7ee1d5b61418a308fec641d9ca1e9ae4dce22f3"
+        }
+      ]
+    },
+    {
+      "id": "legacy-017",
+      "checks": [
+        {
+          "kind": "source",
+          "url": "https://www.breitling.com/gb-en/watches/professional/endurance-pro-38mm/X83310D41B1S1/",
+          "error": "HTTP Error 403: Forbidden"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.breitling.com/api/image-proxy/www-breitling.eu.saleor.cloud/media/thumbnails/products/x83310d41b1s1-soldier_049e2d75_thumbnail_1024.webp?format=auto&imwidth=2040",
+          "error": "HTTP Error 403: Forbidden"
+        }
+      ]
+    },
+    {
+      "id": "legacy-018",
+      "checks": [
+        {
+          "kind": "source",
+          "url": "https://www.breitling.com/gb-en/watches/professional/aerospace-b70/EB70101A1O1E1/",
+          "error": "HTTP Error 403: Forbidden"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.breitling.com/api/image-proxy/www-breitling.eu.saleor.cloud/media/thumbnails/products/eb70101a1o1e1-soldier_c302df32_thumbnail_1024.webp?format=auto&imwidth=2040",
+          "error": "HTTP Error 403: Forbidden"
+        }
+      ]
+    },
+    {
+      "id": "legacy-019",
+      "checks": [
+        {
+          "kind": "source",
+          "url": "https://www.breitling.com/gb-en/watches/superocean-heritage/superocean-heritage-b20-automatic-46/AB2020121L1A1/",
+          "error": "HTTP Error 403: Forbidden"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.breitling.com/api/image-proxy/www-breitling.eu.saleor.cloud/media/thumbnails/products/ab2020121l1a1-soldier_550323e2_thumbnail_1024.webp?format=auto&imwidth=780",
+          "error": "HTTP Error 403: Forbidden"
+        }
+      ]
+    },
+    {
+      "id": "legacy-020",
+      "checks": [
+        {
+          "kind": "source",
+          "url": "https://www.iwc.com/gb-en/watches/pilot-watches/iw328106-pilots-watch-automatic-41-top-gun-mojave-desert",
+          "status": 200,
+          "type": "text/html; charset=utf-8",
+          "bytes": 821584,
+          "sha256": "22d2ab0b23e0609bee44337b1a45464fc438f585f5b31b5fd4897a9e47394288"
+        },
+        {
+          "kind": "image",
+          "url": "https://img.iwc.com/product-slideshow-thumbnail-1/5052f4586eda0a557644cb6d4d995cffe72d5025.jpg",
+          "status": 200,
+          "type": "image/png",
+          "bytes": 3663,
+          "sha256": "845260d33b2adb14166eae6ff00f51a113654db3ae68c91a37204487ba9f0eb0"
+        }
+      ]
+    },
+    {
+      "id": "legacy-021",
+      "checks": [
+        {
+          "kind": "source",
+          "url": "https://www.iwc.com/us-en/watches/pilot-watches/iw388113-pilots-watch-chronograph-41",
+          "status": 200,
+          "type": "text/html; charset=utf-8",
+          "bytes": 818552,
+          "sha256": "d9fee3c48907951f26668724512a321bfcef9dc586e6ba61ff090ad8a08563c7"
+        },
+        {
+          "kind": "image",
+          "url": "https://img.iwc.com/product-slideshow-thumbnail-1/cd1db0d2fc91cad7fce41c08b55ea837b9a4031d.jpg",
+          "status": 200,
+          "type": "image/png",
+          "bytes": 3321,
+          "sha256": "a22a8ab0837f1f27fc3c37ffbe05a26d51929d47c6c160d0c6ea949cb5c86609"
+        }
+      ]
+    },
+    {
+      "id": "legacy-022",
+      "checks": [
+        {
+          "kind": "source",
+          "url": "https://www.iwc.com/ww-en/watches/pilot-watches/iw329301-big-pilots-watch-43",
+          "status": 200,
+          "type": "text/html; charset=utf-8",
+          "bytes": 897161,
+          "sha256": "457728ece75862ef3b30e4b65f0de000a5537e630f0c9611a8fd1cdb92aa53ea"
+        },
+        {
+          "kind": "image",
+          "url": "https://img.iwc.com/product-slideshow-thumbnail-1/f3d8442f923c59ce823075304de4c5911ecad302.jpg",
+          "status": 200,
+          "type": "image/png",
+          "bytes": 3631,
+          "sha256": "1a3e34726ae3b251b0d80e6c3833286dd09fe053d6861cd6b55c006fc191104a"
+        }
+      ]
+    },
+    {
+      "id": "legacy-023",
+      "checks": [
+        {
+          "kind": "source",
+          "url": "https://www.iwc.com/ch-en/watches/pilot-watches/iw328206-pilots-watch-mark-xx",
+          "status": 200,
+          "type": "text/html; charset=utf-8",
+          "bytes": 814189,
+          "sha256": "3ec5a50e8bbf4d70b36edd4c6b3fed234d3224d09402051bd60356835df34c76"
+        },
+        {
+          "kind": "image",
+          "url": "https://img.iwc.com/product-slideshow-thumbnail-1/186d2139ab66c13ecccb8bf6564e3126af09ae04.jpg",
+          "status": 200,
+          "type": "image/png",
+          "bytes": 3791,
+          "sha256": "142092dacfd48728418d1cf113f2ce39535edf3ecef9cb1304c4852a582e1c30"
+        }
+      ]
+    },
+    {
+      "id": "legacy-024",
+      "checks": [
+        {
+          "kind": "source",
+          "url": "https://www.iwc.com/ae-en/watches/pilot-watches/iw388108-pilots-watch-chronograph-41-edition-mercedes-amg-petronas",
+          "status": 200,
+          "type": "text/html; charset=utf-8",
+          "bytes": 838694,
+          "sha256": "72585ed8df5196bf346c679ae1682ad42ef77e406b40788c0745c770baa5dcd2"
+        },
+        {
+          "kind": "image",
+          "url": "https://img.iwc.com/product-slideshow-thumbnail-1/a4a5b01633e9091f1e037323efb5f294a2e86213.jpg",
+          "status": 200,
+          "type": "image/png",
+          "bytes": 3480,
+          "sha256": "e2282f7439fb9fdccd5f44410ea62f83e7f19a70e267d351e8536cf845d5df07"
+        }
+      ]
+    },
+    {
+      "id": "legacy-025",
+      "checks": [
+        {
+          "kind": "source",
+          "url": "https://www.rolex.com/en-us/watches/submariner/m126610ln-0001",
+          "status": 200,
+          "type": "text/html",
+          "bytes": 1890674,
+          "sha256": "f6789b36fbe098297cb9e1fdd6d64928285224df075b1246000066a6206d30b0"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.ap-watches.com/ap-watches/fotos/1-2-rolex-submariner-date-126610ln-nuevo-modelo-id14934-1611744892.png",
+          "status": 202,
+          "type": "text/html; charset=utf-8",
+          "bytes": 1484,
+          "sha256": "add4b5cded93d24c001bc92daa6a1998f9c56946e01305b5b75e6ba8db98e4ce"
+        }
+      ]
+    },
+    {
+      "id": "legacy-026",
+      "checks": [
+        {
+          "kind": "source",
+          "url": "https://www.swisswatchexpo.com/watches/rolex-submariner-black-dial-ceramic-bezel-steel-mens-watch-126610-box-card-57461/",
+          "error": "HTTP Error 403: Forbidden"
+        },
+        {
+          "kind": "image",
+          "url": "https://cdn.swisswatchexpo.com/productphotos/12/27/rolex-submariner-black-dial-ceramic-bezel-steel-mens-watch-126610-box-card-57461_6ecca.jpg",
+          "error": "HTTP Error 403: Forbidden"
+        }
+      ]
+    },
+    {
+      "id": "legacy-027",
+      "checks": [
+        {
+          "kind": "source",
+          "url": "https://www.tudorwatch.com/en/watches/pelagos/m25600tn-0001",
+          "status": 200,
+          "type": "text/html; charset=utf-8",
+          "bytes": 1390111,
+          "sha256": "035c6b7b19e263cc02a903c0799cf0a0d8fceb9c1052d7d328b3d571b8b424ff"
+        },
+        {
+          "kind": "image",
+          "url": "https://cdn.ugursaat.com.tr/images/products/tudor-pelagos-3-11685361026.jpg",
+          "status": 200,
+          "type": "image/jpeg",
+          "bytes": 546611,
+          "sha256": "35749be323189c96fc9bd3bb4b13a12e29d30d20233434856f3188d2a2947288"
+        }
+      ]
+    },
+    {
+      "id": "legacy-028",
+      "checks": [
+        {
+          "kind": "source",
+          "url": "https://www.tudorwatch.com/en/watch-family/pelagos",
+          "status": 200,
+          "type": "text/html; charset=utf-8",
+          "bytes": 1736001,
+          "sha256": "46b8363c7eb907d13de963af09f375220fd6151e1afca0d82549fba89187a81c"
+        },
+        {
+          "kind": "image",
+          "url": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit%2Cw_3840/v1/tudorwatch/watch-family/pelagos/07-features-popin/03-tudor-manufacture-calibre",
+          "status": 200,
+          "type": "image/jpeg",
+          "bytes": 374481,
+          "sha256": "c86db33039b4803307d603318908e6798edee528626a28bcde59ba4fb85f9c0f"
+        }
+      ]
+    },
+    {
+      "id": "legacy-029",
+      "checks": [
+        {
+          "kind": "source",
+          "url": "https://www.breitlingsource.com/watch_details/Superocean_75.html",
+          "status": 200,
+          "type": "text/html",
+          "bytes": 9473,
+          "sha256": "a85fafc2e385b7ecfcb9e39bb624d0b95297c0a6ae1f937f01ca8f726255cd8a"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.breitlingsource.com/images/watches/cso_01.jpg",
+          "status": 200,
+          "type": "image/jpeg",
+          "bytes": 46586,
+          "sha256": "6cc67563c96f7dbe9f5245951eef1b183c284095d4cc2e7764b8ed13bbf1b182"
+        }
+      ]
+    },
+    {
+      "id": "legacy-030",
+      "checks": [
+        {
+          "kind": "source",
+          "url": "https://www.breitlingsource.com/details/B13.html",
+          "status": 200,
+          "type": "text/html",
+          "bytes": 10317,
+          "sha256": "17e4d329180fb41bb49bffb6aa2e0ac638c12c0c104ea5174c8ab50e9b56051a"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.breitlingsource.com/images/movements/b13.jpg",
+          "status": 200,
+          "type": "image/jpeg",
+          "bytes": 31045,
+          "sha256": "36460fdb64e07dea2e4657b49d42a06ac1efc30ce4398b7034a09756823c71fc"
+        }
+      ]
+    },
+    {
+      "id": "legacy-031",
+      "checks": [
+        {
+          "kind": "source",
+          "url": "https://www.hourstriker.com/articles/extreme-diving-watches-arms-race",
+          "error": "HTTP Error 403: Forbidden"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.hourstriker.com/core/images/articles/extreme-diving-watches-arms-race-11-21-2023-09.webp",
+          "error": "HTTP Error 403: Forbidden"
+        }
+      ]
+    }
+  ]
+}

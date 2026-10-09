@@ -24,12 +24,14 @@ Shared bench observations are unverified; they do not become reference facts aut
 
 Imported intelligence contains 935 reference rules across the existing WatchAuthPro data files through v2.90, seven special-construction safety rules, and historical serial/replica indicators. Original scope, manual-review flags, aliases and source text are retained. Imported research is labelled imported, not independently reverified. Rule order is preserved. Rolex suffixes and Tudor catalogue suffixes resolve only as explicitly labelled base/family guidance when an exact rule is unavailable.
 
-Existing browser-only production inspection history/counterfeit records are not automatically migrated. No access to those user-browser records is assumed. Images remain sourced external photographs for the four original prototype samples; unavailable hosts show an explicit fallback and source link.
+Existing browser-only production inspection history/counterfeit records are not automatically migrated. No access to those user-browser records is assumed. Photograph matching uses the independent public photographs.json catalogue, with explicit identifiers and labelled representative variants. Uninspected legacy assets remain withheld. See PHOTO_RESEARCH.md and photograph-coverage.csv for current coverage, pending source review and publication blockers.
 
 ## Validation
 
-Run node --test tests/core.mjs for scope, movement comparison, factual note wording, gas/oil safety, daily counting and London-day boundaries. tests/database.sql exercises actual authenticated RLS, cross-user sharing, forbidden writes, target editing and duplicate-save counting inside a rolled-back transaction.
+Run node --test tests/*.mjs for scope, movement comparison, factual note wording, gas/oil safety, daily counting and London-day boundaries. tests/database.sql exercises actual authenticated RLS, cross-user sharing, forbidden writes, target editing and duplicate-save counting inside a rolled-back transaction.
 
-Run python -m http.server 8765 and node tests/browser.cjs with Playwright Chromium installed for browser interaction checks. Browser-install downloads were blocked in the initial build environment; these checks are also covered manually against the published Pages site.
+Run python -m http.server 8765 and node tests/photographs-browser.cjs with Playwright and system Chromium for browser workflow checks. These use mocked account/database responses and non-watch image fixtures; real photographs, live RLS and deployment require separate verification.
 
 The account/session client uses Supabase REST endpoints, refreshes expiring access tokens and preserves errors without reporting unsaved writes as completed. Draft/session storage is browser-local; completed records and team knowledge are central.
+
+Run node tests/photographs-real-browser.cjs against the same local server to load and enlarge every accepted actual photograph with credits and representative labels. This uses public image servers and normal TLS certificate checks; configure Chromium to trust the environment proxy CA when required. It does not authenticate to or mutate the shared database. See PHOTO_RESEARCH.md for exact research coverage and remaining live-validation requirements.

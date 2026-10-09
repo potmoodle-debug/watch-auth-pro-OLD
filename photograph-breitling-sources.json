@@ -1,0 +1,548 @@
+{
+  "version": 1,
+  "checkedAt": "2026-10-08T15:40:10.119840+00:00",
+  "enumeratedModelPages": 358,
+  "matchedModelPages": 44,
+  "scope": "Specialist exact-token reference discovery followed by human inspection of the 99 gallery images for matching pages. Only individually verified assets in photographs.json are promoted. Source listing of several material/era references does not identify every pictured specimen.",
+  "models": [
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Avenger_181.html",
+      "references": "A17330",
+      "matches": [
+        "A17330"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/seawolf_steel_01.jpg",
+        "https://www.breitlingsource.com/images/watches/seawolf_steel_02.jpg"
+      ],
+      "html": "Avenger_181.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Avenger_287.html",
+      "references": "A13371 User Manual Download",
+      "matches": [
+        "A13371"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/super_avenger_2_01.jpg"
+      ],
+      "html": "Avenger_287.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Avenger_290.html",
+      "references": "A17331 User Manual Download",
+      "matches": [
+        "A17331"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/avenger_2_seawolf_01.jpg"
+      ],
+      "html": "Avenger_290.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Avenger_323.html",
+      "references": "V17310 User Manual Download",
+      "matches": [
+        "V17310"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/avenger_blackbird_01.jpg",
+        "https://www.breitlingsource.com/images/watches/avenger_blackbird_02.jpg"
+      ],
+      "html": "Avenger_323.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Bentley_128.html",
+      "references": "A16362,R16362",
+      "matches": [
+        "A16362"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/flyingb_no3_01.jpg",
+        "https://www.breitlingsource.com/images/watches/flyingb_no3_02.jpg"
+      ],
+      "html": "Bentley_128.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Bentley_200.html",
+      "references": "A44364, R44364 User Manual Download",
+      "matches": [
+        "A44364"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/675_speed_01.jpg"
+      ],
+      "html": "Bentley_200.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Bentley_42.html",
+      "references": "A44362, K44362, J44362, A44364, R44364 User Manual Download",
+      "matches": [
+        "A44364"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/675_01.jpg",
+        "https://www.breitlingsource.com/images/watches/675_02.jpg",
+        "https://www.breitlingsource.com/images/watches/675_03.jpg",
+        "https://www.breitlingsource.com/images/watches/675_04.jpg",
+        "https://www.breitlingsource.com/images/watches/675_05.jpg",
+        "https://www.breitlingsource.com/images/watches/675_06.jpg"
+      ],
+      "html": "Bentley_42.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Bentley_43.html",
+      "references": "A13362 User Manual Download",
+      "matches": [
+        "A13362"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/gt_01.jpg"
+      ],
+      "html": "Bentley_43.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Chronomat_12.html",
+      "references": "A13350, A13050, A13353",
+      "matches": [
+        "A13353"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/blackbird_old_01.jpg",
+        "https://www.breitlingsource.com/images/watches/blackbird_old_02.jpg",
+        "https://www.breitlingsource.com/images/watches/blackbird_old_03.jpg",
+        "https://www.breitlingsource.com/images/watches/blackbird_old_04.jpg"
+      ],
+      "html": "Chronomat_12.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Chronomat_185.html",
+      "references": "A13356, B13356, K13356",
+      "matches": [
+        "A13356"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/chronomat_evo_07.jpg",
+        "https://www.breitlingsource.com/images/watches/chronomat_evo_08.jpg",
+        "https://www.breitlingsource.com/images/watches/chronomat_evo_09.jpg",
+        "https://www.breitlingsource.com/images/watches/chronomat_evo_10.jpg",
+        "https://www.breitlingsource.com/images/watches/chronomat_evo_11.jpg",
+        "https://www.breitlingsource.com/images/watches/chronomat_evo_12.jpg"
+      ],
+      "html": "Chronomat_185.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Chronomat_195.html",
+      "references": "AB0110, BB0110, HB0110, JB0110 User Manual Download",
+      "matches": [
+        "AB0110"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/chronomat_b01_01.jpg",
+        "https://www.breitlingsource.com/images/watches/chronomat_b01_02.jpg",
+        "https://www.breitlingsource.com/images/watches/chronomat_b01_03.jpg",
+        "https://www.breitlingsource.com/images/watches/chronomat_b01_04.jpg",
+        "https://www.breitlingsource.com/images/watches/chronomat_b01_05.jpg"
+      ],
+      "html": "Chronomat_195.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Chronomat_254.html",
+      "references": "AB0110, BB0110, HB0110, JB0110 User Manual Download",
+      "matches": [
+        "AB0110"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/chronomat_44_01.jpg"
+      ],
+      "html": "Chronomat_254.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Chronomat_260.html",
+      "references": "A13356, B13356, K13356",
+      "matches": [
+        "A13356"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/chronomat_13_01.jpg"
+      ],
+      "html": "Chronomat_260.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Chronomat_3.html",
+      "references": "A13356, B13356, K13356",
+      "matches": [
+        "A13356"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/chronomat_evo_01.jpg",
+        "https://www.breitlingsource.com/images/watches/chronomat_evo_02.jpg",
+        "https://www.breitlingsource.com/images/watches/chronomat_evo_03.jpg",
+        "https://www.breitlingsource.com/images/watches/chronomat_evo_04.jpg",
+        "https://www.breitlingsource.com/images/watches/chronomat_evo_13.jpg"
+      ],
+      "html": "Chronomat_3.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Colt_302.html",
+      "references": "A17388 User Manual Download",
+      "matches": [
+        "A17388"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/colt_44_auto_01.jpg"
+      ],
+      "html": "Colt_302.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Colt_61.html",
+      "references": "A74380",
+      "matches": [
+        "A74380"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/colt_quartz2_01.jpg",
+        "https://www.breitlingsource.com/images/watches/colt_quartz2_02.jpg"
+      ],
+      "html": "Colt_61.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Colt_64.html",
+      "references": "A73380",
+      "matches": [
+        "A73380"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/colt_chrono2_01.jpg"
+      ],
+      "html": "Colt_64.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Limited_213.html",
+      "references": "A32360",
+      "matches": [
+        "A32360"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/steelfish_gmt_01.jpg",
+        "https://www.breitlingsource.com/images/watches/steelfish_gmt_03.jpg",
+        "https://www.breitlingsource.com/images/watches/steelfish_gmt_02.jpg"
+      ],
+      "html": "Limited_213.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Limited_226.html",
+      "references": "AB0121, HB0121 User Manual Download",
+      "matches": [
+        "AB0121"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/navitimer_01_01.jpg",
+        "https://www.breitlingsource.com/images/watches/navitimer_01_02.jpg",
+        "https://www.breitlingsource.com/images/watches/navitimer_01_03.jpg"
+      ],
+      "html": "Limited_226.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Limited_300.html",
+      "references": "AB0121 User Manual Download",
+      "matches": [
+        "AB0121"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/navitimer_01_pan01.jpg"
+      ],
+      "html": "Limited_300.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Limited_337.html",
+      "references": "AB0121 User Manual Download",
+      "matches": [
+        "AB0121"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/navitimer_01le_01.jpg",
+        "https://www.breitlingsource.com/images/watches/navitimer_01le_02.jpg"
+      ],
+      "html": "Limited_337.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Limited_350.html",
+      "references": "AB0127 User Manual Download",
+      "matches": [
+        "AB0127"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/navitimer46-le-01.jpg"
+      ],
+      "html": "Limited_350.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Navitimer_134.html",
+      "references": "A59028",
+      "matches": [
+        "A59028"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/jupiter_pilot_01.jpg"
+      ],
+      "html": "Navitimer_134.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Navitimer_297.html",
+      "references": "AB0127, RB0127 User Manual Download",
+      "matches": [
+        "AB0127"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/navitimer_01_46_01.jpg"
+      ],
+      "html": "Navitimer_297.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Navitimer_52.html",
+      "references": "A24322, K24322 User Manual Download",
+      "matches": [
+        "A24322"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/navitimer_world_01.jpg",
+        "https://www.breitlingsource.com/images/watches/navitimer_world_02.jpg"
+      ],
+      "html": "Navitimer_52.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Navitimer_55.html",
+      "references": "A12020, A12022, A12322, D12020, D12022, D12322, K12020, K12022, K12322",
+      "matches": [
+        "D12022"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/cosmonaute_lemania_01.jpg",
+        "https://www.breitlingsource.com/images/watches/cosmonaute_lemania_02.jpg",
+        "https://www.breitlingsource.com/images/watches/cosmonaute_lemania_03.jpg",
+        "https://www.breitlingsource.com/images/watches/cosmonaute_lemania_04.jpg",
+        "https://www.breitlingsource.com/images/watches/cosmonaute_lemania_05.jpg"
+      ],
+      "html": "Navitimer_55.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Professional_184.html",
+      "references": "E79362, F79362, K79362",
+      "matches": [
+        "E79362"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/aerospace_av_04.jpg",
+        "https://www.breitlingsource.com/images/watches/aerospace_av_05.jpg"
+      ],
+      "html": "Professional_184.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Professional_26.html",
+      "references": "E79362, F79362, K79362",
+      "matches": [
+        "E79362"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/aerospace_av_01.jpg",
+        "https://www.breitlingsource.com/images/watches/aerospace_av_02.jpg",
+        "https://www.breitlingsource.com/images/watches/aerospace_av_03.jpg"
+      ],
+      "html": "Professional_26.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Professional_286.html",
+      "references": "E79363 User Manual Download",
+      "matches": [
+        "E79363"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/aerospace_evo_01.jpg"
+      ],
+      "html": "Professional_286.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Professional_336.html",
+      "references": "VB5510 User Manual Download",
+      "matches": [
+        "VB5510"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/exospace_01.jpg"
+      ],
+      "html": "Professional_336.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Soheritage_126.html",
+      "references": "A17320",
+      "matches": [
+        "A17320"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/superocean_heritage_01.jpg",
+        "https://www.breitlingsource.com/images/watches/superocean_heritage_04.jpg",
+        "https://www.breitlingsource.com/images/watches/superocean_heritage_02.jpg",
+        "https://www.breitlingsource.com/images/watches/superocean_heritage_03.jpg"
+      ],
+      "html": "Soheritage_126.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Soheritage_170.html",
+      "references": "A13320",
+      "matches": [
+        "A13320"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/so_heritage_chrono_01.jpg",
+        "https://www.breitlingsource.com/images/watches/so_heritage_chrono_02.jpg",
+        "https://www.breitlingsource.com/images/watches/cso_03.jpg",
+        "https://www.breitlingsource.com/images/watches/cso_04.jpg"
+      ],
+      "html": "Soheritage_170.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Soheritage_243.html",
+      "references": "A17321 User Manual Download",
+      "matches": [
+        "A17321"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/soh_42_01.jpg",
+        "https://www.breitlingsource.com/images/watches/soh_42_02.jpg"
+      ],
+      "html": "Soheritage_243.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Soheritage_357.html",
+      "references": "AB2010 User Manual Download",
+      "matches": [
+        "AB2010"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/superocean_h2_01.jpg"
+      ],
+      "html": "Soheritage_357.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Soheritage_358.html",
+      "references": "AB2020 User Manual Download",
+      "matches": [
+        "AB2020"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/superocean_h462_01.jpg"
+      ],
+      "html": "Soheritage_358.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Soheritage_359.html",
+      "references": "A13312 User Manual Download",
+      "matches": [
+        "A13312"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/superocean_hc2_01.jpg"
+      ],
+      "html": "Soheritage_359.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/SuperOcean_319.html",
+      "references": "A17392 User Manual Download",
+      "matches": [
+        "A17392"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/superocean2_44_01.jpg"
+      ],
+      "html": "SuperOcean_319.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Superocean_101.html",
+      "references": "A17360",
+      "matches": [
+        "A17360"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/so_current_01.jpg",
+        "https://www.breitlingsource.com/images/watches/so_current_02.jpg",
+        "https://www.breitlingsource.com/images/watches/so_current_03.jpg",
+        "https://www.breitlingsource.com/images/watches/so_current_04.jpg",
+        "https://www.breitlingsource.com/images/watches/so_current_05.jpg",
+        "https://www.breitlingsource.com/images/watches/so_current_06.jpg",
+        "https://www.breitlingsource.com/images/watches/so_current_07.jpg"
+      ],
+      "html": "Superocean_101.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Superocean_16.html",
+      "references": "A17360",
+      "matches": [
+        "A17360"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/superocean_03.jpg",
+        "https://www.breitlingsource.com/images/watches/superocean_02.jpg",
+        "https://www.breitlingsource.com/images/watches/superocean_01.jpg"
+      ],
+      "html": "Superocean_16.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Superocean_224.html",
+      "references": "A17364 User Manual Download",
+      "matches": [
+        "A17364"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/superocean_new_01.jpg"
+      ],
+      "html": "Superocean_224.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Superocean_238.html",
+      "references": "A13341 User Manual Download",
+      "matches": [
+        "A13341"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/superocean_chrono2_01.jpg",
+        "https://www.breitlingsource.com/images/watches/superocean_chrono2_02.jpg"
+      ],
+      "html": "Superocean_238.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Superocean_261.html",
+      "references": "A73310 User Manual Download",
+      "matches": [
+        "A73310"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/superocean_m2000_01.jpg"
+      ],
+      "html": "Superocean_261.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Superocean_301.html",
+      "references": "A13341 User Manual Download",
+      "matches": [
+        "A13341"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/superocean_sf_chrono_01.jpg"
+      ],
+      "html": "Superocean_301.html"
+    },
+    {
+      "source": "https://www.breitlingsource.com/watch_details/Superocean_75.html",
+      "references": "A13340",
+      "matches": [
+        "A13340"
+      ],
+      "images": [
+        "https://www.breitlingsource.com/images/watches/cso_01.jpg",
+        "https://www.breitlingsource.com/images/watches/cso_02.jpg"
+      ],
+      "html": "Superocean_75.html"
+    }
+  ]
+}

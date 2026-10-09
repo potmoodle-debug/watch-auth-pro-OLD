@@ -1,0 +1,1366 @@
+{
+  "version": 1,
+  "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+  "articleImagesInspected": 97,
+  "note": "All 97 main article images inspected, including off-model historical/event/chronograph images; related-post thumbnails and avatars excluded. Actual pixels plus article identification establish selections. Technical calibre text is not a movement photograph.",
+  "reviewedArticles": [
+    {
+      "articleKey": "p39",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/",
+      "primarySource": "https://www.tudorwatch.com/en/watches/pelagos/m25407n-0001",
+      "inventoryKeysReviewed": [
+        "25407N",
+        "25407N-0001",
+        "M25407N",
+        "M25407N-0001"
+      ],
+      "imagesInspected": 21,
+      "selectedImages": [
+        [
+          "front",
+          7,
+          "Black sunray dial, white block markers, red PELAGOS text and titanium bracelet."
+        ],
+        [
+          "front",
+          8,
+          "Same documented Pelagos 39 configuration on the supplied black rubber strap."
+        ],
+        [
+          "caseback",
+          19,
+          "Closed engraved back on the rubber-strap specimen beside the bracelet front. Red line is protective-film marking; serial is specimen-specific."
+        ],
+        [
+          "braceletClasp",
+          16,
+          "T-fit clasp exterior and titanium bracelet. Protective film is temporary."
+        ],
+        [
+          "braceletClasp",
+          17,
+          "Opened T-fit folding clasp and bracelet: visible PUSH adjustment marking and construction. Unpictured codes are not claimed."
+        ],
+        [
+          "braceletClasp",
+          18,
+          "Supplied black rubber strap with Tudor-shield titanium pin buckle. This is the included alternative to the titanium bracelet."
+        ]
+      ],
+      "referenceEvidence": "Manufacturer explicitly identifies M25407N-0001, black sunray dial, 39 mm grade 2 titanium case, T-fit bracelet and complimentary black rubber strap. Hands-on article documents handling and photographing both supplied configurations. Actual photographed back visibly carries 25407 and TUDOR GENEVE CALIBRE MANUFACTURE inscriptions; that tooling stamp alone is not an alias for the incomplete inventory key 25407."
+    },
+    {
+      "articleKey": "alinghi",
+      "source": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-alinghi-red-bull-racing/",
+      "primarySource": "https://www.tudorwatch.com/en/watches/pelagos-fxd/m25707kn-0001",
+      "inventoryKeysReviewed": [
+        "25707KN"
+      ],
+      "imagesInspected": 19,
+      "selectedImages": [
+        [
+          "front",
+          15,
+          "Three-hand blue Alinghi dial and black forged-carbon case with titanium crown/bezel edge. The neighbouring chronograph is excluded."
+        ],
+        [
+          "braceletClasp",
+          19,
+          "Blue fabric self-gripping strap and Tudor-shield titanium loop. The partly visible chronograph is a separate watch and does not supply model evidence."
+        ]
+      ],
+      "referenceEvidence": "Hands-on author documents photographing and wearing the three-hand Alinghi FXD; specification table explicitly identifies M25707KN-0001, blue dial, 42 mm forged-carbon case, titanium crown/bezel edge and blue textile Velcro strap. Manufacturer legacy product URL currently redirects to the family; it is not used as independent exact-reference confirmation. Chronograph and Black Bay images in the same article are excluded."
+    },
+    {
+      "articleKey": "usn",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "primarySource": "https://www.tudorwatch.com/en/watches/pelagos-fxd/m25717n-0001",
+      "inventoryKeysReviewed": [
+        "25717N"
+      ],
+      "imagesInspected": 31,
+      "selectedImages": [
+        [
+          "front",
+          13,
+          "Black dial, red PELAGOS text, white blocks, 60-minute bezel and forest-green/red-thread fabric strap. Dive-event photograph of the documented hands-on specimen."
+        ]
+      ],
+      "referenceEvidence": "Manufacturer and hands-on specification table both explicitly identify M25717N-0001, black dial, titanium case, unidirectional 60-minute bezel and forest-green/red-thread fabric strap. Historical Navy watches, blue FXD and Alinghi chronographs in the same article are excluded. US Navy inspiration does not prove individual military issue."
+    },
+    {
+      "articleKey": "gmt",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/",
+      "imagesInspected": 26,
+      "inventoryKeysReviewed": [
+        "2542G257",
+        "2542G267NU"
+      ],
+      "selectedImages": [],
+      "referenceEvidence": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/ identifies M2542G247NU-0002, a 2024 Marine Nationale GMT with M.N.24 back. All 26 actual main article images inspected. Current manufacturer family https://www.tudorwatch.com/en/watches/pelagos-fxd and wildcard product https://www.tudorwatch.com/en/watches/pelagos-fxd/m2542gxx7nu-0002 identify 2542G267NU. Exact guessed product URLs for 2542G257 and 2542G247NU return 404. No documented alias from the inventory 2542G257 or 2542G267NU to the photographed 2024 reference is established. Similar visible dial and a shared MT5652-U calibre do not repair the reference/year boundary. All four categories withheld; further date-specific manufacturer/dealer evidence required. Current manufacturer metadata also explicitly maps its 2024 user-guide rmc m2542g247nu-0002 to cleanedRmc m2542gxx7nu-0002 and reuses 2024 product film. This documents a common model route, but does not establish the pictured M.N.24 caseback execution for an exact 2026 reference. Year-specific scope remains unresolved."
+    }
+  ],
+  "access": [
+    {
+      "articleKey": "gmt",
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/11/Tudor-Pelagos-FXD-GMT-26.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/",
+      "alt": "Tudor Pelagos FXD GMT \"Zulu Time\" pocket shot",
+      "status": "decoded",
+      "dimensions": [
+        1201,
+        1800
+      ],
+      "sha256": "689e5c2214c9521c20057d092eb5f6249b748efbfc30267d9050024e6d27afe0"
+    },
+    {
+      "articleKey": "gmt",
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/11/Tudor-Pelagos-FXD-GMT-18.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/",
+      "alt": "Tudor Pelagos FXD GMT \"Zulu Time\" logo close-up",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "ca96127261b57b0bfb315ace8c47df417b08609493f67fe0753fb6c1d850ad75"
+    },
+    {
+      "articleKey": "gmt",
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/11/Tudor-Pelagos-FXD-GMT.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/",
+      "alt": "Tudor Pelagos FXD GMT \"Zulu Time\"",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "aeaacb89984558781ea8dd3e65f1f97fa3f12a670b538e24d135142f22686aa2"
+    },
+    {
+      "articleKey": "gmt",
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/11/Tudor-Pelagos-FXD-GMT-9.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/",
+      "alt": "Tudor Pelagos FXD GMT \"Zulu Time\"",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "2501c3ae949209c910c2cdc20d68885604ed24560c91387116f01a7f0ba366cd"
+    },
+    {
+      "articleKey": "gmt",
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/11/Tudor-Pelagos-FXD-GMT-19.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/",
+      "alt": "Tudor Pelagos FXD GMT \"Zulu Time\" 24-hour hand",
+      "status": "decoded",
+      "dimensions": [
+        1201,
+        1800
+      ],
+      "sha256": "fc1688fe1a003e1a99f5466ddec084992baecb0a013a2ca626573ca3957d4b23"
+    },
+    {
+      "articleKey": "gmt",
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/11/Tudor-Pelagos-FXD-GMT-14.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "76024d3807bb12b4d88b6c85eae35124100300b13600f638cc93655e02ea870e"
+    },
+    {
+      "articleKey": "gmt",
+      "index": 9,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/11/Tudor-Pelagos-FXD-GMT-17.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1201,
+        1800
+      ],
+      "sha256": "10b4239bf3a1a83f24444f83e41f32575b3ea2038bdb886b9ecf1b3d45a6a85a"
+    },
+    {
+      "articleKey": "gmt",
+      "index": 10,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/11/Tudor-Pelagos-FXD-GMT-7.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/",
+      "alt": "Tudor Pelagos FXD GMT \"Zulu Time\" and Pelagos FXD USN",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "3b48184ecda6a22d8a6c1f28c7e97c0ec92acefdf6cc8f179e26b40730dde09c"
+    },
+    {
+      "articleKey": "gmt",
+      "index": 11,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/11/Tudor-Pelagos-FXD-GMT-6.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "72f51f8e23f762aecd4e275ba6a6ce4a11a87d8a8a66b2af7bb55731d5c86065"
+    },
+    {
+      "articleKey": "gmt",
+      "index": 12,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/11/Tudor-Pelagos-FXD-GMT-23.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/",
+      "alt": "Tudor Pelagos FXD GMT \"Zulu Time\" case back",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "42bdf52eccfb5866432abcb285963d8aed33613c328539c974dfa670e81cb9b1"
+    },
+    {
+      "articleKey": "gmt",
+      "index": 13,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/11/Tudor-Pelagos-FXD-GMT-16.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/",
+      "alt": "Tudor Pelagos FXD GMT \"Zulu Time\" case profile",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "00aaf1f4a34be4246a81162ef804fbb9af964ceee7206cd98ffda759ae5e7a9b"
+    },
+    {
+      "articleKey": "gmt",
+      "index": 14,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/11/Tudor-Pelagos-FXD-GMT-20.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "f21da902b822d0a74fb44bb3fe27f73990af3b12d608e09ddf60b43aade732da"
+    },
+    {
+      "articleKey": "gmt",
+      "index": 15,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/11/Tudor-Pelagos-FXD-GMT-29.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/",
+      "alt": "Tudor Pelagos FXD GMT \"Zulu Time\" on wrist",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "18a44d6404db9209f9d44e1ff4a737c54fa956c5afa9abc143ca26360b5983fd"
+    },
+    {
+      "articleKey": "gmt",
+      "index": 16,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/11/Tudor-Pelagos-FXD-GMT-33.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "29609f1a77b3d132f11c7f38a977a42cb324c07239f77f7706e56d909213b19d"
+    },
+    {
+      "articleKey": "gmt",
+      "index": 17,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/11/Tudor-Pelagos-FXD-GMT-28.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/",
+      "alt": "Tudor Pelagos FXD GMT \"Zulu Time\" on wrist",
+      "status": "decoded",
+      "dimensions": [
+        1201,
+        1800
+      ],
+      "sha256": "504563d463709d353e862e2cd1bb3b247bb8b7e1ede0ffb244904a19892be92b"
+    },
+    {
+      "articleKey": "gmt",
+      "index": 18,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/11/Tudor-Pelagos-FXD-GMT-25.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "89aeee4c2f6545171660355d75433323bb94c7f9054a1f64f3096991b4bdd681"
+    },
+    {
+      "articleKey": "gmt",
+      "index": 19,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/11/Tudor-Pelagos-FXD-GMT-24.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "fe362236e102eddc24fa242d7b4d6ea0292f76aef91c8e39e6707a254788b79f"
+    },
+    {
+      "articleKey": "gmt",
+      "index": 20,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/11/Tudor-Pelagos-FXD-GMT-31.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "14536123ce04b88ff0645a023dad4431636a914d226a641d485309930d0e5ef4"
+    },
+    {
+      "articleKey": "gmt",
+      "index": 21,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/11/Tudor-Pelagos-FXD-GMT-32.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "dd92c2ab06805a93f206402cd61f9bff49f5fc09d62ddeb11607cac10a53153b"
+    },
+    {
+      "articleKey": "gmt",
+      "index": 22,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/11/Tudor-Pelagos-FXD-GMT-21.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "362e348cc562122a96d8f48c81cbdfa717f454712a6141dc03e972aba2c9caab"
+    },
+    {
+      "articleKey": "gmt",
+      "index": 23,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/11/Tudor-Pelagos-FXD-GMT-22.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "e2aca539775d7f3cf613314e3f6d8a5b04a1925e058c22e7b74b4c738d92d901"
+    },
+    {
+      "articleKey": "gmt",
+      "index": 24,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/11/Tudor-Pelagos-FXD-GMT-4.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/",
+      "alt": "Tudor Pelagos FXD GMT \"Zulu Time\" lume shot",
+      "status": "decoded",
+      "dimensions": [
+        1201,
+        1800
+      ],
+      "sha256": "9c000c8a3ce37241e4168e799d45449fdb31cc2716ae41469a6ef991d4f546e8"
+    },
+    {
+      "articleKey": "gmt",
+      "index": 25,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/11/Tudor-Pelagos-FXD-GMT-12.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1201,
+        1800
+      ],
+      "sha256": "3339a67dba82cb2fa94f2d694713afb15c0d5e657f10fdd004528d2371d8df61"
+    },
+    {
+      "articleKey": "gmt",
+      "index": 26,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/11/Tudor-Pelagos-FXD-GMT-5.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "bd342d08de93e571b070ee352f493dc447f226f1d9682e2314ce68fd9444ae3f"
+    },
+    {
+      "articleKey": "gmt",
+      "index": 27,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/11/Tudor-Pelagos-FXD-GMT-30.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "d2d1588e77962cab49a568370e91876c32b56898dd7e6da1af2747732aa22804"
+    },
+    {
+      "articleKey": "gmt",
+      "index": 28,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/11/Tudor-Pelagos-FXD-GMT-27.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "5d883623701bf27f5eb45e811d54e5e11ff352ced8fe90fb7c36ff5309b958bc"
+    },
+    {
+      "articleKey": "usn",
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/09/Tudor-Pelagos-FXD-USN-Event-Heritage-4.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "e97b42a883e16f3f9c2200a20be7a0f356476003dd73932a96b84534f25c95de"
+    },
+    {
+      "articleKey": "usn",
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/09/Tudor-Pelagos-FXD-USN-Event-Bill-Jebb-Cole-Pennington.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "8769f0d61c0808de0fe7a153f0908f7d643f6fed46cd8994978798646c466227"
+    },
+    {
+      "articleKey": "usn",
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/09/Tudor-Pelagos-FXD-USN-Event-Heritage-2.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "323e3376438fbdeaf66ffc7a89e7e9b63825a72e07aa78911010bdb2c2c36a63"
+    },
+    {
+      "articleKey": "usn",
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/09/Tudor-Pelagos-FXD-USN-Event-Heritage-1.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "974c5a250652f27d829aa2214f50aff7cc92c29817cf97a6723c221ecfc3cf05"
+    },
+    {
+      "articleKey": "usn",
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/09/Tudor-Pelagos-FXD-USN-Event-Heritage-3.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "7b4282a46bde8384edd7e208007c01482a4207272f0d9b95a985f476591a80da"
+    },
+    {
+      "articleKey": "usn",
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/09/Tudor-Pelagos-FXD-USN-Event-Heritage-5.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "8f0e78dcdd517da4196a08c004e50df763eafc6ce5d4a7c35192ab38f0af54ae"
+    },
+    {
+      "articleKey": "usn",
+      "index": 9,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/09/Tudor-Pelagos-FXD-USN-Event-Heritage-7.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "1548a01f5c713da5d7344dfbfed4c4e4ca9a9a04fa58b5aafb7251bef4d83214"
+    },
+    {
+      "articleKey": "usn",
+      "index": 10,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/09/Tudor-Pelagos-FXD-USN-Event-Heritage-8.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "8ab8fc9d92da34856e5d3f194bad02ad6963fa3689aa4ba10e365ce3eb9e33c6"
+    },
+    {
+      "articleKey": "usn",
+      "index": 11,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/09/Tudor-Pelagos-FXD-USN-Event-Heritage-10.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "63d5748d213095b21291e90af8dfc2d218248135706696c9d281bf943998f958"
+    },
+    {
+      "articleKey": "usn",
+      "index": 12,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/09/Tudor-Pelagos-FXD-USN-Event-Heritage-9.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "af21d29820b024a00235022a10e6e6088448e99f72d82f86069e913993b92e1f"
+    },
+    {
+      "articleKey": "usn",
+      "index": 13,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/09/Tudor-Pelagos-FXD-USN-3.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "alt": "Tudor Pelagos FXD USN",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "6befb15de3c12b2f3d2d77def955de280af966424b8c843199878f34a13571dc"
+    },
+    {
+      "articleKey": "usn",
+      "index": 14,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/09/Tudor-Pelagos-FXD-USN-12.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "9afeea2b9ea11be6eb5724b479a72f0334b5de8289cd91159b25fca3a5dd6571"
+    },
+    {
+      "articleKey": "usn",
+      "index": 15,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/09/Tudor-Pelagos-FXD-USN-11.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "3e9eb09ebec1e757f58adb9587d35e5467429265b4d3aa6dd9216c60dd3465fb"
+    },
+    {
+      "articleKey": "usn",
+      "index": 16,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/09/Tudor-Pelagos-FXD-USN-4.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "alt": "Tudor Pelagos FXD USN",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "f275fb4468fc5af716c9850f63148f2b0ec14ff087745260408ec5f89ade2c93"
+    },
+    {
+      "articleKey": "usn",
+      "index": 17,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/09/Tudor-Pelagos-FXD-USN-1.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "alt": "Tudor",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "f89715a5bd32abdbee8ae02b807958aee7df6a141e04e41ebea6370eb346b7c9"
+    },
+    {
+      "articleKey": "usn",
+      "index": 18,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/09/Tudor-Pelagos-FXD-USN-7.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "97c83289d04da7a38e360a747ca3aaf1dca89fd1fd0ac7a2c309cd3fa68b48cd"
+    },
+    {
+      "articleKey": "usn",
+      "index": 19,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/09/Tudor-Pelagos-FXD-USN-Florida-Diving-11.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "alt": "Tudor Pelagos FXD USN Florida Diving",
+      "status": "decoded",
+      "dimensions": [
+        1350,
+        1800
+      ],
+      "sha256": "d7386d7c6e3735dc28eeeae2e3846faa3d9e4718572ebbba198b9f434b1ed323"
+    },
+    {
+      "articleKey": "usn",
+      "index": 20,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/09/Tudor-Pelagos-FXD-USN-Florida-Diving-1.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1200,
+        1800
+      ],
+      "sha256": "7b49f5407690921c58a9069a8bf738d657a0a72c8abc6b53a93d77d8d73c2d03"
+    },
+    {
+      "articleKey": "usn",
+      "index": 21,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/09/Tudor-Pelagos-FXD-USN-Florida-Diving-2.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1350
+      ],
+      "sha256": "07a4a975bb7cf50813097f85dfebc2b800b2b1cd8076e74972915080961610ee"
+    },
+    {
+      "articleKey": "usn",
+      "index": 22,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/09/Tudor-Pelagos-FXD-USN-Florida-Diving-3.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "alt": "Tudor Pelagos FXD USN Florida Diving",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1350
+      ],
+      "sha256": "29986da239545089cf9acff1df9f6591a1868acc03ec9eaed8a2e95deb8f3155"
+    },
+    {
+      "articleKey": "usn",
+      "index": 23,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/09/Tudor-Pelagos-FXD-USN-Florida-Diving-8.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "alt": "Tudor Pelagos FXD USN Florida Diving",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1350
+      ],
+      "sha256": "fcc9fbae37c34c1ea43be9ae0cbaf1630a8801233a3383fced18717937d1e8c0"
+    },
+    {
+      "articleKey": "usn",
+      "index": 24,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/09/Tudor-Pelagos-FXD-USN-Florida-Diving-10.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1350,
+        1800
+      ],
+      "sha256": "b7aa689c77cb8dfcea6cd851865f40c122b4e3cf828325cdfc96e2f0ab97e24c"
+    },
+    {
+      "articleKey": "usn",
+      "index": 25,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/09/Tudor-Pelagos-FXD-USN-Florida-Diving-5.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "alt": "Tudor Pelagos FXD USN Florida Diving",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1350
+      ],
+      "sha256": "564297da3ec96983c4b0f699c485587884cc611d2691ab194fe0b49a1ca7d2d1"
+    },
+    {
+      "articleKey": "usn",
+      "index": 26,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/09/TudorPelagosFXD_NACHOdive_JasonHeaton-NCG.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1013
+      ],
+      "sha256": "4d5bab8b59caee58a3f9e1044ae866e422fe3c617686cb873799557b26261393"
+    },
+    {
+      "articleKey": "usn",
+      "index": 27,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/09/Tudor-Pelagos-FXD-USN-13.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "alt": "Tudor Pelagos FXD USN",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "77448061e38bc23826316cab66538fc1fdfda474c7c4ff19dfc35b9150256796"
+    },
+    {
+      "articleKey": "usn",
+      "index": 28,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/09/Tudor-Pelagos-FXD-USN-Florida-Diving-9.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1350,
+        1800
+      ],
+      "sha256": "490b0f5d593269d60c0b6bf4dc3cdd389854ef482bc7e1484a74fa6a96a82d16"
+    },
+    {
+      "articleKey": "usn",
+      "index": 29,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/09/Tudor-Pelagos-FXD-USN-Florida-Diving-99.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1350
+      ],
+      "sha256": "69a68556a75666c7751aa229b35dd908659885e8951539f2f6fc2354d190a5a4"
+    },
+    {
+      "articleKey": "usn",
+      "index": 30,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/09/Tudor-Pelagos-FXD-USN-Florida-Diving-6.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1350
+      ],
+      "sha256": "4bbb54433b98539976a3ffa7dc587ab8c4f495b18e2b286cad2439867ca90286"
+    },
+    {
+      "articleKey": "usn",
+      "index": 31,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/08/Lex-with-The-FXD-11.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "alt": "Tudor Pelagos FXD",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "74c2f650f10b25b59f2c511ca7403df1cf6798d2289002be87c2e612293bd7da"
+    },
+    {
+      "articleKey": "usn",
+      "index": 32,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/06/Tudor-Pelagos-FXD-Alinghi-Red-Bull-Racing-11-1.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "alt": "Tudor Pelagos FXD Chrono",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "e5f169a09520ed02cab72c61f18a28c6cbccf1a4bb08fb7ab86764381e997e39"
+    },
+    {
+      "articleKey": "usn",
+      "index": 33,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/09/Tudor-Pelagos-FXD-USN-8.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "5844c6b929a6e33227faf76badb0a563eb4b5e56a9a3a8e3044b67416f7345a9"
+    },
+    {
+      "articleKey": "alinghi",
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/07/Tudor-Pelagos-FXD-Alinghi-Red-Bull-Racing-14-r.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-alinghi-red-bull-racing/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "6c4e5ab298ddefb1af8866eaab2bd6c6e153c9bf6f802b985aeddaf30eeaeb4f"
+    },
+    {
+      "articleKey": "alinghi",
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/07/Tudor-FXD-Alinghi-Red-Bull-Hands-On-2.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-alinghi-red-bull-racing/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "1618bb70f29233627f364a6d6363824fe149c9203cd699340e143643fbeb0e81"
+    },
+    {
+      "articleKey": "alinghi",
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/07/Tudor-FXD-Alinghi-Red-Bull-Hands-On-1.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-alinghi-red-bull-racing/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "92b41500a6af9718949231345eb971a23abd3cdbd6933030fa2f2de8020d6975"
+    },
+    {
+      "articleKey": "alinghi",
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/07/Tudor-FXD-Alinghi-Red-Bull-Hands-On-15.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-alinghi-red-bull-racing/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "9a974f66814deb0c0d6bce4dd0cc7c07fbd1678e0229f7f458839c5748d95669"
+    },
+    {
+      "articleKey": "alinghi",
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/07/Tudor-FXD-Alinghi-Red-Bull-Hands-On-3.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-alinghi-red-bull-racing/",
+      "alt": "Tudor Pelagos FXD Alinghi Red Bull",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "39a5914731b5b18ad2dd87dcd684edc2d22d60b0811b3c9c073849a078bbed9c"
+    },
+    {
+      "articleKey": "alinghi",
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/07/Tudor-FXD-Alinghi-Red-Bull-Hands-On-4.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-alinghi-red-bull-racing/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1200,
+        1800
+      ],
+      "sha256": "fa6f059acee7a87794f5d43e1e3b9c24e5141ee6e096be5a39233620dc9ce726"
+    },
+    {
+      "articleKey": "alinghi",
+      "index": 9,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/07/Tudor-FXD-Alinghi-Red-Bull-Hands-On-5.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-alinghi-red-bull-racing/",
+      "alt": "Tudor Pelagos FXD Alinghi Red Bull",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "352f3b5e350145ca7f38f177527c19ed8c1616dd443f4b178562cace9cdcd491"
+    },
+    {
+      "articleKey": "alinghi",
+      "index": 10,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/07/Tudor-FXD-Alinghi-Red-Bull-Hands-On-7.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-alinghi-red-bull-racing/",
+      "alt": "Tudor Pelagos FXD Alinghi Red Bull Racing",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "ef710f60995820b562ef22bd6cf6f3885287692ef7d6bda39b17198559479583"
+    },
+    {
+      "articleKey": "alinghi",
+      "index": 11,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/07/Tudor-FXD-Alinghi-Red-Bull-Hands-On-10.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-alinghi-red-bull-racing/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "c881d02ff1df83ce4e9582a8ec489e7eb5f554d1740daa20b66fd0138d58ce66"
+    },
+    {
+      "articleKey": "alinghi",
+      "index": 12,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/07/Tudor-FXD-Alinghi-Red-Bull-Hands-On-13.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-alinghi-red-bull-racing/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1350,
+        1800
+      ],
+      "sha256": "f373e4f4d5294465bda9f04dcde76936d2ab71413cb095ae8e7c341d14d00c89"
+    },
+    {
+      "articleKey": "alinghi",
+      "index": 13,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/07/Tudor-FXD-Alinghi-Red-Bull-Hands-On-14.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-alinghi-red-bull-racing/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1200,
+        1800
+      ],
+      "sha256": "930a724b2fe886605a2feb27d6151902a6b97a91e39d54f99c5fde3ece7e26c3"
+    },
+    {
+      "articleKey": "alinghi",
+      "index": 14,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/07/Tudor-FXD-Alinghi-Red-Bull-Hands-On-12.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-alinghi-red-bull-racing/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1200,
+        1800
+      ],
+      "sha256": "41dbcc33987b0a482afa31c0b2ef9ef80a9eb5c928b0434eaa5de78c21b5625f"
+    },
+    {
+      "articleKey": "alinghi",
+      "index": 15,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/07/Tudor-Pelagos-FXD-Alinghi-Red-Bull-Racing-20-r.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-alinghi-red-bull-racing/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "326d55b329099c76aa89b94a44461feeca08f36b29f6bf3342cc29ae753b266d"
+    },
+    {
+      "articleKey": "alinghi",
+      "index": 16,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/07/Tudor-FXD-Alinghi-Red-Bull-Hands-On-11.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-alinghi-red-bull-racing/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1200,
+        1800
+      ],
+      "sha256": "a0c84155135c264a53d4cf6158c9432a6d66c3c462bf6d06e8716559aff72685"
+    },
+    {
+      "articleKey": "alinghi",
+      "index": 17,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/07/Tudor-Pelagos-FXD-Alinghi-Red-Bull-Racing-16-r.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-alinghi-red-bull-racing/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "3baf23df3e8b373266114e22ceaf6f2324870f1e6b60b309f4d33d99b609f4c3"
+    },
+    {
+      "articleKey": "alinghi",
+      "index": 18,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/07/Tudor-FXD-Alinghi-Red-Bull-Hands-On-9.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-alinghi-red-bull-racing/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1200,
+        1800
+      ],
+      "sha256": "1e6068d62e3e6e1d48a055cb762455d411827c243afd5dd8129928be7df91a0a"
+    },
+    {
+      "articleKey": "alinghi",
+      "index": 19,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/07/Tudor-Pelagos-FXD-Alinghi-Red-Bull-Racing-12-r.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-alinghi-red-bull-racing/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "3d242f2fe2ef8c20948077ca86aa9318864d5d4de4213172582c105d1f806547"
+    },
+    {
+      "articleKey": "p39",
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/08/Tudor-Pelagos-39-M25407N-0001.013.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/",
+      "alt": "Tudor Pelagos 39",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "1b70656f121b567c10e28143b437d8866fc69d3165ce8cf6dd69005f7cf3d780"
+    },
+    {
+      "articleKey": "p39",
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2016/11/Tudor-Pelagos-LHD-0308.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/",
+      "alt": "Tudor Pelagos LHD",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "56750c3ecdbe7ad1fc08aba5e06fe8cc48b6f3a3b19f5337d2b85b1fe4b795f6"
+    },
+    {
+      "articleKey": "p39",
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/02/Tudor-Pelagos-LHD-M25610TNL-0001.016.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1202
+      ],
+      "sha256": "6168b20d6f036843efabf68797d2a0acc5959e2cc802a146bf3c50980cd672ad"
+    },
+    {
+      "articleKey": "p39",
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2021/11/Tudor-Pelagos-FXD-M25707B-7784.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "8f260a8cbd14dad9c2fb6702c04433c7549ea187874504403cbf96eee1b616e7"
+    },
+    {
+      "articleKey": "p39",
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/08/Tudor-Pelagos-39-M25407N-0001.001.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/",
+      "alt": "Tudor Pelagos 39",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "1402f9d5ab0abd5c91a9186094d63bbf18c1b457673db1453b80cc78217ac1ce"
+    },
+    {
+      "articleKey": "p39",
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/08/Tudor-Pelagos-39-M25407N-0001.019.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "f96813f31da15f6e92ecf5e408b4b6c42b1fce5aa9baa311be74266acd8dc5f9"
+    },
+    {
+      "articleKey": "p39",
+      "index": 9,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/08/Tudor-Pelagos-39-M25407N-0001.026.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/",
+      "alt": "Tudor Pelagos 39",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "97eeaaa49669e291c4aa41a975672b0864c8e431e3418b0278ea726082bd51a7"
+    },
+    {
+      "articleKey": "p39",
+      "index": 10,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/08/Tudor-Pelagos-39-M25407N-0001.028.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "d4a7254030f1366d82ade1a1747e3ffaaf6a87053364ade26f1709994799d423"
+    },
+    {
+      "articleKey": "p39",
+      "index": 11,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/08/Tudor-Pelagos-39-M25407N-0001.018.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "b1414036e0649f5ab59fa21fa65e36d02c811fd6188da75213d5799c2490ef19"
+    },
+    {
+      "articleKey": "p39",
+      "index": 12,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/08/Tudor-Pelagos-39-M25407N-0001.003.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "b5f3896b7aded718c4436fc0de73b0343181ef720026073d64e1c8095f76546a"
+    },
+    {
+      "articleKey": "p39",
+      "index": 13,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/08/Tudor-Pelagos-39-M25407N-0001.006.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "be34316210d578d55485431dfe5e482850901994e687da3e33eb012cadc3b499"
+    },
+    {
+      "articleKey": "p39",
+      "index": 14,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/08/Tudor-Pelagos-39-M25407N-0001.005.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "ed422edeec56f11b58fe8c94e852657b5ba5cb72f49fd792a70deac949e72af9"
+    },
+    {
+      "articleKey": "p39",
+      "index": 15,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/08/Tudor-Pelagos-39-M25407N-0001.008.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "854b639da365a77bab6b7f01793d9368444d681a2c493b43f2eab9f16a1a1b69"
+    },
+    {
+      "articleKey": "p39",
+      "index": 16,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/08/Tudor-Pelagos-39-M25407N-0001.009.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "a98a7eb1658d44e41b2c90c452b694225a62abf73b22db59e7d68597bc1f09a3"
+    },
+    {
+      "articleKey": "p39",
+      "index": 17,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/08/Tudor-Pelagos-39-M25407N-0001.011.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "86658cb4672f5fc45e541737f4b1c16d6cd890bf6fca4d8fc5351435794209fb"
+    },
+    {
+      "articleKey": "p39",
+      "index": 18,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/08/Tudor-Pelagos-39-M25407N-0001.021.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "612de89ad11298e68d00e190c0e855092e6fefcb63476de520bba863ef8c4080"
+    },
+    {
+      "articleKey": "p39",
+      "index": 19,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/08/Tudor-Pelagos-39-M25407N-0001.014.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "cad848a64621eaa68b5be145191736c67b3cda61574f1fed8537a1ec5a900a6a"
+    },
+    {
+      "articleKey": "p39",
+      "index": 20,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/08/Tudor-Pelagos-39-M25407N-0001.016.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "9a3f382bf58685c878dcc91696fa594c2464c86a1ddc065ecd0e56ba18fead48"
+    },
+    {
+      "articleKey": "p39",
+      "index": 21,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/09/Tudor-Pelagos-39-wrist-shot-.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "8c96fc0ca63d81a25792cd53b752aee783808a163ca94f61112d6aea819ba7d0"
+    },
+    {
+      "articleKey": "p39",
+      "index": 22,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/08/Tudor-Pelagos-39-M25407N-0001.030.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "525e1c334874396d77fe3147d9f195c728983e0df1f64385b68528c7c2a9a329"
+    },
+    {
+      "articleKey": "p39",
+      "index": 23,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/08/Tudor-Pelagos-39-M25407N-0001.022.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "63077bf5ad6dd4de29c902565528eb400e2c184882687766dfafeb35c092bccd"
+    },
+    {
+      "articleKey": "alinghi",
+      "index": 20,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/07/Tudor-FXD-Alinghi-Red-Bull-Hands-On-17.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-alinghi-red-bull-racing/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "e6c9d81561422f47407fd0480335c034b1277dfb6b2a822e4a3684771c34314b"
+    },
+    {
+      "articleKey": "alinghi",
+      "index": 21,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/07/Tudor-FXD-Alinghi-Red-Bull-Hands-On-18.jpg",
+      "source": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-alinghi-red-bull-racing/",
+      "alt": "",
+      "status": "decoded",
+      "dimensions": [
+        1200,
+        1800
+      ],
+      "sha256": "0a69a034da01c53325c254aeb88c0f5001e83c8d0b151877be98634c9efa49ad"
+    }
+  ]
+}

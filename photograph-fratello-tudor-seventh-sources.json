@@ -1,0 +1,1093 @@
+{
+  "version": 1,
+  "reviewedAt": "2026-10-09T09:29:30.148325+00:00",
+  "articleImagesInspected": 77,
+  "reviewedArticles": [
+    {
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-rolex-sea-dweller-ref-16600/",
+      "primarySource": "https://www.tudorwatch.com/en/watches/pelagos/m25600tn-0001",
+      "reference": "25600TN",
+      "inventoryKeysReviewed": [
+        "25600TN",
+        "25600TN-0001",
+        "M25600TN",
+        "M25600TN-0001"
+      ],
+      "imagesInspected": 19,
+      "selectedImages": [
+        [
+          "front",
+          9,
+          "Actual right-hand crown black Pelagos with five-line COSC / ROTOR SELF-WINDING / 500m-1640ft dial, white snowflake hands and markers, matte black ceramic bezel and titanium three-link bracelet. Manufacturer corroborates M25600TN-0001; no LHD or Ultra execution inherited."
+        ]
+      ],
+      "referenceEvidence": "Specialist article identifies the second-generation 2015 black/blue MT5612 Pelagos. Actual selected black specimen has right-hand crown, white markers and five-line COSC dial. Exact current manufacturer identifies M25600TN-0001 black, 42 mm titanium/steel, 500 m, MT5612 and titanium bracelet. Mixed article back image 12 is stamped 25610T and is not paired with this right-hand specimen; it and unpaired clasp image 13 are withheld. Isolated movement image 18 is Rolex, not MT5612. No actual opened MT5612 or safely paired back/clasp detail established.",
+      "imageOccurrences": 20
+    },
+    {
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-the-pelagos-provocation-pelagos-vs-pelagos-39/",
+      "inventoryKeysReviewed": [],
+      "imagesInspected": 13,
+      "selectedImages": [],
+      "referenceEvidence": "All available photographs visually inspected. These comparison sources repeat other specimens and do not establish the unresolved black Chrono five-link suffix. Earlier three-link white/black Chrono, LHD, Ultra, Pelagos 39 and unrelated watches are not inherited.",
+      "imageOccurrences": 14
+    },
+    {
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "inventoryKeysReviewed": [],
+      "imagesInspected": 18,
+      "selectedImages": [],
+      "referenceEvidence": "All available photographs visually inspected. These comparison sources repeat other specimens and do not establish the unresolved black Chrono five-link suffix. Earlier three-link white/black Chrono, LHD, Ultra, Pelagos 39 and unrelated watches are not inherited.",
+      "imageOccurrences": 18
+    },
+    {
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/two-for-tuesday-tudor-black-bay-vs-pelagos/",
+      "inventoryKeysReviewed": [],
+      "imagesInspected": 15,
+      "selectedImages": [],
+      "referenceEvidence": "All available photographs visually inspected. These comparison sources repeat other specimens and do not establish the unresolved black Chrono five-link suffix. Earlier three-link white/black Chrono, LHD, Ultra, Pelagos 39 and unrelated watches are not inherited.",
+      "imageOccurrences": 15
+    },
+    {
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-zodiac-sea-chron-vs-tudor-black-bay-chrono/",
+      "inventoryKeysReviewed": [],
+      "imagesInspected": 12,
+      "selectedImages": [],
+      "referenceEvidence": "All available photographs visually inspected. These comparison sources repeat other specimens and do not establish the unresolved black Chrono five-link suffix. Earlier three-link white/black Chrono, LHD, Ultra, Pelagos 39 and unrelated watches are not inherited.",
+      "imageOccurrences": 12
+    }
+  ],
+  "manufacturerAccess": [
+    {
+      "source": "https://www.tudorwatch.com/en/watches/pelagos/m25600tn-0001",
+      "status": 200,
+      "specification": "M25600TN-0001 / black / 42 mm / MT5612 / titanium bracelet"
+    }
+  ],
+  "note": "All 77 decodable main article images visually inspected; two unavailable image occurrences remain unresolved, not counted as inspected. No model identity inferred from filenames; mixed back stamped 25610T and unpaired clasp withheld from 25600TN. Comparison specimens and isolated Rolex movement excluded.",
+  "access": [
+    {
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/02/Girard-Perregaux-Laureato-Infinity-Edition-81010-11-635-11A.002.jpg",
+      "alt": "",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-rolex-sea-dweller-ref-16600/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "7051fae3ca9685e605642d97d4b6d0cc6a8214990f727e559f595c7e3a7f1e59"
+    },
+    {
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2021/02/Rolex-Sea-Dweller-16600-Ropes.001.jpg",
+      "alt": "",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-rolex-sea-dweller-ref-16600/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "55568d5af56089e9cf545b9ab00a5b90a470f348970bb602d1a8640a64c34340"
+    },
+    {
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/11/011_Pelagos-Titanium-Gents-25600TN.jpg",
+      "alt": "",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-rolex-sea-dweller-ref-16600/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "c599cf65c67a981eb1e60d8e9ae055f2a2881dbfba3b5fec9e9a7efc9fcd94e0"
+    },
+    {
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/11/006_Pelagos-Titanium-Gents-25600TN.jpg",
+      "alt": "Tudor Pelagos",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-rolex-sea-dweller-ref-16600/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "cbd22fd99d451796025b72b4e14ee9f0bacebc3e46183e2c41d931782a1789ec"
+    },
+    {
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/03/009_Pelagos-Titanium-Gents-25600TN.jpeg",
+      "alt": "Tudor Pelagos",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-rolex-sea-dweller-ref-16600/",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256": "0273b87330cbe1f914f6df6483578ebddf9c33255aab1b1bb26684d8cf945818"
+    },
+    {
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/03/008_Tudor-Pelagos-42mm-Titanium-25600TN.jpeg",
+      "alt": "Tudor Pelagos",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-rolex-sea-dweller-ref-16600/",
+      "status": "decoded",
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "sha256": "0e84e6bfd7d4eb92187c1cf64801d5f60c6d4742a0e9d112cae50d953efee134"
+    },
+    {
+      "index": 9,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/11/009_Pelagos-Titanium-Gents-25600TN.jpg",
+      "alt": "Tudor Pelagos",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-rolex-sea-dweller-ref-16600/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "b850beeb6ded85b012d7c627e3bde32d0ebe72efe75d596da3a15cc22c19f6f9"
+    },
+    {
+      "index": 10,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/03/002_Pelagos-Titanium-Gents-25600TN.jpeg",
+      "alt": "Tudor Pelagos",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-rolex-sea-dweller-ref-16600/",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256": "c0cbaacf490a15e8001ad9d03f90bc607da519effd4f9b385df941eb6738ac4a"
+    },
+    {
+      "index": 11,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/03/Tudor-Pelagos-LHD-M25610TNL-0001.011.jpg",
+      "alt": "Tudor Pelagos",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-rolex-sea-dweller-ref-16600/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1202
+      ],
+      "sha256": "59b377ef72f2d476f201b84eb9171327b64050fbba99399c3f007023c01bec04"
+    },
+    {
+      "index": 12,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/03/Tudor-Pelagos-LHD-M25610TNL-0001.008.jpg",
+      "alt": "Tudor Pelagos",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-rolex-sea-dweller-ref-16600/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1202
+      ],
+      "sha256": "2828d9b045f493ae760d98036ed3c28eb916343abd13ee82339ed4cf66526c38"
+    },
+    {
+      "index": 13,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/03/Tudor-Pelagos-LHD-M25610TNL-0001.015.jpg",
+      "alt": "Tudor Pelagos",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-rolex-sea-dweller-ref-16600/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1202
+      ],
+      "sha256": "867164d89ddc1c4e4ccc941fdcdaf120fde5edbc4da74f524d274788f699925d"
+    },
+    {
+      "index": 14,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/11/Tudor_Tudor_Pelagos_5D3_0063-3-Edit-2-1.jpg",
+      "alt": "Tudor Pelagos",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-rolex-sea-dweller-ref-16600/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "e220bb42982ed10b1d29d3348b5f0645a1cb1f1f3ec11c446e1b54b4236a9c7a"
+    },
+    {
+      "index": 15,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2021/07/Rolex-Sea-Dweller-16600-WS-RJ.001.jpg",
+      "alt": "Rolex Sea-Dweller 16600",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-rolex-sea-dweller-ref-16600/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "55fcb5d70b14f68112d8c1da56ec33bdef02e898378396ea0654d5472fef9921"
+    },
+    {
+      "index": 16,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2021/07/Rolex-Sea-Dweller-16600-WS-RJ.005.jpg",
+      "alt": "Rolex Sea-Dweller 16600",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-rolex-sea-dweller-ref-16600/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "3ca6133b51b35ec0d46608d606d8506dfaaaac75474801d5e29ec5e169995baf"
+    },
+    {
+      "index": 17,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/05/Rolex-DD-SD-3197.jpg",
+      "alt": "Rolex Day-Date 18238 Sea-Dweller 16600",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-rolex-sea-dweller-ref-16600/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "1cd648d83ab021854720ab9fb9ed47e0745d9c1307974f7fdee4293ebd36f267"
+    },
+    {
+      "index": 18,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2021/07/Rolexcaliber3135.jpg",
+      "alt": "",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-rolex-sea-dweller-ref-16600/",
+      "status": "decoded",
+      "dimensions": [
+        1200,
+        1156
+      ],
+      "sha256": "d9f2ecaf24518dd6bab75abfa44bf0942ddcba0791b869ea03e640870ca3093e"
+    },
+    {
+      "index": 19,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2021/07/RolexSeaDweller16600RJ-3.jpg",
+      "alt": "",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-rolex-sea-dweller-ref-16600/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "ec7e47ac391f4fbb2fb176f574bd0edce8dd9c625c630b3f33234261ca40c900"
+    },
+    {
+      "index": 20,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2021/07/Rolex-Sea-Dweller-16600-WS-RJ.007.jpg",
+      "alt": "",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-rolex-sea-dweller-ref-16600/",
+      "error": "HTTP Error 524: Unknown"
+    },
+    {
+      "index": 21,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/02/Tudor-Pelagos-LHD-M25610TNL-0001.016.jpg",
+      "alt": "",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-rolex-sea-dweller-ref-16600/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1202
+      ],
+      "sha256": "6168b20d6f036843efabf68797d2a0acc5959e2cc802a146bf3c50980cd672ad"
+    },
+    {
+      "index": 22,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2021/07/RolexSeaDweller16600RJ-1.jpg",
+      "alt": "",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-rolex-sea-dweller-ref-16600/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "599c57358f9adab2096a4aebc33f8aefc50ec8023e3f349cff7f8913c6d0566e"
+    },
+    {
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/10/vac-overseas-chrono-5500v-110r-b952-lfst-1.jpg",
+      "alt": "",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-the-pelagos-provocation-pelagos-vs-pelagos-39/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "c636baff59698cdae51937bb52614ca8ccb4b3326e40c206d0d6b459e4a819e7"
+    },
+    {
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/11/Tudor-Pelagos-39-st-3.jpg",
+      "alt": "",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-the-pelagos-provocation-pelagos-vs-pelagos-39/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "7256b33a6f19c8e974ddb9337464dcab04727c1ada920ff6ced8babe8878baa0"
+    },
+    {
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/11/Tudor-Pelagos-39-st-1.jpg",
+      "alt": "",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-the-pelagos-provocation-pelagos-vs-pelagos-39/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "b133b61fe14269df828acf75912861d16af280d9cb7b25574287656fb31c3d12"
+    },
+    {
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/11/Tudor-Pelagos-39-st-6.jpg",
+      "alt": "",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-the-pelagos-provocation-pelagos-vs-pelagos-39/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "88f716b0b98f2e2196c54452cb00511432e792ee026eb53679f5c25b1c35de7b"
+    },
+    {
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/11/Tudor-Pelagos-39-st-10.jpg",
+      "alt": "",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-the-pelagos-provocation-pelagos-vs-pelagos-39/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "72931f863624a6c799eced8adef32aa9b8db0aeea2d085a45a8ae6206c07205f"
+    },
+    {
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/11/Tudor-Pelagos-39-st-2.jpg",
+      "alt": "",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-the-pelagos-provocation-pelagos-vs-pelagos-39/",
+      "error": "HTTP Error 524: Unknown"
+    },
+    {
+      "index": 9,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/11/Tudor-Pelagos-39-st-8.jpg",
+      "alt": "",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-the-pelagos-provocation-pelagos-vs-pelagos-39/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "0d24d0287e5955980f221ded6c89363181174a6e9cb1bcbeaee21a454fdb1f6c"
+    },
+    {
+      "index": 10,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/11/tudor-m25600tn-00045.jpg",
+      "alt": "Tudor Pelagos",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-the-pelagos-provocation-pelagos-vs-pelagos-39/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "47dd5a2f32678c7b92b01a5de3c07afe13d04839317c1bbd8a89fbf457826f3a"
+    },
+    {
+      "index": 11,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/11/002_Pelagos-Titanium-Gents-25600TN.jpg",
+      "alt": "Tudor Pelagos",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-the-pelagos-provocation-pelagos-vs-pelagos-39/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "0113b26f1ea9eb5fbdc14de40c159a891330a94565ebd2290727cd3bc324dead"
+    },
+    {
+      "index": 12,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/11/tudor-m25600tn-0001.jpg",
+      "alt": "Tudor Pelagos",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-the-pelagos-provocation-pelagos-vs-pelagos-39/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "161e5f1d19578dd557ae4f637cb65476885d98a5f043773f5b034f4eeb78e08c"
+    },
+    {
+      "index": 13,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/11/Tudor_Tudor_Pelagos_5D3_0063-3-Edit-2-1.jpg",
+      "alt": "Tudor Pelagos",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-the-pelagos-provocation-pelagos-vs-pelagos-39/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "e220bb42982ed10b1d29d3348b5f0645a1cb1f1f3ec11c446e1b54b4236a9c7a"
+    },
+    {
+      "index": 14,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/11/006_Pelagos-Titanium-Gents-25600TN.jpg",
+      "alt": "Tudor Pelagos",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-the-pelagos-provocation-pelagos-vs-pelagos-39/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "cbd22fd99d451796025b72b4e14ee9f0bacebc3e46183e2c41d931782a1789ec"
+    },
+    {
+      "index": 15,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/11/011_Pelagos-Titanium-Gents-25600TN.jpg",
+      "alt": "Tudor Pelagos",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-the-pelagos-provocation-pelagos-vs-pelagos-39/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "c599cf65c67a981eb1e60d8e9ae055f2a2881dbfba3b5fec9e9a7efc9fcd94e0"
+    },
+    {
+      "index": 16,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/11/tudor-m25600tn-0001-2.jpg",
+      "alt": "Tudor Pelagos",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-the-pelagos-provocation-pelagos-vs-pelagos-39/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "04c3b061813af46ac5981de8d5a8cb2b34c1e9f7484b267d58f0e0504a241d46"
+    },
+    {
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/JLC-Reverso-Tribute-Monoface-Small-Seconds-Pink-Gold-on-Mesh-2.jpg",
+      "alt": "pink gold Jaeger-LeCoultre Reverso Tribute Monoface Small Seconds with mesh bracelet, on corner of tray",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1201,
+        1800
+      ],
+      "sha256": "191264cda67752d30c2354192c82d90ebe80d26a55dc30af8b015cca3a6fc194"
+    },
+    {
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-2-1.jpg",
+      "alt": "Tudor Pelagos Ultra face up",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "812c6ca8b904295f77d92385ad91406d3f89c7062943b87f3c04d5aa05c188cb"
+    },
+    {
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-4-1.jpg",
+      "alt": "Tudor Pelagos Ultra on bracelet and rubber strap, flat",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "bcdaef004f3328bb3a2c18294f1a3689b9da75f8c81bb41b262ce8be6c6fb0d1"
+    },
+    {
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-5-1.jpg",
+      "alt": "Tudor Pelagos Ultra on wrist, arms crossed",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "00048327e6b51e3003e3c3711c8ba445b3f62ba5084d640b12c4bc0c5f475a65"
+    },
+    {
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-4-2.jpg",
+      "alt": "Tudor Pelagos Ultra case profile from crown side",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "09365fc80e87b13eaee92cbc9304c0c01f2b25716afc5efdcce97fbe023327c0"
+    },
+    {
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-3-1.jpg",
+      "alt": "Tudor Pelagos Ultra face down, clasp closed",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "0368f0b7e8ce10c7fe17ca51605d7efee241f6d6aeeff1e7bc7435438cfdddbc"
+    },
+    {
+      "index": 9,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-1.jpg",
+      "alt": "Tudor Pelagos Ultra dial close up",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "3f09806a04e91c745076820bbad1a5c8c1e5e1f145619fed4b401d576a2b38ce"
+    },
+    {
+      "index": 10,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-19.jpg",
+      "alt": "Tudor Pelagos Ultra on rubber strap, flat",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "3d8c79c78b486110bbd61f042421ec058558c9fc66e014ca040e5a3801e747d6"
+    },
+    {
+      "index": 11,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-7.jpg",
+      "alt": "Tudor Pelagos Ultra indexes and dial text",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "1c2aaa6a5056d7448c9a04a8745eba55a386392487509979f7b5aa6fbbfc8ca5"
+    },
+    {
+      "index": 12,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-14.jpg",
+      "alt": "Tudor Pelagos Ultra pocket shot",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "0e38c121c664d59d649d2eda015da8e60395830e7266a5bb545b7295113ae145"
+    },
+    {
+      "index": 13,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-15.jpg",
+      "alt": "Tudor Pelagos Ultra on wrist",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "d53283b9b53d3c657728d721772b5e55dfd645dff9050112d7f9e48bb6f55169"
+    },
+    {
+      "index": 14,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-17.jpg",
+      "alt": "",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "a1109b3b3985d0b8f7472f2ec9981645ae6f62344b965f1f7df30b36ff861b6a"
+    },
+    {
+      "index": 15,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-LHD-5.jpg",
+      "alt": "Tudor Pelagos LHD flat",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "cfe565faa9b9bf98455575214fdd350a70adb9278c2ed814805bbfba2b16123f"
+    },
+    {
+      "index": 16,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-LHD-7.jpg",
+      "alt": "",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "fc2ed2b2b43486c427a5a71e4bf89ad58a09ab241f6084886c6fafdc2bc5d60f"
+    },
+    {
+      "index": 17,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-LHD-8.jpg",
+      "alt": "Tudor Pelagos LHD up close",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "9e689ae66b3fc9a70f026372e9993bf959317c53dd9a174c5a82f14abece88c9"
+    },
+    {
+      "index": 18,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-LHD-10.jpg",
+      "alt": "Tudor Pelagos LHD crown up",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "5a458e4bb7f0a8ccf00a6aff535ca02ffca6458fcd23efd3287d71b2b035a6ed"
+    },
+    {
+      "index": 19,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-LHD-1.jpg",
+      "alt": "Tudor Pelagos LHD on wrist",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1200,
+        1800
+      ],
+      "sha256": "c5bd4df16fee24ce7c4fdb56221468abecf7aec7260100b5a5dcea19d1c81889"
+    },
+    {
+      "index": 20,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-LHD-17.jpg",
+      "alt": "Tudor Pelagos LHD case back",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "3fb6d405dc3054042e49893dcbcce9ba083e87f2d0f72f425cb67b8ea30cd9e6"
+    },
+    {
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2018/03/Tudor-Black-Bay-Fifty-Eight..013.jpg",
+      "alt": "",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/two-for-tuesday-tudor-black-bay-vs-pelagos/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "52e62df9f291b70918d5de3dfe60b7268df10ecaf60eef5d2be06e6deddc1ca2"
+    },
+    {
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2018/03/Tudor-Black-Bay-SG..008.jpg",
+      "alt": "bi-color Tudor Black Bay",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/two-for-tuesday-tudor-black-bay-vs-pelagos/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "a88b92f5ea6067263442dcfbbd0fa066d75b6e12c3b9e12889d9ffc8d8b66d16"
+    },
+    {
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/Tudor-Black-Bay-Dark-0704-1.jpg",
+      "alt": "",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/two-for-tuesday-tudor-black-bay-vs-pelagos/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "430955d30ecb2ef1ae7e433be8ec1960b44f18bf2bc4da504c37d2304b10db71"
+    },
+    {
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2020/07/Tudor-Heritage-Black-Bay-Blue-0719.jpg",
+      "alt": "",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/two-for-tuesday-tudor-black-bay-vs-pelagos/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "c8b9381ce34317892f37c0c89159108334b04f412d8ab9d6fbe62eaca37709cb"
+    },
+    {
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2017/03/Tudor-Black-Bay-SNG-9156.jpg",
+      "alt": "Tudor Heritage Black Bay Steel and Gold",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/two-for-tuesday-tudor-black-bay-vs-pelagos/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "f5d5e4c94b723613026559a13959a5f9b28710e290c0ba1c4c39995b72ccb86c"
+    },
+    {
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2020/07/Tudor-Heritage-Black-Bay-Steel1703229163.jpg",
+      "alt": "",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/two-for-tuesday-tudor-black-bay-vs-pelagos/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "b19b5f1763332c0c8a72ff440bf5e31d82d356537f3022b4428eb41a4872b99a"
+    },
+    {
+      "index": 9,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/Tudor-Black-Bay-Bronze-Dark-SBS-0713.jpg",
+      "alt": "",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/two-for-tuesday-tudor-black-bay-vs-pelagos/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "2086b04f26bf4ed6b5ca9d7fc370096ab1bc9d08e61305220c34eefcdc283ecf"
+    },
+    {
+      "index": 10,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2018/03/Tudor-Black-Bay-SG..006.jpg",
+      "alt": "",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/two-for-tuesday-tudor-black-bay-vs-pelagos/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "a385618512a0842c925edf73c092da8926c886431c9570500cead07c590318ff"
+    },
+    {
+      "index": 11,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2020/07/BB58NavyBlue_11.jpg",
+      "alt": "Black Bay 58 Navy Blue",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/two-for-tuesday-tudor-black-bay-vs-pelagos/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1800
+      ],
+      "sha256": "26e10ee24202eea6da846358759d71202fd428bfc086bd75752813a181a6d2ec"
+    },
+    {
+      "index": 12,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2016/11/Tudor-Pelagos-LHD-0304.jpg",
+      "alt": "",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/two-for-tuesday-tudor-black-bay-vs-pelagos/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "2cb0371c792751f1b1892afc5cc9b865f54b148c563d763dc4f6acd2fe644470"
+    },
+    {
+      "index": 13,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2016/11/Tudor-Pelagos-LHD-0296.jpg",
+      "alt": "",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/two-for-tuesday-tudor-black-bay-vs-pelagos/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "251b78093c1c861ea97ebb2c4b0ed4f082ac6ac33e43674ec2d2c056c8e8a85f"
+    },
+    {
+      "index": 14,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2016/11/Tudor-Pelagos-LHD-0291.jpg",
+      "alt": "Tudor Pelagos LHD",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/two-for-tuesday-tudor-black-bay-vs-pelagos/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "d122aae5f7752b1606898880ee4abaabf05cab941fa2e39556964ae6163260fc"
+    },
+    {
+      "index": 15,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2020/07/150318_DSC_5187.jpg",
+      "alt": "",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/two-for-tuesday-tudor-black-bay-vs-pelagos/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "545f2adcd91414b2d5c4bbad2aacc875d7273d67ec7c947588e1f02aa382e80e"
+    },
+    {
+      "index": 16,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2020/07/150318_DSC_5177.jpg",
+      "alt": "",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/two-for-tuesday-tudor-black-bay-vs-pelagos/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "8f4cead158144075d05e69b65e7f81eced4beed905ad1650cb8552675fdadf12"
+    },
+    {
+      "index": 17,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2016/11/Tudor-Pelagos-LHD-0323.jpg",
+      "alt": "",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/two-for-tuesday-tudor-black-bay-vs-pelagos/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "dd4d4d1285b4d54bea2188eb148eab36b5ef34176ee15183366b3704a6b7c881"
+    },
+    {
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/12/Formex-Baby-Reef-15.jpg",
+      "alt": "",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-zodiac-sea-chron-vs-tudor-black-bay-chrono/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "615e7be6568f2c9d877e9e6e1a078d37693b1fac4dd07040cbc1b2a090e959c9"
+    },
+    {
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/10/Zodiac-Sea-Chron-bracelet-2.jpg",
+      "alt": "Zodiac Sea-Chron",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-zodiac-sea-chron-vs-tudor-black-bay-chrono/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "5dd6588a490003d2ac8f4d1a2e25ea89b4e5f83f84e4254595fc2d757b8bb530"
+    },
+    {
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/08/Zodiac-Sea-Chron-panda-tropic-rubber-1.jpg",
+      "alt": "Best Watches Under €3,000 Zodiac Sea-Chron",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-zodiac-sea-chron-vs-tudor-black-bay-chrono/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "86899d12767753955a02f4dca368809ac026cf8decab80d5c4e8fdb01a6cd8ea"
+    },
+    {
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/10/Zodiac-Sea-Chron-bracelet-1.jpg",
+      "alt": "Zodiac Sea-Chron",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-zodiac-sea-chron-vs-tudor-black-bay-chrono/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "17b14d267be006d9d2948392853d25e6acbb52dc4a4b69059f7ac01234a7aca6"
+    },
+    {
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/08/Zodiac-Sea-Chron-panda-tropic-rubber-4.jpg",
+      "alt": "",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-zodiac-sea-chron-vs-tudor-black-bay-chrono/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "38e6ba921f20417ad04484276c7c30e226d8ad7f718a7fc5db041e77fd52efec"
+    },
+    {
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/10/Zodiac-Sea-Chron-Underwater-6.jpg",
+      "alt": "",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-zodiac-sea-chron-vs-tudor-black-bay-chrono/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "7dade870a31d4343d562f7a1ef5e65a6b159b92214ae5adb2d9bc9310a70ca66"
+    },
+    {
+      "index": 9,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/10/Zodiac-Sea-Chron-Underwater-8.jpg",
+      "alt": "",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-zodiac-sea-chron-vs-tudor-black-bay-chrono/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "47cce6ebc42cf42eaebd3a82ac69e2932d26cc3d07abc5b24505216366208a6b"
+    },
+    {
+      "index": 10,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/01/Tudor-Black-Bay-Chrono-8-1.jpg",
+      "alt": "",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-zodiac-sea-chron-vs-tudor-black-bay-chrono/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "fe6215abf66f167b6078c84e72fc0874ec3d937d0adc28e03fcb634c4a93e31f"
+    },
+    {
+      "index": 11,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/01/Tudor-Black-Bay-Chrono-9-1.jpg",
+      "alt": "",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-zodiac-sea-chron-vs-tudor-black-bay-chrono/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "107811bd86f6c31d2acdb82729fbe425ee919d95cefd87f2d3865a156618c248"
+    },
+    {
+      "index": 12,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/01/Tudor-Black-Bay-Chrono-4-1.jpg",
+      "alt": "",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-zodiac-sea-chron-vs-tudor-black-bay-chrono/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "20dfcbf44bad93303d5d0e4a199d8e9caa1d92bfac31aaff012ebe814fbb6139"
+    },
+    {
+      "index": 13,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/01/Tudor-Black-Bay-Chrono-2-1.jpg",
+      "alt": "",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-zodiac-sea-chron-vs-tudor-black-bay-chrono/",
+      "status": "decoded",
+      "dimensions": [
+        1200,
+        1800
+      ],
+      "sha256": "86393bb6f4ff4e029c037809e984fc4c7b480a800cfe7ab4ffafa82545ccccfe"
+    },
+    {
+      "index": 14,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2024/01/Tudor-Black-Bay-Chrono-6-1.jpg",
+      "alt": "",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-zodiac-sea-chron-vs-tudor-black-bay-chrono/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "366e53750af66b15820c84251e3385669a90ec530c98ded16c8b9bb2d9f7bd42"
+    }
+  ],
+  "articleImageOccurrences": 79
+}

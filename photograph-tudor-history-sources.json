@@ -1,0 +1,650 @@
+{
+  "version": 1,
+  "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
+  "note": "Actual historical manufacturer specimen galleries inspected. Section identification governs over misleading media filenames. No neighbouring model or generic shared-calibre inference. Collection labels and temporary stickers are not factory marking requirements.",
+  "pages": [
+    {
+      "page": 0,
+      "source": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1954-to-1968",
+      "images": [
+        {
+          "index": 0,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1360/v1/tudorwatch/history/history-the-submariners-from-1954-to-1968/assets/tudor-history-the-submariners-from-1954-to-1968-cover_portrait",
+          "dimensions": [
+            1360,
+            1820
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 1,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-submariners-from-1954-to-1968/assets/tudor-history-1954-oyster-prince-submariner-7922-01-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 2,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-submariners-from-1954-to-1968/assets/tudor-history-1954-oyster-prince-submariner-7922-02-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 3,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-submariners-from-1954-to-1968/assets/tudor-history-1955-oyster-submariner-7923-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 4,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1360/v1/tudorwatch/history/history-the-submariners-from-1954-to-1968/assets/tudor-oyster-prince-submariner-big-crown-7924-desktop-portrait",
+          "dimensions": [
+            1360,
+            1820
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 5,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-submariners-from-1954-to-1968/assets/tudor-history-1959-oyster-prince-submariner-square-crown-guards-01-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 6,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-submariners-from-1954-to-1968/assets/tudor-history-1959-oyster-prince-submariner-square-crown-guards-02-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 7,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1360/v1/tudorwatch/history/history-the-submariners-from-1954-to-1968/assets/tudor-history-1959-oyster-prince-submariner-square-crown-guards-03-desktop-portrait",
+          "dimensions": [
+            1360,
+            1820
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 8,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-submariners-from-1954-to-1968/assets/tudor-history-1960-oyster-prince-submariner-pointed-crown-guards-01-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 9,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-submariners-from-1954-to-1968/assets/tudor-history-1960-oyster-prince-submariner-pointed-crown-guards-02-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 10,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1360/v1/tudorwatch/history/history-the-submariners-from-1954-to-1968/assets/tudor-history-1964-oyster-prince-submariner-navy-desktop-portrait",
+          "dimensions": [
+            1360,
+            1820
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 11,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-submariners-from-1954-to-1968/assets/tudor-history-1964-oyster-prince-submariner-tropical-01-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 12,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-submariners-from-1954-to-1968/assets/tudor-history-1964-oyster-prince-submariner-tropical-02-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 13,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1360/v1/tudorwatch/history/history-the-submariners-from-1954-to-1968/assets/tudor-history-1967-oyster-submariner-01-desktop-portrait",
+          "dimensions": [
+            1360,
+            1820
+          ],
+          "status": "decoded"
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "source": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-submariners-1969-to-1999",
+      "images": [
+        {
+          "index": 0,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1360/v1/tudorwatch/history/history-the-submariners-from-1969-to-1999/assets/tudor-history-tudor-prince-oysterdate-submariner-79090-cover_desktop_portrait",
+          "dimensions": [
+            1360,
+            1820
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 1,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-submariners-from-1969-to-1999/assets/tudor-history-1969-oyster-prince-submariner-7016-carrousel-01-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 2,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-submariners-from-1969-to-1999/assets/tudor-history-1969-oyster-prince-submariner-7016-carrousel-02-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 3,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-submariners-from-1969-to-1999/assets/tudor-history-1969-oyster-prince-submariner-7021-carrousel-01-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 4,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-submariners-from-1969-to-1999/assets/tudor-history-1969-oyster-prince-submariner-7021-carrousel-02-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 5,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1360/v1/tudorwatch/history/history-the-submariners-from-1969-to-1999/assets/tudor-history-the-submariners-from-1954-to-1968-desktop-portrait",
+          "dimensions": [
+            1360,
+            1820
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 6,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-submariners-from-1969-to-1999/assets/tudor-history-1975-oyster-prince-submariner-9401-carrousel-01-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 7,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-submariners-from-1969-to-1999/assets/tudor-history-1975-oyster-prince-submariner-9401-carrousel-02-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 8,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1360/v1/tudorwatch/history/history-the-submariners-from-1969-to-1999/assets/tudor-history-1995-prince-date-submariner-79190-01-desktop-portrait",
+          "dimensions": [
+            1360,
+            1820
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 9,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-submariners-from-1969-to-1999/assets/tudor-history-1995-prince-date-submariner-79190-carrousel-01-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 10,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-submariners-from-1969-to-1999/assets/tudor-history-1995-prince-date-submariner-79190-carrousel-02-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 11,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1360/v1/tudorwatch/history/history-the-submariners-from-1969-to-1999/assets/tudor-history-1995-prince-date-submariner-79190-02-desktop-portrait",
+          "dimensions": [
+            1360,
+            1820
+          ],
+          "status": "decoded"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "source": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1970",
+      "images": [
+        {
+          "index": 0,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1360/v1/tudorwatch/history/history-the-chronographs-1970/assets/history-chronographs-1970-pportrait",
+          "dimensions": [
+            1360,
+            1820
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 1,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-chronographs-1970/assets/tudor-history-the-chronographs-1970-tudor-oysterdate-first-series-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 2,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1360/v1/tudorwatch/history/history-the-chronographs-1970/assets/tudor-history-the-chronographs-1970-tudor-oysterdate-7031-02-desktop-portrait",
+          "dimensions": [
+            1360,
+            1820
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 3,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-chronographs-1970/assets/tudor-history-the-chronographs-1970-tudor-oysterdate-7031-carrousel-01-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 4,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1360/v1/tudorwatch/history/history-the-chronographs-1970/assets/tudor-history-the-chronographs-1970-tudor-oysterdate-7032-desktop-portrait",
+          "dimensions": [
+            1360,
+            1820
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 5,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-chronographs-1970/assets/tudor-history-the-chronographs-1970-tudor-oysterdate-7033-carrousel-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 6,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1360/v1/tudorwatch/history/history-the-chronographs-1970/assets/tudor-history-the-chronographs-1970-tudor-oysterdate-7031-01-desktop-portrait",
+          "dimensions": [
+            1360,
+            1820
+          ],
+          "status": "decoded"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "source": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1971-to-1976",
+      "images": [
+        {
+          "index": 0,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1360/v1/tudorwatch/history/history-the-chronographs-from-1971-to-1976/assets/history-chronographs-1971-to-1976-portrait",
+          "dimensions": [
+            1360,
+            1820
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 1,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-chronographs-from-1971-to-1976/assets/tudor-history-the-chronographs-1971-second-series-oysterdate-montecarlo-desktop",
+          "dimensions": [
+            1500,
+            1300
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 2,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-chronographs-from-1971-to-1976/assets/tudor-history-the-chronographs-1971-oysterdate-montecarlo-7169-01-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 3,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-chronographs-from-1971-to-1976/assets/tudor-history-the-chronographs-1971-oysterdate-montecarlo-7169-02-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 4,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1360/v1/tudorwatch/history/history-the-chronographs-from-1971-to-1976/assets/tudor-history-the-chronographs-1971-oysterdate-montecarlo-05-desktop-portrait",
+          "dimensions": [
+            1360,
+            1820
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 5,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-chronographs-from-1971-to-1976/assets/tudor-history-the-chronographs-1971-oysterdate-montecarlo-7149-02-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 6,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-chronographs-from-1971-to-1976/assets/tudor-history-the-chronographs-1971-oysterdate-montecarlo-7149-03-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 7,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-chronographs-from-1971-to-1976/assets/tudor-history-the-chronographs-1971-oysterdate-montecarlo-7149-04-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 8,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1360/v1/tudorwatch/history/history-the-chronographs-from-1971-to-1976/assets/tudor-history-the-chronographs-1971-oysterdate-montecarlo-06-desktop-portrait",
+          "dimensions": [
+            1360,
+            1820
+          ],
+          "status": "decoded"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "source": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1976-to-1991",
+      "images": [
+        {
+          "index": 0,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1360/v1/tudorwatch/history/history-the-chronographs-from-1976-to-1991/assets/history-chronographs-1976-to-1991-portrait",
+          "dimensions": [
+            1360,
+            1820
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 1,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-chronographs-from-1976-to-1991/assets/tudor-history-the-chronographs-1976-third-series-tudor-prince-oysterdate-big-block-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 2,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1360/v1/tudorwatch/history/history-the-chronographs-from-1976-to-1991/assets/tudor-history-the-chronographs-from-1976-prince-oysterdate-big-block-9430-0-desktop-portrait",
+          "dimensions": [
+            1360,
+            1820
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 3,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-chronographs-from-1976-to-1991/assets/tudor-history-the-chronographs-1976-prince-oysterdate-big-block-exotic-01-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 4,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-chronographs-from-1976-to-1991/assets/tudor-history-the-chronographs-1976-prince-oysterdate-big-block-exotic-02-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 5,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1360/v1/tudorwatch/history/history-the-chronographs-from-1976-to-1991/assets/tudorhistorythechronographs1976princeoysterdatebigblockexoticsquareguardsdesktopportrait",
+          "dimensions": [
+            1360,
+            1820
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 6,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-chronographs-from-1976-to-1991/assets/tudor-history-the-chronographs-1989-prince-oysterdate-big-block-01-79160-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 7,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-chronographs-from-1976-to-1991/assets/tudor-history-the-chronographs-1989-prince-oysterdate-big-block-02-79160-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 8,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1360/v1/tudorwatch/history/history-the-chronographs-from-1976-to-1991/assets/tudor-history-the-chronographs-1992-prince-oysterdate-big-block-01-desktop-portrait",
+          "dimensions": [
+            1360,
+            1820
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 9,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-chronographs-from-1976-to-1991/assets/tudor-history-the-chronographs-1992-prince-oysterdate-big-block-02-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 10,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-chronographs-from-1976-to-1991/assets/tudor-history-the-chronographs-1992-prince-oysterdate-big-block-03-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 11,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1360/v1/tudorwatch/history/history-the-chronographs-from-1976-to-1991/assets/tudor-history-the-chronographs-1992-prince-oysterdate-big-block-04-desktop-portrait",
+          "dimensions": [
+            1360,
+            1820
+          ],
+          "status": "decoded"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "source": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1995-to-2000",
+      "images": [
+        {
+          "index": 0,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1360/v1/tudorwatch/history/history-the-chronographs-from-1995-to-2000/assets/history-chronographs-1995-to-2000-portrait",
+          "dimensions": [
+            1360,
+            1820
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 1,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-chronographs-from-1995-to-2000/assets/tudor-history-the-chronographs-1995-fourth-series-tudor-prince-oysterdate-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 2,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-chronographs-from-1995-to-2000/assets/tudor-history-the-chronographs-1995-tudor-prince-oysterdate-79280-01-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 3,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-chronographs-from-1995-to-2000/assets/tudor-history-the-chronographs-1995-tudor-prince-oysterdate-79280-02-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 4,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1360/v1/tudorwatch/history/history-the-chronographs-from-1995-to-2000/assets/tudor-history-the-chronographs-1996-tudor-prince-oysterdate-79260-03-desktop-portrait",
+          "dimensions": [
+            1360,
+            1820
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 5,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-chronographs-from-1995-to-2000/assets/tudor-history-the-chronographs-1996-tudor-prince-oysterdate-79260-01-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 6,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1920/v1/tudorwatch/history/history-the-chronographs-from-1995-to-2000/assets/tudor-history-the-chronographs-1996-tudor-prince-oysterdate-79260-02-desktop",
+          "dimensions": [
+            1500,
+            1830
+          ],
+          "status": "decoded"
+        },
+        {
+          "index": 7,
+          "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_1360/v1/tudorwatch/history/history-the-chronographs-from-1995-to-2000/assets/tudor-history-the-chronographs-from-2000-tudor-prince-oysterdate-79260-desktop-portrait",
+          "dimensions": [
+            1360,
+            1820
+          ],
+          "status": "decoded"
+        }
+      ]
+    }
+  ],
+  "reviewedIdentifiers": [
+    "7031/0",
+    "7032/0",
+    "7149/0",
+    "7169/0",
+    "79090",
+    "79160",
+    "79170",
+    "79180",
+    "79190",
+    "7922",
+    "7924",
+    "79260",
+    "7928",
+    "79280"
+  ],
+  "selectedPhotographIds": [
+    "tudor-history-7922-0-1-front",
+    "tudor-history-7922-0-2-movement",
+    "tudor-history-7924-0-4-front",
+    "tudor-history-7928-0-5-front",
+    "tudor-history-7928-0-6-movement",
+    "tudor-history-7928-0-8-front",
+    "tudor-history-7928-0-9-movement",
+    "tudor-history-7928-0-11-front",
+    "tudor-history-7928-0-12-movement",
+    "tudor-history-7928-0-13-front",
+    "tudor-history-79090-1-8-front",
+    "tudor-history-79190-1-9-front",
+    "tudor-history-79190-1-10-movement",
+    "tudor-history-70310-2-3-front",
+    "tudor-history-70310-2-2-movement",
+    "tudor-history-70310-2-2-caseback",
+    "tudor-history-71690-3-2-front",
+    "tudor-history-71690-3-3-movement",
+    "tudor-history-71490-3-4-front",
+    "tudor-history-71490-3-6-front",
+    "tudor-history-71490-3-7-movement",
+    "tudor-history-71490-3-5-caseback",
+    "tudor-history-79160-4-6-front",
+    "tudor-history-79160-4-7-movement",
+    "tudor-history-79170-4-9-front",
+    "tudor-history-79170-4-10-movement",
+    "tudor-history-79280-5-2-front",
+    "tudor-history-79280-5-3-movement",
+    "tudor-history-79260-5-5-front",
+    "tudor-history-79260-5-6-movement",
+    "tudor-history-79260-5-7-front"
+  ]
+}

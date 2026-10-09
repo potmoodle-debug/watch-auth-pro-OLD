@@ -1,0 +1,1777 @@
+{
+  "version": 1,
+  "catalogueLotsScanned": 1051,
+  "exactMatchingLotsFound": 124,
+  "candidateLotsSelectedForInvestigation": 9,
+  "candidateImagesDownloaded": 155,
+  "note": "Only explicitly reviewed lots have completed four-category investigation. Other matching lots remain discovery candidates. No public paperwork photograph is attached.",
+  "reviewedLots": [
+    {
+      "auction": "618",
+      "lot": "86",
+      "brand": "ROLEX",
+      "reference": "16523",
+      "source": "https://www.bukowskis.com/en/auctions/618/86-rolex-daytona-chronograph-inverted-6",
+      "galleryImagesInspected": 19,
+      "selectedImages": {
+        "braceletClasp": 6,
+        "caseback": 16,
+        "front": 0,
+        "movement": 14
+      },
+      "limitations": "Exact 16523 champagne inverted-six dial and 78363-SDT7/403 Oyster. Source dates the installed clasp 2002; a separate 1991 clasp is included, not pictured as the installed baseline. Green back sticker and aged adhesive are specimen condition. Internal 16500 does not create an alias.",
+      "movementEvidence": "Opened specimen visibly shows 4030, gilt Rolex 31-jewel rotor lettering and Zenith-derived automatic chronograph layout; visible movement 50219 matches the source. Some exposed surfaces show discoloration; this is specimen condition, not a required finish.",
+      "reviewedAt": "2026-10-09T07:56:16.202869+00:00"
+    },
+    {
+      "auction": "618",
+      "lot": "94",
+      "brand": "ROLEX",
+      "reference": "14060",
+      "source": "https://www.bukowskis.com/en/auctions/618/94-rolex-submariner",
+      "galleryImagesInspected": 15,
+      "selectedImages": {
+        "braceletClasp": 6,
+        "caseback": 14,
+        "front": 0,
+        "movement": 12
+      },
+      "limitations": "Exact 14060 two-line dial and 93150-EB12/501B Oyster. Back engraving Lennart Modig is personal, not a factory marking. Source documents service in 2011 and 2017. Do not attach the later 14060M execution.",
+      "movementEvidence": "Opened specimen shows the documented calibre 3000, gilt Rolex rotor lettering, red reversers and conventional balance execution. Visible movement serial 4519397 matches the source; keep distinct from later 14060M calibre 3130.",
+      "reviewedAt": "2026-10-09T07:56:16.202869+00:00"
+    },
+    {
+      "auction": "622",
+      "lot": "2083",
+      "brand": "ROLEX",
+      "reference": "126334",
+      "source": "https://www.bukowskis.com/en/auctions/622/2083-rolex-datejust-41",
+      "galleryImagesInspected": 21,
+      "selectedImages": {
+        "braceletClasp": 6,
+        "caseback": 17,
+        "front": 0,
+        "movement": 15
+      },
+      "limitations": "Exact 126334 white baton configuration and 72610-R6U/W7W Oyster. Representative dial/bracelet specimen only; bare reference does not establish any full catalogue suffix. Internal 2480 does not create aliases.",
+      "movementEvidence": "Source identifies calibre 3235. Opened specimen shows gilt Rolex lettering, crown rotor motif, bearing centre and blue hairspring, matching the documented modern Datejust 41 execution. Source movement number Z6M15337 is specimen-specific.",
+      "reviewedAt": "2026-10-09T07:56:16.202869+00:00"
+    },
+    {
+      "auction": "622",
+      "lot": "2098",
+      "brand": "ROLEX",
+      "reference": "1600",
+      "source": "https://www.bukowskis.com/en/auctions/622/2098-rolex-datejust",
+      "galleryImagesInspected": 17,
+      "selectedImages": {
+        "braceletClasp": 7,
+        "caseback": 14,
+        "front": 0,
+        "movement": 12
+      },
+      "limitations": "Exact 1600 silver baton/smooth bezel and Jubilee with clasp marked 3.64, end links 55. Internal 1600/I.64 and visible case/lug number 1037076 agree with the documented specimen; no fluted 1601 or engine-turned 1603 image is inherited.",
+      "movementEvidence": "Opened specimen visibly shows 1560, gilt Rolex 26-jewel rotor lettering, purple reversers and specific vintage bridge/rotor execution. Source identifies movement D57613; do not substitute later Datejust movements.",
+      "reviewedAt": "2026-10-09T07:56:16.202869+00:00"
+    },
+    {
+      "auction": "627",
+      "lot": "21",
+      "brand": "ROLEX",
+      "reference": "114060",
+      "source": "https://www.bukowskis.com/en/auctions/627/21-rolex-submariner",
+      "galleryImagesInspected": 17,
+      "selectedImages": {
+        "braceletClasp": 7,
+        "caseback": 4,
+        "front": 0
+      },
+      "limitations": "Exact 114060 black ceramic bezel and 97200-Z2K/0KY Oyster. Caseback category shows the closed plain back in an angled specimen view. Calibre 3130 is text only; no opened movement photo is published. Do not inherit later 124060 calibre 3230.",
+      "movementEvidence": "",
+      "reviewedAt": "2026-10-09T07:56:16.202869+00:00"
+    },
+    {
+      "auction": "627",
+      "lot": "37",
+      "brand": "ROLEX",
+      "reference": "6239",
+      "source": "https://www.bukowskis.com/en/auctions/627/37-rolex-cosmograph-daytona-chronograph-cherry-red-units-per-hour-300",
+      "galleryImagesInspected": 11,
+      "selectedImages": {
+        "braceletClasp": 6,
+        "caseback": 4,
+        "front": 0,
+        "movement": 7
+      },
+      "limitations": "Exact 6239 silver/black-counter configuration, steel units-per-hour 300 bezel and push buttons. Source dates installed 78350-VE/557 Oyster clasp around 1980, later than this circa 1967 case. Closed plain back is shown at an angle; internal source marking 6239 C.R.S is not used for other aliases.",
+      "movementEvidence": "Source identifies Valjoux 722-1; opened specimen visibly shows the Rolex-branded manual 17-jewel chronograph execution with column wheel and specific bridge layout. The visible plate marking is 722; suffix -1 comes from the source identification, not a claimed visible stamp.",
+      "reviewedAt": "2026-10-09T07:56:16.202869+00:00"
+    },
+    {
+      "auction": "627",
+      "lot": "56",
+      "brand": "ROLEX",
+      "reference": "268655",
+      "source": "https://www.bukowskis.com/en/auctions/627/56-rolex-yacht-master-37",
+      "galleryImagesInspected": 17,
+      "selectedImages": {
+        "braceletClasp": 4,
+        "caseback": 3,
+        "front": 0,
+        "movement": 10
+      },
+      "limitations": "Exact 268655 Everose-gold case/black bezel on Oysterflex, source strap/clasp reference 350557EF-1GS. Clasp selection shows exterior only; no unpictured inner codes are claimed. Internal back 2475 does not create a different reference.",
+      "movementEvidence": "Source identifies calibre 2236; opened compact Rolex automatic specimen shows gilt lettering, red reverser and specific compact bridge/rotor execution. Source movement number F519Y495 is specimen-specific; do not inherit the larger Yacht-Master 3135 or 3235.",
+      "reviewedAt": "2026-10-09T07:56:16.202869+00:00"
+    },
+    {
+      "auction": "627",
+      "lot": "79",
+      "brand": "ROLEX",
+      "reference": "218239",
+      "source": "https://www.bukowskis.com/en/auctions/627/79-rolex-day-date-ii",
+      "galleryImagesInspected": 19,
+      "selectedImages": {
+        "braceletClasp": 8,
+        "caseback": 5,
+        "front": 0,
+        "movement": 13
+      },
+      "limitations": "Exact 218239 silver baton configuration with 83219-RS/LT white-gold President. This specimen weight is not used as a universal authentication threshold. Internal back 2419 does not create an alias or later Day-Date 40 configuration.",
+      "movementEvidence": "Source identifies calibre 3156. Opened specimen shows gilt Rolex rotor lettering, blue hairspring and two-point balance bridge; visible movement serial 88V38571 matches the source. Keep distinct from Day-Date 36 calibre 3155 and later Day-Date 40 calibre 3255.",
+      "reviewedAt": "2026-10-09T07:56:16.202869+00:00"
+    },
+    {
+      "auction": "627",
+      "lot": "9",
+      "brand": "ROLEX",
+      "reference": "116622",
+      "source": "https://www.bukowskis.com/en/auctions/627/9-rolex-yacht-master-40",
+      "galleryImagesInspected": 19,
+      "selectedImages": {
+        "braceletClasp": 7,
+        "caseback": 5,
+        "front": 0,
+        "movement": 12
+      },
+      "limitations": "Exact 116622 blue dial configuration with 78800-6WA/F2T Oyster. Source identity is corroborated by the model/serial card and rehaut; private paperwork is not attached. Internal 2180 is shared tooling, not a lookup alias.",
+      "movementEvidence": "Opened specimen visibly shows 3135, gilt Rolex lettering, red reversers and blue hairspring with two-point balance bridge. Compare this execution rather than earlier 16622 conventional-hairspring execution or later 126622 calibre 3235.",
+      "reviewedAt": "2026-10-09T07:56:16.202869+00:00"
+    }
+  ],
+  "matchingCandidates": [
+    {
+      "source": "https://www.bukowskis.com/en/auctions/607/71-rolex-sea-dweller-great-white-mark-iii",
+      "auction": "607",
+      "lot": "71",
+      "reference": "1665",
+      "matches": [
+        [
+          "ROLEX",
+          "1665"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/607/72-rolex-submariner-red-mark-v",
+      "auction": "607",
+      "lot": "72",
+      "reference": "1680",
+      "matches": [
+        [
+          "ROLEX",
+          "1680"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/607/73-rolex-submariner-meters-first-gilt-dial",
+      "auction": "607",
+      "lot": "73",
+      "reference": "5513",
+      "matches": [
+        [
+          "ROLEX",
+          "5513"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/607/74-rolex-gmt-master",
+      "auction": "607",
+      "lot": "74",
+      "reference": "1675",
+      "matches": [
+        [
+          "ROLEX",
+          "1675"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/607/75-rolex-explorer-gilt-dial",
+      "auction": "607",
+      "lot": "75",
+      "reference": "1016",
+      "matches": [
+        [
+          "ROLEX",
+          "1016"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/607/76-rolex-datejust",
+      "auction": "607",
+      "lot": "76",
+      "reference": "16030",
+      "matches": [
+        [
+          "ROLEX",
+          "16030"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/607/78-rolex-explorer",
+      "auction": "607",
+      "lot": "78",
+      "reference": "114270",
+      "matches": [
+        [
+          "ROLEX",
+          "114270"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/610/36-tudor-chronograph-big-block",
+      "auction": "610",
+      "lot": "36",
+      "reference": "79180",
+      "matches": [
+        [
+          "TUDOR",
+          "79180"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/610/38-rolex-daytona-chronograph-225-bezel-inverted-6",
+      "auction": "610",
+      "lot": "38",
+      "reference": "16520",
+      "matches": [
+        [
+          "ROLEX",
+          "16520"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/610/71-rolex-day-date",
+      "auction": "610",
+      "lot": "71",
+      "reference": "18238",
+      "matches": [
+        [
+          "ROLEX",
+          "18238"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/610/82-rolex-datejust-tapestry-dial",
+      "auction": "610",
+      "lot": "82",
+      "reference": "16030",
+      "matches": [
+        [
+          "ROLEX",
+          "16030"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/610/84-rolex-submariner",
+      "auction": "610",
+      "lot": "84",
+      "reference": "5513",
+      "matches": [
+        [
+          "ROLEX",
+          "5513"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/610/86-rolex-submariner",
+      "auction": "610",
+      "lot": "86",
+      "reference": "5513",
+      "matches": [
+        [
+          "ROLEX",
+          "5513"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/610/87-rolex-submariner-underline-gilt-meters-first",
+      "auction": "610",
+      "lot": "87",
+      "reference": "5513",
+      "matches": [
+        [
+          "ROLEX",
+          "5513"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/610/89-rolex-gmt-master-ii",
+      "auction": "610",
+      "lot": "89",
+      "reference": "16710",
+      "matches": [
+        [
+          "ROLEX",
+          "16710"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/610/90-rolex-submariner",
+      "auction": "610",
+      "lot": "90",
+      "reference": "5513",
+      "matches": [
+        [
+          "ROLEX",
+          "5513"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/610/91-rolex-gmt-master-ii",
+      "auction": "610",
+      "lot": "91",
+      "reference": "16710",
+      "matches": [
+        [
+          "ROLEX",
+          "16710"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/610/93-rolex-sea-dweller-double-red-mark-iv",
+      "auction": "610",
+      "lot": "93",
+      "reference": "1665",
+      "matches": [
+        [
+          "ROLEX",
+          "1665"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/610/94-rolex-datejust-linen-dial",
+      "auction": "610",
+      "lot": "94",
+      "reference": "16030",
+      "matches": [
+        [
+          "ROLEX",
+          "16030"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/610/95-rolex-gmt-master-spider-dial",
+      "auction": "610",
+      "lot": "95",
+      "reference": "16750",
+      "matches": [
+        [
+          "ROLEX",
+          "16750"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/614/4-rolex-explorer-ii-steve-mcqueen-mark-iv-dial",
+      "auction": "614",
+      "lot": "4",
+      "reference": "1655",
+      "matches": [
+        [
+          "ROLEX",
+          "1655"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/614/7-rolex-submariner-white-mark-i",
+      "auction": "614",
+      "lot": "7",
+      "reference": "1680",
+      "matches": [
+        [
+          "ROLEX",
+          "1680"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/614/8-rolex-daytona-chronograph",
+      "auction": "614",
+      "lot": "8",
+      "reference": "16520",
+      "matches": [
+        [
+          "ROLEX",
+          "16520"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/614/18-rolex-gmt-master-ii",
+      "auction": "614",
+      "lot": "18",
+      "reference": "16710",
+      "matches": [
+        [
+          "ROLEX",
+          "16710"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/614/20-rolex-submariner-red-meters-first-mark-ii",
+      "auction": "614",
+      "lot": "20",
+      "reference": "1680",
+      "matches": [
+        [
+          "ROLEX",
+          "1680"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/614/27-rolex-cosmograph-daytona-chronograph",
+      "auction": "614",
+      "lot": "27",
+      "reference": "6263",
+      "matches": [
+        [
+          "ROLEX",
+          "6263"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/614/28-rolex-submariner-meters-first",
+      "auction": "614",
+      "lot": "28",
+      "reference": "5513",
+      "matches": [
+        [
+          "ROLEX",
+          "5513"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/614/32-rolex-submariner",
+      "auction": "614",
+      "lot": "32",
+      "reference": "16610",
+      "matches": [
+        [
+          "ROLEX",
+          "16610"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/614/36-rolex-submariner",
+      "auction": "614",
+      "lot": "36",
+      "reference": "5513",
+      "matches": [
+        [
+          "ROLEX",
+          "5513"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/614/42-rolex-submariner-red-mark-v",
+      "auction": "614",
+      "lot": "42",
+      "reference": "1680",
+      "matches": [
+        [
+          "ROLEX",
+          "1680"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/614/46-rolex-submariner-meters-first",
+      "auction": "614",
+      "lot": "46",
+      "reference": "5513",
+      "matches": [
+        [
+          "ROLEX",
+          "5513"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/614/51-rolex-submariner-meters-first-gilt-dial",
+      "auction": "614",
+      "lot": "51",
+      "reference": "5513",
+      "matches": [
+        [
+          "ROLEX",
+          "5513"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/614/52-rolex-explorer",
+      "auction": "614",
+      "lot": "52",
+      "reference": "1016",
+      "matches": [
+        [
+          "ROLEX",
+          "1016"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/614/54-rolex-daytona-chronograph",
+      "auction": "614",
+      "lot": "54",
+      "reference": "16520",
+      "matches": [
+        [
+          "ROLEX",
+          "16520"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/614/57-rolex-explorer-ii-steve-mcqueen-mark-ii-frog-foot-dial",
+      "auction": "614",
+      "lot": "57",
+      "reference": "1655",
+      "matches": [
+        [
+          "ROLEX",
+          "1655"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/614/63-rolex-submariner-white-mark-iii-blue-bezel",
+      "auction": "614",
+      "lot": "63",
+      "reference": "1680",
+      "matches": [
+        [
+          "ROLEX",
+          "1680"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/614/69-rolex-cosmograph-daytona-sigma-dial-chronograph",
+      "auction": "614",
+      "lot": "69",
+      "reference": "6265",
+      "matches": [
+        [
+          "ROLEX",
+          "6265"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/614/74-rolex-gmt-master-ii",
+      "auction": "614",
+      "lot": "74",
+      "reference": "16710",
+      "matches": [
+        [
+          "ROLEX",
+          "16710"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/614/78-rolex-submariner-gilt-meters-first",
+      "auction": "614",
+      "lot": "78",
+      "reference": "5513",
+      "matches": [
+        [
+          "ROLEX",
+          "5513"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/614/80-rolex-explorer",
+      "auction": "614",
+      "lot": "80",
+      "reference": "1016",
+      "matches": [
+        [
+          "ROLEX",
+          "1016"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/614/82-rolex-daytona-chronograph",
+      "auction": "614",
+      "lot": "82",
+      "reference": "16520",
+      "matches": [
+        [
+          "ROLEX",
+          "16520"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/614/84-rolex-submariner",
+      "auction": "614",
+      "lot": "84",
+      "reference": "5513",
+      "matches": [
+        [
+          "ROLEX",
+          "5513"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/618/1-rolex-gmt-master-fuchsia",
+      "auction": "618",
+      "lot": "1",
+      "reference": "1675",
+      "matches": [
+        [
+          "ROLEX",
+          "1675"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/618/5-rolex-daytona-chronograph-aph-dial",
+      "auction": "618",
+      "lot": "5",
+      "reference": "116520",
+      "matches": [
+        [
+          "ROLEX",
+          "116520"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/618/8-rolex-submariner-red-mark-v",
+      "auction": "618",
+      "lot": "8",
+      "reference": "1680",
+      "matches": [
+        [
+          "ROLEX",
+          "1680"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/618/9-rolex-day-date-wood-dial",
+      "auction": "618",
+      "lot": "9",
+      "reference": "18038",
+      "matches": [
+        [
+          "ROLEX",
+          "18038"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/618/13-rolex-sea-dweller",
+      "auction": "618",
+      "lot": "13",
+      "reference": "116600",
+      "matches": [
+        [
+          "ROLEX",
+          "116600"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/618/36-rolex-explorer-ii",
+      "auction": "618",
+      "lot": "36",
+      "reference": "16570",
+      "matches": [
+        [
+          "ROLEX",
+          "16570"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/618/40-rolex-sea-dweller-triple-six",
+      "auction": "618",
+      "lot": "40",
+      "reference": "16660",
+      "matches": [
+        [
+          "ROLEX",
+          "16660"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/618/42-rolex-datejust",
+      "auction": "618",
+      "lot": "42",
+      "reference": "16234",
+      "matches": [
+        [
+          "ROLEX",
+          "16234"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/618/45-rolex-submariner",
+      "auction": "618",
+      "lot": "45",
+      "reference": "16610",
+      "matches": [
+        [
+          "ROLEX",
+          "16610"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/618/48-rolex-submariner-red-mark-iv",
+      "auction": "618",
+      "lot": "48",
+      "reference": "1680",
+      "matches": [
+        [
+          "ROLEX",
+          "1680"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/618/60-rolex-submariner",
+      "auction": "618",
+      "lot": "60",
+      "reference": "5513",
+      "matches": [
+        [
+          "ROLEX",
+          "5513"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/618/61-rolex-gmt-master-ii",
+      "auction": "618",
+      "lot": "61",
+      "reference": "16710",
+      "matches": [
+        [
+          "ROLEX",
+          "16710"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/618/72-rolex-gmt-master-ii",
+      "auction": "618",
+      "lot": "72",
+      "reference": "16710",
+      "matches": [
+        [
+          "ROLEX",
+          "16710"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/618/76-rolex-day-date-wood-dial",
+      "auction": "618",
+      "lot": "76",
+      "reference": "18038",
+      "matches": [
+        [
+          "ROLEX",
+          "18038"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/618/86-rolex-daytona-chronograph-inverted-6",
+      "auction": "618",
+      "lot": "86",
+      "reference": "16523",
+      "matches": [
+        [
+          "ROLEX",
+          "16523"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/618/87-rolex-day-date",
+      "auction": "618",
+      "lot": "87",
+      "reference": "18038",
+      "matches": [
+        [
+          "ROLEX",
+          "18038"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/618/91-rolex-submariner",
+      "auction": "618",
+      "lot": "91",
+      "reference": "16800",
+      "matches": [
+        [
+          "ROLEX",
+          "16800"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/618/92-rolex-gmt-master-gilt-dial-pointed-crown-guards",
+      "auction": "618",
+      "lot": "92",
+      "reference": "1675",
+      "matches": [
+        [
+          "ROLEX",
+          "1675"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/618/94-rolex-submariner",
+      "auction": "618",
+      "lot": "94",
+      "reference": "14060",
+      "matches": [
+        [
+          "ROLEX",
+          "14060"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/618/101-rolex-gmt-master-gilt-dial",
+      "auction": "618",
+      "lot": "101",
+      "reference": "1675",
+      "matches": [
+        [
+          "ROLEX",
+          "1675"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/618/102-rolex-datejust-uae-armed-forces",
+      "auction": "618",
+      "lot": "102",
+      "reference": "1601",
+      "matches": [
+        [
+          "ROLEX",
+          "1601"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/618/113-rolex-gmt-master-ii",
+      "auction": "618",
+      "lot": "113",
+      "reference": "16710",
+      "matches": [
+        [
+          "ROLEX",
+          "16710"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/618/116-rolex-gmt-master-spider-dial",
+      "auction": "618",
+      "lot": "116",
+      "reference": "16750",
+      "matches": [
+        [
+          "ROLEX",
+          "16750"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/618/117-rolex-submariner-red-mark-v",
+      "auction": "618",
+      "lot": "117",
+      "reference": "1680",
+      "matches": [
+        [
+          "ROLEX",
+          "1680"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/618/119-rolex-milgauss",
+      "auction": "618",
+      "lot": "119",
+      "reference": "116400",
+      "matches": [
+        [
+          "ROLEX",
+          "116400"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/622/2002-rolex-submariner",
+      "auction": "622",
+      "lot": "2002",
+      "reference": "16610",
+      "matches": [
+        [
+          "ROLEX",
+          "16610"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/622/2005-tudor-oysterdate-chronograph-big-block",
+      "auction": "622",
+      "lot": "2005",
+      "reference": "79180",
+      "matches": [
+        [
+          "TUDOR",
+          "79180"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/622/2006-rolex-datejust-white-buckley-dial",
+      "auction": "622",
+      "lot": "2006",
+      "reference": "16014",
+      "matches": [
+        [
+          "ROLEX",
+          "16014"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/622/2010-rolex-submariner-red-mark-iv-kissing-40",
+      "auction": "622",
+      "lot": "2010",
+      "reference": "1680",
+      "matches": [
+        [
+          "ROLEX",
+          "1680"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/622/2011-rolex-gmt-master",
+      "auction": "622",
+      "lot": "2011",
+      "reference": "1675",
+      "matches": [
+        [
+          "ROLEX",
+          "1675"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/622/2014-rolex-submariner-meters-first",
+      "auction": "622",
+      "lot": "2014",
+      "reference": "5513",
+      "matches": [
+        [
+          "ROLEX",
+          "5513"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/622/2017-rolex-gmt-master",
+      "auction": "622",
+      "lot": "2017",
+      "reference": "16750",
+      "matches": [
+        [
+          "ROLEX",
+          "16750"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/622/2020-rolex-daytona-chronograph-inverted-6",
+      "auction": "622",
+      "lot": "2020",
+      "reference": "16523",
+      "matches": [
+        [
+          "ROLEX",
+          "16523"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/622/2027-rolex-submariner-meters-first-gilt-dial",
+      "auction": "622",
+      "lot": "2027",
+      "reference": "5513",
+      "matches": [
+        [
+          "ROLEX",
+          "5513"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/622/2031-rolex-gmt-master-ii-fat-lady",
+      "auction": "622",
+      "lot": "2031",
+      "reference": "16760",
+      "matches": [
+        [
+          "ROLEX",
+          "16760"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/622/2034-rolex-day-date",
+      "auction": "622",
+      "lot": "2034",
+      "reference": "18038",
+      "matches": [
+        [
+          "ROLEX",
+          "18038"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/622/2037-rolex-datejust",
+      "auction": "622",
+      "lot": "2037",
+      "reference": "16013",
+      "matches": [
+        [
+          "ROLEX",
+          "16013"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/622/2040-rolex-datejust",
+      "auction": "622",
+      "lot": "2040",
+      "reference": "16220",
+      "matches": [
+        [
+          "ROLEX",
+          "16220"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/622/2045-rolex-submariner",
+      "auction": "622",
+      "lot": "2045",
+      "reference": "1680",
+      "matches": [
+        [
+          "ROLEX",
+          "1680"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/622/2059-rolex-gmt-master",
+      "auction": "622",
+      "lot": "2059",
+      "reference": "1675",
+      "matches": [
+        [
+          "ROLEX",
+          "1675"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/622/2062-rolex-submariner",
+      "auction": "622",
+      "lot": "2062",
+      "reference": "16613",
+      "matches": [
+        [
+          "ROLEX",
+          "16613"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/622/2064-rolex-datejust",
+      "auction": "622",
+      "lot": "2064",
+      "reference": "16030",
+      "matches": [
+        [
+          "ROLEX",
+          "16030"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/622/2070-rolex-datejust-blue-buckley-dial",
+      "auction": "622",
+      "lot": "2070",
+      "reference": "1601",
+      "matches": [
+        [
+          "ROLEX",
+          "1601"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/622/2074-rolex-submariner-four-line-rehaut",
+      "auction": "622",
+      "lot": "2074",
+      "reference": "14060 M",
+      "matches": [
+        [
+          "ROLEX",
+          "14060M"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/622/2076-rolex-submariner-red-mark-vi",
+      "auction": "622",
+      "lot": "2076",
+      "reference": "1680",
+      "matches": [
+        [
+          "ROLEX",
+          "1680"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/622/2077-rolex-gmt-master-ii-fat-lady",
+      "auction": "622",
+      "lot": "2077",
+      "reference": "16760",
+      "matches": [
+        [
+          "ROLEX",
+          "16760"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/622/2083-rolex-datejust-41",
+      "auction": "622",
+      "lot": "2083",
+      "reference": "126334",
+      "matches": [
+        [
+          "ROLEX",
+          "126334"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/622/2090-rolex-gmt-master",
+      "auction": "622",
+      "lot": "2090",
+      "reference": "16750",
+      "matches": [
+        [
+          "ROLEX",
+          "16750"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/622/2091-rolex-submariner",
+      "auction": "622",
+      "lot": "2091",
+      "reference": "5513",
+      "matches": [
+        [
+          "ROLEX",
+          "5513"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/622/2094-rolex-sea-dweller",
+      "auction": "622",
+      "lot": "2094",
+      "reference": "1665",
+      "matches": [
+        [
+          "ROLEX",
+          "1665"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/622/2096-rolex-submariner-meters-first-gilt-dial",
+      "auction": "622",
+      "lot": "2096",
+      "reference": "5513",
+      "matches": [
+        [
+          "ROLEX",
+          "5513"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/622/2098-rolex-datejust",
+      "auction": "622",
+      "lot": "2098",
+      "reference": "1600",
+      "matches": [
+        [
+          "ROLEX",
+          "1600"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/627/3-rolex-submariner",
+      "auction": "627",
+      "lot": "3",
+      "reference": "16610",
+      "matches": [
+        [
+          "ROLEX",
+          "16610"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/627/6-rolex-deepsea-sea-dweller",
+      "auction": "627",
+      "lot": "6",
+      "reference": "116660",
+      "matches": [
+        [
+          "ROLEX",
+          "116660"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/627/8-rolex-cosmograph-daytona-chronograph",
+      "auction": "627",
+      "lot": "8",
+      "reference": "116520",
+      "matches": [
+        [
+          "ROLEX",
+          "116520"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/627/9-rolex-yacht-master-40",
+      "auction": "627",
+      "lot": "9",
+      "reference": "116622",
+      "matches": [
+        [
+          "ROLEX",
+          "116622"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/627/15-rolex-submariner",
+      "auction": "627",
+      "lot": "15",
+      "reference": "5513",
+      "matches": [
+        [
+          "ROLEX",
+          "5513"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/627/16-rolex-day-date",
+      "auction": "627",
+      "lot": "16",
+      "reference": "18238",
+      "matches": [
+        [
+          "ROLEX",
+          "18238"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/627/21-rolex-submariner",
+      "auction": "627",
+      "lot": "21",
+      "reference": "114060",
+      "matches": [
+        [
+          "ROLEX",
+          "114060"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/627/25-rolex-gmt-master",
+      "auction": "627",
+      "lot": "25",
+      "reference": "1675",
+      "matches": [
+        [
+          "ROLEX",
+          "1675"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/627/26-rolex-explorer-ii-3186-movement",
+      "auction": "627",
+      "lot": "26",
+      "reference": "16570",
+      "matches": [
+        [
+          "ROLEX",
+          "16570"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/627/31-rolex-deepsea-sea-dweller-james-cameron",
+      "auction": "627",
+      "lot": "31",
+      "reference": "116660",
+      "matches": [
+        [
+          "ROLEX",
+          "116660"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/627/35-rolex-day-date",
+      "auction": "627",
+      "lot": "35",
+      "reference": "1803",
+      "matches": [
+        [
+          "ROLEX",
+          "1803"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/627/37-rolex-cosmograph-daytona-chronograph-cherry-red-units-per-hour-300",
+      "auction": "627",
+      "lot": "37",
+      "reference": "6239",
+      "matches": [
+        [
+          "ROLEX",
+          "6239"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/627/38-rolex-gmt-master-ii-fat-lady",
+      "auction": "627",
+      "lot": "38",
+      "reference": "16760",
+      "matches": [
+        [
+          "ROLEX",
+          "16760"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/627/39-rolex-deepsea-sea-dweller",
+      "auction": "627",
+      "lot": "39",
+      "reference": "116660",
+      "matches": [
+        [
+          "ROLEX",
+          "116660"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/627/46-rolex-explorer-ii",
+      "auction": "627",
+      "lot": "46",
+      "reference": "16570",
+      "matches": [
+        [
+          "ROLEX",
+          "16570"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/627/51-rolex-datejust",
+      "auction": "627",
+      "lot": "51",
+      "reference": "6917",
+      "matches": [
+        [
+          "ROLEX",
+          "6917"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/627/52-rolex-day-date",
+      "auction": "627",
+      "lot": "52",
+      "reference": "1803",
+      "matches": [
+        [
+          "ROLEX",
+          "1803"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/627/54-rolex-datejust",
+      "auction": "627",
+      "lot": "54",
+      "reference": "1601",
+      "matches": [
+        [
+          "ROLEX",
+          "1601"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/627/56-rolex-yacht-master-37",
+      "auction": "627",
+      "lot": "56",
+      "reference": "268655",
+      "matches": [
+        [
+          "ROLEX",
+          "268655"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/627/62-rolex-submariner-chapter-ring-swiss-t-25",
+      "auction": "627",
+      "lot": "62",
+      "reference": "5513",
+      "matches": [
+        [
+          "ROLEX",
+          "5513"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/627/64-rolex-sea-dweller-rail-dial-great-white-mark-ii",
+      "auction": "627",
+      "lot": "64",
+      "reference": "1665",
+      "matches": [
+        [
+          "ROLEX",
+          "1665"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/627/66-rolex-explorer-ii-freccione",
+      "auction": "627",
+      "lot": "66",
+      "reference": "1655",
+      "matches": [
+        [
+          "ROLEX",
+          "1655"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/627/68-rolex-date-cornelis-vreeswijk",
+      "auction": "627",
+      "lot": "68",
+      "reference": "6917",
+      "matches": [
+        [
+          "ROLEX",
+          "6917"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/627/69-rolex-datejust",
+      "auction": "627",
+      "lot": "69",
+      "reference": "6917",
+      "matches": [
+        [
+          "ROLEX",
+          "6917"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/627/73-rolex-submariner",
+      "auction": "627",
+      "lot": "73",
+      "reference": "114060",
+      "matches": [
+        [
+          "ROLEX",
+          "114060"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/627/77-rolex-gmt-master-pointed-crown-guards-chapter-ring-exclamation-point-gilt-dial",
+      "auction": "627",
+      "lot": "77",
+      "reference": "1675",
+      "matches": [
+        [
+          "ROLEX",
+          "1675"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/627/78-rolex-submariner",
+      "auction": "627",
+      "lot": "78",
+      "reference": "16800",
+      "matches": [
+        [
+          "ROLEX",
+          "16800"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/627/79-rolex-day-date-ii",
+      "auction": "627",
+      "lot": "79",
+      "reference": "218239",
+      "matches": [
+        [
+          "ROLEX",
+          "218239"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/627/83-rolex-submariner-red-mark-iv",
+      "auction": "627",
+      "lot": "83",
+      "reference": "1680",
+      "matches": [
+        [
+          "ROLEX",
+          "1680"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/627/85-rolex-deepsea-sea-dweller",
+      "auction": "627",
+      "lot": "85",
+      "reference": "116660",
+      "matches": [
+        [
+          "ROLEX",
+          "116660"
+        ]
+      ],
+      "aliasCandidatesRequiringSourceReview": []
+    }
+  ],
+  "accessFailures": []
+}

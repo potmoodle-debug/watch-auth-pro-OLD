@@ -1,12 +1,14 @@
-import {performanceStats,resetCorrections} from './performance.js?v=labels07';
-import {technologyReminder} from './movement-reminders.js?v=labels07';
-import {claspMatches,serialHints,needsResearch,replicaSignals} from './qol.js?v=labels07';
-import * as cloud from './cloud.js?v=labels07';
-import {normalize,londonDay,matchingRule,safetyRule,movementResult,finalNote,pace} from './core.js?v=labels07';
+import {matchingPhotographs,mergeReferenceRules} from './photographs.js?v=photos01';
+import {renderPhotoGallery} from './photo-gallery.js?v=photos01';
+import {performanceStats,resetCorrections} from './performance.js?v=photos01';
+import {technologyReminder} from './movement-reminders.js?v=photos01';
+import {claspMatches,serialHints,needsResearch,replicaSignals} from './qol.js?v=photos01';
+import * as cloud from './cloud.js?v=photos01';
+import {normalize,londonDay,matchingRule,safetyRule,movementResult,finalNote,pace} from './core.js?v=photos01';
 const $=id=>document.getElementById(id),esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const safeUrl=v=>{try{const u=new URL(v);return ['https:','http:'].includes(u.protocol)?u.href:'';}catch{return '';}};
 const link=(url,label)=>safeUrl(url)?'<a target="_blank" rel="noopener" href="'+esc(safeUrl(url))+'">'+esc(label)+'</a>':esc(label);
-let intelligence={rules:[],safety:[],serial:{}},samples={},identity=null,rule=null,user=null,member=null,lookupVersion=0;
+let localRules=[],photographs=[],intelligence={rules:[],safety:[],serial:{}},samples={},identity=null,rule=null,user=null,member=null,lookupVersion=0;
 let inspectionId=crypto.randomUUID(),pending=null,saved=false,noteDirty=false,logs=[],counterfeits=[],entryAction=null,entryId=null,lastDay=londonDay(),daily=null,serialTimer=null,pendingResearch=null;
 const inputIds=['brand','reference','serial','movementType','calibre','clasp','overall','comments','issue','battery'];
 const conditionNames=['Clean','Dirty','Rusted','Damaged','Modified','Aged','External only'];
@@ -139,8 +141,7 @@ function renderInfo(){
  $('provenance').innerHTML=rule?'<p>'+esc(rule.source||'Imported WatchAuthPro mapping')+'</p><p>'+link(rule.sourceUrl,'Open original source')+'</p><p class="muted">'+esc(rule.confidence||'Original confidence not specified')+' · '+esc(rule.benchStatus==='verified'?'Reviewed in shared reference database':'Imported from existing WatchAuthPro research; not newly verified')+'</p>':'No source attached to an exact reference record.';
  if(rule?.technicalDetail){$('provenance').innerHTML+=Object.entries(rule.technicalDetail).filter(([k,v])=>typeof v==='string').map(([k,v])=>'<p><strong>'+esc(k)+':</strong> '+esc(v)+'</p>').join('');$('provenance').innerHTML+=(rule.sources||[]).map(x=>'<p>'+link(x.url,x.title)+'</p>').join('');}
  $('calibreOptions').innerHTML=(rule?.calibre||[]).map(x=>'<option value="'+esc(x)+'"></option>').join('');
- const visuals=rule?.visuals||sample?.visuals||[];$('images').hidden=false;$('visuals').innerHTML=visuals.filter(x=>!s||x.type!=='MOVEMENT').map(x=>'<article><img loading="lazy" src="'+esc(safeUrl(x.image))+'" alt="'+esc(x.title)+'"><h3>'+esc(x.title)+'</h3><p class="muted">'+esc(x.caption)+'</p>'+link(x.image,'Enlarge photograph')+' · '+link(x.source,'Source')+'</article>').join('')||'<p class="muted">No sourced photograph is attached to this reference yet.</p>';
- $('visuals').querySelectorAll('img').forEach(img=>img.addEventListener('error',()=>{const p=document.createElement('p');p.className='notice';p.textContent='Photograph unavailable from the source host. Use the source link.';img.replaceWith(p);}));
+ const externalOnly=!!s;const photos=matchingPhotographs(photographs,$('brand').value,$('reference').value,{externalOnly});$('images').hidden=false;renderPhotoGallery($('visuals'),photos,{externalOnly});
  const warnings=serialGuidance();$('alerts').innerHTML=warnings.map(x=>'<div class="notice stop">'+esc(x)+'</div>').join('');
  compare();generate();
 }
@@ -165,11 +166,11 @@ async function connect(){
  $('accountButton').textContent=user?'Account':'Team sign in';$('accountState').textContent=user?(member?'Signed in as '+user.email:'Account signed in, but team access has not been granted.'):'Sign in to share knowledge and save inspections.';
  $('authFields').hidden=!!user;$('signedInFields').hidden=!user;$('adminFields').hidden=member?.role!=='admin';$('reviewReference').hidden=member?.role!=='admin';
  if(member){await loadSharedRules();await updatePerformance();if(identity)await lookup();}
- else{daily=null;renderDailyCard();}
+ else{intelligence.rules=localRules.slice();renderReferences();if(identity){rule=matchingRule(intelligence.rules,$('brand').value,$('reference').value);renderInfo();}daily=null;renderDailyCard();}
 }
 async function loadSharedRules(){
  let rows=[];for(let offset=0;;offset+=500){const batch=await cloud.select('reference_facts','select=data,status,source,verified_at&order=id&limit=500&offset='+offset);rows.push(...batch);if(batch.length<500)break;}
- if(rows.length)intelligence.rules=rows.map(x=>({...x.data,benchStatus:x.status,benchSource:x.source,benchVerifiedAt:x.verified_at})).sort((a,b)=>(a.benchStatus==='verified'?-1:0)-(b.benchStatus==='verified'?-1:0)||(a.importOrder||0)-(b.importOrder||0));renderReferences();
+ intelligence.rules=mergeReferenceRules(localRules,rows);renderReferences();if(identity){rule=matchingRule(intelligence.rules,$('brand').value,$('reference').value);renderInfo();}
 }
 function renderDailyCard(){
  const stats=daily?performanceStats(daily.completed,daily.target):null;
@@ -264,7 +265,7 @@ window.addEventListener('beforeunload',()=>autosave());
 document.addEventListener('visibilitychange',()=>{if(!document.hidden&&member)updatePerformance().catch(e=>status(e.message,true));});
 setInterval(()=>{if(member){if(lastDay!==londonDay())updatePerformance().catch(e=>status(e.message,true));else if(daily)renderDailyCard();}},60000);
 async function init(){
- try{const [data,pictures,types]=await Promise.all([fetch('intelligence.json?v=labels07').then(r=>{if(!r.ok)throw new Error('Reference database unavailable.');return r.json();}),fetch('samples.json?v=labels07').then(r=>r.json()),fetch('movement-types.json?v=labels07').then(r=>r.json())]);intelligence=data;const researched=await fetch('rolex-126505.json?v=labels07').then(r=>{if(!r.ok)throw new Error('Daytona research unavailable.');return r.json();});intelligence.rules=intelligence.rules.filter(r=>!(r.brand==='ROLEX'&&(r.refs||[]).includes('126505'))).concat([{...researched,benchStatus:'verified'}]);const updates=await fetch('research-updates-20261008.json?v=labels07').then(r=>{if(!r.ok)throw new Error('Reviewed research unavailable.');return r.json();});intelligence.rules=updates.concat(intelligence.rules);samples=pictures;types.forEach(x=>{const opt=document.createElement('option');opt.value=x;opt.textContent=x;$('movementType').appendChild(opt);});
+ try{const [data,pictures,types]=await Promise.all([fetch('intelligence.json?v=photos01').then(r=>{if(!r.ok)throw new Error('Reference database unavailable.');return r.json();}),fetch('samples.json?v=photos01').then(r=>r.json()),fetch('movement-types.json?v=photos01').then(r=>r.json())]);intelligence=data;const researched=await fetch('rolex-126505.json?v=photos01').then(r=>{if(!r.ok)throw new Error('Daytona research unavailable.');return r.json();});intelligence.rules=intelligence.rules.filter(r=>!(r.brand==='ROLEX'&&(r.refs||[]).includes('126505'))).concat([{...researched,benchStatus:'verified'}]);const updates=await fetch('research-updates-20261008.json?v=photos01').then(r=>{if(!r.ok)throw new Error('Reviewed research unavailable.');return r.json();});intelligence.rules=updates.concat(intelligence.rules);localRules=intelligence.rules.slice();const catalogue=await fetch('photographs.json?v=photos01').then(r=>{if(!r.ok)throw new Error('Photograph catalogue unavailable.');return r.json();});photographs=catalogue.photographs;samples=pictures;types.forEach(x=>{const opt=document.createElement('option');opt.value=x;opt.textContent=x;$('movementType').appendChild(opt);});
  const brands=[...new Set(intelligence.rules.map(r=>r.brand).concat(intelligence.safety.map(r=>r.brand)))].sort();$('otherBrandButtons').innerHTML=brands.filter(x=>!['TUDOR','ROLEX','OMEGA','BREITLING','CARTIER','TAGHEUER'].includes(normalize(x))).map(x=>'<button type="button" data-brand-choice="'+esc(x)+'" aria-pressed="false">'+esc(x)+'</button>').join('');renderReferences();
  let draft;try{draft=JSON.parse(localStorage.getItem('benchauth.draft'));}catch{}
  if(draft){inspectionId=draft.inspectionId||inspectionId;for(const [k,v]of Object.entries(draft.values||{}))if($(k))$(k).value=v;document.querySelectorAll('#conditions input').forEach(x=>x.checked=draft.conditions?.includes(x.value));(draft.components||[]).forEach((v,i)=>$('component'+i).value=v);$('note').value=draft.note||'';noteDirty=!!draft.noteDirty;pending=draft.pending||null;pendingResearch=draft.pendingResearch||null;enforceSafety();if(pending){lockBench(true);$('complete').textContent='Retry saving this inspection';}status('Previous unsaved inspection draft restored.');}
