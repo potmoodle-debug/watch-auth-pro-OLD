@@ -36,11 +36,11 @@ watch models: punctuation/case duplicates collapse; M-prefixed aliases, base
 references and catalogue suffixes remain separate keys. Broad patterns require
 enumeration and source review; they are never counted as exact references.
 
-Current exact progress is in the generated coverage files: **169 identifier keys
-reviewed, 2,069 unreviewed; 125 source records reviewed, 2,322 unreviewed**. There are
-**486 catalogue assets: 455 verified, 22 pending and 9 rejected**, including 31
-legacy assets. Verified reference-key coverage: **front 152, movement 65, caseback
-133, bracelet/clasp 131**. Reviewed gaps describe the inspected source set, not a
+Current exact progress is in the generated coverage files: **172 identifier keys
+reviewed, 2,066 unreviewed; 128 source records reviewed, 2,319 unreviewed**. There are
+**501 catalogue assets: 470 verified, 22 pending and 9 rejected**, including 31
+legacy assets. Verified reference-key coverage: **front 155, movement 65, caseback
+136, bracelet/clasp 132**. Reviewed gaps describe the inspected source set, not a
 claim that no suitable image exists elsewhere. Existing textual research and
 pre-existing "verified" mapping badges do not verify photographs. Unreviewed
 categories are not counted as reviewed gaps.
@@ -175,7 +175,7 @@ authenticate to Supabase or verify real photograph loading or live RLS.
 public image servers without mocked images or authenticated database mutations.
 It checks every accepted photograph's load, enlargement, credit, representative
 label and mobile overflow. Chromium must trust the configured environment proxy
-CA; certificate verification must remain enabled. All 455 accepted photographs across 181 explicit covered keys
+CA; certificate verification must remain enabled. All 470 accepted photographs across 190 explicit covered keys
 passed this check on 2026-10-09. Rerun after catalogue additions. The Node suite passes all 27
 tests, and the fixture browser suite covers the preserved workflows and mocked
 authenticated refreshes.
@@ -198,3 +198,12 @@ executions. Blue Chrono, Carbon 25 and Royal photographs do not establish
 coverage for neighbouring stored models. An independent Monochrome review corroborates North Flag M91210N-0001
 and MT5621; four actual Fratello specimen photographs are accepted, including
 the visible movement execution. Incomplete 79733 identity remains open. See `photograph-fratello-tudor-third-sources.json`.
+
+The fourth Tudor specialist pass inspected all 147 main image occurrences across
+nine articles and accepted 15 actual photographs. Early 79220R/B rose-logo ETA
+variants have explicit individual lookup keys; joined slash-pattern inventory
+entries remain unreviewed until all variant boundaries are investigated. The
+black/gilt 79030N Fifty-Eight, original steel-bezel 79350 Chrono and slate-grey
+79250BA Bronze gain labelled front and closed-back coverage. Breitling B01 and
+unproven isolated MT5813/MT5612 media remain withheld. Full bronze fabric and
+leather suffixes remain separate. See `photograph-fratello-tudor-fourth-sources.json`.

@@ -133,6 +133,14 @@ test('Tudor GMT suffixes and silver movement execution retain documented boundar
  assert.ok(movement.length);
  for(const reference of ['79010S','M79010SG-0001','79012M','79210CNU'])assert.ok(forRef(reference).every(p=>!movement.some(q=>q.id===p.id)),reference);
  assert.ok(forRef('M79360N-0013').every(p=>!p.id.startsWith('fratello-tudor-third-')));
+ const originalChrono=forRef('79350');
+ assert.ok(originalChrono.some(p=>p.category==='front'));
+ assert.ok(originalChrono.every(p=>p.category!=='movement'));
+ assert.ok(forRef('79360N').every(p=>!originalChrono.some(q=>q.id===p.id)));
+ const greyBronze=forRef('M79250BA-0001');
+ assert.ok(greyBronze.some(p=>p.category==='caseback'));
+ assert.ok(forRef('M79250BA-0002').every(p=>!greyBronze.some(q=>q.id===p.id)));
+ assert.ok(forRef('79012M').every(p=>!greyBronze.some(q=>q.id===p.id)));
  const north=forRef('91210N').filter(p=>p.category==='movement');
  assert.ok(north.length);
  assert.ok(north.every(p=>p.caption.includes('MT5621')));
