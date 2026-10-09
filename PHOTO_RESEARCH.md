@@ -36,11 +36,11 @@ watch models: punctuation/case duplicates collapse; M-prefixed aliases, base
 references and catalogue suffixes remain separate keys. Broad patterns require
 enumeration and source review; they are never counted as exact references.
 
-Current exact progress is in the generated coverage files: **54 identifier keys
-reviewed, 2,184 unreviewed; 56 source records reviewed, 2,391 unreviewed**. There are
-**161 catalogue assets: 131 verified, 22 pending and 8 rejected**, including 31
-legacy assets. Verified reference-key coverage: **front 47, movement 10, caseback
-34, bracelet/clasp 29**. Reviewed gaps describe the inspected source set, not a
+Current exact progress is in the generated coverage files: **119 identifier keys
+reviewed, 2,119 unreviewed; 94 source records reviewed, 2,353 unreviewed**. There are
+**392 catalogue assets: 361 verified, 22 pending and 9 rejected**, including 31
+legacy assets. Verified reference-key coverage: **front 105, movement 54, caseback
+99, bracelet/clasp 92**. Reviewed gaps describe the inspected source set, not a
 claim that no suitable image exists elsewhere. Existing textual research and
 pre-existing "verified" mapping badges do not verify photographs. Unreviewed
 categories are not counted as reviewed gaps.
@@ -71,6 +71,25 @@ case reference. Media filenames are not model-identification evidence: the blue
 1993 79090 front has a misleading 79190 filename, while the following 1997 79190
 specimen and its movement remain separate. No neighbouring reference inherits
 these images.
+
+`photograph-auction-archive-sources.json` records the next research pass through
+Bukowskis auctions 630, 634, 638, 643, 647, 651, 655, 659, 663 and 667. **1,191
+lots were scanned, 278 matched exact inventory identifiers, and 65 previously
+unreviewed reference keys were selected. All 913 photographs in those 65 galleries
+were decoded and visually inspected**, including full-resolution selected movement
+images and specimen identification. This pass adds 230 verified photographs and
+one rejected movement candidate. Other matching lots remain discovery candidates;
+their pixels have not been reviewed.
+
+The rejected Omega 311.30.42.30.01.005 movement photograph has serial 78778267,
+whereas the lot description and pictured watch identify 77734248. A shared 1861
+calibre does not repair that mismatch. Rolex 16570 has a documented late 3186
+execution; 216570 retains its own 3187 execution. The yellow-gold 16528 uses the
+pictured Rolex 4030 execution, without inheriting a generic Zenith image or later
+4130. Service hands, replacement dials, later clasps, service backs and damaged
+links are explicitly scoped or withheld. Internal shared caseback numbers do not
+create model aliases. Manufacturer M prefixes and full dial/bracelet suffixes
+still require their own documented identification.
 
 ## Matching and display
 
@@ -133,8 +152,8 @@ authenticate to Supabase or verify real photograph loading or live RLS.
 public image servers without mocked images or authenticated database mutations.
 It checks every accepted photograph's load, enlargement, credit, representative
 label and mobile overflow. Chromium must trust the configured environment proxy
-CA; certificate verification must remain enabled. All 131 accepted photographs across 51 covered keys
-passed this check; rerun after catalogue additions. The Node suite passes all 23
+CA; certificate verification must remain enabled. All 361 accepted photographs across 116 covered keys
+passed this check on 2026-10-09. Rerun after catalogue additions. The Node suite passes all 25
 tests, and the fixture browser suite covers the preserved workflows and mocked
 authenticated refreshes.
 

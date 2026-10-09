@@ -69,3 +69,35 @@ test('accepted specimen photographs retain material, period and movement boundar
  assert.ok(forRef('Tudor','79090').some(p=>p.category==='front'&&p.variant.includes('1993 blue')));
  assert.ok(forRef('Tudor','79190').filter(p=>p.category==='front').every(p=>!p.variant.includes('1993 blue')));
 });
+test('archive movements require specimen identity and retain case and calibre boundaries',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const forRef=(brand,reference)=>matchingPhotographs(photos,brand,reference);
+ const wrongSerial=photos.find(p=>p.id==='rejected-bukowskis-655-115-movement');
+ assert.equal(wrongSerial.review.status,'rejected');
+ assert.equal(verifiedPhotograph(wrongSerial),false);
+ assert.ok(forRef('Omega','311.30.42.30.01.005').every(p=>p.category!=='movement'));
+ const display=forRef('Omega','310.30.42.50.01.002');
+ assert.ok(display.some(p=>p.category==='movement'));
+ assert.ok(forRef('Omega','310.30.42.50.01.001').every(p=>!display.some(q=>q.id===p.id)));
+ assert.ok(forRef('Panerai','PAM01316').some(p=>p.category==='front'));
+ assert.ok(forRef('Panerai','PAM01316').every(p=>p.category!=='movement'));
+ assert.ok(forRef('Panerai','PAM01305').every(p=>!forRef('Panerai','PAM01316').some(q=>q.id===p.id)));
+ const newer=forRef('IWC','IW371609').filter(p=>p.category==='movement');
+ assert.ok(newer.length);
+ assert.ok(forRef('IWC','IW371417').every(p=>!newer.some(q=>q.id===p.id)));
+});
+test('Rolex specimen movements and service parts do not cross reference boundaries',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const forRef=reference=>matchingPhotographs(photos,'Rolex',reference);
+ for(const [reference,near,calibre] of [['16570','216570','3186'],['16528','116520','4030'],['126660','116660','3235'],['268621','126621','2236']]){
+  const movement=forRef(reference).filter(p=>p.category==='movement');
+  assert.ok(movement.length,reference);
+  assert.ok(movement.every(p=>p.caption.includes(calibre)),reference);
+  assert.ok(forRef(near).every(p=>!movement.some(q=>q.id===p.id)),near);
+ }
+ for(const reference of ['16800','16660','118238','69173','6265'])assert.ok(forRef(reference).every(p=>p.category!=='front'),reference);
+ const serviceBack=forRef('6265').find(p=>p.category==='caseback');
+ assert.match(serviceBack.caption,/service replacement/i);
+ assert.ok(forRef('126000-0006').every(p=>!forRef('126000').some(q=>q.id===p.id)));
+ assert.ok(forRef('116400GV').every(p=>!forRef('116400').some(q=>q.id===p.id)));
+});
