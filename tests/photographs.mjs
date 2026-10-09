@@ -293,3 +293,22 @@ test('specialist Rolex specimens keep explicit variants and photographed calibre
  assert.ok(get('116334',{externalOnly:true}).every(p=>p.category!=='movement'));
  assert.equal(matchingPhotographs(photos,'Tudor','116334').length,0);
 });
+
+test('Loupe archive specimens retain documented suffix, case and calibre boundaries',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=ref=>matchingPhotographs(photos,'Rolex',ref).filter(p=>p.id.startsWith('loupe-archive-'));
+ for(const ref of ['124060','134300','326934','224270','226570'])assert.equal(get(ref).length,3,ref);
+ for(const [ref,suffix] of [['124060','0001'],['134300','0010'],['326934','0003'],['224270','0001'],['226570','0001']]){
+  assert.equal(get(ref+'-'+suffix).length,3);assert.equal(get('M'+ref+'-'+suffix).length,3);
+  assert.ok(get(ref).every(p=>p.matchScope==='representative variant'));
+  assert.ok(get(ref).every(p=>p.category!=='movement'));
+ }
+ for(const ref of ['124060LN','134300-0001','134300-0004','326934-0004','214270','124270','226570-0002','M226570-0002','216570','6427','1002','18200'])assert.equal(get(ref).length,0,ref);
+ assert.equal(get('18239').length,5);assert.match(get('18239').find(p=>p.category==='movement').caption,/3155/);
+ assert.match(get('18239').find(p=>p.category==='movement').review.evidence,/incorrectly says 3055/);
+ assert.equal(get('5500').length,5);assert.match(get('5500').find(p=>p.category==='movement').caption,/1520/);
+ assert.match(get('5500').find(p=>p.category==='braceletClasp').caption,/later equipment/);
+ assert.equal(get('6426').length,4);assert.ok(get('6426').every(p=>p.category!=='movement'));
+ assert.ok(matchingPhotographs(photos,'Rolex','18239',{externalOnly:true}).every(p=>p.category!=='movement'));
+ assert.equal(matchingPhotographs(photos,'Tudor','134300').length,0);
+});
