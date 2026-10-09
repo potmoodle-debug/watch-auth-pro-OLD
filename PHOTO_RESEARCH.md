@@ -11,7 +11,7 @@ repository must not be modified.
 Network access was verified first. GitHub and the BenchAuth live site return HTTP
 200. Of 1,564 distinct stored source URLs, 1,531 return HTTP 200 and 33 manufacturer
 Breitling URLs return HTTP 403. HTTP access and download counts **do not** establish
-visual review. The published checkpoint is PR #11 at 332742d25695996d2d04fa9f8089842fff6b21e5. New research additions below remain unpublished until validation passes.
+visual review. The published checkpoint is PR #12 at b58654ed27c9aaa25d13fb3dbe5848aa50ad3f7b. New research additions below remain unpublished until validation passes.
 
 Rollback: GitHub branch `rollback/benchauth-before-photographs-20261008`, commit
 `b4ffc080c4dba6f55bb246377a24a3c2bf284052`. A local Git bundle is saved at
@@ -36,11 +36,11 @@ watch models: punctuation/case duplicates collapse; M-prefixed aliases, base
 references and catalogue suffixes remain separate keys. Broad patterns require
 enumeration and source review; they are never counted as exact references.
 
-Current exact progress is in the generated coverage files: **216 identifier keys
-reviewed, 2,022 unreviewed; 164 source records reviewed, 2,283 unreviewed**. There are
-**576 catalogue assets: 544 verified gallery entries, 23 pending and 9 rejected**, including 31
-legacy assets. Verified entries use **533 distinct stored image URLs and 532 distinct inspected file hashes**; the same photograph can serve two categories. Verified reference-key coverage: **front 180, movement 70, caseback
-152, bracelet/clasp 147**. Reviewed gaps describe the inspected source set, not a
+Current exact progress is in the generated coverage files: **223 identifier keys
+reviewed, 2,015 unreviewed; 164 source records reviewed, 2,283 unreviewed**. There are
+**613 catalogue assets: 581 verified gallery entries, 23 pending and 9 rejected**, including 31
+legacy assets. Verified entries use **570 distinct stored image URLs and 569 distinct inspected file hashes**; the same photograph can serve two categories. Verified reference-key coverage: **front 186, movement 75, caseback
+158, bracelet/clasp 153**. Reviewed gaps describe the inspected source set, not a
 claim that no suitable image exists elsewhere. Existing textual research and
 pre-existing "verified" mapping badges do not verify photographs. Unreviewed
 categories are not counted as reviewed gaps.
@@ -354,3 +354,56 @@ sign-in/out matching, shared refreshes and safety restrictions. Actual public
 images load and enlarge for all 544 accepted gallery entries (532 distinct
 inspected files) across 254 exact accepted keys, with credits, representative
 labels and mobile overflow checked. No TLS verification was disabled.
+
+
+## Modern Rolex physical case references — next inspected checkpoint
+
+PR #12 deployment succeeded, and six public application/catalogue files matched
+commit b58654ed27c9aaa25d13fb3dbe5848aa50ad3f7b. A real live Chromium check
+loaded and enlarged all 21 newly published images, checked unsupported suffixes
+and passed the mobile layout check. The ready-reference exports reflect that
+published checkpoint until this next batch is deployed and verified.
+
+`photograph-rolex-modern-sources.json` documents 10 auction galleries and all
+152 decoded image occurrences visually inspected. Selected photographs were
+also inspected at full resolution. This batch adds 37 distinct inspected files:
+116610LN and 116610LV (separate black/green and green/green configurations),
+116500LN (white-dial Daytona with the actual 4130 execution), 116613LN,
+126610LV (black dial/green bezel with actual source-identified 3235 execution),
+126710BLRO (Jubilee with photographed 3285 stamp), 126613LB and 126500LN.
+Actual paired case stamps document the six numeric aliases 116610, 116500,
+116613, 126610, 126710 and 126613. No automatic suffix stripping is used.
+
+The 126500LN gallery has no opened 4131 photograph or numeric case stamp;
+only its documented full variant receives front, closed-back and clasp views.
+Numeric 126500 remains a reviewed gap. The 126613LB movement remains empty.
+Written calibre statements never stand in for absent photographs. Existing
+126610LN images are retained without duplicate attachments or an inferred
+numeric alias; the second 126710BLRO specimen's accompanied loose Oyster
+bracelet does not establish a factory Oyster configuration. No paperwork images
+are attached. Internal back numbers 2360, 2100 and 2520 are specimen details,
+not newly accepted watch-reference aliases. Visible versus source-only clasp
+codes and obscured calibre stamps are identified in captions.
+
+Fifteen explicit lookup keys receive category reviews; seven occur in the finite
+stored inventory. The inventory now has 223 reviewed keys and 2,015 unreviewed
+keys. Source records stay at 164 reviewed and 2,283 unreviewed: these numeric
+case aliases are inventory keys, not literal source-record keys. Research remains
+in progress. Application workflows and rollback remain unchanged. Live
+signed-in shared-database/RLS verification still requires an authorized test
+session; deterministic refresh fixtures do not substitute for that live check.
+
+Validation for this batch: all 33 Node checks pass, including dial/suffix,
+numeric-alias and 4130/4131 movement boundaries. The actual catalogue Chromium
+check loaded and enlarged all 581 accepted gallery entries (569 distinct
+inspected files) across 268 explicit keys with credits, representative labels
+and mobile overflow checked. Deterministic browser fixtures pass normalized
+matching, variants, failed-image handling, sign-in/out and shared-data refresh,
+safety restrictions, replica flags/clasp reminders, note copying, save/next,
+RMA, daily reset/progress and history. The legacy workflow smoke was run from
+a temporary harness using the installed Chromium, current inventory label,
+existing MC1 note terminology and desktop navigation before mobile collapse;
+lookup, movement checks, manual notes, safety, draft recovery and responsiveness
+pass. Its stale original browser path/count/note expectations were not treated
+as application regressions. No production repository or application workflow
+was changed. Live authenticated database verification remains separately open.

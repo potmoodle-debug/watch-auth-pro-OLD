@@ -11,7 +11,7 @@ test('photographed Rolex case stamps keep full variant and movement execution bo
   assert.ok(get(base).every(p=>p.matchScope==='representative variant'));
   assert.equal(get(base+'-0001').length,0);
  }
- for(const ref of ['116619LN','116710BLNR','116713LB','6304','6612','116610'])assert.equal(get(ref).length,0,ref);
+ for(const ref of ['116619LN','116710BLNR','116713LB','6304','6612'])assert.equal(get(ref).length,0,ref);
  const steel=get('116710').find(p=>p.category==='movement'),twoTone=get('116713').find(p=>p.category==='movement');
  assert.ok(steel&&twoTone);assert.notEqual(steel.image,twoTone.image);
  assert.ok(get('6305').every(p=>!['movement','braceletClasp'].includes(p.category)));
@@ -247,4 +247,30 @@ test('paired physical case stamps retain representative labels and strict suffix
  assert.ok(forRef('25610T').every(p=>!forRef('25600TN').some(q=>p.id===q.id)));
  assert.ok(forRef('25807KN').every(p=>!forRef('25707KN').some(q=>p.id===q.id)));
  assert.equal(forRef('79733N-0005').length,0);
+});
+
+
+test('modern Rolex case aliases retain dial, generation and photographed execution boundaries',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,options)=>matchingPhotographs(photos,'Rolex',ref,options).filter(p=>p.id.startsWith('bukowskis-modern-'));
+ for(const [base,full,n] of [['116610','116610LN',5],['116610','116610LV',5],['116500','116500LN',5],['116613','116613LN',5],['126610','126610LV',5],['126710','126710BLRO',5],['126613','126613LB',4]]){
+  assert.equal(get(full).length,n,full);
+  assert.ok(get(full).every(p=>get(base).some(q=>q.id===p.id)&&p.matchScope==='representative variant'));
+  assert.equal(get(full+'-0001').length,0,full+' unsupported suffix');
+ }
+ assert.equal(get('116610').length,10);
+ assert.ok(get('116610LN').every(p=>!get('116610LV').some(q=>q.id===p.id)));
+ assert.ok(get('116610LV').every(p=>p.variant.includes('green dial')));
+ assert.ok(get('126610LV').every(p=>p.variant.includes('black dial')));
+ assert.ok(get('116610LV').every(p=>!get('126610LV').some(q=>q.id===p.id)));
+ assert.ok(get('116500LN').find(p=>p.category==='movement').caption.includes('4130'));
+ assert.equal(get('126500LN').length,3);
+ assert.ok(get('126500LN').every(p=>p.category!=='movement'));
+ assert.equal(get('126500').length,0);
+ assert.ok(get('126613LB').every(p=>p.category!=='movement'));
+ assert.ok(get('126710BLRO').find(p=>p.category==='movement').caption.includes('3285'));
+ assert.ok(get('126710BLRO').every(p=>p.variant.includes('Jubilee')));
+ for(const ref of ['126710BLNR','126610LN','116613LB','126613LN','116500LB'])assert.equal(get(ref).length,0,ref);
+ assert.ok(get('126610LV',{externalOnly:true}).every(p=>p.category!=='movement'));
+ assert.equal(matchingPhotographs(photos,'Tudor','116610').length,0);
 });
