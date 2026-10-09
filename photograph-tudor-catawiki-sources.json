@@ -1,0 +1,278 @@
+{
+  "completion": "IN PROGRESS",
+  "reviewedAt": "2026-10-09T14:25:48.491580+00:00",
+  "inspectedGalleryImages": 23,
+  "acceptedPhotographs": 3,
+  "reviews": {
+    "35800": "Professional seller Hokkiya LLC lot 107216627 explicitly identifies 35800, 34 mm steel and Roman dial. Ten actual gallery photographs visually inspected, including rose closed back and exterior reference stamp. Manufacturer https://www.tudorwatch.com/en/watches/clair-de-rose/m35800-0001 independently confirms 34 mm Clair de Rose, opaline dial, blue cabochon and steel bracelet. Marketplace title Genève is not treated as a model-family name; source describes black hands but actual photographs show blue hands. Representative base only; no suffix inferred.",
+    "12510": "Catawiki lot 105982378 title identifies 12510, but original Dutch description explicitly says reference 21010 and mixes 41 mm and approximately 38 mm dimensions. All thirteen actual gallery photographs inspected; the guarantee-card face shown has purchase details but no readable reference confirmation. Closed back has Tudor/Geneve inscriptions but no independently legible exact case reference. Photographs withheld across all categories pending identity resolution. Source https://www.catawiki.com/en/l/105982378-tudor-style-12510-men-2018"
+  },
+  "sources": [
+    {
+      "reference": "35800",
+      "source": "https://www.catawiki.com/en/l/107216627",
+      "primary": "https://www.tudorwatch.com/en/watches/clair-de-rose/m35800-0001",
+      "imageAccess": [
+        {
+          "index": 0,
+          "image": "https://assets.catawiki.nl/assets/2026/8/17/7/e/1/7e161ad1-8d6d-479b-b195-59a3588c12e5.jpg",
+          "title": "Tudor - Genève - 35800 - Men - 2010-2020 ",
+          "status": "decoded",
+          "dimensions": [
+            525,
+            700
+          ],
+          "sha256": "7946e279f95d6c39c84ae316acf4d2defbc0cd600caad7829b5e4563d8756f8b"
+        },
+        {
+          "index": 1,
+          "image": "https://assets.catawiki.nl/assets/2026/8/17/b/d/0/bd083f9e-4c63-4b2b-ae5a-375996de7e9e.jpg",
+          "title": "Tudor - Genève - 35800 - Men - 2010-2020 ",
+          "status": "decoded",
+          "dimensions": [
+            700,
+            525
+          ],
+          "sha256": "8462de733c3158162df713ad6dfa75e843bb9574c41a8c2a1ea8f821b54fbdb5"
+        },
+        {
+          "index": 2,
+          "image": "https://assets.catawiki.nl/assets/2026/8/17/d/e/c/dec2bdc3-93f7-4b7d-b45f-2427e6de5931.jpg",
+          "title": "Tudor - Genève - 35800 - Men - 2010-2020 ",
+          "status": "decoded",
+          "dimensions": [
+            525,
+            700
+          ],
+          "sha256": "793efa4564c4275badaa6dc9ed4f6c0f743a660c97efed5e8347f648c14d34c7"
+        },
+        {
+          "index": 3,
+          "image": "https://assets.catawiki.nl/assets/2026/8/17/f/d/6/fd6f220e-230f-49c0-ae65-9d3e4e358ad5.jpg",
+          "title": "Tudor - Genève - 35800 - Men - 2010-2020 ",
+          "status": "decoded",
+          "dimensions": [
+            525,
+            700
+          ],
+          "sha256": "9ca3f76a66d655cad42848011defa6447f8c2561e9821b3e7873702c74ee34a5"
+        },
+        {
+          "index": 4,
+          "image": "https://assets.catawiki.nl/assets/2026/8/17/5/b/f/5bf903b3-2888-4a0b-8a31-32ad7dbabd45.jpg",
+          "title": "Tudor - Genève - 35800 - Men - 2010-2020 ",
+          "status": "decoded",
+          "dimensions": [
+            700,
+            525
+          ],
+          "sha256": "5f4f64ca4eaec67ebb28447cb1f35bbccdad851479ff06202b71beb28ddad5c0"
+        },
+        {
+          "index": 5,
+          "image": "https://assets.catawiki.nl/assets/2026/8/17/5/5/8/558ac3d4-be57-4de4-a48a-2e9264509f4a.jpg",
+          "title": "Tudor - Genève - 35800 - Men - 2010-2020 ",
+          "status": "decoded",
+          "dimensions": [
+            700,
+            525
+          ],
+          "sha256": "3918a1746956ae7a32489e3281ac32bec4e7ac5089874b736dec03bd6f6bd026"
+        },
+        {
+          "index": 6,
+          "image": "https://assets.catawiki.nl/assets/2026/8/17/0/9/c/09c13331-126c-4513-ba0d-4d3e41bcb900.jpg",
+          "title": "Tudor - Genève - 35800 - Men - 2010-2020 ",
+          "status": "decoded",
+          "dimensions": [
+            700,
+            525
+          ],
+          "sha256": "e6981d09a0114c961922921db0052740210690ceee3fc3562785905271c2c69c"
+        },
+        {
+          "index": 7,
+          "image": "https://assets.catawiki.nl/assets/2026/8/17/9/7/0/97055c3d-0932-4a9e-9f5d-aeb58d22bf07.jpg",
+          "title": "Tudor - Genève - 35800 - Men - 2010-2020 ",
+          "status": "decoded",
+          "dimensions": [
+            525,
+            700
+          ],
+          "sha256": "0c31a89305a0aa18dd430a5b570eca56ef3bec7ef4026538b24bc70ee13a08f8"
+        },
+        {
+          "index": 8,
+          "image": "https://assets.catawiki.nl/assets/2026/8/17/0/b/c/0bcb7130-72d5-4291-91b2-2c8a68318fd7.jpg",
+          "title": "Tudor - Genève - 35800 - Men - 2010-2020 ",
+          "status": "decoded",
+          "dimensions": [
+            525,
+            700
+          ],
+          "sha256": "dfc33915a8327c87bb5ae21869605ae43571039d1e719ed6d04d138711562634"
+        },
+        {
+          "index": 9,
+          "image": "https://assets.catawiki.nl/assets/2026/8/17/8/d/3/8d31c9d6-bdf6-40fc-913f-2c407316a93a.jpg",
+          "title": "Tudor - Genève - 35800 - Men - 2010-2020 ",
+          "status": "decoded",
+          "dimensions": [
+            525,
+            700
+          ],
+          "sha256": "cf26a6e4dc138a62a308f4a4a6b9a043fb34bc153cff49bb1bff4523ea80eff5"
+        }
+      ]
+    },
+    {
+      "reference": "12510",
+      "source": "https://www.catawiki.com/en/l/105982378-tudor-style-12510-men-2018",
+      "imageAccess": [
+        {
+          "index": 0,
+          "image": "https://assets.catawiki.nl/assets/2026/8/9/0/4/4/0440afe8-d4c9-487a-abfb-8bfb026f57d6.jpg",
+          "title": "Tudor - Style - 12510 - Men - 2018",
+          "status": "decoded",
+          "dimensions": [
+            525,
+            700
+          ],
+          "sha256": "a5ed668f806982ae4650284cff3e306d3b5882335aeb569833c992573c239f0a"
+        },
+        {
+          "index": 1,
+          "image": "https://assets.catawiki.nl/assets/2026/8/9/8/d/3/8d33be66-54f7-46e8-a2c7-17f4ed6fe6c4.jpg",
+          "title": "Tudor - Style - 12510 - Men - 2018",
+          "status": "decoded",
+          "dimensions": [
+            525,
+            700
+          ],
+          "sha256": "ad0be22c6063598990520fa5f00d7c42f1b6b2b4b82b492ea74701442842b4c3"
+        },
+        {
+          "index": 2,
+          "image": "https://assets.catawiki.nl/assets/2026/8/9/3/6/f/36f56cf6-3c31-4aad-abf2-c7d65f893aac.jpg",
+          "title": "Tudor - Style - 12510 - Men - 2018",
+          "status": "decoded",
+          "dimensions": [
+            525,
+            700
+          ],
+          "sha256": "4fe4f947b531f0854ddca8275f41e6505db9143a60cc3e81d896d14b8de4058c"
+        },
+        {
+          "index": 3,
+          "image": "https://assets.catawiki.nl/assets/2026/8/9/8/b/c/8bc58667-3622-46e6-b85d-bbf1341bba83.jpg",
+          "title": "Tudor - Style - 12510 - Men - 2018",
+          "status": "decoded",
+          "dimensions": [
+            525,
+            700
+          ],
+          "sha256": "752172acb61579ff23f1024ac98fbd8f22a73473530a797bdb2e5df6e3ea2eaf"
+        },
+        {
+          "index": 4,
+          "image": "https://assets.catawiki.nl/assets/2026/8/9/c/c/b/ccb86b13-dab4-4b2b-a0fb-0a41043f6377.jpg",
+          "title": "Tudor - Style - 12510 - Men - 2018",
+          "status": "decoded",
+          "dimensions": [
+            525,
+            700
+          ],
+          "sha256": "aa5a77cff07df3aa80822821574dc1721ab669bfff0c2f2b225e570afb3a1afc"
+        },
+        {
+          "index": 5,
+          "image": "https://assets.catawiki.nl/assets/2026/8/9/1/d/4/1d47beb1-9e8b-443c-8279-cc63ad86bc1a.jpg",
+          "title": "Tudor - Style - 12510 - Men - 2018",
+          "status": "decoded",
+          "dimensions": [
+            525,
+            700
+          ],
+          "sha256": "9f9a8453c22e481775626a2e9494741ecf3ba26bed7a9b94bacbb4cb92c50441"
+        },
+        {
+          "index": 6,
+          "image": "https://assets.catawiki.nl/assets/2026/8/9/7/d/a/7da8a2bd-22f5-4829-8ab8-b708b1e5a7c2.jpg",
+          "title": "Tudor - Style - 12510 - Men - 2018",
+          "status": "decoded",
+          "dimensions": [
+            525,
+            700
+          ],
+          "sha256": "ab1fdeefe740b9d8fe8505b83501303c9e9d4a6a27b6662db37d076aafbbb790"
+        },
+        {
+          "index": 7,
+          "image": "https://assets.catawiki.nl/assets/2026/8/9/5/e/a/5ea8c199-9090-4867-9fde-9acc0fdc52ee.jpg",
+          "title": "Tudor - Style - 12510 - Men - 2018",
+          "status": "decoded",
+          "dimensions": [
+            525,
+            700
+          ],
+          "sha256": "6bd685c6d4b4f3891e76715978a1d39008d63d5fdc0589c67858efb49adad950"
+        },
+        {
+          "index": 8,
+          "image": "https://assets.catawiki.nl/assets/2026/8/9/2/d/f/2dfbec39-36e6-48c4-a326-46e52f7d9dcb.jpg",
+          "title": "Tudor - Style - 12510 - Men - 2018",
+          "status": "decoded",
+          "dimensions": [
+            525,
+            700
+          ],
+          "sha256": "30d0b9efbb186047262e42a488c24682372961cfebf233e7c7fe1504b1fa66b6"
+        },
+        {
+          "index": 9,
+          "image": "https://assets.catawiki.nl/assets/2026/8/9/e/e/2/ee2625c0-f43c-4f3f-a79f-50deb34369a5.jpg",
+          "title": "Tudor - Style - 12510 - Men - 2018",
+          "status": "decoded",
+          "dimensions": [
+            525,
+            700
+          ],
+          "sha256": "6919100454625249cc3222bcbb01323848d08db5fb923ef51c1bf15f7c0b821c"
+        },
+        {
+          "index": 10,
+          "image": "https://assets.catawiki.nl/assets/2026/8/9/9/3/7/9375b6b7-3c36-41f7-aa78-68ffa28bfe21.jpg",
+          "title": "Tudor - Style - 12510 - Men - 2018",
+          "status": "decoded",
+          "dimensions": [
+            525,
+            700
+          ],
+          "sha256": "1bb4eaf5752ee21e39b8c6ca61e2f002aac3d44a654e04882d69db078f8174cf"
+        },
+        {
+          "index": 11,
+          "image": "https://assets.catawiki.nl/assets/2026/8/9/4/9/8/498a1cd5-6f06-4a9e-bee8-e4e3484f9b24.jpg",
+          "title": "Tudor - Style - 12510 - Men - 2018",
+          "status": "decoded",
+          "dimensions": [
+            610,
+            700
+          ],
+          "sha256": "3016df1c902f4d2786bd3b2378e733225cb335b837302e73a9f6b144199f6283"
+        },
+        {
+          "index": 12,
+          "image": "https://assets.catawiki.nl/assets/2026/8/9/6/a/3/6a334fad-f906-479f-80bf-bfff2d07a667.jpg",
+          "title": "Tudor - Style - 12510 - Men - 2018",
+          "status": "decoded",
+          "dimensions": [
+            525,
+            700
+          ],
+          "sha256": "748601ca2504c673233edd39b0de8b70cb040edd2654fde95c54906df1e9a901"
+        }
+      ]
+    }
+  ]
+}

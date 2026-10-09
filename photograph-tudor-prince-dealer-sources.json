@@ -1,0 +1,101 @@
+{
+  "completion": "IN PROGRESS",
+  "reviewedAt": "2026-10-09T14:26:29.774669+00:00",
+  "source": "https://bo-watches.com/products/tudor-prince-date-day-76200-box-papers",
+  "reference": "76200",
+  "inspectedGalleryImages": 9,
+  "acceptedPhotographs": 1,
+  "imageAccess": [
+    {
+      "index": 0,
+      "image": "https://bo-watches.com/cdn/shop/files/IMG_3099.jpg?v=1744275900&width=1984",
+      "status": "decoded",
+      "dimensions": [
+        1984,
+        1984
+      ],
+      "sha256": "5b5c01d594a671539129d797c13274cc0811216b858b8181e2c78c9caa56d457"
+    },
+    {
+      "index": 1,
+      "image": "https://bo-watches.com/cdn/shop/files/IMG_3098.jpg?v=1744275900&width=1984",
+      "status": "decoded",
+      "dimensions": [
+        1984,
+        1984
+      ],
+      "sha256": "df96ec338afe8991fbd4fbc092d6f3d3522a56af46fc75a5e2ca52624d057646"
+    },
+    {
+      "index": 2,
+      "image": "https://bo-watches.com/cdn/shop/files/IMG_3100.jpg?v=1744275852&width=1984",
+      "status": "decoded",
+      "dimensions": [
+        1984,
+        1984
+      ],
+      "sha256": "075e850746792c65d65f98229201536cd16d372fdb8097178be52acf365a9b28"
+    },
+    {
+      "index": 3,
+      "image": "https://bo-watches.com/cdn/shop/files/IMG_3101.jpg?v=1744275851&width=1984",
+      "status": "decoded",
+      "dimensions": [
+        1984,
+        1984
+      ],
+      "sha256": "7a67d2dbda1a1f764c44e760f7bffb3a4244306f8367cb38bd3ad4520239c49f"
+    },
+    {
+      "index": 4,
+      "image": "https://bo-watches.com/cdn/shop/files/IMG_3102.jpg?v=1744275852&width=1984",
+      "status": "decoded",
+      "dimensions": [
+        1984,
+        1984
+      ],
+      "sha256": "4e0556f6196875d36b68535bad71e1c8446578be885889e5c383acd1a8cff8ec"
+    },
+    {
+      "index": 5,
+      "image": "https://bo-watches.com/cdn/shop/files/IMG_3103.jpg?v=1744275852&width=1984",
+      "status": "decoded",
+      "dimensions": [
+        1984,
+        1984
+      ],
+      "sha256": "e7d8fb374c1a5ac4acfd61bf13ef96511abccbce054101661d8db35b0cd5517b"
+    },
+    {
+      "index": 6,
+      "image": "https://bo-watches.com/cdn/shop/files/IMG_3104.jpg?v=1744275852&width=1984",
+      "status": "decoded",
+      "dimensions": [
+        1984,
+        1984
+      ],
+      "sha256": "122c27f9026232ea5f18e91192bf227cfa56162228836e791e88d196973bd175"
+    },
+    {
+      "index": 7,
+      "image": "https://bo-watches.com/cdn/shop/files/IMG_3105.jpg?v=1744275851&width=1984",
+      "status": "decoded",
+      "dimensions": [
+        1984,
+        1984
+      ],
+      "sha256": "f7eda210d8b375d2f9d9a7f035897c858e37e62cfd7899cacb70cfc2e28d97f2"
+    },
+    {
+      "index": 8,
+      "image": "https://bo-watches.com/cdn/shop/files/IMG_20250409_132219.jpg?v=1744275851&width=3456",
+      "status": "decoded",
+      "dimensions": [
+        3456,
+        3456
+      ],
+      "sha256": "d8009040f9505a814a3c82315c73710b82c9d2f1e3adea9965e9b6d4c4fa75b3"
+    }
+  ],
+  "evidence": "Specialist dealer B&O Watches product listing explicitly identifies 76200, 36 mm steel Prince Date + Day and full set. All nine product media-gallery photographs inspected; unrelated Shopify recommended products excluded. Actual specimen has silver baton dial, day at 12, date at 3, Rolex crown and replacement velours leather strap. Generic product text says steel bracelet but specimen-specific description explicitly states handmade German leather replacement; bracelet/clasp category withheld. No opened movement or unobscured caseback image, and dealer purchase date does not establish production year."
+}
