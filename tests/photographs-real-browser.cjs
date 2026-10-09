@@ -23,6 +23,8 @@ const fs=require('node:fs');
    assert.equal(await page.locator('#visuals img').count(),expected.length,brand+' '+reference);
    for(const p of expected){
     const button=page.locator('[data-photo-id="'+p.id+'"]');
+    assert.ok((await button.locator('..').textContent()).includes(p.matchScope),p.id+' match scope');
+    assert.ok((await button.locator('..').textContent()).includes(p.variant),p.id+' variant');
     const img=button.locator('img');await img.scrollIntoViewIfNeeded();
     await page.waitForFunction(id=>{const image=document.querySelector('[data-photo-id="'+id+'"] img');return image?.complete&&image.naturalWidth>0;},p.id,{timeout:30000});
     await button.click();assert.ok(await page.locator('#photographDialog').isVisible());
@@ -30,7 +32,6 @@ const fs=require('node:fs');
     assert.ok((await page.locator('#photographDialog').textContent()).includes(p.credit));
     await page.keyboard.press('Escape');loaded.add(p.id);
    }
-   assert.match(await page.locator('#visuals').textContent(),/representative variant/i);
   }
   assert.equal(loaded.size,accepted.length);
   await page.evaluate(()=>scrollTo(0,0));

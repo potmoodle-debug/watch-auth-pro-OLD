@@ -36,11 +36,11 @@ watch models: punctuation/case duplicates collapse; M-prefixed aliases, base
 references and catalogue suffixes remain separate keys. Broad patterns require
 enumeration and source review; they are never counted as exact references.
 
-Current exact progress is in the generated coverage files: **119 identifier keys
-reviewed, 2,119 unreviewed; 94 source records reviewed, 2,353 unreviewed**. There are
-**392 catalogue assets: 361 verified, 22 pending and 9 rejected**, including 31
-legacy assets. Verified reference-key coverage: **front 105, movement 54, caseback
-99, bracelet/clasp 92**. Reviewed gaps describe the inspected source set, not a
+Current exact progress is in the generated coverage files: **160 identifier keys
+reviewed, 2,078 unreviewed; 118 source records reviewed, 2,329 unreviewed**. There are
+**469 catalogue assets: 438 verified, 22 pending and 9 rejected**, including 31
+legacy assets. Verified reference-key coverage: **front 143, movement 63, caseback
+126, bracelet/clasp 124**. Reviewed gaps describe the inspected source set, not a
 claim that no suitable image exists elsewhere. Existing textual research and
 pre-existing "verified" mapping badges do not verify photographs. Unreviewed
 categories are not counted as reviewed gaps.
@@ -90,6 +90,29 @@ pictured Rolex 4030 execution, without inheriting a generic Zenith image or late
 links are explicitly scoped or withheld. Internal shared caseback numbers do not
 create model aliases. Manufacturer M prefixes and full dial/bracelet suffixes
 still require their own documented identification.
+
+`photograph-older-auction-sources.json` records another 1,051 archived auction
+lots scanned, 124 exact matching lots discovered, and nine new Rolex reference
+keys investigated. All 155 images in those nine galleries were visually inspected;
+35 photographs are verified. Later clasps, personal back engravings, movement
+finishing and calibre boundaries remain explicit.
+
+`photograph-fratello-tudor-sources.json` records four hands-on articles and all
+97 main article images inspected. `photograph-fratello-tudor-additional-sources.json`
+records another 12 articles and all 186 main image occurrences inspected, including
+embedded tiled galleries. These passes add 42 photographs with manufacturer
+corroboration where available. Off-model comparisons are excluded: the bronze
+Black Bay 58 article pictures a silver 925 display-back movement, which does not
+supply bronze movement coverage. The ceramic specimen has its own photographed
+black MT5602-1U execution. Full manufacturer dial/bracelet suffixes are attached
+only where documented; base-reference examples stay representative.
+
+Year-coded FXD references need separate evidence. The 2024 GMT article identifies
+2542G247NU, whereas the current manufacturer wildcard product route identifies
+2542G267NU. Its reused 2024 media/user-guide metadata does not establish the back
+execution of a 2026 specimen. The inventory key 2542G257 also lacks documented
+identification. Likewise, the photographed M25707B/21 specimen is not attached to
+25707B/26 or the incomplete 25707 key. All such categories remain unresolved.
 
 ## Matching and display
 
@@ -152,8 +175,8 @@ authenticate to Supabase or verify real photograph loading or live RLS.
 public image servers without mocked images or authenticated database mutations.
 It checks every accepted photograph's load, enlargement, credit, representative
 label and mobile overflow. Chromium must trust the configured environment proxy
-CA; certificate verification must remain enabled. All 361 accepted photographs across 116 covered keys
-passed this check on 2026-10-09. Rerun after catalogue additions. The Node suite passes all 25
+CA; certificate verification must remain enabled. All 438 accepted photographs across 168 explicit covered keys
+passed this check on 2026-10-09. Rerun after catalogue additions. The Node suite passes all 26
 tests, and the fixture browser suite covers the preserved workflows and mocked
 authenticated refreshes.
 

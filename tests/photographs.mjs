@@ -101,3 +101,20 @@ test('Rolex specimen movements and service parts do not cross reference boundari
  assert.ok(forRef('126000-0006').every(p=>!forRef('126000').some(q=>q.id===p.id)));
  assert.ok(forRef('116400GV').every(p=>!forRef('116400').some(q=>q.id===p.id)));
 });
+test('documented Tudor configurations match full keys without inheriting other FXD executions',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const forRef=reference=>matchingPhotographs(photos,'Tudor',reference);
+ const full=forRef('m25407n 0001');
+ assert.ok(full.some(p=>p.id==='fratello-tudor-p39-front-7'));
+ assert.ok(full.some(p=>p.category==='caseback'));
+ assert.ok(full.some(p=>p.category==='braceletClasp'));
+ assert.ok(full.every(p=>p.category!=='movement'));
+ assert.ok(forRef('25407N-0002').every(p=>!full.some(q=>q.id===p.id)));
+ assert.ok(forRef('25407').every(p=>!full.some(q=>q.id===p.id)));
+ const carbon=forRef('25707KN');
+ assert.ok(carbon.some(p=>p.category==='front'));
+ assert.ok(carbon.every(p=>p.category!=='movement'&&p.category!=='caseback'));
+ assert.ok(forRef('25807KN').every(p=>!carbon.some(q=>q.id===p.id)));
+ assert.ok(forRef('25717N').some(p=>p.id==='fratello-tudor-usn-front-13'));
+ for(const reference of ['2542G257','2542G267NU'])assert.equal(forRef(reference).length,0);
+});

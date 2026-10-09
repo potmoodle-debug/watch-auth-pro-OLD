@@ -860,32 +860,6 @@
       }
     },
     {
-      "brand": "TUDOR",
-      "reference": "25407N",
-      "categories": {
-        "front": {
-          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
-          "finding": "verified representative specimen",
-          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1133-tudor-pelagos-39-ca-2023, lot identification and gallery pixels. 39 mm titanium specimen; auction documents MT5400 and bracelet 95817-UZ09. Compare calibre-manufacture/GENEVE back markings and inner clasp. No movement is visible and no M-prefixed catalogue alias is assumed. Visually inspected bukowskis-25407n-front."
-        },
-        "movement": {
-          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
-          "finding": "No verified photograph in inspected source set; further source research remains open.",
-          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1133-tudor-pelagos-39-ca-2023, lot identification and gallery pixels. 39 mm titanium specimen; auction documents MT5400 and bracelet 95817-UZ09. Compare calibre-manufacture/GENEVE back markings and inner clasp. No movement is visible and no M-prefixed catalogue alias is assumed. Calibre identification in source text does not prove photographed execution; no movement image is published."
-        },
-        "caseback": {
-          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
-          "finding": "verified representative specimen",
-          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1133-tudor-pelagos-39-ca-2023, lot identification and gallery pixels. 39 mm titanium specimen; auction documents MT5400 and bracelet 95817-UZ09. Compare calibre-manufacture/GENEVE back markings and inner clasp. No movement is visible and no M-prefixed catalogue alias is assumed. Visually inspected bukowskis-25407n-caseback."
-        },
-        "braceletClasp": {
-          "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
-          "finding": "verified representative specimen",
-          "evidence": "Examined https://www.bukowskis.com/en/auctions/671/1133-tudor-pelagos-39-ca-2023, lot identification and gallery pixels. 39 mm titanium specimen; auction documents MT5400 and bracelet 95817-UZ09. Compare calibre-manufacture/GENEVE back markings and inner clasp. No movement is visible and no M-prefixed catalogue alias is assumed. Visually inspected bukowskis-25407n-braceletClasp."
-        }
-      }
-    },
-    {
       "brand": "ROLEX",
       "reference": "16550",
       "categories": {
@@ -1193,32 +1167,6 @@
         "braceletClasp": {
           "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
           "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1976-to-1991 and every one of its 12 main historical gallery images. Front views/text document some bracelet types but do not show sufficient clasp construction/markings; no separate clasp photograph selected.",
-          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
-        }
-      }
-    },
-    {
-      "brand": "TUDOR",
-      "reference": "79180",
-      "categories": {
-        "front": {
-          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
-          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1976-to-1991 and every one of its 12 main historical gallery images. The page illustrates 79160 and 79170, not a specifically identified 79180 specimen. Family movement similarity does not establish exact execution; all neighbouring images withheld.",
-          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
-        },
-        "movement": {
-          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
-          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1976-to-1991 and every one of its 12 main historical gallery images. The page illustrates 79160 and 79170, not a specifically identified 79180 specimen. Family movement similarity does not establish exact execution; all neighbouring images withheld.",
-          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
-        },
-        "caseback": {
-          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
-          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1976-to-1991 and every one of its 12 main historical gallery images. The page illustrates 79160 and 79170, not a specifically identified 79180 specimen. Family movement similarity does not establish exact execution; all neighbouring images withheld.",
-          "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
-        },
-        "braceletClasp": {
-          "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
-          "evidence": "Inspected https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1976-to-1991 and every one of its 12 main historical gallery images. The page illustrates 79160 and 79170, not a specifically identified 79180 specimen. Family movement similarity does not establish exact execution; all neighbouring images withheld.",
           "finding": "No verified photograph in inspected manufacturer source set; further auction/dealer research remains open."
         }
       }
@@ -3094,6 +3042,1124 @@
           "finding": "verified representative specimen"
         }
       }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "16523",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/618/86-rolex-daytona-chronograph-inverted-6, exact lot identification and all 19 actual gallery images. Exact 16523 champagne inverted-six dial and 78363-SDT7/403 Oyster. Source dates the installed clasp 2002; a separate 1991 clasp is included, not pictured as the installed baseline. Green back sticker and aged adhesive are specimen condition. Internal 16500 does not create an alias. Selected image 0 with period/variant boundaries. ",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/618/86-rolex-daytona-chronograph-inverted-6, exact lot identification and all 19 actual gallery images. Exact 16523 champagne inverted-six dial and 78363-SDT7/403 Oyster. Source dates the installed clasp 2002; a separate 1991 clasp is included, not pictured as the installed baseline. Green back sticker and aged adhesive are specimen condition. Internal 16500 does not create an alias. Selected image 14 with period/variant boundaries. Opened specimen visibly shows 4030, gilt Rolex 31-jewel rotor lettering and Zenith-derived automatic chronograph layout; visible movement 50219 matches the source. Some exposed surfaces show discoloration; this is specimen condition, not a required finish.",
+          "finding": "verified representative specimen"
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/618/86-rolex-daytona-chronograph-inverted-6, exact lot identification and all 19 actual gallery images. Exact 16523 champagne inverted-six dial and 78363-SDT7/403 Oyster. Source dates the installed clasp 2002; a separate 1991 clasp is included, not pictured as the installed baseline. Green back sticker and aged adhesive are specimen condition. Internal 16500 does not create an alias. Selected image 16 with period/variant boundaries. ",
+          "finding": "verified representative specimen"
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/618/86-rolex-daytona-chronograph-inverted-6, exact lot identification and all 19 actual gallery images. Exact 16523 champagne inverted-six dial and 78363-SDT7/403 Oyster. Source dates the installed clasp 2002; a separate 1991 clasp is included, not pictured as the installed baseline. Green back sticker and aged adhesive are specimen condition. Internal 16500 does not create an alias. Selected image 6 with period/variant boundaries. ",
+          "finding": "verified representative specimen"
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "14060",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/618/94-rolex-submariner, exact lot identification and all 15 actual gallery images. Exact 14060 two-line dial and 93150-EB12/501B Oyster. Back engraving Lennart Modig is personal, not a factory marking. Source documents service in 2011 and 2017. Do not attach the later 14060M execution. Selected image 0 with period/variant boundaries. ",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/618/94-rolex-submariner, exact lot identification and all 15 actual gallery images. Exact 14060 two-line dial and 93150-EB12/501B Oyster. Back engraving Lennart Modig is personal, not a factory marking. Source documents service in 2011 and 2017. Do not attach the later 14060M execution. Selected image 12 with period/variant boundaries. Opened specimen shows the documented calibre 3000, gilt Rolex rotor lettering, red reversers and conventional balance execution. Visible movement serial 4519397 matches the source; keep distinct from later 14060M calibre 3130.",
+          "finding": "verified representative specimen"
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/618/94-rolex-submariner, exact lot identification and all 15 actual gallery images. Exact 14060 two-line dial and 93150-EB12/501B Oyster. Back engraving Lennart Modig is personal, not a factory marking. Source documents service in 2011 and 2017. Do not attach the later 14060M execution. Selected image 14 with period/variant boundaries. ",
+          "finding": "verified representative specimen"
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/618/94-rolex-submariner, exact lot identification and all 15 actual gallery images. Exact 14060 two-line dial and 93150-EB12/501B Oyster. Back engraving Lennart Modig is personal, not a factory marking. Source documents service in 2011 and 2017. Do not attach the later 14060M execution. Selected image 6 with period/variant boundaries. ",
+          "finding": "verified representative specimen"
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "126334",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/622/2083-rolex-datejust-41, exact lot identification and all 21 actual gallery images. Exact 126334 white baton configuration and 72610-R6U/W7W Oyster. Representative dial/bracelet specimen only; bare reference does not establish any full catalogue suffix. Internal 2480 does not create aliases. Selected image 0 with period/variant boundaries. ",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/622/2083-rolex-datejust-41, exact lot identification and all 21 actual gallery images. Exact 126334 white baton configuration and 72610-R6U/W7W Oyster. Representative dial/bracelet specimen only; bare reference does not establish any full catalogue suffix. Internal 2480 does not create aliases. Selected image 15 with period/variant boundaries. Source identifies calibre 3235. Opened specimen shows gilt Rolex lettering, crown rotor motif, bearing centre and blue hairspring, matching the documented modern Datejust 41 execution. Source movement number Z6M15337 is specimen-specific.",
+          "finding": "verified representative specimen"
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/622/2083-rolex-datejust-41, exact lot identification and all 21 actual gallery images. Exact 126334 white baton configuration and 72610-R6U/W7W Oyster. Representative dial/bracelet specimen only; bare reference does not establish any full catalogue suffix. Internal 2480 does not create aliases. Selected image 17 with period/variant boundaries. ",
+          "finding": "verified representative specimen"
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/622/2083-rolex-datejust-41, exact lot identification and all 21 actual gallery images. Exact 126334 white baton configuration and 72610-R6U/W7W Oyster. Representative dial/bracelet specimen only; bare reference does not establish any full catalogue suffix. Internal 2480 does not create aliases. Selected image 6 with period/variant boundaries. ",
+          "finding": "verified representative specimen"
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "1600",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/622/2098-rolex-datejust, exact lot identification and all 17 actual gallery images. Exact 1600 silver baton/smooth bezel and Jubilee with clasp marked 3.64, end links 55. Internal 1600/I.64 and visible case/lug number 1037076 agree with the documented specimen; no fluted 1601 or engine-turned 1603 image is inherited. Selected image 0 with period/variant boundaries. ",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/622/2098-rolex-datejust, exact lot identification and all 17 actual gallery images. Exact 1600 silver baton/smooth bezel and Jubilee with clasp marked 3.64, end links 55. Internal 1600/I.64 and visible case/lug number 1037076 agree with the documented specimen; no fluted 1601 or engine-turned 1603 image is inherited. Selected image 12 with period/variant boundaries. Opened specimen visibly shows 1560, gilt Rolex 26-jewel rotor lettering, purple reversers and specific vintage bridge/rotor execution. Source identifies movement D57613; do not substitute later Datejust movements.",
+          "finding": "verified representative specimen"
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/622/2098-rolex-datejust, exact lot identification and all 17 actual gallery images. Exact 1600 silver baton/smooth bezel and Jubilee with clasp marked 3.64, end links 55. Internal 1600/I.64 and visible case/lug number 1037076 agree with the documented specimen; no fluted 1601 or engine-turned 1603 image is inherited. Selected image 14 with period/variant boundaries. ",
+          "finding": "verified representative specimen"
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/622/2098-rolex-datejust, exact lot identification and all 17 actual gallery images. Exact 1600 silver baton/smooth bezel and Jubilee with clasp marked 3.64, end links 55. Internal 1600/I.64 and visible case/lug number 1037076 agree with the documented specimen; no fluted 1601 or engine-turned 1603 image is inherited. Selected image 7 with period/variant boundaries. ",
+          "finding": "verified representative specimen"
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "114060",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/627/21-rolex-submariner, exact lot identification and all 17 actual gallery images. Exact 114060 black ceramic bezel and 97200-Z2K/0KY Oyster. Caseback category shows the closed plain back in an angled specimen view. Calibre 3130 is text only; no opened movement photo is published. Do not inherit later 124060 calibre 3230. Selected image 0 with period/variant boundaries. ",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/627/21-rolex-submariner, exact lot identification and all 17 actual gallery images. Exact 114060 black ceramic bezel and 97200-Z2K/0KY Oyster. Caseback category shows the closed plain back in an angled specimen view. Calibre 3130 is text only; no opened movement photo is published. Do not inherit later 124060 calibre 3230. No published execution photograph tied to this reference selected; source text alone does not verify a movement image.",
+          "finding": "No verified photograph in inspected source set; further source research remains open."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/627/21-rolex-submariner, exact lot identification and all 17 actual gallery images. Exact 114060 black ceramic bezel and 97200-Z2K/0KY Oyster. Caseback category shows the closed plain back in an angled specimen view. Calibre 3130 is text only; no opened movement photo is published. Do not inherit later 124060 calibre 3230. Selected image 4 with period/variant boundaries. ",
+          "finding": "verified representative specimen"
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/627/21-rolex-submariner, exact lot identification and all 17 actual gallery images. Exact 114060 black ceramic bezel and 97200-Z2K/0KY Oyster. Caseback category shows the closed plain back in an angled specimen view. Calibre 3130 is text only; no opened movement photo is published. Do not inherit later 124060 calibre 3230. Selected image 7 with period/variant boundaries. ",
+          "finding": "verified representative specimen"
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "6239",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/627/37-rolex-cosmograph-daytona-chronograph-cherry-red-units-per-hour-300, exact lot identification and all 11 actual gallery images. Exact 6239 silver/black-counter configuration, steel units-per-hour 300 bezel and push buttons. Source dates installed 78350-VE/557 Oyster clasp around 1980, later than this circa 1967 case. Closed plain back is shown at an angle; internal source marking 6239 C.R.S is not used for other aliases. Selected image 0 with period/variant boundaries. ",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/627/37-rolex-cosmograph-daytona-chronograph-cherry-red-units-per-hour-300, exact lot identification and all 11 actual gallery images. Exact 6239 silver/black-counter configuration, steel units-per-hour 300 bezel and push buttons. Source dates installed 78350-VE/557 Oyster clasp around 1980, later than this circa 1967 case. Closed plain back is shown at an angle; internal source marking 6239 C.R.S is not used for other aliases. Selected image 7 with period/variant boundaries. Source identifies Valjoux 722-1; opened specimen visibly shows the Rolex-branded manual 17-jewel chronograph execution with column wheel and specific bridge layout. The visible plate marking is 722; suffix -1 comes from the source identification, not a claimed visible stamp.",
+          "finding": "verified representative specimen"
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/627/37-rolex-cosmograph-daytona-chronograph-cherry-red-units-per-hour-300, exact lot identification and all 11 actual gallery images. Exact 6239 silver/black-counter configuration, steel units-per-hour 300 bezel and push buttons. Source dates installed 78350-VE/557 Oyster clasp around 1980, later than this circa 1967 case. Closed plain back is shown at an angle; internal source marking 6239 C.R.S is not used for other aliases. Selected image 4 with period/variant boundaries. ",
+          "finding": "verified representative specimen"
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/627/37-rolex-cosmograph-daytona-chronograph-cherry-red-units-per-hour-300, exact lot identification and all 11 actual gallery images. Exact 6239 silver/black-counter configuration, steel units-per-hour 300 bezel and push buttons. Source dates installed 78350-VE/557 Oyster clasp around 1980, later than this circa 1967 case. Closed plain back is shown at an angle; internal source marking 6239 C.R.S is not used for other aliases. Selected image 6 with period/variant boundaries. ",
+          "finding": "verified representative specimen"
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "268655",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/627/56-rolex-yacht-master-37, exact lot identification and all 17 actual gallery images. Exact 268655 Everose-gold case/black bezel on Oysterflex, source strap/clasp reference 350557EF-1GS. Clasp selection shows exterior only; no unpictured inner codes are claimed. Internal back 2475 does not create a different reference. Selected image 0 with period/variant boundaries. ",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/627/56-rolex-yacht-master-37, exact lot identification and all 17 actual gallery images. Exact 268655 Everose-gold case/black bezel on Oysterflex, source strap/clasp reference 350557EF-1GS. Clasp selection shows exterior only; no unpictured inner codes are claimed. Internal back 2475 does not create a different reference. Selected image 10 with period/variant boundaries. Source identifies calibre 2236; opened compact Rolex automatic specimen shows gilt lettering, red reverser and specific compact bridge/rotor execution. Source movement number F519Y495 is specimen-specific; do not inherit the larger Yacht-Master 3135 or 3235.",
+          "finding": "verified representative specimen"
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/627/56-rolex-yacht-master-37, exact lot identification and all 17 actual gallery images. Exact 268655 Everose-gold case/black bezel on Oysterflex, source strap/clasp reference 350557EF-1GS. Clasp selection shows exterior only; no unpictured inner codes are claimed. Internal back 2475 does not create a different reference. Selected image 3 with period/variant boundaries. ",
+          "finding": "verified representative specimen"
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/627/56-rolex-yacht-master-37, exact lot identification and all 17 actual gallery images. Exact 268655 Everose-gold case/black bezel on Oysterflex, source strap/clasp reference 350557EF-1GS. Clasp selection shows exterior only; no unpictured inner codes are claimed. Internal back 2475 does not create a different reference. Selected image 4 with period/variant boundaries. ",
+          "finding": "verified representative specimen"
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "218239",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/627/79-rolex-day-date-ii, exact lot identification and all 19 actual gallery images. Exact 218239 silver baton configuration with 83219-RS/LT white-gold President. This specimen weight is not used as a universal authentication threshold. Internal back 2419 does not create an alias or later Day-Date 40 configuration. Selected image 0 with period/variant boundaries. ",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/627/79-rolex-day-date-ii, exact lot identification and all 19 actual gallery images. Exact 218239 silver baton configuration with 83219-RS/LT white-gold President. This specimen weight is not used as a universal authentication threshold. Internal back 2419 does not create an alias or later Day-Date 40 configuration. Selected image 13 with period/variant boundaries. Source identifies calibre 3156. Opened specimen shows gilt Rolex rotor lettering, blue hairspring and two-point balance bridge; visible movement serial 88V38571 matches the source. Keep distinct from Day-Date 36 calibre 3155 and later Day-Date 40 calibre 3255.",
+          "finding": "verified representative specimen"
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/627/79-rolex-day-date-ii, exact lot identification and all 19 actual gallery images. Exact 218239 silver baton configuration with 83219-RS/LT white-gold President. This specimen weight is not used as a universal authentication threshold. Internal back 2419 does not create an alias or later Day-Date 40 configuration. Selected image 5 with period/variant boundaries. ",
+          "finding": "verified representative specimen"
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/627/79-rolex-day-date-ii, exact lot identification and all 19 actual gallery images. Exact 218239 silver baton configuration with 83219-RS/LT white-gold President. This specimen weight is not used as a universal authentication threshold. Internal back 2419 does not create an alias or later Day-Date 40 configuration. Selected image 8 with period/variant boundaries. ",
+          "finding": "verified representative specimen"
+        }
+      }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "116622",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/627/9-rolex-yacht-master-40, exact lot identification and all 19 actual gallery images. Exact 116622 blue dial configuration with 78800-6WA/F2T Oyster. Source identity is corroborated by the model/serial card and rehaut; private paperwork is not attached. Internal 2180 is shared tooling, not a lookup alias. Selected image 0 with period/variant boundaries. ",
+          "finding": "verified representative specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/627/9-rolex-yacht-master-40, exact lot identification and all 19 actual gallery images. Exact 116622 blue dial configuration with 78800-6WA/F2T Oyster. Source identity is corroborated by the model/serial card and rehaut; private paperwork is not attached. Internal 2180 is shared tooling, not a lookup alias. Selected image 12 with period/variant boundaries. Opened specimen visibly shows 3135, gilt Rolex lettering, red reversers and blue hairspring with two-point balance bridge. Compare this execution rather than earlier 16622 conventional-hairspring execution or later 126622 calibre 3235.",
+          "finding": "verified representative specimen"
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/627/9-rolex-yacht-master-40, exact lot identification and all 19 actual gallery images. Exact 116622 blue dial configuration with 78800-6WA/F2T Oyster. Source identity is corroborated by the model/serial card and rehaut; private paperwork is not attached. Internal 2180 is shared tooling, not a lookup alias. Selected image 5 with period/variant boundaries. ",
+          "finding": "verified representative specimen"
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+          "evidence": "Inspected https://www.bukowskis.com/en/auctions/627/9-rolex-yacht-master-40, exact lot identification and all 19 actual gallery images. Exact 116622 blue dial configuration with 78800-6WA/F2T Oyster. Source identity is corroborated by the model/serial card and rehaut; private paperwork is not attached. Internal 2180 is shared tooling, not a lookup alias. Selected image 7 with period/variant boundaries. ",
+          "finding": "verified representative specimen"
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "25407N",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/; https://www.tudorwatch.com/en/watches/pelagos/m25407n-0001. Manufacturer explicitly identifies M25407N-0001, black sunray dial, 39 mm grade 2 titanium case, T-fit bracelet and complimentary black rubber strap. Hands-on article documents handling and photographing both supplied configurations. Actual photographed back visibly carries 25407 and TUDOR GENEVE CALIBRE MANUFACTURE inscriptions; that tooling stamp alone is not an alias for the incomplete inventory key 25407. Inspected all 21 main article images. Selected images [7, 8]."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/; https://www.tudorwatch.com/en/watches/pelagos/m25407n-0001. Manufacturer explicitly identifies M25407N-0001, black sunray dial, 39 mm grade 2 titanium case, T-fit bracelet and complimentary black rubber strap. Hands-on article documents handling and photographing both supplied configurations. Actual photographed back visibly carries 25407 and TUDOR GENEVE CALIBRE MANUFACTURE inscriptions; that tooling stamp alone is not an alias for the incomplete inventory key 25407. Inspected all 21 main article images. No actual photograph documenting this category for the stated case reference; shared MT5400/MT5602 movement pictures and neighbouring back/strap images are withheld."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/; https://www.tudorwatch.com/en/watches/pelagos/m25407n-0001. Manufacturer explicitly identifies M25407N-0001, black sunray dial, 39 mm grade 2 titanium case, T-fit bracelet and complimentary black rubber strap. Hands-on article documents handling and photographing both supplied configurations. Actual photographed back visibly carries 25407 and TUDOR GENEVE CALIBRE MANUFACTURE inscriptions; that tooling stamp alone is not an alias for the incomplete inventory key 25407. Inspected all 21 main article images. Selected images [19]."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/; https://www.tudorwatch.com/en/watches/pelagos/m25407n-0001. Manufacturer explicitly identifies M25407N-0001, black sunray dial, 39 mm grade 2 titanium case, T-fit bracelet and complimentary black rubber strap. Hands-on article documents handling and photographing both supplied configurations. Actual photographed back visibly carries 25407 and TUDOR GENEVE CALIBRE MANUFACTURE inscriptions; that tooling stamp alone is not an alias for the incomplete inventory key 25407. Inspected all 21 main article images. Selected images [16, 17, 18]."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "25407N-0001",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/; https://www.tudorwatch.com/en/watches/pelagos/m25407n-0001. Manufacturer explicitly identifies M25407N-0001, black sunray dial, 39 mm grade 2 titanium case, T-fit bracelet and complimentary black rubber strap. Hands-on article documents handling and photographing both supplied configurations. Actual photographed back visibly carries 25407 and TUDOR GENEVE CALIBRE MANUFACTURE inscriptions; that tooling stamp alone is not an alias for the incomplete inventory key 25407. Inspected all 21 main article images. Selected images [7, 8]."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/; https://www.tudorwatch.com/en/watches/pelagos/m25407n-0001. Manufacturer explicitly identifies M25407N-0001, black sunray dial, 39 mm grade 2 titanium case, T-fit bracelet and complimentary black rubber strap. Hands-on article documents handling and photographing both supplied configurations. Actual photographed back visibly carries 25407 and TUDOR GENEVE CALIBRE MANUFACTURE inscriptions; that tooling stamp alone is not an alias for the incomplete inventory key 25407. Inspected all 21 main article images. No actual photograph documenting this category for the stated case reference; shared MT5400/MT5602 movement pictures and neighbouring back/strap images are withheld."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/; https://www.tudorwatch.com/en/watches/pelagos/m25407n-0001. Manufacturer explicitly identifies M25407N-0001, black sunray dial, 39 mm grade 2 titanium case, T-fit bracelet and complimentary black rubber strap. Hands-on article documents handling and photographing both supplied configurations. Actual photographed back visibly carries 25407 and TUDOR GENEVE CALIBRE MANUFACTURE inscriptions; that tooling stamp alone is not an alias for the incomplete inventory key 25407. Inspected all 21 main article images. Selected images [19]."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/; https://www.tudorwatch.com/en/watches/pelagos/m25407n-0001. Manufacturer explicitly identifies M25407N-0001, black sunray dial, 39 mm grade 2 titanium case, T-fit bracelet and complimentary black rubber strap. Hands-on article documents handling and photographing both supplied configurations. Actual photographed back visibly carries 25407 and TUDOR GENEVE CALIBRE MANUFACTURE inscriptions; that tooling stamp alone is not an alias for the incomplete inventory key 25407. Inspected all 21 main article images. Selected images [16, 17, 18]."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "M25407N",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/; https://www.tudorwatch.com/en/watches/pelagos/m25407n-0001. Manufacturer explicitly identifies M25407N-0001, black sunray dial, 39 mm grade 2 titanium case, T-fit bracelet and complimentary black rubber strap. Hands-on article documents handling and photographing both supplied configurations. Actual photographed back visibly carries 25407 and TUDOR GENEVE CALIBRE MANUFACTURE inscriptions; that tooling stamp alone is not an alias for the incomplete inventory key 25407. Inspected all 21 main article images. Selected images [7, 8]."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/; https://www.tudorwatch.com/en/watches/pelagos/m25407n-0001. Manufacturer explicitly identifies M25407N-0001, black sunray dial, 39 mm grade 2 titanium case, T-fit bracelet and complimentary black rubber strap. Hands-on article documents handling and photographing both supplied configurations. Actual photographed back visibly carries 25407 and TUDOR GENEVE CALIBRE MANUFACTURE inscriptions; that tooling stamp alone is not an alias for the incomplete inventory key 25407. Inspected all 21 main article images. No actual photograph documenting this category for the stated case reference; shared MT5400/MT5602 movement pictures and neighbouring back/strap images are withheld."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/; https://www.tudorwatch.com/en/watches/pelagos/m25407n-0001. Manufacturer explicitly identifies M25407N-0001, black sunray dial, 39 mm grade 2 titanium case, T-fit bracelet and complimentary black rubber strap. Hands-on article documents handling and photographing both supplied configurations. Actual photographed back visibly carries 25407 and TUDOR GENEVE CALIBRE MANUFACTURE inscriptions; that tooling stamp alone is not an alias for the incomplete inventory key 25407. Inspected all 21 main article images. Selected images [19]."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/; https://www.tudorwatch.com/en/watches/pelagos/m25407n-0001. Manufacturer explicitly identifies M25407N-0001, black sunray dial, 39 mm grade 2 titanium case, T-fit bracelet and complimentary black rubber strap. Hands-on article documents handling and photographing both supplied configurations. Actual photographed back visibly carries 25407 and TUDOR GENEVE CALIBRE MANUFACTURE inscriptions; that tooling stamp alone is not an alias for the incomplete inventory key 25407. Inspected all 21 main article images. Selected images [16, 17, 18]."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "M25407N-0001",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/; https://www.tudorwatch.com/en/watches/pelagos/m25407n-0001. Manufacturer explicitly identifies M25407N-0001, black sunray dial, 39 mm grade 2 titanium case, T-fit bracelet and complimentary black rubber strap. Hands-on article documents handling and photographing both supplied configurations. Actual photographed back visibly carries 25407 and TUDOR GENEVE CALIBRE MANUFACTURE inscriptions; that tooling stamp alone is not an alias for the incomplete inventory key 25407. Inspected all 21 main article images. Selected images [7, 8]."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/; https://www.tudorwatch.com/en/watches/pelagos/m25407n-0001. Manufacturer explicitly identifies M25407N-0001, black sunray dial, 39 mm grade 2 titanium case, T-fit bracelet and complimentary black rubber strap. Hands-on article documents handling and photographing both supplied configurations. Actual photographed back visibly carries 25407 and TUDOR GENEVE CALIBRE MANUFACTURE inscriptions; that tooling stamp alone is not an alias for the incomplete inventory key 25407. Inspected all 21 main article images. No actual photograph documenting this category for the stated case reference; shared MT5400/MT5602 movement pictures and neighbouring back/strap images are withheld."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/; https://www.tudorwatch.com/en/watches/pelagos/m25407n-0001. Manufacturer explicitly identifies M25407N-0001, black sunray dial, 39 mm grade 2 titanium case, T-fit bracelet and complimentary black rubber strap. Hands-on article documents handling and photographing both supplied configurations. Actual photographed back visibly carries 25407 and TUDOR GENEVE CALIBRE MANUFACTURE inscriptions; that tooling stamp alone is not an alias for the incomplete inventory key 25407. Inspected all 21 main article images. Selected images [19]."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/; https://www.tudorwatch.com/en/watches/pelagos/m25407n-0001. Manufacturer explicitly identifies M25407N-0001, black sunray dial, 39 mm grade 2 titanium case, T-fit bracelet and complimentary black rubber strap. Hands-on article documents handling and photographing both supplied configurations. Actual photographed back visibly carries 25407 and TUDOR GENEVE CALIBRE MANUFACTURE inscriptions; that tooling stamp alone is not an alias for the incomplete inventory key 25407. Inspected all 21 main article images. Selected images [16, 17, 18]."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "25707KN",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-alinghi-red-bull-racing/; https://www.tudorwatch.com/en/watches/pelagos-fxd/m25707kn-0001. Hands-on author documents photographing and wearing the three-hand Alinghi FXD; specification table explicitly identifies M25707KN-0001, blue dial, 42 mm forged-carbon case, titanium crown/bezel edge and blue textile Velcro strap. Manufacturer legacy product URL currently redirects to the family; it is not used as independent exact-reference confirmation. Chronograph and Black Bay images in the same article are excluded. Inspected all 19 main article images. Selected images [15]."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-alinghi-red-bull-racing/; https://www.tudorwatch.com/en/watches/pelagos-fxd/m25707kn-0001. Hands-on author documents photographing and wearing the three-hand Alinghi FXD; specification table explicitly identifies M25707KN-0001, blue dial, 42 mm forged-carbon case, titanium crown/bezel edge and blue textile Velcro strap. Manufacturer legacy product URL currently redirects to the family; it is not used as independent exact-reference confirmation. Chronograph and Black Bay images in the same article are excluded. Inspected all 19 main article images. No actual photograph documenting this category for the stated case reference; shared MT5400/MT5602 movement pictures and neighbouring back/strap images are withheld."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-alinghi-red-bull-racing/; https://www.tudorwatch.com/en/watches/pelagos-fxd/m25707kn-0001. Hands-on author documents photographing and wearing the three-hand Alinghi FXD; specification table explicitly identifies M25707KN-0001, blue dial, 42 mm forged-carbon case, titanium crown/bezel edge and blue textile Velcro strap. Manufacturer legacy product URL currently redirects to the family; it is not used as independent exact-reference confirmation. Chronograph and Black Bay images in the same article are excluded. Inspected all 19 main article images. No actual photograph documenting this category for the stated case reference; shared MT5400/MT5602 movement pictures and neighbouring back/strap images are withheld."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-alinghi-red-bull-racing/; https://www.tudorwatch.com/en/watches/pelagos-fxd/m25707kn-0001. Hands-on author documents photographing and wearing the three-hand Alinghi FXD; specification table explicitly identifies M25707KN-0001, blue dial, 42 mm forged-carbon case, titanium crown/bezel edge and blue textile Velcro strap. Manufacturer legacy product URL currently redirects to the family; it is not used as independent exact-reference confirmation. Chronograph and Black Bay images in the same article are excluded. Inspected all 19 main article images. Selected images [19]."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "25717N",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/; https://www.tudorwatch.com/en/watches/pelagos-fxd/m25717n-0001. Manufacturer and hands-on specification table both explicitly identify M25717N-0001, black dial, titanium case, unidirectional 60-minute bezel and forest-green/red-thread fabric strap. Historical Navy watches, blue FXD and Alinghi chronographs in the same article are excluded. US Navy inspiration does not prove individual military issue. Inspected all 31 main article images. Selected images [13]."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/; https://www.tudorwatch.com/en/watches/pelagos-fxd/m25717n-0001. Manufacturer and hands-on specification table both explicitly identify M25717N-0001, black dial, titanium case, unidirectional 60-minute bezel and forest-green/red-thread fabric strap. Historical Navy watches, blue FXD and Alinghi chronographs in the same article are excluded. US Navy inspiration does not prove individual military issue. Inspected all 31 main article images. No actual photograph documenting this category for the stated case reference; shared MT5400/MT5602 movement pictures and neighbouring back/strap images are withheld."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/; https://www.tudorwatch.com/en/watches/pelagos-fxd/m25717n-0001. Manufacturer and hands-on specification table both explicitly identify M25717N-0001, black dial, titanium case, unidirectional 60-minute bezel and forest-green/red-thread fabric strap. Historical Navy watches, blue FXD and Alinghi chronographs in the same article are excluded. US Navy inspiration does not prove individual military issue. Inspected all 31 main article images. No actual photograph documenting this category for the stated case reference; shared MT5400/MT5602 movement pictures and neighbouring back/strap images are withheld."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/; https://www.tudorwatch.com/en/watches/pelagos-fxd/m25717n-0001. Manufacturer and hands-on specification table both explicitly identify M25717N-0001, black dial, titanium case, unidirectional 60-minute bezel and forest-green/red-thread fabric strap. Historical Navy watches, blue FXD and Alinghi chronographs in the same article are excluded. US Navy inspiration does not prove individual military issue. Inspected all 31 main article images. No actual photograph documenting this category for the stated case reference; shared MT5400/MT5602 movement pictures and neighbouring back/strap images are withheld."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "2542G257",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "Unresolved source/reference conflict; no verified photograph attached.",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/ identifies M2542G247NU-0002, a 2024 Marine Nationale GMT with M.N.24 back. All 26 actual main article images inspected. Current manufacturer family https://www.tudorwatch.com/en/watches/pelagos-fxd and wildcard product https://www.tudorwatch.com/en/watches/pelagos-fxd/m2542gxx7nu-0002 identify 2542G267NU. Exact guessed product URLs for 2542G257 and 2542G247NU return 404. No documented alias from the inventory 2542G257 or 2542G267NU to the photographed 2024 reference is established. Similar visible dial and a shared MT5652-U calibre do not repair the reference/year boundary. All four categories withheld; further date-specific manufacturer/dealer evidence required. Current manufacturer metadata also explicitly maps its 2024 user-guide rmc m2542g247nu-0002 to cleanedRmc m2542gxx7nu-0002 and reuses 2024 product film. This documents a common model route, but does not establish the pictured M.N.24 caseback execution for an exact 2026 reference. Year-specific scope remains unresolved."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "Unresolved source/reference conflict; no verified photograph attached.",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/ identifies M2542G247NU-0002, a 2024 Marine Nationale GMT with M.N.24 back. All 26 actual main article images inspected. Current manufacturer family https://www.tudorwatch.com/en/watches/pelagos-fxd and wildcard product https://www.tudorwatch.com/en/watches/pelagos-fxd/m2542gxx7nu-0002 identify 2542G267NU. Exact guessed product URLs for 2542G257 and 2542G247NU return 404. No documented alias from the inventory 2542G257 or 2542G267NU to the photographed 2024 reference is established. Similar visible dial and a shared MT5652-U calibre do not repair the reference/year boundary. All four categories withheld; further date-specific manufacturer/dealer evidence required. Current manufacturer metadata also explicitly maps its 2024 user-guide rmc m2542g247nu-0002 to cleanedRmc m2542gxx7nu-0002 and reuses 2024 product film. This documents a common model route, but does not establish the pictured M.N.24 caseback execution for an exact 2026 reference. Year-specific scope remains unresolved."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "Unresolved source/reference conflict; no verified photograph attached.",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/ identifies M2542G247NU-0002, a 2024 Marine Nationale GMT with M.N.24 back. All 26 actual main article images inspected. Current manufacturer family https://www.tudorwatch.com/en/watches/pelagos-fxd and wildcard product https://www.tudorwatch.com/en/watches/pelagos-fxd/m2542gxx7nu-0002 identify 2542G267NU. Exact guessed product URLs for 2542G257 and 2542G247NU return 404. No documented alias from the inventory 2542G257 or 2542G267NU to the photographed 2024 reference is established. Similar visible dial and a shared MT5652-U calibre do not repair the reference/year boundary. All four categories withheld; further date-specific manufacturer/dealer evidence required. Current manufacturer metadata also explicitly maps its 2024 user-guide rmc m2542g247nu-0002 to cleanedRmc m2542gxx7nu-0002 and reuses 2024 product film. This documents a common model route, but does not establish the pictured M.N.24 caseback execution for an exact 2026 reference. Year-specific scope remains unresolved."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "Unresolved source/reference conflict; no verified photograph attached.",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/ identifies M2542G247NU-0002, a 2024 Marine Nationale GMT with M.N.24 back. All 26 actual main article images inspected. Current manufacturer family https://www.tudorwatch.com/en/watches/pelagos-fxd and wildcard product https://www.tudorwatch.com/en/watches/pelagos-fxd/m2542gxx7nu-0002 identify 2542G267NU. Exact guessed product URLs for 2542G257 and 2542G247NU return 404. No documented alias from the inventory 2542G257 or 2542G267NU to the photographed 2024 reference is established. Similar visible dial and a shared MT5652-U calibre do not repair the reference/year boundary. All four categories withheld; further date-specific manufacturer/dealer evidence required. Current manufacturer metadata also explicitly maps its 2024 user-guide rmc m2542g247nu-0002 to cleanedRmc m2542gxx7nu-0002 and reuses 2024 product film. This documents a common model route, but does not establish the pictured M.N.24 caseback execution for an exact 2026 reference. Year-specific scope remains unresolved."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "2542G267NU",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "Unresolved source/reference conflict; no verified photograph attached.",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/ identifies M2542G247NU-0002, a 2024 Marine Nationale GMT with M.N.24 back. All 26 actual main article images inspected. Current manufacturer family https://www.tudorwatch.com/en/watches/pelagos-fxd and wildcard product https://www.tudorwatch.com/en/watches/pelagos-fxd/m2542gxx7nu-0002 identify 2542G267NU. Exact guessed product URLs for 2542G257 and 2542G247NU return 404. No documented alias from the inventory 2542G257 or 2542G267NU to the photographed 2024 reference is established. Similar visible dial and a shared MT5652-U calibre do not repair the reference/year boundary. All four categories withheld; further date-specific manufacturer/dealer evidence required. Current manufacturer metadata also explicitly maps its 2024 user-guide rmc m2542g247nu-0002 to cleanedRmc m2542gxx7nu-0002 and reuses 2024 product film. This documents a common model route, but does not establish the pictured M.N.24 caseback execution for an exact 2026 reference. Year-specific scope remains unresolved."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "Unresolved source/reference conflict; no verified photograph attached.",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/ identifies M2542G247NU-0002, a 2024 Marine Nationale GMT with M.N.24 back. All 26 actual main article images inspected. Current manufacturer family https://www.tudorwatch.com/en/watches/pelagos-fxd and wildcard product https://www.tudorwatch.com/en/watches/pelagos-fxd/m2542gxx7nu-0002 identify 2542G267NU. Exact guessed product URLs for 2542G257 and 2542G247NU return 404. No documented alias from the inventory 2542G257 or 2542G267NU to the photographed 2024 reference is established. Similar visible dial and a shared MT5652-U calibre do not repair the reference/year boundary. All four categories withheld; further date-specific manufacturer/dealer evidence required. Current manufacturer metadata also explicitly maps its 2024 user-guide rmc m2542g247nu-0002 to cleanedRmc m2542gxx7nu-0002 and reuses 2024 product film. This documents a common model route, but does not establish the pictured M.N.24 caseback execution for an exact 2026 reference. Year-specific scope remains unresolved."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "Unresolved source/reference conflict; no verified photograph attached.",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/ identifies M2542G247NU-0002, a 2024 Marine Nationale GMT with M.N.24 back. All 26 actual main article images inspected. Current manufacturer family https://www.tudorwatch.com/en/watches/pelagos-fxd and wildcard product https://www.tudorwatch.com/en/watches/pelagos-fxd/m2542gxx7nu-0002 identify 2542G267NU. Exact guessed product URLs for 2542G257 and 2542G247NU return 404. No documented alias from the inventory 2542G257 or 2542G267NU to the photographed 2024 reference is established. Similar visible dial and a shared MT5652-U calibre do not repair the reference/year boundary. All four categories withheld; further date-specific manufacturer/dealer evidence required. Current manufacturer metadata also explicitly maps its 2024 user-guide rmc m2542g247nu-0002 to cleanedRmc m2542gxx7nu-0002 and reuses 2024 product film. This documents a common model route, but does not establish the pictured M.N.24 caseback execution for an exact 2026 reference. Year-specific scope remains unresolved."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+          "finding": "Unresolved source/reference conflict; no verified photograph attached.",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/ identifies M2542G247NU-0002, a 2024 Marine Nationale GMT with M.N.24 back. All 26 actual main article images inspected. Current manufacturer family https://www.tudorwatch.com/en/watches/pelagos-fxd and wildcard product https://www.tudorwatch.com/en/watches/pelagos-fxd/m2542gxx7nu-0002 identify 2542G267NU. Exact guessed product URLs for 2542G257 and 2542G247NU return 404. No documented alias from the inventory 2542G257 or 2542G267NU to the photographed 2024 reference is established. Similar visible dial and a shared MT5652-U calibre do not repair the reference/year boundary. All four categories withheld; further date-specific manufacturer/dealer evidence required. Current manufacturer metadata also explicitly maps its 2024 user-guide rmc m2542g247nu-0002 to cleanedRmc m2542gxx7nu-0002 and reuses 2024 product film. This documents a common model route, but does not establish the pictured M.N.24 caseback execution for an exact 2026 reference. Year-specific scope remains unresolved."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "25600TB",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-tudor-pelagos-25600tb/; https://www.tudorwatch.com/en/watches/pelagos/m25600tb-0001. Hands-on body explicitly separates blue 25600TB and black 25600TN from earlier ETA-powered 25500TN. Manufacturer confirms blue full reference and patented sprung clasp. Inspected all 6 main article images. Selected image indices [3]."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-tudor-pelagos-25600tb/; https://www.tudorwatch.com/en/watches/pelagos/m25600tb-0001. Hands-on body explicitly separates blue 25600TB and black 25600TN from earlier ETA-powered 25500TN. Manufacturer confirms blue full reference and patented sprung clasp. Inspected all 6 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-tudor-pelagos-25600tb/; https://www.tudorwatch.com/en/watches/pelagos/m25600tb-0001. Hands-on body explicitly separates blue 25600TB and black 25600TN from earlier ETA-powered 25500TN. Manufacturer confirms blue full reference and patented sprung clasp. Inspected all 6 main article images. Selected image indices [8]."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-tudor-pelagos-25600tb/; https://www.tudorwatch.com/en/watches/pelagos/m25600tb-0001. Hands-on body explicitly separates blue 25600TB and black 25600TN from earlier ETA-powered 25500TN. Manufacturer confirms blue full reference and patented sprung clasp. Inspected all 6 main article images. Selected image indices [7]."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "25600TB-0001",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-tudor-pelagos-25600tb/; https://www.tudorwatch.com/en/watches/pelagos/m25600tb-0001. Hands-on body explicitly separates blue 25600TB and black 25600TN from earlier ETA-powered 25500TN. Manufacturer confirms blue full reference and patented sprung clasp. Inspected all 6 main article images. Selected image indices [3]."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-tudor-pelagos-25600tb/; https://www.tudorwatch.com/en/watches/pelagos/m25600tb-0001. Hands-on body explicitly separates blue 25600TB and black 25600TN from earlier ETA-powered 25500TN. Manufacturer confirms blue full reference and patented sprung clasp. Inspected all 6 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-tudor-pelagos-25600tb/; https://www.tudorwatch.com/en/watches/pelagos/m25600tb-0001. Hands-on body explicitly separates blue 25600TB and black 25600TN from earlier ETA-powered 25500TN. Manufacturer confirms blue full reference and patented sprung clasp. Inspected all 6 main article images. Selected image indices [8]."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-tudor-pelagos-25600tb/; https://www.tudorwatch.com/en/watches/pelagos/m25600tb-0001. Hands-on body explicitly separates blue 25600TB and black 25600TN from earlier ETA-powered 25500TN. Manufacturer confirms blue full reference and patented sprung clasp. Inspected all 6 main article images. Selected image indices [7]."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "M25600TB",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-tudor-pelagos-25600tb/; https://www.tudorwatch.com/en/watches/pelagos/m25600tb-0001. Hands-on body explicitly separates blue 25600TB and black 25600TN from earlier ETA-powered 25500TN. Manufacturer confirms blue full reference and patented sprung clasp. Inspected all 6 main article images. Selected image indices [3]."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-tudor-pelagos-25600tb/; https://www.tudorwatch.com/en/watches/pelagos/m25600tb-0001. Hands-on body explicitly separates blue 25600TB and black 25600TN from earlier ETA-powered 25500TN. Manufacturer confirms blue full reference and patented sprung clasp. Inspected all 6 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-tudor-pelagos-25600tb/; https://www.tudorwatch.com/en/watches/pelagos/m25600tb-0001. Hands-on body explicitly separates blue 25600TB and black 25600TN from earlier ETA-powered 25500TN. Manufacturer confirms blue full reference and patented sprung clasp. Inspected all 6 main article images. Selected image indices [8]."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-tudor-pelagos-25600tb/; https://www.tudorwatch.com/en/watches/pelagos/m25600tb-0001. Hands-on body explicitly separates blue 25600TB and black 25600TN from earlier ETA-powered 25500TN. Manufacturer confirms blue full reference and patented sprung clasp. Inspected all 6 main article images. Selected image indices [7]."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "M25600TB-0001",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-tudor-pelagos-25600tb/; https://www.tudorwatch.com/en/watches/pelagos/m25600tb-0001. Hands-on body explicitly separates blue 25600TB and black 25600TN from earlier ETA-powered 25500TN. Manufacturer confirms blue full reference and patented sprung clasp. Inspected all 6 main article images. Selected image indices [3]."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-tudor-pelagos-25600tb/; https://www.tudorwatch.com/en/watches/pelagos/m25600tb-0001. Hands-on body explicitly separates blue 25600TB and black 25600TN from earlier ETA-powered 25500TN. Manufacturer confirms blue full reference and patented sprung clasp. Inspected all 6 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-tudor-pelagos-25600tb/; https://www.tudorwatch.com/en/watches/pelagos/m25600tb-0001. Hands-on body explicitly separates blue 25600TB and black 25600TN from earlier ETA-powered 25500TN. Manufacturer confirms blue full reference and patented sprung clasp. Inspected all 6 main article images. Selected image indices [8]."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-tudor-pelagos-25600tb/; https://www.tudorwatch.com/en/watches/pelagos/m25600tb-0001. Hands-on body explicitly separates blue 25600TB and black 25600TN from earlier ETA-powered 25500TN. Manufacturer confirms blue full reference and patented sprung clasp. Inspected all 6 main article images. Selected image indices [7]."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "25610TNL",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/tudor-pelagos-lhd-numbered-edition/; https://www.tudorwatch.com/en/watches/pelagos/m25610tnl-0001. Hands-on body explicitly identifies 25610TNL; manufacturer confirms M25610TNL-0001, left crown, beige lume, red PELAGOS text, roulette date and numbered steel back. Isolated MT5612-LHD product media has unconfirmed actual-photograph provenance and is withheld. Inspected all 29 main article images. Selected image indices [11]."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/tudor-pelagos-lhd-numbered-edition/; https://www.tudorwatch.com/en/watches/pelagos/m25610tnl-0001. Hands-on body explicitly identifies 25610TNL; manufacturer confirms M25610TNL-0001, left crown, beige lume, red PELAGOS text, roulette date and numbered steel back. Isolated MT5612-LHD product media has unconfirmed actual-photograph provenance and is withheld. Inspected all 29 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/tudor-pelagos-lhd-numbered-edition/; https://www.tudorwatch.com/en/watches/pelagos/m25610tnl-0001. Hands-on body explicitly identifies 25610TNL; manufacturer confirms M25610TNL-0001, left crown, beige lume, red PELAGOS text, roulette date and numbered steel back. Isolated MT5612-LHD product media has unconfirmed actual-photograph provenance and is withheld. Inspected all 29 main article images. Selected image indices [14]."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/tudor-pelagos-lhd-numbered-edition/; https://www.tudorwatch.com/en/watches/pelagos/m25610tnl-0001. Hands-on body explicitly identifies 25610TNL; manufacturer confirms M25610TNL-0001, left crown, beige lume, red PELAGOS text, roulette date and numbered steel back. Isolated MT5612-LHD product media has unconfirmed actual-photograph provenance and is withheld. Inspected all 29 main article images. Selected image indices [8]."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "79012M",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/tudor-black-bay-fifty-eight-bronze-boutique-edition-review/; https://www.tudorwatch.com/en/watches/black-bay-58/m79012m-0001. Hands-on specs and manufacturer agree on M79012M-0001, 39 mm bronze/brown configuration, T-fit bracelet and supplied brown/yellow-line fabric. The article explicitly identifies the pictured display-back comparison watch as silver 925; that and isolated generic MT5400 media are withheld from bronze. Inspected all 14 main article images. Selected image indices [7, 4]."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/tudor-black-bay-fifty-eight-bronze-boutique-edition-review/; https://www.tudorwatch.com/en/watches/black-bay-58/m79012m-0001. Hands-on specs and manufacturer agree on M79012M-0001, 39 mm bronze/brown configuration, T-fit bracelet and supplied brown/yellow-line fabric. The article explicitly identifies the pictured display-back comparison watch as silver 925; that and isolated generic MT5400 media are withheld from bronze. Inspected all 14 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/tudor-black-bay-fifty-eight-bronze-boutique-edition-review/; https://www.tudorwatch.com/en/watches/black-bay-58/m79012m-0001. Hands-on specs and manufacturer agree on M79012M-0001, 39 mm bronze/brown configuration, T-fit bracelet and supplied brown/yellow-line fabric. The article explicitly identifies the pictured display-back comparison watch as silver 925; that and isolated generic MT5400 media are withheld from bronze. Inspected all 14 main article images. Selected image indices [9]."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/tudor-black-bay-fifty-eight-bronze-boutique-edition-review/; https://www.tudorwatch.com/en/watches/black-bay-58/m79012m-0001. Hands-on specs and manufacturer agree on M79012M-0001, 39 mm bronze/brown configuration, T-fit bracelet and supplied brown/yellow-line fabric. The article explicitly identifies the pictured display-back comparison watch as silver 925; that and isolated generic MT5400 media are withheld from bronze. Inspected all 14 main article images. Selected image indices [9, 14]."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "79210CNU",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-black-bay-ceramic-in-amsterdam/; https://www.tudorwatch.com/en/watches/black-bay/m79210cnu-0001. Hands-on article links directly to manufacturer M79210CNU-0001; manufacturer confirms black ceramic case, MT5602-1U, display back and supplied strap configurations. The source distinguishes the neighbouring silver 925 watch; it is excluded. Inspected all 18 main article images. Selected image indices [7]."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-black-bay-ceramic-in-amsterdam/; https://www.tudorwatch.com/en/watches/black-bay/m79210cnu-0001. Hands-on article links directly to manufacturer M79210CNU-0001; manufacturer confirms black ceramic case, MT5602-1U, display back and supplied strap configurations. The source distinguishes the neighbouring silver 925 watch; it is excluded. Inspected all 18 main article images. Selected image indices [4]."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-black-bay-ceramic-in-amsterdam/; https://www.tudorwatch.com/en/watches/black-bay/m79210cnu-0001. Hands-on article links directly to manufacturer M79210CNU-0001; manufacturer confirms black ceramic case, MT5602-1U, display back and supplied strap configurations. The source distinguishes the neighbouring silver 925 watch; it is excluded. Inspected all 18 main article images. Selected image indices [4]."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-black-bay-ceramic-in-amsterdam/; https://www.tudorwatch.com/en/watches/black-bay/m79210cnu-0001. Hands-on article links directly to manufacturer M79210CNU-0001; manufacturer confirms black ceramic case, MT5602-1U, display back and supplied strap configurations. The source distinguishes the neighbouring silver 925 watch; it is excluded. Inspected all 18 main article images. Selected image indices [14]."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "79030B",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-tudor-black-bay-fifty-eight-navy-blue/; https://www.fratellowatches.com/hands-on-with-the-tudor-black-bay-fifty-eight-navy-blue/. Hands-on specification table explicitly identifies 79030B. Photographed blue dial/bezel and fabric configuration are distinct from the black/gilt comparison model in image 4; no black model or M79230B alias is inferred. Inspected all 11 main article images. Selected image indices [9]."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-tudor-black-bay-fifty-eight-navy-blue/; https://www.fratellowatches.com/hands-on-with-the-tudor-black-bay-fifty-eight-navy-blue/. Hands-on specification table explicitly identifies 79030B. Photographed blue dial/bezel and fabric configuration are distinct from the black/gilt comparison model in image 4; no black model or M79230B alias is inferred. Inspected all 11 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-tudor-black-bay-fifty-eight-navy-blue/; https://www.fratellowatches.com/hands-on-with-the-tudor-black-bay-fifty-eight-navy-blue/. Hands-on specification table explicitly identifies 79030B. Photographed blue dial/bezel and fabric configuration are distinct from the black/gilt comparison model in image 4; no black model or M79230B alias is inferred. Inspected all 11 main article images. Selected image indices [6]."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-with-the-tudor-black-bay-fifty-eight-navy-blue/; https://www.fratellowatches.com/hands-on-with-the-tudor-black-bay-fifty-eight-navy-blue/. Hands-on specification table explicitly identifies 79030B. Photographed blue dial/bezel and fabric configuration are distinct from the black/gilt comparison model in image 4; no black model or M79230B alias is inferred. Inspected all 11 main article images. Selected image indices [12]."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "79360N",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-the-new-tudor-black-bay-chrono-m79360n-both-versions/; https://www.fratellowatches.com/hands-on-the-new-tudor-black-bay-chrono-m79360n-both-versions/. Hands-on body and specs explicitly identify -0001 black/reverse panda and -0002 white/panda, with photographed office loan specimens. No later blue -0013 configuration or shared Breitling B01 movement is inherited. Inspected all 11 main article images. Selected image indices [6, 4]."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/hands-on-the-new-tudor-black-bay-chrono-m79360n-both-versions/; https://www.fratellowatches.com/hands-on-the-new-tudor-black-bay-chrono-m79360n-both-versions/. Hands-on body and specs explicitly identify -0001 black/reverse panda and -0002 white/panda, with photographed office loan specimens. No later blue -0013 configuration or shared Breitling B01 movement is inherited. Inspected all 11 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-the-new-tudor-black-bay-chrono-m79360n-both-versions/; https://www.fratellowatches.com/hands-on-the-new-tudor-black-bay-chrono-m79360n-both-versions/. Hands-on body and specs explicitly identify -0001 black/reverse panda and -0002 white/panda, with photographed office loan specimens. No later blue -0013 configuration or shared Breitling B01 movement is inherited. Inspected all 11 main article images. Selected image indices [11]."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-the-new-tudor-black-bay-chrono-m79360n-both-versions/; https://www.fratellowatches.com/hands-on-the-new-tudor-black-bay-chrono-m79360n-both-versions/. Hands-on body and specs explicitly identify -0001 black/reverse panda and -0002 white/panda, with photographed office loan specimens. No later blue -0013 configuration or shared Breitling B01 movement is inherited. Inspected all 11 main article images. Selected image indices [10]."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "M79360N",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-the-new-tudor-black-bay-chrono-m79360n-both-versions/; https://www.fratellowatches.com/hands-on-the-new-tudor-black-bay-chrono-m79360n-both-versions/. Hands-on body and specs explicitly identify -0001 black/reverse panda and -0002 white/panda, with photographed office loan specimens. No later blue -0013 configuration or shared Breitling B01 movement is inherited. Inspected all 11 main article images. Selected image indices [6, 4]."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/hands-on-the-new-tudor-black-bay-chrono-m79360n-both-versions/; https://www.fratellowatches.com/hands-on-the-new-tudor-black-bay-chrono-m79360n-both-versions/. Hands-on body and specs explicitly identify -0001 black/reverse panda and -0002 white/panda, with photographed office loan specimens. No later blue -0013 configuration or shared Breitling B01 movement is inherited. Inspected all 11 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-the-new-tudor-black-bay-chrono-m79360n-both-versions/; https://www.fratellowatches.com/hands-on-the-new-tudor-black-bay-chrono-m79360n-both-versions/. Hands-on body and specs explicitly identify -0001 black/reverse panda and -0002 white/panda, with photographed office loan specimens. No later blue -0013 configuration or shared Breitling B01 movement is inherited. Inspected all 11 main article images. Selected image indices [11]."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-the-new-tudor-black-bay-chrono-m79360n-both-versions/; https://www.fratellowatches.com/hands-on-the-new-tudor-black-bay-chrono-m79360n-both-versions/. Hands-on body and specs explicitly identify -0001 black/reverse panda and -0002 white/panda, with photographed office loan specimens. No later blue -0013 configuration or shared Breitling B01 movement is inherited. Inspected all 11 main article images. Selected image indices [10]."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "79180",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/tbt-tudor-big-block-79180-chronograph/; https://www.fratellowatches.com/tbt-tudor-big-block-79180-chronograph/. Owner essay explicitly identifies 79180, photographed steel tachymeter bezel, black/silver-counter dial, acrylic date cyclops and drilled-lug Big Block case. General discussion of service parts does not independently establish original factory condition. No opened Valjoux 7750 execution is pictured. Inspected all 26 main article images. Selected image indices [3]."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/tbt-tudor-big-block-79180-chronograph/; https://www.fratellowatches.com/tbt-tudor-big-block-79180-chronograph/. Owner essay explicitly identifies 79180, photographed steel tachymeter bezel, black/silver-counter dial, acrylic date cyclops and drilled-lug Big Block case. General discussion of service parts does not independently establish original factory condition. No opened Valjoux 7750 execution is pictured. Inspected all 26 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/tbt-tudor-big-block-79180-chronograph/; https://www.fratellowatches.com/tbt-tudor-big-block-79180-chronograph/. Owner essay explicitly identifies 79180, photographed steel tachymeter bezel, black/silver-counter dial, acrylic date cyclops and drilled-lug Big Block case. General discussion of service parts does not independently establish original factory condition. No opened Valjoux 7750 execution is pictured. Inspected all 26 main article images. Selected image indices [8]."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/tbt-tudor-big-block-79180-chronograph/; https://www.fratellowatches.com/tbt-tudor-big-block-79180-chronograph/. Owner essay explicitly identifies 79180, photographed steel tachymeter bezel, black/silver-counter dial, acrylic date cyclops and drilled-lug Big Block case. General discussion of service parts does not independently establish original factory condition. No opened Valjoux 7750 execution is pictured. Inspected all 26 main article images. Selected image indices [9]."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "79470",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/tudor-black-bay-pro-up-close-and-personal/; https://www.tudorwatch.com/en/watches/black-bay-pro/m79470-0001. Hands-on body explicitly identifies bracelet configuration M79470-0001; manufacturer confirms black dial, yellow GMT hand, steel 24-hour fixed bezel and T-fit bracelet. Fabric/hybrid pictured variants are not labelled with this full bracelet suffix. Inspected all 10 main article images. Selected image indices [3]."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/tudor-black-bay-pro-up-close-and-personal/; https://www.tudorwatch.com/en/watches/black-bay-pro/m79470-0001. Hands-on body explicitly identifies bracelet configuration M79470-0001; manufacturer confirms black dial, yellow GMT hand, steel 24-hour fixed bezel and T-fit bracelet. Fabric/hybrid pictured variants are not labelled with this full bracelet suffix. Inspected all 10 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/tudor-black-bay-pro-up-close-and-personal/; https://www.tudorwatch.com/en/watches/black-bay-pro/m79470-0001. Hands-on body explicitly identifies bracelet configuration M79470-0001; manufacturer confirms black dial, yellow GMT hand, steel 24-hour fixed bezel and T-fit bracelet. Fabric/hybrid pictured variants are not labelled with this full bracelet suffix. Inspected all 10 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/tudor-black-bay-pro-up-close-and-personal/; https://www.tudorwatch.com/en/watches/black-bay-pro/m79470-0001. Hands-on body explicitly identifies bracelet configuration M79470-0001; manufacturer confirms black dial, yellow GMT hand, steel 24-hour fixed bezel and T-fit bracelet. Fabric/hybrid pictured variants are not labelled with this full bracelet suffix. Inspected all 10 main article images. Selected image indices [6]."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "79470-0001",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/tudor-black-bay-pro-up-close-and-personal/; https://www.tudorwatch.com/en/watches/black-bay-pro/m79470-0001. Hands-on body explicitly identifies bracelet configuration M79470-0001; manufacturer confirms black dial, yellow GMT hand, steel 24-hour fixed bezel and T-fit bracelet. Fabric/hybrid pictured variants are not labelled with this full bracelet suffix. Inspected all 10 main article images. Selected image indices [3]."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/tudor-black-bay-pro-up-close-and-personal/; https://www.tudorwatch.com/en/watches/black-bay-pro/m79470-0001. Hands-on body explicitly identifies bracelet configuration M79470-0001; manufacturer confirms black dial, yellow GMT hand, steel 24-hour fixed bezel and T-fit bracelet. Fabric/hybrid pictured variants are not labelled with this full bracelet suffix. Inspected all 10 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/tudor-black-bay-pro-up-close-and-personal/; https://www.tudorwatch.com/en/watches/black-bay-pro/m79470-0001. Hands-on body explicitly identifies bracelet configuration M79470-0001; manufacturer confirms black dial, yellow GMT hand, steel 24-hour fixed bezel and T-fit bracelet. Fabric/hybrid pictured variants are not labelled with this full bracelet suffix. Inspected all 10 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/tudor-black-bay-pro-up-close-and-personal/; https://www.tudorwatch.com/en/watches/black-bay-pro/m79470-0001. Hands-on body explicitly identifies bracelet configuration M79470-0001; manufacturer confirms black dial, yellow GMT hand, steel 24-hour fixed bezel and T-fit bracelet. Fabric/hybrid pictured variants are not labelled with this full bracelet suffix. Inspected all 10 main article images. Selected image indices [6]."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "M79470",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/tudor-black-bay-pro-up-close-and-personal/; https://www.tudorwatch.com/en/watches/black-bay-pro/m79470-0001. Hands-on body explicitly identifies bracelet configuration M79470-0001; manufacturer confirms black dial, yellow GMT hand, steel 24-hour fixed bezel and T-fit bracelet. Fabric/hybrid pictured variants are not labelled with this full bracelet suffix. Inspected all 10 main article images. Selected image indices [3]."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/tudor-black-bay-pro-up-close-and-personal/; https://www.tudorwatch.com/en/watches/black-bay-pro/m79470-0001. Hands-on body explicitly identifies bracelet configuration M79470-0001; manufacturer confirms black dial, yellow GMT hand, steel 24-hour fixed bezel and T-fit bracelet. Fabric/hybrid pictured variants are not labelled with this full bracelet suffix. Inspected all 10 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/tudor-black-bay-pro-up-close-and-personal/; https://www.tudorwatch.com/en/watches/black-bay-pro/m79470-0001. Hands-on body explicitly identifies bracelet configuration M79470-0001; manufacturer confirms black dial, yellow GMT hand, steel 24-hour fixed bezel and T-fit bracelet. Fabric/hybrid pictured variants are not labelled with this full bracelet suffix. Inspected all 10 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/tudor-black-bay-pro-up-close-and-personal/; https://www.tudorwatch.com/en/watches/black-bay-pro/m79470-0001. Hands-on body explicitly identifies bracelet configuration M79470-0001; manufacturer confirms black dial, yellow GMT hand, steel 24-hour fixed bezel and T-fit bracelet. Fabric/hybrid pictured variants are not labelled with this full bracelet suffix. Inspected all 10 main article images. Selected image indices [6]."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "M79470-0001",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/tudor-black-bay-pro-up-close-and-personal/; https://www.tudorwatch.com/en/watches/black-bay-pro/m79470-0001. Hands-on body explicitly identifies bracelet configuration M79470-0001; manufacturer confirms black dial, yellow GMT hand, steel 24-hour fixed bezel and T-fit bracelet. Fabric/hybrid pictured variants are not labelled with this full bracelet suffix. Inspected all 10 main article images. Selected image indices [3]."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/tudor-black-bay-pro-up-close-and-personal/; https://www.tudorwatch.com/en/watches/black-bay-pro/m79470-0001. Hands-on body explicitly identifies bracelet configuration M79470-0001; manufacturer confirms black dial, yellow GMT hand, steel 24-hour fixed bezel and T-fit bracelet. Fabric/hybrid pictured variants are not labelled with this full bracelet suffix. Inspected all 10 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/tudor-black-bay-pro-up-close-and-personal/; https://www.tudorwatch.com/en/watches/black-bay-pro/m79470-0001. Hands-on body explicitly identifies bracelet configuration M79470-0001; manufacturer confirms black dial, yellow GMT hand, steel 24-hour fixed bezel and T-fit bracelet. Fabric/hybrid pictured variants are not labelled with this full bracelet suffix. Inspected all 10 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/tudor-black-bay-pro-up-close-and-personal/; https://www.tudorwatch.com/en/watches/black-bay-pro/m79470-0001. Hands-on body explicitly identifies bracelet configuration M79470-0001; manufacturer confirms black dial, yellow GMT hand, steel 24-hour fixed bezel and T-fit bracelet. Fabric/hybrid pictured variants are not labelled with this full bracelet suffix. Inspected all 10 main article images. Selected image indices [6]."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "79950",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/tudor-heritage-ranger-hands-on/; https://www.tudorwatch.com/en/watches/ranger/m79950-0001. The article explicitly separates old Heritage Ranger 79910 from new Ranger 79950, with one modern comparison photograph (image 12). Manufacturer corroborates modern black 39 mm model on steel bracelet. All 41 mm Heritage Ranger photographs are excluded; calibre MT5402 is text only. Inspected all 16 main article images. Selected image indices [12]."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/tudor-heritage-ranger-hands-on/; https://www.tudorwatch.com/en/watches/ranger/m79950-0001. The article explicitly separates old Heritage Ranger 79910 from new Ranger 79950, with one modern comparison photograph (image 12). Manufacturer corroborates modern black 39 mm model on steel bracelet. All 41 mm Heritage Ranger photographs are excluded; calibre MT5402 is text only. Inspected all 16 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/tudor-heritage-ranger-hands-on/; https://www.tudorwatch.com/en/watches/ranger/m79950-0001. The article explicitly separates old Heritage Ranger 79910 from new Ranger 79950, with one modern comparison photograph (image 12). Manufacturer corroborates modern black 39 mm model on steel bracelet. All 41 mm Heritage Ranger photographs are excluded; calibre MT5402 is text only. Inspected all 16 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/tudor-heritage-ranger-hands-on/; https://www.tudorwatch.com/en/watches/ranger/m79950-0001. The article explicitly separates old Heritage Ranger 79910 from new Ranger 79950, with one modern comparison photograph (image 12). Manufacturer corroborates modern black 39 mm model on steel bracelet. All 41 mm Heritage Ranger photographs are excluded; calibre MT5402 is text only. Inspected all 16 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "79950-0001",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/tudor-heritage-ranger-hands-on/; https://www.tudorwatch.com/en/watches/ranger/m79950-0001. The article explicitly separates old Heritage Ranger 79910 from new Ranger 79950, with one modern comparison photograph (image 12). Manufacturer corroborates modern black 39 mm model on steel bracelet. All 41 mm Heritage Ranger photographs are excluded; calibre MT5402 is text only. Inspected all 16 main article images. Selected image indices [12]."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/tudor-heritage-ranger-hands-on/; https://www.tudorwatch.com/en/watches/ranger/m79950-0001. The article explicitly separates old Heritage Ranger 79910 from new Ranger 79950, with one modern comparison photograph (image 12). Manufacturer corroborates modern black 39 mm model on steel bracelet. All 41 mm Heritage Ranger photographs are excluded; calibre MT5402 is text only. Inspected all 16 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/tudor-heritage-ranger-hands-on/; https://www.tudorwatch.com/en/watches/ranger/m79950-0001. The article explicitly separates old Heritage Ranger 79910 from new Ranger 79950, with one modern comparison photograph (image 12). Manufacturer corroborates modern black 39 mm model on steel bracelet. All 41 mm Heritage Ranger photographs are excluded; calibre MT5402 is text only. Inspected all 16 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/tudor-heritage-ranger-hands-on/; https://www.tudorwatch.com/en/watches/ranger/m79950-0001. The article explicitly separates old Heritage Ranger 79910 from new Ranger 79950, with one modern comparison photograph (image 12). Manufacturer corroborates modern black 39 mm model on steel bracelet. All 41 mm Heritage Ranger photographs are excluded; calibre MT5402 is text only. Inspected all 16 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "M79950",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/tudor-heritage-ranger-hands-on/; https://www.tudorwatch.com/en/watches/ranger/m79950-0001. The article explicitly separates old Heritage Ranger 79910 from new Ranger 79950, with one modern comparison photograph (image 12). Manufacturer corroborates modern black 39 mm model on steel bracelet. All 41 mm Heritage Ranger photographs are excluded; calibre MT5402 is text only. Inspected all 16 main article images. Selected image indices [12]."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/tudor-heritage-ranger-hands-on/; https://www.tudorwatch.com/en/watches/ranger/m79950-0001. The article explicitly separates old Heritage Ranger 79910 from new Ranger 79950, with one modern comparison photograph (image 12). Manufacturer corroborates modern black 39 mm model on steel bracelet. All 41 mm Heritage Ranger photographs are excluded; calibre MT5402 is text only. Inspected all 16 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/tudor-heritage-ranger-hands-on/; https://www.tudorwatch.com/en/watches/ranger/m79950-0001. The article explicitly separates old Heritage Ranger 79910 from new Ranger 79950, with one modern comparison photograph (image 12). Manufacturer corroborates modern black 39 mm model on steel bracelet. All 41 mm Heritage Ranger photographs are excluded; calibre MT5402 is text only. Inspected all 16 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/tudor-heritage-ranger-hands-on/; https://www.tudorwatch.com/en/watches/ranger/m79950-0001. The article explicitly separates old Heritage Ranger 79910 from new Ranger 79950, with one modern comparison photograph (image 12). Manufacturer corroborates modern black 39 mm model on steel bracelet. All 41 mm Heritage Ranger photographs are excluded; calibre MT5402 is text only. Inspected all 16 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "M79950-0001",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/tudor-heritage-ranger-hands-on/; https://www.tudorwatch.com/en/watches/ranger/m79950-0001. The article explicitly separates old Heritage Ranger 79910 from new Ranger 79950, with one modern comparison photograph (image 12). Manufacturer corroborates modern black 39 mm model on steel bracelet. All 41 mm Heritage Ranger photographs are excluded; calibre MT5402 is text only. Inspected all 16 main article images. Selected image indices [12]."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/tudor-heritage-ranger-hands-on/; https://www.tudorwatch.com/en/watches/ranger/m79950-0001. The article explicitly separates old Heritage Ranger 79910 from new Ranger 79950, with one modern comparison photograph (image 12). Manufacturer corroborates modern black 39 mm model on steel bracelet. All 41 mm Heritage Ranger photographs are excluded; calibre MT5402 is text only. Inspected all 16 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/tudor-heritage-ranger-hands-on/; https://www.tudorwatch.com/en/watches/ranger/m79950-0001. The article explicitly separates old Heritage Ranger 79910 from new Ranger 79950, with one modern comparison photograph (image 12). Manufacturer corroborates modern black 39 mm model on steel bracelet. All 41 mm Heritage Ranger photographs are excluded; calibre MT5402 is text only. Inspected all 16 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/tudor-heritage-ranger-hands-on/; https://www.tudorwatch.com/en/watches/ranger/m79950-0001. The article explicitly separates old Heritage Ranger 79910 from new Ranger 79950, with one modern comparison photograph (image 12). Manufacturer corroborates modern black 39 mm model on steel bracelet. All 41 mm Heritage Ranger photographs are excluded; calibre MT5402 is text only. Inspected all 16 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "79363N",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-tudor-black-bay-chrono-steel-and-gold/; https://www.tudorwatch.com/en/watches/black-bay-chrono/m79363n-0001. Hands-on page refers to M79363 in text but links to manufacturer m79363n-0001; manufacturer establishes complete case reference 79363N and black/gold dial configuration. Actual hands-on specimen uses fabric, so manufacturer bracelet suffix -0001 is not attached to this photograph. No MT5813/Breitling B01 image is inferred. Inspected all 17 main article images. Selected image indices [5]."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/hands-on-tudor-black-bay-chrono-steel-and-gold/; https://www.tudorwatch.com/en/watches/black-bay-chrono/m79363n-0001. Hands-on page refers to M79363 in text but links to manufacturer m79363n-0001; manufacturer establishes complete case reference 79363N and black/gold dial configuration. Actual hands-on specimen uses fabric, so manufacturer bracelet suffix -0001 is not attached to this photograph. No MT5813/Breitling B01 image is inferred. Inspected all 17 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/hands-on-tudor-black-bay-chrono-steel-and-gold/; https://www.tudorwatch.com/en/watches/black-bay-chrono/m79363n-0001. Hands-on page refers to M79363 in text but links to manufacturer m79363n-0001; manufacturer establishes complete case reference 79363N and black/gold dial configuration. Actual hands-on specimen uses fabric, so manufacturer bracelet suffix -0001 is not attached to this photograph. No MT5813/Breitling B01 image is inferred. Inspected all 17 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/hands-on-tudor-black-bay-chrono-steel-and-gold/; https://www.tudorwatch.com/en/watches/black-bay-chrono/m79363n-0001. Hands-on page refers to M79363 in text but links to manufacturer m79363n-0001; manufacturer establishes complete case reference 79363N and black/gold dial configuration. Actual hands-on specimen uses fabric, so manufacturer bracelet suffix -0001 is not attached to this photograph. No MT5813/Breitling B01 image is inferred. Inspected all 17 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "79000N",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-spending-time-with-the-tudor-black-bay-54/; https://www.tudorwatch.com/en/watches/black-bay-54/m79000n-0001. Hands-on specs and manufacturer identify M79000N-0001, 37 mm steel bracelet configuration; body contains a shortened M7900N typo, not an alias. Author explicitly wore the pictured bracelet version. No historical 7922, blue 79000B or MT5400 image is inherited. Inspected all 15 main article images. Selected image indices [3]."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/hands-on-spending-time-with-the-tudor-black-bay-54/; https://www.tudorwatch.com/en/watches/black-bay-54/m79000n-0001. Hands-on specs and manufacturer identify M79000N-0001, 37 mm steel bracelet configuration; body contains a shortened M7900N typo, not an alias. Author explicitly wore the pictured bracelet version. No historical 7922, blue 79000B or MT5400 image is inherited. Inspected all 15 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-spending-time-with-the-tudor-black-bay-54/; https://www.tudorwatch.com/en/watches/black-bay-54/m79000n-0001. Hands-on specs and manufacturer identify M79000N-0001, 37 mm steel bracelet configuration; body contains a shortened M7900N typo, not an alias. Author explicitly wore the pictured bracelet version. No historical 7922, blue 79000B or MT5400 image is inherited. Inspected all 15 main article images. Selected image indices [15]."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-spending-time-with-the-tudor-black-bay-54/; https://www.tudorwatch.com/en/watches/black-bay-54/m79000n-0001. Hands-on specs and manufacturer identify M79000N-0001, 37 mm steel bracelet configuration; body contains a shortened M7900N typo, not an alias. Author explicitly wore the pictured bracelet version. No historical 7922, blue 79000B or MT5400 image is inherited. Inspected all 15 main article images. Selected image indices [6, 16]."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "79000N-0001",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-spending-time-with-the-tudor-black-bay-54/; https://www.tudorwatch.com/en/watches/black-bay-54/m79000n-0001. Hands-on specs and manufacturer identify M79000N-0001, 37 mm steel bracelet configuration; body contains a shortened M7900N typo, not an alias. Author explicitly wore the pictured bracelet version. No historical 7922, blue 79000B or MT5400 image is inherited. Inspected all 15 main article images. Selected image indices [3]."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/hands-on-spending-time-with-the-tudor-black-bay-54/; https://www.tudorwatch.com/en/watches/black-bay-54/m79000n-0001. Hands-on specs and manufacturer identify M79000N-0001, 37 mm steel bracelet configuration; body contains a shortened M7900N typo, not an alias. Author explicitly wore the pictured bracelet version. No historical 7922, blue 79000B or MT5400 image is inherited. Inspected all 15 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-spending-time-with-the-tudor-black-bay-54/; https://www.tudorwatch.com/en/watches/black-bay-54/m79000n-0001. Hands-on specs and manufacturer identify M79000N-0001, 37 mm steel bracelet configuration; body contains a shortened M7900N typo, not an alias. Author explicitly wore the pictured bracelet version. No historical 7922, blue 79000B or MT5400 image is inherited. Inspected all 15 main article images. Selected image indices [15]."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-spending-time-with-the-tudor-black-bay-54/; https://www.tudorwatch.com/en/watches/black-bay-54/m79000n-0001. Hands-on specs and manufacturer identify M79000N-0001, 37 mm steel bracelet configuration; body contains a shortened M7900N typo, not an alias. Author explicitly wore the pictured bracelet version. No historical 7922, blue 79000B or MT5400 image is inherited. Inspected all 15 main article images. Selected image indices [6, 16]."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "M79000N",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-spending-time-with-the-tudor-black-bay-54/; https://www.tudorwatch.com/en/watches/black-bay-54/m79000n-0001. Hands-on specs and manufacturer identify M79000N-0001, 37 mm steel bracelet configuration; body contains a shortened M7900N typo, not an alias. Author explicitly wore the pictured bracelet version. No historical 7922, blue 79000B or MT5400 image is inherited. Inspected all 15 main article images. Selected image indices [3]."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/hands-on-spending-time-with-the-tudor-black-bay-54/; https://www.tudorwatch.com/en/watches/black-bay-54/m79000n-0001. Hands-on specs and manufacturer identify M79000N-0001, 37 mm steel bracelet configuration; body contains a shortened M7900N typo, not an alias. Author explicitly wore the pictured bracelet version. No historical 7922, blue 79000B or MT5400 image is inherited. Inspected all 15 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-spending-time-with-the-tudor-black-bay-54/; https://www.tudorwatch.com/en/watches/black-bay-54/m79000n-0001. Hands-on specs and manufacturer identify M79000N-0001, 37 mm steel bracelet configuration; body contains a shortened M7900N typo, not an alias. Author explicitly wore the pictured bracelet version. No historical 7922, blue 79000B or MT5400 image is inherited. Inspected all 15 main article images. Selected image indices [15]."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-spending-time-with-the-tudor-black-bay-54/; https://www.tudorwatch.com/en/watches/black-bay-54/m79000n-0001. Hands-on specs and manufacturer identify M79000N-0001, 37 mm steel bracelet configuration; body contains a shortened M7900N typo, not an alias. Author explicitly wore the pictured bracelet version. No historical 7922, blue 79000B or MT5400 image is inherited. Inspected all 15 main article images. Selected image indices [6, 16]."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "M79000N-0001",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-spending-time-with-the-tudor-black-bay-54/; https://www.tudorwatch.com/en/watches/black-bay-54/m79000n-0001. Hands-on specs and manufacturer identify M79000N-0001, 37 mm steel bracelet configuration; body contains a shortened M7900N typo, not an alias. Author explicitly wore the pictured bracelet version. No historical 7922, blue 79000B or MT5400 image is inherited. Inspected all 15 main article images. Selected image indices [3]."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "No verified photograph in inspected source set; further source research remains open.",
+          "evidence": "https://www.fratellowatches.com/hands-on-spending-time-with-the-tudor-black-bay-54/; https://www.tudorwatch.com/en/watches/black-bay-54/m79000n-0001. Hands-on specs and manufacturer identify M79000N-0001, 37 mm steel bracelet configuration; body contains a shortened M7900N typo, not an alias. Author explicitly wore the pictured bracelet version. No historical 7922, blue 79000B or MT5400 image is inherited. Inspected all 15 main article images. No verified photograph tied to this entered reference for this category; technical calibre text, shared-calibre pictures, neighbouring specimens and obscured marks do not establish it."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-spending-time-with-the-tudor-black-bay-54/; https://www.tudorwatch.com/en/watches/black-bay-54/m79000n-0001. Hands-on specs and manufacturer identify M79000N-0001, 37 mm steel bracelet configuration; body contains a shortened M7900N typo, not an alias. Author explicitly wore the pictured bracelet version. No historical 7922, blue 79000B or MT5400 image is inherited. Inspected all 15 main article images. Selected image indices [15]."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "verified representative specimen",
+          "evidence": "https://www.fratellowatches.com/hands-on-spending-time-with-the-tudor-black-bay-54/; https://www.tudorwatch.com/en/watches/black-bay-54/m79000n-0001. Hands-on specs and manufacturer identify M79000N-0001, 37 mm steel bracelet configuration; body contains a shortened M7900N typo, not an alias. Author explicitly wore the pictured bracelet version. No historical 7922, blue 79000B or MT5400 image is inherited. Inspected all 15 main article images. Selected image indices [6, 16]."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "25707",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "Unresolved source/reference-year boundary; no verified photograph attached.",
+          "evidence": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-its-not-the-one-i-want/ explicitly identifies M25707B/21-0001, with visible M.N.21 back. Inspected all 13 main article photographs, including fixed bars, blue dial, straps and actual back. Inventory key 25707B/26 denotes a different year and incomplete 25707 does not establish B/KN/N material/dial scope. No documented alias is established. All four categories withheld; date-specific manufacturer/dealer research remains open."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "Unresolved source/reference-year boundary; no verified photograph attached.",
+          "evidence": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-its-not-the-one-i-want/ explicitly identifies M25707B/21-0001, with visible M.N.21 back. Inspected all 13 main article photographs, including fixed bars, blue dial, straps and actual back. Inventory key 25707B/26 denotes a different year and incomplete 25707 does not establish B/KN/N material/dial scope. No documented alias is established. All four categories withheld; date-specific manufacturer/dealer research remains open."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "Unresolved source/reference-year boundary; no verified photograph attached.",
+          "evidence": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-its-not-the-one-i-want/ explicitly identifies M25707B/21-0001, with visible M.N.21 back. Inspected all 13 main article photographs, including fixed bars, blue dial, straps and actual back. Inventory key 25707B/26 denotes a different year and incomplete 25707 does not establish B/KN/N material/dial scope. No documented alias is established. All four categories withheld; date-specific manufacturer/dealer research remains open."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "Unresolved source/reference-year boundary; no verified photograph attached.",
+          "evidence": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-its-not-the-one-i-want/ explicitly identifies M25707B/21-0001, with visible M.N.21 back. Inspected all 13 main article photographs, including fixed bars, blue dial, straps and actual back. Inventory key 25707B/26 denotes a different year and incomplete 25707 does not establish B/KN/N material/dial scope. No documented alias is established. All four categories withheld; date-specific manufacturer/dealer research remains open."
+        }
+      }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "25707B/26",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "Unresolved source/reference-year boundary; no verified photograph attached.",
+          "evidence": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-its-not-the-one-i-want/ explicitly identifies M25707B/21-0001, with visible M.N.21 back. Inspected all 13 main article photographs, including fixed bars, blue dial, straps and actual back. Inventory key 25707B/26 denotes a different year and incomplete 25707 does not establish B/KN/N material/dial scope. No documented alias is established. All four categories withheld; date-specific manufacturer/dealer research remains open."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "Unresolved source/reference-year boundary; no verified photograph attached.",
+          "evidence": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-its-not-the-one-i-want/ explicitly identifies M25707B/21-0001, with visible M.N.21 back. Inspected all 13 main article photographs, including fixed bars, blue dial, straps and actual back. Inventory key 25707B/26 denotes a different year and incomplete 25707 does not establish B/KN/N material/dial scope. No documented alias is established. All four categories withheld; date-specific manufacturer/dealer research remains open."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "Unresolved source/reference-year boundary; no verified photograph attached.",
+          "evidence": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-its-not-the-one-i-want/ explicitly identifies M25707B/21-0001, with visible M.N.21 back. Inspected all 13 main article photographs, including fixed bars, blue dial, straps and actual back. Inventory key 25707B/26 denotes a different year and incomplete 25707 does not establish B/KN/N material/dial scope. No documented alias is established. All four categories withheld; date-specific manufacturer/dealer research remains open."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+          "finding": "Unresolved source/reference-year boundary; no verified photograph attached.",
+          "evidence": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-its-not-the-one-i-want/ explicitly identifies M25707B/21-0001, with visible M.N.21 back. Inspected all 13 main article photographs, including fixed bars, blue dial, straps and actual back. Inventory key 25707B/26 denotes a different year and incomplete 25707 does not establish B/KN/N material/dial scope. No documented alias is established. All four categories withheld; date-specific manufacturer/dealer research remains open."
+        }
+      }
     }
   ],
   "sourceRecordReviews": [
@@ -3223,16 +4289,6 @@
       "evidence": "https://www.bukowskis.com/en/auctions/671/1112-rolex-gmt-master-nipple-dial-ca-1978 — reviewed public lot identification, specimen variant and all four categories, with documented condition/parts limits. Additional sources remain open."
     },
     {
-      "id": "RULE:0332",
-      "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
-      "evidence": "https://www.bukowskis.com/en/auctions/671/1133-tudor-pelagos-39-ca-2023 — reviewed public lot identification, specimen variant and all four categories, with documented condition/parts limits. Additional sources remain open."
-    },
-    {
-      "id": "UPDATE:TUDOR|25407N",
-      "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
-      "evidence": "https://www.bukowskis.com/en/auctions/671/1133-tudor-pelagos-39-ca-2023 — reviewed public lot identification, specimen variant and all four categories, with documented condition/parts limits. Additional sources remain open."
-    },
-    {
       "id": "RULE:0880",
       "reviewedAt": "2026-10-08T16:00:53.864369+00:00",
       "evidence": "https://www.bukowskis.com/en/auctions/671/1136-rolex-explorer-ii-16550-ca-1988 — reviewed public lot identification, specimen variant and all four categories, with documented condition/parts limits. Additional sources remain open."
@@ -3309,11 +4365,6 @@
     },
     {
       "id": "RULE:0360",
-      "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
-      "evidence": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1976-to-1991 — reviewed exact specimen associations, all main historical gallery pixels and all four categories. Unsupported categories and further source research remain open."
-    },
-    {
-      "id": "RULE:0361",
       "reviewedAt": "2026-10-08T16:08:53.124464+00:00",
       "evidence": "https://www.tudorwatch.com/en/inside-tudor/history/tudor-history-chronographs-1976-to-1991 — reviewed exact specimen associations, all main historical gallery pixels and all four categories. Unsupported categories and further source research remain open."
     },
@@ -3566,6 +4617,141 @@
       "id": "UPDATE:ROLEX|126610LN",
       "reviewedAt": "2026-10-09T07:43:03.601300+00:00",
       "evidence": "https://www.bukowskis.com/en/auctions/667/1008-rolex-submariner-wristwatch-41-mm — examined exact lot identity, all gallery pixels and four category scopes; unsupported executions and serial mismatches withheld."
+    },
+    {
+      "id": "RULE:0864",
+      "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+      "evidence": "https://www.bukowskis.com/en/auctions/618/94-rolex-submariner — examined exact lot identity, all gallery pixels and four category scopes; unsupported executions and serial mismatches withheld."
+    },
+    {
+      "id": "RULE:0843",
+      "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+      "evidence": "https://www.bukowskis.com/en/auctions/622/2098-rolex-datejust — examined exact lot identity, all gallery pixels and four category scopes; unsupported executions and serial mismatches withheld."
+    },
+    {
+      "id": "RULE:0868",
+      "reviewedAt": "2026-10-09T07:56:16.202869+00:00",
+      "evidence": "https://www.bukowskis.com/en/auctions/627/21-rolex-submariner — examined exact lot identity, all gallery pixels and four category scopes; unsupported executions and serial mismatches withheld."
+    },
+    {
+      "id": "RULE:0332",
+      "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+      "evidence": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/ Manufacturer explicitly identifies M25407N-0001, black sunray dial, 39 mm grade 2 titanium case, T-fit bracelet and complimentary black rubber strap. Hands-on article documents handling and photographing both supplied configurations. Actual photographed back visibly carries 25407 and TUDOR GENEVE CALIBRE MANUFACTURE inscriptions; that tooling stamp alone is not an alias for the incomplete inventory key 25407. All four categories investigated."
+    },
+    {
+      "id": "UPDATE:TUDOR|25407N",
+      "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+      "evidence": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/ Manufacturer explicitly identifies M25407N-0001, black sunray dial, 39 mm grade 2 titanium case, T-fit bracelet and complimentary black rubber strap. Hands-on article documents handling and photographing both supplied configurations. Actual photographed back visibly carries 25407 and TUDOR GENEVE CALIBRE MANUFACTURE inscriptions; that tooling stamp alone is not an alias for the incomplete inventory key 25407. All four categories investigated."
+    },
+    {
+      "id": "RULE:0336",
+      "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+      "evidence": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-alinghi-red-bull-racing/ Hands-on author documents photographing and wearing the three-hand Alinghi FXD; specification table explicitly identifies M25707KN-0001, blue dial, 42 mm forged-carbon case, titanium crown/bezel edge and blue textile Velcro strap. Manufacturer legacy product URL currently redirects to the family; it is not used as independent exact-reference confirmation. Chronograph and Black Bay images in the same article are excluded. All four categories investigated."
+    },
+    {
+      "id": "RULE:0335",
+      "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+      "evidence": "https://www.fratellowatches.com/hands-on-tudor-pelagos-fxd-us-navy/ Manufacturer and hands-on specification table both explicitly identify M25717N-0001, black dial, titanium case, unidirectional 60-minute bezel and forest-green/red-thread fabric strap. Historical Navy watches, blue FXD and Alinghi chronographs in the same article are excluded. US Navy inspiration does not prove individual military issue. All four categories investigated."
+    },
+    {
+      "id": "RULE:0340",
+      "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+      "evidence": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/ identifies M2542G247NU-0002, a 2024 Marine Nationale GMT with M.N.24 back. All 26 actual main article images inspected. Current manufacturer family https://www.tudorwatch.com/en/watches/pelagos-fxd and wildcard product https://www.tudorwatch.com/en/watches/pelagos-fxd/m2542gxx7nu-0002 identify 2542G267NU. Exact guessed product URLs for 2542G257 and 2542G247NU return 404. No documented alias from the inventory 2542G257 or 2542G267NU to the photographed 2024 reference is established. Similar visible dial and a shared MT5652-U calibre do not repair the reference/year boundary. All four categories withheld; further date-specific manufacturer/dealer evidence required."
+    },
+    {
+      "id": "RULE:0339",
+      "reviewedAt": "2026-10-09T08:06:29.687465+00:00",
+      "evidence": "https://www.fratellowatches.com/hands-on-with-the-adventurous-tudor-pelagos-fxd-gmt-zulu-time/ identifies M2542G247NU-0002, a 2024 Marine Nationale GMT with M.N.24 back. All 26 actual main article images inspected. Current manufacturer family https://www.tudorwatch.com/en/watches/pelagos-fxd and wildcard product https://www.tudorwatch.com/en/watches/pelagos-fxd/m2542gxx7nu-0002 identify 2542G267NU. Exact guessed product URLs for 2542G257 and 2542G247NU return 404. No documented alias from the inventory 2542G257 or 2542G267NU to the photographed 2024 reference is established. Similar visible dial and a shared MT5652-U calibre do not repair the reference/year boundary. All four categories withheld; further date-specific manufacturer/dealer evidence required."
+    },
+    {
+      "id": "RULE:0330",
+      "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+      "evidence": "https://www.fratellowatches.com/hands-on-with-the-tudor-pelagos-25600tb/ Hands-on body explicitly separates blue 25600TB and black 25600TN from earlier ETA-powered 25500TN. Manufacturer confirms blue full reference and patented sprung clasp. All four categories investigated."
+    },
+    {
+      "id": "UPDATE:TUDOR|25600TB",
+      "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+      "evidence": "https://www.fratellowatches.com/hands-on-with-the-tudor-pelagos-25600tb/ Hands-on body explicitly separates blue 25600TB and black 25600TN from earlier ETA-powered 25500TN. Manufacturer confirms blue full reference and patented sprung clasp. All four categories investigated."
+    },
+    {
+      "id": "RULE:0331",
+      "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+      "evidence": "https://www.fratellowatches.com/tudor-pelagos-lhd-numbered-edition/ Hands-on body explicitly identifies 25610TNL; manufacturer confirms M25610TNL-0001, left crown, beige lume, red PELAGOS text, roulette date and numbered steel back. Isolated MT5612-LHD product media has unconfirmed actual-photograph provenance and is withheld. All four categories investigated."
+    },
+    {
+      "id": "RULE:0310",
+      "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+      "evidence": "https://www.fratellowatches.com/tudor-black-bay-fifty-eight-bronze-boutique-edition-review/ Hands-on specs and manufacturer agree on M79012M-0001, 39 mm bronze/brown configuration, T-fit bracelet and supplied brown/yellow-line fabric. The article explicitly identifies the pictured display-back comparison watch as silver 925; that and isolated generic MT5400 media are withheld from bronze. All four categories investigated."
+    },
+    {
+      "id": "RULE:0318",
+      "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+      "evidence": "https://www.fratellowatches.com/hands-on-with-the-new-tudor-black-bay-ceramic-in-amsterdam/ Hands-on article links directly to manufacturer M79210CNU-0001; manufacturer confirms black ceramic case, MT5602-1U, display back and supplied strap configurations. The source distinguishes the neighbouring silver 925 watch; it is excluded. All four categories investigated."
+    },
+    {
+      "id": "RULE:0308",
+      "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+      "evidence": "https://www.fratellowatches.com/hands-on-with-the-tudor-black-bay-fifty-eight-navy-blue/ Hands-on specification table explicitly identifies 79030B. Photographed blue dial/bezel and fabric configuration are distinct from the black/gilt comparison model in image 4; no black model or M79230B alias is inferred. All four categories investigated."
+    },
+    {
+      "id": "RULE:0323",
+      "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+      "evidence": "https://www.fratellowatches.com/hands-on-the-new-tudor-black-bay-chrono-m79360n-both-versions/ Hands-on body and specs explicitly identify -0001 black/reverse panda and -0002 white/panda, with photographed office loan specimens. No later blue -0013 configuration or shared Breitling B01 movement is inherited. All four categories investigated."
+    },
+    {
+      "id": "UPDATE:TUDOR|79360N",
+      "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+      "evidence": "https://www.fratellowatches.com/hands-on-the-new-tudor-black-bay-chrono-m79360n-both-versions/ Hands-on body and specs explicitly identify -0001 black/reverse panda and -0002 white/panda, with photographed office loan specimens. No later blue -0013 configuration or shared Breitling B01 movement is inherited. All four categories investigated."
+    },
+    {
+      "id": "RULE:0361",
+      "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+      "evidence": "https://www.fratellowatches.com/tbt-tudor-big-block-79180-chronograph/ Owner essay explicitly identifies 79180, photographed steel tachymeter bezel, black/silver-counter dial, acrylic date cyclops and drilled-lug Big Block case. General discussion of service parts does not independently establish original factory condition. No opened Valjoux 7750 execution is pictured. All four categories investigated."
+    },
+    {
+      "id": "RULE:0320",
+      "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+      "evidence": "https://www.fratellowatches.com/tudor-black-bay-pro-up-close-and-personal/ Hands-on body explicitly identifies bracelet configuration M79470-0001; manufacturer confirms black dial, yellow GMT hand, steel 24-hour fixed bezel and T-fit bracelet. Fabric/hybrid pictured variants are not labelled with this full bracelet suffix. All four categories investigated."
+    },
+    {
+      "id": "UPDATE:TUDOR|79470",
+      "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+      "evidence": "https://www.fratellowatches.com/tudor-black-bay-pro-up-close-and-personal/ Hands-on body explicitly identifies bracelet configuration M79470-0001; manufacturer confirms black dial, yellow GMT hand, steel 24-hour fixed bezel and T-fit bracelet. Fabric/hybrid pictured variants are not labelled with this full bracelet suffix. All four categories investigated."
+    },
+    {
+      "id": "RULE:0341",
+      "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+      "evidence": "https://www.fratellowatches.com/tudor-heritage-ranger-hands-on/ The article explicitly separates old Heritage Ranger 79910 from new Ranger 79950, with one modern comparison photograph (image 12). Manufacturer corroborates modern black 39 mm model on steel bracelet. All 41 mm Heritage Ranger photographs are excluded; calibre MT5402 is text only. All four categories investigated."
+    },
+    {
+      "id": "UPDATE:TUDOR|79950",
+      "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+      "evidence": "https://www.fratellowatches.com/tudor-heritage-ranger-hands-on/ The article explicitly separates old Heritage Ranger 79910 from new Ranger 79950, with one modern comparison photograph (image 12). Manufacturer corroborates modern black 39 mm model on steel bracelet. All 41 mm Heritage Ranger photographs are excluded; calibre MT5402 is text only. All four categories investigated."
+    },
+    {
+      "id": "RULE:0324",
+      "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+      "evidence": "https://www.fratellowatches.com/hands-on-tudor-black-bay-chrono-steel-and-gold/ Hands-on page refers to M79363 in text but links to manufacturer m79363n-0001; manufacturer establishes complete case reference 79363N and black/gold dial configuration. Actual hands-on specimen uses fabric, so manufacturer bracelet suffix -0001 is not attached to this photograph. No MT5813/Breitling B01 image is inferred. All four categories investigated."
+    },
+    {
+      "id": "RULE:0305",
+      "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+      "evidence": "https://www.fratellowatches.com/hands-on-spending-time-with-the-tudor-black-bay-54/ Hands-on specs and manufacturer identify M79000N-0001, 37 mm steel bracelet configuration; body contains a shortened M7900N typo, not an alias. Author explicitly wore the pictured bracelet version. No historical 7922, blue 79000B or MT5400 image is inherited. All four categories investigated."
+    },
+    {
+      "id": "UPDATE:TUDOR|79000N",
+      "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+      "evidence": "https://www.fratellowatches.com/hands-on-spending-time-with-the-tudor-black-bay-54/ Hands-on specs and manufacturer identify M79000N-0001, 37 mm steel bracelet configuration; body contains a shortened M7900N typo, not an alias. Author explicitly wore the pictured bracelet version. No historical 7922, blue 79000B or MT5400 image is inherited. All four categories investigated."
+    },
+    {
+      "id": "RULE:0298",
+      "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+      "evidence": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-its-not-the-one-i-want/ explicitly identifies M25707B/21-0001, with visible M.N.21 back. Inspected all 13 main article photographs, including fixed bars, blue dial, straps and actual back. Inventory key 25707B/26 denotes a different year and incomplete 25707 does not establish B/KN/N material/dial scope. No documented alias is established. All four categories withheld; date-specific manufacturer/dealer research remains open."
+    },
+    {
+      "id": "RULE:0334",
+      "reviewedAt": "2026-10-09T08:16:47.630377+00:00",
+      "evidence": "https://www.fratellowatches.com/hands-on-the-tudor-pelagos-fxd-its-not-the-one-i-want/ explicitly identifies M25707B/21-0001, with visible M.N.21 back. Inspected all 13 main article photographs, including fixed bars, blue dial, straps and actual back. Inventory key 25707B/26 denotes a different year and incomplete 25707 does not establish B/KN/N material/dial scope. No documented alias is established. All four categories withheld; date-specific manufacturer/dealer research remains open."
     }
   ]
 }
