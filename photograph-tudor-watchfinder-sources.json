@@ -1,0 +1,90 @@
+{
+  "completion": "IN PROGRESS",
+  "reviewedAt": "2026-10-09T14:15:51.415952+00:00",
+  "reference": "91650",
+  "source": "https://www.watchfinder.co.uk/watches/tudor/1926/m91650-0001/448504",
+  "primary": "https://www.tudorwatch.com/en/watches/1926/m91650-0001",
+  "inspectedGalleryImages": 7,
+  "acceptedPhotographs": 2,
+  "imageAccess": [
+    {
+      "index": 0,
+      "image": "https://www.watchfinder.co.uk/media/catalog/product/W/a/Watch-1-f3ad532c38194b04bf89e8d046992c84.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=&width=",
+      "caption": "This is an image of the actual watch",
+      "status": "decoded",
+      "dimensions": [
+        1400,
+        2100
+      ],
+      "sha256": "db4102b0ba23800da9c260982d397260ae4be130a15941189147c4722c94a588"
+    },
+    {
+      "index": 1,
+      "image": "https://www.watchfinder.co.uk/media/catalog/product/W/a/Watch-2-712464ecc6924f8ba2a602cfe10ba359.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=&width=",
+      "caption": "This is an image of the actual watch",
+      "status": "decoded",
+      "dimensions": [
+        1530,
+        2295
+      ],
+      "sha256": "66fd8b0cf3e095ab6abd72c187a709585caa360a0e8500a7006f6aa025f8b4e6"
+    },
+    {
+      "index": 2,
+      "image": "https://www.watchfinder.co.uk/media/catalog/product/W/a/Watch-3-1af50695b1de476d94dfb8f944915698.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=&width=",
+      "caption": "This is an image of the actual watch",
+      "status": "decoded",
+      "dimensions": [
+        1880,
+        2820
+      ],
+      "sha256": "b8a32295855e62874576120b067fabc7d5fb3fc25c3aac38aa11da8699f26b45"
+    },
+    {
+      "index": 3,
+      "image": "https://www.watchfinder.co.uk/media/catalog/product/W/a/Watch-4-b26c042e88154b5494cec5c6e946817d.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=&width=",
+      "caption": "This is an image of the actual watch",
+      "status": "decoded",
+      "dimensions": [
+        2249,
+        3373
+      ],
+      "sha256": "196021c965bbe2bf24806e79cb014c49bf6ea373330e2bc6ee1cf7bafc5a0366"
+    },
+    {
+      "index": 4,
+      "image": "https://www.watchfinder.co.uk/media/catalog/product/W/a/Watch-5-1fe4bf272fd34474ae3893a3ff99a596.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=&width=",
+      "caption": "This is an image of the actual watch",
+      "status": "decoded",
+      "dimensions": [
+        1723,
+        2585
+      ],
+      "sha256": "ded9fec187974a8ffac4533748c4547d819d7bf1ec53524839b09e1e1893ae59"
+    },
+    {
+      "index": 5,
+      "image": "https://www.watchfinder.co.uk/media/catalog/product/W/a/Watch-6-69d8ae604cb046a08fcd6e833d7a2a2f.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=&width=",
+      "caption": "This is an image of the actual watch",
+      "status": "decoded",
+      "dimensions": [
+        3527,
+        3527
+      ],
+      "sha256": "f04fbcb770ff6e63124cc1df82ca402cf0f4df48e45509de95a242d9971cb4d1"
+    },
+    {
+      "index": 6,
+      "image": "https://www.watchfinder.co.uk/media/catalog/product/B/o/Box-1-34f98dd1740444a987306b335d204214.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=&width=",
+      "caption": "This is an image of the actual watch",
+      "status": "decoded",
+      "dimensions": [
+        3293,
+        4939
+      ],
+      "sha256": "eaef2da38c3ea8b8ee200aa910ba7f9952d9c2eb1d3d9bab61cd66b19c9679f6"
+    }
+  ],
+  "evidence": "Watchfinder exact M91650-0001 specimen listing identifies 41 mm steel case, silver Arabic dial and steel bracelet; gallery explicitly captions actual-watch photographs. All seven gallery images visually inspected. Manufacturer https://www.tudorwatch.com/en/watches/1926/m91650-0001 corroborates reference family and configuration. Unrelated recommended product photographs excluded.",
+  "limitations": "No movement photo; partly obscured caseback withheld. Full suffix supports only silver-blue Arabic bracelet configuration."
+}

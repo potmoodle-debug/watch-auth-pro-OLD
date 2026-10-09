@@ -1,0 +1,377 @@
+{
+  "completion": "IN PROGRESS",
+  "reviewedAt": "2026-10-09T14:12:18.274139+00:00",
+  "inspectedGalleryImages": 25,
+  "acceptedPhotographs": 6,
+  "reviewedReferences": [
+    "35200",
+    "35500",
+    "74000",
+    "74033"
+  ],
+  "sources": [
+    {
+      "reference": "35200",
+      "source": "https://www.the-saleroom.com/en-gb/auction-catalogues/auctionrevolution/catalogue-id-auctio20-10158/lot-5b5cb286-a579-486b-8228-b37c00c6c851",
+      "key": 1,
+      "status": 200,
+      "resolved": "https://www.the-saleroom.com/en-gb/auction-catalogues/auctionrevolution/catalogue-id-auctio20-10158/lot-5b5cb286-a579-486b-8228-b37c00c6c851"
+    },
+    {
+      "reference": "35200",
+      "source": "https://www.the-saleroom.com/en-gb/auction-catalogues/sterling-vault/catalogue-id-sterli1-10203/lot-3400cc66-7571-4450-853c-b355010884d2",
+      "key": 2,
+      "status": 200,
+      "resolved": "https://www.the-saleroom.com/en-gb/auction-catalogues/sterling-vault/catalogue-id-sterli1-10203/lot-3400cc66-7571-4450-853c-b355010884d2"
+    },
+    {
+      "reference": "35500",
+      "source": "https://www.easyliveauction.com/catalogue/lot/94934e5e75f20ccaa5a56dcfc077e641/0af8d24542e81eb9357e7ef448a6646f/live-auction-of-luxury-watches-featuring-cartier-rol-lot-121/",
+      "key": 3,
+      "status": 200,
+      "resolved": "https://www.easyliveauction.com/catalogue/lot/94934e5e75f20ccaa5a56dcfc077e641/0af8d24542e81eb9357e7ef448a6646f/live-auction-of-luxury-watches-featuring-cartier-rol-lot-121/"
+    },
+    {
+      "reference": "74000",
+      "source": "https://www.the-saleroom.com/en-gb/auction-catalogues/sterling-vault/catalogue-id-sterli1-10227/lot-84003b83-bc54-4803-b792-b48a00d88bfd",
+      "key": 6,
+      "status": 200,
+      "resolved": "https://www.the-saleroom.com/en-gb/auction-catalogues/sterling-vault/catalogue-id-sterli1-10227/lot-84003b83-bc54-4803-b792-b48a00d88bfd"
+    },
+    {
+      "reference": "74033",
+      "source": "https://grailzee.com/products/tudor-prince-date-day-unknown",
+      "key": 8,
+      "status": 200,
+      "resolved": "https://grailzee.com/products/tudor-prince-date-day-unknown"
+    }
+  ],
+  "imageAccess": [
+    {
+      "key": 1,
+      "reference": "35200",
+      "index": 0,
+      "image": "https://cdn.globalauctionplatform.com/auctions-2025/auctio20-10158/images/5b83e082-b4e0-4025-a66f-b37c00d67276.jpg",
+      "source": "https://www.the-saleroom.com/en-gb/auction-catalogues/auctionrevolution/catalogue-id-auctio20-10158/lot-5b5cb286-a579-486b-8228-b37c00c6c851",
+      "status": "decoded",
+      "dimensions": [
+        5472,
+        3648
+      ],
+      "sha256": "ad43b065fb93c5d0194bad125f23cdf5b3accd5bc63a166aa3aca1751d35446e"
+    },
+    {
+      "key": 1,
+      "reference": "35200",
+      "index": 1,
+      "image": "https://cdn.globalauctionplatform.com/auctions-2025/auctio20-10158/images/6b5c2e87-6805-4ee5-99ed-b37c00d66ce8.jpg",
+      "source": "https://www.the-saleroom.com/en-gb/auction-catalogues/auctionrevolution/catalogue-id-auctio20-10158/lot-5b5cb286-a579-486b-8228-b37c00c6c851",
+      "status": "decoded",
+      "dimensions": [
+        5472,
+        3648
+      ],
+      "sha256": "347e5b94f935b25ac9f52bce458deab3aec4fff5aa0351078dce4fa7fe1a4896"
+    },
+    {
+      "key": 1,
+      "reference": "35200",
+      "index": 2,
+      "image": "https://cdn.globalauctionplatform.com/auctions-2025/auctio20-10158/images/55334a64-3a27-4a9a-9571-b37c00d6679b.jpg",
+      "source": "https://www.the-saleroom.com/en-gb/auction-catalogues/auctionrevolution/catalogue-id-auctio20-10158/lot-5b5cb286-a579-486b-8228-b37c00c6c851",
+      "status": "decoded",
+      "dimensions": [
+        5472,
+        3648
+      ],
+      "sha256": "731ef5a1d879a3e99d7c62ad509068bf059a1c2e0c3ba3001140901e93db9f83"
+    },
+    {
+      "key": 1,
+      "reference": "35200",
+      "index": 3,
+      "image": "https://cdn.globalauctionplatform.com/auctions-2025/auctio20-10158/images/a8aadab7-7c3f-4d09-842d-b37c00d6627e.jpg",
+      "source": "https://www.the-saleroom.com/en-gb/auction-catalogues/auctionrevolution/catalogue-id-auctio20-10158/lot-5b5cb286-a579-486b-8228-b37c00c6c851",
+      "status": "decoded",
+      "dimensions": [
+        5472,
+        3648
+      ],
+      "sha256": "dbcb93a2724468eec30f41017912230f22f0d1364164aeaa9872effc607e95e1"
+    },
+    {
+      "key": 1,
+      "reference": "35200",
+      "index": 4,
+      "image": "https://cdn.globalauctionplatform.com/auctions-2025/auctio20-10158/images/ed21d5ab-7841-47ae-89fa-b37c00d65b8a.jpg",
+      "source": "https://www.the-saleroom.com/en-gb/auction-catalogues/auctionrevolution/catalogue-id-auctio20-10158/lot-5b5cb286-a579-486b-8228-b37c00c6c851",
+      "status": "decoded",
+      "dimensions": [
+        5472,
+        3648
+      ],
+      "sha256": "c2d45e36cfc92515076cdd8499382a6386a693bd2d5a6e64e118e9d3e9f9c24f"
+    },
+    {
+      "key": 1,
+      "reference": "35200",
+      "index": 5,
+      "image": "https://cdn.globalauctionplatform.com/auctions-2025/auctio20-10158/images/222fe915-1b2b-487e-bae5-b37c00d655b7.jpg",
+      "source": "https://www.the-saleroom.com/en-gb/auction-catalogues/auctionrevolution/catalogue-id-auctio20-10158/lot-5b5cb286-a579-486b-8228-b37c00c6c851",
+      "status": "decoded",
+      "dimensions": [
+        5472,
+        3648
+      ],
+      "sha256": "aaf9285aec2a0705573eda963921af75469267d5931b0f26ec988b4e0e40728b"
+    },
+    {
+      "key": 1,
+      "reference": "35200",
+      "index": 6,
+      "image": "https://cdn.globalauctionplatform.com/auctions-2025/auctio20-10158/images/34b0605f-f09c-4e00-9017-b37c00d64fe2.jpg",
+      "source": "https://www.the-saleroom.com/en-gb/auction-catalogues/auctionrevolution/catalogue-id-auctio20-10158/lot-5b5cb286-a579-486b-8228-b37c00c6c851",
+      "status": "decoded",
+      "dimensions": [
+        5472,
+        3648
+      ],
+      "sha256": "d7177a46ca2e501ec8046c9ffc8b3bbb4f267a3c22611f2e1580ac3c79e8a8c1"
+    },
+    {
+      "key": 2,
+      "reference": "35200",
+      "index": 0,
+      "image": "https://cdn.globalauctionplatform.com/auctions-2025/sterli1-10203/images/4bfba58a-7e7c-4ba2-a294-b35a00b742fd.jpg",
+      "source": "https://www.the-saleroom.com/en-gb/auction-catalogues/sterling-vault/catalogue-id-sterli1-10203/lot-3400cc66-7571-4450-853c-b355010884d2",
+      "status": "decoded",
+      "dimensions": [
+        6000,
+        3368
+      ],
+      "sha256": "f1149d89232206fd40b831224772cef3e30fb8ed4fa5a01c30b4ad6fb3e926e4"
+    },
+    {
+      "key": 2,
+      "reference": "35200",
+      "index": 1,
+      "image": "https://cdn.globalauctionplatform.com/auctions-2025/sterli1-10203/images/3e16f01a-10aa-4702-bdbe-b3550109ade4.jpg",
+      "source": "https://www.the-saleroom.com/en-gb/auction-catalogues/sterling-vault/catalogue-id-sterli1-10203/lot-3400cc66-7571-4450-853c-b355010884d2",
+      "status": "decoded",
+      "dimensions": [
+        6000,
+        3368
+      ],
+      "sha256": "6672c56b604e019f6cbebcd8b114817f9f1fc1c971e891e612d55e945d6d5e2c"
+    },
+    {
+      "key": 2,
+      "reference": "35200",
+      "index": 2,
+      "image": "https://cdn.globalauctionplatform.com/auctions-2025/sterli1-10203/images/1b5c119f-4886-48cd-9753-b355010b16cc.jpg",
+      "source": "https://www.the-saleroom.com/en-gb/auction-catalogues/sterling-vault/catalogue-id-sterli1-10203/lot-3400cc66-7571-4450-853c-b355010884d2",
+      "status": "decoded",
+      "dimensions": [
+        6000,
+        3368
+      ],
+      "sha256": "e57931a52caedcfa2a722da9ad82c7d635b4ebd85bc929aa95f56126787e8b4b"
+    },
+    {
+      "key": 2,
+      "reference": "35200",
+      "index": 3,
+      "image": "https://cdn.globalauctionplatform.com/auctions-2025/sterli1-10203/images/376eff7d-dd80-47d0-a4a9-b355010c60e3.jpg",
+      "source": "https://www.the-saleroom.com/en-gb/auction-catalogues/sterling-vault/catalogue-id-sterli1-10203/lot-3400cc66-7571-4450-853c-b355010884d2",
+      "status": "decoded",
+      "dimensions": [
+        6000,
+        3368
+      ],
+      "sha256": "91c650c3d6ef0add1dcf8e548cd5eebb3e1143dfd35d7038232237828c79a8ea"
+    },
+    {
+      "key": 2,
+      "reference": "35200",
+      "index": 4,
+      "image": "https://cdn.globalauctionplatform.com/auctions-2025/sterli1-10203/images/692ed134-29d8-4152-be31-b355010db1cf.jpg",
+      "source": "https://www.the-saleroom.com/en-gb/auction-catalogues/sterling-vault/catalogue-id-sterli1-10203/lot-3400cc66-7571-4450-853c-b355010884d2",
+      "status": "decoded",
+      "dimensions": [
+        6000,
+        3368
+      ],
+      "sha256": "cc5cbecfacab4567bb86fc0929ceb2c035f2703d376f3214126bc17ad3fe4cc7"
+    },
+    {
+      "key": 2,
+      "reference": "35200",
+      "index": 5,
+      "image": "https://cdn.globalauctionplatform.com/auctions-2025/sterli1-10203/images/8ca31f7d-bb2e-4542-8127-b355010eff4c.jpg",
+      "source": "https://www.the-saleroom.com/en-gb/auction-catalogues/sterling-vault/catalogue-id-sterli1-10203/lot-3400cc66-7571-4450-853c-b355010884d2",
+      "status": "decoded",
+      "dimensions": [
+        6000,
+        3368
+      ],
+      "sha256": "17dc8849cb39f79751a3da85db782a6221fee3a6ea29f8fd953ab8269cebc305"
+    },
+    {
+      "key": 2,
+      "reference": "35200",
+      "index": 6,
+      "image": "https://cdn.globalauctionplatform.com/auctions-2025/sterli1-10203/images/c51f5240-47ef-4114-8ac9-b35a00b6c4be.jpg",
+      "source": "https://www.the-saleroom.com/en-gb/auction-catalogues/sterling-vault/catalogue-id-sterli1-10203/lot-3400cc66-7571-4450-853c-b355010884d2",
+      "status": "decoded",
+      "dimensions": [
+        6000,
+        3368
+      ],
+      "sha256": "54737d167f889a89fcbde069f41823921a41cb7b47ad582f138803e0516aecda"
+    },
+    {
+      "key": 3,
+      "reference": "35500",
+      "index": 0,
+      "image": "https://content.easyliveauction.com/auctions/images_lots/6E3E3D6F4BABE0CCE664AE7E6BDBF8D4_ste03/1100104508.JPG",
+      "source": "https://www.easyliveauction.com/catalogue/lot/94934e5e75f20ccaa5a56dcfc077e641/0af8d24542e81eb9357e7ef448a6646f/live-auction-of-luxury-watches-featuring-cartier-rol-lot-121/",
+      "status": "decoded",
+      "dimensions": [
+        2500,
+        1403
+      ],
+      "sha256": "8aaec144785907de135d4bf0339a29b51cd887b24661759d391ecb74e93d9eef"
+    },
+    {
+      "key": 3,
+      "reference": "35500",
+      "index": 1,
+      "image": "https://content.easyliveauction.com/auctions/images_lots/6E3E3D6F4BABE0CCE664AE7E6BDBF8D4_ste03/1100104509.JPG",
+      "source": "https://www.easyliveauction.com/catalogue/lot/94934e5e75f20ccaa5a56dcfc077e641/0af8d24542e81eb9357e7ef448a6646f/live-auction-of-luxury-watches-featuring-cartier-rol-lot-121/",
+      "status": "decoded",
+      "dimensions": [
+        2500,
+        1403
+      ],
+      "sha256": "a2a3c7eeb89c993b797077bcabcfa482c63ff81e11681fb59ebf621f2533bb10"
+    },
+    {
+      "key": 3,
+      "reference": "35500",
+      "index": 2,
+      "image": "https://content.easyliveauction.com/auctions/images_lots/6E3E3D6F4BABE0CCE664AE7E6BDBF8D4_ste03/1100104510.JPG",
+      "source": "https://www.easyliveauction.com/catalogue/lot/94934e5e75f20ccaa5a56dcfc077e641/0af8d24542e81eb9357e7ef448a6646f/live-auction-of-luxury-watches-featuring-cartier-rol-lot-121/",
+      "status": "decoded",
+      "dimensions": [
+        2500,
+        1403
+      ],
+      "sha256": "8c9dca4f8fe27d1845fe547f5d33cc5e15b6c50a205ca4c3a9e808fd2f533f92"
+    },
+    {
+      "key": 3,
+      "reference": "35500",
+      "index": 3,
+      "image": "https://content.easyliveauction.com/auctions/images_lots/6E3E3D6F4BABE0CCE664AE7E6BDBF8D4_ste03/1100104511.JPG",
+      "source": "https://www.easyliveauction.com/catalogue/lot/94934e5e75f20ccaa5a56dcfc077e641/0af8d24542e81eb9357e7ef448a6646f/live-auction-of-luxury-watches-featuring-cartier-rol-lot-121/",
+      "status": "decoded",
+      "dimensions": [
+        2500,
+        1403
+      ],
+      "sha256": "f223b786f1e35324aed1b6417469c78f02be45a7d29a8bf0222ec05faca3f0eb"
+    },
+    {
+      "key": 3,
+      "reference": "35500",
+      "index": 4,
+      "image": "https://content.easyliveauction.com/auctions/images_lots/6E3E3D6F4BABE0CCE664AE7E6BDBF8D4_ste03/1100104512.JPG",
+      "source": "https://www.easyliveauction.com/catalogue/lot/94934e5e75f20ccaa5a56dcfc077e641/0af8d24542e81eb9357e7ef448a6646f/live-auction-of-luxury-watches-featuring-cartier-rol-lot-121/",
+      "status": "decoded",
+      "dimensions": [
+        2500,
+        1403
+      ],
+      "sha256": "8a3a955141a15a1955ab8eaf54bffb318c9ccda50477499473e1d2050cf77e2a"
+    },
+    {
+      "key": 6,
+      "reference": "74000",
+      "index": 0,
+      "image": "https://cdn.globalauctionplatform.com/auctions-2026/sterli1-10227/images/b8e42f34-89b5-4897-8176-b48a00e5d347.jpg",
+      "source": "https://www.the-saleroom.com/en-gb/auction-catalogues/sterling-vault/catalogue-id-sterli1-10227/lot-84003b83-bc54-4803-b792-b48a00d88bfd",
+      "status": "decoded",
+      "dimensions": [
+        6000,
+        3368
+      ],
+      "sha256": "59e7ee96b8b6d955fac009e9c97596b520e12d5f169aaa8360800db05350b95c"
+    },
+    {
+      "key": 6,
+      "reference": "74000",
+      "index": 1,
+      "image": "https://cdn.globalauctionplatform.com/auctions-2026/sterli1-10227/images/9ee0607e-a896-4a41-a2ab-b48a00e79654.jpg",
+      "source": "https://www.the-saleroom.com/en-gb/auction-catalogues/sterling-vault/catalogue-id-sterli1-10227/lot-84003b83-bc54-4803-b792-b48a00d88bfd",
+      "status": "decoded",
+      "dimensions": [
+        6000,
+        3368
+      ],
+      "sha256": "3b35aabdd4cf41a6a042053427e8042c71262444387d453eda7a7215e4437bda"
+    },
+    {
+      "key": 6,
+      "reference": "74000",
+      "index": 2,
+      "image": "https://cdn.globalauctionplatform.com/auctions-2026/sterli1-10227/images/2d168d23-2a75-42e9-a8b9-b48a00eac44f.jpg",
+      "source": "https://www.the-saleroom.com/en-gb/auction-catalogues/sterling-vault/catalogue-id-sterli1-10227/lot-84003b83-bc54-4803-b792-b48a00d88bfd",
+      "status": "decoded",
+      "dimensions": [
+        6000,
+        3368
+      ],
+      "sha256": "b6293296660da31939f248f44fc03c7934fbc67996ea277351ea56dfc2b47ba3"
+    },
+    {
+      "key": 6,
+      "reference": "74000",
+      "index": 3,
+      "image": "https://cdn.globalauctionplatform.com/auctions-2026/sterli1-10227/images/37b7853f-a85a-4737-8c2b-b48a00ef1054.jpg",
+      "source": "https://www.the-saleroom.com/en-gb/auction-catalogues/sterling-vault/catalogue-id-sterli1-10227/lot-84003b83-bc54-4803-b792-b48a00d88bfd",
+      "status": "decoded",
+      "dimensions": [
+        6000,
+        3368
+      ],
+      "sha256": "9d4c22e39022fcd8a11788c3a8bf5d787e9f6745d9e8630c480cb9a3639eefd1"
+    },
+    {
+      "key": 6,
+      "reference": "74000",
+      "index": 4,
+      "image": "https://cdn.globalauctionplatform.com/auctions-2026/sterli1-10227/images/5028d27a-c1f9-4d72-9ad5-b48a00f3b6ba.jpg",
+      "source": "https://www.the-saleroom.com/en-gb/auction-catalogues/sterling-vault/catalogue-id-sterli1-10227/lot-84003b83-bc54-4803-b792-b48a00d88bfd",
+      "status": "decoded",
+      "dimensions": [
+        6000,
+        3368
+      ],
+      "sha256": "d75c1c32ea09e6688c1498dda06105365534755d3551f04359699169fd092286"
+    },
+    {
+      "key": 8,
+      "reference": "74033",
+      "index": 0,
+      "image": "https://grailzee.com/cdn/shop/files/main-media-image-538835_1800x1800.webp?v=1738096737",
+      "source": "https://grailzee.com/products/tudor-prince-date-day-unknown",
+      "status": "decoded",
+      "dimensions": [
+        600,
+        750
+      ],
+      "sha256": "e9e509432ab1cebd998ff9f59bbdb9ac47c8ef1cdcfdc8db59960751b6c9b9cf"
+    }
+  ],
+  "limitations": "25 unique gallery images visually inspected. Other fetched candidates remain unreviewed; HTTP success is not visual verification. No opened movement execution supported."
+}
