@@ -274,3 +274,22 @@ test('modern Rolex case aliases retain dial, generation and photographed executi
  assert.ok(get('126610LV',{externalOnly:true}).every(p=>p.category!=='movement'));
  assert.equal(matchingPhotographs(photos,'Tudor','116610').length,0);
 });
+
+
+test('specialist Rolex specimens keep explicit variants and photographed calibre evidence',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,opts)=>matchingPhotographs(photos,'Rolex',ref,opts).filter(p=>p.id.startsWith('rolex-specialist-'));
+ assert.equal(get('116334').length,5);
+ assert.ok(get('116334').find(p=>p.category==='movement').caption.includes('3136'));
+ assert.equal(get('116334').find(p=>p.category==='movement').image,get('116334').find(p=>p.category==='caseback').image);
+ for(const ref of ['116621','116655']){
+  assert.equal(get(ref).length,2);
+  assert.ok(get(ref).every(p=>!['movement','braceletClasp'].includes(p.category)));
+ }
+ assert.equal(get('116710BLNR').length,5);
+ assert.ok(get('116710BLNR').every(p=>get('116710').some(q=>q.id===p.id)&&p.matchScope==='representative variant'));
+ assert.ok(get('116710BLNR').find(p=>p.category==='movement').caption.includes('3186'));
+ for(const ref of ['116710LN','126710BLNR','126621','126655','126334','116334-0001'])assert.equal(get(ref).length,0,ref);
+ assert.ok(get('116334',{externalOnly:true}).every(p=>p.category!=='movement'));
+ assert.equal(matchingPhotographs(photos,'Tudor','116334').length,0);
+});

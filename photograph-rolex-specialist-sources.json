@@ -1,0 +1,1870 @@
+{
+  "reviewedAt": "2026-10-09T15:58:11.416280+00:00",
+  "completion": "IN PROGRESS",
+  "specialistGalleriesInspected": 3,
+  "specialistImageOccurrencesInspected": 37,
+  "additionalAuctionGalleriesInspected": 4,
+  "additionalAuctionImageOccurrencesInspected": 75,
+  "attachedSpecimens": [
+    {
+      "acceptedReferenceKeys": [
+        "116334"
+      ],
+      "source": "https://loupethis.com/auctions/rolex-datejust-ii-41mm-116334-blue-dial-fluted-beze-box-and-papers",
+      "credit": "Loupe This",
+      "specimenDescription": [
+        {
+          "_key": "d1d12f491673",
+          "_type": "titleLeftBodyRight",
+          "title": "Introduction",
+          "bodyCopy": [
+            {
+              "markDefs": [],
+              "children": [
+                {
+                  "marks": [],
+                  "text": "Released to celebrate Rolex's 40th anniversary in 1945, the Rolex Datejust has become one of the Genevan Giant's most iconic watches. The world's first wristwatch to display the date via an aperture on the dial, the Datejust revolutionized wristwatch design for decades to follow. With its emblematic Cyclops lens, jubilee bracelet (designed specifically for the model in 1945), and classy fluted precious metal bezel, the Datejust's aesthetic has always been that of pure elegance and class. Perhaps one of Rolex's most recognizable designs, the Datejust has evolved from its dressier roots into a perfectly capable timepiece rivaling the robustness of most brand's sports watches. Featuring a stainless steel case with a screw-down crown and caseback, the Datejust packs an impressive 100m of water resistance alongside its consistently capable movements and construction that have enabled it to become one of the best-equipped watches for daily wear and tear. Available with several different dial options, in a multitude of materials, and across many styles, the Datejust is an inescapable reflection of its owner, with a model out there to suit pretty much everybody's tastes and preferences.",
+                  "_key": "616b26b5827e",
+                  "_type": "span"
+                }
+              ],
+              "_type": "block",
+              "style": "normal",
+              "_key": "30368ce1a77b"
+            }
+          ]
+        },
+        {
+          "_type": "auctionScorecard",
+          "grade": "M 9",
+          "status": "Vetted & Approved",
+          "included": "Box and Papers",
+          "range": {
+            "_type": "range",
+            "start": 6000,
+            "end": 8000
+          },
+          "_key": "4f543b8d8d0e"
+        },
+        {
+          "movement": "Automatic cal. 3136",
+          "_key": "f0bacdc03e5c",
+          "condition": "Near-Mint",
+          "included": "Watch, box, papers and hang tags",
+          "_type": "twoColumnTable",
+          "reference": "116334",
+          "year": "2015",
+          "bracelet": "Stainless steel Oyster bracelet",
+          "brand": "Rolex",
+          "model": "Datejust II",
+          "dialColor": "Blue",
+          "material": "Stainless steel",
+          "dimensions": "41mm"
+        },
+        {
+          "imageComponents": [
+            {
+              "_key": "75ab8998cad3",
+              "image": {
+                "_type": "imageField",
+                "alt": "THE DIAL",
+                "asset": {
+                  "_ref": "image-552e754417be660c87ea028ed9f1a253a439a4a9-3175x3175-jpg",
+                  "_type": "reference"
+                }
+              },
+              "caption": [
+                {
+                  "style": "h5",
+                  "_key": "c83a680aed5a",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "_key": "d9700a96db04",
+                      "_type": "span",
+                      "marks": [],
+                      "text": "THE DIAL"
+                    }
+                  ],
+                  "_type": "block"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Boasting a stunning blue dial that features a beautiful sunburst pattern, this example's dial displays a variety of blue hues as it sparkles in the light alongside its 18kt white gold fluted bezel and Oyster bracelet. ",
+                      "_key": "e90a73a52e04",
+                      "_type": "span",
+                      "marks": []
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "normal",
+                  "_key": "2efac852acdc",
+                  "markDefs": []
+                }
+              ]
+            },
+            {
+              "caption": [
+                {
+                  "children": [
+                    {
+                      "_type": "span",
+                      "marks": [],
+                      "text": "THE CONSTRUCTION",
+                      "_key": "6bffbe53af1c"
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "h5",
+                  "_key": "a7431d908d0f",
+                  "markDefs": []
+                },
+                {
+                  "_type": "block",
+                  "style": "normal",
+                  "_key": "0129c1806ba2",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "marks": [],
+                      "text": "Modern in its sizing, the 41mm Datejust brings a familiar silhouette to the wrist that most collectors of modern watches will probably recognize and be comfortable with. Offered with a fluted bezel and Oyster bracelet, this example brings a sporty feeling to the Datejust's typically classical aesthetic. ",
+                      "_key": "6d80a1208a7d",
+                      "_type": "span"
+                    }
+                  ]
+                }
+              ],
+              "_key": "a86140890ba0",
+              "image": {
+                "_type": "imageField",
+                "alt": "THE CONSTRUCTION",
+                "asset": {
+                  "_ref": "image-cb0500e232e6ae59574a3b9ee08736cd6195d03c-2784x2784-jpg",
+                  "_type": "reference"
+                }
+              }
+            },
+            {
+              "caption": [
+                {
+                  "_key": "63a227d48262",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "_type": "span",
+                      "marks": [
+                        "strong"
+                      ],
+                      "text": "TIMING MACHINE READOUT",
+                      "_key": "c230e5ad5b000"
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "h5"
+                },
+                {
+                  "style": "normal",
+                  "_key": "741f83041412",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "marks": [],
+                      "text": "This reading was taken (crown down) with a ONEOF Accuracy Boutique Edition timing machine at time of cataloging. It is provided as a courtesy only, and shall not be construed as a warranty or guarantee of any kind. Please refer to our terms and conditions of sale for more information.",
+                      "_key": "d76b7d70dcbd0",
+                      "_type": "span"
+                    }
+                  ],
+                  "_type": "block"
+                }
+              ],
+              "_key": "98f314355c73",
+              "image": {
+                "_type": "imageField",
+                "alt": "TIMING MACHINE READOUT",
+                "asset": {
+                  "_type": "reference",
+                  "_ref": "image-81d10ec1feb09f4cdfdcb9e8b35d2431ec43b53a-750x750-jpg"
+                }
+              }
+            }
+          ],
+          "_key": "0d197430fd44",
+          "_type": "threeUpImageModule"
+        },
+        {
+          "bodyCopy": [
+            {
+              "_type": "block",
+              "style": "normal",
+              "_key": "3316c3125de6",
+              "markDefs": [],
+              "children": [
+                {
+                  "_key": "2b400ad52c22",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Watch is in near-mint condition.  There are minor signs of use, with small scratches visible along the case surface.  The back of lugs have minor signs of wear from bracelet removal, and there is a tiny ding visible on the backside edge of one lug, as seen in the images.  Bracelet has 12 links currently fitted, with 6 being removable.  There is one additional link included on the side.  "
+                }
+              ]
+            },
+            {
+              "_type": "block",
+              "style": "normal",
+              "_key": "fa9740e46270",
+              "markDefs": [],
+              "children": [
+                {
+                  "marks": [],
+                  "text": "",
+                  "_key": "c15d3397aa73",
+                  "_type": "span"
+                }
+              ]
+            }
+          ],
+          "_key": "6985ad09d93a",
+          "_type": "titleLeftBodyRight",
+          "title": "Condition"
+        },
+        {
+          "authorProfiles": [
+            {
+              "name": "Eric Ku",
+              "jobTitle": "Co-founder",
+              "image": {
+                "_type": "imageField",
+                "asset": {
+                  "_ref": "image-e583b84f0b924ae364b7b663405f05f9aa7e8c16-2175x2258-jpg",
+                  "_type": "reference"
+                }
+              },
+              "_id": "08967c9c-8436-4841-b6cd-920ca9db96d8",
+              "_type": "author"
+            }
+          ],
+          "_key": "cc50944c5586",
+          "_type": "titleLeftBodyRight",
+          "title": "Our Perspective",
+          "bodyCopy": [
+            {
+              "style": "normal",
+              "_key": "ac5037903ea7",
+              "markDefs": [],
+              "children": [
+                {
+                  "_key": "3e9b24f37880",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "An icon of horology, the Datejust has grown into a larger-than-life character within the world of watchmaking. While typically classical in its execution, the Oyster bracelet and the Datejust II's 41mm sizing combines to give this usually restrained watch a larger-than-life presence on the wrist - making it perfect for the modern collector. "
+                }
+              ],
+              "_type": "block"
+            }
+          ]
+        }
+      ],
+      "evidence": "Loupe This lot 2893: all 24 actual gallery photographs visually inspected, selected views inspected at full resolution. Photographed between-lug stamp reads 116334; movement stamp reads 3136, with blue hairspring and full balance bridge. Internal back is 2410. Actual guarantee card shows 116334, blue dial and Oyster bracelet; its purchase date is May 2014, while catalogue table says 2015, so no exact year is inferred. Source: https://loupethis.com/auctions/rolex-datejust-ii-41mm-116334-blue-dial-fluted-beze-box-and-papers",
+      "acceptedPhotographIds": [
+        "rolex-specialist-loupe-2893-front-0",
+        "rolex-specialist-loupe-2893-movement-16",
+        "rolex-specialist-loupe-2893-caseback-16",
+        "rolex-specialist-loupe-2893-braceletClasp-13",
+        "rolex-specialist-loupe-2893-detail-15"
+      ],
+      "inspectedImages": [
+        {
+          "reference": "116334",
+          "source": "https://loupethis.com/auctions/rolex-datejust-ii-41mm-116334-blue-dial-fluted-beze-box-and-papers",
+          "index": 0,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/9062b4477c7bcdea40a1adc30e31e4b940a598af-3151x3151.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "aa20b3a17c1c7eefe08737444a716f8cd7a2292e9a99c6518340a419ce84f2f1"
+        },
+        {
+          "reference": "116334",
+          "source": "https://loupethis.com/auctions/rolex-datejust-ii-41mm-116334-blue-dial-fluted-beze-box-and-papers",
+          "index": 1,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/425e798f3c5f251a7ae882d213dd3d04a31dcb72-2997x2997.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "b26da32856a73e42a0ff9b4abf77d2fa28fb22325fa4d0703c918dcd32113fc8"
+        },
+        {
+          "reference": "116334",
+          "source": "https://loupethis.com/auctions/rolex-datejust-ii-41mm-116334-blue-dial-fluted-beze-box-and-papers",
+          "index": 2,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/26879286ec15242cf4086cca324f019021ce0d0f-2997x2997.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "d3289611446f3c7155dbb7dd7a51f785ada88c3111c2be878b6888ba0bac4ffe"
+        },
+        {
+          "reference": "116334",
+          "source": "https://loupethis.com/auctions/rolex-datejust-ii-41mm-116334-blue-dial-fluted-beze-box-and-papers",
+          "index": 3,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/fb5ad1675d7ebb592b2420b97e8da236b7ebb6b7-2997x2997.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "a7cdea0ca530fcb06ebd72ec068781fce3aa9bc0d2b6b4e86740898520747d7e"
+        },
+        {
+          "reference": "116334",
+          "source": "https://loupethis.com/auctions/rolex-datejust-ii-41mm-116334-blue-dial-fluted-beze-box-and-papers",
+          "index": 4,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/61e64a4885bbf5bc73b8a710f693ade13830c0f0-2997x2997.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "4a8d394d26e62d3f8c642eb6771fca1538dd096ed9fea92f0913cc0660634213"
+        },
+        {
+          "reference": "116334",
+          "source": "https://loupethis.com/auctions/rolex-datejust-ii-41mm-116334-blue-dial-fluted-beze-box-and-papers",
+          "index": 5,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/44f2aed961847a2762038a0114eb335115a4139f-3151x3151.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "2dfd14b96d47747712541848ea1523a71d8a88819e1f6f47b1e932a0dce0e55c"
+        },
+        {
+          "reference": "116334",
+          "source": "https://loupethis.com/auctions/rolex-datejust-ii-41mm-116334-blue-dial-fluted-beze-box-and-papers",
+          "index": 6,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/c4473fdca0073cb854d6b003bd90d43403c7667f-2997x2997.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "170ea5a943d51716dc5a664733e2ac2391149534e2eca6e5afbd8ccd7bef58fb"
+        },
+        {
+          "reference": "116334",
+          "source": "https://loupethis.com/auctions/rolex-datejust-ii-41mm-116334-blue-dial-fluted-beze-box-and-papers",
+          "index": 7,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/1ae0bd7816d99f0aee68bbbb3db80f7ef4beec3b-3167x3167.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "c28205ba6968d6b110e7b91de1c56d2fbfe1c490752feb3572a56d3966120040"
+        },
+        {
+          "reference": "116334",
+          "source": "https://loupethis.com/auctions/rolex-datejust-ii-41mm-116334-blue-dial-fluted-beze-box-and-papers",
+          "index": 8,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/d7e965402be8d47f234192f102d368420ce1390a-3522x3522.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "27adc6d5f6335ce681cbe262160646b82233f5b089321e731f85038dbb570832"
+        },
+        {
+          "reference": "116334",
+          "source": "https://loupethis.com/auctions/rolex-datejust-ii-41mm-116334-blue-dial-fluted-beze-box-and-papers",
+          "index": 9,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/48dc7b6f432f84d21bd6c27bc265fe40fdb141d0-3669x3669.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "a6cfb8e0a8908ff12c2b4400e3b7e406baa5b090c8c5b4d3e68639a79041ef19"
+        },
+        {
+          "reference": "116334",
+          "source": "https://loupethis.com/auctions/rolex-datejust-ii-41mm-116334-blue-dial-fluted-beze-box-and-papers",
+          "index": 10,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/e9cb853b19c83281f969f3e7d66ba6609fc32892-3395x3395.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "4bcb5845477aa1b907a22572359662d1dba989ddf317b380a08147d4ee60a6f3"
+        },
+        {
+          "reference": "116334",
+          "source": "https://loupethis.com/auctions/rolex-datejust-ii-41mm-116334-blue-dial-fluted-beze-box-and-papers",
+          "index": 11,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/552e754417be660c87ea028ed9f1a253a439a4a9-3175x3175.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "975304f56c75b425c63e441dad295620418bd161c7c4d84b1528f09c840e571c"
+        },
+        {
+          "reference": "116334",
+          "source": "https://loupethis.com/auctions/rolex-datejust-ii-41mm-116334-blue-dial-fluted-beze-box-and-papers",
+          "index": 12,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/8eae471ce20c5dd6ecfa91f29ca29d39c768c8fc-3488x3488.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "3c65d0aa7fd5396af2fae13e4a3aab443fd2796fb1f5fa1104db72efafad1daf"
+        },
+        {
+          "reference": "116334",
+          "source": "https://loupethis.com/auctions/rolex-datejust-ii-41mm-116334-blue-dial-fluted-beze-box-and-papers",
+          "index": 13,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/431d162ea0cc71fd893c9066cb52e08464a56800-3534x3534.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "cb00f594e1c2a685daf4cb5ccaf1eee3c038f37beef5d4f68704881136085766"
+        },
+        {
+          "reference": "116334",
+          "source": "https://loupethis.com/auctions/rolex-datejust-ii-41mm-116334-blue-dial-fluted-beze-box-and-papers",
+          "index": 14,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/449a7b7748c402cb7575998325936964dbe54e61-2961x2961.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "9ba1f80dae45d2771f79077442d4b876eceb5d03546b3cddce85594e8ccdfd0f"
+        },
+        {
+          "reference": "116334",
+          "source": "https://loupethis.com/auctions/rolex-datejust-ii-41mm-116334-blue-dial-fluted-beze-box-and-papers",
+          "index": 15,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/89a10c6402891cd0d6acefd754d0156eb2bcce66-2997x2997.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "3a4d24d653fd8a0a19048c6b076cf1c86e27dc83c334bac09beee39a8274784e"
+        },
+        {
+          "reference": "116334",
+          "source": "https://loupethis.com/auctions/rolex-datejust-ii-41mm-116334-blue-dial-fluted-beze-box-and-papers",
+          "index": 16,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/7ae46a4024cb02407cd7ea97ff8c932d26222e8c-3661x3661.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "dbd171374c250a8aebb61964f34bdc175cf32e5514c616e68007358a2cce58f4"
+        },
+        {
+          "reference": "116334",
+          "source": "https://loupethis.com/auctions/rolex-datejust-ii-41mm-116334-blue-dial-fluted-beze-box-and-papers",
+          "index": 17,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/434f5c717212845f2df6813e55a9d977a4191a08-3850x3850.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "bd5547fcd369d28ed68083c3c1ec0604d97237f766d0c7de62adb581ca680bc6"
+        },
+        {
+          "reference": "116334",
+          "source": "https://loupethis.com/auctions/rolex-datejust-ii-41mm-116334-blue-dial-fluted-beze-box-and-papers",
+          "index": 18,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/3c0635ef3586b9f133d9c2515197bc0976baf26a-2997x2997.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "2be997b349d7a2a1b7416b8b31515f1bb1ac43e213c09b0ea433290a9e5ac79d"
+        },
+        {
+          "reference": "116334",
+          "source": "https://loupethis.com/auctions/rolex-datejust-ii-41mm-116334-blue-dial-fluted-beze-box-and-papers",
+          "index": 19,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/c58d5dd089ccecf76f5674d67f146c359e9c2b51-2285x2285.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "2ed889fa94e357bdd4776439c41af11ed60ea0d574a6c360d0e22b73249d16c0"
+        },
+        {
+          "reference": "116334",
+          "source": "https://loupethis.com/auctions/rolex-datejust-ii-41mm-116334-blue-dial-fluted-beze-box-and-papers",
+          "index": 20,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/cc95f80685219f768fd1bceffcdad2dd2c47c5ba-2316x2316.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "60c49b5262a5eae24d49102dfb646c479eb54628f50e15227c1e7373c611cf2b"
+        },
+        {
+          "reference": "116334",
+          "source": "https://loupethis.com/auctions/rolex-datejust-ii-41mm-116334-blue-dial-fluted-beze-box-and-papers",
+          "index": 21,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/96f96984138fb01fe5d5411a186ef05a5e458c86-3344x3344.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "6359bd2abbc9b31b1315bfc6769b6e0153a814f269c8e6d9bea338d5621bcd03"
+        },
+        {
+          "reference": "116334",
+          "source": "https://loupethis.com/auctions/rolex-datejust-ii-41mm-116334-blue-dial-fluted-beze-box-and-papers",
+          "index": 22,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/2d5cad7f5a9d32b842b91f88aa692bfacdacec05-3140x3140.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "b34198dc6bf2986ebef35fe2ddc7afb256f047bfd0ba134b3d877411efe623ad"
+        },
+        {
+          "reference": "116334",
+          "source": "https://loupethis.com/auctions/rolex-datejust-ii-41mm-116334-blue-dial-fluted-beze-box-and-papers",
+          "index": 23,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/cb0500e232e6ae59574a3b9ee08736cd6195d03c-2784x2784.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "032b1d472428ac38572f9dc84a55118df694d745d4c4272032aa95cf6f96ad9d"
+        }
+      ]
+    },
+    {
+      "acceptedReferenceKeys": [
+        "116621"
+      ],
+      "source": "https://www.sothebys.com/en/buy/auction/2025/fine-watches-3/reference-116621-yacht-master-a-pink-gold-and",
+      "credit": "Sotheby's",
+      "specimenDescription": {
+        "title": "Reference 116621 Yacht-Master | A pink gold and stainless steel automatic wristwatch with date and bracelet, Circa 2016",
+        "description": "<p><strong>Dial: </strong>chocolate</p><p><strong>Caliber: </strong>cal. 3235 automatic, 31 jewels</p><p><strong>Case: </strong>18k pink gold and stainless steel, screw down case back</p><p><strong>Case number: </strong>75'4N3'392</p><p><strong>Closure: </strong>18k pink gold and stainless steel Rolex Oyster bracelet with folding clasp</p><p><strong>Size: </strong>40 mm diameter, bracelet circumference is approximately 185 mm</p><p><strong>Signed: </strong>case, dial and movement</p><p><strong>Box: </strong>yes</p><p><strong>Papers: </strong>yes</p><p><strong>Accessories:&nbsp;</strong>Rolex presentation box with outer packaging, International Guarantee card dated September 8th, 2016, Operating Instructions booklet, booklets, booklet sleeve, and hangtag</p>",
+        "condition": {
+          "__typename": "ConditionBehindLogin",
+          "lotId": "693ead6a-8afa-4ec3-8c98-d0a7c266c199"
+        },
+        "saleroomNotice": null,
+        "catalogueNote": "<p>While not the first Rolex watch designed for life at sea, the Yacht-Master represents a distinct approach within the brand’s maritime legacy. Unlike the Submariner, which was purpose-built as a professional diving tool, the Yacht-Master was conceived as a luxury sports watch for the sailing world, balancing robust functionality with refined aesthetics.</p><p><br></p><p>Although the concept for the Yacht-Master dates back to the 1960s, the model was not released at the time, possibly due to concerns that its departure from the Submariner’s design language was too radical. Rather than modifying an icon, Rolex ultimately chose to introduce an entirely new model. The Yacht-Master officially debuted in 1992 with reference 16628 in solid yellow gold. True to Rolex standards, the watch featured a triple-lock crown and 100 meters (330 feet) of water resistance, affirming its strength and durability, while also incorporating premium materials and a more elegant design.</p><p><br></p><p>The present example is offered in never-worn condition, featuring a striking combination of Everose pink gold and a rich chocolate brown dial, beautifully contrasted by stainless steel elements. This reference perfectly embodies the Yacht-Master's dual spirit, where sporty utility meets understated luxury.</p>"
+      },
+      "evidence": "Sotheby's exact lot identifies 116621; all 8 actual gallery photographs visually inspected and selected front/back views inspected at full resolution. No opened movement or dedicated clasp photograph is supplied. Representative configuration only; no full catalogue suffix inferred. Source: https://www.sothebys.com/en/buy/auction/2025/fine-watches-3/reference-116621-yacht-master-a-pink-gold-and Actual gallery guarantee card independently identifies 116621 and chocolate dial. The listing states 3235, but there is no movement photograph to verify this claim; no movement image or calibre execution is inferred from that text.",
+      "acceptedPhotographIds": [
+        "rolex-specialist-sothebys-116621-front-0",
+        "rolex-specialist-sothebys-116621-caseback-4"
+      ],
+      "inspectedImages": [
+        {
+          "reference": "116621",
+          "source": "https://www.sothebys.com/en/buy/auction/2025/fine-watches-3/reference-116621-yacht-master-a-pink-gold-and",
+          "index": 0,
+          "image": "https://sothebys-md.brightspotcdn.com/dims4/default/bf26895/2147483647/strip/true/crop/2000x2000+0+0/resize/2048x2048!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2Fd0%2Fff%2F839ab1704ea7af5c7a3f02aee8d1%2Fn11816-dfbwy-02.jpg",
+          "status": "decoded",
+          "dimensions": [
+            2048,
+            2048
+          ],
+          "sha256": "105f0c5d96f94cc17f7c43847693d74bc4be75a4552ac1ee08660ed3eab21af2"
+        },
+        {
+          "reference": "116621",
+          "source": "https://www.sothebys.com/en/buy/auction/2025/fine-watches-3/reference-116621-yacht-master-a-pink-gold-and",
+          "index": 1,
+          "image": "https://sothebys-md.brightspotcdn.com/dims4/default/5ba3ea3/2147483647/strip/true/crop/2000x2000+0+0/resize/2048x2048!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F17%2F75%2Fe03319594555907779d90022d5c8%2Fn11816-dfbwy-01.jpg",
+          "status": "decoded",
+          "dimensions": [
+            2048,
+            2048
+          ],
+          "sha256": "213780521f9bf99ff266ea057dd60c6a756f2b96ecf8351b776733cb09f7e190"
+        },
+        {
+          "reference": "116621",
+          "source": "https://www.sothebys.com/en/buy/auction/2025/fine-watches-3/reference-116621-yacht-master-a-pink-gold-and",
+          "index": 2,
+          "image": "https://sothebys-md.brightspotcdn.com/dims4/default/ced9615/2147483647/strip/true/crop/2000x2000+0+0/resize/2048x2048!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2Fd9%2Fd1%2F3ff46607458b8952a06800664a2c%2Fn11816-dfbwy-t3-03.jpg",
+          "status": "decoded",
+          "dimensions": [
+            2048,
+            2048
+          ],
+          "sha256": "2dc9a176ebb0c02f49145fecb0994b377f4919e85afae2675bf87b55b188b5aa"
+        },
+        {
+          "reference": "116621",
+          "source": "https://www.sothebys.com/en/buy/auction/2025/fine-watches-3/reference-116621-yacht-master-a-pink-gold-and",
+          "index": 3,
+          "image": "https://sothebys-md.brightspotcdn.com/dims4/default/8e0f98c/2147483647/strip/true/crop/2000x2000+0+0/resize/2048x2048!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F7f%2Fc3%2F2d0b198641b6aae34e4570973dc4%2Fn11816-dfbwy-t3-04.jpg",
+          "status": "decoded",
+          "dimensions": [
+            2048,
+            2048
+          ],
+          "sha256": "89a592dea132276f9d06c87f1ba72a7f23881c91d7d60faaaab1c1defcd991c3"
+        },
+        {
+          "reference": "116621",
+          "source": "https://www.sothebys.com/en/buy/auction/2025/fine-watches-3/reference-116621-yacht-master-a-pink-gold-and",
+          "index": 4,
+          "image": "https://sothebys-md.brightspotcdn.com/dims4/default/cadc6c3/2147483647/strip/true/crop/2000x2000+0+0/resize/2048x2048!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F0a%2F9a%2F2b1ae9ca4b18a6007cc95e4462ea%2Fn11816-dfbwy-t3-05.jpg",
+          "status": "decoded",
+          "dimensions": [
+            2048,
+            2048
+          ],
+          "sha256": "dd773888b576c9e11a61f38713cc7bf7061ff0999219fd7192f5ed3bea4918ff"
+        },
+        {
+          "reference": "116621",
+          "source": "https://www.sothebys.com/en/buy/auction/2025/fine-watches-3/reference-116621-yacht-master-a-pink-gold-and",
+          "index": 5,
+          "image": "https://sothebys-md.brightspotcdn.com/dims4/default/3d1cc7a/2147483647/strip/true/crop/850x850+0+0/resize/2048x2048!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F66%2F2b%2Fd2bb69084621bf981412fbac82ed%2Fn11816-dfbwy-bp.jpg",
+          "status": "decoded",
+          "dimensions": [
+            2048,
+            2048
+          ],
+          "sha256": "fd01023720c936043e908239a9d141f13c690055bf0ec6adc7cfaa683d3f7f03"
+        },
+        {
+          "reference": "116621",
+          "source": "https://www.sothebys.com/en/buy/auction/2025/fine-watches-3/reference-116621-yacht-master-a-pink-gold-and",
+          "index": 6,
+          "image": "https://sothebys-md.brightspotcdn.com/dims4/default/7089060/2147483647/strip/true/crop/1997x1247+0+0/resize/2048x1279!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2Fed%2F50%2F29b508424fbb9cc193d8d0dd70c7%2Fn11816-dfbwy-cs-2.jpg",
+          "status": "decoded",
+          "dimensions": [
+            2048,
+            1279
+          ],
+          "sha256": "f9e64dd3e532294d1406ffc7b1b2350737b87b82e56d757960eb819c48945f47"
+        },
+        {
+          "reference": "116621",
+          "source": "https://www.sothebys.com/en/buy/auction/2025/fine-watches-3/reference-116621-yacht-master-a-pink-gold-and",
+          "index": 7,
+          "image": "https://sothebys-md.brightspotcdn.com/dims4/default/186ceae/2147483647/strip/true/crop/2000x1262+0+0/resize/2048x1292!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2Fd2%2F72%2F0374bd3049f9b0ea4c0be6de2a6b%2Fn11816-dfbwy-cs-1.jpg",
+          "status": "decoded",
+          "dimensions": [
+            2048,
+            1292
+          ],
+          "sha256": "98a0ae0960b6786dec09d19d643bc6fba39504d48e8708a943d6b96fd6d70129"
+        }
+      ]
+    },
+    {
+      "acceptedReferenceKeys": [
+        "116655"
+      ],
+      "source": "https://www.sothebys.com/en/buy/auction/2026/fine-watches-ge2611/yacht-master-reference-116655-a-pink-gold",
+      "credit": "Sotheby's",
+      "specimenDescription": {
+        "title": "Yacht Master, Reference 116655 | A pink gold wristwatch with date and Oysterflex strap | Circa 2015",
+        "description": "<p><strong>Dial:&nbsp;</strong>black</p><p><strong>Calibre: </strong>cal. 3135 automatic, 31 jewels</p><p><strong>Movement number: </strong>9G'85R'031</p><p><strong>Case: </strong>18k pink gold, screw-down case back</p><p><strong>Case number: </strong>25'6L2'554</p><p><strong>Closure: </strong>Rolex Oysterflex strap and 18k pink gold double-folding clasp<strong> </strong></p><p><strong>Size: </strong>40 mm diameter</p><p><strong>Signed: </strong>case, dial and movement</p><p><strong>Box:&nbsp;</strong>yes</p><p><strong>Papers:&nbsp;</strong>yes</p><p><strong>Accessories:&nbsp;</strong>Rolex warranty card, instruction manual, card holder, 'COSC' hang tag, 45 mm Oysterflex strap part and presentation box with outer packaging</p>",
+        "condition": {
+          "__typename": "ConditionBehindLogin",
+          "lotId": "019d96ae-3317-7406-bf11-7bdfb4b45973"
+        },
+        "saleroomNotice": "Please refer to our Conditions of Business for Buyers for our Buyer’s Premium in Switzerland.",
+        "catalogueNote": "<p>This Rolex model was the first reference&nbsp;to be matched&nbsp;with the Oysterflex rubber bracelet.&nbsp;Furthermore, the Rolex reference 116655 Yachtmaster has many other great attributes. With the use of the Rolex's Everose gold on the case, the present watch has a perfect shade of pink gold neither too feminine, nor masculine.&nbsp;The highly functional and durable black ceramic bezel not only allows the owner to measure distances while sailing, but also adds a slight touch of sportiness to it. Coming with its original accessories, the present Yachtmaster is the perfect watch for all occasions.</p>"
+      },
+      "evidence": "Sotheby's exact lot identifies 116655; all 5 actual gallery photographs visually inspected and selected front/back views inspected at full resolution. No opened movement or dedicated clasp photograph is supplied. Representative configuration only; no full catalogue suffix inferred. Source: https://www.sothebys.com/en/buy/auction/2026/fine-watches-ge2611/yacht-master-reference-116655-a-pink-gold",
+      "acceptedPhotographIds": [
+        "rolex-specialist-sothebys-116655-front-0",
+        "rolex-specialist-sothebys-116655-caseback-3"
+      ],
+      "inspectedImages": [
+        {
+          "reference": "116655",
+          "source": "https://www.sothebys.com/en/buy/auction/2026/fine-watches-ge2611/yacht-master-reference-116655-a-pink-gold",
+          "index": 0,
+          "image": "https://sothebys-md.brightspotcdn.com/dims4/default/e27a135/2147483647/strip/true/crop/2000x2000+0+0/resize/2048x2048!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F48%2F94%2Fcba2cbef4e3b975a31bff3f74bba%2Fge2611-dm9rf-t2-01-cropped.jpg",
+          "status": "decoded",
+          "dimensions": [
+            2048,
+            2048
+          ],
+          "sha256": "98fe84454fd0117dc026c670af72ad3047dd5c09e05b1fe79d9e51d8d21baa66"
+        },
+        {
+          "reference": "116655",
+          "source": "https://www.sothebys.com/en/buy/auction/2026/fine-watches-ge2611/yacht-master-reference-116655-a-pink-gold",
+          "index": 1,
+          "image": "https://sothebys-md.brightspotcdn.com/dims4/default/2bf550f/2147483647/strip/true/crop/2000x2000+0+0/resize/2048x2048!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2Fa0%2F09%2F41639f924b98b3d587a1f5c13a57%2Fge2611-dm9rf-t2-01.jpg",
+          "status": "decoded",
+          "dimensions": [
+            2048,
+            2048
+          ],
+          "sha256": "31f463ba3a97eca3e65b0acef53810074efd44b1e89e921f224570e729c4117b"
+        },
+        {
+          "reference": "116655",
+          "source": "https://www.sothebys.com/en/buy/auction/2026/fine-watches-ge2611/yacht-master-reference-116655-a-pink-gold",
+          "index": 2,
+          "image": "https://sothebys-md.brightspotcdn.com/dims4/default/8dc6082/2147483647/strip/true/crop/2000x2000+0+0/resize/2048x2048!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2Fa9%2F7b%2Fc3b88a53406981df41fe308d3d09%2Fge2611-dm9rf-t2-03.jpg",
+          "status": "decoded",
+          "dimensions": [
+            2048,
+            2048
+          ],
+          "sha256": "6afb27d489d9ad1f5240ddad146ac4976a6618608d6e3095e508f70670918b55"
+        },
+        {
+          "reference": "116655",
+          "source": "https://www.sothebys.com/en/buy/auction/2026/fine-watches-ge2611/yacht-master-reference-116655-a-pink-gold",
+          "index": 3,
+          "image": "https://sothebys-md.brightspotcdn.com/dims4/default/024bcd9/2147483647/strip/true/crop/2000x2000+0+0/resize/2048x2048!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2Fd4%2F6f%2F8ca20ea5444cb99177da99951a6d%2Fge2611-dm9rf-t2-04.jpg",
+          "status": "decoded",
+          "dimensions": [
+            2048,
+            2048
+          ],
+          "sha256": "ee14de5d7e1ff953002381dfedf346063c09cbbf0a1a89914ac065948c8064d5"
+        },
+        {
+          "reference": "116655",
+          "source": "https://www.sothebys.com/en/buy/auction/2026/fine-watches-ge2611/yacht-master-reference-116655-a-pink-gold",
+          "index": 4,
+          "image": "https://sothebys-md.brightspotcdn.com/dims4/default/bf06293/2147483647/strip/true/crop/3543x3543+0+0/resize/2048x2048!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F49%2Fd6%2Fb19185f2411f9d41ba7adfaab967%2Fge2611-dm9rf-t2-enh-30.jpg",
+          "status": "decoded",
+          "dimensions": [
+            2048,
+            2048
+          ],
+          "sha256": "53ed0f2cb5bb8f716a134e912c4c1259119a91b899f4ffaec73d878e33d68f8f"
+        }
+      ]
+    },
+    {
+      "acceptedReferenceKeys": [
+        "116710",
+        "116710BLNR"
+      ],
+      "source": "https://www.bukowskis.com/en/auctions/659/1107-rolex-gmt-master-ii-batman-ca-2014",
+      "credit": "Bukowskis",
+      "specimenDescription": "Case size: 40 mm Material: steel Movement: automatic, caliber 3186 Year: circa 2014 Crystal: sapphire crystal Bracelet: Oyster bracelet, folding clasp, ref. 78200-200/2TG/C1S Reference number: 116710BLNR Serial number: 13'5PY'662 Movement number: 94'03G'6F4 Case number: 2350 Accompanied by: certificate, box, outer box Wear due to age and use. The movement is running at the time of cataloguing, Bukowskis does not guarantee the future function of the movement. Please note that the movement has not been tested for timekeeping accuracy and may need a service at the buyer's expense. Watches have been opened to examine movements therefore no warranties are made that the watches are water-resistant. Potential buyers should inspect each watch to satisfy themselves as to condition. For more information, please read our Conditions of Purchase. For condition report contact specialist Simon Naeslund Specialist Watches +46 (0)735 95 68 75 Email ",
+      "evidence": "Bukowskis 659/1107: all 19 actual gallery images visually inspected, selected views inspected at full resolution. Actual between-lug stamp reads 116710, paired with documented full variant 116710BLNR, black dial, blue/black bezel and blue GMT hand on Oyster bracelet. Actual movement stamp reads 3186, with blue hairspring/full balance bridge; internal back reads 2350; clasp blade reads STEELINOX and 200. Source: https://www.bukowskis.com/en/auctions/659/1107-rolex-gmt-master-ii-batman-ca-2014",
+      "acceptedPhotographIds": [
+        "rolex-specialist-bukowskis-659-1107-front-0",
+        "rolex-specialist-bukowskis-659-1107-movement-13",
+        "rolex-specialist-bukowskis-659-1107-caseback-12",
+        "rolex-specialist-bukowskis-659-1107-braceletClasp-6",
+        "rolex-specialist-bukowskis-659-1107-detail-16"
+      ],
+      "inspectedImages": [
+        {
+          "key": "659-1107",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1107-rolex-gmt-master-ii-batman-ca-2014",
+          "index": 0,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/W894lPadqm6tcV3OtMlY1ENizUqV4CCNA89PWfOu3-o/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590372-13747660_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDM3Mi8xMzc0/NzY2MF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "e6c6a6f7d251581b1cc570ee956c218f542343da13b9b5200f06f51fdb867cb3"
+        },
+        {
+          "key": "659-1107",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1107-rolex-gmt-master-ii-batman-ca-2014",
+          "index": 1,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/nhK9HTbC0GF83vUZabLpO4AFfGENITjyVWfQe4aj4KE/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590372-13760970_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDM3Mi8xMzc2/MDk3MF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "83adedb35e194d7f356fb193a3af737abf3a959c16ae687b33c76b8dd4eee5a8"
+        },
+        {
+          "key": "659-1107",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1107-rolex-gmt-master-ii-batman-ca-2014",
+          "index": 2,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/UuxncijIUugvaFArELrCfnX2zy0QeGRWgCwYPCETR_M/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590372-13760971_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDM3Mi8xMzc2/MDk3MV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "123ae72308ed48fa1faea80c3fdcbd8413e06b8a649abb411be928219dc9d722"
+        },
+        {
+          "key": "659-1107",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1107-rolex-gmt-master-ii-batman-ca-2014",
+          "index": 3,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/PgPS9J1G9Au6IZNAVM7L-x4RVXy47Q6UGUh1Md49Tmk/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590372-13760972_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDM3Mi8xMzc2/MDk3Ml9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "89d46a156b1581222d35c34edb8f3620ac3df835c369ccc6ac1d6170f5b4867a"
+        },
+        {
+          "key": "659-1107",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1107-rolex-gmt-master-ii-batman-ca-2014",
+          "index": 4,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/x_3TuAvlmg5DbW_WN1fG15LdLSkBhJ3_WA9dueKYmN8/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590372-13760973_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDM3Mi8xMzc2/MDk3M19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "4e1e1aea780f07c1045126a51ac332a9730c8894f55093cc4a5a0ae387572e9f"
+        },
+        {
+          "key": "659-1107",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1107-rolex-gmt-master-ii-batman-ca-2014",
+          "index": 5,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/zJ4sidn9CJOH1J93r3KxyOyPJE2Bi1LRSeb1IB3VDPs/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590372-13760974_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDM3Mi8xMzc2/MDk3NF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "0a8b05fddbc299d57680bd7409a32ec72070334e837cbdd1429063eb29b03bd8"
+        },
+        {
+          "key": "659-1107",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1107-rolex-gmt-master-ii-batman-ca-2014",
+          "index": 6,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/ncCiWAzc9XMXr_n5pGwIpanTMVZ8gb8FfJftn8ZrBDM/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590372-13760975_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDM3Mi8xMzc2/MDk3NV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "e8972306ef3852c047150686a0411ecf3b5af35afeca258497a5404efeb06045"
+        },
+        {
+          "key": "659-1107",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1107-rolex-gmt-master-ii-batman-ca-2014",
+          "index": 7,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/xK4WopNaRLQ79hYAcEjWjEAAQ5XmebRv6RDe3P30E_A/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590372-13760976_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDM3Mi8xMzc2/MDk3Nl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "7a50f91d821d70148b3592704b2c95d659ff542a7ba19c833eed8fbb84c60556"
+        },
+        {
+          "key": "659-1107",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1107-rolex-gmt-master-ii-batman-ca-2014",
+          "index": 8,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/VWLaIV_yGSupVDQM3j2sVSAXy85hLeBoNCQ8EOhbQcs/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590372-13760977_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDM3Mi8xMzc2/MDk3N19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "3b9c64a8d85b8d28c699b5c77ace0cfe99d2b5339e966abecfb6dac749c03944"
+        },
+        {
+          "key": "659-1107",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1107-rolex-gmt-master-ii-batman-ca-2014",
+          "index": 9,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/9dX1XgFznoaJzroAJGG_76poc_VIcltkNbjTmoz9Vu8/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590372-13760978_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDM3Mi8xMzc2/MDk3OF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "77218364aecbb60df7d4e87b1c01487c1a3d091be992643b2fc1ec47a56dd1ec"
+        },
+        {
+          "key": "659-1107",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1107-rolex-gmt-master-ii-batman-ca-2014",
+          "index": 10,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/YumQKs8R3mU5nrQSvGJbfS6ex1vTPlk8kwSb9gXZVls/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590372-13760979_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDM3Mi8xMzc2/MDk3OV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "f030b1ff6245ecb7b86a465ee2ca6c8f7b8834ec014975fa0dad51931e9e82fb"
+        },
+        {
+          "key": "659-1107",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1107-rolex-gmt-master-ii-batman-ca-2014",
+          "index": 11,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/MUKk0SiqBcCSJk-lbapHYjAyGNoVyxBgXB68KziImJA/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590372-13760980_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDM3Mi8xMzc2/MDk4MF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "3da5ec6b23a4458509c0f4c128a2f6d73b6644cac9a362a920063680c58c0ef4"
+        },
+        {
+          "key": "659-1107",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1107-rolex-gmt-master-ii-batman-ca-2014",
+          "index": 12,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/V20HfNqe5A72cCPl_zIuzEb-un80Y5Z7r8QzDe7nPuc/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590372-13763263_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDM3Mi8xMzc2/MzI2M19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "948f33970b0ae06c998b647f19712fc34e5bfcc38ad629a1ed590ee9edb2152c"
+        },
+        {
+          "key": "659-1107",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1107-rolex-gmt-master-ii-batman-ca-2014",
+          "index": 13,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/Vf1VRT9S6yrLbiut_rxnm-ZN64NzIJno1C_p89ZhCQE/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590372-13763256_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDM3Mi8xMzc2/MzI1Nl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "046f63bed45bdf04ebb7c62789bb3032b6d2ce0f51ab37af0448a2cd036f1a13"
+        },
+        {
+          "key": "659-1107",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1107-rolex-gmt-master-ii-batman-ca-2014",
+          "index": 14,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/1F3ue-H3Qc3M7Rpel6NBn6vT9KvnjgOaMiuk4B6Iq-c/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590372-13763257_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDM3Mi8xMzc2/MzI1N19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "de0dfe5c52973388b6e29d8512a9abf581798142eac4945de6c610bd276ee803"
+        },
+        {
+          "key": "659-1107",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1107-rolex-gmt-master-ii-batman-ca-2014",
+          "index": 15,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/eOfQqYz2-jovdZGe5ndXfZaCtzrvd3_cVQrXlpXFZ1g/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590372-13763267_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDM3Mi8xMzc2/MzI2N19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "1b0c13556b72d460ad4303ccfed03dde2178a85bc02167a480899ee13545a973"
+        },
+        {
+          "key": "659-1107",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1107-rolex-gmt-master-ii-batman-ca-2014",
+          "index": 16,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/gVPTAz8zkAQr43G6GGRGS8VyIlGko7Gbp2C-f5tkPHw/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590372-13763270_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDM3Mi8xMzc2/MzI3MF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "8479bf2ec3d6b3a80baac4abc3daabf869c6a7d16526c04942531be58d9f6674"
+        },
+        {
+          "key": "659-1107",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1107-rolex-gmt-master-ii-batman-ca-2014",
+          "index": 17,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/3894cexoTTbgg9qD1ArO2GR-CkPhk34ofyibsjGVZSs/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590372-13763259_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDM3Mi8xMzc2/MzI1OV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "a341b47020347a6ad012afc25b474286b04898524b95e7bad61d82845aa35c01"
+        },
+        {
+          "key": "659-1107",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1107-rolex-gmt-master-ii-batman-ca-2014",
+          "index": 18,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/akkBcWGLW6FHmV5BRqtRMdgjMAxcpR73AkfhjDewhTo/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590372-13763252_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDM3Mi8xMzc2/MzI1Ml9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "85e70af425b6bf7b6d719a3e334a1ff52669ed0585fdaf066e949eb97d8af388"
+        }
+      ]
+    }
+  ],
+  "otherInspectedAuctionGalleries": [
+    {
+      "source": "https://www.bukowskis.com/en/auctions/659/1086-rolex-cosmograph-daytona-chronograph-ca-2022",
+      "reference": "116500LN",
+      "reason": "Additional already-covered dial/bracelet configuration or repeat model; no new reference coverage attached in this checkpoint.",
+      "inspectedImages": [
+        {
+          "key": "659-1086",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/659/1086-rolex-cosmograph-daytona-chronograph-ca-2022",
+          "index": 0,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/5442zKiTq3K3bVsVNXoURurtS_ixPJ2zYrAp9OI0ACU/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590456-13747661_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDQ1Ni8xMzc0/NzY2MV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "5358b95b2867cb56c84605b81e34e10cb4dc3327a2e5552888eb654a5745891b"
+        },
+        {
+          "key": "659-1086",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/659/1086-rolex-cosmograph-daytona-chronograph-ca-2022",
+          "index": 1,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/W3sayF7Vx0Lj-kgVuxnvnWpAQ5Il8gbz6Y-2jXK1v94/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590456-13762240_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDQ1Ni8xMzc2/MjI0MF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "345900abc576a4250db0c4e7399c4ecc1404b9cca7e2e79647cd471d8ab3ae75"
+        },
+        {
+          "key": "659-1086",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/659/1086-rolex-cosmograph-daytona-chronograph-ca-2022",
+          "index": 2,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/Fh5D-GtETItxJRF0ZaKptcZl5_huxOH45DBA7vf7Mtc/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590456-13762241_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDQ1Ni8xMzc2/MjI0MV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "393076a87c13063ceed4ab56c4613ec3acc3db493ea7fb76e0078c3eeb7b9c9b"
+        },
+        {
+          "key": "659-1086",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/659/1086-rolex-cosmograph-daytona-chronograph-ca-2022",
+          "index": 3,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/KiGmtPfqmSo7s24jJ44HwHFwrwMCTl2zKRZ01J2Z43w/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590456-13762242_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDQ1Ni8xMzc2/MjI0Ml9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "5d9ed71144574ccc311083861304ca52cb108829c712f25a759fd6f7d6a01222"
+        },
+        {
+          "key": "659-1086",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/659/1086-rolex-cosmograph-daytona-chronograph-ca-2022",
+          "index": 4,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/FSLPirKX52Jhtfxx0yYimmSkPJDGrqa3SmSZiK1q2UM/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590456-13762243_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDQ1Ni8xMzc2/MjI0M19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "5c4a3f650bed42b7fd095a94770642fd99c31eb07bb60418823d690e32fad5e8"
+        },
+        {
+          "key": "659-1086",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/659/1086-rolex-cosmograph-daytona-chronograph-ca-2022",
+          "index": 5,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/EObC_34miw4tx0GGFZ1p2vYPk-U0w_qWhJTuYKuAt4o/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590456-13762244_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDQ1Ni8xMzc2/MjI0NF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "b24374d3618d4d427cbb693d0e52b9d966da9b6c1af16bc1a56ea52e13f799a5"
+        },
+        {
+          "key": "659-1086",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/659/1086-rolex-cosmograph-daytona-chronograph-ca-2022",
+          "index": 6,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/v8xpopJYMmkaNq1TP4vAiVBngLe6tPSaX2HIhGKqx-U/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590456-13763265_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDQ1Ni8xMzc2/MzI2NV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "d1056336a6a009a0c16a9cdd48ff95cfdd1daa913d321bf48d241b47825588fc"
+        },
+        {
+          "key": "659-1086",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/659/1086-rolex-cosmograph-daytona-chronograph-ca-2022",
+          "index": 7,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/_-RsYHW3TXZi0NGi3W-K4e79mGje32x_TkMMtmn3_z8/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590456-13762246_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDQ1Ni8xMzc2/MjI0Nl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "b5d994b27d17cbb339a9ca350e9660a1516f453c04b892ec7842b22bb43f36ef"
+        },
+        {
+          "key": "659-1086",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/659/1086-rolex-cosmograph-daytona-chronograph-ca-2022",
+          "index": 8,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/YBnAO9CkeqV6amLFiV9NbIeL5JgtDQhtbGKcKF3ZB58/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590456-13763262_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDQ1Ni8xMzc2/MzI2Ml9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "17010f1cb0b150b14280798e6a14a61ad1a7ded5dda511d13ba43173b7a79436"
+        },
+        {
+          "key": "659-1086",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/659/1086-rolex-cosmograph-daytona-chronograph-ca-2022",
+          "index": 9,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/HDhrHY9uZ_gVUtC_icXWA6XG9yP6gKwgMKmkk8GVFjI/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590456-13762245_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDQ1Ni8xMzc2/MjI0NV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "6a94811748bd3bf25336ee7a2699c02c9ae85393c96e9e5eea85c173d032f7bc"
+        },
+        {
+          "key": "659-1086",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/659/1086-rolex-cosmograph-daytona-chronograph-ca-2022",
+          "index": 10,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/fT_OajmV5vCncoueWimXsvh8sjtDN1UJXum-FzUq14o/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590456-13762247_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDQ1Ni8xMzc2/MjI0N19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "8e4cbb657b62778c88812db0710a6af12ab5ae96f3f794235b714b3fc48eae5c"
+        },
+        {
+          "key": "659-1086",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/659/1086-rolex-cosmograph-daytona-chronograph-ca-2022",
+          "index": 11,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/74WlB5gYuTd09-aDSjNvaAHQ1BXdR6zFT6oBfri8aqY/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590456-13762248_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDQ1Ni8xMzc2/MjI0OF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "6a9ae8ce4c58bef7a4042a97eb7a9bd4360436cab797708d07464b7bf8425546"
+        },
+        {
+          "key": "659-1086",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/659/1086-rolex-cosmograph-daytona-chronograph-ca-2022",
+          "index": 12,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/OJEc284ubJPH-Rn6Vqjw0NKTqOwDgKov9rNPgRablb0/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590456-13763261_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDQ1Ni8xMzc2/MzI2MV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "97c9bdb10d5b7b86a0c778c20766c0a70e4e2c728937dc3afe07c3bf3a005b93"
+        },
+        {
+          "key": "659-1086",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/659/1086-rolex-cosmograph-daytona-chronograph-ca-2022",
+          "index": 13,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/k_V6sTOd-z3rggRdiSJ4kxXwB2xoccrL9iXT6zOJ4T0/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590456-13763271_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDQ1Ni8xMzc2/MzI3MV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "f9967da2276b83c989d44bfae45502d5fe884be3b9daa66edad9c20d6bd062ab"
+        },
+        {
+          "key": "659-1086",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/659/1086-rolex-cosmograph-daytona-chronograph-ca-2022",
+          "index": 14,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/TBYQxVwxu_RSfcq8pGzfqOwsUyvlnlG-c6t7URFvK_0/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590456-13763264_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDQ1Ni8xMzc2/MzI2NF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "b4e36e201731da4029d0e194a43f5693e3cbfb73c4502687bd424b9abd337ea6"
+        },
+        {
+          "key": "659-1086",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/659/1086-rolex-cosmograph-daytona-chronograph-ca-2022",
+          "index": 15,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/f9FnelOp20D_ERua43FUS_3UinNq5u5MC7Jbvi69p1A/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590456-13763268_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDQ1Ni8xMzc2/MzI2OF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "60c6210e83ac3a4931bb9215a55f44250fc88bbd05209d0fba72572daef787d3"
+        },
+        {
+          "key": "659-1086",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/659/1086-rolex-cosmograph-daytona-chronograph-ca-2022",
+          "index": 16,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/dBIztaf3uMuamLfijhf3r3a60RVO4wLolvgWzbv02Y4/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1590456-13763260_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU5MDQ1Ni8xMzc2/MzI2MF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "1115dc93bc11294a4ec3dd673af0e3041535fff00e9e38aa19df476479e9f830"
+        }
+      ]
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/663/1001-rolex-gmt-master-ii-batman-ca-2015",
+      "reference": "116710BLNR",
+      "reason": "Additional already-covered dial/bracelet configuration or repeat model; no new reference coverage attached in this checkpoint.",
+      "inspectedImages": [
+        {
+          "key": "663-1001",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/663/1001-rolex-gmt-master-ii-batman-ca-2015",
+          "index": 0,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/d8jk1M2oEfDJrqqRDnFtu4EjahgDY3GIrKddRkDqJJc/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1625036-13976453_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyNTAzNi8xMzk3/NjQ1M19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "c32727033abf4d492a872d8872f7806cec8d0fee0d55189b46731a1f5747c19e"
+        },
+        {
+          "key": "663-1001",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/663/1001-rolex-gmt-master-ii-batman-ca-2015",
+          "index": 1,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/KtEg-MxhLfd9ruE6tes5Yrg3gFEqMzVSOjSPnOCPqBw/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1625036-13985570_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyNTAzNi8xMzk4/NTU3MF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "f66f89380f9d5eecaeccc18b744298681d93ffed3f34d6970260043f359dc104"
+        },
+        {
+          "key": "663-1001",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/663/1001-rolex-gmt-master-ii-batman-ca-2015",
+          "index": 2,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/WUo8Bnqn4pWR3unHLGp4cWjMANT5jvb6RVg0hhLe2wY/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1625036-13985557_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyNTAzNi8xMzk4/NTU1N19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "f3e1446150f1c725416007063796f73d5e6aa54d21f1f4311883df2dd18ecadd"
+        },
+        {
+          "key": "663-1001",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/663/1001-rolex-gmt-master-ii-batman-ca-2015",
+          "index": 3,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/RCia7eTtxymDpSzVgIrlLRLQDHld8kfxB2lEtgf8u48/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1625036-13985556_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyNTAzNi8xMzk4/NTU1Nl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "ba73dde18265b6dca6b4c27b1d8336a135c8f22383d508a0d63703f70c544d64"
+        },
+        {
+          "key": "663-1001",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/663/1001-rolex-gmt-master-ii-batman-ca-2015",
+          "index": 4,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/Nfmn88wFFMfFqZ3lJI2PtLUMNHJ2zYHFBCXMXeTr3qM/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1625036-13985552_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyNTAzNi8xMzk4/NTU1Ml9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "193c8ed61cbe264c0a59a77f9fc06f8179b0e0b46948534b54401ce3a2c3d449"
+        },
+        {
+          "key": "663-1001",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/663/1001-rolex-gmt-master-ii-batman-ca-2015",
+          "index": 5,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/STYhG6QphJWxp-5G9E8rMDVIkVUt1qSOPe9UPTuaHmY/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1625036-13985547_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyNTAzNi8xMzk4/NTU0N19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "1a5e1a3b1980dd2853d488cc04d5aedc452ebff78d648d255e94edf176c3dea1"
+        },
+        {
+          "key": "663-1001",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/663/1001-rolex-gmt-master-ii-batman-ca-2015",
+          "index": 6,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/C5rABHbPA5-v4VwebbzRfnMoJsAQholEWWmIkqEi1u0/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1625036-13985551_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyNTAzNi8xMzk4/NTU1MV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "2031da9f2a4d9e97c11785ab8f4cdb389be670d4128878c8e5d5d88c0658f743"
+        },
+        {
+          "key": "663-1001",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/663/1001-rolex-gmt-master-ii-batman-ca-2015",
+          "index": 7,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/9ObzYlGmbYuLEsJZRwHqJbPR55As7kWnyr98cuX7qEs/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1625036-13985582_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyNTAzNi8xMzk4/NTU4Ml9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "6e7d1a74e853fea78ca60646ff8444eb6d8c8cbf8ddc0ebda34c6fd989e62812"
+        },
+        {
+          "key": "663-1001",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/663/1001-rolex-gmt-master-ii-batman-ca-2015",
+          "index": 8,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/K2YhWoVZ55npYcdflpKDnRQ3QIRNeblqvLFNiumH3w0/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1625036-13985569_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyNTAzNi8xMzk4/NTU2OV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "1d1f3592cd271f0bbafb119b876509640fac4ad808b3ad7cc509c3e88ab7f5de"
+        },
+        {
+          "key": "663-1001",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/663/1001-rolex-gmt-master-ii-batman-ca-2015",
+          "index": 9,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/kJe0bxAB1PJ5mYw8hn8oeCCS853TnQdBTnXYtO5T4eA/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1625036-13985574_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyNTAzNi8xMzk4/NTU3NF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "357687a234f59d4ce1c9a7aa60b21da42099b6ae28366992ec36c6f4d07b497e"
+        },
+        {
+          "key": "663-1001",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/663/1001-rolex-gmt-master-ii-batman-ca-2015",
+          "index": 10,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/APnUZGvwH61dcTSXqlRpUoeyvy0vBWQPYp4n7YvlJtI/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1625036-13985573_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyNTAzNi8xMzk4/NTU3M19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "67385adf8efa635c68ef98e88f5016a3ed6ed6bb600fe9eb1d70e1e2f72c90c0"
+        },
+        {
+          "key": "663-1001",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/663/1001-rolex-gmt-master-ii-batman-ca-2015",
+          "index": 11,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/9NPWAtkVkijDcxFpIDdRAjNr2p4-OEPm1gHcSJQlU7M/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1625036-13985568_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyNTAzNi8xMzk4/NTU2OF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "026d134e2879cb864ecd964dfef753b68c8c4ebd25135525ede9b8ce0d60b2bc"
+        },
+        {
+          "key": "663-1001",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/663/1001-rolex-gmt-master-ii-batman-ca-2015",
+          "index": 12,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/EpAMou7ojpgqWgoeaL4BQ0489K9xXZFctO6XX01GnyA/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1625036-13985548_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyNTAzNi8xMzk4/NTU0OF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "a157f487c953900cce5bfce31dd4d780ef812fd090518397b7f3f16f81d687b3"
+        },
+        {
+          "key": "663-1001",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/663/1001-rolex-gmt-master-ii-batman-ca-2015",
+          "index": 13,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/GZ35afaYPbcgmH51LELNuDpnRG9yrse7p5N4qIa5FiM/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1625036-13985546_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyNTAzNi8xMzk4/NTU0Nl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "661919eae44089623d35188e16e2cd83769cb8f7ae9fb917464bd6b29d242ce2"
+        },
+        {
+          "key": "663-1001",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/663/1001-rolex-gmt-master-ii-batman-ca-2015",
+          "index": 14,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/PdBXo-tISuQDopn7HvtZjP8OJew5bxiW8hNAqXccy30/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1625036-13985545_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyNTAzNi8xMzk4/NTU0NV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "c4d216cbf9651a42686261410de41e2b0ff13d75ecd4b583f36737e128c1e7c7"
+        },
+        {
+          "key": "663-1001",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/663/1001-rolex-gmt-master-ii-batman-ca-2015",
+          "index": 15,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/1bxk4TMAnp72kYkS1toNxpnNE_bEpl1bPTySsXsmNZw/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1625036-13985544_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyNTAzNi8xMzk4/NTU0NF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            1537,
+            1537
+          ],
+          "sha256": "017369b150b375bc1ba848629b81b85733b43ed34ece4ff8ba51b43200cfb668"
+        },
+        {
+          "key": "663-1001",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/663/1001-rolex-gmt-master-ii-batman-ca-2015",
+          "index": 16,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/OI8dSF4Ddv6PKOJB3XeSNxW6yv0wi81v2vvfNY55oiI/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1625036-13990501_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyNTAzNi8xMzk5/MDUwMV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "a7e199eea8e35a5ee6a5dc18aed4ccb129d304a36dacf67d826eced8a80a8f0a"
+        },
+        {
+          "key": "663-1001",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/663/1001-rolex-gmt-master-ii-batman-ca-2015",
+          "index": 17,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/OHICQGisCfSdACNay-PXLkt6T_hORRgKb7GuH_3XMCY/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1625036-13990523_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyNTAzNi8xMzk5/MDUyM19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "1dc82e09f78bc085ab3a2fb51e7a009a543e9222caf796a3b855bb00dcbe6fea"
+        },
+        {
+          "key": "663-1001",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/663/1001-rolex-gmt-master-ii-batman-ca-2015",
+          "index": 18,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/-dxwpLjgOLLzoF4lCQT0F4zMDpVMM-HIp0j5YNs7Ouo/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1625036-13990510_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyNTAzNi8xMzk5/MDUxMF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "32acd925f53bf264f4e362b763d59902283d903c3e0c3587a74a9ef55df38ba3"
+        },
+        {
+          "key": "663-1001",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/663/1001-rolex-gmt-master-ii-batman-ca-2015",
+          "index": 19,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/GCElBsSDD5SOyEhUDXC6UD2deiIspfWCLU-hjSpXTU4/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1625036-13990505_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyNTAzNi8xMzk5/MDUwNV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "e74e8035d972f05319bf0c43b10abe8be2c053eed1e1bc0c4d640257da5942c7"
+        },
+        {
+          "key": "663-1001",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/663/1001-rolex-gmt-master-ii-batman-ca-2015",
+          "index": 20,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/nBv1BPp-7i0HnIXj7zkwB93Rie0Iv-1rtns2jV6BF5g/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1625036-13990506_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyNTAzNi8xMzk5/MDUwNl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "af120520273bb0939b0e30f56f9c28f5fb112fe6a0f679a48c4fc3738b11bcd4"
+        },
+        {
+          "key": "663-1001",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/663/1001-rolex-gmt-master-ii-batman-ca-2015",
+          "index": 21,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/6_NWoQJjTgk8V61fXIWOj3BnY7T1SkFWuce6hJSR5UE/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1625036-13990500_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyNTAzNi8xMzk5/MDUwMF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            1604,
+            1604
+          ],
+          "sha256": "ad57ce05d293a0988a55408ec8a80c42f4b480f87ece24e536ae9cbfd70b5986"
+        },
+        {
+          "key": "663-1001",
+          "reference": "116710BLNR",
+          "candidateCaseKey": "116710",
+          "source": "https://www.bukowskis.com/en/auctions/663/1001-rolex-gmt-master-ii-batman-ca-2015",
+          "index": 22,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/k3-7Lfdti5vLvwt33NqbGfTiWOlPsCbVuBMAZtON2vY/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1625036-13990502_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyNTAzNi8xMzk5/MDUwMl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "2fcad8f33707c9194d37ab3520e5a2a47ee40a702ab52586a4c790ba55824a12"
+        }
+      ]
+    },
+    {
+      "source": "https://www.bukowskis.com/en/auctions/671/1007-rolex-submariner-hulk-first-year-edt-mark-1-dial-ca-2010",
+      "reference": "116610LV",
+      "reason": "Additional already-covered dial/bracelet configuration or repeat model; no new reference coverage attached in this checkpoint.",
+      "inspectedImages": [
+        {
+          "key": "671-1007",
+          "reference": "116610LV",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/671/1007-rolex-submariner-hulk-first-year-edt-mark-1-dial-ca-2010",
+          "index": 0,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/UHfuhiPv4-Yy-UgjjUyN6QASItl9u3pPpORFrpxFQbM/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1679011-14415756_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTY3OTAxMS8xNDQx/NTc1Nl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "0f544ce7de4eba5486a11c648c3f3bb7534b351ba6791880a4a6dc653df81bc4"
+        },
+        {
+          "key": "671-1007",
+          "reference": "116610LV",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/671/1007-rolex-submariner-hulk-first-year-edt-mark-1-dial-ca-2010",
+          "index": 1,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/0URXge5BocrukNBm2BKgjnGMRi7X1Sb9XRAWHJwXsnw/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1679011-14436219_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTY3OTAxMS8xNDQz/NjIxOV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "7318b208c54601fae04248c16f8150545adcfb6f7fba195ed5b4449c896ec31a"
+        },
+        {
+          "key": "671-1007",
+          "reference": "116610LV",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/671/1007-rolex-submariner-hulk-first-year-edt-mark-1-dial-ca-2010",
+          "index": 2,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/u1CyCv2ZNnH_rAbDQsKy2NUz2qn3cSlhgNmAKENzKUU/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1679011-14436257_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTY3OTAxMS8xNDQz/NjI1N19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "d79b1b8aa8754a4e4f61db31494de35a9e0eb6d7e7cefc168c3facfa16f696e9"
+        },
+        {
+          "key": "671-1007",
+          "reference": "116610LV",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/671/1007-rolex-submariner-hulk-first-year-edt-mark-1-dial-ca-2010",
+          "index": 3,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/HXmBdYBMLl3I5n-lo94n1CJcVmjmkPgasEehOpfR8rA/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1679011-14435425_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTY3OTAxMS8xNDQz/NTQyNV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "88d446d7a006572c8449dbe31c81a869b11b61a8727b0c694b992698b01d5ad9"
+        },
+        {
+          "key": "671-1007",
+          "reference": "116610LV",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/671/1007-rolex-submariner-hulk-first-year-edt-mark-1-dial-ca-2010",
+          "index": 4,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/APr7Gzyhrwygxx0pXXUXI0p_9qOfE88ZHDiqKXtwz8o/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1679011-14436336_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTY3OTAxMS8xNDQz/NjMzNl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "bacc49c76698eed85874cc5967c0d3563744598ec3bfa49fc5f38366e3c99e29"
+        },
+        {
+          "key": "671-1007",
+          "reference": "116610LV",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/671/1007-rolex-submariner-hulk-first-year-edt-mark-1-dial-ca-2010",
+          "index": 5,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/gkuWfi6Yihy_6GYPDhujIQWhrb4f7-E23QGNN3kOrDY/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1679011-14436275_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTY3OTAxMS8xNDQz/NjI3NV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "ad59caf34991ccd2842245a5d5825efc2ede8bde177489063d45f359a4301e16"
+        },
+        {
+          "key": "671-1007",
+          "reference": "116610LV",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/671/1007-rolex-submariner-hulk-first-year-edt-mark-1-dial-ca-2010",
+          "index": 6,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/udie83k2YCTpiSqWDTksluqu7iXGAeJ0WY6jPRBHZ2c/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1679011-14436085_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTY3OTAxMS8xNDQz/NjA4NV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "5e6ab2746ecc6a3094e6d643be470d3173a2ae264c7b8aa29ecfb10bc20f2c67"
+        },
+        {
+          "key": "671-1007",
+          "reference": "116610LV",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/671/1007-rolex-submariner-hulk-first-year-edt-mark-1-dial-ca-2010",
+          "index": 7,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/9RHt0lZYIODV51FuvBZboTeKMPvJPycFOw-KlFPU4uk/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1679011-14439721_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTY3OTAxMS8xNDQz/OTcyMV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            545,
+            545
+          ],
+          "sha256": "f449297acb24c82dc3d88439b9a0e86b18e27d99d115ab0a7fd2dac6411cd0b3"
+        },
+        {
+          "key": "671-1007",
+          "reference": "116610LV",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/671/1007-rolex-submariner-hulk-first-year-edt-mark-1-dial-ca-2010",
+          "index": 8,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/o61_WN1tqO2x_IMc3rTikNPizz1puK3F_hivhUK61BA/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1679011-14439775_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTY3OTAxMS8xNDQz/OTc3NV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "89b0874eedab5c466cf2239a6d224138a64686ed37cd4e5668b8f1d4499f86f8"
+        },
+        {
+          "key": "671-1007",
+          "reference": "116610LV",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/671/1007-rolex-submariner-hulk-first-year-edt-mark-1-dial-ca-2010",
+          "index": 9,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/w-m4h92juHNJ1rWP912FsrXcriBS-L9hptUBU50GVi4/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1679011-14439815_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTY3OTAxMS8xNDQz/OTgxNV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "1c95d8e4b0878ba62227eeb4351c413b664f72d21585799e0b1d62070da3310f"
+        },
+        {
+          "key": "671-1007",
+          "reference": "116610LV",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/671/1007-rolex-submariner-hulk-first-year-edt-mark-1-dial-ca-2010",
+          "index": 10,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/NqFva32TTtTMSY4bN3cf3AK5119RtsdHbT2SXSiDXBc/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1679011-14439840_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTY3OTAxMS8xNDQz/OTg0MF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "7d2facd7a22804e1d4dc1a75c38db752c4a4b488eab2600de6a8576ebebdef1e"
+        },
+        {
+          "key": "671-1007",
+          "reference": "116610LV",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/671/1007-rolex-submariner-hulk-first-year-edt-mark-1-dial-ca-2010",
+          "index": 11,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/Hm1m_8sdxzZtWTVhMYhN-QILqpTsRQPTOoHoI2BwpnU/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1679011-14439789_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTY3OTAxMS8xNDQz/OTc4OV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "fb2b1b14be1f9f800344f381b3f74c515c79a6d35166e68edae7af8edb97032b"
+        },
+        {
+          "key": "671-1007",
+          "reference": "116610LV",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/671/1007-rolex-submariner-hulk-first-year-edt-mark-1-dial-ca-2010",
+          "index": 12,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/z4dfVUt84Sm6rl0DrTvoT7g3pyClrFe_2eawi03DjYc/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1679011-14439790_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTY3OTAxMS8xNDQz/OTc5MF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "af2ded03f27248bb1078d92ce76c2a0bd41631e23f88c07c26b970c452ec20c6"
+        },
+        {
+          "key": "671-1007",
+          "reference": "116610LV",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/671/1007-rolex-submariner-hulk-first-year-edt-mark-1-dial-ca-2010",
+          "index": 13,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/lkMdCYhOtev_ymx3IrETpQgsd3PZY7xzQEmm4J_smN4/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1679011-14439784_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTY3OTAxMS8xNDQz/OTc4NF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "27a42947f5f111a2edc743878652e5bcbca9f9a763e761d012b25ecfd99e3578"
+        },
+        {
+          "key": "671-1007",
+          "reference": "116610LV",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/671/1007-rolex-submariner-hulk-first-year-edt-mark-1-dial-ca-2010",
+          "index": 14,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/2jxJxROpNJ7_y_fmgX6O9MAsTO1JcVJMqdmolUolugo/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1679011-14439848_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTY3OTAxMS8xNDQz/OTg0OF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "a83423c52a9434e5db1eb371dd973f956edb89d863c9ffb9cbb02f1f211a18c3"
+        },
+        {
+          "key": "671-1007",
+          "reference": "116610LV",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/671/1007-rolex-submariner-hulk-first-year-edt-mark-1-dial-ca-2010",
+          "index": 15,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/Mj3w60s1OpeJ6BAcSrsaUbqS_O2nxvzoEoqh5G4Dtls/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1679011-14439801_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTY3OTAxMS8xNDQz/OTgwMV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "96d47d61aaf71c8d7bdbcf27aa5e99a717d844fd770bc9984f916d3ecfdbbd88"
+        }
+      ]
+    }
+  ],
+  "sourceAccessLimitations": [
+    {
+      "reference": "114300",
+      "source": "https://jewelry.ha.com/itm/timepieces/wristwatch/rolex-oyster-perpetual-rhodium-dial-ref-114300/a/5592-54120.s",
+      "finding": "Heritage returned HTTP 403; no photographs inspected or review coverage claimed. Further sources open."
+    }
+  ]
+}
