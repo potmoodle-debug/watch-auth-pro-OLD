@@ -166,5 +166,29 @@ test('P01 prototype backs and current Ranger/Pelagos variants do not supply unsu
  assert.ok(forRef('79930').every(p=>p.category!=='movement'));
  assert.ok(forRef('79950').every(p=>!black.some(q=>q.id===p.id)));
  assert.equal(forRef('79330').length,0);
- assert.equal(forRef('7939A1A0NU').length,0);
+ assert.ok(forRef('7939A1A0NU').some(p=>p.category==='front'));
+ assert.ok(forRef('7939A1A0NU').every(p=>p.category!=='movement'));
+});
+
+
+test('new Tudor Black Bay configurations stay within documented suffixes and sample boundaries',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const forRef=reference=>matchingPhotographs(photos,'Tudor',reference);
+ for(const [a,b] of [['M7939A1A0NU-0001','M7939A1A0NU-0003'],['M7943A1A0NU-0001','M7943A1A0NU-0002'],['M79000B-0001','M79000B-0002']]){
+  const first=forRef(a),second=forRef(b);
+  assert.ok(first.some(p=>p.category==='front'),a);
+  assert.ok(second.some(p=>p.category==='front'),b);
+  assert.ok(first.every(p=>!second.some(q=>p.id===q.id)),a+' versus '+b);
+ }
+ const burgundy=forRef('M7939A1A0RU-0002');
+ assert.ok(burgundy.some(p=>p.category==='front'));
+ assert.ok(forRef('M7939A1A0RU-0001').every(p=>!burgundy.some(q=>q.id===p.id)));
+ const blue=forRef('79000B');
+ assert.ok(blue.some(p=>p.category==='braceletClasp'));
+ assert.ok(forRef('79000N').every(p=>!blue.some(q=>q.id===p.id)));
+ const large=forRef('7943A1A0NU');
+ assert.ok(large.some(p=>p.category==='front'));
+ assert.ok(large.every(p=>p.category==='front'));
+ assert.ok(forRef('7943A1A0').every(p=>!large.some(q=>q.id===p.id)));
+ for(const ref of ['7939A1A0NU','7939A1A0RU','79000B'])assert.ok(forRef(ref).every(p=>p.category!=='movement'));
 });
