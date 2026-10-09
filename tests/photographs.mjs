@@ -110,7 +110,8 @@ test('documented Tudor configurations match full keys without inheriting other F
  assert.ok(full.some(p=>p.category==='braceletClasp'));
  assert.ok(full.every(p=>p.category!=='movement'));
  assert.ok(forRef('25407N-0002').every(p=>!full.some(q=>q.id===p.id)));
- assert.ok(forRef('25407').every(p=>!full.some(q=>q.id===p.id)));
+ assert.ok(forRef('25407').some(p=>full.some(q=>q.id===p.id)&&p.matchScope==='representative variant'));
+ assert.equal(forRef('25407-0002').length,0);
  const carbon=forRef('25707KN');
  assert.ok(carbon.some(p=>p.category==='front'));
  assert.ok(carbon.every(p=>p.category!=='movement'&&p.category!=='caseback'));
@@ -131,7 +132,7 @@ test('Tudor GMT suffixes and silver movement execution retain documented boundar
  assert.ok(silver.some(p=>p.category==='front'&&/aftermarket/.test(p.caption)));
  const movement=silver.filter(p=>p.category==='movement');
  assert.ok(movement.length);
- for(const reference of ['79010S','M79010SG-0001','79012M','79210CNU'])assert.ok(forRef(reference).every(p=>!movement.some(q=>q.id===p.id)),reference);
+ for(const reference of ['M79010SG-0001','79012M','79210CNU'])assert.ok(forRef(reference).every(p=>!movement.some(q=>q.id===p.id)),reference);
  assert.ok(forRef('M79360N-0013').every(p=>!p.id.startsWith('fratello-tudor-third-')));
  const originalChrono=forRef('79350');
  assert.ok(originalChrono.some(p=>p.category==='front'));
@@ -212,4 +213,21 @@ test('mixed Pelagos details and ETA/MT5602 Black Bays retain specimen boundaries
  assert.ok(qatar.every(p=>p.category!=='movement'));
  assert.ok(forRef('79220R').every(p=>!qatar.some(q=>p.id===q.id)));
  assert.equal(forRef('79230R/B/N').length,0);
+});
+
+test('paired physical case stamps retain representative labels and strict suffix boundaries',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const forRef=(reference,options)=>matchingPhotographs(photos,'Tudor',reference,options);
+ for(const [stamp,full] of [['25407','25407N'],['25610T','25610TNL'],['79010S','79010SG'],['79733','79733N']]){
+  const views=forRef(stamp);assert.ok(views.some(p=>p.category==='front'),stamp);
+  assert.ok(views.every(p=>p.matchScope==='representative variant'&&p.caption.includes('case')),stamp);
+  assert.ok(views.every(p=>forRef(full).some(q=>q.id===p.id)),stamp+' paired full reference');
+  assert.equal(forRef(stamp+'-9999').length,0,stamp+' unobserved suffix');
+ }
+ assert.ok(forRef('79010S').some(p=>p.category==='movement'));
+ assert.ok(forRef('79010S',{externalOnly:true}).every(p=>p.category!=='movement'));
+ for(const ref of ['25600T','79012','25807K','MT5402','79360N-0013','M79360N-0013'])assert.equal(forRef(ref).length,0,ref+' unresolved or pending');
+ assert.ok(forRef('25610T').every(p=>!forRef('25600TN').some(q=>p.id===q.id)));
+ assert.ok(forRef('25807KN').every(p=>!forRef('25707KN').some(q=>p.id===q.id)));
+ assert.equal(forRef('79733N-0005').length,0);
 });

@@ -1,0 +1,87 @@
+{
+  "completion": "IN PROGRESS",
+  "reviewedAt": "2026-10-09T14:43:29.512895+00:00",
+  "inspectedModelMedia": 5,
+  "acceptedPhotographs": 0,
+  "reviews": [
+    {
+      "reference": "91450",
+      "source": "https://www.tudorwatch.com/en/watches/1926/m91450-0001",
+      "evidence": "Manufacturer exact M91450-0001 confirms 36 mm 1926 case and steel bracelet. All 2 model-specific front/bracelet/beauty media visually inspected; navigation, other configurations and recommended neighbouring sizes excluded. Studio product media photograph-versus-render provenance is unconfirmed and withheld. No opened movement or caseback photo in this model-specific source set. Verified 41 mm 91650 photographs are not inherited by this size. Source: https://www.tudorwatch.com/en/watches/1926/m91450-0001"
+    },
+    {
+      "reference": "91550",
+      "source": "https://www.tudorwatch.com/en/watches/1926/m91550-0005",
+      "evidence": "Manufacturer exact M91550-0005 confirms 39 mm 1926 case and steel bracelet. All 3 model-specific front/bracelet/beauty media visually inspected; navigation, other configurations and recommended neighbouring sizes excluded. Studio product media photograph-versus-render provenance is unconfirmed and withheld. No opened movement or caseback photo in this model-specific source set. Verified 41 mm 91650 photographs are not inherited by this size. Source: https://www.tudorwatch.com/en/watches/1926/m91550-0005"
+    }
+  ],
+  "imageAccess": [
+    {
+      "reference": "91450",
+      "index": 0,
+      "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-watch/c_limit,w_3840/v1/catalogue/0yi5ee8b69yh3/upright-cb-with-drop-shadow/tudor-m91450-0001",
+      "status": "decoded",
+      "dimensions": [
+        900,
+        1200
+      ],
+      "sha256": "39e8049965159145a1ead669df2a2ad65bbfaf1b1415d11eceac4c8bb4f58d6e"
+    },
+    {
+      "reference": "91450",
+      "index": 1,
+      "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-gallery/c_limit,w_3840/v1/catalogue/0yi5ee8b69yh3/bracelet-c/tudor-m91450-0001",
+      "status": "decoded",
+      "dimensions": [
+        1350,
+        1350
+      ],
+      "sha256": "f394a3a45122ce8ed878b141e7bdac2e140f5a4c19a78ae89923b3b8474d052a"
+    },
+    {
+      "reference": "91550",
+      "index": 0,
+      "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-watch/c_limit,w_3840/v1/catalogue/0yi5ee8b69yh3/upright-cb-with-drop-shadow/tudor-m91550-0005",
+      "status": "decoded",
+      "dimensions": [
+        900,
+        1200
+      ],
+      "sha256": "a85d66849c46136b7c26055a82af55b3aadce678d6b0aa36b3d606373b13d30f"
+    },
+    {
+      "reference": "91550",
+      "index": 1,
+      "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-gallery/c_limit,w_3840/v1/catalogue/0yi5ee8b69yh3/bracelet-c/tudor-m91550-0005",
+      "status": "decoded",
+      "dimensions": [
+        1350,
+        1350
+      ],
+      "sha256": "291e5d8067ed5d7d06220058355db9742e610a346128cb5a17329c7ffb6c2b7a"
+    },
+    {
+      "reference": "91550",
+      "index": 2,
+      "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-gallery/c_limit,w_3840/v1/tudorwatch/model-assets/beautyshots/tudor-m91550-0005",
+      "status": "decoded",
+      "dimensions": [
+        1350,
+        1350
+      ],
+      "sha256": "dd1259a4cba07961b316ef98a2b762f692309079e8e60e357715f5a4448a8d6b"
+    }
+  ],
+  "additionalSourceAccess": [
+    {
+      "reference": "91450-0001",
+      "source": "https://www.watchfinder.co.uk/watches/tudor/1926/m91450-0001",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "reference": "91550-0005",
+      "source": "https://www.watchfinder.co.uk/watches/tudor/1926/m91550-0005",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ]
+}

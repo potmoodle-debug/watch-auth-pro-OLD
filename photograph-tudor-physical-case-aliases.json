@@ -1,0 +1,43 @@
+{
+  "completion": "IN PROGRESS",
+  "reviewedAt": "2026-10-09T14:51:22.528627+00:00",
+  "resolvedAliases": [
+    {
+      "caseStamp": "25407",
+      "completeReference": "25407N",
+      "proofPhotographId": "fratello-tudor-p39-caseback-19",
+      "matchedPhotographIds": [
+        "fratello-tudor-p39-front-7",
+        "fratello-tudor-p39-front-8",
+        "fratello-tudor-p39-caseback-19",
+        "fratello-tudor-p39-braceletClasp-16",
+        "fratello-tudor-p39-braceletClasp-17",
+        "fratello-tudor-p39-braceletClasp-18"
+      ],
+      "evidence": "Full-size back photograph fratello-tudor-p39-caseback-19 visibly stamps 25407. Its paired hands-on/owner source explicitly identifies complete reference 25407N; existing manufacturer specifications corroborate that specimen family. The paired physical-case stamp and full execution document the lookup alias; a bare truncated string is not globally expanded to guessed suffixes. All matched views retain representative configuration labels. Source: https://www.fratellowatches.com/hands-on-with-the-new-tudor-pelagos-39-the-professional-dive-watch-for-a-new-generation/"
+    },
+    {
+      "caseStamp": "25610T",
+      "completeReference": "25610TNL",
+      "proofPhotographId": "fratello-tudor-next-25610tnl-caseback-14",
+      "matchedPhotographIds": [
+        "fratello-tudor-next-25610tnl-front-11",
+        "fratello-tudor-next-25610tnl-caseback-14",
+        "fratello-tudor-next-25610tnl-braceletClasp-8"
+      ],
+      "evidence": "Full-size back photograph fratello-tudor-next-25610tnl-caseback-14 visibly stamps 25610T. Its paired hands-on/owner source explicitly identifies complete reference 25610TNL; existing manufacturer specifications corroborate that specimen family. The paired physical-case stamp and full execution document the lookup alias; a bare truncated string is not globally expanded to guessed suffixes. All matched views retain representative configuration labels. Source: https://www.fratellowatches.com/tudor-pelagos-lhd-numbered-edition/"
+    },
+    {
+      "caseStamp": "79010S",
+      "completeReference": "79010SG",
+      "proofPhotographId": "fratello-tudor-third-79010sg-caseback-6",
+      "matchedPhotographIds": [
+        "fratello-tudor-third-79010sg-front-3",
+        "fratello-tudor-third-79010sg-movement-6",
+        "fratello-tudor-third-79010sg-caseback-6"
+      ],
+      "evidence": "Full-size back photograph fratello-tudor-third-79010sg-caseback-6 visibly stamps 79010S. Its paired hands-on/owner source explicitly identifies complete reference 79010SG; existing manufacturer specifications corroborate that specimen family. The paired physical-case stamp and full execution document the lookup alias; a bare truncated string is not globally expanded to guessed suffixes. All matched views retain representative configuration labels. Source: https://www.fratellowatches.com/two-months-of-living-with-the-tudor-black-bay-fifty-eight-silver/"
+    }
+  ],
+  "limitations": "Only photographed stamps paired with a complete specimen identity are added. 25600T and 79012 remain gaps; no unobserved suffix or movement inheritance."
+}
