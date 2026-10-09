@@ -36,11 +36,11 @@ watch models: punctuation/case duplicates collapse; M-prefixed aliases, base
 references and catalogue suffixes remain separate keys. Broad patterns require
 enumeration and source review; they are never counted as exact references.
 
-Current exact progress is in the generated coverage files: **172 identifier keys
-reviewed, 2,066 unreviewed; 128 source records reviewed, 2,319 unreviewed**. There are
-**501 catalogue assets: 470 verified, 22 pending and 9 rejected**, including 31
-legacy assets. Verified reference-key coverage: **front 155, movement 65, caseback
-136, bracelet/clasp 132**. Reviewed gaps describe the inspected source set, not a
+Current exact progress is in the generated coverage files: **178 identifier keys
+reviewed, 2,060 unreviewed; 134 source records reviewed, 2,313 unreviewed**. There are
+**518 catalogue assets: 487 verified, 22 pending and 9 rejected**, including 31
+legacy assets. Verified reference-key coverage: **front 158, movement 65, caseback
+139, bracelet/clasp 136**. Reviewed gaps describe the inspected source set, not a
 claim that no suitable image exists elsewhere. Existing textual research and
 pre-existing "verified" mapping badges do not verify photographs. Unreviewed
 categories are not counted as reviewed gaps.
@@ -175,8 +175,8 @@ authenticate to Supabase or verify real photograph loading or live RLS.
 public image servers without mocked images or authenticated database mutations.
 It checks every accepted photograph's load, enlargement, credit, representative
 label and mobile overflow. Chromium must trust the configured environment proxy
-CA; certificate verification must remain enabled. All 470 accepted photographs across 190 explicit covered keys
-passed this check on 2026-10-09. Rerun after catalogue additions. The Node suite passes all 27
+CA; certificate verification must remain enabled. All 487 accepted photographs across 202 explicit covered keys
+passed this check on 2026-10-09. Rerun after catalogue additions. The Node suite passes all 28
 tests, and the fixture browser suite covers the preserved workflows and mocked
 authenticated refreshes.
 
@@ -207,3 +207,20 @@ black/gilt 79030N Fifty-Eight, original steel-bezel 79350 Chrono and slate-grey
 79250BA Bronze gain labelled front and closed-back coverage. Breitling B01 and
 unproven isolated MT5813/MT5612 media remain withheld. Full bronze fabric and
 leather suffixes remain separate. See `photograph-fratello-tudor-fourth-sources.json`.
+
+The fifth Tudor pass inspects all 94 main image occurrences in eight articles
+and accepts seven photographs. The P01 prototype back marked PROTOTYPE R408
+is withheld from production caseback coverage. Actual Pelagos Ultra photos stay
+separate from LHD comparisons. The 79220R/B/N joined pattern is now enumerated
+and reviewed through individual R, B and N specimens; the literal joined string
+is not fabricated into an exact photograph lookup.
+
+The sixth Tudor pass inspects all 100 main image occurrences in six articles
+and accepts ten photographs. Actual Ranger 36 black and beige fronts match
+-0001 and -0007 separately; unpaired back/clasp details attach to the base only.
+It adds a clear burgundy 41 mm closed back and labelled opaline GMT fabric/clasp
+views. Source 70330N cannot establish inventory 79330. New black 7939A1A0NU
+campaign media has unproven photograph-versus-render provenance. Both keys
+have explicit reviewed gaps; neither inherits neighbouring photographs.
+See `photograph-fratello-tudor-fifth-sources.json` and
+`photograph-fratello-tudor-sixth-sources.json`.

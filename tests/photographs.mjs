@@ -146,3 +146,25 @@ test('Tudor GMT suffixes and silver movement execution retain documented boundar
  assert.ok(north.every(p=>p.caption.includes('MT5621')));
  for(const reference of ['91210','M91210N-0002','79470'])assert.ok(forRef(reference).every(p=>!north.some(q=>q.id===p.id)),reference);
 });
+
+test('P01 prototype backs and current Ranger/Pelagos variants do not supply unsupported coverage',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const forRef=reference=>matchingPhotographs(photos,'Tudor',reference);
+ const p01=forRef('70150');
+ assert.ok(p01.some(p=>p.category==='front'));
+ assert.ok(p01.some(p=>p.category==='braceletClasp'));
+ assert.ok(p01.every(p=>p.category!=='caseback'&&p.category!=='movement'));
+ const ultra=forRef('2543C1A7NU');
+ assert.ok(ultra.some(p=>p.category==='front'));
+ assert.ok(ultra.every(p=>p.category!=='movement'));
+ assert.ok(forRef('25610TNL').every(p=>!ultra.some(q=>q.id===p.id)));
+ const black=forRef('M79930-0001'),beige=forRef('M79930-0007');
+ assert.ok(black.some(p=>p.id==='fratello-tudor-sixth-79930-front-3'));
+ assert.ok(beige.some(p=>p.id==='fratello-tudor-sixth-79930-front-12'));
+ assert.ok(black.every(p=>!beige.some(q=>q.id===p.id)));
+ assert.ok(forRef('79930').some(p=>p.category==='caseback'));
+ assert.ok(forRef('79930').every(p=>p.category!=='movement'));
+ assert.ok(forRef('79950').every(p=>!black.some(q=>q.id===p.id)));
+ assert.equal(forRef('79330').length,0);
+ assert.equal(forRef('7939A1A0NU').length,0);
+});

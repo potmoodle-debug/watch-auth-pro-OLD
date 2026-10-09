@@ -1,0 +1,1374 @@
+{
+  "version": 1,
+  "reviewedAt": "2026-10-09T08:50:42.235991+00:00",
+  "articleImagesInspected": 94,
+  "reviewedArticles": [
+    {
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-p01-new-diver/",
+      "inventoryKeysReviewed": [],
+      "imagesInspected": 17,
+      "selectedImages": [],
+      "referenceEvidence": "Basel press sample is stamped 70150 but actual caseback explicitly reads PROTOTYPE R408. Production caseback coverage withheld; later P01 hands-on supplies accepted front/clasp photographs."
+    },
+    {
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-black-bay-p01-watch/",
+      "primarySource": "https://www.fratellowatches.com/tudor-black-bay-p01-new-diver/",
+      "reference": "70150",
+      "inventoryKeysReviewed": [
+        "70150"
+      ],
+      "imagesInspected": 8,
+      "selectedImages": [
+        [
+          "front",
+          4,
+          "Black dial, date at 3, engraved steel 12-hour bezel, crown at 4 and distinctive hinged bezel-locking end links, on brown leather/rubber hybrid strap."
+        ],
+        [
+          "braceletClasp",
+          8,
+          "Actual brown hybrid strap, stitching and folding clasp with visible TUDOR inscriptions. Interior partly out of focus; unseen codes unsupported."
+        ]
+      ],
+      "referenceEvidence": "Original Basel hands-on links directly to manufacturer m70150-0001 and actual case is stamped 70150. Subsequent owner/loan hands-on photographs document same P01 and original brown hybrid strap. Current manufacturer exact route returns 404; it is not treated as current confirmation. Original Basel caseback is explicitly a PROTOTYPE R408 and is excluded from production caseback coverage. No opened MT5612 movement."
+    },
+    {
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/tudor-unveils-the-36mm-ranger-and-adds-a-dune-white-dial-to-the-lineup/",
+      "inventoryKeysReviewed": [],
+      "imagesInspected": 11,
+      "selectedImages": [],
+      "referenceEvidence": "All eleven Ranger launch image occurrences inspected. Source identifies 36 mm 79930 variants separately from 39 mm 79950, but campaign photograph/render provenance is not established. Further actual hands-on research open; no attachment. Later actual Ranger hands-on in photograph-fratello-tudor-sixth-sources.json resolves 36 mm 79930 coverage; original campaign files remain unattached."
+    },
+    {
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/introducing-tudors-burgundy-black-bay-58-and-opaline-black-bay-pro/",
+      "inventoryKeysReviewed": [],
+      "imagesInspected": 9,
+      "selectedImages": [],
+      "referenceEvidence": "All nine burgundy Black Bay 58 / opaline Pro campaign images inspected. Manufacturer exact corroborates M7939A1A0RU-0001, but campaign photograph/render provenance remains unresolved. No shared MT5400-U image inferred; further hands-on research open."
+    },
+    {
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/tudor-adds-the-larger-black-bay-68-to-its-extensive-black-bay-lineup/",
+      "inventoryKeysReviewed": [],
+      "imagesInspected": 9,
+      "selectedImages": [],
+      "referenceEvidence": "All nine Black Bay 68 campaign images inspected; 43 mm blue/silver models distinct from 41 mm Monochrome. Stored 7943A1A0 incomplete scope and campaign provenance unresolved. No attachment."
+    },
+    {
+      "articleKey": 5,
+      "source": "https://www.fratellowatches.com/the-new-tudor-pelagos-ultra-dives-deeper-than-ever-before/",
+      "inventoryKeysReviewed": [],
+      "imagesInspected": 10,
+      "selectedImages": [],
+      "referenceEvidence": "All ten Pelagos Ultra launch image occurrences inspected. Actual photographed loan specimen in article 6 supplies accepted coverage; isolated product/campaign images withheld."
+    },
+    {
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "primarySource": "https://www.tudorwatch.com/en/watches/pelagos/m2543c1a7nu-0001",
+      "reference": "2543C1A7NU",
+      "inventoryKeysReviewed": [
+        "2543C1A7NU"
+      ],
+      "imagesInspected": 18,
+      "selectedImages": [
+        [
+          "front",
+          4,
+          "Actual black Ultra with turquoise PELAGOS text, Master Chronometer / 1000 m dial and titanium bracelet."
+        ],
+        [
+          "front",
+          10,
+          "Actual Ultra on included black rubber strap; turquoise dial text and 1000 m distinguish it from standard Pelagos."
+        ],
+        [
+          "braceletClasp",
+          8,
+          "Actual titanium bracelet and clasp exterior with turquoise adjustment indicator and Tudor shield."
+        ],
+        [
+          "caseback",
+          8,
+          "Partial closed-back view behind clasp, showing visible outer Tudor manufacture inscriptions and case/lug construction. Clasp obscures centre; no hidden inscriptions claimed."
+        ]
+      ],
+      "referenceEvidence": "Current manufacturer exact M2543C1A7NU-0001 confirms 43 mm titanium, turquoise PELAGOS MASTER CHRONOMETER dial, 1000 m, MT5612-U, bracelet and complimentary rubber. Source photographs actual Ultra alongside explicitly separate 42 mm left-crown LHD. LHD front and engraved back images excluded; MT5612-LHD does not establish MT5612-U execution."
+    },
+    {
+      "articleKey": 7,
+      "source": "https://www.fratellowatches.com/celebrating-10-years-of-the-tudor-black-bay/",
+      "primarySource": "https://www.fratellowatches.com/celebrating-10-years-of-the-tudor-black-bay/",
+      "reference": "79220N",
+      "inventoryKeysReviewed": [
+        "79220R/B/N"
+      ],
+      "imagesInspected": 12,
+      "selectedImages": [
+        [
+          "front",
+          5,
+          "Black bezel with red triangle, black/gilt rose-logo dial and curved Rotor Self-Winding text on black fabric strap. Early ETA generation, not later 79230N."
+        ]
+      ],
+      "referenceEvidence": "Retrospective explicitly identifies black 79220N alongside red 79220R and blue 79220B and their ETA 2824 generation. Actual black-bezel rose-logo photograph inspected, with curved Rotor Self-Winding dial text. Later manufacture shield-logo, bronze, ceramic, Harrods and Chrono pictures in same article excluded. No opened ETA movement or clasp detail established."
+    }
+  ],
+  "manufacturerAccess": [
+    {
+      "key": "p01",
+      "source": "https://www.tudorwatch.com/en/watches/black-bay-p01/m70150-0001",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "ultra",
+      "source": "https://www.tudorwatch.com/en/watches/pelagos/m2543c1a7nu-0001",
+      "status": 200,
+      "resolved": "https://www.tudorwatch.com/en/watches/pelagos/m2543c1a7nu-0001",
+      "references": []
+    },
+    {
+      "key": "58red",
+      "source": "https://www.tudorwatch.com/en/watches/black-bay-58/m7939a1a0ru-0001",
+      "status": 200,
+      "resolved": "https://www.tudorwatch.com/en/watches/black-bay-58/m7939a1a0ru-0001",
+      "references": []
+    },
+    {
+      "key": "68",
+      "source": "https://www.tudorwatch.com/en/watches/black-bay-68",
+      "status": 200,
+      "resolved": "https://www.tudorwatch.com/en/watches/black-bay-68",
+      "references": []
+    }
+  ],
+  "note": "Every main article image was decoded and visually inspected, including embedded tiled galleries and off-model comparisons. Duplicate article/gallery appearances count as image occurrences, not unique media. Related-post thumbnails and avatars excluded. Unsupported movements and year-coded aliases withheld.",
+  "access": [
+    {
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//2019/03/Tudor-BB-P01-2.jpg",
+      "alt": "Tudor Black Bay P01",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-p01-new-diver/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "54f7a52cf41e4409507fccd443034b4c726e2f28656a304f21269495030b3b48"
+    },
+    {
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//2019/03/Tudor-BB-P01-4.jpg",
+      "alt": "Tudor Black Bay P01",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-p01-new-diver/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "f1dcb084db42c77d81191d65606b9aab455e56810ec9d8f846cf58ebf48228fb"
+    },
+    {
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//2019/03/Tudor-BB-P01-8.jpg",
+      "alt": "Tudor Black Bay P01",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-p01-new-diver/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "038499eb75e3cacc49aa29ffe338dafb2fe73d66c8fca1a4cdb6c2cd34ed70fb"
+    },
+    {
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//2019/03/Tudor-BB-P01-5.jpg",
+      "alt": "Tudor Black Bay P01",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-p01-new-diver/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "51ae536a6744336fda0390213d5124e0ca0124dc12e1321d0227fb00f0230d69"
+    },
+    {
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//2019/03/Tudor-BB-P01-10.jpg",
+      "alt": "",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-p01-new-diver/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "9d4afda59d01323dc09742b695eafac0c289692bdc1bb070783ade3e95e5f57c"
+    },
+    {
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//2019/03/Tudor-BB-P01-7.jpg",
+      "alt": "Tudor Black Bay P01",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-p01-new-diver/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "39ee7b85b468d752531236c7f6acd40bc621e555623c9b9d53943c57af94d0a9"
+    },
+    {
+      "index": 9,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2019/03/Tudor-BB-P01-10.jpg",
+      "alt": "Tudor BB P01-10",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-p01-new-diver/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "9d4afda59d01323dc09742b695eafac0c289692bdc1bb070783ade3e95e5f57c"
+    },
+    {
+      "index": 10,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2019/03/Tudor-BB-P01-9.jpg",
+      "alt": "Tudor BB P01-9",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-p01-new-diver/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "4e87385e0d8260faaf7d2bf5ab146c6edf5c9e8c4ca60533f72c9a53565d9835"
+    },
+    {
+      "index": 11,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2019/03/Tudor-BB-P01-8.jpg",
+      "alt": "Tudor Black Bay P01",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-p01-new-diver/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "038499eb75e3cacc49aa29ffe338dafb2fe73d66c8fca1a4cdb6c2cd34ed70fb"
+    },
+    {
+      "index": 12,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2019/03/Tudor-BB-P01-7.jpg",
+      "alt": "Tudor Black Bay P01",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-p01-new-diver/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "39ee7b85b468d752531236c7f6acd40bc621e555623c9b9d53943c57af94d0a9"
+    },
+    {
+      "index": 13,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2019/03/Tudor-BB-P01-6.jpg",
+      "alt": "Tudor BB P01-6",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-p01-new-diver/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "7a2ef17868e83a0a19218531f25b29824410ac2358265226eb458559ece6f20d"
+    },
+    {
+      "index": 14,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2019/03/Tudor-BB-P01-5.jpg",
+      "alt": "Tudor Black Bay P01",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-p01-new-diver/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "51ae536a6744336fda0390213d5124e0ca0124dc12e1321d0227fb00f0230d69"
+    },
+    {
+      "index": 15,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2019/03/Tudor-BB-P01-4.jpg",
+      "alt": "Tudor Black Bay P01",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-p01-new-diver/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "f1dcb084db42c77d81191d65606b9aab455e56810ec9d8f846cf58ebf48228fb"
+    },
+    {
+      "index": 16,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2019/03/Tudor-BB-P01-3.jpg",
+      "alt": "Tudor BB P01-3",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-p01-new-diver/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "3023b3adc43e13aedfdc2542edd85e9257279bed79f805ff4cbc0eb460417f4f"
+    },
+    {
+      "index": 17,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2019/03/Tudor-BB-P01-2.jpg",
+      "alt": "Tudor Black Bay P01",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-p01-new-diver/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "54f7a52cf41e4409507fccd443034b4c726e2f28656a304f21269495030b3b48"
+    },
+    {
+      "index": 18,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2019/03/Tudor-BB-P01-1.jpg",
+      "alt": "Tudor BB P01-1",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-p01-new-diver/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "31292911738891cb0e261f8a6d7b7f59b4bdd803d8b57566481f2e6e11d22fdf"
+    },
+    {
+      "index": 19,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2019/03/Tudor-BB-P01-Cover.jpg",
+      "alt": "Tudor BB P01 Cover",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-p01-new-diver/",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        1335
+      ],
+      "sha256": "543402486b56702d19c0f6efff365e348dc5f0a0293fc8fd3c28521968664609"
+    },
+    {
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2020/08/Tudor-Black-Bay-P01-M70150-0001.013.jpg",
+      "alt": "Tudor Black Bay P01 wristshot",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-black-bay-p01-watch/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "f96f899863bd8e340c34aaff8439067c179e6cc1742ece777a2d72c2e20a6e85"
+    },
+    {
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2020/08/Tudor-Black-Bay-P01-M70150-0001.003.jpg",
+      "alt": "Tudor Black Bay P01 flatlay",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-black-bay-p01-watch/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "aee5184e1f25c6e29eb90f4b76b13d80eb2e03ab942139e8777c1297cd6033e9"
+    },
+    {
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2020/08/Tudor-Black-Bay-P01-M70150-0001.010.jpg",
+      "alt": "Tudor Black Bay P01 crown",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-black-bay-p01-watch/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "aff3d3aeb7c20956fbcc6c25fdfa6eaceb2584c19d577f93f8e369e3cf1f8b02"
+    },
+    {
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2020/08/Tudor-Black-Bay-P01-M70150-0001.011.jpg",
+      "alt": "Tudor Black Bay P01 lugs",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-black-bay-p01-watch/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "dfd3e7e48cae95e07e6e6d88c9755cd7d65ac594331cda5fb44cc152e5a7e8e7"
+    },
+    {
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2020/08/Tudor-Black-Bay-P01-M70150-0001.009.jpg",
+      "alt": "",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-black-bay-p01-watch/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "385624a29cd72dd169da5be01c0eb69252c4d90b12e569b4b010ff071fe4bd2e"
+    },
+    {
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2020/08/Tudor-Black-Bay-P01-M70150-0001.008.jpg",
+      "alt": "",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-black-bay-p01-watch/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "0dbd3a93d95d8a8d55012b26d968d70f4cf6b1207d90e82cb980faddfdb061fd"
+    },
+    {
+      "index": 9,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2020/08/Tudor-Black-Bay-P01-M70150-0001.012.jpg",
+      "alt": "",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-black-bay-p01-watch/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "9e98b27c7c43f6b0e4b1f49d30eec676206301905207bc362c328b0b2e1f57c6"
+    },
+    {
+      "index": 10,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2020/08/Tudor-Black-Bay-P01-M70150-0001.006.jpg",
+      "alt": "",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-black-bay-p01-watch/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "f1aa0abb3b08eae71cac1a836089bb0c341477da038a2571c783a89b80d4736a"
+    },
+    {
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/11/T25_PRO_M79930-black-steel_M79950-black_steel_013.jpg",
+      "alt": "36mm and 39mm black-dial Tudor Ranger models upright in sand",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/tudor-unveils-the-36mm-ranger-and-adds-a-dune-white-dial-to-the-lineup/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1800
+      ],
+      "sha256": "5033ad74d506520c328ec23214a156eee9ddf30c483f7be398be8fe7d5b6cbc4"
+    },
+    {
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/11/T25_PRO_M79930-beige-steel_008.jpg",
+      "alt": "beige-dial 36mm Tudor Ranger upright in sand",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/tudor-unveils-the-36mm-ranger-and-adds-a-dune-white-dial-to-the-lineup/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1800
+      ],
+      "sha256": "19ad04a434e9713fd281a5791cf6eaa3adabb02ade1b4ed6d97f37be04b19890"
+    },
+    {
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/11/T25_PRO_M79930-black-steel-men_005.jpg",
+      "alt": "black-dial 36mm Tudor Ranger on wrist",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/tudor-unveils-the-36mm-ranger-and-adds-a-dune-white-dial-to-the-lineup/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1800
+      ],
+      "sha256": "c373f0d7b1fbb9098cf5a7a625d365224a9e96dbd758845edd3ac36cf0075717"
+    },
+    {
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/11/M79930-0001_FF_sRGB-black.jpg",
+      "alt": "black-dial 36mm Tudor Ranger soldier shot",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/tudor-unveils-the-36mm-ranger-and-adds-a-dune-white-dial-to-the-lineup/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1800
+      ],
+      "sha256": "3d5a125eca08df4cc5aaf73eecef93e088bf80bac6617d36a8c03c8d0fc3a121"
+    },
+    {
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/11/M79930-0008_DET_sRGB-black.jpg",
+      "alt": "beige-dial 36mm Tudor Ranger on fabric strap",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/tudor-unveils-the-36mm-ranger-and-adds-a-dune-white-dial-to-the-lineup/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1800
+      ],
+      "sha256": "73fd8603435e904c72fd54c1f59d120b27295f39d134b65528b7c5aaaa14fa22"
+    },
+    {
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/11/M79930-0007_FF_sRGB-black.jpg",
+      "alt": "beige-dial 36mm Tudor Ranger soldier shot",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/tudor-unveils-the-36mm-ranger-and-adds-a-dune-white-dial-to-the-lineup/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1800
+      ],
+      "sha256": "a391d4adec5157f93753aec3e42c8593379befbf6cc3e502f2930a439aa21851"
+    },
+    {
+      "index": 9,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/11/T25_PRO_M79930-beige-fabric_009.jpg",
+      "alt": "beige-dial 36mm Tudor Ranger on fabric strap, flat-lay in sand",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/tudor-unveils-the-36mm-ranger-and-adds-a-dune-white-dial-to-the-lineup/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1800
+      ],
+      "sha256": "aa3f08d891ce3593508eb49478a57de3cd7dfc321609f2f5e2e9fd614f758285"
+    },
+    {
+      "index": 10,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/11/T25_PRO_M79930-beige-steel_M79950-beige-steel_010.jpg",
+      "alt": "beige-dial 36mm and 39mm Tudor Ranger models upright, side by side",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/tudor-unveils-the-36mm-ranger-and-adds-a-dune-white-dial-to-the-lineup/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1800
+      ],
+      "sha256": "bedab79bf4dbf055388109a718b956a15053f991c2c9d97bcb6e7a0d935f895a"
+    },
+    {
+      "index": 11,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/11/T25_PRO_M79950-beige-fabric-men_003.jpg",
+      "alt": "beige-dial 39mm Tudor Ranger with fabric strap on wrist, lifestyle shot",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/tudor-unveils-the-36mm-ranger-and-adds-a-dune-white-dial-to-the-lineup/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1800
+      ],
+      "sha256": "f88ccfda083cafa71fedc9512f8f1d486801c4442d7ce9e8d3ba8ddaf079eca8"
+    },
+    {
+      "index": 12,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/11/T25_PRO_M79930-beige-steel_006.jpg",
+      "alt": "beige-dial 36mm Tudor Ranger on side, crown up, in desert",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/tudor-unveils-the-36mm-ranger-and-adds-a-dune-white-dial-to-the-lineup/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1800
+      ],
+      "sha256": "951b828aa46df1f11fd95245e410014c4ba8b84128e4ba84943eec581f24247b"
+    },
+    {
+      "index": 13,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/11/T25_PRO_M79930-black-steel-men_004.jpg",
+      "alt": "black-dial 36mm Tudor Ranger on wrist, lifestyle shot",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/tudor-unveils-the-36mm-ranger-and-adds-a-dune-white-dial-to-the-lineup/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1800
+      ],
+      "sha256": "0bf62d8fdb139a11a95f6406cbc5733fe5ced7c49b34c0b8d0b48de43193b132"
+    },
+    {
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/TudorBlackBayWatchesAndWonders2025-3.jpg",
+      "alt": "burgundy Tudor Black Bay 58 models",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/introducing-tudors-burgundy-black-bay-58-and-opaline-black-bay-pro/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1350
+      ],
+      "sha256": "f9744ea9fac5ef8cb0bd6db0fbc155003938f89e279ebae5021ba7dcf31970da"
+    },
+    {
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/TUDOR_NP25_BLACK-BAY-58_LIFESTYLE-82.jpg",
+      "alt": "",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/introducing-tudors-burgundy-black-bay-58-and-opaline-black-bay-pro/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "bef057c035d0020bbd4a1930694c65187b40765a03ce7e648a17958cc276aa5b"
+    },
+    {
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/TUDOR_NP25_BLACK-BAY-58_LIFESTYLE-1-1-cropped.jpg",
+      "alt": "",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/introducing-tudors-burgundy-black-bay-58-and-opaline-black-bay-pro/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "11c25cabcd0417d27e3ab47adc9a531384cf9b3c964e87985c206f9535a53a10"
+    },
+    {
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/TUDOR_NP25_BLACK-BAY-58_LIFESTYLE-7-cropped.jpg",
+      "alt": "",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/introducing-tudors-burgundy-black-bay-58-and-opaline-black-bay-pro/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1196
+      ],
+      "sha256": "5695235e5a4c30d9220f569cc5d198b3e77775cda3d0796d8112b5c4f3aa08fb"
+    },
+    {
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/TUDOR_NP25_BLACK-BAY-PRO_LIFESTYLE-21.jpg",
+      "alt": "",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/introducing-tudors-burgundy-black-bay-58-and-opaline-black-bay-pro/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1349
+      ],
+      "sha256": "9525c22c6f74b27bd1996afca7f65128c7270d02b5f4f66dd14767ed73547da7"
+    },
+    {
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/TUDOR_NP25_BLACK-BAY-PRO_LIFESTYLE-3cropped.jpg",
+      "alt": "",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/introducing-tudors-burgundy-black-bay-58-and-opaline-black-bay-pro/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1204
+      ],
+      "sha256": "c90442476a2575b1f17b77b1c0d7d8b9a87b681d253b10bd3c79d8b83b826080"
+    },
+    {
+      "index": 9,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/TudorBlackBayWatchesAndWonders2025-6.jpg",
+      "alt": "opaline Tudor Black Bay Pro lineup",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/introducing-tudors-burgundy-black-bay-58-and-opaline-black-bay-pro/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1349
+      ],
+      "sha256": "3c56b60ff175a8c396e5a2734a7d12a0f3a8beee4e898cd6d34ef1ea229237ce"
+    },
+    {
+      "index": 10,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/TudorBlackBayWatchesAndWonders2025-7.jpg",
+      "alt": "opaline Tudor Black Bay Pro M79470-0005 on wrist, lifestyle shot",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/introducing-tudors-burgundy-black-bay-58-and-opaline-black-bay-pro/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1350
+      ],
+      "sha256": "e2937a4f9a1ab3d7e9311b37e7b25e5eb2927b872eb367de647da9356d25390b"
+    },
+    {
+      "index": 11,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/TUDOR_NP25_BLACK-BAY-PRO_LIFESTYLE-2Cropped.jpg",
+      "alt": "",
+      "articleKey": 3,
+      "source": "https://www.fratellowatches.com/introducing-tudors-burgundy-black-bay-58-and-opaline-black-bay-pro/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1197
+      ],
+      "sha256": "7bb2e7be8d9ab73b86b8588c4abb637bde913f7d8827bdf2a283fcc1d18690ed"
+    },
+    {
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/TUDOR_NP25_BLACK_BAY_68_LIFESTYLE-51.jpg",
+      "alt": "Tudor Black Bay 68 refs. M7943A1A0NU-0001 and M7943A1A0NU-0002 flat-lay with watchmaking tools",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/tudor-adds-the-larger-black-bay-68-to-its-extensive-black-bay-lineup/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1349
+      ],
+      "sha256": "5d0b1203f95cd55d45827e35caea30d192d74d18e4590996d13c47b8625e2f91"
+    },
+    {
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/TUDOR_NP25_BLACK_BAY_68_LIFESTYLE-21.jpg",
+      "alt": "Tudor Black Bay 68 ref. M7943A1A0NU-0001 with screwdriver and loupe",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/tudor-adds-the-larger-black-bay-68-to-its-extensive-black-bay-lineup/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "ad637c48f574f6ea2ce2525492bb51372a22510b2d49d97e67618e367561f4c9"
+    },
+    {
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/TUDOR_NP25_BLACK_BAY_68_LIFESTYLE-9.jpg",
+      "alt": "Tudor Black Bay 68 ref. M7943A1A0NU-0002 with watchmaking tools",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/tudor-adds-the-larger-black-bay-68-to-its-extensive-black-bay-lineup/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1349
+      ],
+      "sha256": "2c0791981b2992fb53c9d6ad64aec4a18b4e9672a571b0084c3e08e732bc6ddb"
+    },
+    {
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/TUDOR_NP25_BLACK_BAY_68_LIFESTYLE-6.jpg",
+      "alt": "Tudor Black Bay 68 ref. M7943A1A0NU-0001 on wrist",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/tudor-adds-the-larger-black-bay-68-to-its-extensive-black-bay-lineup/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1202
+      ],
+      "sha256": "329855f2767d61f4354ed6d2a35a9fc666ddca46a388c6c6dbb10845ee8e0a30"
+    },
+    {
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/M7943A1A0NU-0001_FF_RGB1-e1743495540339.jpg",
+      "alt": "Tudor Black Bay 68 models",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/tudor-adds-the-larger-black-bay-68-to-its-extensive-black-bay-lineup/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        870
+      ],
+      "sha256": "4c58897232b004654f138f5b47dc54979cb0461ac03df49b908917ded89fc5ea"
+    },
+    {
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/TUDOR_NP25_BLACK_BAY_68_LIFESTYLE-41.jpg",
+      "alt": "Tudor Black Bay 68 ref. M7943A1A0NU-0001 flat-lay with watchmaking tools",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/tudor-adds-the-larger-black-bay-68-to-its-extensive-black-bay-lineup/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "32ad3f5f0a1b4e8a2e294915aa60b200cb689a1cb1e14628594d26d3bd73108b"
+    },
+    {
+      "index": 9,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/TUDOR_NP25_BLACK_BAY_68_LIFESTYLE-1.jpg",
+      "alt": "",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/tudor-adds-the-larger-black-bay-68-to-its-extensive-black-bay-lineup/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1199
+      ],
+      "sha256": "ad5b7d19d8ac09371a44a1db1a56162c15dbaa9ab04e5ce3a6d4a62e22fb96dd"
+    },
+    {
+      "index": 10,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/TUDOR_NP25_BLACK_BAY_68_LIFESTYLE-7.jpg",
+      "alt": "",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/tudor-adds-the-larger-black-bay-68-to-its-extensive-black-bay-lineup/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1350
+      ],
+      "sha256": "5801b420b1b28e4a0700c0934e3751e4a57dfd2b9bda5c3c150e1cbaa39bbc91"
+    },
+    {
+      "index": 11,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/TUDOR_NP25_BLACK_BAY_68_LIFESTYLE-3.jpg",
+      "alt": "",
+      "articleKey": 4,
+      "source": "https://www.fratellowatches.com/tudor-adds-the-larger-black-bay-68-to-its-extensive-black-bay-lineup/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1349
+      ],
+      "sha256": "c815f1892408842a502203e700f5b37f283b2cbd714fe7091db9ff587f49840c"
+    },
+    {
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-M2543C1A7NU-3.jpg",
+      "alt": "Tudor Pelagos Ultra ref. M2543C1A7NU diagonal view",
+      "articleKey": 5,
+      "source": "https://www.fratellowatches.com/the-new-tudor-pelagos-ultra-dives-deeper-than-ever-before/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "2ad2c2cd33df753c19a84402713bc6418f6ff4be4dee77ae7924158b973166fd"
+    },
+    {
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-M2543C1A7NU-9.jpg",
+      "alt": "Tudor Pelagos Ultra ref. M2543C1A7NU on wrist",
+      "articleKey": 5,
+      "source": "https://www.fratellowatches.com/the-new-tudor-pelagos-ultra-dives-deeper-than-ever-before/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "95ccbabc5a358d0325a1583f099f803968863e6f69857bfccceae7b406d8d872"
+    },
+    {
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-M2543C1A7NU-13.jpg",
+      "alt": "Tudor Pelagos Ultra ref. M2543C1A7NU on wrist, lifestyle shot",
+      "articleKey": 5,
+      "source": "https://www.fratellowatches.com/the-new-tudor-pelagos-ultra-dives-deeper-than-ever-before/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "8201e133dd2751d69f4905c10090b406e59d47c5a1a8acbb66b2e18fec5bcf5e"
+    },
+    {
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-M2543C1A7NU-12.jpg",
+      "alt": "Tudor Pelagos Ultra ref. M2543C1A7NU lume shot",
+      "articleKey": 5,
+      "source": "https://www.fratellowatches.com/the-new-tudor-pelagos-ultra-dives-deeper-than-ever-before/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "bcf43e7ff9651d02fc44cea59302064dd88fdea22888094e91b9e243a4b8d9e1"
+    },
+    {
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-M2543C1A7NU-1.jpg",
+      "alt": "Tudor Pelagos Ultra ref. M2543C1A7NU on rubber strap",
+      "articleKey": 5,
+      "source": "https://www.fratellowatches.com/the-new-tudor-pelagos-ultra-dives-deeper-than-ever-before/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "6780d72dde52c931aaac0746b96d970e7b9c9029042008842529564a47fedd3a"
+    },
+    {
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-M2543C1A7NU-16.jpg",
+      "alt": "Tudor Pelagos Ultra ref. M2543C1A7NU helium valve",
+      "articleKey": 5,
+      "source": "https://www.fratellowatches.com/the-new-tudor-pelagos-ultra-dives-deeper-than-ever-before/",
+      "status": "decoded",
+      "dimensions": [
+        1200,
+        1800
+      ],
+      "sha256": "71d6d76dd356cf8686f0544d4109cfcebd22bb83b7d79f26700d750209010d3d"
+    },
+    {
+      "index": 9,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-M2543C1A7NU-10.jpg",
+      "alt": "Tudor Pelagos Ultra ref. M2543C1A7NU clasp",
+      "articleKey": 5,
+      "source": "https://www.fratellowatches.com/the-new-tudor-pelagos-ultra-dives-deeper-than-ever-before/",
+      "status": "decoded",
+      "dimensions": [
+        1200,
+        1800
+      ],
+      "sha256": "c9418f1148491c69298df685a3625b077a70d0c5a5d2c2ac74fc95e62d97fcf7"
+    },
+    {
+      "index": 10,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-M2543C1A7NU-14.jpg",
+      "alt": "Tudor Pelagos Ultra ref. M2543C1A7NU on rubber strap with loupe and screwdrivers",
+      "articleKey": 5,
+      "source": "https://www.fratellowatches.com/the-new-tudor-pelagos-ultra-dives-deeper-than-ever-before/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1349
+      ],
+      "sha256": "e9e9da8e3709bc3b6b05781140e7e9b3f6ea889aa54661719ac307cd97b353a7"
+    },
+    {
+      "index": 11,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-M2543C1A7NU-11.jpg",
+      "alt": "Tudor Pelagos Ultra ref. M2543C1A7NU close-up",
+      "articleKey": 5,
+      "source": "https://www.fratellowatches.com/the-new-tudor-pelagos-ultra-dives-deeper-than-ever-before/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "1b8a6f99d901b392cb41f85cbd5f51eaa816be743411a082ed97647973b304a4"
+    },
+    {
+      "index": 12,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-M2543C1A7NU-6.jpg",
+      "alt": "Tudor Pelagos Ultra ref. M2543C1A7NU on bracelet and rubber strap",
+      "articleKey": 5,
+      "source": "https://www.fratellowatches.com/the-new-tudor-pelagos-ultra-dives-deeper-than-ever-before/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "d0f026801991db84f9b3603a1e97221ced88b32900ab30eda1152a86dfb7856a"
+    },
+    {
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/JLC-Reverso-Tribute-Monoface-Small-Seconds-Pink-Gold-on-Mesh-2.jpg",
+      "alt": "pink gold Jaeger-LeCoultre Reverso Tribute Monoface Small Seconds with mesh bracelet, on corner of tray",
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1201,
+        1800
+      ],
+      "sha256": "191264cda67752d30c2354192c82d90ebe80d26a55dc30af8b015cca3a6fc194"
+    },
+    {
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-2-1.jpg",
+      "alt": "Tudor Pelagos Ultra face up",
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "812c6ca8b904295f77d92385ad91406d3f89c7062943b87f3c04d5aa05c188cb"
+    },
+    {
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-4-1.jpg",
+      "alt": "Tudor Pelagos Ultra on bracelet and rubber strap, flat",
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "bcdaef004f3328bb3a2c18294f1a3689b9da75f8c81bb41b262ce8be6c6fb0d1"
+    },
+    {
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-5-1.jpg",
+      "alt": "Tudor Pelagos Ultra on wrist, arms crossed",
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "00048327e6b51e3003e3c3711c8ba445b3f62ba5084d640b12c4bc0c5f475a65"
+    },
+    {
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-4-2.jpg",
+      "alt": "Tudor Pelagos Ultra case profile from crown side",
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "09365fc80e87b13eaee92cbc9304c0c01f2b25716afc5efdcce97fbe023327c0"
+    },
+    {
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-3-1.jpg",
+      "alt": "Tudor Pelagos Ultra face down, clasp closed",
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "0368f0b7e8ce10c7fe17ca51605d7efee241f6d6aeeff1e7bc7435438cfdddbc"
+    },
+    {
+      "index": 9,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-1.jpg",
+      "alt": "Tudor Pelagos Ultra dial close up",
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "3f09806a04e91c745076820bbad1a5c8c1e5e1f145619fed4b401d576a2b38ce"
+    },
+    {
+      "index": 10,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-19.jpg",
+      "alt": "Tudor Pelagos Ultra on rubber strap, flat",
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "3d8c79c78b486110bbd61f042421ec058558c9fc66e014ca040e5a3801e747d6"
+    },
+    {
+      "index": 11,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-7.jpg",
+      "alt": "Tudor Pelagos Ultra indexes and dial text",
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "1c2aaa6a5056d7448c9a04a8745eba55a386392487509979f7b5aa6fbbfc8ca5"
+    },
+    {
+      "index": 12,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-14.jpg",
+      "alt": "Tudor Pelagos Ultra pocket shot",
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "0e38c121c664d59d649d2eda015da8e60395830e7266a5bb545b7295113ae145"
+    },
+    {
+      "index": 13,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-15.jpg",
+      "alt": "Tudor Pelagos Ultra on wrist",
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "d53283b9b53d3c657728d721772b5e55dfd645dff9050112d7f9e48bb6f55169"
+    },
+    {
+      "index": 14,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-Ultra-17.jpg",
+      "alt": "",
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "a1109b3b3985d0b8f7472f2ec9981645ae6f62344b965f1f7df30b36ff861b6a"
+    },
+    {
+      "index": 15,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-LHD-5.jpg",
+      "alt": "Tudor Pelagos LHD flat",
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "cfe565faa9b9bf98455575214fdd350a70adb9278c2ed814805bbfba2b16123f"
+    },
+    {
+      "index": 16,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-LHD-7.jpg",
+      "alt": "",
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "fc2ed2b2b43486c427a5a71e4bf89ad58a09ab241f6084886c6fafdc2bc5d60f"
+    },
+    {
+      "index": 17,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-LHD-8.jpg",
+      "alt": "Tudor Pelagos LHD up close",
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "9e689ae66b3fc9a70f026372e9993bf959317c53dd9a174c5a82f14abece88c9"
+    },
+    {
+      "index": 18,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-LHD-10.jpg",
+      "alt": "Tudor Pelagos LHD crown up",
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "5a458e4bb7f0a8ccf00a6aff535ca02ffca6458fcd23efd3287d71b2b035a6ed"
+    },
+    {
+      "index": 19,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-LHD-1.jpg",
+      "alt": "Tudor Pelagos LHD on wrist",
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1200,
+        1800
+      ],
+      "sha256": "c5bd4df16fee24ce7c4fdb56221468abecf7aec7260100b5a5dcea19d1c81889"
+    },
+    {
+      "index": 20,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2025/04/Tudor-Pelagos-LHD-17.jpg",
+      "alt": "Tudor Pelagos LHD case back",
+      "articleKey": 6,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-pelagos-vs-pelagos-ultra/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "3fb6d405dc3054042e49893dcbcce9ba083e87f2d0f72f425cb67b8ea30cd9e6"
+    },
+    {
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/03/Tudor-Heritage-Black-Bay-Reference-79220R-Picture-courtesy-of-Xupes.jpg",
+      "alt": "",
+      "articleKey": 7,
+      "source": "https://www.fratellowatches.com/celebrating-10-years-of-the-tudor-black-bay/",
+      "status": "decoded",
+      "dimensions": [
+        1000,
+        668
+      ],
+      "sha256": "8c98a42c37100c27aefdb775f71c0260cbd5ba5263f9b65e4bba53498bd20e7f"
+    },
+    {
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/03/Tudor-Heritage-Black-Bay-Blue.jpg",
+      "alt": "Celebrating 10 years of Tudor Heritage Black Bay watches",
+      "articleKey": 7,
+      "source": "https://www.fratellowatches.com/celebrating-10-years-of-the-tudor-black-bay/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "26ace094ad0adec52bb687d2b2f2dc237c5ed64ae94f99adadbe78a52a2e5379"
+    },
+    {
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/03/Tudor-Heritage-Blackbay-Black-001.jpg",
+      "alt": "Celebrating 10 years of Tudor Heritage Black Bay watches",
+      "articleKey": 7,
+      "source": "https://www.fratellowatches.com/celebrating-10-years-of-the-tudor-black-bay/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "0bc56d56af6e293cd1bb31c3977c021df21f1f2f6c3c7118fbde0544d3c21552"
+    },
+    {
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/03/Tudor-Heritage-Black-Bay-Harrods-Limited-Edition-79230G-Picture-courtesy-of-Xupes.jpg",
+      "alt": "",
+      "articleKey": 7,
+      "source": "https://www.fratellowatches.com/celebrating-10-years-of-the-tudor-black-bay/",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        1333
+      ],
+      "sha256": "f8c4c694e89b20685f5167d3f268fe1f363aba5f796e5a7dc2a5fdebd532a300"
+    },
+    {
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/03/The-2016-43mm-Black-Bay-Bronze-Picture-courtesy-of-Bulang-and-Sons.jpg",
+      "alt": "",
+      "articleKey": 7,
+      "source": "https://www.fratellowatches.com/celebrating-10-years-of-the-tudor-black-bay/",
+      "status": "decoded",
+      "dimensions": [
+        1600,
+        1068
+      ],
+      "sha256": "12f2c6ec49bb6c3dfedbab90fa1e84135c5d8fffeff27e8e38a706b66c1b5ef6"
+    },
+    {
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/03/Tudor-Black-Bay-Fifty-Eight-Blue.021.jpg",
+      "alt": "",
+      "articleKey": 7,
+      "source": "https://www.fratellowatches.com/celebrating-10-years-of-the-tudor-black-bay/",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        1334
+      ],
+      "sha256": "d8112d0cd39dba0e6699c238ed7e4ef138481f499924ab0b59ff72759bde8472"
+    },
+    {
+      "index": 9,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/03/Tudor-Black-Bay-P01-M70150-0001.001.jpg",
+      "alt": "Celebrating 10 years of Tudor Heritage Black Bay watches",
+      "articleKey": 7,
+      "source": "https://www.fratellowatches.com/celebrating-10-years-of-the-tudor-black-bay/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "8d7e6334b0dc7d4c129f5036730b9836ac3a25db3273d44fcb5fd7279326065f"
+    },
+    {
+      "index": 10,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/03/Tudor-Black-Bay-P01-M70150-0001.005.jpg",
+      "alt": "",
+      "articleKey": 7,
+      "source": "https://www.fratellowatches.com/celebrating-10-years-of-the-tudor-black-bay/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "f6698bb12d35c87daa6f9a452c2b30d68b2b7d8b10111e48d1eeec3306dc98db"
+    },
+    {
+      "index": 11,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/03/Tudor-Black-Bay-Chrono-M79360N-SBS-1.jpg",
+      "alt": "Celebrating 10 years of Tudor Heritage Black Bay watches",
+      "articleKey": 7,
+      "source": "https://www.fratellowatches.com/celebrating-10-years-of-the-tudor-black-bay/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "a23d8dd32fe8377c3ea4aaff47ec29132a5473463a8c82222e54ec2c4fc9abb2"
+    },
+    {
+      "index": 12,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/03/Tudor-Black-Bay-Chrono-M79360N-0002.001.jpg",
+      "alt": "",
+      "articleKey": 7,
+      "source": "https://www.fratellowatches.com/celebrating-10-years-of-the-tudor-black-bay/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "838fd1c637c01ada63a557c25025890a9b3f8b25ec0ddf64021e17d14a65c68b"
+    },
+    {
+      "index": 13,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/03/Tudor-Black-Bay-Ceramic-M79210CNU.001.jpg",
+      "alt": "Celebrating 10 years of Tudor Heritage Black Bay watches",
+      "articleKey": 7,
+      "source": "https://www.fratellowatches.com/celebrating-10-years-of-the-tudor-black-bay/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "af205abcfe7ab8adac2105878e8322787350a5237d9a659129a568261cd4dadf"
+    },
+    {
+      "index": 14,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/03/Tudor-Fifty-Eight-18K-M79018V-1709.jpg",
+      "alt": "Celebrating 10 years of Tudor Heritage Black Bay watches",
+      "articleKey": 7,
+      "source": "https://www.fratellowatches.com/celebrating-10-years-of-the-tudor-black-bay/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "606d12ef55069ddb9affb5ee3ef8296bd61b4b2701caeb196c4bec26faa46c8d"
+    }
+  ]
+}
