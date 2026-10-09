@@ -36,11 +36,11 @@ watch models: punctuation/case duplicates collapse; M-prefixed aliases, base
 references and catalogue suffixes remain separate keys. Broad patterns require
 enumeration and source review; they are never counted as exact references.
 
-Current exact progress is in the generated coverage files: **195 identifier keys
-reviewed, 2,043 unreviewed; 149 source records reviewed, 2,298 unreviewed**. There are
-**546 catalogue assets: 515 verified, 22 pending and 9 rejected**, including 31
-legacy assets. Verified reference-key coverage: **front 168, movement 65, caseback
-141, bracelet/clasp 140**. Reviewed gaps describe the inspected source set, not a
+Current exact progress is in the generated coverage files: **198 identifier keys
+reviewed, 2,040 unreviewed; 152 source records reviewed, 2,295 unreviewed**. There are
+**550 catalogue assets: 519 verified, 22 pending and 9 rejected**, including 31
+legacy assets. Verified reference-key coverage: **front 170, movement 65, caseback
+142, bracelet/clasp 141**. Reviewed gaps describe the inspected source set, not a
 claim that no suitable image exists elsewhere. Existing textual research and
 pre-existing "verified" mapping badges do not verify photographs. Unreviewed
 categories are not counted as reviewed gaps.
@@ -272,3 +272,14 @@ M91650-0001 gallery photographs inspected. Two accepted photographs document
 the 41 mm silver-blue Arabic-dial 1926 front and steel bracelet/outer clasp.
 The obscured caseback and unphotographed movement remain empty; no neighbouring
 size or dial suffix inherits these images.
+
+The next research branch adds three inspected professional-seller Catawiki
+photographs for 34 mm Clair de Rose 35800 (front, closed caseback, outer clasp),
+corroborated by manufacturer specifications. `photograph-tudor-catawiki-sources.json`
+records all 23 gallery images inspected for that lot and a conflicting 12510
+listing; the latter is withheld because its description identifies 21010 instead.
+`photograph-tudor-prince-dealer-sources.json` records nine actual 76200 dealer
+gallery photographs inspected and one accepted silver-dial front. Its replacement
+leather strap is labelled, with no factory bracelet, production year or movement
+execution inferred. PR #9 is published at `f6ba5f03ef06be9e208449eeb92fa98cf9175ab8`
+with 515 photographs; these four later additions await validation and deployment.
