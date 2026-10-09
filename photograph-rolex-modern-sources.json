@@ -1,0 +1,2277 @@
+{
+  "reviewedAt": "2026-10-09T15:44:54.000997+00:00",
+  "completion": "IN PROGRESS",
+  "galleriesInspected": 10,
+  "imageOccurrencesInspected": 152,
+  "attachedSpecimens": [
+    {
+      "caseReference": "116610",
+      "documentedVariant": "116610LN",
+      "source": "https://www.bukowskis.com/en/auctions/647/6-rolex-submariner-ca-2019",
+      "specimenDescription": "Case size: 40 mm Material: steel Movement: automatic, caliber 3135 Year: circa 2019 Crystal: sapphire crystal Bracelet : Oyster bracelet, folding clasp, ref. 97200-W5T Reference number: 116610LN Serial number: 29'4Y8'393 Movement number: 35'66Q'676 Case number: 2360 Accompanied by: certificate, box, paper box The general impression is very good. Minor wear. For condition report contact specialist Carl  Palmegren Head Specialist Watches +46 (0)739 40 08 23 Email ",
+      "evidence": "All gallery photographs visually inspected; selected front, movement, back, clasp and case-stamp photographs inspected at full resolution. Bukowskis identifies 116610LN. Actual paired between-lug stamp 116610 documents the numeric case reference; suffix scope is explicitly limited to 116610LN. Case size: 40 mm Material: steel Movement: automatic, caliber 3135 Year: circa 2019 Crystal: sapphire crystal Bracelet : Oyster bracelet, folding clasp, ref. 97200-W5T Reference number: 116610LN Serial number: 29'4Y8'393 Movement number: 35'66Q'676 Case number: 2360 Accompanied by: certificate, box, paper box The general impression is very good. Minor wear. For condition report contact specialist Carl  Palmegren Head Specialist Watches +46 (0)739 40 08 23 Email  Source: https://www.bukowskis.com/en/auctions/647/6-rolex-submariner-ca-2019",
+      "acceptedPhotographIds": [
+        "bukowskis-modern-647-6-front-0",
+        "bukowskis-modern-647-6-caseback-10",
+        "bukowskis-modern-647-6-braceletClasp-4",
+        "bukowskis-modern-647-6-movement-11",
+        "bukowskis-modern-647-6-detail-14"
+      ],
+      "inspectedImages": [
+        {
+          "key": "647-6",
+          "reference": "116610LN",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/647/6-rolex-submariner-ca-2019",
+          "index": 0,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/5i4qtfZYv9ON_w8heyNaYOz4-y-Sr5P9qdGNp1lSUXo/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1474995-13132384_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ3NDk5NS8xMzEz/MjM4NF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "5672365810a221833358ac0cc7a198572787b55520039d97b3a5fdab2722da95"
+        },
+        {
+          "key": "647-6",
+          "reference": "116610LN",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/647/6-rolex-submariner-ca-2019",
+          "index": 1,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/fhitWsK4IJasCpFUJxaseYbgE9RbfoFOO-rHEZa-sNU/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1474995-13140324_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ3NDk5NS8xMzE0/MDMyNF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "ec24f4638b74afb8d856104c244560500238a420d898d1adb4110af0d73a9a0a"
+        },
+        {
+          "key": "647-6",
+          "reference": "116610LN",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/647/6-rolex-submariner-ca-2019",
+          "index": 2,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/UZ4R5f1IVxU3VKRj6PgUVQ5ApggR3YSvGaw1nLI9aPY/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1474995-13140325_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ3NDk5NS8xMzE0/MDMyNV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "77756790b57b2e7525ad920abda4f96f30af15ea161d6f913ccb850517239813"
+        },
+        {
+          "key": "647-6",
+          "reference": "116610LN",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/647/6-rolex-submariner-ca-2019",
+          "index": 3,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/6Ec6m2VWvkkobvJUVbVTXcTCOlI3omdAIRGtbFRDwO0/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1474995-13140326_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ3NDk5NS8xMzE0/MDMyNl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "cd0565630c5b98e536bee411192aee8ec5f0cc3f9f23d96d73d47ca7f8a222f3"
+        },
+        {
+          "key": "647-6",
+          "reference": "116610LN",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/647/6-rolex-submariner-ca-2019",
+          "index": 4,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/OFiTAPT6xtuKaOqMtyPTMLeJLPggP7a2x-3I9w12O1o/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1474995-13140327_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ3NDk5NS8xMzE0/MDMyN19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "c117a9ff93cf77dfa19070dbed8ce87f8b05745fcfbf4ccf8c80a016e90d06db"
+        },
+        {
+          "key": "647-6",
+          "reference": "116610LN",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/647/6-rolex-submariner-ca-2019",
+          "index": 5,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/-ShtxZ_hdxxAy713e4i-W0XOv5-wDUZFPxwXwZPMTDk/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1474995-13140329_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ3NDk5NS8xMzE0/MDMyOV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "9ae215017a33d0bbd226f9b9e9a3ef41a2d8ca652d1d00f332d02c4b76cb591f"
+        },
+        {
+          "key": "647-6",
+          "reference": "116610LN",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/647/6-rolex-submariner-ca-2019",
+          "index": 6,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/_6zhOuNsw_6FSSJNZen2U4N_PlxcnW5leAtomQc336s/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1474995-13140328_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ3NDk5NS8xMzE0/MDMyOF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "f8ac82a34e50f4f12a6ee4ec12e68720642dbdd12e569706dbe6df273a244398"
+        },
+        {
+          "key": "647-6",
+          "reference": "116610LN",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/647/6-rolex-submariner-ca-2019",
+          "index": 7,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/7JxO_m1-7YKzIKE_9M4sddvVPfT-jS8h9HkA7aD0iiM/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1474995-13140330_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ3NDk5NS8xMzE0/MDMzMF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "9333a292a9832126b4465192d50156db3acc8b5f81a35bd7c373e082ad6d61e4"
+        },
+        {
+          "key": "647-6",
+          "reference": "116610LN",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/647/6-rolex-submariner-ca-2019",
+          "index": 8,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/6bVECl8sqj-uB6Nh_jq060v2k1tu1-ZGKKXHd-5B184/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1474995-13140331_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ3NDk5NS8xMzE0/MDMzMV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "55f01401fd6545cb38936bfb234b77145e6bfaee3691d2301c72df33428fdfbb"
+        },
+        {
+          "key": "647-6",
+          "reference": "116610LN",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/647/6-rolex-submariner-ca-2019",
+          "index": 9,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/yqcWkpuHHnhpSikW4kxCPVr--hAiTTXnVA4IACbVKs4/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1474995-13140332_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ3NDk5NS8xMzE0/MDMzMl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "73248e44099bfb408c3d419f3b42f6c1facdb62833aa4080c2e714234f969990"
+        },
+        {
+          "key": "647-6",
+          "reference": "116610LN",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/647/6-rolex-submariner-ca-2019",
+          "index": 10,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/P9NfXioBfBcdnF5872tGQM5EQ5p1H4iWNSf4HcISEpg/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1474995-13141867_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ3NDk5NS8xMzE0/MTg2N19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "ad5fdb966bde42952deaf3b0ede4202401b63465ca24414c4cde7c06eb582260"
+        },
+        {
+          "key": "647-6",
+          "reference": "116610LN",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/647/6-rolex-submariner-ca-2019",
+          "index": 11,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/GsfwPT_ZJU4wNSgTjfTHlgADM1kA6lSgpYAJEJnhp3M/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1474995-13141868_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ3NDk5NS8xMzE0/MTg2OF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "268be12b44f125f03c52e63af5538c71c0ae3a2eb45d371189fbb1593fcd418b"
+        },
+        {
+          "key": "647-6",
+          "reference": "116610LN",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/647/6-rolex-submariner-ca-2019",
+          "index": 12,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/L9XXcniK0qDEUcUiLDub2vkql7Aqly00hVu3dYrc5G4/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1474995-13141869_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ3NDk5NS8xMzE0/MTg2OV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "c42bbf5ec2eda27fb89c4fc5b40f05f532b4b60efb14d655853f3332eef11624"
+        },
+        {
+          "key": "647-6",
+          "reference": "116610LN",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/647/6-rolex-submariner-ca-2019",
+          "index": 13,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/K6OUBCAR1fockiAhJ0Zx6TEaKEbD2xyvtBD34eJDfaw/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1474995-13141870_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ3NDk5NS8xMzE0/MTg3MF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            1867,
+            1867
+          ],
+          "sha256": "ff20a7e20e99f706bc54b3384ac0333c96f7901dc30045c989aaf113b85e7484"
+        },
+        {
+          "key": "647-6",
+          "reference": "116610LN",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/647/6-rolex-submariner-ca-2019",
+          "index": 14,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/jD_VYM8t-SKsDmjH8B5YL8xLBMfq2TnAC9AMQSpgCuo/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1474995-13141871_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ3NDk5NS8xMzE0/MTg3MV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            1806,
+            1806
+          ],
+          "sha256": "a23ad89c8fdaeffe2103208dbb67b5f3bb58066611f33cb780a76eef32ad3b05"
+        },
+        {
+          "key": "647-6",
+          "reference": "116610LN",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/647/6-rolex-submariner-ca-2019",
+          "index": 15,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/UaU_X90GEjtg0iRQnGd86RXKjNNkrksh4LT_YnpgfQs/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1474995-13141872_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ3NDk5NS8xMzE0/MTg3Ml9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "42c953df5a1fcc67e25ae463ef036d4fd3429a102e124ee50df262df778e316b"
+        }
+      ]
+    },
+    {
+      "caseReference": "116610",
+      "documentedVariant": "116610LV",
+      "source": "https://www.bukowskis.com/en/auctions/638/11-rolex-submariner-hulk-ca-2014",
+      "specimenDescription": "Case size: 40 mm Material: steel Movement: automatic, caliber 3135 Year: circa 2014 Crystal: sapphire crystal Bracelet: Oyster bracelet, folding clasp, ref. 97200-P4J Reference number: 116610LV Serial number: 20'036'7J8 Movement number: 12'Y60'1F2 Case number: 2360 Accompanied by: certificate, box, paper box Watches have been opened to examine movements therefore no warranties are made that the watches are water-resistant. Potential buyers should inspect each watch to satisfy themselves as to condition. For more information, please read our Conditions of Purchase. For condition report contact specialist Carl  Palmegren Head Specialist Watches +46 (0)739 40 08 23 Email ",
+      "evidence": "All gallery photographs visually inspected; selected front, movement, back, clasp and case-stamp photographs inspected at full resolution. Bukowskis identifies 116610LV. Actual paired between-lug stamp 116610 documents the numeric case reference; suffix scope is explicitly limited to 116610LV. Case size: 40 mm Material: steel Movement: automatic, caliber 3135 Year: circa 2014 Crystal: sapphire crystal Bracelet: Oyster bracelet, folding clasp, ref. 97200-P4J Reference number: 116610LV Serial number: 20'036'7J8 Movement number: 12'Y60'1F2 Case number: 2360 Accompanied by: certificate, box, paper box Watches have been opened to examine movements therefore no warranties are made that the watches are water-resistant. Potential buyers should inspect each watch to satisfy themselves as to condition. For more information, please read our Conditions of Purchase. For condition report contact specialist Carl  Palmegren Head Specialist Watches +46 (0)739 40 08 23 Email  Source: https://www.bukowskis.com/en/auctions/638/11-rolex-submariner-hulk-ca-2014",
+      "acceptedPhotographIds": [
+        "bukowskis-modern-638-11-front-0",
+        "bukowskis-modern-638-11-caseback-12",
+        "bukowskis-modern-638-11-braceletClasp-6",
+        "bukowskis-modern-638-11-movement-11",
+        "bukowskis-modern-638-11-detail-13"
+      ],
+      "inspectedImages": [
+        {
+          "key": "638-11",
+          "reference": "116610LV",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/638/11-rolex-submariner-hulk-ca-2014",
+          "index": 0,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/WTTY4RbXHNCTrkTy3pHQrmf5rxuB1c11Hayt9xa8doU/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1389426-12925619_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM4OTQyNi8xMjky/NTYxOV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "578a8d25e1a0d48a4276f7233ee22097e827de5d8e0cf6b5741168e7a161dcb2"
+        },
+        {
+          "key": "638-11",
+          "reference": "116610LV",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/638/11-rolex-submariner-hulk-ca-2014",
+          "index": 1,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/eOpCxq-FmT6aSowJgPmy5tJ3s0ksmD2l5t7oz1Vjyxs/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1389426-12904418_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM4OTQyNi8xMjkw/NDQxOF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "6b8612cc59a725763a600fb2a8a4500e41e30aca58ce77879c6e0a74846c0d0e"
+        },
+        {
+          "key": "638-11",
+          "reference": "116610LV",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/638/11-rolex-submariner-hulk-ca-2014",
+          "index": 2,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/PWDGMgPp7hDiU5LMSTgCL6mq7NTV2UHHPmevAlZ9Guc/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1389426-12904419_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM4OTQyNi8xMjkw/NDQxOV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "37803aba0dcc8dfa4a37a674cf2619dad1940d0806694e0bc4c4ffde0f916612"
+        },
+        {
+          "key": "638-11",
+          "reference": "116610LV",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/638/11-rolex-submariner-hulk-ca-2014",
+          "index": 3,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/juh_y5B6rAGZm0TXVriKuLatrUUMZQWfh4cZ5eDMTK8/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1389426-12904420_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM4OTQyNi8xMjkw/NDQyMF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "481a3a3629d41fb7c6233969506e48c31382a3fc9c2b89e7aade7698ae0759f0"
+        },
+        {
+          "key": "638-11",
+          "reference": "116610LV",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/638/11-rolex-submariner-hulk-ca-2014",
+          "index": 4,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/fheNPVd-eMrdIltqnWIrvElj7GZY9vndT18LCgKwkm4/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1389426-12904421_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM4OTQyNi8xMjkw/NDQyMV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "06ed2b88285240e9474f6aef4cc812ae8b5c76f1e353759184332a237613f13f"
+        },
+        {
+          "key": "638-11",
+          "reference": "116610LV",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/638/11-rolex-submariner-hulk-ca-2014",
+          "index": 5,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/pSj4Vg7sPo4GiLsalHFAwpCJcVPTDFMMLPPV7YMfTmc/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1389426-12904422_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM4OTQyNi8xMjkw/NDQyMl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "24b5a426bd95b2d1bc233ad08a2c73df9cd228fe3c7505c99a8e5573d1a2d66e"
+        },
+        {
+          "key": "638-11",
+          "reference": "116610LV",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/638/11-rolex-submariner-hulk-ca-2014",
+          "index": 6,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/6al9pIh-oqRlm9ERq0SrRQFyzyF8h_a3yTdIHPwdamk/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1389426-12904423_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM4OTQyNi8xMjkw/NDQyM19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "647aa4b19a5d8917dd4b3e59e48e6d63a00febd3ae3f27db50789e73c2653fcd"
+        },
+        {
+          "key": "638-11",
+          "reference": "116610LV",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/638/11-rolex-submariner-hulk-ca-2014",
+          "index": 7,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/Sl9k2INsv1Bym5Ix9Y6Vyu77h5860riC76KEvZV1jJM/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1389426-12904424_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM4OTQyNi8xMjkw/NDQyNF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "ab4bc3fe04f21223f40963a21d9ae481d122193c9fb8aeec0bae5fc51f79c287"
+        },
+        {
+          "key": "638-11",
+          "reference": "116610LV",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/638/11-rolex-submariner-hulk-ca-2014",
+          "index": 8,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/MFZaqrtu3ZHZ0KcjvJn4O5ks4Hx-bUyUJCg0rUbBqw8/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1389426-12904425_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM4OTQyNi8xMjkw/NDQyNV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "a65797464bf24da7bee428b1766158ea1737b1080ce4fad0c5b709a91fa65643"
+        },
+        {
+          "key": "638-11",
+          "reference": "116610LV",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/638/11-rolex-submariner-hulk-ca-2014",
+          "index": 9,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/0YyQjK5bD0DhBhZzpY5vo5j6OFBbyqZvLIhLzBjXLII/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1389426-12904426_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM4OTQyNi8xMjkw/NDQyNl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "f7f7cfaa82db87ca7e700e8a1e89b2e545e102fda2064ca070c0832c912eb581"
+        },
+        {
+          "key": "638-11",
+          "reference": "116610LV",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/638/11-rolex-submariner-hulk-ca-2014",
+          "index": 10,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/KFj5WtalSLSRz8-thTv5oS6teIGzXv-zHcXliP9ubz8/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1389426-12904427_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM4OTQyNi8xMjkw/NDQyN19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "1be4867e3504e83b4a85146612022cc5a7c7f90eee8f5c0722ca5afa41a6bb6d"
+        },
+        {
+          "key": "638-11",
+          "reference": "116610LV",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/638/11-rolex-submariner-hulk-ca-2014",
+          "index": 11,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/ZuTFNiqUSmgWpVFjxvepR_0ojg6e8oFVgxlB1JijJZM/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1389426-12904428_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM4OTQyNi8xMjkw/NDQyOF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "267562ba44d9a7880bb254c2eaceb064ac7f5a45fb0dd10497efb4687c717424"
+        },
+        {
+          "key": "638-11",
+          "reference": "116610LV",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/638/11-rolex-submariner-hulk-ca-2014",
+          "index": 12,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/6KUToIPH2WmJky4uR3nJzFodkXr43JwjtqvLzr2mnH0/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1389426-12904429_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM4OTQyNi8xMjkw/NDQyOV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            1999,
+            2000
+          ],
+          "sha256": "d1f84007cb7ad7d76ad49aa2cf1aabb9e09a057807f5ed6804f7a668ea2c9039"
+        },
+        {
+          "key": "638-11",
+          "reference": "116610LV",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/638/11-rolex-submariner-hulk-ca-2014",
+          "index": 13,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/MxA2IgarYv5Yks1c3qhjZkGTFSZy7BADY8ym4bOIbeQ/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1389426-12904430_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM4OTQyNi8xMjkw/NDQzMF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "f5f9c69d1ee4eae8bf570f4286b108ee9777c9d2620117039102cd1836818e03"
+        },
+        {
+          "key": "638-11",
+          "reference": "116610LV",
+          "candidateCaseKey": "116610",
+          "source": "https://www.bukowskis.com/en/auctions/638/11-rolex-submariner-hulk-ca-2014",
+          "index": 14,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/wMh4-uWANXUUxm0UBYhKHX0lT8nSx_TY0APayJATmkc/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1389426-12904431_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTM4OTQyNi8xMjkw/NDQzMV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "181a5ba0f6af6364de75853748a77976c83218e3991a9e6bc57654769c922601"
+        }
+      ]
+    },
+    {
+      "caseReference": "116500",
+      "documentedVariant": "116500LN",
+      "source": "https://www.bukowskis.com/en/auctions/627/65-rolex-cosmograph-daytona-chronograph",
+      "specimenDescription": "Case size: 40 mm Material: steel Movement: automatic, caliber 4130 Year: circa 2016 Crystal: sapphire crystal Bracelet: Oyster bracelet, folding clasp, ref. 78590-368/853 Reference number: 116500LN Serial number: 39'Q1X'072 Accompanied by: certificate, box, paper box The movement is running at the time of cataloguing, Bukowski’s does not guarantee the future working of the movement and please note that a service may be required, at buyer’s expense. For detailed condition report, please contact specialist. For condition report contact specialist Carl  Palmegren Head Specialist Watches +46 (0)739 40 08 23 Email ",
+      "evidence": "All gallery photographs visually inspected; selected front, movement, back, clasp and case-stamp photographs inspected at full resolution. Bukowskis identifies 116500LN. Actual paired between-lug stamp 116500 documents the numeric case reference; suffix scope is explicitly limited to 116500LN. Case size: 40 mm Material: steel Movement: automatic, caliber 4130 Year: circa 2016 Crystal: sapphire crystal Bracelet: Oyster bracelet, folding clasp, ref. 78590-368/853 Reference number: 116500LN Serial number: 39'Q1X'072 Accompanied by: certificate, box, paper box The movement is running at the time of cataloguing, Bukowski’s does not guarantee the future working of the movement and please note that a service may be required, at buyer’s expense. For detailed condition report, please contact specialist. For condition report contact specialist Carl  Palmegren Head Specialist Watches +46 (0)739 40 08 23 Email  Source: https://www.bukowskis.com/en/auctions/627/65-rolex-cosmograph-daytona-chronograph",
+      "acceptedPhotographIds": [
+        "bukowskis-modern-627-65-front-0",
+        "bukowskis-modern-627-65-caseback-14",
+        "bukowskis-modern-627-65-braceletClasp-7",
+        "bukowskis-modern-627-65-movement-12",
+        "bukowskis-modern-627-65-detail-15"
+      ],
+      "inspectedImages": [
+        {
+          "key": "627-65",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/627/65-rolex-cosmograph-daytona-chronograph",
+          "index": 0,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/ZerwE_Rlw4trw10rW_v0OVkF5LGMzWwuMuamNyPhGyg/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263987-12150238_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk4Ny8xMjE1/MDIzOF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "a3159f861c3dcd008bd2af29ffba8bacd6650b9c7a0a29d8d930f4f8ca4347c4"
+        },
+        {
+          "key": "627-65",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/627/65-rolex-cosmograph-daytona-chronograph",
+          "index": 1,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/m5TKaAYYc2oX1Urp40hs2_3Cm0xA1ECSK2pOrmH3LIY/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263987-12133533_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk4Ny8xMjEz/MzUzM19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "3f758dea17452edbf99fd6b2c0b83266e36293543a8fb5adb093565835e7782c"
+        },
+        {
+          "key": "627-65",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/627/65-rolex-cosmograph-daytona-chronograph",
+          "index": 2,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/YJe4TW39kVpPyxXMvzVjOI86vX69n3PedloHfg-0PBw/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263987-12133534_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk4Ny8xMjEz/MzUzNF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "0ceb972e8303bf279e81c49126ba7e424099afdd225038683de52dff6b253358"
+        },
+        {
+          "key": "627-65",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/627/65-rolex-cosmograph-daytona-chronograph",
+          "index": 3,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/hj132ZGwj7XcF80pLt0r9_abuZCg3AePYaLrszC-Eug/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263987-12133535_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk4Ny8xMjEz/MzUzNV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "b361a861ae9da3203dad62a9e2a5b91e2ad611cb586cf6e53cece6b9e07e4da6"
+        },
+        {
+          "key": "627-65",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/627/65-rolex-cosmograph-daytona-chronograph",
+          "index": 4,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/CuICD1hopq_cT3-iqOFJ9iw3AnLScToTy4HY0C925as/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263987-12133536_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk4Ny8xMjEz/MzUzNl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "7994171bb5e8f51b833b6ff26da717bc702e4dddac7557f2c9ab7f053af9ef8e"
+        },
+        {
+          "key": "627-65",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/627/65-rolex-cosmograph-daytona-chronograph",
+          "index": 5,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/L1F5BQbsvGma8xaL2yYz3Lv65NVyTP2dsIxX-B0zv08/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263987-12133537_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk4Ny8xMjEz/MzUzN19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "a997a2d85ec05c805a23c8bc3f826086df15e328ea1a7f140a96052e5c89ee24"
+        },
+        {
+          "key": "627-65",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/627/65-rolex-cosmograph-daytona-chronograph",
+          "index": 6,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/6o9NvVj7VFiHSPWoDXiDn2qX7Fh5FjEp6VbBTDU3uxQ/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263987-12133538_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk4Ny8xMjEz/MzUzOF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "adc8e3163295f2746b7e833efc9b1e3707d35d9184efa472f4f2bebb78ba1184"
+        },
+        {
+          "key": "627-65",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/627/65-rolex-cosmograph-daytona-chronograph",
+          "index": 7,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/mdq5hw7ZhGETYCdVPy0xN0198-eaSGTWW2dqGdgwpGc/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263987-12133539_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk4Ny8xMjEz/MzUzOV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "821a7a4c56c9955942b069e2c5ea2c40171b3bb8544d54a33c066df8db34d0dc"
+        },
+        {
+          "key": "627-65",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/627/65-rolex-cosmograph-daytona-chronograph",
+          "index": 8,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/zmIBg2QTTzxnCaBpk77yAnrqkLIEnRjFr3J3EGn-qJE/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263987-12133540_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk4Ny8xMjEz/MzU0MF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "1d4339936876a643e73ef8298e8c26364811fda80f89e917303a1df351e8fb8e"
+        },
+        {
+          "key": "627-65",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/627/65-rolex-cosmograph-daytona-chronograph",
+          "index": 9,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/QlsX6YFsBrbrbmHxE7liYeGBDMflOqTFo51ChoKl3oY/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263987-12133541_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk4Ny8xMjEz/MzU0MV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "262ecd66284672ce5e55d9d29b51be6e5b346cd10edaedce98ff0f939703f9b5"
+        },
+        {
+          "key": "627-65",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/627/65-rolex-cosmograph-daytona-chronograph",
+          "index": 10,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/_fNZlflYB71Q3N3cxNEVTJGJX4MNx80NEQjrkUUxKIc/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263987-12133542_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk4Ny8xMjEz/MzU0Ml9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "6acbab99e4ff5848526b31d03036374d349162b01a1da9f0e27c5ed6da53f55f"
+        },
+        {
+          "key": "627-65",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/627/65-rolex-cosmograph-daytona-chronograph",
+          "index": 11,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/fw-x4yC1dHg3ZfVnA1V7E-lbnnRLb-gUFUtmztn_VOI/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263987-12133545_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk4Ny8xMjEz/MzU0NV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "abdf9d38fb96f68382751d362032b21c6b46c5885630043386f10e46b327285b"
+        },
+        {
+          "key": "627-65",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/627/65-rolex-cosmograph-daytona-chronograph",
+          "index": 12,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/HUCg6_mcYQaxLjMaIHeuGz6I7g-m0R5Dg9HOO12O1Gw/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263987-12150665_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk4Ny8xMjE1/MDY2NV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "e90ac3cc5d313fada20f9d860d584f1ff07dab43361c0b31e01d44a9cbd93b7f"
+        },
+        {
+          "key": "627-65",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/627/65-rolex-cosmograph-daytona-chronograph",
+          "index": 13,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/xuWbnDfCS_2oCSavyTXoAo1cA_MUmXERg5WjAtgeco4/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263987-12150666_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk4Ny8xMjE1/MDY2Nl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "b37f1526305b91e5144596dcd1ccad0881a17d74ab587a968d7f7a108262f725"
+        },
+        {
+          "key": "627-65",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/627/65-rolex-cosmograph-daytona-chronograph",
+          "index": 14,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/R2YId5zpZWGkt-mECAVLf7UKSCKvwR8njGBXb0oqk9w/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263987-12150667_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk4Ny8xMjE1/MDY2N19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "9185e23d728267b10116530c3cb76ed5a553085d229d18a93bd33592de80cd45"
+        },
+        {
+          "key": "627-65",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/627/65-rolex-cosmograph-daytona-chronograph",
+          "index": 15,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/ooEWtB-KRat3jeKxorkqSDIxIf-VaoVb5iZXe-eZXcs/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263987-12150669_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk4Ny8xMjE1/MDY2OV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "2097f2683a5658085cc098b23191561cfeac0dd79029c19908a7e7b4c193cb0b"
+        },
+        {
+          "key": "627-65",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/627/65-rolex-cosmograph-daytona-chronograph",
+          "index": 16,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/jP6u-0AqIhZSLUL9l9xYqeISmx78gLXQFXz61g4Yz78/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263987-12150668_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk4Ny8xMjE1/MDY2OF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "22075560877580599a9593e2c2a6155eb1ee224cc5e0950ffe55f9cbc05f6661"
+        },
+        {
+          "key": "627-65",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/627/65-rolex-cosmograph-daytona-chronograph",
+          "index": 17,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/tvjuP6nBybcpxBn3On06qbJ3MwojqXAcHvmy_cq6PPk/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263987-12150670_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk4Ny8xMjE1/MDY3MF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "15ce37e53ce6309d52c5ea83fa2510c7f366de7f931052db3e631dec0b2d8dd2"
+        },
+        {
+          "key": "627-65",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/627/65-rolex-cosmograph-daytona-chronograph",
+          "index": 18,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/XA7i-9Wu4dWCHAT8ogKKvgaQGgCwLkHsmCvjiy_qZvA/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263987-12151161_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk4Ny8xMjE1/MTE2MV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            1526
+          ],
+          "sha256": "cb709b01e2bc8b59b0bb896b541db57d8d88a07ffc34ada99f0c23dbec8a5a07"
+        },
+        {
+          "key": "627-65",
+          "reference": "116500LN",
+          "candidateCaseKey": "116500",
+          "source": "https://www.bukowskis.com/en/auctions/627/65-rolex-cosmograph-daytona-chronograph",
+          "index": 19,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/fkVF78VBMwrBrGbkD6myFOXNqZcNI6OW0yl-rmvQhCg/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263987-12151162_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk4Ny8xMjE1/MTE2Ml9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            1261
+          ],
+          "sha256": "148a16da51f9604742caa67434c3ce498e795a6d4ef4ba5d347d047b0981a878"
+        }
+      ]
+    },
+    {
+      "caseReference": "116613",
+      "documentedVariant": "116613LN",
+      "source": "https://www.bukowskis.com/en/auctions/627/11-rolex-submariner",
+      "specimenDescription": "Case size: 40 mm Material: steel/gold Movement: automatic, caliber 3135 Year: circa 2015 Crystal: sapphire crystal Bracelet : Oyster bracelet, folding clasp, ref. 97203-1NH/V6C Reference number: 116613LN Serial number: 5X'W28'014 Movement number: 63'81R'733 Case number: 2360 The movement is running at the time of cataloguing, Bukowski’s does not guarantee the future working of the movement and please note that a service may be required, at buyer’s expense. For detailed condition report, please contact specialist. For condition report contact specialist Carl  Palmegren Head Specialist Watches +46 (0)739 40 08 23 Email ",
+      "evidence": "All gallery photographs visually inspected; selected front, movement, back, clasp and case-stamp photographs inspected at full resolution. Bukowskis identifies 116613LN. Actual paired between-lug stamp 116613 documents the numeric case reference; suffix scope is explicitly limited to 116613LN. Case size: 40 mm Material: steel/gold Movement: automatic, caliber 3135 Year: circa 2015 Crystal: sapphire crystal Bracelet : Oyster bracelet, folding clasp, ref. 97203-1NH/V6C Reference number: 116613LN Serial number: 5X'W28'014 Movement number: 63'81R'733 Case number: 2360 The movement is running at the time of cataloguing, Bukowski’s does not guarantee the future working of the movement and please note that a service may be required, at buyer’s expense. For detailed condition report, please contact specialist. For condition report contact specialist Carl  Palmegren Head Specialist Watches +46 (0)739 40 08 23 Email  Source: https://www.bukowskis.com/en/auctions/627/11-rolex-submariner",
+      "acceptedPhotographIds": [
+        "bukowskis-modern-627-11-front-0",
+        "bukowskis-modern-627-11-caseback-11",
+        "bukowskis-modern-627-11-braceletClasp-7",
+        "bukowskis-modern-627-11-movement-9",
+        "bukowskis-modern-627-11-detail-12"
+      ],
+      "inspectedImages": [
+        {
+          "key": "627-11",
+          "reference": "116613LN",
+          "candidateCaseKey": "116613",
+          "source": "https://www.bukowskis.com/en/auctions/627/11-rolex-submariner",
+          "index": 0,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/IYuuxYBzTWV-jN4bf2jKR0sSE54FUcuqVQrviwqDg4s/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263992-12150241_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk5Mi8xMjE1/MDI0MV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "4a8e55d893166d4ce0cad2787cf8905744b11c841b704726642ef5d71ca317f9"
+        },
+        {
+          "key": "627-11",
+          "reference": "116613LN",
+          "candidateCaseKey": "116613",
+          "source": "https://www.bukowskis.com/en/auctions/627/11-rolex-submariner",
+          "index": 1,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/n1S9KIPKaC_IVSUB2GrwqaPDoMU5ZxM64CRQGUv1SGM/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263992-12133560_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk5Mi8xMjEz/MzU2MF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "b9290382a002fd5baf896c61a6b01b98e842447756b836f5f39bc1a487626141"
+        },
+        {
+          "key": "627-11",
+          "reference": "116613LN",
+          "candidateCaseKey": "116613",
+          "source": "https://www.bukowskis.com/en/auctions/627/11-rolex-submariner",
+          "index": 2,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/F5YL9KTq8XpUHoByMYPBsvUo0yDBGyELmqCeHDqAzHs/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263992-12133561_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk5Mi8xMjEz/MzU2MV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "42e79f8eb99ccf0ff68a729283a343e68c68866331ca8cac67cb1210ba1f5b4c"
+        },
+        {
+          "key": "627-11",
+          "reference": "116613LN",
+          "candidateCaseKey": "116613",
+          "source": "https://www.bukowskis.com/en/auctions/627/11-rolex-submariner",
+          "index": 3,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/YFKkFrUS5X3AAof0cSB17sTTwid_VveUuqPS7JAbQO8/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263992-12133562_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk5Mi8xMjEz/MzU2Ml9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "3e8358325245e2939cb8febb43fae3f332637c74fcf40161ecbb143abdc539eb"
+        },
+        {
+          "key": "627-11",
+          "reference": "116613LN",
+          "candidateCaseKey": "116613",
+          "source": "https://www.bukowskis.com/en/auctions/627/11-rolex-submariner",
+          "index": 4,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/ljFhGy8_Yrg8ozbYsV2FvczHpkBzbtkWse78AXoETQo/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263992-12133563_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk5Mi8xMjEz/MzU2M19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "37104d4ea608d1d6c7d884cd7f90e76855bc0646d371b9ca7d8c27a1eae621ba"
+        },
+        {
+          "key": "627-11",
+          "reference": "116613LN",
+          "candidateCaseKey": "116613",
+          "source": "https://www.bukowskis.com/en/auctions/627/11-rolex-submariner",
+          "index": 5,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/boEdI8uY028_unZheNQ9CAyEVbZsbIyZ1PPU6RSNRBs/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263992-12133564_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk5Mi8xMjEz/MzU2NF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "491cefc4df585cc42f3fbf7c6a9d4d908b0c373b6b388396f1d57ae627238136"
+        },
+        {
+          "key": "627-11",
+          "reference": "116613LN",
+          "candidateCaseKey": "116613",
+          "source": "https://www.bukowskis.com/en/auctions/627/11-rolex-submariner",
+          "index": 6,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/bZWbd6vIKUBBl8oTtG1h-lGb2G0GjyaNNqmcANGFwck/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263992-12133565_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk5Mi8xMjEz/MzU2NV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "a4128cdad0797ee5d0b1aceb19ae310e13744f5d6c1d71d48710759723b9c18b"
+        },
+        {
+          "key": "627-11",
+          "reference": "116613LN",
+          "candidateCaseKey": "116613",
+          "source": "https://www.bukowskis.com/en/auctions/627/11-rolex-submariner",
+          "index": 7,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/5r-iTTxF9iYCVxeqbmcagZnTCtaS3HTPlIy20pkZOFk/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263992-12133567_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk5Mi8xMjEz/MzU2N19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "f5aac010629db67625643e1d459f5adbb27e8115ce444c98ff1020b485bef55c"
+        },
+        {
+          "key": "627-11",
+          "reference": "116613LN",
+          "candidateCaseKey": "116613",
+          "source": "https://www.bukowskis.com/en/auctions/627/11-rolex-submariner",
+          "index": 8,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/IgNto3xT7h7KuDCvy5kyD1SzrleljF3zkHz0BpqZFC8/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263992-12133566_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk5Mi8xMjEz/MzU2Nl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "0a95bd8e843b41dd4bd8336e1bbf941574d43fcb2d618d02b46c058449c5824f"
+        },
+        {
+          "key": "627-11",
+          "reference": "116613LN",
+          "candidateCaseKey": "116613",
+          "source": "https://www.bukowskis.com/en/auctions/627/11-rolex-submariner",
+          "index": 9,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/qnhb4YKNN0ElX7p5ZRJoNep2fWAUFSKhhUvh7cuJnQY/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263992-12150680_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk5Mi8xMjE1/MDY4MF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "8f555b9a7606d12818d684a5c364ee553ed9bdcb4a662d860240e764026bbe3a"
+        },
+        {
+          "key": "627-11",
+          "reference": "116613LN",
+          "candidateCaseKey": "116613",
+          "source": "https://www.bukowskis.com/en/auctions/627/11-rolex-submariner",
+          "index": 10,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/MMY5t6azvZyBOn97uYBq1CEizBj4JWZHxBXLNrfPN8U/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263992-12150681_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk5Mi8xMjE1/MDY4MV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "f7c88d78d5802eb48bfcdaa2f1f52802bf7eda1981f9f2a8023073f1a4e7ae0f"
+        },
+        {
+          "key": "627-11",
+          "reference": "116613LN",
+          "candidateCaseKey": "116613",
+          "source": "https://www.bukowskis.com/en/auctions/627/11-rolex-submariner",
+          "index": 11,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/3TbDAqEc2tahfVvK9m2R6lGEtzkkhC1bdIgTOrsgwmk/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263992-12150682_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk5Mi8xMjE1/MDY4Ml9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "4b4a760c351cfbd54513e0e989e356c7fe074c865859d77b0020b61816501ccc"
+        },
+        {
+          "key": "627-11",
+          "reference": "116613LN",
+          "candidateCaseKey": "116613",
+          "source": "https://www.bukowskis.com/en/auctions/627/11-rolex-submariner",
+          "index": 12,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/B4R3spIhJ0Oan-7Snj0eikTaEVzFuvXL1pnn03cBngE/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263992-12150684_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk5Mi8xMjE1/MDY4NF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "2c36adcb08e748fdc3c44532265141d8c0cf4a9a6f5a5efa9c9e7790220bd794"
+        },
+        {
+          "key": "627-11",
+          "reference": "116613LN",
+          "candidateCaseKey": "116613",
+          "source": "https://www.bukowskis.com/en/auctions/627/11-rolex-submariner",
+          "index": 13,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/Zs2H9Pu0tRwkHEPMx-hIx5gIXlw4PuUVwepPxiFnLao/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263992-12150683_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk5Mi8xMjE1/MDY4M19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "439adadaa73080604a71815c26c9115ed52bf009ca08a0292c958229f6c7dbff"
+        },
+        {
+          "key": "627-11",
+          "reference": "116613LN",
+          "candidateCaseKey": "116613",
+          "source": "https://www.bukowskis.com/en/auctions/627/11-rolex-submariner",
+          "index": 14,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/Hbgn52Unj14yKGB4c-uq6pPmHcxHUgCBs9gpgl3uOrE/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1263992-12150685_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTI2Mzk5Mi8xMjE1/MDY4NV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "a76bb1eb78cc785203ad5967799f4aba34d94bf48469ed2c9aa1fc16d6a72d8a"
+        }
+      ]
+    },
+    {
+      "caseReference": "126610",
+      "documentedVariant": "126610LV",
+      "source": "https://www.bukowskis.com/en/auctions/659/1080-rolex-submariner-starbucks-ca-2020",
+      "specimenDescription": "Case size: 41 mm Material: steel Movement: automatic, caliber 3235 Year: circa 2020 Crystal: sapphire crystal Bracelet: Oyster bracelet, folding clasp, ref. 97JB00-314/E0Z/U0X Reference number: 126610LV Serial number: 9D'34C'480 Movement number: 12'4V8'7P8 Case number: 2360 Accompanied by: certificate, box, outer box The general impression is good. The movement is running at the time of cataloguing, Bukowskis does not guarantee the future function of the movement. Please note that the movement has not been tested for timekeeping accuracy and may need a service at the buyer's expense. Watches have been opened to examine movements therefore no warranties are made that the watches are water-resistant. Potential buyers should inspect each watch to satisfy themselves as to condition. For more information, please read our Conditions of Purchase. For condition report contact specialist Simon Naeslund Specialist Watches +46 (0)735 95 68 75 Email ",
+      "evidence": "All gallery photographs visually inspected; selected front, movement, back, clasp and case-stamp photographs inspected at full resolution. Bukowskis identifies 126610LV. Actual paired between-lug stamp 126610 documents the numeric case reference; suffix scope is explicitly limited to 126610LV. Case size: 41 mm Material: steel Movement: automatic, caliber 3235 Year: circa 2020 Crystal: sapphire crystal Bracelet: Oyster bracelet, folding clasp, ref. 97JB00-314/E0Z/U0X Reference number: 126610LV Serial number: 9D'34C'480 Movement number: 12'4V8'7P8 Case number: 2360 Accompanied by: certificate, box, outer box The general impression is good. The movement is running at the time of cataloguing, Bukowskis does not guarantee the future function of the movement. Please note that the movement has not been tested for timekeeping accuracy and may need a service at the buyer's expense. Watches have been opened to examine movements therefore no warranties are made that the watches are water-resistant. Potential buyers should inspect each watch to satisfy themselves as to condition. For more information, please read our Conditions of Purchase. For condition report contact specialist Simon Naeslund Specialist Watches +46 (0)735 95 68 75 Email  Source: https://www.bukowskis.com/en/auctions/659/1080-rolex-submariner-starbucks-ca-2020",
+      "acceptedPhotographIds": [
+        "bukowskis-modern-659-1080-front-0",
+        "bukowskis-modern-659-1080-caseback-10",
+        "bukowskis-modern-659-1080-braceletClasp-6",
+        "bukowskis-modern-659-1080-movement-12",
+        "bukowskis-modern-659-1080-detail-14"
+      ],
+      "inspectedImages": [
+        {
+          "key": "659-1080",
+          "reference": "126610LV",
+          "candidateCaseKey": "126610",
+          "source": "https://www.bukowskis.com/en/auctions/659/1080-rolex-submariner-starbucks-ca-2020",
+          "index": 0,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/qhAg98ZvyHhs_hPj3mFfpUAZSYS2OnbCg2Gxrf3SL1c/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589594-13747650_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU5NC8xMzc0/NzY1MF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "eb8754675df4a3acf3c6919fb8125d644c48707c90f1a467fcd3b4baffdf398c"
+        },
+        {
+          "key": "659-1080",
+          "reference": "126610LV",
+          "candidateCaseKey": "126610",
+          "source": "https://www.bukowskis.com/en/auctions/659/1080-rolex-submariner-starbucks-ca-2020",
+          "index": 1,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/nVwudIKdR-OkD2Otsa9Mh5a1jlVNl8bi_8Os4pQlI6o/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589594-13760053_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU5NC8xMzc2/MDA1M19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "03a55086acf812f8ef5b29552b53bf3c3ef901f78ea6633d578f2121aaaeea26"
+        },
+        {
+          "key": "659-1080",
+          "reference": "126610LV",
+          "candidateCaseKey": "126610",
+          "source": "https://www.bukowskis.com/en/auctions/659/1080-rolex-submariner-starbucks-ca-2020",
+          "index": 2,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/MheDCKQFilhG-8mMFHj_q_Bprm5zw5zMQANoPYOXhd0/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589594-13760054_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU5NC8xMzc2/MDA1NF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "3f984c5f4c67158409efb78f46359f40b0c4cf29cdc4baf391fe4c6f3eaca01f"
+        },
+        {
+          "key": "659-1080",
+          "reference": "126610LV",
+          "candidateCaseKey": "126610",
+          "source": "https://www.bukowskis.com/en/auctions/659/1080-rolex-submariner-starbucks-ca-2020",
+          "index": 3,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/uIL5en5Ss8njHtr1Djzu8AsnW7xqf1xM4mFYAZoy6Gk/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589594-13760055_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU5NC8xMzc2/MDA1NV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "1dbf0810c048f184ba33a508fde10a7065006173aecfba149f7453f79460138a"
+        },
+        {
+          "key": "659-1080",
+          "reference": "126610LV",
+          "candidateCaseKey": "126610",
+          "source": "https://www.bukowskis.com/en/auctions/659/1080-rolex-submariner-starbucks-ca-2020",
+          "index": 4,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/UwGEJpRA2Ib-7VUGpXwxSCy1SWc1gGRi7Bj6THfr_7E/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589594-13760056_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU5NC8xMzc2/MDA1Nl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "bdfe7cadae4bc83d36b9eb47f40ac2452425748a5e121383f14fae9bb19b525b"
+        },
+        {
+          "key": "659-1080",
+          "reference": "126610LV",
+          "candidateCaseKey": "126610",
+          "source": "https://www.bukowskis.com/en/auctions/659/1080-rolex-submariner-starbucks-ca-2020",
+          "index": 5,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/PlOLYfpejgYeWbYtWKkaCc9395uHpzEQXofZpRuQs9Q/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589594-13760057_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU5NC8xMzc2/MDA1N19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "ca2b65f8cbecc7f43c986e831826103e9864c4de925d86e72677538d4960f482"
+        },
+        {
+          "key": "659-1080",
+          "reference": "126610LV",
+          "candidateCaseKey": "126610",
+          "source": "https://www.bukowskis.com/en/auctions/659/1080-rolex-submariner-starbucks-ca-2020",
+          "index": 6,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/i2iNKo3L8CCFPzl9ZEIikUCcDFZ-vmszUepe7xrHKpo/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589594-13760058_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU5NC8xMzc2/MDA1OF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "939c4bbd214ca566caf9edb4de47d45e37809307bae14c1dd9969a89b8af70f9"
+        },
+        {
+          "key": "659-1080",
+          "reference": "126610LV",
+          "candidateCaseKey": "126610",
+          "source": "https://www.bukowskis.com/en/auctions/659/1080-rolex-submariner-starbucks-ca-2020",
+          "index": 7,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/-A5AKKT0bOTR9Cw4vszhhmRmPLNmvvBebxRoKBEQHCY/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589594-13760059_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU5NC8xMzc2/MDA1OV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "5870582d7a0939783be3371f9749c286204a7c1272f557409b6725e2585dd916"
+        },
+        {
+          "key": "659-1080",
+          "reference": "126610LV",
+          "candidateCaseKey": "126610",
+          "source": "https://www.bukowskis.com/en/auctions/659/1080-rolex-submariner-starbucks-ca-2020",
+          "index": 8,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/1a0yu1V9LnaaY3FVyu2144rKdPZERGcz0JRs-wnV4jc/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589594-13760060_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU5NC8xMzc2/MDA2MF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "90c0eb2a733d853e7887703d944b24c33e95215cc3fe342377c18209f3e239e3"
+        },
+        {
+          "key": "659-1080",
+          "reference": "126610LV",
+          "candidateCaseKey": "126610",
+          "source": "https://www.bukowskis.com/en/auctions/659/1080-rolex-submariner-starbucks-ca-2020",
+          "index": 9,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/qEtmqV_SH8XhyH97sdh9ceSIcRaYPjVWNeZHSmjsS9s/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589594-13760061_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU5NC8xMzc2/MDA2MV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "74de05b93f6554724a7169b579bdd483f2b59ad33829d82d218d21a92b77e0c1"
+        },
+        {
+          "key": "659-1080",
+          "reference": "126610LV",
+          "candidateCaseKey": "126610",
+          "source": "https://www.bukowskis.com/en/auctions/659/1080-rolex-submariner-starbucks-ca-2020",
+          "index": 10,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/o3o3ui1A2Fk-o-N-5Iq6L75Oq8TviIqf3axPID_h-WQ/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589594-13763235_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU5NC8xMzc2/MzIzNV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "5a43272a39c240d6d7190a1a93118ded4b4bee5760564d01780824c9eac11fd0"
+        },
+        {
+          "key": "659-1080",
+          "reference": "126610LV",
+          "candidateCaseKey": "126610",
+          "source": "https://www.bukowskis.com/en/auctions/659/1080-rolex-submariner-starbucks-ca-2020",
+          "index": 11,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/Xax7rTI6yprxmlX1rd1O3IgrNxl4eMJcfpjcGFfh9gM/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589594-13763228_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU5NC8xMzc2/MzIyOF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "eb3e917c1efb86d8596e5edd374e48c29d03c584f9bf912aef3a71ad4132fa27"
+        },
+        {
+          "key": "659-1080",
+          "reference": "126610LV",
+          "candidateCaseKey": "126610",
+          "source": "https://www.bukowskis.com/en/auctions/659/1080-rolex-submariner-starbucks-ca-2020",
+          "index": 12,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/iCmLlY8UmRLqvke4SJGNw1fHE_3x_sd_anZZ7mxfPLk/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589594-13763227_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU5NC8xMzc2/MzIyN19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "6653c4c27bb74c6caf2208fb73ed3733306d318fbc110d9fbdb608e7e92c73e2"
+        },
+        {
+          "key": "659-1080",
+          "reference": "126610LV",
+          "candidateCaseKey": "126610",
+          "source": "https://www.bukowskis.com/en/auctions/659/1080-rolex-submariner-starbucks-ca-2020",
+          "index": 13,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/oJ_svUV_55Mo4W2WVskBSBjXVN-VYFmBUgtFdmAjSAE/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589594-13763226_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU5NC8xMzc2/MzIyNl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "716c0ef37d25f96b5f942858ed724c31bd927bb6bf1398eb2ffbbd1dd8d53000"
+        },
+        {
+          "key": "659-1080",
+          "reference": "126610LV",
+          "candidateCaseKey": "126610",
+          "source": "https://www.bukowskis.com/en/auctions/659/1080-rolex-submariner-starbucks-ca-2020",
+          "index": 14,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/-uj_QAclriDSeFMapfSm8RXKC9vz7EDvT5DrWeqZXVg/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589594-13763234_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU5NC8xMzc2/MzIzNF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "d09e87cdd4c449f742a109702d48c12fdd9bbc413cd596bc532cc28eb48e7da9"
+        },
+        {
+          "key": "659-1080",
+          "reference": "126610LV",
+          "candidateCaseKey": "126610",
+          "source": "https://www.bukowskis.com/en/auctions/659/1080-rolex-submariner-starbucks-ca-2020",
+          "index": 15,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/94NQodjyQHehR6dWvXOcV_vGMnmZxxgoAuICyWu8y_E/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589594-13763240_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU5NC8xMzc2/MzI0MF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            1677,
+            1677
+          ],
+          "sha256": "14419ae62763f5aaef22828d0cc9756fff2dcff409bf6524db43c0a80a2e8c81"
+        },
+        {
+          "key": "659-1080",
+          "reference": "126610LV",
+          "candidateCaseKey": "126610",
+          "source": "https://www.bukowskis.com/en/auctions/659/1080-rolex-submariner-starbucks-ca-2020",
+          "index": 16,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/0scfwfWOQQfkbRSVgFGYWFtRfYIzTTgEbWVuwgK8ZvY/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589594-13763231_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU5NC8xMzc2/MzIzMV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "3650cfa78a034e98d9e9b80cb00c2af394ae7e17b02743c7d9df18a21af86475"
+        }
+      ]
+    },
+    {
+      "caseReference": "126710",
+      "documentedVariant": "126710BLRO",
+      "source": "https://www.bukowskis.com/en/auctions/659/1076-rolex-gmt-master-ii-pepsi-ca-2018",
+      "specimenDescription": "Case size: 40 mm Material: steel Movement: automatic, caliber 3285 Year: circa 2018 Crystal: sapphire crystal Bracelet: Jubilee bracelet, folding clasp, ref. 69200-1NQ-3LM-E5K Reference number: 126710BLRO Serial number: L4'214'721 Movement number: 6E'887'496 Case number: 2520 Accompanied by: certificate, box, outer box Wear due to age and use. The movement is running at the time of cataloguing, Bukowskis does not guarantee the future function of the movement. Please note that the movement has not been tested for timekeeping accuracy and may need a service at the buyer's expense. Watches have been opened to examine movements therefore no warranties are made that the watches are water-resistant. Potential buyers should inspect each watch to satisfy themselves as to condition. For more information, please read our Conditions of Purchase. For condition report contact specialist Simon Naeslund Specialist Watches +46 (0)735 95 68 75 Email ",
+      "evidence": "All gallery photographs visually inspected; selected front, movement, back, clasp and case-stamp photographs inspected at full resolution. Bukowskis identifies 126710BLRO. Actual paired between-lug stamp 126710 documents the numeric case reference; suffix scope is explicitly limited to 126710BLRO. Case size: 40 mm Material: steel Movement: automatic, caliber 3285 Year: circa 2018 Crystal: sapphire crystal Bracelet: Jubilee bracelet, folding clasp, ref. 69200-1NQ-3LM-E5K Reference number: 126710BLRO Serial number: L4'214'721 Movement number: 6E'887'496 Case number: 2520 Accompanied by: certificate, box, outer box Wear due to age and use. The movement is running at the time of cataloguing, Bukowskis does not guarantee the future function of the movement. Please note that the movement has not been tested for timekeeping accuracy and may need a service at the buyer's expense. Watches have been opened to examine movements therefore no warranties are made that the watches are water-resistant. Potential buyers should inspect each watch to satisfy themselves as to condition. For more information, please read our Conditions of Purchase. For condition report contact specialist Simon Naeslund Specialist Watches +46 (0)735 95 68 75 Email  Source: https://www.bukowskis.com/en/auctions/659/1076-rolex-gmt-master-ii-pepsi-ca-2018",
+      "acceptedPhotographIds": [
+        "bukowskis-modern-659-1076-front-0",
+        "bukowskis-modern-659-1076-caseback-12",
+        "bukowskis-modern-659-1076-braceletClasp-5",
+        "bukowskis-modern-659-1076-movement-13",
+        "bukowskis-modern-659-1076-detail-16"
+      ],
+      "inspectedImages": [
+        {
+          "key": "659-1076",
+          "reference": "126710BLRO",
+          "candidateCaseKey": "126710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1076-rolex-gmt-master-ii-pepsi-ca-2018",
+          "index": 0,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/yP0HRRZ41yjj_g5APgvGD5Wuolir6y38wTZrShncNSw/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589589-13747659_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU4OS8xMzc0/NzY1OV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "efa39cca7258f8bd308467e762069937c62d85b135b07c052794570ab81f94cd"
+        },
+        {
+          "key": "659-1076",
+          "reference": "126710BLRO",
+          "candidateCaseKey": "126710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1076-rolex-gmt-master-ii-pepsi-ca-2018",
+          "index": 1,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/d0M-W66JLYlKOFB_W9aTdnivoapBT_wECyQFGuUnx68/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589589-13760024_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU4OS8xMzc2/MDAyNF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "c84c87feca1c7227b25afd95255480eb6a7944c41d7e40f100b0fc37cc058e3c"
+        },
+        {
+          "key": "659-1076",
+          "reference": "126710BLRO",
+          "candidateCaseKey": "126710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1076-rolex-gmt-master-ii-pepsi-ca-2018",
+          "index": 2,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/i_xVCOOzYYNgpflKBzl-z0uMgpYZnbuVnnkEeZ2Bd2I/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589589-13760025_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU4OS8xMzc2/MDAyNV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "4d69aa372b5367d3a67fcd9b6fa63f405683552603cc4319762c19f074ee7dd7"
+        },
+        {
+          "key": "659-1076",
+          "reference": "126710BLRO",
+          "candidateCaseKey": "126710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1076-rolex-gmt-master-ii-pepsi-ca-2018",
+          "index": 3,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/GBFjfM4y2EdkX2iVhrNlJtawMO37Ru4Yr206KZvBRyQ/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589589-13760026_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU4OS8xMzc2/MDAyNl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "dfd017b6acf0189e90c2322b90c1a106b99a2e6a96d726e1eea834a6c287c83f"
+        },
+        {
+          "key": "659-1076",
+          "reference": "126710BLRO",
+          "candidateCaseKey": "126710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1076-rolex-gmt-master-ii-pepsi-ca-2018",
+          "index": 4,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/dzCiOQ8zqOodf1GFXv6SxXllKN_F0dbjFTmWP5jwNbQ/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589589-13760027_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU4OS8xMzc2/MDAyN19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "15f7d283e0070402d7405dea10a96050869e85dbe434b116ccb8af24e17d8119"
+        },
+        {
+          "key": "659-1076",
+          "reference": "126710BLRO",
+          "candidateCaseKey": "126710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1076-rolex-gmt-master-ii-pepsi-ca-2018",
+          "index": 5,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/dRFFzcKjyb5fY5GO6DkbXjXNoMDE5sHvtaYUSGQpmJw/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589589-13760035_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU4OS8xMzc2/MDAzNV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "18571482bb1cecedfe93ed9153f1becbc4bd883756b62519509889ade0dd440a"
+        },
+        {
+          "key": "659-1076",
+          "reference": "126710BLRO",
+          "candidateCaseKey": "126710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1076-rolex-gmt-master-ii-pepsi-ca-2018",
+          "index": 6,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/xJEYZdn1tQuNYAFSERguB_JkZ6-Q90eBJGdeE1Gtl1I/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589589-13760036_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU4OS8xMzc2/MDAzNl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "eaebdb237fb3b7add30a62036f7537eca8c0cbb3ad466ef0264903e411d3678c"
+        },
+        {
+          "key": "659-1076",
+          "reference": "126710BLRO",
+          "candidateCaseKey": "126710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1076-rolex-gmt-master-ii-pepsi-ca-2018",
+          "index": 7,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/jG6JB9tJgZoo4bO0WyLRXA5BvwLOE2DEoxGlWaQGI8A/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589589-13760037_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU4OS8xMzc2/MDAzN19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "e87af31ab9d9369ab9a81d7edd2d78e6a87c299e1ef1c0f539e30e6777fb243d"
+        },
+        {
+          "key": "659-1076",
+          "reference": "126710BLRO",
+          "candidateCaseKey": "126710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1076-rolex-gmt-master-ii-pepsi-ca-2018",
+          "index": 8,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/jyiyNA88SratOfaNN1mswxd6dM6uyhhuMqOS780LrVc/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589589-13760038_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU4OS8xMzc2/MDAzOF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "09edec6e4679b6440d1d6563036a201a4994912d5187c4a0d79dbe73264276cb"
+        },
+        {
+          "key": "659-1076",
+          "reference": "126710BLRO",
+          "candidateCaseKey": "126710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1076-rolex-gmt-master-ii-pepsi-ca-2018",
+          "index": 9,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/Silqhqc74egMFMUNMbQUnJUktmk-JyBnOGK2b67uihI/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589589-13760039_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU4OS8xMzc2/MDAzOV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "55c81c3bf7e8b178923a3b2a2d072a45334b33102628a629b117ebe9ea8775ba"
+        },
+        {
+          "key": "659-1076",
+          "reference": "126710BLRO",
+          "candidateCaseKey": "126710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1076-rolex-gmt-master-ii-pepsi-ca-2018",
+          "index": 10,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/59gZTbFvACagJE-jHolPZkrlri6CVbEGsVq9Ri9JvvI/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589589-13760040_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU4OS8xMzc2/MDA0MF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "2a6cb9b66208ecf77d9c9b68323c52c996088a2a90b7c3dc5b45160f91d22a2f"
+        },
+        {
+          "key": "659-1076",
+          "reference": "126710BLRO",
+          "candidateCaseKey": "126710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1076-rolex-gmt-master-ii-pepsi-ca-2018",
+          "index": 11,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/ZWyxdv55M1mMk3wYnDP8c_-dZpqPsKK6vJCdYlO6F8U/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589589-13760041_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU4OS8xMzc2/MDA0MV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "1588cf3fffcc42c15c007b9ef68dc94256f1d50720f1ad73610e5f906f91c56c"
+        },
+        {
+          "key": "659-1076",
+          "reference": "126710BLRO",
+          "candidateCaseKey": "126710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1076-rolex-gmt-master-ii-pepsi-ca-2018",
+          "index": 12,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/wDG24b2mmQeIBWs2MkWyyraZwEH7hv74_gxgiAQz-eU/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589589-13764193_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU4OS8xMzc2/NDE5M19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "b571395eaaa49785e70e0dcabb85af86fc3b7bc2aecd14cda92f5d4b9c7a1071"
+        },
+        {
+          "key": "659-1076",
+          "reference": "126710BLRO",
+          "candidateCaseKey": "126710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1076-rolex-gmt-master-ii-pepsi-ca-2018",
+          "index": 13,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/qoXc4Uaj5SoKqNdArt1fc3-OEXof0on_Zfe661S9JUE/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589589-13764185_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU4OS8xMzc2/NDE4NV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "10228f1d48921367d66a7418947b90993ea80100a726606bd5a6783b80653150"
+        },
+        {
+          "key": "659-1076",
+          "reference": "126710BLRO",
+          "candidateCaseKey": "126710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1076-rolex-gmt-master-ii-pepsi-ca-2018",
+          "index": 14,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/J-80DJ24UdwXdzMCGBVh9BfjNKVWdMA2O5CgklIH1YY/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589589-13764168_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU4OS8xMzc2/NDE2OF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "173bdb64feaa2486c976f3b7f9f4a1ae3f5ea41a5b780d2ebffa4d5083bad87a"
+        },
+        {
+          "key": "659-1076",
+          "reference": "126710BLRO",
+          "candidateCaseKey": "126710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1076-rolex-gmt-master-ii-pepsi-ca-2018",
+          "index": 15,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/r6dWLiP1gQhkPpK7JjW5lL7NMyI-oWGnhCMrRkx1GeI/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589589-13764170_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU4OS8xMzc2/NDE3MF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "30bae59e6b6d4eced8018f69a7f8edfa1906bf6145f43700cec32a3a33753654"
+        },
+        {
+          "key": "659-1076",
+          "reference": "126710BLRO",
+          "candidateCaseKey": "126710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1076-rolex-gmt-master-ii-pepsi-ca-2018",
+          "index": 16,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/oHNRsv6t_p8shKqgi6Q5LwLRKMzEY9XBU1jcj0QffNU/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589589-13764177_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU4OS8xMzc2/NDE3N19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "2cdade5b546d6bbd13baaebf4b0597c69d11c2f3e2b4725eec520fcdf6a0ccc3"
+        },
+        {
+          "key": "659-1076",
+          "reference": "126710BLRO",
+          "candidateCaseKey": "126710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1076-rolex-gmt-master-ii-pepsi-ca-2018",
+          "index": 17,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/_wgAa8jJIXS55eteRGOL9ezElLjNXx6bZO_2fYG06Y8/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589589-13764176_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU4OS8xMzc2/NDE3Nl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            1588,
+            1588
+          ],
+          "sha256": "7d6f804db9d88097be3643b30b86f70ab18d874044059dd6bcb832881c245b33"
+        },
+        {
+          "key": "659-1076",
+          "reference": "126710BLRO",
+          "candidateCaseKey": "126710",
+          "source": "https://www.bukowskis.com/en/auctions/659/1076-rolex-gmt-master-ii-pepsi-ca-2018",
+          "index": 18,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/ia-92ZjoH73Zil18pBurQxEnldHV9_d4n4EAxee_47M/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1589589-13764169_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTU4OTU4OS8xMzc2/NDE2OV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "9c05cd380123905777dca7a681491c67a49217ae0a30f3b12d50e23480a2d717"
+        }
+      ]
+    },
+    {
+      "caseReference": "126613",
+      "documentedVariant": "126613LB",
+      "source": "https://www.bukowskis.com/en/auctions/651/83-rolex-submariner-ca-2021",
+      "specimenDescription": "Case size: 41 mm Material: steel/gold Movement: automatic, caliber 3235 Year: circa 2021 Crystal: sapphire crystal Bracelet: Oyster bracelet, folding clasp, ref. 97JA03-159 Reference number: 126613LB Serial number: 30'10R'811 Accompanied by: certificate, box, outer box The general impression is good with signs of wear. The movement is running at the time of cataloguing, Bukowskis does not guarantee the future function of the movement. Please note that the movement has not been tested for timekeeping accuracy and may need a service at the buyer's expense. Potential buyers should inspect each watch to satisfy themselves as to condition. For more information, please read our Conditions of Purchase. For condition report contact specialist Simon Naeslund Specialist Watches +46 (0)735 95 68 75 Email ",
+      "evidence": "All gallery photographs visually inspected; selected front, movement, back, clasp and case-stamp photographs inspected at full resolution. Bukowskis identifies 126613LB. Actual paired between-lug stamp 126613 documents the numeric case reference; suffix scope is explicitly limited to 126613LB. Case size: 41 mm Material: steel/gold Movement: automatic, caliber 3235 Year: circa 2021 Crystal: sapphire crystal Bracelet: Oyster bracelet, folding clasp, ref. 97JA03-159 Reference number: 126613LB Serial number: 30'10R'811 Accompanied by: certificate, box, outer box The general impression is good with signs of wear. The movement is running at the time of cataloguing, Bukowskis does not guarantee the future function of the movement. Please note that the movement has not been tested for timekeeping accuracy and may need a service at the buyer's expense. Potential buyers should inspect each watch to satisfy themselves as to condition. For more information, please read our Conditions of Purchase. For condition report contact specialist Simon Naeslund Specialist Watches +46 (0)735 95 68 75 Email  Source: https://www.bukowskis.com/en/auctions/651/83-rolex-submariner-ca-2021 No opened movement photograph in this gallery; a written calibre identification does not justify a movement attachment.",
+      "acceptedPhotographIds": [
+        "bukowskis-modern-651-83-front-0",
+        "bukowskis-modern-651-83-caseback-5",
+        "bukowskis-modern-651-83-braceletClasp-6",
+        "bukowskis-modern-651-83-detail-8"
+      ],
+      "inspectedImages": [
+        {
+          "key": "651-83",
+          "reference": "126613LB",
+          "candidateCaseKey": "126613",
+          "source": "https://www.bukowskis.com/en/auctions/651/83-rolex-submariner-ca-2021",
+          "index": 0,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/5LHB9hFHDAZf_laxa6hxAU_bHyM_HytAx7zEUnRGMII/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1503324-13332638_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTUwMzMyNC8xMzMz/MjYzOF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "99ab928cdbc008e49db6e5a70db757a0ee5cded64b21fe458a7be65857b1a75c"
+        },
+        {
+          "key": "651-83",
+          "reference": "126613LB",
+          "candidateCaseKey": "126613",
+          "source": "https://www.bukowskis.com/en/auctions/651/83-rolex-submariner-ca-2021",
+          "index": 1,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/qSyomsLLxwZoJv7SOLdZ7SDQ0RmtjB-JOUkniK2nAXM/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1503324-13343608_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTUwMzMyNC8xMzM0/MzYwOF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "d976275b41bf4774cc7c890c20e04c170b6f614a919f4a9737d2b9198d6bf64f"
+        },
+        {
+          "key": "651-83",
+          "reference": "126613LB",
+          "candidateCaseKey": "126613",
+          "source": "https://www.bukowskis.com/en/auctions/651/83-rolex-submariner-ca-2021",
+          "index": 2,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/48bX--7w4BTsWM7rTWfOWhP3erV_eul2F9G0iAghIAk/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1503324-13343618_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTUwMzMyNC8xMzM0/MzYxOF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "6121b2283c6dfe176b2426c5a9899a1012986a3fdf9e6f485bd157b41d829e72"
+        },
+        {
+          "key": "651-83",
+          "reference": "126613LB",
+          "candidateCaseKey": "126613",
+          "source": "https://www.bukowskis.com/en/auctions/651/83-rolex-submariner-ca-2021",
+          "index": 3,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/nsdsx8CvlsQDGZ0_-MPV7JLgHwbH15POW_8ZNJoTzi8/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1503324-13343619_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTUwMzMyNC8xMzM0/MzYxOV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "573d2afb740460522ea774bdec75ab9930e38e511cd22a3d4bc304a34b925608"
+        },
+        {
+          "key": "651-83",
+          "reference": "126613LB",
+          "candidateCaseKey": "126613",
+          "source": "https://www.bukowskis.com/en/auctions/651/83-rolex-submariner-ca-2021",
+          "index": 4,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/ng0GVAsovF46V_iIHfqsVvAtENECX3UUNfPLPsxsW8Y/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1503324-13343606_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTUwMzMyNC8xMzM0/MzYwNl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "d0393c900cecbfa129596457550f48505c92a2fcf652b6b26ef455fd20dba584"
+        },
+        {
+          "key": "651-83",
+          "reference": "126613LB",
+          "candidateCaseKey": "126613",
+          "source": "https://www.bukowskis.com/en/auctions/651/83-rolex-submariner-ca-2021",
+          "index": 5,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/OAbsxBDIMt7USbGzvelis6Tiats1WQPOLbhTiFgjFNE/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1503324-13343611_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTUwMzMyNC8xMzM0/MzYxMV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "d87cede23125899d15a7eb3cf3f0d50656a20c865c2271298ab23d21e3c63beb"
+        },
+        {
+          "key": "651-83",
+          "reference": "126613LB",
+          "candidateCaseKey": "126613",
+          "source": "https://www.bukowskis.com/en/auctions/651/83-rolex-submariner-ca-2021",
+          "index": 6,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/XiPTVqRROH7NvjFYQY3R5AS_PiePAPSUKotyx51YxOQ/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1503324-13343617_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTUwMzMyNC8xMzM0/MzYxN19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "d6ebd93714fa3d51d0af6b902fdd329052dae1c36d256f9098890d7c6e5b7f93"
+        },
+        {
+          "key": "651-83",
+          "reference": "126613LB",
+          "candidateCaseKey": "126613",
+          "source": "https://www.bukowskis.com/en/auctions/651/83-rolex-submariner-ca-2021",
+          "index": 7,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/7vcxl8dVoCUOXLH-3Fxgju1Xh60f3NOO1TRBIP3hV_g/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1503324-13343605_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTUwMzMyNC8xMzM0/MzYwNV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "74c4ab48f6d165d5c4ee89d2ec5b005de359c69b6a54c7460d671b776530cb53"
+        },
+        {
+          "key": "651-83",
+          "reference": "126613LB",
+          "candidateCaseKey": "126613",
+          "source": "https://www.bukowskis.com/en/auctions/651/83-rolex-submariner-ca-2021",
+          "index": 8,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/CkkdpIl4a9hR7UcDT7urKNcJdGWOw_QmUrfhfm4jQmk/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1503324-13343616_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTUwMzMyNC8xMzM0/MzYxNl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "b04b934557f070b414f453c9b371ee471ebc5cf745846111269dab386dc39d41"
+        },
+        {
+          "key": "651-83",
+          "reference": "126613LB",
+          "candidateCaseKey": "126613",
+          "source": "https://www.bukowskis.com/en/auctions/651/83-rolex-submariner-ca-2021",
+          "index": 9,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/mxAwf-6S0f2TDuZU4Ulj3gcRGQKlF1J2u83A0033kv0/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1503324-13343609_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTUwMzMyNC8xMzM0/MzYwOV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "4ef5fe1754f0b9967dbbd71027c90cdb57952c7f86eed8f21e7877d428ff4573"
+        },
+        {
+          "key": "651-83",
+          "reference": "126613LB",
+          "candidateCaseKey": "126613",
+          "source": "https://www.bukowskis.com/en/auctions/651/83-rolex-submariner-ca-2021",
+          "index": 10,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/jk3RDe6ukn1LDe0tQQcL7Hjo8M3ZoaLT5-SLyt5pfVA/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1503324-13343612_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTUwMzMyNC8xMzM0/MzYxMl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "cd4b6871b88ee9ebf3e6c4732a53a1bab78679fade578f578844eab84f40de57"
+        },
+        {
+          "key": "651-83",
+          "reference": "126613LB",
+          "candidateCaseKey": "126613",
+          "source": "https://www.bukowskis.com/en/auctions/651/83-rolex-submariner-ca-2021",
+          "index": 11,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/_W22a7iBBjqbS04wcLMudkC-5C1QqxxHiiO_VRVHblo/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1503324-13343604_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTUwMzMyNC8xMzM0/MzYwNF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "50c2f48391482d2b915c075124ac521f038276a9f77c6bfff506cc258a25be4d"
+        },
+        {
+          "key": "651-83",
+          "reference": "126613LB",
+          "candidateCaseKey": "126613",
+          "source": "https://www.bukowskis.com/en/auctions/651/83-rolex-submariner-ca-2021",
+          "index": 12,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/YwBDlvTryyylIyKW43pjBSnYYCwT-VMC5g_z-ZQDu0U/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1503324-13343613_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTUwMzMyNC8xMzM0/MzYxM19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "c43666d95182ae2053ef513709000e126a78c3e3c9ac7c7929fd70b454c6c4ab"
+        },
+        {
+          "key": "651-83",
+          "reference": "126613LB",
+          "candidateCaseKey": "126613",
+          "source": "https://www.bukowskis.com/en/auctions/651/83-rolex-submariner-ca-2021",
+          "index": 13,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/BrNrDmCFDGCQDQ-ORuw66GLhHWiqZxrJ4JqnksN6PrA/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1503324-13343607_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTUwMzMyNC8xMzM0/MzYwN19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "ab245230435e5ffb59983a42996afbfa8efee8c95793e92c219e6545d3c8344f"
+        },
+        {
+          "key": "651-83",
+          "reference": "126613LB",
+          "candidateCaseKey": "126613",
+          "source": "https://www.bukowskis.com/en/auctions/651/83-rolex-submariner-ca-2021",
+          "index": 14,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/dPgd8OnddM-fhMWgJ4w-txuEx91lS6nHq9UnDcRVt6k/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1503324-13343615_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTUwMzMyNC8xMzM0/MzYxNV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "7eaa6b67d5ceab9d1397f898a2b391613ad8d19d3a9843d3cfebd43766359bea"
+        },
+        {
+          "key": "651-83",
+          "reference": "126613LB",
+          "candidateCaseKey": "126613",
+          "source": "https://www.bukowskis.com/en/auctions/651/83-rolex-submariner-ca-2021",
+          "index": 15,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/TF2275mClUje52afJIG2cazSzsezoWfooF-rNKnMLgo/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1503324-13343614_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTUwMzMyNC8xMzM0/MzYxNF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "94c37a0021abdc7738708a967f748ea257f9305bca0d70ddeadd29758c23be8a"
+        },
+        {
+          "key": "651-83",
+          "reference": "126613LB",
+          "candidateCaseKey": "126613",
+          "source": "https://www.bukowskis.com/en/auctions/651/83-rolex-submariner-ca-2021",
+          "index": 16,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/Iau6CcOnl9Ja7ZOCCkVzZsMkJmt0o5koNkhK6KST55k/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1503324-13343610_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTUwMzMyNC8xMzM0/MzYxMF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "cea9477446b93aca7c9d867296a1a6b3da4a9b73597ec9513e6800e6ce59caa5"
+        }
+      ]
+    },
+    {
+      "caseReference": null,
+      "documentedVariant": "126500LN",
+      "source": "https://www.bukowskis.com/en/auctions/663/1113-rolex-cosmograph-daytona-kronograf-ca-2024",
+      "specimenDescription": "Case size: 40 mm Material: steel Movement: automatic, caliber 4131 Year: circa 2024 Crystal: sapphire crystal Bracelet: Oyster bracelet, folding clasp, ref. 78HA00-938 Reference number: 126500LN Serial number: 9P'F16'526 Accompanied by: certificate, box, outer box Wear due to age and use. Minor dings to the two upper lugs. The movement is running at the time of cataloguing, Bukowskis does not guarantee the future function of the movement. Please note that the movement has not been tested for timekeeping accuracy and may need a service at the buyer's expense. Potential buyers should inspect each watch to satisfy themselves as to condition. For more information, please read our Conditions of Purchase. For condition report contact specialist Simon Naeslund Specialist Watches +46 (0)735 95 68 75 Email ",
+      "evidence": "All gallery photographs visually inspected; selected front, movement, back, clasp and case-stamp photographs inspected at full resolution. Bukowskis identifies 126500LN. No photographed numeric case stamp: only the exact documented full variant is accepted. Numeric 126500 remains an unresolved alias. Case size: 40 mm Material: steel Movement: automatic, caliber 4131 Year: circa 2024 Crystal: sapphire crystal Bracelet: Oyster bracelet, folding clasp, ref. 78HA00-938 Reference number: 126500LN Serial number: 9P'F16'526 Accompanied by: certificate, box, outer box Wear due to age and use. Minor dings to the two upper lugs. The movement is running at the time of cataloguing, Bukowskis does not guarantee the future function of the movement. Please note that the movement has not been tested for timekeeping accuracy and may need a service at the buyer's expense. Potential buyers should inspect each watch to satisfy themselves as to condition. For more information, please read our Conditions of Purchase. For condition report contact specialist Simon Naeslund Specialist Watches +46 (0)735 95 68 75 Email  Source: https://www.bukowskis.com/en/auctions/663/1113-rolex-cosmograph-daytona-kronograf-ca-2024 No opened movement photograph in this gallery; a written calibre identification does not justify a movement attachment.",
+      "acceptedPhotographIds": [
+        "bukowskis-modern-663-1113-front-0",
+        "bukowskis-modern-663-1113-caseback-5",
+        "bukowskis-modern-663-1113-braceletClasp-6"
+      ],
+      "inspectedImages": [
+        {
+          "key": "663-1113",
+          "reference": "126500LN",
+          "candidateCaseKey": "126500",
+          "source": "https://www.bukowskis.com/en/auctions/663/1113-rolex-cosmograph-daytona-kronograf-ca-2024",
+          "index": 0,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/2kvXZ4OcoB6La6ne3SymA5Sk_skGn2ckcD5-LDEDLLc/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1623193-13964988_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyMzE5My8xMzk2/NDk4OF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "fa78fcdb5a3009b209621349a5d2b0d00cd219a520376335e9689c803539f1be"
+        },
+        {
+          "key": "663-1113",
+          "reference": "126500LN",
+          "candidateCaseKey": "126500",
+          "source": "https://www.bukowskis.com/en/auctions/663/1113-rolex-cosmograph-daytona-kronograf-ca-2024",
+          "index": 1,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/IkTWlWrGiXa_8GJUkyS3k3hNC6l-kheVUUMeuMYuZIs/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1623193-13985287_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyMzE5My8xMzk4/NTI4N19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "da3d33eb37d3afe6971ac9f8893077cd05b0e63e7757bb4520c2740bc638167c"
+        },
+        {
+          "key": "663-1113",
+          "reference": "126500LN",
+          "candidateCaseKey": "126500",
+          "source": "https://www.bukowskis.com/en/auctions/663/1113-rolex-cosmograph-daytona-kronograf-ca-2024",
+          "index": 2,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/hw5ZfIRnlgObs1l-4jLS1yJzgMZ0coA6jehN58wTjzU/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1623193-13985329_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyMzE5My8xMzk4/NTMyOV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "e7ee5c18c48b2d0354cbb417cc1ceb37787b76f5e2c8b824e5223effbdde0442"
+        },
+        {
+          "key": "663-1113",
+          "reference": "126500LN",
+          "candidateCaseKey": "126500",
+          "source": "https://www.bukowskis.com/en/auctions/663/1113-rolex-cosmograph-daytona-kronograf-ca-2024",
+          "index": 3,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/qaitV0kG9pVPB7i9dqpVEIx0ehixnJq3L4_OHMlj0ho/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1623193-13985320_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyMzE5My8xMzk4/NTMyMF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "a395f78dc8604d801bc2dcc68a543c81ffab33adfb40b7a2cb4ec2a728f548c2"
+        },
+        {
+          "key": "663-1113",
+          "reference": "126500LN",
+          "candidateCaseKey": "126500",
+          "source": "https://www.bukowskis.com/en/auctions/663/1113-rolex-cosmograph-daytona-kronograf-ca-2024",
+          "index": 4,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/3ZqHkrRIrtEnFN5Aet2p6CWhQ9jXtkzagigxrCHiTs4/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1623193-13985312_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyMzE5My8xMzk4/NTMxMl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "f32269a0340e94d99f3be906eb0888575f1b2df946df3d2383bc06721d187745"
+        },
+        {
+          "key": "663-1113",
+          "reference": "126500LN",
+          "candidateCaseKey": "126500",
+          "source": "https://www.bukowskis.com/en/auctions/663/1113-rolex-cosmograph-daytona-kronograf-ca-2024",
+          "index": 5,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/SLNGcZmy3Cj7evzWN0O391AsP5BKF0WqhtrRP80Gfnk/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1623193-13985318_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyMzE5My8xMzk4/NTMxOF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "98774733381f3325b3104eeaea02344179f44935a1743f53c853b002dc94eea8"
+        },
+        {
+          "key": "663-1113",
+          "reference": "126500LN",
+          "candidateCaseKey": "126500",
+          "source": "https://www.bukowskis.com/en/auctions/663/1113-rolex-cosmograph-daytona-kronograf-ca-2024",
+          "index": 6,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/gqCO1h5T1ylTiys7MIM7l59_A4O10kxevwtBw1cKLTI/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1623193-13985316_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyMzE5My8xMzk4/NTMxNl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "c118c4e8f360bfad4f5ea50cb72037fafba2e4ddf28763bcee6c9dceb755e56b"
+        },
+        {
+          "key": "663-1113",
+          "reference": "126500LN",
+          "candidateCaseKey": "126500",
+          "source": "https://www.bukowskis.com/en/auctions/663/1113-rolex-cosmograph-daytona-kronograf-ca-2024",
+          "index": 7,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/7kEI_MrUXtz0ihfxU-eM8v2iww7v57CoaV4dMcoBvno/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1623193-13985326_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyMzE5My8xMzk4/NTMyNl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "f6f2f450b26c96860b8c022e8870c71bd6a811aeb048796c6e6fbb7c850604a8"
+        },
+        {
+          "key": "663-1113",
+          "reference": "126500LN",
+          "candidateCaseKey": "126500",
+          "source": "https://www.bukowskis.com/en/auctions/663/1113-rolex-cosmograph-daytona-kronograf-ca-2024",
+          "index": 8,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/XmyzzBiHX4vYNDJ2lRE5wY_iWUGK3ebMxlQmherZi4M/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1623193-13985324_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyMzE5My8xMzk4/NTMyNF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "3e4304d47e2caaff1512e2305df12b2d5ba69f03346ed0bf7199b8b2e3f6957c"
+        },
+        {
+          "key": "663-1113",
+          "reference": "126500LN",
+          "candidateCaseKey": "126500",
+          "source": "https://www.bukowskis.com/en/auctions/663/1113-rolex-cosmograph-daytona-kronograf-ca-2024",
+          "index": 9,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/RZnGlLqWTeHT6QO-CyIcBjWyLgZFdzDoXU3cGRp2Ixc/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1623193-13985285_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyMzE5My8xMzk4/NTI4NV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "dfa15951e3a15f75a553f2a60778ba5f99addd8cdf716596dd3a8d89e670f4ae"
+        },
+        {
+          "key": "663-1113",
+          "reference": "126500LN",
+          "candidateCaseKey": "126500",
+          "source": "https://www.bukowskis.com/en/auctions/663/1113-rolex-cosmograph-daytona-kronograf-ca-2024",
+          "index": 10,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/X3GiQDcRlyOyYfGJKGfqGAfqMeRsF06AUg4-YuXhr9E/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1623193-13985279_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyMzE5My8xMzk4/NTI3OV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "57275ac7940b8947ff0b8f425a29a56efafdeb2c935a55c814a8c19bd488a853"
+        },
+        {
+          "key": "663-1113",
+          "reference": "126500LN",
+          "candidateCaseKey": "126500",
+          "source": "https://www.bukowskis.com/en/auctions/663/1113-rolex-cosmograph-daytona-kronograf-ca-2024",
+          "index": 11,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/7VN-KC7Z6Pr1FV4MKRSQ_4SaWyYX2nNxzYqcTwWHWfo/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1623193-13985323_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyMzE5My8xMzk4/NTMyM19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "9b57ebc8f184323f1d263cb238a86383a187f53461cb48e78b8b3609437c9760"
+        },
+        {
+          "key": "663-1113",
+          "reference": "126500LN",
+          "candidateCaseKey": "126500",
+          "source": "https://www.bukowskis.com/en/auctions/663/1113-rolex-cosmograph-daytona-kronograf-ca-2024",
+          "index": 12,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/qyuvREEVXn-Ce05OwY3Z0yTTxBxotFI4sSU06wNE4D4/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1623193-13985328_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTYyMzE5My8xMzk4/NTMyOF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "8f4d4d0d64a7c1f50ab8fea0f11b4c246066d0dd4eb4796653efc7a5b14e3305"
+        }
+      ]
+    }
+  ],
+  "unattachedSpecimens": [
+    {
+      "reference": "126610LN",
+      "source": "https://www.bukowskis.com/en/auctions/667/1008-rolex-submariner-wristwatch-41-mm",
+      "reason": "Existing exact-full-reference front/back/clasp entries retained without duplicates; no numeric stamp or opened movement in this inspected gallery.",
+      "inspectedImages": [
+        {
+          "key": "667-1008",
+          "reference": "126610LN",
+          "candidateCaseKey": "126610",
+          "source": "https://www.bukowskis.com/en/auctions/667/1008-rolex-submariner-wristwatch-41-mm",
+          "index": 0,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/SVSaxGiSkai1FGa869EKie9v-VwyXFoOgHex-rcDlhU/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1643137-14324869_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTY0MzEzNy8xNDMy/NDg2OV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "f2a2a0df719a43911992d82ebe30f0e81615b59eb7692254e6e6f60365f44d05"
+        },
+        {
+          "key": "667-1008",
+          "reference": "126610LN",
+          "candidateCaseKey": "126610",
+          "source": "https://www.bukowskis.com/en/auctions/667/1008-rolex-submariner-wristwatch-41-mm",
+          "index": 1,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/Yn-ChL1rC4IvKHF_F1cekpLXNF9s_EJS5F9824DRoh4/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1643137-14324857_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTY0MzEzNy8xNDMy/NDg1N19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "92202e8da4ddf7f787124370ff5077c4be16818714c619f73596d863a14fa71a"
+        },
+        {
+          "key": "667-1008",
+          "reference": "126610LN",
+          "candidateCaseKey": "126610",
+          "source": "https://www.bukowskis.com/en/auctions/667/1008-rolex-submariner-wristwatch-41-mm",
+          "index": 2,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/07z31vSJxLp65U1aaXL2zURvP-74ARY3xKN41Mokhfo/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1643137-14324842_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTY0MzEzNy8xNDMy/NDg0Ml9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "067f6249f10e4847853dfb3c4ac7a11770f8b05ffe3679b22a72e64f63a4cfe7"
+        },
+        {
+          "key": "667-1008",
+          "reference": "126610LN",
+          "candidateCaseKey": "126610",
+          "source": "https://www.bukowskis.com/en/auctions/667/1008-rolex-submariner-wristwatch-41-mm",
+          "index": 3,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/qt_ltIO5CJ0XFqIyB7kZHFKy-vAIcTWGAWGD1SoLi6w/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1643137-14324859_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTY0MzEzNy8xNDMy/NDg1OV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "846912aa9dbf7e268816fc43b5cf6784fbf73a6dae1a8adc13785c4cfecf2b9f"
+        },
+        {
+          "key": "667-1008",
+          "reference": "126610LN",
+          "candidateCaseKey": "126610",
+          "source": "https://www.bukowskis.com/en/auctions/667/1008-rolex-submariner-wristwatch-41-mm",
+          "index": 4,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/V1R_dTOM3Rr5Zi2jXV_NB29Yt-DvFkY0fNMf3AYhPrg/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1643137-14324874_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTY0MzEzNy8xNDMy/NDg3NF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "329e692b80a5b4efa1b73af1413a09983339294b812dd867c30c94f044019073"
+        },
+        {
+          "key": "667-1008",
+          "reference": "126610LN",
+          "candidateCaseKey": "126610",
+          "source": "https://www.bukowskis.com/en/auctions/667/1008-rolex-submariner-wristwatch-41-mm",
+          "index": 5,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/JJXTK0WXVSVFdKqTEMNgZGpbYItGZzq6_l-Ljuh6y6w/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1643137-14200717_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTY0MzEzNy8xNDIw/MDcxN19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "3d271ca4b9215e0f33e533b38fad000be74d3307daf5b053fac38397756ac013"
+        },
+        {
+          "key": "667-1008",
+          "reference": "126610LN",
+          "candidateCaseKey": "126610",
+          "source": "https://www.bukowskis.com/en/auctions/667/1008-rolex-submariner-wristwatch-41-mm",
+          "index": 6,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/fqjPHjo5GhsX41GU6mlj5Ov-DGzsulSh7184ZXNvpVs/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1643137-14200719_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTY0MzEzNy8xNDIw/MDcxOV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "1faa0c69a3c72c1b8589c64d36baf0ded9002770c48eb3546db35f664192722b"
+        },
+        {
+          "key": "667-1008",
+          "reference": "126610LN",
+          "candidateCaseKey": "126610",
+          "source": "https://www.bukowskis.com/en/auctions/667/1008-rolex-submariner-wristwatch-41-mm",
+          "index": 7,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/qfbTSDziTPy2cNNMt98-i3tKS1DLIe7cwIRLZ8sGvgE/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1643137-14200714_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTY0MzEzNy8xNDIw/MDcxNF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "05ac0d3227dd2085aeab2f2dfff1546a9fcbf16eb06a7da858671af660ad915b"
+        },
+        {
+          "key": "667-1008",
+          "reference": "126610LN",
+          "candidateCaseKey": "126610",
+          "source": "https://www.bukowskis.com/en/auctions/667/1008-rolex-submariner-wristwatch-41-mm",
+          "index": 8,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/z4pTP5W1cp5MRWHd5AW_uO8Eu3USRG1-NKfI9-UMZcE/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1643137-14200716_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTY0MzEzNy8xNDIw/MDcxNl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "708919a9d3fba7178f020804b80b55055b6b843c58cdaf2cbbb1e389ede221f8"
+        },
+        {
+          "key": "667-1008",
+          "reference": "126610LN",
+          "candidateCaseKey": "126610",
+          "source": "https://www.bukowskis.com/en/auctions/667/1008-rolex-submariner-wristwatch-41-mm",
+          "index": 9,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/X4h0WXPFqto5LvEsCTb1saZhy3x8-KfK-dieaRN0MW0/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1643137-14200718_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTY0MzEzNy8xNDIw/MDcxOF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "80893e3b830325350beec0afd454619d8840d20c646eb3a9cb545447cf5b85f2"
+        }
+      ]
+    },
+    {
+      "reference": "126710BLRO",
+      "source": "https://www.bukowskis.com/en/auctions/647/2-rolex-gmt-master-ii-pepsi-jubilee-oyster-ca-2023",
+      "reason": "Additional Jubilee/Oyster auction specimen inspected; no extra opened movement or numeric stamp. Accompanied loose Oyster bracelet is not attached as a factory configuration.",
+      "inspectedImages": [
+        {
+          "key": "647-2",
+          "reference": "126710BLRO",
+          "candidateCaseKey": "126710",
+          "source": "https://www.bukowskis.com/en/auctions/647/2-rolex-gmt-master-ii-pepsi-jubilee-oyster-ca-2023",
+          "index": 0,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/V2calwia8ZXC3sYFx2aGYU3_VFSOQptc7BvxmUHQ3yM/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1471840-13130599_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ3MTg0MC8xMzEz/MDU5OV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "0f22a4343a970d4390c3fe1095ff97d6e45ae272229607027954a43210d8345a"
+        },
+        {
+          "key": "647-2",
+          "reference": "126710BLRO",
+          "candidateCaseKey": "126710",
+          "source": "https://www.bukowskis.com/en/auctions/647/2-rolex-gmt-master-ii-pepsi-jubilee-oyster-ca-2023",
+          "index": 1,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/JnA9yd5P6CFX_dS_JE37Z9VOnleSdnlAodVOacN9GOQ/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1471840-13140139_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ3MTg0MC8xMzE0/MDEzOV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "8c8935b10cee3d6f2db810912c5163638cdbb416301628cbd3577dac539f9427"
+        },
+        {
+          "key": "647-2",
+          "reference": "126710BLRO",
+          "candidateCaseKey": "126710",
+          "source": "https://www.bukowskis.com/en/auctions/647/2-rolex-gmt-master-ii-pepsi-jubilee-oyster-ca-2023",
+          "index": 2,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/HoFhQGhQxstRnWGBGwEvgwnIDiV_Ago5VYDlu9j5m6g/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1471840-13140140_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ3MTg0MC8xMzE0/MDE0MF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "26ccd8f5100cbf87326888c72725c63dcb92b5795b07d55e1c649cb464696a68"
+        },
+        {
+          "key": "647-2",
+          "reference": "126710BLRO",
+          "candidateCaseKey": "126710",
+          "source": "https://www.bukowskis.com/en/auctions/647/2-rolex-gmt-master-ii-pepsi-jubilee-oyster-ca-2023",
+          "index": 3,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/apNLgynanYid33pYYDClBEhvmvZNiXDpLl6I5COL9JA/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1471840-13140141_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ3MTg0MC8xMzE0/MDE0MV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "b2384aebe4e3bf5a8bb57ea56128e26d789ab2ac17e86ff27dd9ad311d9db989"
+        },
+        {
+          "key": "647-2",
+          "reference": "126710BLRO",
+          "candidateCaseKey": "126710",
+          "source": "https://www.bukowskis.com/en/auctions/647/2-rolex-gmt-master-ii-pepsi-jubilee-oyster-ca-2023",
+          "index": 4,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/FpgKRlGq7MfNahrJqrfc8grbjZ_69_whAGejq6fb2EU/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1471840-13140142_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ3MTg0MC8xMzE0/MDE0Ml9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "0548e66aeb8a993d9dff5df1b07cff85f6973f4c964fa0d84beb2276924f08a6"
+        },
+        {
+          "key": "647-2",
+          "reference": "126710BLRO",
+          "candidateCaseKey": "126710",
+          "source": "https://www.bukowskis.com/en/auctions/647/2-rolex-gmt-master-ii-pepsi-jubilee-oyster-ca-2023",
+          "index": 5,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/wxBD7kT8ot3xFyk6seGAW7HOacpEnkHDfn4M6N5NRsw/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1471840-13140143_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ3MTg0MC8xMzE0/MDE0M19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "44a9f14b21a9f567db864337f4065d0fc19d80f4e8de8981015638332b7807bf"
+        },
+        {
+          "key": "647-2",
+          "reference": "126710BLRO",
+          "candidateCaseKey": "126710",
+          "source": "https://www.bukowskis.com/en/auctions/647/2-rolex-gmt-master-ii-pepsi-jubilee-oyster-ca-2023",
+          "index": 6,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/L59BoxF8BjpP3cA7K2AFN3ofsuz3a9V8DQmcV4nfI6E/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1471840-13140144_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ3MTg0MC8xMzE0/MDE0NF9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "103dbb5770f2a8589974259a9a329479270ace371c3200eadb88901a800f042e"
+        },
+        {
+          "key": "647-2",
+          "reference": "126710BLRO",
+          "candidateCaseKey": "126710",
+          "source": "https://www.bukowskis.com/en/auctions/647/2-rolex-gmt-master-ii-pepsi-jubilee-oyster-ca-2023",
+          "index": 7,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/6sMYRulcUjdVu_zS-OU_KyrgVPkN_nPKbtypwJs39w8/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1471840-13140145_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ3MTg0MC8xMzE0/MDE0NV9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "ed24d55488465b23e8da2a71697e6fe248f397bfb10c131c17de45f1c9f12955"
+        },
+        {
+          "key": "647-2",
+          "reference": "126710BLRO",
+          "candidateCaseKey": "126710",
+          "source": "https://www.bukowskis.com/en/auctions/647/2-rolex-gmt-master-ii-pepsi-jubilee-oyster-ca-2023",
+          "index": 8,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/Vxp0YA9c8yWaOlOyS4eZ6MM2HOu5MFEA1LQG1S_i-Lo/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1471840-13140146_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ3MTg0MC8xMzE0/MDE0Nl9vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "44f747741c00c2777792ad1905a25431e2786e04a786b5ebe923d0ada01ba013"
+        },
+        {
+          "key": "647-2",
+          "reference": "126710BLRO",
+          "candidateCaseKey": "126710",
+          "source": "https://www.bukowskis.com/en/auctions/647/2-rolex-gmt-master-ii-pepsi-jubilee-oyster-ca-2023",
+          "index": 9,
+          "image": "https://d3tj81smxskx4e.cloudfront.net/P3ttHbUvA7wvx3xqlydjPT8OGVfj1nYheKC_4Vz6krM/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1471840-13140147_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTQ3MTg0MC8xMzE0/MDE0N19vcmlnaW5h/bC5qcGc",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "648f55178cd4036a26bf8173f2a2df402aa61402d5a90a999789f752893e656c"
+        }
+      ]
+    }
+  ]
+}
