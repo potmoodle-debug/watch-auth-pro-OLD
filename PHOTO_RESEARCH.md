@@ -11,7 +11,7 @@ repository must not be modified.
 Network access was verified first. GitHub and the BenchAuth live site return HTTP
 200. Of 1,564 distinct stored source URLs, 1,531 return HTTP 200 and 33 manufacturer
 Breitling URLs return HTTP 403. HTTP access and download counts **do not** establish
-visual review. The published checkpoint is PR #12 at b58654ed27c9aaa25d13fb3dbe5848aa50ad3f7b. New research additions below remain unpublished until validation passes.
+visual review. The published checkpoint is PR #13 at 7c6fdcd955b573709ac916175f02db178b855dd7. New research additions below remain unpublished until validation passes.
 
 Rollback: GitHub branch `rollback/benchauth-before-photographs-20261008`, commit
 `b4ffc080c4dba6f55bb246377a24a3c2bf284052`. A local Git bundle is saved at
@@ -36,11 +36,11 @@ watch models: punctuation/case duplicates collapse; M-prefixed aliases, base
 references and catalogue suffixes remain separate keys. Broad patterns require
 enumeration and source review; they are never counted as exact references.
 
-Current exact progress is in the generated coverage files: **223 identifier keys
-reviewed, 2,015 unreviewed; 164 source records reviewed, 2,283 unreviewed**. There are
-**613 catalogue assets: 581 verified gallery entries, 23 pending and 9 rejected**, including 31
-legacy assets. Verified entries use **570 distinct stored image URLs and 569 distinct inspected file hashes**; the same photograph can serve two categories. Verified reference-key coverage: **front 186, movement 75, caseback
-158, bracelet/clasp 153**. Reviewed gaps describe the inspected source set, not a
+Current exact progress is in the generated coverage files: **226 identifier keys
+reviewed, 2,012 unreviewed; 164 source records reviewed, 2,283 unreviewed**. There are
+**627 catalogue assets: 595 verified gallery entries, 23 pending and 9 rejected**, including 31
+legacy assets. Verified entries use **583 distinct stored image URLs and 582 distinct inspected file hashes**; the same photograph can serve two categories. Verified reference-key coverage: **front 189, movement 76, caseback
+161, bracelet/clasp 154**. Reviewed gaps describe the inspected source set, not a
 claim that no suitable image exists elsewhere. Existing textual research and
 pre-existing "verified" mapping badges do not verify photographs. Unreviewed
 categories are not counted as reviewed gaps.
@@ -407,3 +407,52 @@ lookup, movement checks, manual notes, safety, draft recovery and responsiveness
 pass. Its stale original browser path/count/note expectations were not treated
 as application regressions. No production repository or application workflow
 was changed. Live authenticated database verification remains separately open.
+
+
+## Datejust II and Yacht-Master specialist specimens — next checkpoint
+
+PR #13 at 7c6fdcd955b573709ac916175f02db178b855dd7 is deployed and
+verified: six public files match, and live Chromium loaded/enlarged 47 images
+across the new numeric/full-variant lookups, unsupported suffixes and mobile
+layout. The ready-reference exports list 268 accepted keys at that checkpoint.
+
+`photograph-rolex-specialist-sources.json` documents three new specialist
+source galleries: all 37 actual photographs inspected, including selected full
+resolution photographs. Loupe This lot 2893 provides 116334 blue-dial Datejust II
+front, actual 3136 stamp/execution, internal back 2410, signed Oyster clasp and
+physical case stamp. Its single opened-movement/back frame serves two categories,
+with that reuse explicit in captions. The catalogue says 2015 but the photographed
+card gives purchase May 2014, so no exact specimen year is asserted.
+
+Sotheby's exact 116621 chocolate-dial steel/pink-gold specimen has a confirming
+reference card but no opened movement or dedicated clasp view. Its written
+3235 statement supplies no photographed execution evidence and is not inherited
+by the gallery. The pink-gold 116655 black-dial/Oysterflex specimen likewise has
+front and closed-back photographs only, with its external 750 mark visible.
+Movement/clasp categories remain empty for both. No full dial/bracelet suffix is
+inferred. Heritage's 114300 page returned HTTP 403: no pixels inspected and no
+review coverage claimed from that request.
+
+Four further Bukowskis galleries contain 75 inspected actual image occurrences.
+The selected 659/1107 specimen documents 116710BLNR, a physical 116710 case
+stamp, actual 3186 movement stamp/execution, internal 2350 back and Oyster clasp
+STEELINOX/200 marks. It joins 116710 as a clearly labelled blue/black variant;
+116710LN and later 126710 variants remain separate. Additional already-covered
+specimens are recorded as inspected without duplicate attachments.
+
+This checkpoint adds 14 gallery entries from 13 distinct inspected files and
+reviews three more stored keys, giving 226 reviewed and 2,012 unreviewed.
+Source-record counts remain 164 reviewed / 2,283 unreviewed. Research and live
+authenticated shared-database verification remain open. Existing application,
+workflows and rollback are preserved; production WatchAuthPro is untouched.
+
+Validation: all 34 Node checks pass. Actual Chromium loads and enlarges all
+14 new gallery entries (13 distinct files) across five accepted lookup keys,
+including both case/full-variant lookups for the new GMT specimen, with
+representative labels, credits and mobile overflow checked. The preceding
+581 entries passed the complete actual-image run before PR #13; this batch
+leaves those entries and application code unchanged. The refreshed browser
+fixtures pass normalized matching, variants, image failure handling,
+sign-in/out/shared refresh, safety, replica flags/clasp reminder, clipboard,
+save/next, RMA, daily reset/progress and history. Live authenticated RLS remains
+an explicitly separate verification gap.
