@@ -1,0 +1,1591 @@
+{
+  "version": 1,
+  "reviewedAt": "2026-10-09T09:38:53.612376+00:00",
+  "articleImagesInspected": 109,
+  "reviewedArticles": [
+    {
+      "source": "https://monochrome-watches.com/tudor-heritage-black-bay-79230-manufacture-movement-2016-review-price/",
+      "imagesInspected": 9,
+      "acceptedReference": "79230N",
+      "referenceEvidence": "Hands-on 2016 review explicitly documents 41 mm manufacture Black Bay 79230, shield logo, three-line depth/COSC text, MT5602 and rivet-style bracelet. WatchBase https://watchbase.com/tudor/black-bay/79230n-0001 independently identifies black manufacture 79230N (that full suffix is leather, so no suffix inherited by these bracelet photographs). Earlier ETA blue comparison image 0 excluded; isolated MT5602 image 3 and three-colour product image 8 withheld because individual photograph/execution provenance is not established."
+    },
+    {
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "imagesInspected": 82,
+      "selectedImages": [],
+      "referenceEvidence": "History contextualises the 2016 manufacture update and later families; duplicate images and earlier/later executions not inherited."
+    },
+    {
+      "source": "https://monochrome-watches.com/introducing-tudor-pelagos-fxd-25707kn-and-pelagos-fxd-chrono-25807kn-alinghi-red-bull-racing-edition-specs-price/",
+      "imagesInspected": 11,
+      "selectedImages": [],
+      "referenceEvidence": "All source images visually inspected. Alinghi release media photograph/render provenance for each asset is unproven; no opened movement, back or clasp detail available."
+    },
+    {
+      "source": "https://monochrome-watches.com/tudor-pelagos-lhd-left-handed-review-price/",
+      "imagesInspected": 7,
+      "selectedImages": [],
+      "referenceEvidence": "LHD hands-on source explicitly identifies 25610TNL. No.238 back duplicates existing accepted specimen coverage; no additional photograph necessary. No opened MT5612-LHD execution or incomplete 25610T alias established."
+    }
+  ],
+  "manufacturerAccess": [
+    {
+      "reference": "79230N",
+      "source": "https://www.tudorwatch.com/en/watches/black-bay/m79230n-0001",
+      "status": 404
+    },
+    {
+      "reference": "79230B",
+      "source": "https://www.tudorwatch.com/en/watches/black-bay/m79230b-0001",
+      "status": 404
+    },
+    {
+      "reference": "79230R",
+      "source": "https://www.tudorwatch.com/en/watches/black-bay/m79230r-0001",
+      "status": 404
+    }
+  ],
+  "specialistReferenceAccess": [
+    {
+      "source": "https://watchbase.com/tudor/black-bay/79230n-0001",
+      "status": 200
+    },
+    {
+      "source": "https://watchbase.com/tudor/black-bay/79230b-0001",
+      "status": 200
+    },
+    {
+      "source": "https://watchbase.com/tudor/black-bay/79230r-0001",
+      "status": 200
+    }
+  ],
+  "access": [
+    {
+      "index": 0,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2016/04/Comparative-Review-3-affordable-vintage-inspired-dive-watches-Tudor-Heritage-Black-Bay-Blue-79220B-2.jpg",
+      "alt": "Comparative Review - 3 affordable & vintage-inspired dive watches - Tudor Heritage Black Bay Blue 79220B - 2",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/tudor-heritage-black-bay-79230-manufacture-movement-2016-review-price/",
+      "status": "decoded",
+      "dimensions": [
+        1500,
+        1001
+      ],
+      "sha256": "f75a1099a1862615e753506dbf99045260e48c500aaaabec1fa9c91cac455fe6"
+    },
+    {
+      "index": 1,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2016/07/Tudor-Heritage-Black-Bay-79230-with-manufacture-movement-2016-6.jpg",
+      "alt": "Tudor Heritage Black Bay 79230 with manufacture movement 2016",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/tudor-heritage-black-bay-79230-manufacture-movement-2016-review-price/",
+      "status": "decoded",
+      "dimensions": [
+        1500,
+        1000
+      ],
+      "sha256": "fcf4722b7f142c8ff1954690e42759ed29bed634358fffec534b7eec54ec6da1"
+    },
+    {
+      "index": 2,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2016/07/Tudor-Heritage-Black-Bay-79230-with-manufacture-movement-2016-3.jpg",
+      "alt": "Tudor Heritage Black Bay 79230 with manufacture movement 2016",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/tudor-heritage-black-bay-79230-manufacture-movement-2016-review-price/",
+      "status": "decoded",
+      "dimensions": [
+        1500,
+        1000
+      ],
+      "sha256": "1da6036ec9d513cb25cd4c8b17c96a80f1c125078b710e1bb521d90e8676f25d"
+    },
+    {
+      "index": 3,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2016/07/Tudor-Heritage-Black-Bay-Calibre-MT5602.jpg",
+      "alt": "Tudor Heritage Black Bay Calibre MT5602",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/tudor-heritage-black-bay-79230-manufacture-movement-2016-review-price/",
+      "status": "decoded",
+      "dimensions": [
+        1500,
+        1000
+      ],
+      "sha256": "da050ff7088ddb6be50438ca8a60fa1f8ebd11d86c757b7eb43ed4f35fb35238"
+    },
+    {
+      "index": 4,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2016/07/Tudor-Heritage-Black-Bay-79230-with-manufacture-movement-2016-4.jpg",
+      "alt": "Tudor Heritage Black Bay 79230 with manufacture movement 2016",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/tudor-heritage-black-bay-79230-manufacture-movement-2016-review-price/",
+      "status": "decoded",
+      "dimensions": [
+        1500,
+        1000
+      ],
+      "sha256": "e7004e634da243e03e266f832844f76c912b12655f4c2e4b1e1708167683c8ec"
+    },
+    {
+      "index": 5,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2016/07/Tudor-Heritage-Black-Bay-79230-with-manufacture-movement-2016-2.jpg",
+      "alt": "Tudor Heritage Black Bay 79230 with manufacture movement 2016",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/tudor-heritage-black-bay-79230-manufacture-movement-2016-review-price/",
+      "status": "decoded",
+      "dimensions": [
+        1500,
+        1000
+      ],
+      "sha256": "9c4714be9be482b7132a532c51757739d561d4c746f78f59aab5a7933fd86a69"
+    },
+    {
+      "index": 6,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2016/07/Tudor-Heritage-Black-Bay-79230-with-manufacture-movement-2016-1.jpg",
+      "alt": "Tudor Heritage Black Bay 79230 with manufacture movement 2016",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/tudor-heritage-black-bay-79230-manufacture-movement-2016-review-price/",
+      "status": "decoded",
+      "dimensions": [
+        1500,
+        1000
+      ],
+      "sha256": "3c582078fc179f3bd5cac93e6c78407f27cb81adf28b8b882951f3d7cc603f0a"
+    },
+    {
+      "index": 7,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2016/07/Tudor-Heritage-Black-Bay-79230-with-manufacture-movement-2016-5.jpg",
+      "alt": "Tudor Heritage Black Bay 79230 with manufacture movement 2016",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/tudor-heritage-black-bay-79230-manufacture-movement-2016-review-price/",
+      "status": "decoded",
+      "dimensions": [
+        1500,
+        1000
+      ],
+      "sha256": "64bd30672d9bab947ba57fb806b8a8598f2b733890ed710dbaa7b151d5fab77c"
+    },
+    {
+      "index": 8,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2016/07/Tudor-Heritage-Black-Bay-79230-with-manufacture-movement-2016-7.jpg",
+      "alt": "Tudor Heritage Black Bay 79230 with manufacture movement 2016",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/tudor-heritage-black-bay-79230-manufacture-movement-2016-review-price/",
+      "status": "decoded",
+      "dimensions": [
+        1500,
+        693
+      ],
+      "sha256": "e18745bd7f35929d51d335021664e1fbe3f42adadf85ec388bae573656ec75ef"
+    },
+    {
+      "index": 0,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2016/10/Tudor-Submariner-7922-7923-7924-vintage.jpg",
+      "alt": "Tudor Submariner 7922 7923 7924 vintage",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        1500,
+        1000
+      ],
+      "sha256": "4e70469bc1f9ea3c9048fdbe5e546f97790bf7244c133539fdcbbf5ba0965fe9"
+    },
+    {
+      "index": 1,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2024/11/2012-Tudor-Heritage-Black-Bay-Burgundy-79220R-3.jpeg",
+      "alt": "",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        1400
+      ],
+      "sha256": "3ff3f1949051582640415b2453ed253d138fcfd26087922a02512bf996845524"
+    },
+    {
+      "index": 2,
+      "image": "https://monochrome-watches.com/app/uploads/2024/11/2012-Tudor-Heritage-Black-Bay-Burgundy-79220R-1.jpeg",
+      "alt": "2012 Tudor Heritage Black Bay Burgundy 79220R - 1",
+      "title": "2012 Tudor Heritage Black Bay Burgundy 79220R - 1",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        1638,
+        1638
+      ],
+      "sha256": "ecac51d74cd80ac77387c48027f600169eeede27e81f527a6264b6206d5609ae"
+    },
+    {
+      "index": 3,
+      "image": "https://monochrome-watches.com/app/uploads/2024/11/2012-Tudor-Heritage-Black-Bay-Burgundy-79220R-1.jpeg",
+      "alt": "2012 Tudor Heritage Black Bay Burgundy 79220R - 1",
+      "title": "2012 Tudor Heritage Black Bay Burgundy 79220R - 1",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        1638,
+        1638
+      ],
+      "sha256": "ecac51d74cd80ac77387c48027f600169eeede27e81f527a6264b6206d5609ae"
+    },
+    {
+      "index": 4,
+      "image": "https://monochrome-watches.com/app/uploads/2024/11/2012-Tudor-Heritage-Black-Bay-Burgundy-79220R-2.jpeg",
+      "alt": "2012 Tudor Heritage Black Bay Burgundy 79220R - 2",
+      "title": "2012 Tudor Heritage Black Bay Burgundy 79220R - 2",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        1491,
+        1491
+      ],
+      "sha256": "762436e401b3ed705902141d128f375c7f20aca58e506ae1278976065c63a317"
+    },
+    {
+      "index": 5,
+      "image": "https://monochrome-watches.com/app/uploads/2024/11/2012-Tudor-Heritage-Black-Bay-Burgundy-79220R-2.jpeg",
+      "alt": "2012 Tudor Heritage Black Bay Burgundy 79220R - 2",
+      "title": "2012 Tudor Heritage Black Bay Burgundy 79220R - 2",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        1491,
+        1491
+      ],
+      "sha256": "762436e401b3ed705902141d128f375c7f20aca58e506ae1278976065c63a317"
+    },
+    {
+      "index": 6,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2024/11/2012-Tudor-Heritage-Black-Bay-Burgundy-79220R-4.jpeg",
+      "alt": "",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        1683,
+        1683
+      ],
+      "sha256": "364ef59da12c6020cf4a0bb3a4be5d4c7c5219087ac3304eb1bdb39812fdf869"
+    },
+    {
+      "index": 7,
+      "image": "https://monochrome-watches.com/app/uploads/2014/11/Tudor-Black-Bay-VL03.jpg",
+      "alt": "Tudor Black Bay with Midnight Blue bezel",
+      "title": "Tudor Black Bay with Midnight Blue bezel",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        750,
+        1000
+      ],
+      "sha256": "d6fa8fb90fb0bfd3fe3d45c77eab2fa7758ea030e8f3341a388d13c031d9f729"
+    },
+    {
+      "index": 8,
+      "image": "https://monochrome-watches.com/app/uploads/2014/11/Tudor-Black-Bay-VL03.jpg",
+      "alt": "Tudor Black Bay with Midnight Blue bezel",
+      "title": "Tudor Black Bay with Midnight Blue bezel",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        750,
+        1000
+      ],
+      "sha256": "d6fa8fb90fb0bfd3fe3d45c77eab2fa7758ea030e8f3341a388d13c031d9f729"
+    },
+    {
+      "index": 9,
+      "image": "https://monochrome-watches.com/app/uploads/2014/11/Tudor-Black-Bay-VL09.jpg",
+      "alt": "Tudor Black Bay with Midnight Blue bezel",
+      "title": "Tudor Black Bay with Midnight Blue bezel",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        750,
+        1000
+      ],
+      "sha256": "a92d7c95c66e60c4aee68265bff9c9cdae80f24f3cbd257cfda24e8995a9fd13"
+    },
+    {
+      "index": 10,
+      "image": "https://monochrome-watches.com/app/uploads/2014/11/Tudor-Black-Bay-VL09.jpg",
+      "alt": "Tudor Black Bay with Midnight Blue bezel",
+      "title": "Tudor Black Bay with Midnight Blue bezel",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        750,
+        1000
+      ],
+      "sha256": "a92d7c95c66e60c4aee68265bff9c9cdae80f24f3cbd257cfda24e8995a9fd13"
+    },
+    {
+      "index": 11,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2021/05/The-Collectors-Series-Robin-Nooij-Tudor-Black-Bay-79220N-Smiley-Face-4.jpg",
+      "alt": "Tudor Black Bay 79220N Smiley Face ETA",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "da00912286d3b2e6222a32088efe8f40f52c608c06e1fe659079a5155227429c"
+    },
+    {
+      "index": 12,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2018/04/Tudor-Geneva-2016-6748.jpg",
+      "alt": "",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        1400
+      ],
+      "sha256": "e437c8dcfa31a379aa821c980d306f720f9bbbf6c6c87aa6f9c36a933b255c24"
+    },
+    {
+      "index": 13,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2016/07/Tudor-Heritage-Black-Bay-Calibre-MT5602.jpg",
+      "alt": "",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        1500,
+        1000
+      ],
+      "sha256": "a0a0f4c39138cd4334367fda75b23a1112e6d3677fd0bd72c2345c5c5daa37a5"
+    },
+    {
+      "index": 14,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2016/07/Tudor-Heritage-Black-Bay-Bronze-79250BM-review-10.jpg",
+      "alt": "Tudor Heritage Black Bay Bronze 79250BM - review",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        1500,
+        1000
+      ],
+      "sha256": "2e12cd9d5c2db2d997e9160560679c34fc477db777f8aefff81657bc0c7f4031"
+    },
+    {
+      "index": 15,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2018/04/Best-GMT-Travellers-watches-Baselworld-2018-Tudor-Black-Bay-GMT-Pepsi-79830RB-6.jpg",
+      "alt": "Best GMT Travellers watches Baselworld 2018 - Tudor Black Bay GMT Pepsi 79830RB",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2097,
+        1400
+      ],
+      "sha256": "56cfcb407b6e5cd05766570ca2ea78ea96cd9a86725ca075e18fe6a25a500e28"
+    },
+    {
+      "index": 16,
+      "image": "https://monochrome-watches.com/app/uploads/2022/04/Tudor-Black-Bay-GMT-SG-steel-and-gold-root-beer-41mm-M79833MN-review-2.jpg",
+      "alt": "Tudor Black Bay GMT S&G steel-and-gold root beer 41mm - M79833MN",
+      "title": "Tudor Black Bay GMT S&G steel-and-gold root beer 41mm - M79833MN - review - 2",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "21659dd66c5b518aaad2093f8151406550c5b75e58e7c178c12416effd5edb0e"
+    },
+    {
+      "index": 17,
+      "image": "https://monochrome-watches.com/app/uploads/2022/04/Tudor-Black-Bay-GMT-SG-steel-and-gold-root-beer-41mm-M79833MN-review-2.jpg",
+      "alt": "Tudor Black Bay GMT S&G steel-and-gold root beer 41mm - M79833MN",
+      "title": "Tudor Black Bay GMT S&G steel-and-gold root beer 41mm - M79833MN - review - 2",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "21659dd66c5b518aaad2093f8151406550c5b75e58e7c178c12416effd5edb0e"
+    },
+    {
+      "index": 18,
+      "image": "https://monochrome-watches.com/app/uploads/2023/05/Tudor-Black-Bay-GMT-Opaline-Dial-Pepsi-Bezel-79830RB-Tudor-Albino-GMT-Pepsi-hands-on-review-9.jpg",
+      "alt": "Tudor Black Bay GMT Opaline Dial Pepsi Bezel",
+      "title": "Tudor Black Bay GMT Opaline Dial Pepsi Bezel 79830RB - Tudor Albino GMT Pepsi - hands-on review - 9",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "cb771410ec704c6de8caac40cc9e090e680a3274f5d77267431a9b476a5bd21d"
+    },
+    {
+      "index": 19,
+      "image": "https://monochrome-watches.com/app/uploads/2023/05/Tudor-Black-Bay-GMT-Opaline-Dial-Pepsi-Bezel-79830RB-Tudor-Albino-GMT-Pepsi-hands-on-review-9.jpg",
+      "alt": "Tudor Black Bay GMT Opaline Dial Pepsi Bezel",
+      "title": "Tudor Black Bay GMT Opaline Dial Pepsi Bezel 79830RB - Tudor Albino GMT Pepsi - hands-on review - 9",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "cb771410ec704c6de8caac40cc9e090e680a3274f5d77267431a9b476a5bd21d"
+    },
+    {
+      "index": 20,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2021/05/Tudor-Black-Bay-Ceramic-Master-Chronometer-METAS-M79210CNU-0001-review-1.jpg",
+      "alt": "",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "b37148c0dbe210ff5d527be9eed46fd7ee960ca01f4a086895424c3e9658253b"
+    },
+    {
+      "index": 21,
+      "image": "https://monochrome-watches.com/app/uploads/2021/05/Tudor-Black-Bay-Ceramic-Master-Chronometer-METAS-M79210CNU-0001-review-5.jpg",
+      "alt": "Tudor Black Bay Ceramic Master Chronometer METAS M79210CNU-0001 - review - 5",
+      "title": "Tudor Black Bay Ceramic Master Chronometer METAS M79210CNU-0001 - review - 5",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "0f66acd1695f6450796a3311c96c56de70af667c3e28c412d30e009e0f175112"
+    },
+    {
+      "index": 22,
+      "image": "https://monochrome-watches.com/app/uploads/2021/05/Tudor-Black-Bay-Ceramic-Master-Chronometer-METAS-M79210CNU-0001-review-5.jpg",
+      "alt": "Tudor Black Bay Ceramic Master Chronometer METAS M79210CNU-0001 - review - 5",
+      "title": "Tudor Black Bay Ceramic Master Chronometer METAS M79210CNU-0001 - review - 5",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "0f66acd1695f6450796a3311c96c56de70af667c3e28c412d30e009e0f175112"
+    },
+    {
+      "index": 23,
+      "image": "https://monochrome-watches.com/app/uploads/2024/08/Tudor-Black-Bay-Ceramic-Blue-79210CNU-9.jpg",
+      "alt": "Tudor Black Bay Ceramic Blue 79210CNU - 9",
+      "title": "Tudor Black Bay Ceramic Blue 79210CNU - 9",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256": "bed3f678e0b03f5f3d41faea33521db77de75bc2699a75cf76479e2c88811b6f"
+    },
+    {
+      "index": 24,
+      "image": "https://monochrome-watches.com/app/uploads/2024/08/Tudor-Black-Bay-Ceramic-Blue-79210CNU-9.jpg",
+      "alt": "Tudor Black Bay Ceramic Blue 79210CNU - 9",
+      "title": "Tudor Black Bay Ceramic Blue 79210CNU - 9",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256": "bed3f678e0b03f5f3d41faea33521db77de75bc2699a75cf76479e2c88811b6f"
+    },
+    {
+      "index": 25,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2023/04/Tudor-Black-Bay-Burgundy-41-Master-Chronometer-Update-2023-Hands-On-Review-M7941A1A0RU-12.jpg",
+      "alt": "2023 Tudor Black Bay Burgundy Master Chronometer M7941A1A0RU",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "248aa1522e5db309a1fb0395a28416181fa850b07053ceaf0e603e6c3f8e5d25"
+    },
+    {
+      "index": 26,
+      "image": "https://monochrome-watches.com/app/uploads/2023/04/Tudor-Black-Bay-Burgundy-41-Master-Chronometer-Update-2023-Hands-On-Review-M7941A1A0RU-10.jpg",
+      "alt": "2023 Tudor Black Bay Burgundy Master Chronometer M7941A1A0RU",
+      "title": "Tudor Black Bay Burgundy 41 Master Chronometer Update 2023 - Hands-On Review - M7941A1A0RU - 10",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "a55dcf88ffa5224956132e66168cd6b6b290e78e4fee070933a75fc9697c3423"
+    },
+    {
+      "index": 27,
+      "image": "https://monochrome-watches.com/app/uploads/2023/04/Tudor-Black-Bay-Burgundy-41-Master-Chronometer-Update-2023-Hands-On-Review-M7941A1A0RU-10.jpg",
+      "alt": "2023 Tudor Black Bay Burgundy Master Chronometer M7941A1A0RU",
+      "title": "Tudor Black Bay Burgundy 41 Master Chronometer Update 2023 - Hands-On Review - M7941A1A0RU - 10",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "a55dcf88ffa5224956132e66168cd6b6b290e78e4fee070933a75fc9697c3423"
+    },
+    {
+      "index": 28,
+      "image": "https://monochrome-watches.com/app/uploads/2023/04/Tudor-Black-Bay-Burgundy-41-Master-Chronometer-Update-2023-Hands-On-Review-M7941A1A0RU-5.jpg",
+      "alt": "2023 Tudor Black Bay Burgundy Master Chronometer M7941A1A0RU",
+      "title": "Tudor Black Bay Burgundy 41 Master Chronometer Update 2023 - Hands-On Review - M7941A1A0RU - 5",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "9cec82e602d01a9f6bcc04effe6c2b831dabcbc6ca4634f833d6093f67f3e306"
+    },
+    {
+      "index": 29,
+      "image": "https://monochrome-watches.com/app/uploads/2023/04/Tudor-Black-Bay-Burgundy-41-Master-Chronometer-Update-2023-Hands-On-Review-M7941A1A0RU-5.jpg",
+      "alt": "2023 Tudor Black Bay Burgundy Master Chronometer M7941A1A0RU",
+      "title": "Tudor Black Bay Burgundy 41 Master Chronometer Update 2023 - Hands-On Review - M7941A1A0RU - 5",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "9cec82e602d01a9f6bcc04effe6c2b831dabcbc6ca4634f833d6093f67f3e306"
+    },
+    {
+      "index": 30,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2024/05/Tudor-Black-Bay-41mm-Black-Monochrome-Master-Chronometer-2024-update-7941A1A0NU-review-11.jpg",
+      "alt": "",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        1400
+      ],
+      "sha256": "faaddc13be8d889bdc561f06c150a0aef112f168fb757b0078df110dab2ecf16"
+    },
+    {
+      "index": 31,
+      "image": "https://monochrome-watches.com/app/uploads/2024/05/Tudor-Black-Bay-41mm-Black-Monochrome-Master-Chronometer-2024-update-7941A1A0NU-review-4.jpg",
+      "alt": "Tudor Black Bay 41mm Black Monochrome Master Chronometer 2024 update 7941A1A0NU - review - 4",
+      "title": "Tudor Black Bay 41mm Black Monochrome Master Chronometer 2024 update 7941A1A0NU - review - 4",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256": "7742f001347b062f3e6c6b67202d3067af1d3151356e044cc0b4878fc89f59cc"
+    },
+    {
+      "index": 32,
+      "image": "https://monochrome-watches.com/app/uploads/2024/05/Tudor-Black-Bay-41mm-Black-Monochrome-Master-Chronometer-2024-update-7941A1A0NU-review-4.jpg",
+      "alt": "Tudor Black Bay 41mm Black Monochrome Master Chronometer 2024 update 7941A1A0NU - review - 4",
+      "title": "Tudor Black Bay 41mm Black Monochrome Master Chronometer 2024 update 7941A1A0NU - review - 4",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256": "7742f001347b062f3e6c6b67202d3067af1d3151356e044cc0b4878fc89f59cc"
+    },
+    {
+      "index": 33,
+      "image": "https://monochrome-watches.com/app/uploads/2024/05/Tudor-Black-Bay-41mm-Black-Monochrome-Master-Chronometer-2024-update-7941A1A0NU-review-14.jpg",
+      "alt": "Tudor Black Bay 41mm Black Monochrome Master Chronometer 2024 update 7941A1A0NU - review - 14",
+      "title": "Tudor Black Bay 41mm Black Monochrome Master Chronometer 2024 update 7941A1A0NU - review - 14",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256": "7a1680429fb7b5a0ca7a46340c71f40b46e6db11291e453bae24bdb05ecb140c"
+    },
+    {
+      "index": 34,
+      "image": "https://monochrome-watches.com/app/uploads/2024/05/Tudor-Black-Bay-41mm-Black-Monochrome-Master-Chronometer-2024-update-7941A1A0NU-review-14.jpg",
+      "alt": "Tudor Black Bay 41mm Black Monochrome Master Chronometer 2024 update 7941A1A0NU - review - 14",
+      "title": "Tudor Black Bay 41mm Black Monochrome Master Chronometer 2024 update 7941A1A0NU - review - 14",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256": "7a1680429fb7b5a0ca7a46340c71f40b46e6db11291e453bae24bdb05ecb140c"
+    },
+    {
+      "index": 35,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2017/11/Tudor-Heritage-Black-Bay-Steel-Ref.-79730-3.jpg",
+      "alt": "Tudor Heritage Black Bay Steel 79730",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        1400
+      ],
+      "sha256": "9bbf184f5d56ac7457c14f4807ecd61c524cc1293f762d443617fdf75aa573b6"
+    },
+    {
+      "index": 36,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2018/09/Tudor-Black-Bay-Fifty-Eight-39mm-11.jpg",
+      "alt": "",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        1402
+      ],
+      "sha256": "23b664155655d08cdc61beaee1d205b8d4145245fb72c79f5476151eab234318"
+    },
+    {
+      "index": 37,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2018/04/Tudor-Black-Bay-Fifty-Eight-39mm-79030N-Baselworld-2018-4.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight 39mm 79030N - Baselworld 2018",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2097,
+        1400
+      ],
+      "sha256": "223b0f3f65c5a149d3fef60ec92215f4c568f08ce72b8dea5809d29fccb70a6c"
+    },
+    {
+      "index": 38,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2020/07/Tudor-Black-Bay-Fifty-Eight-Navy-Blue-REVIEW-4.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight Navy Blue BB58",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        1397
+      ],
+      "sha256": "5062611244cf600fbd14ad444d90d7a217f6e21e5c4e0fa17a274a97386db564"
+    },
+    {
+      "index": 39,
+      "image": "https://monochrome-watches.com/app/uploads/2020/07/Tudor-Black-Bay-Fifty-Eight-Navy-Blue-REVIEW-13.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight Navy Blue BB58",
+      "title": "Tudor Black Bay Fifty-Eight Navy Blue REVIEW - 13",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "121dd56213be8d22e836af45428426ea70e55237827e445f0ed6f7ac2989299c"
+    },
+    {
+      "index": 40,
+      "image": "https://monochrome-watches.com/app/uploads/2020/07/Tudor-Black-Bay-Fifty-Eight-Navy-Blue-REVIEW-13.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight Navy Blue BB58",
+      "title": "Tudor Black Bay Fifty-Eight Navy Blue REVIEW - 13",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "121dd56213be8d22e836af45428426ea70e55237827e445f0ed6f7ac2989299c"
+    },
+    {
+      "index": 41,
+      "image": "https://monochrome-watches.com/app/uploads/2020/07/Tudor-Black-Bay-Fifty-Eight-Navy-Blue-REVIEW-7.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight Navy Blue BB58",
+      "title": "Tudor Black Bay Fifty-Eight Navy Blue REVIEW - 7",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "43e39109fb0e87a733e9695a546f34b48ca3786c84dabc6a1c6782a784cca806"
+    },
+    {
+      "index": 42,
+      "image": "https://monochrome-watches.com/app/uploads/2020/07/Tudor-Black-Bay-Fifty-Eight-Navy-Blue-REVIEW-7.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight Navy Blue BB58",
+      "title": "Tudor Black Bay Fifty-Eight Navy Blue REVIEW - 7",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "43e39109fb0e87a733e9695a546f34b48ca3786c84dabc6a1c6782a784cca806"
+    },
+    {
+      "index": 43,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2021/06/Tudor-Black-Bay-Fifty-Eight-Bronze-M79012M-Hands-On-Review-2.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight Bronze M79012M",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "20c9204dc4258f3ad6b2fdf2aae7f7dba5d0fa75a578c9cb4019c907c85b24d9"
+    },
+    {
+      "index": 44,
+      "image": "https://monochrome-watches.com/app/uploads/2021/06/Tudor-Black-Bay-Fifty-Eight-Bronze-M79012M-Hands-On-Review-1.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight Bronze M79012M",
+      "title": "Tudor Black Bay Fifty-Eight Bronze M79012M - Hands-On Review - 1",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        1402
+      ],
+      "sha256": "e756843bda914f3aadbd10aca522f0e456d784e89e43d857318503d4b41ed4c9"
+    },
+    {
+      "index": 45,
+      "image": "https://monochrome-watches.com/app/uploads/2021/06/Tudor-Black-Bay-Fifty-Eight-Bronze-M79012M-Hands-On-Review-1.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight Bronze M79012M",
+      "title": "Tudor Black Bay Fifty-Eight Bronze M79012M - Hands-On Review - 1",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        1402
+      ],
+      "sha256": "e756843bda914f3aadbd10aca522f0e456d784e89e43d857318503d4b41ed4c9"
+    },
+    {
+      "index": 46,
+      "image": "https://monochrome-watches.com/app/uploads/2021/06/Tudor-Black-Bay-Fifty-Eight-Bronze-M79012M-Hands-On-Review-9.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight Bronze M79012M",
+      "title": "Tudor Black Bay Fifty-Eight Bronze M79012M - Hands-On Review - 9",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        1402
+      ],
+      "sha256": "9d2282217940c3c345cc08db901841d1111e91d07a0ac945d3c5f9b6af1425d9"
+    },
+    {
+      "index": 47,
+      "image": "https://monochrome-watches.com/app/uploads/2021/06/Tudor-Black-Bay-Fifty-Eight-Bronze-M79012M-Hands-On-Review-9.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight Bronze M79012M",
+      "title": "Tudor Black Bay Fifty-Eight Bronze M79012M - Hands-On Review - 9",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        1402
+      ],
+      "sha256": "9d2282217940c3c345cc08db901841d1111e91d07a0ac945d3c5f9b6af1425d9"
+    },
+    {
+      "index": 48,
+      "image": "https://monochrome-watches.com/app/uploads/2021/06/Tudor-Black-Bay-Fifty-Eight-Bronze-M79012M-Hands-On-Review-8.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight Bronze M79012M",
+      "title": "Tudor Black Bay Fifty-Eight Bronze M79012M - Hands-On Review - 8",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        1402
+      ],
+      "sha256": "710e96d79b15205ce3779f4db5e98bb7e7691a9c2c9f5d351bd908fdab240c8b"
+    },
+    {
+      "index": 49,
+      "image": "https://monochrome-watches.com/app/uploads/2021/06/Tudor-Black-Bay-Fifty-Eight-Bronze-M79012M-Hands-On-Review-8.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight Bronze M79012M",
+      "title": "Tudor Black Bay Fifty-Eight Bronze M79012M - Hands-On Review - 8",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        1402
+      ],
+      "sha256": "710e96d79b15205ce3779f4db5e98bb7e7691a9c2c9f5d351bd908fdab240c8b"
+    },
+    {
+      "index": 50,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2021/04/Tudor-Black-Bay-Fifty-Eight-925-Silver-Case-79010SG-hands-on-9.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight 925 Silver Case 79010SG",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        1397
+      ],
+      "sha256": "49ac1cb16175483877ac7c5b05f57f3c48a5ea9c3db5add0ed4de9c3667970d2"
+    },
+    {
+      "index": 51,
+      "image": "https://monochrome-watches.com/app/uploads/2021/04/Tudor-Black-Bay-Fifty-Eight-925-Silver-Case-79010SG-hands-on-8.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight 925 Silver Case 79010SG",
+      "title": "Tudor Black Bay Fifty-Eight 925 Silver Case 79010SG - hands-on - 8",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "3612385505132269b1f6cdd39cd2c2d876a1ca0461176b7b4ab8643f3acc020d"
+    },
+    {
+      "index": 52,
+      "image": "https://monochrome-watches.com/app/uploads/2021/04/Tudor-Black-Bay-Fifty-Eight-925-Silver-Case-79010SG-hands-on-8.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight 925 Silver Case 79010SG",
+      "title": "Tudor Black Bay Fifty-Eight 925 Silver Case 79010SG - hands-on - 8",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "3612385505132269b1f6cdd39cd2c2d876a1ca0461176b7b4ab8643f3acc020d"
+    },
+    {
+      "index": 53,
+      "image": "https://monochrome-watches.com/app/uploads/2021/04/Tudor-Black-Bay-Fifty-Eight-925-Silver-Case-79010SG-hands-on-4.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight 925 Silver Case 79010SG",
+      "title": "Tudor Black Bay Fifty-Eight 925 Silver Case 79010SG - hands-on - 4",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "c4c88217cac75c7a92e16d1dbe07a587f5c34fa7406a199ef621bb5b43882e68"
+    },
+    {
+      "index": 54,
+      "image": "https://monochrome-watches.com/app/uploads/2021/04/Tudor-Black-Bay-Fifty-Eight-925-Silver-Case-79010SG-hands-on-4.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight 925 Silver Case 79010SG",
+      "title": "Tudor Black Bay Fifty-Eight 925 Silver Case 79010SG - hands-on - 4",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "c4c88217cac75c7a92e16d1dbe07a587f5c34fa7406a199ef621bb5b43882e68"
+    },
+    {
+      "index": 55,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2021/04/Tudor-Black-Bay-Fifty-Eight-925-Silver-Case-79010SG-hands-on-6.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight 925 Silver Case 79010SG",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        1397
+      ],
+      "sha256": "0f120aacc699fd79f646ac154090d5a1df4dd88f8267fed1b766dd376a0c1327"
+    },
+    {
+      "index": 56,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2021/04/Tudor-Black-Bay-Fifty-Eight-18k-yellow-gold-green-dial-79018V-1.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight 18k yellow gold green dial 79018V",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        1400
+      ],
+      "sha256": "99d575d30c8121bbec4dd81d12c1bb3f5fa6ee1ebe0c4c2fdfed8be171997791"
+    },
+    {
+      "index": 57,
+      "image": "https://monochrome-watches.com/app/uploads/2021/04/Tudor-Black-Bay-Fifty-Eight-18k-yellow-gold-green-dial-79018V-4.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight 18k yellow gold green dial 79018V",
+      "title": "Tudor Black Bay Fifty-Eight 18k yellow gold green dial 79018V - 4",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        1500,
+        1500
+      ],
+      "sha256": "8bf6c8312a262e322f48949872816da74753eafc0787bc67d77131e7308b6ae0"
+    },
+    {
+      "index": 58,
+      "image": "https://monochrome-watches.com/app/uploads/2021/04/Tudor-Black-Bay-Fifty-Eight-18k-yellow-gold-green-dial-79018V-4.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight 18k yellow gold green dial 79018V",
+      "title": "Tudor Black Bay Fifty-Eight 18k yellow gold green dial 79018V - 4",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        1500,
+        1500
+      ],
+      "sha256": "8bf6c8312a262e322f48949872816da74753eafc0787bc67d77131e7308b6ae0"
+    },
+    {
+      "index": 59,
+      "image": "https://monochrome-watches.com/app/uploads/2021/04/Tudor-Black-Bay-Fifty-Eight-18k-yellow-gold-green-dial-79018V-3.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight 18k yellow gold green dial 79018V",
+      "title": "Tudor Black Bay Fifty-Eight 18k yellow gold green dial 79018V - 3",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        1500,
+        1500
+      ],
+      "sha256": "ca8388f25bc16d9ef253a4e328d66f3df177304f8316c26f648253732364ce3f"
+    },
+    {
+      "index": 60,
+      "image": "https://monochrome-watches.com/app/uploads/2021/04/Tudor-Black-Bay-Fifty-Eight-18k-yellow-gold-green-dial-79018V-3.jpg",
+      "alt": "Tudor Black Bay Fifty-Eight 18k yellow gold green dial 79018V",
+      "title": "Tudor Black Bay Fifty-Eight 18k yellow gold green dial 79018V - 3",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        1500,
+        1500
+      ],
+      "sha256": "ca8388f25bc16d9ef253a4e328d66f3df177304f8316c26f648253732364ce3f"
+    },
+    {
+      "index": 61,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2024/05/Tudor-Black-Bay-58-GMT-39mm-Master-Chronometer-coke-gilt-M7939G1A0NRU-review-opinion-2.jpg",
+      "alt": "Tudor Black Bay 58 GMT Master Chronometer 39mm coke gilt",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        1400
+      ],
+      "sha256": "c9ec9fe5a21f95a9410beb9c8bfd364a501610ba5092c70eb8840f1cd2b7f09d"
+    },
+    {
+      "index": 62,
+      "image": "https://monochrome-watches.com/app/uploads/2024/04/Tudor-Black-Bay-58-GMT-2-1.jpg",
+      "alt": "Tudor Black Bay 58 GMT - 2",
+      "title": "Tudor Black Bay 58 GMT - 2",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "39e706d738a877cfaeda90dd132efbb7f058fcc98b75931e300a1a148ee02439"
+    },
+    {
+      "index": 63,
+      "image": "https://monochrome-watches.com/app/uploads/2024/04/Tudor-Black-Bay-58-GMT-2-1.jpg",
+      "alt": "Tudor Black Bay 58 GMT - 2",
+      "title": "Tudor Black Bay 58 GMT - 2",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "39e706d738a877cfaeda90dd132efbb7f058fcc98b75931e300a1a148ee02439"
+    },
+    {
+      "index": 64,
+      "image": "https://monochrome-watches.com/app/uploads/2024/05/Tudor-Black-Bay-58-GMT-39mm-Master-Chronometer-coke-gilt-M7939G1A0NRU-review-opinion-6.jpg",
+      "alt": "Tudor Black Bay 58 GMT Master Chronometer 39mm coke gilt wristshot",
+      "title": "Tudor Black Bay 58 GMT 39mm Master Chronometer coke gilt M7939G1A0NRU - review opinion - 6",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256": "2ef10f1fb72afc5dd253f83db325a2a40ba33e5ccabdeac544d433e4c7fa7dca"
+    },
+    {
+      "index": 65,
+      "image": "https://monochrome-watches.com/app/uploads/2024/05/Tudor-Black-Bay-58-GMT-39mm-Master-Chronometer-coke-gilt-M7939G1A0NRU-review-opinion-6.jpg",
+      "alt": "Tudor Black Bay 58 GMT Master Chronometer 39mm coke gilt wristshot",
+      "title": "Tudor Black Bay 58 GMT 39mm Master Chronometer coke gilt M7939G1A0NRU - review opinion - 6",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256": "2ef10f1fb72afc5dd253f83db325a2a40ba33e5ccabdeac544d433e4c7fa7dca"
+    },
+    {
+      "index": 66,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2022/04/Tudor-Black-Bay-Pro-GMT-79470-review-2.jpg",
+      "alt": "Tudor Black Bay Pro GMT 79470",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        1397
+      ],
+      "sha256": "3f5c22de9090b77ba90a0a00f113a829a65a3e235645897dc16cdd72514140d5"
+    },
+    {
+      "index": 67,
+      "image": "https://monochrome-watches.com/app/uploads/2022/04/Tudor-Black-Bay-Pro-GMT-79470-review-4.jpg",
+      "alt": "Tudor Black Bay Pro GMT 79470 dial detail",
+      "title": "Tudor Black Bay Pro GMT 79470 - review - 4",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "6dcc552c111777dbbd2a2fa81297f598787e0636e5e644bb564e77f3825d2460"
+    },
+    {
+      "index": 68,
+      "image": "https://monochrome-watches.com/app/uploads/2022/04/Tudor-Black-Bay-Pro-GMT-79470-review-4.jpg",
+      "alt": "Tudor Black Bay Pro GMT 79470 dial detail",
+      "title": "Tudor Black Bay Pro GMT 79470 - review - 4",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "6dcc552c111777dbbd2a2fa81297f598787e0636e5e644bb564e77f3825d2460"
+    },
+    {
+      "index": 69,
+      "image": "https://monochrome-watches.com/app/uploads/2022/04/Tudor-Black-Bay-Pro-GMT-79470-review-8.jpg",
+      "alt": "Tudor Black Bay Pro GMT 79470 steel bracelet",
+      "title": "Tudor Black Bay Pro GMT 79470 - review - 8",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "249dcfb34048211925b18e41e6206bde102f8d5c4ae149e88d10c0a2aeed4a87"
+    },
+    {
+      "index": 70,
+      "image": "https://monochrome-watches.com/app/uploads/2022/04/Tudor-Black-Bay-Pro-GMT-79470-review-8.jpg",
+      "alt": "Tudor Black Bay Pro GMT 79470 steel bracelet",
+      "title": "Tudor Black Bay Pro GMT 79470 - review - 8",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "249dcfb34048211925b18e41e6206bde102f8d5c4ae149e88d10c0a2aeed4a87"
+    },
+    {
+      "index": 71,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2023/04/Tudor-Black-Bay-54-dive-watch-37mm-reference-79000N-hands-on-review-5.jpg",
+      "alt": "Tudor Black Bay 54 dive watch 37mm reference 79000N",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        1400
+      ],
+      "sha256": "4132d898ceb5fe9c98357a8edb9179fa5c31e8b94cebd92fd51f8154a99ae577"
+    },
+    {
+      "index": 72,
+      "image": "https://monochrome-watches.com/app/uploads/2023/04/Tudor-Black-Bay-54-dive-watch-37mm-reference-79000N-hands-on-review-6.jpg",
+      "alt": "Tudor Black Bay 54 dive watch 37mm reference 79000N",
+      "title": "Tudor Black Bay 54 dive watch 37mm reference 79000N - hands-on review - 6",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "dca1eabc3f158a1b80a14fca2bdb150a9fac770992c9e6682e0526878c7817fa"
+    },
+    {
+      "index": 73,
+      "image": "https://monochrome-watches.com/app/uploads/2023/04/Tudor-Black-Bay-54-dive-watch-37mm-reference-79000N-hands-on-review-6.jpg",
+      "alt": "Tudor Black Bay 54 dive watch 37mm reference 79000N",
+      "title": "Tudor Black Bay 54 dive watch 37mm reference 79000N - hands-on review - 6",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "dca1eabc3f158a1b80a14fca2bdb150a9fac770992c9e6682e0526878c7817fa"
+    },
+    {
+      "index": 74,
+      "image": "https://monochrome-watches.com/app/uploads/2023/04/Tudor-Black-Bay-54-dive-watch-37mm-reference-79000N-hands-on-review-9.jpg",
+      "alt": "Tudor Black Bay 54 dive watch 37mm reference 79000N",
+      "title": "Tudor Black Bay 54 dive watch 37mm reference 79000N - hands-on review - 9",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "d8abd35ae9009021f8b4ab7d9d421315ceb8dfc15a09c84e75809c6bf06e51c6"
+    },
+    {
+      "index": 75,
+      "image": "https://monochrome-watches.com/app/uploads/2023/04/Tudor-Black-Bay-54-dive-watch-37mm-reference-79000N-hands-on-review-9.jpg",
+      "alt": "Tudor Black Bay 54 dive watch 37mm reference 79000N",
+      "title": "Tudor Black Bay 54 dive watch 37mm reference 79000N - hands-on review - 9",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "d8abd35ae9009021f8b4ab7d9d421315ceb8dfc15a09c84e75809c6bf06e51c6"
+    },
+    {
+      "index": 76,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2023/04/Tudor-Black-Bay-54-dive-watch-37mm-reference-79000N-hands-on-review-2.jpg",
+      "alt": "Tudor Black Bay 54 dive watch 37mm reference 79000N",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "7993ce22588a6610e3aef05a997ca5968055a67dc09c22f38fb9a6060f675822"
+    },
+    {
+      "index": 77,
+      "image": "https://monochrome-watches.com/app/uploads/2021/04/2021-Tudor-Black-Bay-Chrono-Reversed-Panda-Black-Bezel-79360N-review-2.jpg",
+      "alt": "2021 Tudor Black Bay Chrono Reversed Panda Black Bezel 79360N - review - 2",
+      "title": "2021 Tudor Black Bay Chrono Reversed Panda Black Bezel 79360N - review - 2",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "0c4b0855092dff3a45a35d7b49d978e2e80deef99e675fb81725c78f80cc400d"
+    },
+    {
+      "index": 78,
+      "image": "https://monochrome-watches.com/app/uploads/2021/04/2021-Tudor-Black-Bay-Chrono-Reversed-Panda-Black-Bezel-79360N-review-2.jpg",
+      "alt": "2021 Tudor Black Bay Chrono Reversed Panda Black Bezel 79360N - review - 2",
+      "title": "2021 Tudor Black Bay Chrono Reversed Panda Black Bezel 79360N - review - 2",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "0c4b0855092dff3a45a35d7b49d978e2e80deef99e675fb81725c78f80cc400d"
+    },
+    {
+      "index": 79,
+      "image": "https://monochrome-watches.com/app/uploads/2021/04/2021-Tudor-Black-Bay-Chrono-Panda-Black-Bezel-79360N-review-1.jpg",
+      "alt": "2021 Tudor Black Bay Chrono Panda Black Bezel 79360N - review - 1",
+      "title": "2021 Tudor Black Bay Chrono Panda Black Bezel 79360N - review - 1",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "71fc92021f9445eb66ad868b6ef0d53f6ed75222be7cb7f071d4fdef0e51d495"
+    },
+    {
+      "index": 80,
+      "image": "https://monochrome-watches.com/app/uploads/2021/04/2021-Tudor-Black-Bay-Chrono-Panda-Black-Bezel-79360N-review-1.jpg",
+      "alt": "2021 Tudor Black Bay Chrono Panda Black Bezel 79360N - review - 1",
+      "title": "2021 Tudor Black Bay Chrono Panda Black Bezel 79360N - review - 1",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        2100
+      ],
+      "sha256": "71fc92021f9445eb66ad868b6ef0d53f6ed75222be7cb7f071d4fdef0e51d495"
+    },
+    {
+      "index": 81,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2019/03/DSC_3834.jpg",
+      "alt": "Tudor Black Bay P01",
+      "title": "",
+      "articleKey": 0,
+      "source": "https://monochrome-watches.com/history-tudor-black-bay-collection-2012-2024-including-all-models-all-movement-bb58-bb54-gmt-in-depth-recap/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        1397
+      ],
+      "sha256": "9e77a3499ec57a52b3aab931dbbf6e8c9ee03912de13ba27d5e68403d7ff482f"
+    },
+    {
+      "index": 0,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2023/06/Tudor-Pelagos-FXD-And-Pelagos-FXD-Chrono-Alinghi-Red-Bull-Racing-Edition-1.jpg",
+      "alt": "",
+      "title": "",
+      "articleKey": 1,
+      "source": "https://monochrome-watches.com/introducing-tudor-pelagos-fxd-25707kn-and-pelagos-fxd-chrono-25807kn-alinghi-red-bull-racing-edition-specs-price/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        1400
+      ],
+      "sha256": "176a263523878411229d923fcb18e39bedfdab0f1a7df2117a75efdd43553ec9"
+    },
+    {
+      "index": 1,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2023/06/Tudor-Pelagos-FXD-And-Pelagos-FXD-Chrono-Alinghi-Red-Bull-Racing-Edition-3.jpg",
+      "alt": "",
+      "title": "",
+      "articleKey": 1,
+      "source": "https://monochrome-watches.com/introducing-tudor-pelagos-fxd-25707kn-and-pelagos-fxd-chrono-25807kn-alinghi-red-bull-racing-edition-specs-price/",
+      "status": "decoded",
+      "dimensions": [
+        1920,
+        1920
+      ],
+      "sha256": "295599219b3a00f0852260c9f8e8f985b601fabdadc94a76c25b0c1d411ff3cf"
+    },
+    {
+      "index": 2,
+      "image": "https://monochrome-watches.com/app/uploads/2023/06/Tudor-Pelagos-FXD-Alinghi-Red-Bull-Racing-Edition-25707KN-1.jpg",
+      "alt": "Tudor Pelagos FXD Alinghi Red Bull Racing Edition 25707KN - 1",
+      "title": "Tudor Pelagos FXD Alinghi Red Bull Racing Edition 25707KN - 1",
+      "articleKey": 1,
+      "source": "https://monochrome-watches.com/introducing-tudor-pelagos-fxd-25707kn-and-pelagos-fxd-chrono-25807kn-alinghi-red-bull-racing-edition-specs-price/",
+      "status": "decoded",
+      "dimensions": [
+        1500,
+        1500
+      ],
+      "sha256": "ecdcc451738ec5ff01d728b7db40e21e0927fd41679fed02eab0e4f79c841fca"
+    },
+    {
+      "index": 3,
+      "image": "https://monochrome-watches.com/app/uploads/2023/06/Tudor-Pelagos-FXD-Alinghi-Red-Bull-Racing-Edition-25707KN-1.jpg",
+      "alt": "Tudor Pelagos FXD Alinghi Red Bull Racing Edition 25707KN - 1",
+      "title": "Tudor Pelagos FXD Alinghi Red Bull Racing Edition 25707KN - 1",
+      "articleKey": 1,
+      "source": "https://monochrome-watches.com/introducing-tudor-pelagos-fxd-25707kn-and-pelagos-fxd-chrono-25807kn-alinghi-red-bull-racing-edition-specs-price/",
+      "status": "decoded",
+      "dimensions": [
+        1500,
+        1500
+      ],
+      "sha256": "ecdcc451738ec5ff01d728b7db40e21e0927fd41679fed02eab0e4f79c841fca"
+    },
+    {
+      "index": 4,
+      "image": "https://monochrome-watches.com/app/uploads/2023/06/Tudor-Pelagos-FXD-Chrono-Alinghi-Red-Bull-Racing-Edition-25807KN-1.jpg",
+      "alt": "Tudor Pelagos FXD Chrono Alinghi Red Bull Racing Edition 25807KN - 1",
+      "title": "Tudor Pelagos FXD Chrono Alinghi Red Bull Racing Edition 25807KN - 1",
+      "articleKey": 1,
+      "source": "https://monochrome-watches.com/introducing-tudor-pelagos-fxd-25707kn-and-pelagos-fxd-chrono-25807kn-alinghi-red-bull-racing-edition-specs-price/",
+      "status": "decoded",
+      "dimensions": [
+        1500,
+        1500
+      ],
+      "sha256": "262cf8861d1e1a175d82d887985445d12236718324b2dff80f54b1762f1ca9fa"
+    },
+    {
+      "index": 5,
+      "image": "https://monochrome-watches.com/app/uploads/2023/06/Tudor-Pelagos-FXD-Chrono-Alinghi-Red-Bull-Racing-Edition-25807KN-1.jpg",
+      "alt": "Tudor Pelagos FXD Chrono Alinghi Red Bull Racing Edition 25807KN - 1",
+      "title": "Tudor Pelagos FXD Chrono Alinghi Red Bull Racing Edition 25807KN - 1",
+      "articleKey": 1,
+      "source": "https://monochrome-watches.com/introducing-tudor-pelagos-fxd-25707kn-and-pelagos-fxd-chrono-25807kn-alinghi-red-bull-racing-edition-specs-price/",
+      "status": "decoded",
+      "dimensions": [
+        1500,
+        1500
+      ],
+      "sha256": "262cf8861d1e1a175d82d887985445d12236718324b2dff80f54b1762f1ca9fa"
+    },
+    {
+      "index": 6,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2023/06/Tudor-Pelagos-FXD-Chrono-Alinghi-Red-Bull-Racing-Edition-25807KN-4.jpg",
+      "alt": "",
+      "title": "",
+      "articleKey": 1,
+      "source": "https://monochrome-watches.com/introducing-tudor-pelagos-fxd-25707kn-and-pelagos-fxd-chrono-25807kn-alinghi-red-bull-racing-edition-specs-price/",
+      "status": "decoded",
+      "dimensions": [
+        2100,
+        1400
+      ],
+      "sha256": "108809269726c2910ce104475a8c54a91795fcf7878199ba19753c6cf559fc23"
+    },
+    {
+      "index": 7,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2023/06/Tudor-Pelagos-FXD-Alinghi-Red-Bull-Racing-Edition-25707KN-2.jpg",
+      "alt": "",
+      "title": "",
+      "articleKey": 1,
+      "source": "https://monochrome-watches.com/introducing-tudor-pelagos-fxd-25707kn-and-pelagos-fxd-chrono-25807kn-alinghi-red-bull-racing-edition-specs-price/",
+      "status": "decoded",
+      "dimensions": [
+        1500,
+        1500
+      ],
+      "sha256": "36d92afa08d9e65d90e409390de2ad7ca6c96c9289d56c2f44b97cbe66afcd5f"
+    },
+    {
+      "index": 8,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2023/06/Tudor-Pelagos-FXD-Alinghi-Red-Bull-Racing-Edition-25707KN-3.jpg",
+      "alt": "",
+      "title": "",
+      "articleKey": 1,
+      "source": "https://monochrome-watches.com/introducing-tudor-pelagos-fxd-25707kn-and-pelagos-fxd-chrono-25807kn-alinghi-red-bull-racing-edition-specs-price/",
+      "status": "decoded",
+      "dimensions": [
+        1500,
+        1500
+      ],
+      "sha256": "3ad7e9903ba1b4bfae3eb1a048883871be44bd4b9f34f0f7143286b02b7af2c9"
+    },
+    {
+      "index": 9,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2023/06/Tudor-Pelagos-FXD-Chrono-Alinghi-Red-Bull-Racing-Edition-25807KN-2.jpg",
+      "alt": "",
+      "title": "",
+      "articleKey": 1,
+      "source": "https://monochrome-watches.com/introducing-tudor-pelagos-fxd-25707kn-and-pelagos-fxd-chrono-25807kn-alinghi-red-bull-racing-edition-specs-price/",
+      "status": "decoded",
+      "dimensions": [
+        1500,
+        1500
+      ],
+      "sha256": "46024240629e680b2be64cab276d5312e280ffa14ecaae797c8f5b2224b4803c"
+    },
+    {
+      "index": 10,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2023/06/Tudor-Pelagos-FXD-Chrono-Alinghi-Red-Bull-Racing-Edition-25807KN-3.jpg",
+      "alt": "",
+      "title": "",
+      "articleKey": 1,
+      "source": "https://monochrome-watches.com/introducing-tudor-pelagos-fxd-25707kn-and-pelagos-fxd-chrono-25807kn-alinghi-red-bull-racing-edition-specs-price/",
+      "status": "decoded",
+      "dimensions": [
+        1500,
+        1500
+      ],
+      "sha256": "8aed18ec0816ad07f4a6d83869c6098805110b1f86f8290b61914cd05ffe9115"
+    },
+    {
+      "index": 0,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2016/11/tudor_oyster_prince_submariner_left_9401.jpg",
+      "alt": "tudor_oyster_prince_submariner_left_9401",
+      "title": "",
+      "articleKey": 2,
+      "source": "https://monochrome-watches.com/tudor-pelagos-lhd-left-handed-review-price/",
+      "status": "decoded",
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "sha256": "012d515b78b080bbfc83ac1044fc38b0536902f0da832f47361fd0cc39843a0d"
+    },
+    {
+      "index": 1,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2016/11/Tudor-Pelagos-LHD-4.jpg",
+      "alt": "Tudor Pelagos LHD",
+      "title": "",
+      "articleKey": 2,
+      "source": "https://monochrome-watches.com/tudor-pelagos-lhd-left-handed-review-price/",
+      "status": "decoded",
+      "dimensions": [
+        1500,
+        1000
+      ],
+      "sha256": "82e25951078800d8b4b74a83a50628ee773d8f8ad0f24ea9e68c94e250682a3d"
+    },
+    {
+      "index": 2,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2016/11/Tudor-Pelagos-LHD-3.jpg",
+      "alt": "Tudor Pelagos LHD",
+      "title": "",
+      "articleKey": 2,
+      "source": "https://monochrome-watches.com/tudor-pelagos-lhd-left-handed-review-price/",
+      "status": "decoded",
+      "dimensions": [
+        1500,
+        1000
+      ],
+      "sha256": "0571ff9915ffa8d57d2e4f407b0a9e1697bb0f372365864cfc2b7bec2f786065"
+    },
+    {
+      "index": 3,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2016/11/Tudor-Pelagos-LHD-6.jpg",
+      "alt": "Tudor Pelagos LHD",
+      "title": "",
+      "articleKey": 2,
+      "source": "https://monochrome-watches.com/tudor-pelagos-lhd-left-handed-review-price/",
+      "status": "decoded",
+      "dimensions": [
+        1500,
+        1000
+      ],
+      "sha256": "1f404ec637fa616c6913c17c1fdceb2f9f20d561fea03fbd79ce4f26162819ba"
+    },
+    {
+      "index": 4,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2016/11/Tudor-Pelagos-LHD-2.jpg",
+      "alt": "Tudor Pelagos LHD",
+      "title": "",
+      "articleKey": 2,
+      "source": "https://monochrome-watches.com/tudor-pelagos-lhd-left-handed-review-price/",
+      "status": "decoded",
+      "dimensions": [
+        1500,
+        1000
+      ],
+      "sha256": "8a45be33a6955e53a050d2dcddb5115f6ea53d5242308d6e69829d7d17063667"
+    },
+    {
+      "index": 5,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2016/11/Tudor-Pelagos-LHD-5.jpg",
+      "alt": "Tudor Pelagos LHD",
+      "title": "",
+      "articleKey": 2,
+      "source": "https://monochrome-watches.com/tudor-pelagos-lhd-left-handed-review-price/",
+      "status": "decoded",
+      "dimensions": [
+        1500,
+        1000
+      ],
+      "sha256": "289b4ad8a3d9101c41649fff86a358c2f5fb834f7fee0d7dbb1d14314418bd1e"
+    },
+    {
+      "index": 6,
+      "image": "https://monochrome-watches.com/wp-content/uploads/2016/11/Tudor-Pelagos-LHD-7.jpg",
+      "alt": "tudor-pelagos-lhd-7",
+      "title": "",
+      "articleKey": 2,
+      "source": "https://monochrome-watches.com/tudor-pelagos-lhd-left-handed-review-price/",
+      "status": "decoded",
+      "dimensions": [
+        1500,
+        1000
+      ],
+      "sha256": "216479cc662342d697302a396cacc1578b61663b60ef8776fb6e6e197adfb3d0"
+    }
+  ],
+  "note": "All 109 main article image occurrences decoded and visually inspected. Duplicate gallery appearances are occurrences, not unique photographs. Only actual hands-on black manufacture front and bracelet detail accepted; no isolated movement or product-composite photo promoted."
+}

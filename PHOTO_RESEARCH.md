@@ -1,17 +1,17 @@
 # BenchAuth photograph research — in progress
 
-This branch is a reviewable implementation draft. **Do not deploy it as completed
-photograph research.** The user supplied the original goal: entering a brand and
+This checkpoint is a partial photograph release. **Photograph research remains
+in progress; it must not be described as complete.** The user supplied the original goal: entering a brand and
 case reference must show useful, correctly matched actual photographs, with
 documented variants and four comparison categories. Review every stored reference;
 leave unsupported categories empty; preserve existing workflows and safety rules;
-publish only after research and checks pass. The separate production WatchAuthPro
+continue systematic research and validation. The separate production WatchAuthPro
 repository must not be modified.
 
 Network access was verified first. GitHub and the BenchAuth live site return HTTP
 200. Of 1,564 distinct stored source URLs, 1,531 return HTTP 200 and 33 manufacturer
 Breitling URLs return HTTP 403. HTTP access and download counts **do not** establish
-visual review. The existing live site is unchanged.
+visual review. The current verified checkpoint is prepared for publication to BenchAuth.
 
 Rollback: GitHub branch `rollback/benchauth-before-photographs-20261008`, commit
 `b4ffc080c4dba6f55bb246377a24a3c2bf284052`. A local Git bundle is saved at
@@ -36,10 +36,10 @@ watch models: punctuation/case duplicates collapse; M-prefixed aliases, base
 references and catalogue suffixes remain separate keys. Broad patterns require
 enumeration and source review; they are never counted as exact references.
 
-Current exact progress is in the generated coverage files: **185 identifier keys
-reviewed, 2,053 unreviewed; 141 source records reviewed, 2,306 unreviewed**. There are
-**526 catalogue assets: 495 verified, 22 pending and 9 rejected**, including 31
-legacy assets. Verified reference-key coverage: **front 161, movement 65, caseback
+Current exact progress is in the generated coverage files: **190 identifier keys
+reviewed, 2,048 unreviewed; 144 source records reviewed, 2,303 unreviewed**. There are
+**538 catalogue assets: 507 verified, 22 pending and 9 rejected**, including 31
+legacy assets. Verified reference-key coverage: **front 165, movement 65, caseback
 139, bracelet/clasp 137**. Reviewed gaps describe the inspected source set, not a
 claim that no suitable image exists elsewhere. Existing textual research and
 pre-existing "verified" mapping badges do not verify photographs. Unreviewed
@@ -175,16 +175,16 @@ authenticate to Supabase or verify real photograph loading or live RLS.
 public image servers without mocked images or authenticated database mutations.
 It checks every accepted photograph's load, enlargement, credit, representative
 label and mobile overflow. Chromium must trust the configured environment proxy
-CA; certificate verification must remain enabled. All 495 accepted photographs across 220 explicit covered keys
-passed this check on 2026-10-09. Rerun after catalogue additions. The Node suite passes all 28
+CA; certificate verification must remain enabled. All 507 accepted photographs across 226 explicit covered keys
+passed this check on 2026-10-09. Rerun after catalogue additions. The Node suite passes all 30
 tests, and the fixture browser suite covers the preserved workflows and mocked
 authenticated refreshes.
 
-Before publishing, inspect and load every accepted real photograph, test shared
-refreshes with permitted live data, resolve/review the inventory, and verify the
-BenchAuth Pages deployment. Do not change or deploy the separate WatchAuthPro
-production repository. Publication is pending complete inventory research and
-these checks. Live authenticated refresh/RLS testing requires a permitted BenchAuth
+The user authorised publishing the current verified checkpoint on 2026-10-09,
+while inventory research continues. Inspect and load every accepted photograph
+and verify the BenchAuth Pages deployment. Preserve the rollback and existing
+workflows. Do not change or deploy the separate WatchAuthPro production repository.
+Complete inventory research and live authenticated refresh checks remain outstanding. Live authenticated refresh/RLS testing requires a permitted BenchAuth
 test account or an authenticated test browser; neither is configured. Public read
 access alone does not prove live signed-in behavior.
 
@@ -233,3 +233,20 @@ stamped 0000 is withheld; its complete reference does not establish the stored
 incomplete 7943A1A0 alias. Black Bay One campaign provenance and size/dial pairing
 remain unresolved for 79600/79640/79660/79680. Advisor 79620TC is outside inventory
 and must not supply 79600 photographs. See `photograph-monochrome-tudor-sources.json`.
+
+The seventh Tudor comparison pass inspects 77 decodable photographs among 79
+main image occurrences; two unavailable occurrences remain unresolved. One
+Xupes front photograph of black 25600TN is accepted, corroborated against exact
+manufacturer M25600TN-0001. The mixed article back stamped 25610T and an unpaired
+clasp are withheld. See `photograph-fratello-tudor-seventh-sources.json`.
+
+The Tudor history pass inspects all 109 main image occurrences in four Monochrome
+articles, accepting two actual 2016 black 79230N front/bracelet details. WatchBase
+corroborates colour/reference identity; its -0001 is leather and is not assigned
+to the pictured bracelet. Isolated MT5602 and three-colour product media remain
+withheld. Joined 79230R/B/N is enumerated, not made into a literal photograph
+alias. Three additional auction lots provide 33 inspected photographs and nine
+accepted assets: ETA 79220N/R and explicitly labelled State of Qatar 79230R.
+Protective film and specimen clasp codes are explained; no opened movement is
+implied. See `photograph-monochrome-tudor-history-sources.json` and
+`photograph-tudor-extra-auction-sources.json`.

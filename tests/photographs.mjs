@@ -192,3 +192,24 @@ test('new Tudor Black Bay configurations stay within documented suffixes and sam
  assert.ok(forRef('7943A1A0').every(p=>!large.some(q=>q.id===p.id)));
  for(const ref of ['7939A1A0NU','7939A1A0RU','79000B'])assert.ok(forRef(ref).every(p=>p.category!=='movement'));
 });
+
+test('mixed Pelagos details and ETA/MT5602 Black Bays retain specimen boundaries',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const forRef=reference=>matchingPhotographs(photos,'Tudor',reference);
+ const black=forRef('M25600TN-0001');
+ assert.ok(black.some(p=>p.id==='fratello-seventh-25600tn-front-9'));
+ assert.ok(black.every(p=>p.category==='front'));
+ for(const ref of ['25600TB','25610TNL','2543C1A7NU'])assert.ok(forRef(ref).every(p=>!black.some(q=>p.id===q.id)));
+ const eta=forRef('79220N').filter(p=>p.id.startsWith('bukowskis-643-31-'));
+ assert.ok(eta.some(p=>p.category==='caseback'));
+ assert.ok(eta.some(p=>p.category==='braceletClasp'));
+ assert.ok(eta.every(p=>p.category!=='movement'));
+ const manufacture=forRef('79230N');
+ assert.ok(manufacture.some(p=>p.id==='monochrome-2016-79230n-front-5'));
+ assert.ok(manufacture.every(p=>!eta.some(q=>p.id===q.id)));
+ const qatar=forRef('79230R').filter(p=>p.id.startsWith('bukowskis-659-1106-'));
+ assert.ok(qatar.some(p=>p.category==='front'&&p.variant.includes('State of Qatar')));
+ assert.ok(qatar.every(p=>p.category!=='movement'));
+ assert.ok(forRef('79220R').every(p=>!qatar.some(q=>p.id===q.id)));
+ assert.equal(forRef('79230R/B/N').length,0);
+});
