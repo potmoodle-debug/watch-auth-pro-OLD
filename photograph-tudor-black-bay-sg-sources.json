@@ -1,0 +1,201 @@
+{
+  "completion": "IN PROGRESS",
+  "reviewedAt": "2026-10-09T14:47:18.549032+00:00",
+  "evidence": "Six actual 2018 hands-on photographs inspected. Back image 5 visibly stamps case reference 79733; its paired front has champagne dial, black dive bezel and steel/yellow-gold bracelet. Article links that execution directly to official https://www.tudorwatch.com/watches/black-bay-s-g/m79733n-0004; independent https://watchbase.com/tudor/black-bay/79733n-0004 corroborates 41 mm, champagne dial, bracelet and closed back. This is a documented physical-case-stamp alias, not a guessed missing N. All fourteen occurrences across two articles decoded and visually inspected (ten unique URLs); unrelated Oris movement/backs excluded. No opened MT5612 photograph or separate clasp detail is available.",
+  "acceptedPhotographs": 2,
+  "inspectedDecodedOccurrences": 14,
+  "inspectedUniqueImages": 10,
+  "imageAccess": [
+    {
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//2018/03/Tudor-Black-Bay-SG..002.jpg",
+      "alt": "",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-sg-champagne-dial/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "8e7f24479823ed5e4914be585e79b4578934794d834ada24c02d39b4099b346f"
+    },
+    {
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//2018/03/Tudor-Black-Bay-SG..004.jpg",
+      "alt": "",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-sg-champagne-dial/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "d473add8301514d0ae0c86958955cf4c0c36a5c3e68f41343050df416380de2f"
+    },
+    {
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//2018/03/Tudor-Black-Bay-SG..005.jpg",
+      "alt": "",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-sg-champagne-dial/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "ba6fd73215477ec60090f7a6f59665453d16249a01ad75a301a27e6d66627fe2"
+    },
+    {
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//2018/03/Tudor-Black-Bay-SG..006.jpg",
+      "alt": "",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-sg-champagne-dial/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "a2c3dfb38480b4b3ef3587f8fb20801406ffedbeb265f4fcf47a47b9425d91e6"
+    },
+    {
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//2018/03/Tudor-Black-Bay-SG..003.jpg",
+      "alt": "",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-sg-champagne-dial/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "42e50553c484cf49e9b50766b9b6b879a6b68f13ef8291a1a2667b5938a07ca6"
+    },
+    {
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads//2018/03/Tudor-Black-Bay-SG..007.jpg",
+      "alt": "",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/tudor-black-bay-sg-champagne-dial/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "70a0707e4f657071550d463d77e84783215ed616539660fe8d5ac3f476760cf6"
+    },
+    {
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/03/OmegaSeamasterUltraDeepSteel-2.jpg",
+      "alt": "Seamaster Ultra Deep in steel",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-black-bay-sg-vs-oris-aquis-date-calibre-400/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "276d0d1fcc79a0b4fe4300c334330388f1347dad8041d9ea6173e8e037dc6ea0"
+    },
+    {
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/08/Oris-Aquis-Date-Calibre-400.010.jpg",
+      "alt": "",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-black-bay-sg-vs-oris-aquis-date-calibre-400/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1202
+      ],
+      "sha256": "9cd1d1fdec48ea5eb3a530a555e7dea605f5f1358dc825de603281e894f568f1"
+    },
+    {
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/08/Oris-Aquis-Date-Calibre-400.012.jpg",
+      "alt": "",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-black-bay-sg-vs-oris-aquis-date-calibre-400/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1202
+      ],
+      "sha256": "737416834ef0c9ab3f5f07656e525792d56c53cddf9c8ecc62c51b91b62a9dd7"
+    },
+    {
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2022/07/Oris-Aquis-400-Diving-1885-1.jpg",
+      "alt": "conclusion",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-black-bay-sg-vs-oris-aquis-date-calibre-400/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "7e85569a701b9a8bd8d7dba57e0bea71c866d0c4ea4037ab7a2fbf2fe8cd08a6"
+    },
+    {
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2018/06/Tudor-Black-Bay-SG.jpg",
+      "alt": "",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-black-bay-sg-vs-oris-aquis-date-calibre-400/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "1c50007c1ad983a0a12f26cd85df3a7bd2a8891f6ab999dc9f1d0e19cae8baa6"
+    },
+    {
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2018/03/Tudor-Black-Bay-SG..004.jpg",
+      "alt": "",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-black-bay-sg-vs-oris-aquis-date-calibre-400/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "d473add8301514d0ae0c86958955cf4c0c36a5c3e68f41343050df416380de2f"
+    },
+    {
+      "index": 9,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2018/03/Tudor-Black-Bay-SG..006.jpg",
+      "alt": "",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-black-bay-sg-vs-oris-aquis-date-calibre-400/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "a385618512a0842c925edf73c092da8926c886431c9570500cead07c590318ff"
+    },
+    {
+      "index": 10,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2018/03/Tudor-Black-Bay-SG..003.jpg",
+      "alt": "",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-tudor-black-bay-sg-vs-oris-aquis-date-calibre-400/",
+      "status": "decoded",
+      "dimensions": [
+        1250,
+        834
+      ],
+      "sha256": "42e50553c484cf49e9b50766b9b6b879a6b68f13ef8291a1a2667b5938a07ca6"
+    }
+  ],
+  "sources": [
+    "https://www.fratellowatches.com/tudor-black-bay-sg-champagne-dial/",
+    "https://www.fratellowatches.com/sunday-morning-showdown-tudor-black-bay-sg-vs-oris-aquis-date-calibre-400/"
+  ],
+  "documentedAlias": {
+    "caseStamp": "79733",
+    "completeExecution": "M79733N-0004",
+    "proof": "Paired specimen back image 5 and article manufacturer link; full-size stamp visually inspected."
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "completion": "IN PROGRESS",
+  "reviewedAt": "2026-10-09T14:38:49.177487+00:00",
+  "source": "https://www.tudorwatch.com/en/watches/black-bay-chrono/m79360n-0013",
+  "inspectedMedia": 11,
+  "acceptedPhotographs": 0,
+  "pendingCandidateId": "tudor-primary-79360n-0013-wrist-pending",
+  "imageAccess": [
+    {
+      "index": 0,
+      "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-watch/c_limit,w_3840/v1/catalogue/0yi5ee8b69yh3/upright-cb-with-drop-shadow/tudor-m79360n-0013",
+      "status": "decoded",
+      "dimensions": [
+        900,
+        1200
+      ],
+      "sha256": "f031568d7b357d75e7d15b1d86750a0caeceda1b4c56373866e59c5e7bc2d375"
+    },
+    {
+      "index": 1,
+      "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-gallery/c_limit,w_3840/v1/catalogue/0yi5ee8b69yh3/bracelet-c/tudor-m79360n-0013",
+      "status": "decoded",
+      "dimensions": [
+        1350,
+        1350
+      ],
+      "sha256": "d038add7fbb4ea08c34515a3ac226537ae987589fd40b24bb2cc15473a1b7f90"
+    },
+    {
+      "index": 2,
+      "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-gallery/c_limit,w_3840/v1/tudorwatch/model-assets/wrist/tudor-m79360n-0013",
+      "status": "decoded",
+      "dimensions": [
+        1350,
+        1350
+      ],
+      "sha256": "b0eba01afd74a946df9d8140cf4e43f4b5b74b710ab659d8597838d0ec3820c2"
+    },
+    {
+      "index": 3,
+      "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-gallery/c_limit,w_3840/v1/tudorwatch/model-assets/ambiance/tudor-m79360n-0013",
+      "status": "decoded",
+      "dimensions": [
+        1350,
+        1350
+      ],
+      "sha256": "f322d8f1280fd18a725574cc8a79b242d3fc31aade7aebe3a89f2124306468d8"
+    },
+    {
+      "index": 4,
+      "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-gallery/c_limit,w_3840/v1/tudorwatch/model-assets/beautyshots/tudor-m79360n-0013",
+      "status": "decoded",
+      "dimensions": [
+        1350,
+        1350
+      ],
+      "sha256": "7ef1147eb2a9bb11f5a53be7d0fc3ba27fc85b8250deb640b5067c56112ffd6f"
+    },
+    {
+      "index": 15,
+      "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_3840/v1/tudorwatch/watches/model-page/m79360n-0011/tudor-black-bay-chrono-01",
+      "status": "decoded",
+      "dimensions": [
+        1920,
+        1920
+      ],
+      "sha256": "3282ab1fba5af855394df32ca2751376b1072aafdeabfad02b14e4bc9614c839"
+    },
+    {
+      "index": 16,
+      "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_3840/v1/tudorwatch/watch-family/black-bay-chrono/2025/04-gallery/01",
+      "status": "decoded",
+      "dimensions": [
+        1920,
+        1920
+      ],
+      "sha256": "1c51de0deb94271ad2ca8ac02b68ab159ddd34457e8593447837d22e0126e99a"
+    },
+    {
+      "index": 17,
+      "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_3840/v1/tudorwatch/watch-family/black-bay-chrono/2025/04-gallery/02",
+      "status": "decoded",
+      "dimensions": [
+        1920,
+        1920
+      ],
+      "sha256": "475e744289dc05845dfd53f8fb2ef88f62b77eb369fe9e9e833088af4e217f37"
+    },
+    {
+      "index": 18,
+      "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_3840/v1/tudorwatch/watch-family/black-bay-chrono/2025/04-gallery/03",
+      "status": "decoded",
+      "dimensions": [
+        1920,
+        1920
+      ],
+      "sha256": "c2055d3ab0c699c61ec0f2df8adb3394e8d796a8a505c7e503fcbe5ac8377f85"
+    },
+    {
+      "index": 19,
+      "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit,w_3840/v1/tudorwatch/watch-family/black-bay-chrono/2025/04-gallery/04",
+      "status": "decoded",
+      "dimensions": [
+        1920,
+        1920
+      ],
+      "sha256": "4d4a7d712b5b126412ed0b82a6b7fbdb3792bd40b832c1ee18de3bc5c482bd3d"
+    },
+    {
+      "index": 21,
+      "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-front-facing-focus/c_limit,w_3840/v1/catalogue/0yi5ee8b69yh3/upright-ob/tudor-m79360n-0013",
+      "status": "decoded",
+      "dimensions": [
+        830,
+        830
+      ],
+      "sha256": "3ebb8e007ebbb19580e4e7cd219c8d2dbf46110eea0d61d7cadf80beca5ba69a"
+    }
+  ],
+  "evidence": "Manufacturer exact M79360N-0013 page confirms 41 mm steel, black/silver counters, five-link bracelet with T-fit clasp and MT5813. All 11 selected main model/gallery media visually inspected; navigation and recommended products excluded. Exact-key wrist media identifies configuration, but physical-watch photograph versus composited/render provenance remains unconfirmed. Studio cut-outs and macro images are not promoted on appearance alone. Related white-dial campaign images belong to another configuration. No opened movement or closed caseback is present. Earlier verified 2021 three-link configuration does not establish the new full suffix."
+}

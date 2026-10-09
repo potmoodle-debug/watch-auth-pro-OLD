@@ -36,11 +36,11 @@ watch models: punctuation/case duplicates collapse; M-prefixed aliases, base
 references and catalogue suffixes remain separate keys. Broad patterns require
 enumeration and source review; they are never counted as exact references.
 
-Current exact progress is in the generated coverage files: **198 identifier keys
-reviewed, 2,040 unreviewed; 152 source records reviewed, 2,295 unreviewed**. There are
-**550 catalogue assets: 519 verified, 22 pending and 9 rejected**, including 31
-legacy assets. Verified reference-key coverage: **front 170, movement 65, caseback
-142, bracelet/clasp 141**. Reviewed gaps describe the inspected source set, not a
+Current exact progress is in the generated coverage files: **211 identifier keys
+reviewed, 2,027 unreviewed; 163 source records reviewed, 2,284 unreviewed**. There are
+**555 catalogue assets: 523 verified gallery entries, 23 pending and 9 rejected**, including 31
+legacy assets. Verified entries use **512 distinct stored image URLs and 511 distinct inspected file hashes**; the same photograph can serve two categories. Verified reference-key coverage: **front 175, movement 66, caseback
+147, bracelet/clasp 143**. Reviewed gaps describe the inspected source set, not a
 claim that no suitable image exists elsewhere. Existing textual research and
 pre-existing "verified" mapping badges do not verify photographs. Unreviewed
 categories are not counted as reviewed gaps.
@@ -283,3 +283,39 @@ gallery photographs inspected and one accepted silver-dial front. Its replacemen
 leather strap is labelled, with no factory bracelet, production year or movement
 execution inferred. PR #9 is published at `f6ba5f03ef06be9e208449eeb92fa98cf9175ab8`
 with 515 photographs; these four later additions await validation and deployment.
+
+## Tudor inventory review checkpoint after PR #10
+
+All **100 stored Tudor identifier keys** now have a four-category review. This
+is review coverage, not complete photographic coverage: unresolved real-photo,
+movement and variant gaps remain. The other brands still have 2,027 unreviewed
+keys overall. Broad source-rule patterns still require enumeration and research.
+
+The next batch adds two actual 25807KN FXD Chrono front/back photographs, distinct
+from the three-hand 25707KN. It adds two champagne-dial Black Bay S&G front/back
+photographs: the physical case is visibly stamped **79733**, paired by the source
+with full **M79733N-0004**, so 79733 has a documented representative case-reference
+match. No other full suffix is inferred. Source and pixel receipts are recorded
+in the new FXD Chrono and Black Bay S&G reports.
+
+Paired full-size case-stamp inspections also resolve representative lookups
+**25407 → 25407N**, **25610T → 25610TNL**, and **79010S → 79010SG** for the
+previously accepted hands-on/owner views only. This supersedes the initial gaps
+for those keys: a stamp alone was insufficient, but the paired complete specimen
+identity provides the missing evidence. Other short strings remain unexpanded.
+The silver specimen’s replacement strap stays labelled and its actual MT5400
+display-back photograph remains subject to movement-image restrictions.
+
+The newer M79360N-0013 manufacturer five-link configuration has 11 inspected
+media views but unconfirmed photograph/render provenance; one candidate remains
+pending and none is displayed. Five manufacturer media for the 36 mm 91450 and
+39 mm 91550 also remain withheld pending real-photograph provenance. The 41 mm
+91650 specimen never supplies these neighbouring sizes.
+
+PR #10 is published at `2b7fadc7fba8e211c3ca5ff6ee9d9f3a49c37a57`: 519 gallery
+entries using 507 distinct inspected image files. The live catalogue matches the
+release, and all four new live photographs load/enlarge with suffix boundaries
+and mobile layout checked. The latest ready-list exports reflect that deployment.
+The subsequent four photographs and documented case aliases remain unpublished
+until validation passes. Unique-file counts now accompany gallery-entry counts
+to avoid counting one photograph in two categories as two distinct image files.

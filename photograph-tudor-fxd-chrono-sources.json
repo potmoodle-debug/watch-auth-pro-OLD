@@ -1,0 +1,281 @@
+{
+  "completion": "IN PROGRESS",
+  "reviewedAt": "2026-10-09T14:38:02.030991+00:00",
+  "acceptedPhotographs": 2,
+  "inspectedDecodedOccurrences": 18,
+  "inspectedUniqueImages": 16,
+  "unavailableOccurrences": 2,
+  "evidence": "Fratello introduction explicitly identifies M25807KN-0001, 43 mm carbon-composite case, matte blue/red chronograph dial, fixed strap bars and blue single-piece strap. Actual selected photographs show chronograph pushers, confirming separation from M25707KN three-hand companion. Two related articles explicitly discuss their own photography. Across three sources, 20 gallery occurrences yielded 18 decoded occurrences (16 unique image URLs), all visually inspected; two unrelated three-hand images return 404. No actual opened MT5813 execution is photographed. Current Tudor model URL redirects to generic family; it is not treated as independent exact-reference confirmation.",
+  "sources": [
+    {
+      "source": "https://www.fratellowatches.com/new-tudor-pelagos-fxd-and-fxd-chrono-alinghi-red-bull-racing-editions/",
+      "references": [
+        "M25707KN-0001",
+        "M25807KN-0001"
+      ]
+    },
+    {
+      "source": "https://www.fratellowatches.com/tudor-pelagos-fxd-alinghi-red-bull-racing-editions/",
+      "references": [
+        "M25707KN-0001",
+        "M25807KN-0001"
+      ]
+    },
+    {
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-longines-spirit-flyback-titanium-vs-tudor-pelagos-fxd-chrono/",
+      "references": []
+    }
+  ],
+  "imageAccess": [
+    {
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/06/Tudor-Pelagos-FXD-Alinghi-Red-Bull-Racing-9.jpg",
+      "alt": "Tudor Pelagos FXD Chrono",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/new-tudor-pelagos-fxd-and-fxd-chrono-alinghi-red-bull-racing-editions/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "9105943510283a4c9564602bcd52038489f4fd77e0dcac238f86260634e1a7ee"
+    },
+    {
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/06/Tudor-Pelagos-FXD-Alinghi-Red-Bull-Racing-8.jpg",
+      "alt": "New Tudor Pelagos FXD Chrono",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/new-tudor-pelagos-fxd-and-fxd-chrono-alinghi-red-bull-racing-editions/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "056aa1ff366b9badb5f5d45ac546fc259ebcff07f91a126eb7e766bc95df4339"
+    },
+    {
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/06/Tudor-Pelagos-FXD-Alinghi-Red-Bull-Racing-17.jpg",
+      "alt": "Tudor",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/new-tudor-pelagos-fxd-and-fxd-chrono-alinghi-red-bull-racing-editions/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "687fd3c2a1cbc269d3d46d99e0e0ab2942c7d3f301ca77a50e06973a17e8ad31"
+    },
+    {
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/06/Tudor-Pelagos-FXD-Alinghi-Red-Bull-Racing-20.jpg",
+      "alt": "New Tudor Pelagos FXD",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/new-tudor-pelagos-fxd-and-fxd-chrono-alinghi-red-bull-racing-editions/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/06/Tudor-Pelagos-FXD-Alinghi-Red-Bull-Racing-16.jpg",
+      "alt": "Tudor",
+      "articleKey": 0,
+      "source": "https://www.fratellowatches.com/new-tudor-pelagos-fxd-and-fxd-chrono-alinghi-red-bull-racing-editions/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/10/Monday-Tudor-FXD-Red-Bull-F1-Racing-10.jpg",
+      "alt": "Tudor Pelagos FXD",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/tudor-pelagos-fxd-alinghi-red-bull-racing-editions/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "4d8c3db9c6589b0490f8171e46cf9b7cadcbb40cf3d03c818ba1bdad3c696542"
+    },
+    {
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/10/Monday-Tudor-FXD-Red-Bull-F1-Racing-4.jpg",
+      "alt": "Pelagos FXD",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/tudor-pelagos-fxd-alinghi-red-bull-racing-editions/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "32584c19b40d664b97fde597369d859022d01da958069ae195d74876c70bf9c3"
+    },
+    {
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/10/Monday-Tudor-FXD-Red-Bull-F1-Racing-6.jpg",
+      "alt": "Tudor Pelagos FXD",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/tudor-pelagos-fxd-alinghi-red-bull-racing-editions/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "09f15a830f738d9ad0a24af141d026f5a96e4b8e439179bc419326efcb8fb8c5"
+    },
+    {
+      "index": 12,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/10/Monday-Tudor-FXD-Red-Bull-F1-Racing-13.jpg",
+      "alt": "Tudor Pelagos FXD",
+      "articleKey": 1,
+      "source": "https://www.fratellowatches.com/tudor-pelagos-fxd-alinghi-red-bull-racing-editions/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "c13caa4efb9c97877abaa07468afd6d83bfe65bcfc7453f0cb94322ba2a09777"
+    },
+    {
+      "index": 3,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/10/Rolex-Submariner-126610LN-2.jpg",
+      "alt": "",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-longines-spirit-flyback-titanium-vs-tudor-pelagos-fxd-chrono/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1201
+      ],
+      "sha256": "c39c88c396ae09e35e37ee0fa5bd4203b97ce0ee19448605662a9e0765cfc94a"
+    },
+    {
+      "index": 4,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/10/Longines-Spirit-Flyback-Titanium-10.jpg",
+      "alt": "Longines Spirit Flyback Titanium",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-longines-spirit-flyback-titanium-vs-tudor-pelagos-fxd-chrono/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "bc0d182c951ade894377868ee1fdc2e5d1839afb0ca5d6b142ea97d5cfa5f266"
+    },
+    {
+      "index": 5,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/10/Longines-Spirit-Flyback-Titanium-2.jpg",
+      "alt": "Longines Spirit Flyback Titanium",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-longines-spirit-flyback-titanium-vs-tudor-pelagos-fxd-chrono/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1800
+      ],
+      "sha256": "b5cb84362fa873a9ca135a8e72b4e13f11b0731b03e5f89173edff1a66497822"
+    },
+    {
+      "index": 6,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/10/Longines-Spirit-Flyback-Titanium-5.jpg",
+      "alt": "Longines Spirit Flyback Titanium case back",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-longines-spirit-flyback-titanium-vs-tudor-pelagos-fxd-chrono/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1800
+      ],
+      "sha256": "f21c9b34a2603a8637c55c5821284ca6660a3d01ef7c8668682aa7018f398586"
+    },
+    {
+      "index": 7,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/10/Longines-Spirit-Flyback-Titanium.jpg",
+      "alt": "Longines Spirit Flyback Titanium",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-longines-spirit-flyback-titanium-vs-tudor-pelagos-fxd-chrono/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1800
+      ],
+      "sha256": "c25c6b02f5c5767f108e44992288bdaf6780c4c28d547a9d8167d369a31ec3e5"
+    },
+    {
+      "index": 8,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/10/Longines-Spirit-Flyback-Titanium-6.jpg",
+      "alt": "Longines Spirit Flyback Titanium",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-longines-spirit-flyback-titanium-vs-tudor-pelagos-fxd-chrono/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "dd5c3d3d9e1c15f9a300699070cb85301a972194e74ccc9538d94f86a31e509b"
+    },
+    {
+      "index": 9,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/10/Longines-Spirit-Flyback-Titanium-3.jpg",
+      "alt": "Longines Spirit Flyback Titanium",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-longines-spirit-flyback-titanium-vs-tudor-pelagos-fxd-chrono/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "b2ee2b815b64fb521f737c0e532b761291e87eb7c400e902830a9abf4706e8e6"
+    },
+    {
+      "index": 10,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/06/Tudor-Pelagos-FXD-Alinghi-Red-Bull-Racing-9.jpg",
+      "alt": "",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-longines-spirit-flyback-titanium-vs-tudor-pelagos-fxd-chrono/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "9105943510283a4c9564602bcd52038489f4fd77e0dcac238f86260634e1a7ee"
+    },
+    {
+      "index": 11,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/06/Tudor-Pelagos-FXD-Alinghi-Red-Bull-Racing-8.jpg",
+      "alt": "",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-longines-spirit-flyback-titanium-vs-tudor-pelagos-fxd-chrono/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "056aa1ff366b9badb5f5d45ac546fc259ebcff07f91a126eb7e766bc95df4339"
+    },
+    {
+      "index": 12,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/06/Tudor-Pelagos-FXD-Alinghi-Red-Bull-Racing-11.jpg",
+      "alt": "Tudor Pelagos FXD Chrono",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-longines-spirit-flyback-titanium-vs-tudor-pelagos-fxd-chrono/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "e5f169a09520ed02cab72c61f18a28c6cbccf1a4bb08fb7ab86764381e997e39"
+    },
+    {
+      "index": 13,
+      "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2023/06/Tudor-Pelagos-FXD-Alinghi-Red-Bull-Racing-18.jpg",
+      "alt": "",
+      "articleKey": 2,
+      "source": "https://www.fratellowatches.com/sunday-morning-showdown-longines-spirit-flyback-titanium-vs-tudor-pelagos-fxd-chrono/",
+      "status": "decoded",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "sha256": "58bebf183e38f0c12afafcb55ba903dce6aa7b9104030ebbd1f2fa1b818aef28"
+    }
+  ]
+}
