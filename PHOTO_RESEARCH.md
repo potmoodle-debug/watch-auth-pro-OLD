@@ -11,7 +11,7 @@ repository must not be modified.
 Network access was verified first. GitHub and the BenchAuth live site return HTTP
 200. Of 1,564 distinct stored source URLs, 1,531 return HTTP 200 and 33 manufacturer
 Breitling URLs return HTTP 403. HTTP access and download counts **do not** establish
-visual review. The published checkpoint is PR #13 at 7c6fdcd955b573709ac916175f02db178b855dd7. New research additions below remain unpublished until validation passes.
+visual review. The published checkpoint is PR #14 at 9c408757b16897dfe9fe130c054ecad1a30eda09. New research additions below remain unpublished until validation passes.
 
 Rollback: GitHub branch `rollback/benchauth-before-photographs-20261008`, commit
 `b4ffc080c4dba6f55bb246377a24a3c2bf284052`. A local Git bundle is saved at
@@ -36,11 +36,11 @@ watch models: punctuation/case duplicates collapse; M-prefixed aliases, base
 references and catalogue suffixes remain separate keys. Broad patterns require
 enumeration and source review; they are never counted as exact references.
 
-Current exact progress is in the generated coverage files: **226 identifier keys
-reviewed, 2,012 unreviewed; 164 source records reviewed, 2,283 unreviewed**. There are
-**627 catalogue assets: 595 verified gallery entries, 23 pending and 9 rejected**, including 31
-legacy assets. Verified entries use **583 distinct stored image URLs and 582 distinct inspected file hashes**; the same photograph can serve two categories. Verified reference-key coverage: **front 189, movement 76, caseback
-161, bracelet/clasp 154**. Reviewed gaps describe the inspected source set, not a
+Current exact progress is in the generated coverage files: **238 identifier keys
+reviewed, 2,000 unreviewed; 173 source records reviewed, 2,274 unreviewed**. There are
+**656 catalogue assets: 624 verified gallery entries, 23 pending and 9 rejected**, including 31
+legacy assets. Verified entries use **610 distinct stored image URLs and 609 distinct inspected file hashes**; the same photograph can serve two categories. Verified reference-key coverage: **front 201, movement 78, caseback
+173, bracelet/clasp 166**. Reviewed gaps describe the inspected source set, not a
 claim that no suitable image exists elsewhere. Existing textual research and
 pre-existing "verified" mapping badges do not verify photographs. Unreviewed
 categories are not counted as reviewed gaps.
@@ -411,7 +411,7 @@ was changed. Live authenticated database verification remains separately open.
 
 ## Datejust II and Yacht-Master specialist specimens — next checkpoint
 
-PR #13 at 7c6fdcd955b573709ac916175f02db178b855dd7 is deployed and
+PR #14 at 9c408757b16897dfe9fe130c054ecad1a30eda09 is deployed and
 verified: six public files match, and live Chromium loaded/enlarged 47 images
 across the new numeric/full-variant lookups, unsupported suffixes and mobile
 layout. The ready-reference exports list 268 accepted keys at that checkpoint.
@@ -456,3 +456,45 @@ fixtures pass normalized matching, variants, image failure handling,
 sign-in/out/shared refresh, safety, replica flags/clasp reminder, clipboard,
 save/next, RMA, daily reset/progress and history. Live authenticated RLS remains
 an explicitly separate verification gap.
+
+## Eighth checkpoint: Loupe This archive specimens
+
+PR #14 was published and verified: Pages run 37956142627 succeeded; six
+served application/audit files matched the tested local SHA-256 hashes. Actual
+live Chromium checks loaded and enlarged 32 photographs, checked unsupported
+suffixes and existing representative coverage, and passed mobile overflow.
+
+The next batch inspects eight complete Loupe This galleries: 166 decoded actual
+photographs, all visually reviewed. It attaches 29 gallery entries representing
+27 distinct photographed files for 18239, 124060, 134300, 6426, 326934, 5500,
+224270 and 226570. Photographed tags establish only the explicitly listed
+configuration suffixes and M-prefixed full aliases. Other suffixes remain empty.
+18239 is physically stamped and its photographed movement is 3155, contradicting
+the source's 3055 table. 5500 has a photographed 1520 with 26-jewel inscription.
+6426's exact manual-wind calibre is not established; movement remains empty.
+All five modern watches lack opened movement photographs and retain empty
+movement categories. Paired internal-back numbers 18200, 1002 and 6427 are not
+new watch-reference aliases. Later fitted bracelets and source discrepancies
+are labelled, without claims of factory originality. No paperwork images are
+attached. `photograph-loupe-rolex-sources.json` retains the full inspected
+gallery and provenance evidence.
+
+`photograph-loupe-archive-discovery.json` records a sanitized title-only scan
+of all 4,368 closed auction lots across 44 public API pages. Its 820 potential
+reference matches are discovery leads, not visually verified coverage. Matching
+uses numeric boundaries in the original title, preserving separators; this
+avoids 14270 being inferred from 214270 or 1807 from 18078. No bidder identifiers
+or auction-account data are published. Earlier Catawiki URLs redirected to
+generic category pages and yielded no identifiable reference coverage.
+
+Research is still IN PROGRESS: 2,000 stored identifier keys remain unreviewed,
+and reviewed gaps remain open for further suitable sources. Live authenticated
+shared refresh/RLS validation still requires an authorized test session.
+
+Eighth-checkpoint validation: all 35 Node tests passed. Actual-source Chromium
+loaded and enlarged all 29 new entries / 27 distinct inspected files across all
+18 explicitly accepted keys, checking credits, variant labels, match scopes and
+mobile overflow. Existing 595 entries were unchanged from prior published checks.
+Browser fixtures passed signed-in/out matching and refresh, movement restrictions,
+Rolex reference/serial/clasp flags and reminder, copy, save/next, RMA, daily reset,
+progress and history. Fixtures do not prove live authenticated Supabase/RLS access.

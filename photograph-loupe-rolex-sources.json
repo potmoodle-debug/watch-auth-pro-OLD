@@ -1,0 +1,4176 @@
+{
+  "reviewedAt": "2026-10-09T18:50:15.762230+00:00",
+  "completion": "IN PROGRESS",
+  "galleriesInspected": 8,
+  "imageOccurrencesInspected": 166,
+  "attachedSpecimens": [
+    {
+      "acceptedReferenceKeys": [
+        "18239"
+      ],
+      "source": "https://loupethis.com/auctions/rolex-day-date-18239-tropical-dial-18k-wg",
+      "credit": "Loupe This",
+      "lot": "5127",
+      "specimenDescription": [
+        {
+          "bodyCopy": [
+            {
+              "style": "normal",
+              "_key": "d9fd0fe17af1",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Since its debut in 1956, the Rolex Day-Date has stood as the brand's ultimate expression of prestige. Exclusively crafted in precious metals and instantly recognizable by its day display and President bracelet, it has spent decades on the wrists of presidents, business leaders and cultural icons, becoming one of the most enduring symbols of success in watchmaking.",
+                  "_key": "f6f02c1397100"
+                }
+              ],
+              "_type": "block"
+            },
+            {
+              "_type": "block",
+              "style": "normal",
+              "_key": "04d72a4e64a8",
+              "markDefs": [],
+              "children": [
+                {
+                  "text": "Produced in 1990, this double-quickset 18K white gold ref. 18239 offers an uncommon twist on the classic Day-Date aesthetic. Originally fitted with a silver dial, time has transformed it into a rich tropical brown, creating a unique appearance that could never be replicated intentionally. Combined with its crisp white gold case, fluted bezel and President bracelet, this naturally aged dial gives the watch an individuality that has become increasingly sought-after among collectors.",
+                  "_key": "253836c67ddd0",
+                  "_type": "span",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "_key": "d1d12f491673",
+          "_type": "titleLeftBodyRight",
+          "title": "Introduction"
+        },
+        {
+          "grade": "M 8.5",
+          "status": "Vetted & Approved",
+          "included": "Watch Only",
+          "_key": "4f543b8d8d0e",
+          "_type": "auctionScorecard",
+          "range": {
+            "end": 15000,
+            "_type": "range",
+            "start": 10000
+          }
+        },
+        {
+          "bracelet": "18K WG President bracelet",
+          "condition": "Excellent",
+          "reference": "18239",
+          "material": "18K White Gold",
+          "movement": "Automatic cal. 3055",
+          "model": "Day-Date",
+          "_key": "f0bacdc03e5c",
+          "included": "Watch only",
+          "brand": "Rolex",
+          "year": "1989",
+          "_type": "twoColumnTable",
+          "dialColor": "Tropical silver",
+          "dimensions": "36mm"
+        },
+        {
+          "_key": "0d197430fd44",
+          "_type": "threeUpImageModule",
+          "imageComponents": [
+            {
+              "caption": [
+                {
+                  "_type": "block",
+                  "style": "normal",
+                  "_key": "3245ab18ed53",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "_type": "span",
+                      "marks": [
+                        "strong"
+                      ],
+                      "text": "THE DIAL",
+                      "_key": "772cd3fc095d0"
+                    }
+                  ]
+                },
+                {
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "_type": "span",
+                      "marks": [],
+                      "text": "Originally finished in silver, the dial has naturally developed a warm tropical brown hue over time. Highly prized by collectors, this organic transformation gives each tropical dial its own unique character while beautifully complementing the cool tones of the 18K white gold case.",
+                      "_key": "0d8f395aae540"
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "normal",
+                  "_key": "362307a2c0b9"
+                }
+              ],
+              "_key": "c6583659c45a",
+              "image": {
+                "_type": "imageField",
+                "alt": "THE DIAL",
+                "asset": {
+                  "_type": "reference",
+                  "_ref": "image-9bf56438ce511b98d874ea54a25c7f25e4b7d914-3770x3770-jpg"
+                }
+              }
+            },
+            {
+              "_key": "ce01cadfe3db",
+              "image": {
+                "_type": "imageField",
+                "alt": "THE CONSTRUCTION",
+                "asset": {
+                  "_ref": "image-b3c544d4d3ae67dd0f31a88c4f9c752b8a44fbc1-3770x3770-jpg",
+                  "_type": "reference"
+                }
+              },
+              "caption": [
+                {
+                  "_type": "block",
+                  "style": "normal",
+                  "_key": "61c55be5b1f1",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "marks": [
+                        "strong"
+                      ],
+                      "text": "THE CONSTRUCTION",
+                      "_key": "ace93b53ad200",
+                      "_type": "span"
+                    }
+                  ]
+                },
+                {
+                  "_key": "0ab7bd277f2f",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "text": "Crafted entirely from 18K white gold, the ref. 18239 pairs Rolex's iconic fluted bezel with the unmistakable President bracelet. The monochromatic construction allows the richly aged tropical dial to become the focal point while preserving the Day-Date's timeless elegance.",
+                      "_key": "47d4bf5d23ac0",
+                      "_type": "span",
+                      "marks": []
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "normal"
+                }
+              ]
+            },
+            {
+              "image": {
+                "asset": {
+                  "_type": "reference",
+                  "_ref": "image-3e6b5581ff05103a329db0527dac360871c1e9f4-750x750-jpg"
+                },
+                "_type": "imageField",
+                "alt": "TIMING MACHINE READOUT"
+              },
+              "caption": [
+                {
+                  "_key": "63a227d48262",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "text": "TIMING MACHINE READOUT",
+                      "_key": "c230e5ad5b000",
+                      "_type": "span",
+                      "marks": [
+                        "strong"
+                      ]
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "normal"
+                },
+                {
+                  "_type": "block",
+                  "style": "normal",
+                  "_key": "741f83041412",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "_type": "span",
+                      "marks": [],
+                      "text": "This reading was taken (crown down) with a ONEOF Accuracy Boutique Edition timing machine at time of cataloging. It is provided as a courtesy only, and shall not be construed as a warranty or guarantee of any kind. Please refer to our terms and conditions of sale for more information.",
+                      "_key": "d76b7d70dcbd0"
+                    }
+                  ]
+                }
+              ],
+              "_key": "98f314355c73"
+            }
+          ]
+        },
+        {
+          "_key": "6985ad09d93a",
+          "_type": "titleLeftBodyRight",
+          "title": "Condition",
+          "bodyCopy": [
+            {
+              "markDefs": [],
+              "children": [
+                {
+                  "_key": "573bba7f5bf10",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Watch is in overall excellent condition. The 18K white gold case shows surface scratches and small nicks. The hallmarks and stamps on the rear of the lugs remain crisp. The bezel is in very good condition, with a few more noticeable dings. The dial is excellent, with intact lume plots and a uniform galaxy-esque tropical toffee hue across the surface. It is fitted with a concealed-clasp President bracelet showing surface scratches and moderate play between the links. The bracelet is fitted with 20 links, 1 of which is removable, and fits approximately a 6¾” wrist."
+                }
+              ],
+              "_type": "block",
+              "style": "normal",
+              "_key": "67c24098c9b3"
+            }
+          ]
+        },
+        {
+          "authorProfiles": [
+            {
+              "image": {
+                "_type": "imageField",
+                "asset": {
+                  "_ref": "image-e583b84f0b924ae364b7b663405f05f9aa7e8c16-2175x2258-jpg",
+                  "_type": "reference"
+                }
+              },
+              "_id": "08967c9c-8436-4841-b6cd-920ca9db96d8",
+              "_type": "author",
+              "name": "Eric Ku",
+              "jobTitle": "Co-founder"
+            }
+          ],
+          "_key": "cc50944c5586",
+          "_type": "titleLeftBodyRight",
+          "title": "Our Perspective",
+          "bodyCopy": [
+            {
+              "children": [
+                {
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Among vintage and neo-vintage Rolex watches, naturally tropical dials continue to captivate collectors because no two examples age in exactly the same way. This ref. 18239 combines the enduring elegance of the white gold Day-Date with an unusually attractive tropical dial. ",
+                  "_key": "8cd841228e090"
+                }
+              ],
+              "_type": "block",
+              "style": "normal",
+              "_key": "01f30e42026f",
+              "markDefs": []
+            }
+          ]
+        }
+      ],
+      "evidence": "Loupe This lot 5127: all 20 actual gallery photographs visually inspected; selected movement, back, clasp and identification views inspected at full resolution. Actual between-lug stamp 18239, photographed movement stamp 3155 and internal back 18200 establish the paired specimen. The catalogue table incorrectly says 3055; its 1989 table and 1990 introduction also disagree, so neither exact production year nor 3055 is inferred. Internal hand-written service notes are specimen-specific, not factory markings. Source: https://loupethis.com/auctions/rolex-day-date-18239-tropical-dial-18k-wg",
+      "acceptedPhotographIds": [
+        "loupe-archive-5127-front-0",
+        "loupe-archive-5127-movement-18",
+        "loupe-archive-5127-caseback-18",
+        "loupe-archive-5127-braceletClasp-12",
+        "loupe-archive-5127-detail-16"
+      ],
+      "inspectedImages": [
+        {
+          "reference": "18239",
+          "source": "https://loupethis.com/auctions/rolex-day-date-18239-tropical-dial-18k-wg",
+          "index": 0,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/9bf56438ce511b98d874ea54a25c7f25e4b7d914-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "82f0e7b617eed1d1b52ec58b4adadffeba9139082ea1860c176449906b4dfc6d"
+        },
+        {
+          "reference": "18239",
+          "source": "https://loupethis.com/auctions/rolex-day-date-18239-tropical-dial-18k-wg",
+          "index": 1,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/e7f22cdbdeb24d3e04622174513da6926796166c-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "fa7e9cb6ffad78dfefe977f9b2f45ffc7a08d47751fa22060775663ec752831e"
+        },
+        {
+          "reference": "18239",
+          "source": "https://loupethis.com/auctions/rolex-day-date-18239-tropical-dial-18k-wg",
+          "index": 2,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/bbfdbb88c66af47035a0e71b4d7040aacff455c8-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "6f5bb4e6ec52049ddcb5b7c704a72421baf7aac31732de695653d36a595d0074"
+        },
+        {
+          "reference": "18239",
+          "source": "https://loupethis.com/auctions/rolex-day-date-18239-tropical-dial-18k-wg",
+          "index": 3,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/49d0df66e67c0009a448502776c9960be8280151-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "7acc5f33ec7348f9c5d3a6ba4e54441e2b747ed5ce7a6e75c59e10dc6257b090"
+        },
+        {
+          "reference": "18239",
+          "source": "https://loupethis.com/auctions/rolex-day-date-18239-tropical-dial-18k-wg",
+          "index": 4,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/27e8a7ce19829028be03ea50a1e4d9c8306a0a24-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "82a010fa4168ab702e44d244c6afa280c9b9a1c8fa359064fdee943ee934cde3"
+        },
+        {
+          "reference": "18239",
+          "source": "https://loupethis.com/auctions/rolex-day-date-18239-tropical-dial-18k-wg",
+          "index": 5,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/3ee4e6f84b867d5e7d78147f10263f0c97c36a56-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "13d17eb36a6cccc310f150ea19be3bdf5f928ecce14144a4150d2fd155a4e253"
+        },
+        {
+          "reference": "18239",
+          "source": "https://loupethis.com/auctions/rolex-day-date-18239-tropical-dial-18k-wg",
+          "index": 6,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/83111242b10efc16afbd32954efe2c873e3a8ba1-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "cdcf2df31045f8e901ab47899d18c225d1fb007f6f4f831d491f30aa42a8fd96"
+        },
+        {
+          "reference": "18239",
+          "source": "https://loupethis.com/auctions/rolex-day-date-18239-tropical-dial-18k-wg",
+          "index": 7,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/0534d1c06636ac9496b84be65b42bf2b4e286a06-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "36096a491f70a6a1724c7470694c295f0d0bcfeb927c73107710d2d2e3ec32e7"
+        },
+        {
+          "reference": "18239",
+          "source": "https://loupethis.com/auctions/rolex-day-date-18239-tropical-dial-18k-wg",
+          "index": 8,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/9c3f1a004ff2532d0e585b02113f9a73ec7f4d39-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "e39f158a4c8adb65cd16258fb1cd7025d3bb5f359ed8cb411155764a79adcae2"
+        },
+        {
+          "reference": "18239",
+          "source": "https://loupethis.com/auctions/rolex-day-date-18239-tropical-dial-18k-wg",
+          "index": 9,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/2b5dd8742455b2f2637ce9cecc7ad151e33fc065-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "6a17a6745bd37be9d303b6cf8be6c1ea3ac24ba16749b64175928514648c4261"
+        },
+        {
+          "reference": "18239",
+          "source": "https://loupethis.com/auctions/rolex-day-date-18239-tropical-dial-18k-wg",
+          "index": 10,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/1ca6ea77cea11801b96ae85da8550baf81fa96e1-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "d8548ccb9e14a3784ecb1cfdfa1e615ec7169b01126287eb875017c50401a8aa"
+        },
+        {
+          "reference": "18239",
+          "source": "https://loupethis.com/auctions/rolex-day-date-18239-tropical-dial-18k-wg",
+          "index": 11,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/59d887804dcd36ec80e811e2ec378434dcd012f8-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "798c252e7d03fdb9595e3336954adb7ecde6dd853cc07124cd54c4a1a5f497ca"
+        },
+        {
+          "reference": "18239",
+          "source": "https://loupethis.com/auctions/rolex-day-date-18239-tropical-dial-18k-wg",
+          "index": 12,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/157e96feb35f02de2cd6be724aff62bf0ef9ed94-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "c2316b8c9fb4b4a60af8c227d88ed4755bd28ceb4eaa985742f7c0a627cbcd71"
+        },
+        {
+          "reference": "18239",
+          "source": "https://loupethis.com/auctions/rolex-day-date-18239-tropical-dial-18k-wg",
+          "index": 13,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/2184db6971e2cb877a4e42ea58e98828fec845d8-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "b00fc40f64552c2a20b05e99926c65203a98931c9b530557164424c554a19da5"
+        },
+        {
+          "reference": "18239",
+          "source": "https://loupethis.com/auctions/rolex-day-date-18239-tropical-dial-18k-wg",
+          "index": 14,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/dc81f6c4056a1c26a7f0adeefb69402e2051ee09-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "d5ab71763d1f6fb4889038d953a027939007e023b3042aa842d2f37d1bbc07c6"
+        },
+        {
+          "reference": "18239",
+          "source": "https://loupethis.com/auctions/rolex-day-date-18239-tropical-dial-18k-wg",
+          "index": 15,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/c9880cef72070be85a1d7f0a27815d98c9773b95-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "20adb3d4ecfe2c2b3e7cd773f3bdf727d7e402d340297bfec76270da8df8d38a"
+        },
+        {
+          "reference": "18239",
+          "source": "https://loupethis.com/auctions/rolex-day-date-18239-tropical-dial-18k-wg",
+          "index": 16,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/20f38ad14114e0048411ea9b72a464d9c142b98d-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "f681b14973aa8519709f911ffdb5ee417ca4b89682dc8b0d7f429d524e47595f"
+        },
+        {
+          "reference": "18239",
+          "source": "https://loupethis.com/auctions/rolex-day-date-18239-tropical-dial-18k-wg",
+          "index": 17,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/24ca6db0050b80ecf80f06fa5acc7c22a878bf4a-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "a6d8687683ccc3654426aaef188926fb538941e0ded845a62c3db896d821da0e"
+        },
+        {
+          "reference": "18239",
+          "source": "https://loupethis.com/auctions/rolex-day-date-18239-tropical-dial-18k-wg",
+          "index": 18,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/6fd29717e3937cae9e0745391de19dd83ce1dfa7-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "6c55a8079fce2212c0afdb28de449e45005444e1360f13c7c004e27e888dad39"
+        },
+        {
+          "reference": "18239",
+          "source": "https://loupethis.com/auctions/rolex-day-date-18239-tropical-dial-18k-wg",
+          "index": 19,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/b3c544d4d3ae67dd0f31a88c4f9c752b8a44fbc1-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "d6579ee7d48b9900e0430e2bacb875fb855dd41c9b940429daca008e45d1bc54"
+        }
+      ]
+    },
+    {
+      "acceptedReferenceKeys": [
+        "124060",
+        "124060-0001",
+        "M124060-0001"
+      ],
+      "source": "https://loupethis.com/auctions/rolex-submariner-non-date-124060-ceramic-bezel-2",
+      "credit": "Loupe This",
+      "lot": "4950",
+      "specimenDescription": [
+        {
+          "title": "Introduction",
+          "bodyCopy": [
+            {
+              "_key": "118316a87f6e",
+              "markDefs": [],
+              "children": [
+                {
+                  "_key": "13b0e30fd59b",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Debuting in 1953 and released to the public the following year, the Rolex Submariner has undoubtedly become one of the most iconic timepieces of all time thanks to its legendary status as Rolex's flagship dive watch. Used extensively by the British Royal Navy and professional diving operations like COMEX, the Submariner set the bar for all dive watches to follow. Featuring a genuinely timeless design that has remained relatively unchanged throughout its history, the Rolex has become the archetypal sports watch. With very few large-scale aesthetic upgrades made to it over the years except for timely advancements like introducing a date function to the collection in the late '60s, and its modern cerachrom bezels, the Submariner is seen as the prototypical dive watch thanks to its consistency. The Submariner has earned its status as a legendary watch, with it today remaining as one of the most sought-after timepieces around."
+                }
+              ],
+              "_type": "block",
+              "style": "normal"
+            },
+            {
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "marks": [],
+                  "text": "",
+                  "_key": "d38579adb664"
+                }
+              ],
+              "_type": "block",
+              "style": "normal",
+              "_key": "162f5a9c8f78"
+            },
+            {
+              "children": [
+                {
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Released in 2020 to replace the outgoing Rolex Submariner ref. 114060, the ref. 124060 that we have here helped to introduce a number of new elements to the Submariner's pure and heritage-consistent \"No-Date\" collection. Additionally, the 40mm case design of its predecessor and 20mm lug-width have been widened to 41mm and 21mm, respectively, to give the ref. 124060 a wider poise on the wrist. Finally, the ref. 1204060's lugs have been slimmed down to give the watch a more elegant and refined look that moves away from its bulky square design from before. Furthermore, it has been given a new movement so as to step into Rolex’s latest watchmaking standards with its automatic cal. 3230 that now includes 70 hours of power reserve. Furthermore, its hands on its black Maxi-dial have been thickened so as to hold more lume and help with legibility, which points back to the Submariner’s roots as a functional tool watch.",
+                  "_key": "3990ded17fcc"
+                }
+              ],
+              "_type": "block",
+              "style": "normal",
+              "_key": "f40a502d1d21",
+              "markDefs": []
+            }
+          ],
+          "_key": "d1d12f491673",
+          "_type": "titleLeftBodyRight"
+        },
+        {
+          "_key": "4f543b8d8d0e",
+          "_type": "auctionScorecard",
+          "included": "Box and Papers",
+          "range": {
+            "start": 7000,
+            "end": 9000,
+            "_type": "range"
+          },
+          "grade": "M 9.5",
+          "status": "Vetted & Approved"
+        },
+        {
+          "dialColor": "Black",
+          "_key": "f0bacdc03e5c",
+          "year": "2024",
+          "material": "Stainless steel",
+          "bracelet": "Stainless steel Oyster bracelet",
+          "condition": "Like new",
+          "brand": "Rolex",
+          "included": "Watch, box, and papers",
+          "_type": "twoColumnTable",
+          "model": "Submariner",
+          "dimensions": "41mm",
+          "reference": "124060LN",
+          "movement": "Automatic cal. 3230"
+        },
+        {
+          "imageComponents": [
+            {
+              "_key": "2e2eaa586c63",
+              "image": {
+                "_type": "imageField",
+                "alt": "THE DIAL",
+                "asset": {
+                  "_ref": "image-ff0f4bd5459fd77182815fda5dc0aafe2f8f0b49-3770x3770-jpg",
+                  "_type": "reference"
+                }
+              },
+              "caption": [
+                {
+                  "children": [
+                    {
+                      "_key": "51c48b0db975",
+                      "_type": "span",
+                      "marks": [],
+                      "text": "THE DIAL"
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "h5",
+                  "_key": "0b161fa50adc",
+                  "markDefs": []
+                },
+                {
+                  "children": [
+                    {
+                      "text": "With its symmetrical time-only display, the Submariner ref. 124060 stays true to the collection's heritage as a utility-oriented dive watch where legibility underwater was Rolex's only concern. ",
+                      "_key": "11fa19fa3ed0",
+                      "_type": "span",
+                      "marks": []
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "normal",
+                  "_key": "824b19a824c0",
+                  "markDefs": []
+                }
+              ]
+            },
+            {
+              "_key": "b2f9e6d4ecf6",
+              "image": {
+                "_type": "imageField",
+                "alt": "THE CONSTRUCTION",
+                "asset": {
+                  "_ref": "image-4c4bccdda55f46e47b6b86a0c09437f4a89b22d8-3770x3770-jpg",
+                  "_type": "reference"
+                }
+              },
+              "caption": [
+                {
+                  "_key": "e0a72380f6bc",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "text": "THE CONSTRUCTION",
+                      "_key": "958bf103579b",
+                      "_type": "span",
+                      "marks": []
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "h5"
+                },
+                {
+                  "style": "normal",
+                  "_key": "724d946adeab",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "_type": "span",
+                      "marks": [],
+                      "text": "Upgraded to 41mm, the ref. 124060 marked a new era for the Submariner that moved away from the overtly robust design of its predecessor and featured a more elegant poise on the wrist.",
+                      "_key": "695c789f1012"
+                    }
+                  ],
+                  "_type": "block"
+                }
+              ]
+            },
+            {
+              "_key": "98f314355c73",
+              "image": {
+                "alt": "TIMING MACHINE READOUT",
+                "asset": {
+                  "_ref": "image-b89e49113c5028d35a5feda7f8972f0e6fff375a-750x750-jpg",
+                  "_type": "reference"
+                },
+                "_type": "imageField"
+              },
+              "caption": [
+                {
+                  "children": [
+                    {
+                      "_type": "span",
+                      "marks": [
+                        "strong"
+                      ],
+                      "text": "TIMING MACHINE READOUT",
+                      "_key": "c230e5ad5b000"
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "h5",
+                  "_key": "63a227d48262",
+                  "markDefs": []
+                },
+                {
+                  "_type": "block",
+                  "style": "normal",
+                  "_key": "741f83041412",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "_key": "d76b7d70dcbd0",
+                      "_type": "span",
+                      "marks": [],
+                      "text": "This reading was taken (crown down) with a ONEOF Accuracy Boutique Edition timing machine at time of cataloging. It is provided as a courtesy only, and shall not be construed as a warranty or guarantee of any kind. Please refer to our terms and conditions of sale for more information."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "_key": "0d197430fd44",
+          "_type": "threeUpImageModule"
+        },
+        {
+          "_key": "6985ad09d93a",
+          "_type": "titleLeftBodyRight",
+          "title": "Condition",
+          "bodyCopy": [
+            {
+              "markDefs": [],
+              "children": [
+                {
+                  "marks": [],
+                  "text": "Watch is in overall like-new condition. The case shows only light signs of wear or handling.  It is fitted with an Oyster bracelet comprising 12 links, 4 of which are removable, and fits approximately an 8” wrist. Comes complete with inner and outer boxes, warranty card, booklets, card holder, two hangtags and bezel protector.",
+                  "_key": "ac9d40447b48",
+                  "_type": "span"
+                }
+              ],
+              "_type": "block",
+              "style": "normal",
+              "_key": "ac6313cd57a7"
+            },
+            {
+              "markDefs": [],
+              "children": [
+                {
+                  "marks": [],
+                  "text": "",
+                  "_key": "40ab9925215f",
+                  "_type": "span"
+                }
+              ],
+              "_type": "block",
+              "style": "normal",
+              "_key": "b4e3d2809e8e"
+            }
+          ]
+        },
+        {
+          "_key": "cc50944c5586",
+          "_type": "titleLeftBodyRight",
+          "authorProfiles": [
+            {
+              "name": "Eric Ku",
+              "jobTitle": "Co-founder",
+              "image": {
+                "asset": {
+                  "_type": "reference",
+                  "_ref": "image-e583b84f0b924ae364b7b663405f05f9aa7e8c16-2175x2258-jpg"
+                },
+                "_type": "imageField"
+              },
+              "_id": "08967c9c-8436-4841-b6cd-920ca9db96d8",
+              "_type": "author"
+            }
+          ],
+          "title": "Our Perspective",
+          "bodyCopy": [
+            {
+              "style": "normal",
+              "_key": "05a2cb4308da",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "marks": [],
+                  "text": "A move to modernize the Submariner and give it more elegant proportions closer to those loved by collectors during Rolex's aluminum bezel days, the ref. 124060 is a stunningly beautiful watch that still perfectly stays on task as a tool watch. ",
+                  "_key": "d39854d41b8c"
+                }
+              ],
+              "_type": "block"
+            }
+          ]
+        }
+      ],
+      "evidence": "Loupe This lot 4950: all 22 actual gallery photographs visually inspected; selected movement, back, clasp and identification views inspected at full resolution. Actual guarantee card reads 124060 and the paired tag reads M124060-0001. The source table incorrectly expands the reference to 124060LN; that suffix is not accepted. No opened movement photograph establishes the claimed 3230 execution. Source: https://loupethis.com/auctions/rolex-submariner-non-date-124060-ceramic-bezel-2",
+      "acceptedPhotographIds": [
+        "loupe-archive-4950-front-0",
+        "loupe-archive-4950-caseback-5",
+        "loupe-archive-4950-braceletClasp-12"
+      ],
+      "inspectedImages": [
+        {
+          "reference": "124060",
+          "source": "https://loupethis.com/auctions/rolex-submariner-non-date-124060-ceramic-bezel-2",
+          "index": 0,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/4b0988c0aad98195024491bba445fbf790469ab7-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "de23ef4a1de25cbe1f26563dd4125a4d4d20ad5c7cbfec843dbc838d743ff018"
+        },
+        {
+          "reference": "124060",
+          "source": "https://loupethis.com/auctions/rolex-submariner-non-date-124060-ceramic-bezel-2",
+          "index": 1,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/9fa3476b116c68bd9902905d3bb7ef982253903a-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "e8ebe00c7cdb816e07bf944ffab6896278fba182ef051ef546523f4509b05efd"
+        },
+        {
+          "reference": "124060",
+          "source": "https://loupethis.com/auctions/rolex-submariner-non-date-124060-ceramic-bezel-2",
+          "index": 2,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/992c604b2aa70d86f3b9758d48843b3fb118fd12-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "ec154b6205762b255bd46308a4adc70c7df104d2e99d5783d94d2f0586fe8680"
+        },
+        {
+          "reference": "124060",
+          "source": "https://loupethis.com/auctions/rolex-submariner-non-date-124060-ceramic-bezel-2",
+          "index": 3,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/cf38b760f56f392caf79ab09f4826e1aef989783-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "d158015bf742360e375e9f060145af4b6bf9acf6638e1ecdb42d4ef17fad0a85"
+        },
+        {
+          "reference": "124060",
+          "source": "https://loupethis.com/auctions/rolex-submariner-non-date-124060-ceramic-bezel-2",
+          "index": 4,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/974691916751d4284e52f07ea489d0ef4c22196e-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "9398df4fd7212e05a287cc73c31c3031c4aa85d2ce33a9a2b0ef5b2f77b98eed"
+        },
+        {
+          "reference": "124060",
+          "source": "https://loupethis.com/auctions/rolex-submariner-non-date-124060-ceramic-bezel-2",
+          "index": 5,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/c57fa2b59f5c0a3de1a80753e27bcd67eb375e7d-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "b901efc02b766cd53fae70a666bb1fa37c022763db271513c80105ad5789ed0e"
+        },
+        {
+          "reference": "124060",
+          "source": "https://loupethis.com/auctions/rolex-submariner-non-date-124060-ceramic-bezel-2",
+          "index": 6,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/fec7513dfa101bddc50af1b7c85b881b642c0a8e-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "3b37dab5d71f67b96df4425fc23fed38b605d4f0767c113b7ff8b09c66ba74ad"
+        },
+        {
+          "reference": "124060",
+          "source": "https://loupethis.com/auctions/rolex-submariner-non-date-124060-ceramic-bezel-2",
+          "index": 7,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/3a923cefc96e3e1b4464fbfa0955dc1cefaa46a1-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "636e388af6c35a699c125bdf5a73e73e116b2cdb1d5f7da21a147083cf16b06a"
+        },
+        {
+          "reference": "124060",
+          "source": "https://loupethis.com/auctions/rolex-submariner-non-date-124060-ceramic-bezel-2",
+          "index": 8,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/85d88ed649522e35c2defced403679301d9b09f3-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "226d8d71ede3c1e9491ee57f81030d9ab986b02f816e3c8fe53bc32ca735fc7a"
+        },
+        {
+          "reference": "124060",
+          "source": "https://loupethis.com/auctions/rolex-submariner-non-date-124060-ceramic-bezel-2",
+          "index": 9,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/9ffa70532826157ee55c185e25953433871f8c6a-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "1e58b3938c4130d3ac94e930af6ce1d644d5038ac26462187b6cc04b7c242a49"
+        },
+        {
+          "reference": "124060",
+          "source": "https://loupethis.com/auctions/rolex-submariner-non-date-124060-ceramic-bezel-2",
+          "index": 10,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/97a27240735c1afda1f2bc07ee8a43a8bbce7105-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "ebc25223e206dd7df74b8807ca31d931e301d0f1fba6409cb83db60e24c4257b"
+        },
+        {
+          "reference": "124060",
+          "source": "https://loupethis.com/auctions/rolex-submariner-non-date-124060-ceramic-bezel-2",
+          "index": 11,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/ff0f4bd5459fd77182815fda5dc0aafe2f8f0b49-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "7229cd99e53610e3ee06c1125501d66155db188d72228f18682202fee0061933"
+        },
+        {
+          "reference": "124060",
+          "source": "https://loupethis.com/auctions/rolex-submariner-non-date-124060-ceramic-bezel-2",
+          "index": 12,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/bc61bc7686b851ca695215261d53e3145132162a-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "59601e6a199ec9d597b1e7c6007ba91edc01edb746871e383ae08e6d75a32d70"
+        },
+        {
+          "reference": "124060",
+          "source": "https://loupethis.com/auctions/rolex-submariner-non-date-124060-ceramic-bezel-2",
+          "index": 13,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/b90681d2c20f957eb1867190734a3450220d396c-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "446944e92c4ff10b9718fe9d7911bc8c886a65a4a04eb7d51a6e5286d3c7b823"
+        },
+        {
+          "reference": "124060",
+          "source": "https://loupethis.com/auctions/rolex-submariner-non-date-124060-ceramic-bezel-2",
+          "index": 14,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/f35eb19f447582eef3314336d801df37e383533e-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "250f007167ffb88207dc2f0e8f3b75a70e011a60578f4389bf3c67ad33f6293c"
+        },
+        {
+          "reference": "124060",
+          "source": "https://loupethis.com/auctions/rolex-submariner-non-date-124060-ceramic-bezel-2",
+          "index": 15,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/6c3093c8129f06a5b146f7f17e64137133185b0a-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "afc74a6dd7fdefcb46e77be334ca825ab4d7e137135a39cb9c609705e65773d9"
+        },
+        {
+          "reference": "124060",
+          "source": "https://loupethis.com/auctions/rolex-submariner-non-date-124060-ceramic-bezel-2",
+          "index": 16,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/8db7bcb1d3ec5ee5e2884cc87e0438632c174a24-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "0edfd5ac453c31b3c40eb1972b9a0242629fada5aa3e015e55b795a0e6ce1603"
+        },
+        {
+          "reference": "124060",
+          "source": "https://loupethis.com/auctions/rolex-submariner-non-date-124060-ceramic-bezel-2",
+          "index": 17,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/e33f2c0349a37adaacc2ecb586efdd3c76bbc3ff-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "b06b051352528d5cf3f1f881a6d7c7bcd2f7a2a1cdaea78d1db3b044c1b725b8"
+        },
+        {
+          "reference": "124060",
+          "source": "https://loupethis.com/auctions/rolex-submariner-non-date-124060-ceramic-bezel-2",
+          "index": 18,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/9da0e9adbaeb7219a7bab521831c9ad688fe354f-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "34f0921eb4376290c06e98e7c35bb1d11cf6906157a2c60803d0b6e7843bd7a0"
+        },
+        {
+          "reference": "124060",
+          "source": "https://loupethis.com/auctions/rolex-submariner-non-date-124060-ceramic-bezel-2",
+          "index": 19,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/d37dd4507a621e24be2bfd678066cd21d8dede88-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "2e62df74a823d154a5193cc279782c25c7ceb7c16d216ef271c823674753c4e2"
+        },
+        {
+          "reference": "124060",
+          "source": "https://loupethis.com/auctions/rolex-submariner-non-date-124060-ceramic-bezel-2",
+          "index": 20,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/b355b898d9e47470f06725d443765828ab532a71-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "2212e6676d815befb61aa28afc3b27a5ba6ac39111491acc065acd21687ac775"
+        },
+        {
+          "reference": "124060",
+          "source": "https://loupethis.com/auctions/rolex-submariner-non-date-124060-ceramic-bezel-2",
+          "index": 21,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/4c4bccdda55f46e47b6b86a0c09437f4a89b22d8-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "7ff3f4fa198a9c2aeb7be482c5ae8396c695a0b20c52d7e5917874d453c89e4d"
+        }
+      ]
+    },
+    {
+      "acceptedReferenceKeys": [
+        "134300",
+        "134300-0010",
+        "M134300-0010"
+      ],
+      "source": "https://loupethis.com/auctions/rolex-oyster-perpetual-41-134300-jubilee-motif-dial",
+      "credit": "Loupe This",
+      "lot": "4835",
+      "specimenDescription": [
+        {
+          "_key": "d1d12f491673",
+          "_type": "titleLeftBodyRight",
+          "title": "Introduction",
+          "bodyCopy": [
+            {
+              "style": "normal",
+              "_key": "465133659e7e",
+              "markDefs": [],
+              "children": [
+                {
+                  "_key": "9787438b03340",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Introduced as a new model in 2020 as Rolex revitalized the entire Oyster Perpetual collection, the Oyster Perpetual 41 features the incredible in-house Rolex cal. 3230 movement within its enlarged 41mm entirely satin-brushed stainless steel case. Featuring 70 hours of power reserve with COSC certification and Rolex's own \"Superlative Chronometer\" certification, this new movement has ensured that the latest Oyster Perpetuals remain accurate to within -2/+2 seconds a day and feature the same level of horological engineering as any other flagship offering from the Genevan brand. However, keen to keep the collection fresh in the minds of their collectors, Rolex once again revamped the Oyster Perpetual in 2026 by adding to the selection of updated colors that had only launched in 2025, one of which we have here. Offered as a fresh reference, the ref. 134300, this new model is identical to their predecessor in every way besides its dial. Offered here as perhaps the most desirable variant is the Jubilee Motif dial. Inspired by Rolex’s Jubilee motif whereby the word “ROLEX” appears across the entire lacquered dial over and over again, this new take gives the design ten colors that overlap one another to create an incredibly fun and playful spirit. Leaning into the Celebration dial’s colorful design, this Jubilee dial spins the Oyster Perpetual’s subdued aesthetic on its head and creates something entirely new and unusual."
+                }
+              ],
+              "_type": "block"
+            }
+          ]
+        },
+        {
+          "included": "Box and Papers, Hang Tag",
+          "range": {
+            "_type": "range",
+            "start": 8000,
+            "end": 12000
+          },
+          "_key": "4f543b8d8d0e",
+          "_type": "auctionScorecard",
+          "grade": "M 10",
+          "status": "Vetted & Approved"
+        },
+        {
+          "included": "Watch, box, papers, and hang tags",
+          "condition": "Like new",
+          "brand": "Rolex",
+          "reference": "134300-0010",
+          "material": "Stainless steel",
+          "dimensions": "41mm",
+          "year": "2026",
+          "model": "Oyster Perpetual 41",
+          "_type": "twoColumnTable",
+          "movement": "Automatic cal. 3230",
+          "_key": "f0bacdc03e5c",
+          "dialColor": "Multicolored lacquer",
+          "bracelet": "Stainless steel Oyster bracelet"
+        },
+        {
+          "_type": "threeUpImageModule",
+          "imageComponents": [
+            {
+              "caption": [
+                {
+                  "_key": "f281a91183be",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "_type": "span",
+                      "marks": [],
+                      "text": "THE DIAL",
+                      "_key": "802ad6a08b53"
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "h5"
+                },
+                {
+                  "_type": "block",
+                  "style": "normal",
+                  "_key": "b6fe4bcd7b24",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "_key": "68d40a27080b",
+                      "_type": "span",
+                      "marks": [],
+                      "text": "A playful and colorful take on one of Rolex's signature dial designs of the 1970s, this new lacquered Jubilee Motif is a bright and fun way to reinvent an old design. "
+                    }
+                  ]
+                }
+              ],
+              "_key": "46ade47211a1",
+              "image": {
+                "_type": "imageField",
+                "alt": "THE DIAL",
+                "asset": {
+                  "_ref": "image-31e5239c183fac61ac2a759de44ee998c86e9ab7-3770x3770-jpg",
+                  "_type": "reference"
+                }
+              }
+            },
+            {
+              "image": {
+                "_type": "imageField",
+                "alt": "THE CONSTRUCTION",
+                "asset": {
+                  "_type": "reference",
+                  "_ref": "image-ffa61b8f2c7edd068cf942dda34cc541e866eab0-3770x3770-jpg"
+                }
+              },
+              "caption": [
+                {
+                  "children": [
+                    {
+                      "marks": [],
+                      "text": "THE CONSTRUCTION",
+                      "_key": "5dfb7b2b1829",
+                      "_type": "span"
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "h5",
+                  "_key": "2bd9cfa47a4a",
+                  "markDefs": []
+                },
+                {
+                  "_key": "639e9e277845",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "text": "Featuring a modern 41mm sizing, the Oyster Perpetual ref. 134300's satin-brushed case exhibits the same sport watch tendencies as the models that it forms the foundation of, like the Submariner, GMT-Master II, and so many others. However, unlike those models, it also retains a refined detail in its polished dome-shaped bezel that none of those models feature. ",
+                      "_key": "10c1598ac025",
+                      "_type": "span",
+                      "marks": []
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "normal"
+                }
+              ],
+              "_key": "e5a3c3a995a5"
+            },
+            {
+              "caption": [
+                {
+                  "style": "h5",
+                  "_key": "63a227d48262",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "marks": [
+                        "strong"
+                      ],
+                      "text": "TIMING MACHINE READOUT",
+                      "_key": "c230e5ad5b000",
+                      "_type": "span"
+                    }
+                  ],
+                  "_type": "block"
+                },
+                {
+                  "style": "normal",
+                  "_key": "741f83041412",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "marks": [],
+                      "text": "This reading was taken (crown down) with a ONEOF Accuracy Boutique Edition timing machine at time of cataloging. It is provided as a courtesy only, and shall not be construed as a warranty or guarantee of any kind. Please refer to our terms and conditions of sale for more information.",
+                      "_key": "d76b7d70dcbd0",
+                      "_type": "span"
+                    }
+                  ],
+                  "_type": "block"
+                }
+              ],
+              "_key": "98f314355c73",
+              "image": {
+                "alt": "TIMING MACHINE READOUT",
+                "asset": {
+                  "_ref": "image-f09e503d2d27385f663bbc88f6b6e862f1928b13-750x750-jpg",
+                  "_type": "reference"
+                },
+                "_type": "imageField"
+              }
+            }
+          ],
+          "_key": "0d197430fd44"
+        },
+        {
+          "title": "Condition",
+          "bodyCopy": [
+            {
+              "_key": "91136dfdfa33",
+              "markDefs": [],
+              "children": [
+                {
+                  "marks": [],
+                  "text": "Watch is in new condition.  Comes complete with inner and outer box, booklets, guarantee card (dated May 2026) and hang tag.",
+                  "_key": "d7beb2dec2d2",
+                  "_type": "span"
+                }
+              ],
+              "_type": "block",
+              "style": "normal"
+            },
+            {
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "marks": [],
+                  "text": "",
+                  "_key": "ea563a780c0e"
+                }
+              ],
+              "_type": "block",
+              "style": "normal",
+              "_key": "1d345495b487"
+            }
+          ],
+          "_key": "6985ad09d93a",
+          "_type": "titleLeftBodyRight"
+        },
+        {
+          "_key": "cc50944c5586",
+          "_type": "titleLeftBodyRight",
+          "title": "Our Perspective",
+          "bodyCopy": [
+            {
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Seldom seen on the market, given just how new they are, this is a wonderful opportunity to add the new Jubilee Motif Oyster Perpetual to your collection. ",
+                  "_key": "68a7a1212917"
+                }
+              ],
+              "_type": "block",
+              "style": "normal",
+              "_key": "b45fcaad0589"
+            }
+          ],
+          "authorProfiles": [
+            {
+              "image": {
+                "_type": "imageField",
+                "asset": {
+                  "_ref": "image-590774cfe2c9b6581ab2fab9cdd7a5d633e1acbe-1000x971-jpg",
+                  "_type": "reference"
+                }
+              },
+              "_id": "f6d58947-7e19-43b1-a831-f297e8816a23",
+              "_type": "author",
+              "name": "Justin Gruenberg",
+              "jobTitle": "Co-founder"
+            }
+          ]
+        }
+      ],
+      "evidence": "Loupe This lot 4835: all 22 actual gallery photographs visually inspected; selected movement, back, clasp and identification views inspected at full resolution. Actual guarantee card reads 134300 and the paired tag reads M134300-0010. Other dial suffixes do not inherit this multicolour specimen. No opened movement photograph establishes the claimed 3230 execution. Source: https://loupethis.com/auctions/rolex-oyster-perpetual-41-134300-jubilee-motif-dial",
+      "acceptedPhotographIds": [
+        "loupe-archive-4835-front-0",
+        "loupe-archive-4835-caseback-5",
+        "loupe-archive-4835-braceletClasp-12"
+      ],
+      "inspectedImages": [
+        {
+          "reference": "134300",
+          "source": "https://loupethis.com/auctions/rolex-oyster-perpetual-41-134300-jubilee-motif-dial",
+          "index": 0,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/4a1cd91014a4a50f292cadec30662681056a40c6-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "6f95bfb3d5dd9af5078ee5cbfa812b811464676ae38a9c6877958590c78fe5d5"
+        },
+        {
+          "reference": "134300",
+          "source": "https://loupethis.com/auctions/rolex-oyster-perpetual-41-134300-jubilee-motif-dial",
+          "index": 1,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/abf44b647a27736d0b8a15aea4e4ab3769a1ad27-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "1f49455e0f67f38cdbaa62e36bb5809261363e3d087a5a0096cadadf697943bf"
+        },
+        {
+          "reference": "134300",
+          "source": "https://loupethis.com/auctions/rolex-oyster-perpetual-41-134300-jubilee-motif-dial",
+          "index": 2,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/a77e1a013bc8e84d948e45d407f0d9edfa38d5d9-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "2c88a4c0d645d673bcd5024be9a9dbf943fef1f94c18f62755467b89cee9bfa6"
+        },
+        {
+          "reference": "134300",
+          "source": "https://loupethis.com/auctions/rolex-oyster-perpetual-41-134300-jubilee-motif-dial",
+          "index": 3,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/79e25103a20da96f8abc5fb16746b46a59fd02f4-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "38f13dc1e9938407260470fa211fdda652b7f328c5fcd3179754d3ea98627a11"
+        },
+        {
+          "reference": "134300",
+          "source": "https://loupethis.com/auctions/rolex-oyster-perpetual-41-134300-jubilee-motif-dial",
+          "index": 4,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/815ea41995279d40de526ad2a8e7e9f83026c784-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "c43f2a0e103504650a47a347d55a0fea8f0c73c7360e222ad978dee8fec547de"
+        },
+        {
+          "reference": "134300",
+          "source": "https://loupethis.com/auctions/rolex-oyster-perpetual-41-134300-jubilee-motif-dial",
+          "index": 5,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/2a5e922293e1ba5cdf1a359eb443815b0c78529d-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "d94f13e57c4631efdf985924d1a40d57bd40dd7eb564b123595dcdcb2b59443c"
+        },
+        {
+          "reference": "134300",
+          "source": "https://loupethis.com/auctions/rolex-oyster-perpetual-41-134300-jubilee-motif-dial",
+          "index": 6,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/713d795495839ab6c89a1f2079975a869b735554-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "7bc78e8e6c49daa57d5cfd65243373aa45e9bba31aa1b7477abfe524e17beae5"
+        },
+        {
+          "reference": "134300",
+          "source": "https://loupethis.com/auctions/rolex-oyster-perpetual-41-134300-jubilee-motif-dial",
+          "index": 7,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/2c37fe64d5649cfc3408473a3a3d7bf8a84701aa-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "ef02d234d2f2f95f6c94720cd6d4919a752bf503b7bf37682146bb65acbdce1a"
+        },
+        {
+          "reference": "134300",
+          "source": "https://loupethis.com/auctions/rolex-oyster-perpetual-41-134300-jubilee-motif-dial",
+          "index": 8,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/a113e2600872761b38d9f295d29c2fd2e527e4d7-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "0aa181b66ead5b31873b0eb8b21f23aa47586871a396a4ead0f4d99aa03f5429"
+        },
+        {
+          "reference": "134300",
+          "source": "https://loupethis.com/auctions/rolex-oyster-perpetual-41-134300-jubilee-motif-dial",
+          "index": 9,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/a44670a0aa3ade8e7013b1a82bb488c5f9e58980-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "79a14f86f3d4d615a954744eeb04051f1982d79dfc4e46d74bb31871615a610b"
+        },
+        {
+          "reference": "134300",
+          "source": "https://loupethis.com/auctions/rolex-oyster-perpetual-41-134300-jubilee-motif-dial",
+          "index": 10,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/62d8c9ea45a985465749eabd87ae8889bc61a3e7-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "44da1bfeac3201656563aa1dd0df2578638bc21cd5c2b0397e65871bb3c3a35b"
+        },
+        {
+          "reference": "134300",
+          "source": "https://loupethis.com/auctions/rolex-oyster-perpetual-41-134300-jubilee-motif-dial",
+          "index": 11,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/07e49703c09143de7334aa58088c19546ead9830-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "e49c7aaa122fec5e513c2dca9abd6fc535a4151dcb4fb001d4c655316533f353"
+        },
+        {
+          "reference": "134300",
+          "source": "https://loupethis.com/auctions/rolex-oyster-perpetual-41-134300-jubilee-motif-dial",
+          "index": 12,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/52af9c823c0c255e532bae2dcf891d88e078062f-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "8593fbdd4ea4cfdcf38cb82469d11f306975b0bb2a7f5dc339265bdc751e85bc"
+        },
+        {
+          "reference": "134300",
+          "source": "https://loupethis.com/auctions/rolex-oyster-perpetual-41-134300-jubilee-motif-dial",
+          "index": 13,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/095ed06b404f1bf81fa39af20de028aac2d4895e-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "f8e7b417c01b9e5b536e0d0549d786fc271e5e918d5a0b26e19e046e04efd212"
+        },
+        {
+          "reference": "134300",
+          "source": "https://loupethis.com/auctions/rolex-oyster-perpetual-41-134300-jubilee-motif-dial",
+          "index": 14,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/8a6683280bcf0c4f1d0f9134b9970d4450f9a7c6-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "e199bf17e9d93bdd59acb835576eeb5cfa885f283f4b8a4ce9bd61ea13568859"
+        },
+        {
+          "reference": "134300",
+          "source": "https://loupethis.com/auctions/rolex-oyster-perpetual-41-134300-jubilee-motif-dial",
+          "index": 15,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/31e277566beddd1982f4313934f5e2b666bff904-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "0d470de032c984e9bec2cda2195debbd21530248d8ce41f7763896163091b1ba"
+        },
+        {
+          "reference": "134300",
+          "source": "https://loupethis.com/auctions/rolex-oyster-perpetual-41-134300-jubilee-motif-dial",
+          "index": 16,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/613980c614428039103ec334468553508259e51d-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "6d70000d5cc6fa3c0317eb156d583a5d7206b93c661418e422c1326d9f1a68f5"
+        },
+        {
+          "reference": "134300",
+          "source": "https://loupethis.com/auctions/rolex-oyster-perpetual-41-134300-jubilee-motif-dial",
+          "index": 17,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/9f7a4e41c942698b22085d2dc215ce26dedb1549-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "cbe6aba199f21e289d42e965155fd5c8cdd959fea04237f3ef82a822874cc2cc"
+        },
+        {
+          "reference": "134300",
+          "source": "https://loupethis.com/auctions/rolex-oyster-perpetual-41-134300-jubilee-motif-dial",
+          "index": 18,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/ee5367ab9b9d33126ea74b071cc92a3629129996-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "ddb9c79cfd6f908064d52b9ace470df82dad6706de08a0d34cd6990cc9974485"
+        },
+        {
+          "reference": "134300",
+          "source": "https://loupethis.com/auctions/rolex-oyster-perpetual-41-134300-jubilee-motif-dial",
+          "index": 19,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/8b4ea20432baaa920a042e8ff94d477802d6e515-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "15b021d1f57ff008dc1f690f32ed79752c079a4188e06c7338051d582e681c3b"
+        },
+        {
+          "reference": "134300",
+          "source": "https://loupethis.com/auctions/rolex-oyster-perpetual-41-134300-jubilee-motif-dial",
+          "index": 20,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/001078251650b5da6c34c1fc8665ed6fc171ed61-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "d6497a912a20b9a913afc47f04c94cf0135d05f3942125c334f4ee46c1c654cb"
+        },
+        {
+          "reference": "134300",
+          "source": "https://loupethis.com/auctions/rolex-oyster-perpetual-41-134300-jubilee-motif-dial",
+          "index": 21,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/8f805bd8f9b485d7839eaeb46b9cd9b5c2368c85-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "8d8d9ec9b25d7e0e14f7c4a1907faa7bbd697ca988d6f6fecce5a8f715d75eb8"
+        }
+      ]
+    },
+    {
+      "acceptedReferenceKeys": [
+        "6426"
+      ],
+      "source": "https://loupethis.com/auctions/rolex-oyster-precision-6426-black-gilt-dial",
+      "credit": "Loupe This",
+      "lot": "4814",
+      "specimenDescription": [
+        {
+          "bodyCopy": [
+            {
+              "style": "normal",
+              "_key": "79ae13b17b5a",
+              "markDefs": [],
+              "children": [
+                {
+                  "marks": [],
+                  "text": "Produced during the late 1950s, the Rolex Oyster Precision ref. 6426 represents one of the purest expressions of Rolex’s timeless Oyster. Combining the robust Oyster case with a simple manually wound movement, the model emphasized reliability, legibility, and everyday practicality without unnecessary complication. Watches such as the ref. 6426 formed an important part of Rolex’s catalogue during the period, offering understated sports-watch styling in an accessible and wearable format. Particularly appealing to collectors today are examples fitted with the desirable “3-6-9” dial configuration, whose balanced layout and Arabic numerals evoke the aesthetic language of early Explorer models. The presence of a gilt gloss dial further enhances the vintage charm of the watch, placing it firmly within one of the most admired eras of Rolex dial production.",
+                  "_key": "7e0455e72e020",
+                  "_type": "span"
+                }
+              ],
+              "_type": "block"
+            }
+          ],
+          "_key": "d1d12f491673",
+          "_type": "titleLeftBodyRight",
+          "title": "Introduction"
+        },
+        {
+          "range": {
+            "_type": "range",
+            "start": 2000,
+            "end": 4000
+          },
+          "_key": "4f543b8d8d0e",
+          "_type": "auctionScorecard",
+          "grade": "V 8.5",
+          "status": "Vetted & Approved",
+          "included": "Watch Only"
+        },
+        {
+          "reference": "6426",
+          "year": "1959",
+          "dimensions": "34mm",
+          "dialColor": "Black gilt gloss dial",
+          "movement": "Manual-wind movement",
+          "brand": "Rolex",
+          "included": "Watch only",
+          "model": "Oyster Precision",
+          "_type": "twoColumnTable",
+          "condition": "Excellent",
+          "_key": "f0bacdc03e5c",
+          "material": "Stainess steel",
+          "bracelet": "Rolex stainless steel Jubilee bracelet dated 3/69"
+        },
+        {
+          "_key": "0d197430fd44",
+          "_type": "threeUpImageModule",
+          "imageComponents": [
+            {
+              "caption": [
+                {
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "_type": "span",
+                      "marks": [],
+                      "text": "THE DIAL",
+                      "_key": "db60481d40b20"
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "h5",
+                  "_key": "efc6fde5c96d"
+                },
+                {
+                  "_type": "block",
+                  "style": "normal",
+                  "_key": "2c6c233edbcd",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "marks": [],
+                      "text": "The gilt gloss dial features the highly sought-after “3-6-9” configuration with luminous Arabic numerals and gilt printing that perfectly captures the aesthetic of Rolex sports watches from the late 1950s. Fine spider crazing across the glossy surface adds texture and character to the dial, a trait particularly appreciated by collectors of vintage gilt Rolex watches.",
+                      "_key": "d7ee7eb447ca0",
+                      "_type": "span"
+                    }
+                  ]
+                }
+              ],
+              "_key": "2b949d67a5ab",
+              "image": {
+                "_type": "imageField",
+                "alt": "THE DIAL",
+                "asset": {
+                  "_ref": "image-c8047ec4e306cdac9aecc98dac32ab53281e6986-3770x3770-jpg",
+                  "_type": "reference"
+                }
+              }
+            },
+            {
+              "_key": "2c1942e43a8f",
+              "image": {
+                "_type": "imageField",
+                "alt": "THE CONSTRUCTION",
+                "asset": {
+                  "_type": "reference",
+                  "_ref": "image-b19d3565cfe7221855b88e298d3baa604fe2d156-3770x3770-jpg"
+                }
+              },
+              "caption": [
+                {
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "_type": "span",
+                      "marks": [],
+                      "text": "THE CONSTRUCTION",
+                      "_key": "70a1cad51fbc0"
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "h5",
+                  "_key": "8bae2eacaaf0"
+                },
+                {
+                  "children": [
+                    {
+                      "_key": "d6a30f97c61b0",
+                      "_type": "span",
+                      "marks": [],
+                      "text": "The 34mm Oyster case retains its classic restrained proportions and is fitted with a screw-down Rolex twin-lock crown. "
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "normal",
+                  "_key": "d06913bf8d78",
+                  "markDefs": []
+                }
+              ]
+            },
+            {
+              "image": {
+                "asset": {
+                  "_ref": "image-25b02567eaa366f55f026d4f88bac56249526cc8-750x750-jpg",
+                  "_type": "reference"
+                },
+                "_type": "imageField",
+                "alt": "TIMING MACHINE READOUT"
+              },
+              "caption": [
+                {
+                  "_key": "63a227d48262",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "marks": [],
+                      "text": "TIMING MACHINE READOUT",
+                      "_key": "c230e5ad5b000",
+                      "_type": "span"
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "h5"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "This reading was taken (crown down) with a ONEOF Accuracy Boutique Edition timing machine at time of cataloging. It is provided as a courtesy only, and shall not be construed as a warranty or guarantee of any kind. Please refer to our terms and conditions of sale for more information.",
+                      "_key": "d76b7d70dcbd0",
+                      "_type": "span",
+                      "marks": []
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "normal",
+                  "_key": "741f83041412",
+                  "markDefs": []
+                }
+              ],
+              "_key": "98f314355c73"
+            }
+          ]
+        },
+        {
+          "_type": "titleLeftBodyRight",
+          "title": "Condition",
+          "bodyCopy": [
+            {
+              "_key": "4c4728520ae7",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Watch is in overall excellent condition. The steel case is well defined, with scratches and marks consistent with age. The gloss gilt dial is excellent, with some tarnishing visible to the applied hour markers in places and discoloration to the lume plots. The hands show some patina to the metal surfaces. There is a small chip to the crystal between 52 and 53. The watch is fitted with a Rolex Oyster rivet bracelet showing surface marks and light play between the links. The bracelet is fitted with 13 links and fits approximately a 7 3/4” wrist. ",
+                  "_key": "8843f00cfdc40"
+                }
+              ],
+              "_type": "block",
+              "style": "normal"
+            },
+            {
+              "children": [
+                {
+                  "marks": [
+                    "strong"
+                  ],
+                  "text": "Please note:",
+                  "_key": "0a54b88bf9a3",
+                  "_type": "span"
+                },
+                {
+                  "_type": "span",
+                  "marks": [],
+                  "text": " The watch ticks at time of cataloging, but timekeeping is poor and a service is recommended.",
+                  "_key": "a79ac8610282"
+                }
+              ],
+              "_type": "block",
+              "style": "normal",
+              "_key": "cf3e5c297e04",
+              "markDefs": []
+            }
+          ],
+          "_key": "6985ad09d93a"
+        },
+        {
+          "_type": "titleLeftBodyRight",
+          "title": "Our Perspective",
+          "bodyCopy": [
+            {
+              "_key": "d566e7f79add",
+              "markDefs": [],
+              "children": [
+                {
+                  "_key": "9b205e4183800",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "With its gilt gloss “3-6-9” dial, honest vintage character, and understated Oyster construction, the ref. 6426 offers collectors a wonderfully pure and increasingly appreciated example of mid-century Rolex sports watch design."
+                }
+              ],
+              "_type": "block",
+              "style": "normal"
+            }
+          ],
+          "authorProfiles": [
+            {
+              "name": "Patrick Parrish",
+              "jobTitle": "Collector",
+              "image": {
+                "_type": "imageField",
+                "alt": "Patrick Parrish",
+                "asset": {
+                  "_ref": "image-e1d76ab64c0de07625bbfac6cd4bcdc1f52ad35c-521x439-jpg",
+                  "_type": "reference"
+                }
+              },
+              "_id": "935507fb-6547-4e82-a36f-8a46d9d37920",
+              "_type": "author"
+            }
+          ],
+          "_key": "cc50944c5586"
+        }
+      ],
+      "evidence": "Loupe This lot 4814: all 19 actual gallery photographs visually inspected; selected movement, back, clasp and identification views inspected at full resolution. Actual between-lug stamp 6426 and internal back 6427 / III 59 establish this paired specimen; internal 6427 is not a watch-reference alias. The source says manual wind without an exact calibre. The calibre marking is not established sufficiently from the inspected image, so movement coverage remains empty. The source says Jubilee dated 3/69, but the main gallery specimen wears a riveted Oyster and the final image shows a separate Jubilee configuration; bracelet originality is not established. Source: https://loupethis.com/auctions/rolex-oyster-precision-6426-black-gilt-dial",
+      "acceptedPhotographIds": [
+        "loupe-archive-4814-front-0",
+        "loupe-archive-4814-caseback-16",
+        "loupe-archive-4814-braceletClasp-13",
+        "loupe-archive-4814-detail-14"
+      ],
+      "inspectedImages": [
+        {
+          "reference": "6426",
+          "source": "https://loupethis.com/auctions/rolex-oyster-precision-6426-black-gilt-dial",
+          "index": 0,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/16c19c6399c5775599fb31b3bf8e7bf150632579-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "d318fe42337ef8e83038fda98d30919ca8f3a4e8759635d34e37aa82a5a45e0e"
+        },
+        {
+          "reference": "6426",
+          "source": "https://loupethis.com/auctions/rolex-oyster-precision-6426-black-gilt-dial",
+          "index": 1,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/7d802fecaf8f9e4a27799c9f68ccc8c73488a914-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "dd5e11cc6e19c4355e579ce0d1fa08a050bc4392a804b3fbc6e2495f1532d575"
+        },
+        {
+          "reference": "6426",
+          "source": "https://loupethis.com/auctions/rolex-oyster-precision-6426-black-gilt-dial",
+          "index": 2,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/d76e11104b85ac5f94d26c8a82716a0b645e88a5-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "7d10782732ef9552acec18a2b28328df2d197aafd66c04933a96b23705ba21f1"
+        },
+        {
+          "reference": "6426",
+          "source": "https://loupethis.com/auctions/rolex-oyster-precision-6426-black-gilt-dial",
+          "index": 3,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/1b3074582ac7958432a4e775947df0f638d225c2-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "733a566fb22f8851ae4d20c87b165c5f85c5b67b0096db9b918a071d2c6fdef8"
+        },
+        {
+          "reference": "6426",
+          "source": "https://loupethis.com/auctions/rolex-oyster-precision-6426-black-gilt-dial",
+          "index": 4,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/301c2d331c77745715735e504325ecc5f3352b3f-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "874e29e44489c17fb988718fbc31a747c623d6e9136da2c51286359eea861cfe"
+        },
+        {
+          "reference": "6426",
+          "source": "https://loupethis.com/auctions/rolex-oyster-precision-6426-black-gilt-dial",
+          "index": 5,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/5db9d08eacd5c18315bda993b264b8ec13dd692c-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "62e178a4ccb0b3962ee7ab3cd64a6943acbcf5e1b0e2448639e52e422b86c594"
+        },
+        {
+          "reference": "6426",
+          "source": "https://loupethis.com/auctions/rolex-oyster-precision-6426-black-gilt-dial",
+          "index": 6,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/07f9e5d69c13ba76a98ef3dbd5a9527b7f920dbe-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "efd7e27d4375fc34eb0f8bc20269b74be2c0e9b06038e18884fc9671d0f9a9cb"
+        },
+        {
+          "reference": "6426",
+          "source": "https://loupethis.com/auctions/rolex-oyster-precision-6426-black-gilt-dial",
+          "index": 7,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/709c81c23c2940ff53901e5809ba2e8d08f07834-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "6c03ad5bd3c8084469b76d6a883be57807d954bb162d4cb5bb9946a770be3459"
+        },
+        {
+          "reference": "6426",
+          "source": "https://loupethis.com/auctions/rolex-oyster-precision-6426-black-gilt-dial",
+          "index": 8,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/5fa39cf00bd2612f2513d696686464b351c76786-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "5c0898148250242ccc4d34940adb596fe82fb179d8690aa579a27eb536170414"
+        },
+        {
+          "reference": "6426",
+          "source": "https://loupethis.com/auctions/rolex-oyster-precision-6426-black-gilt-dial",
+          "index": 9,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/9416004bb31b527fec2345bbebc8daeea1b9c3a7-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "06ff68390e0c1506c801de1b8c6a2412bb299dec4f068bafec5c7204228dd77c"
+        },
+        {
+          "reference": "6426",
+          "source": "https://loupethis.com/auctions/rolex-oyster-precision-6426-black-gilt-dial",
+          "index": 10,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/052485ca90f2c89fe52fcffced1bd2a0838cf81b-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "d8612a5e742ac37331ba06fbeaf05028522d6af67a933c8b729fc3ccd0e6c45b"
+        },
+        {
+          "reference": "6426",
+          "source": "https://loupethis.com/auctions/rolex-oyster-precision-6426-black-gilt-dial",
+          "index": 11,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/c8047ec4e306cdac9aecc98dac32ab53281e6986-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "2f4e806e4ecdd6d721877c107d0c7d27547491f8a8f5c7a1bc08fa59609fa782"
+        },
+        {
+          "reference": "6426",
+          "source": "https://loupethis.com/auctions/rolex-oyster-precision-6426-black-gilt-dial",
+          "index": 12,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/75b2ff0a95684f6c9dafb6ebd879aefc05c19639-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "64b577ff40bf044057e07b4f272a61d55951aec80c440bc58682912f48447f82"
+        },
+        {
+          "reference": "6426",
+          "source": "https://loupethis.com/auctions/rolex-oyster-precision-6426-black-gilt-dial",
+          "index": 13,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/5cda60ce878136cd486a7856ac68d87e9f25ed95-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "3908642ac42c8911f224b628951c47d4c69ddbbbbe40367507cc0dfec9c2478e"
+        },
+        {
+          "reference": "6426",
+          "source": "https://loupethis.com/auctions/rolex-oyster-precision-6426-black-gilt-dial",
+          "index": 14,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/594f2597d077d40a6c3e5a9691b200c0d26123d2-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "2c91aedd1bd5b0e852a492efd82e00da8763caa97ab11159f877922aafca1975"
+        },
+        {
+          "reference": "6426",
+          "source": "https://loupethis.com/auctions/rolex-oyster-precision-6426-black-gilt-dial",
+          "index": 15,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/d180d6af8cee8c54b54c79ca7054f42c6f8e7b63-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "bfe035709a83e8326fcadc13ddee7497c4d967a91dc09b10795c10cf0b667228"
+        },
+        {
+          "reference": "6426",
+          "source": "https://loupethis.com/auctions/rolex-oyster-precision-6426-black-gilt-dial",
+          "index": 16,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/43be07ed6caf4cea7fd0289934e69b5277496eab-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "4294fa6063246dbe3037e3b5da2357fbd8f830462a79de776fd0fa9025166726"
+        },
+        {
+          "reference": "6426",
+          "source": "https://loupethis.com/auctions/rolex-oyster-precision-6426-black-gilt-dial",
+          "index": 17,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/b19d3565cfe7221855b88e298d3baa604fe2d156-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "eee95b23dbaaf7c96e7e814636b9007f4e400ab7054bddef5f5088cdeb9b4094"
+        },
+        {
+          "reference": "6426",
+          "source": "https://loupethis.com/auctions/rolex-oyster-precision-6426-black-gilt-dial",
+          "index": 18,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/6981b2fb624d2aef7332784d6f3b073bfb130199-4480x6720.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            3000
+          ],
+          "sha256": "97a55576ee7825f47955807b49bc53c7c860eb3c667f1db56f8eb9f1b139d910"
+        }
+      ]
+    },
+    {
+      "acceptedReferenceKeys": [
+        "326934",
+        "326934-0003",
+        "M326934-0003"
+      ],
+      "source": "https://loupethis.com/auctions/rolex-sky-dweller-326934-blue-dial-oyster-bracelet",
+      "credit": "Loupe This",
+      "lot": "4536",
+      "specimenDescription": [
+        {
+          "title": "Introduction",
+          "bodyCopy": [
+            {
+              "_type": "block",
+              "style": "normal",
+              "_key": "35abbb84aea7",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Released in 2012 as the first new collection in 20 years since the Yacht-Master in 1992, the Sky-Dweller introduced the most complex Rolex movement ever created to the world. Powered by the cal. 9001 movement, the Sky-Dweller features an annual calendar system (called SAROS) requiring only one adjustment a year between February and March, which displays the month by highlighting the corresponding hour marker (8 o’clock is August, 12 is December, and so on) and a GMT function within the ring in the middle of its dial. With an innovative Ring Command System, the Sky-Dweller’s rotating fluted white gold bezel is used to select which of the functions the crown will take control of. Fitted in a 42mm stainless steel case, the ref. 326934 is the most sought-after of the Sky-Dweller variants on the market today, with its steel and white gold construction ensuring it remains as popular and timeless as ever as it blends a wholly functional array of complications with an effortlessly elegant design.",
+                  "_key": "852f74d518a0"
+                }
+              ]
+            }
+          ],
+          "_key": "d1d12f491673",
+          "_type": "titleLeftBodyRight"
+        },
+        {
+          "included": "Box and Papers, Hang Tag",
+          "range": {
+            "end": 20000,
+            "_type": "range",
+            "start": 15000
+          },
+          "_key": "4f543b8d8d0e",
+          "_type": "auctionScorecard",
+          "grade": "M 8.5",
+          "status": "Vetted & Approved"
+        },
+        {
+          "dialColor": "Blue",
+          "_key": "f0bacdc03e5c",
+          "included": "Watch, box, and papers",
+          "movement": "Automatic cal. 9001",
+          "brand": "Rolex",
+          "dimensions": "42mm x 14.1mm",
+          "model": "Sky-Dweller",
+          "bracelet": "Stainless steel Oyster bracelet",
+          "reference": "326934",
+          "_type": "twoColumnTable",
+          "year": "2017",
+          "condition": "Excellent",
+          "material": "Stainless steel and 18kt white gold"
+        },
+        {
+          "_key": "0d197430fd44",
+          "_type": "threeUpImageModule",
+          "imageComponents": [
+            {
+              "caption": [
+                {
+                  "_key": "88223b690831",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "marks": [],
+                      "text": "THE ANNUAL CALENDAR",
+                      "_key": "f1cd09d7926b",
+                      "_type": "span"
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "h5"
+                },
+                {
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "_type": "span",
+                      "marks": [],
+                      "text": "Unlike most annual calendar timepieces, the Sky-Dweller's hour-markers indicate the month corresponding with their position on the dial. January will be highlighted by a red box at 1 o' clock, February at 2 o'clock, March at 3 o'clock, and so on. This example's blue dial shows the month as July in the image above. ",
+                      "_key": "a0524f6082f7"
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "normal",
+                  "_key": "46f59575fd62"
+                }
+              ],
+              "_key": "513715fa7252",
+              "image": {
+                "_type": "imageField",
+                "alt": "THE ANNUAL CALENDAR",
+                "asset": {
+                  "_ref": "image-f7cd18618d6c039d97a90810759ca7aad1c26b91-3770x3770-jpg",
+                  "_type": "reference"
+                }
+              }
+            },
+            {
+              "caption": [
+                {
+                  "style": "h5",
+                  "_key": "1778c99b717b",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "marks": [],
+                      "text": "THE CONSTRUCTION",
+                      "_key": "99acbcf6edc7",
+                      "_type": "span"
+                    }
+                  ],
+                  "_type": "block"
+                },
+                {
+                  "style": "normal",
+                  "_key": "6921a80a6a04",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "_key": "56108e5799e4",
+                      "_type": "span",
+                      "marks": [],
+                      "text": "Featuring one of Rolex's largest cases, the Sky-Dweller is offered as a 42mm watch but with its polished lugs and fluted white gold bezel, it wears rather elegantly."
+                    }
+                  ],
+                  "_type": "block"
+                }
+              ],
+              "_key": "f59de083ed16",
+              "image": {
+                "_type": "imageField",
+                "alt": "THE CONSTRUCTION",
+                "asset": {
+                  "_ref": "image-b9d2dacf459226d149fa17cc74ded3d2afa68381-3770x3770-jpg",
+                  "_type": "reference"
+                }
+              }
+            },
+            {
+              "_key": "98f314355c73",
+              "image": {
+                "_type": "imageField",
+                "alt": "TIMING MACHINE READOUT",
+                "asset": {
+                  "_ref": "image-7df43ac279d6b61510b0d566d6a560283e0229e5-750x750-jpg",
+                  "_type": "reference"
+                }
+              },
+              "caption": [
+                {
+                  "style": "h5",
+                  "_key": "63a227d48262",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "_type": "span",
+                      "marks": [
+                        "strong"
+                      ],
+                      "text": "TIMING MACHINE READOUT",
+                      "_key": "c230e5ad5b000"
+                    }
+                  ],
+                  "_type": "block"
+                },
+                {
+                  "style": "normal",
+                  "_key": "741f83041412",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "_type": "span",
+                      "marks": [],
+                      "text": "This reading was taken (crown down) with a ONEOF Accuracy Boutique Edition timing machine at time of cataloging. It is provided as a courtesy only, and shall not be construed as a warranty or guarantee of any kind. Please refer to our terms and conditions of sale for more information.",
+                      "_key": "d76b7d70dcbd0"
+                    }
+                  ],
+                  "_type": "block"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bodyCopy": [
+            {
+              "_type": "block",
+              "style": "normal",
+              "_key": "772bf0bc330a",
+              "markDefs": [],
+              "children": [
+                {
+                  "_key": "4d450ddd32740",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Watch is in overall excellent condition. The steel case shows surface scratches to the polished sections, while the white gold bezel remains well defined with some light surface marks present. The dial and hands remain like new. It is fitted with a solid-link Oyster bracelet showing some surface scratches to the polished centre links and clasp, with no play between the links, and factory stickers still present on the clasp blades. The bracelet is fitted with 12 links, 5 of which are removable, and fits approximately a 7¾” wrist. Comes complete with inner and outer boxes, warranty card, booklet, wallet, and two hangtags."
+                }
+              ]
+            }
+          ],
+          "_key": "6985ad09d93a",
+          "_type": "titleLeftBodyRight",
+          "title": "Condition"
+        },
+        {
+          "_type": "titleLeftBodyRight",
+          "title": "Our Perspective",
+          "bodyCopy": [
+            {
+              "_type": "block",
+              "style": "normal",
+              "_key": "e6faf806aa3f",
+              "markDefs": [],
+              "children": [
+                {
+                  "marks": [],
+                  "text": "The most complicated timepiece ever created by Rolex, the Sky-Dweller is already an icon in the contemporary watch-collecting market. Its unique dial and impressive proportions have proven to be exceedingly popular amongst collectors ever since the collection's debut in 2012.",
+                  "_key": "a63adaa9d501",
+                  "_type": "span"
+                }
+              ]
+            }
+          ],
+          "authorProfiles": [
+            {
+              "jobTitle": "Co-founder",
+              "image": {
+                "_type": "imageField",
+                "asset": {
+                  "_ref": "image-e583b84f0b924ae364b7b663405f05f9aa7e8c16-2175x2258-jpg",
+                  "_type": "reference"
+                }
+              },
+              "_id": "08967c9c-8436-4841-b6cd-920ca9db96d8",
+              "_type": "author",
+              "name": "Eric Ku"
+            }
+          ],
+          "_key": "cc50944c5586"
+        }
+      ],
+      "evidence": "Loupe This lot 4536: all 23 actual gallery photographs visually inspected; selected movement, back, clasp and identification views inspected at full resolution. Actual guarantee card identifies 326934 BLUE and bracelet 72220; paired tag reads M326934-0003. Other dial or Jubilee variants do not inherit these photographs. No opened movement photograph establishes the claimed 9001 execution. Source: https://loupethis.com/auctions/rolex-sky-dweller-326934-blue-dial-oyster-bracelet",
+      "acceptedPhotographIds": [
+        "loupe-archive-4536-front-0",
+        "loupe-archive-4536-caseback-5",
+        "loupe-archive-4536-braceletClasp-12"
+      ],
+      "inspectedImages": [
+        {
+          "reference": "326934",
+          "source": "https://loupethis.com/auctions/rolex-sky-dweller-326934-blue-dial-oyster-bracelet",
+          "index": 0,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/516b18cfd37d0688bd5f48b0c7e7a5e694b1014c-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "dcffe9aed067c00a4e6e9d24dd0054a32b78a410230c795b4e304500d16d3716"
+        },
+        {
+          "reference": "326934",
+          "source": "https://loupethis.com/auctions/rolex-sky-dweller-326934-blue-dial-oyster-bracelet",
+          "index": 1,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/66f495daa881475f7d53a9c536168562d588f608-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "b1dd795c842f049c38ffb3bcb143c1da68b67ca117138e55ab3d7cea5273bb9c"
+        },
+        {
+          "reference": "326934",
+          "source": "https://loupethis.com/auctions/rolex-sky-dweller-326934-blue-dial-oyster-bracelet",
+          "index": 2,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/34be438f987e3d5a281870f997ade9e0569f3747-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "1df1ceee90cbbb56097b3dc7e28af6c20e5b6ff45f991bdec2a7e005f0d3421a"
+        },
+        {
+          "reference": "326934",
+          "source": "https://loupethis.com/auctions/rolex-sky-dweller-326934-blue-dial-oyster-bracelet",
+          "index": 3,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/616388f6b9a8146848ff23eebf100bf40689fdb4-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "12d14ba44697d546caa2b7d85cc8d3f4d7002902fa9a32ed3ae5f2b82b3c9bd7"
+        },
+        {
+          "reference": "326934",
+          "source": "https://loupethis.com/auctions/rolex-sky-dweller-326934-blue-dial-oyster-bracelet",
+          "index": 4,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/42255625b8faebe7729fe8f6e8311fcc8aae4438-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "39c83ffbf95ddca08664b34e9b3acd309e116640164329f3bc1b5fd1fe1d2b8e"
+        },
+        {
+          "reference": "326934",
+          "source": "https://loupethis.com/auctions/rolex-sky-dweller-326934-blue-dial-oyster-bracelet",
+          "index": 5,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/d91fc0fcde92be5efd7fb7025aa4d2db820580ae-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "c6c6bb834ad7a6e552c789bd941c507ab2854ca4e8ba868840b8637fb79b5ee4"
+        },
+        {
+          "reference": "326934",
+          "source": "https://loupethis.com/auctions/rolex-sky-dweller-326934-blue-dial-oyster-bracelet",
+          "index": 6,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/e56bd6f4c73bc77d31aead893f3467df6192b1c3-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "79c38f7f8308154235c1728b2f42fc69e959fa046d4c77d1c90fb8874c58a973"
+        },
+        {
+          "reference": "326934",
+          "source": "https://loupethis.com/auctions/rolex-sky-dweller-326934-blue-dial-oyster-bracelet",
+          "index": 7,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/507d463d6528a5d2b0bbf012b44a0d2d1bd0ddc5-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "6f7ae4b3179b499491b53d9d6b605f3735d918c3cc720ec6add92897402951ef"
+        },
+        {
+          "reference": "326934",
+          "source": "https://loupethis.com/auctions/rolex-sky-dweller-326934-blue-dial-oyster-bracelet",
+          "index": 8,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/7e6f837c025d74804da8e91d15934e31c7685e90-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "5cca198b903cdce90a7c12acd05f07df632930442c90fb9b6db4672fbc97ae33"
+        },
+        {
+          "reference": "326934",
+          "source": "https://loupethis.com/auctions/rolex-sky-dweller-326934-blue-dial-oyster-bracelet",
+          "index": 9,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/f679cd76450a52cbf213589a71762a960ec4aee8-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "ba34bf2c73d8d924547e4bdbca312f14705293cd25745f20bd4d46dcdea373aa"
+        },
+        {
+          "reference": "326934",
+          "source": "https://loupethis.com/auctions/rolex-sky-dweller-326934-blue-dial-oyster-bracelet",
+          "index": 10,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/b60c45c90a5da86f0107aaac239f6bf98ca16799-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "e74e8520456199e453c031762d26b8cc97aab419825e5053630a2a3aa391f66c"
+        },
+        {
+          "reference": "326934",
+          "source": "https://loupethis.com/auctions/rolex-sky-dweller-326934-blue-dial-oyster-bracelet",
+          "index": 11,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/f7cd18618d6c039d97a90810759ca7aad1c26b91-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "bb1c095f4b6aae48719121efecbc946600860e1f736f99820a8961d602bdd10e"
+        },
+        {
+          "reference": "326934",
+          "source": "https://loupethis.com/auctions/rolex-sky-dweller-326934-blue-dial-oyster-bracelet",
+          "index": 12,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/421e48150f5046c69109fd435b2ce11cb9426297-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "0934ab1f4ee26f86f86befb67326d132b02ac7c0981a99ae92d7ca8ec1844f01"
+        },
+        {
+          "reference": "326934",
+          "source": "https://loupethis.com/auctions/rolex-sky-dweller-326934-blue-dial-oyster-bracelet",
+          "index": 13,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/c0c560c6909491e8b516f41ec16559c9c4556eef-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "e7033156b5e290d84c4c7216fea9dae6963b06dd07f85586f13048ca866e5646"
+        },
+        {
+          "reference": "326934",
+          "source": "https://loupethis.com/auctions/rolex-sky-dweller-326934-blue-dial-oyster-bracelet",
+          "index": 14,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/1a2fce10c21fd6581a46a228f0ee41a4d8ac21d3-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "ca4caef6dd778a515d1306ef53ceb39b6a6469601825d311898ec7557be8a912"
+        },
+        {
+          "reference": "326934",
+          "source": "https://loupethis.com/auctions/rolex-sky-dweller-326934-blue-dial-oyster-bracelet",
+          "index": 15,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/16840aa5443a1b4ffa04dc96550637d09a757b71-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "3cd2119f7d86dcb52afe57f660b62dc4836136dbb1e537c23d90005751b5669f"
+        },
+        {
+          "reference": "326934",
+          "source": "https://loupethis.com/auctions/rolex-sky-dweller-326934-blue-dial-oyster-bracelet",
+          "index": 16,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/8621d0d16f8e2293d8d9bebacdfcac8b2bb763b2-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "863fe3a27ed5cfbd6ca9570d8c04e144801a6c535392e36d8a92cee53111ad6e"
+        },
+        {
+          "reference": "326934",
+          "source": "https://loupethis.com/auctions/rolex-sky-dweller-326934-blue-dial-oyster-bracelet",
+          "index": 17,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/e8e96345e8b6221376af2d9e7a447e7a0a3542e6-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "52b48e586df80aeccd1a3497c4f7f27bf72ef6fa6f5c420e0107b86de23b1209"
+        },
+        {
+          "reference": "326934",
+          "source": "https://loupethis.com/auctions/rolex-sky-dweller-326934-blue-dial-oyster-bracelet",
+          "index": 18,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/a24dc2684b8d33c6b09cd8b4b35bcd660d3a741e-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "cfb6db8c4b3b8b51dbe8dadd8e7f773140582f759b328601e08350cfacf39f04"
+        },
+        {
+          "reference": "326934",
+          "source": "https://loupethis.com/auctions/rolex-sky-dweller-326934-blue-dial-oyster-bracelet",
+          "index": 19,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/9e879b3d4ac3148e3e2728b1705033447334716b-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "5aa72c231ef1b95f486ff7ddd5b18394aba1614d3bcc6b320fb52b643679b318"
+        },
+        {
+          "reference": "326934",
+          "source": "https://loupethis.com/auctions/rolex-sky-dweller-326934-blue-dial-oyster-bracelet",
+          "index": 20,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/394bfdd028c8c1bd0f520667a547b4d65fc6aa2c-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "2d23ccd566e5a7deddc7119aea5b7b6b5ba974a97441e99773ab5c32edaecdc5"
+        },
+        {
+          "reference": "326934",
+          "source": "https://loupethis.com/auctions/rolex-sky-dweller-326934-blue-dial-oyster-bracelet",
+          "index": 21,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/700e09109315beff49f30e005d7b43d8e75a4e48-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "2b2842c274d5087a17ef61acd169d0cc29cf7596964dedca5c473306961232fd"
+        },
+        {
+          "reference": "326934",
+          "source": "https://loupethis.com/auctions/rolex-sky-dweller-326934-blue-dial-oyster-bracelet",
+          "index": 22,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/b9d2dacf459226d149fa17cc74ded3d2afa68381-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "c16cf3f989ef65433bfa08c38268f74d51774f4c9b4e32d4acce93f516cccfe5"
+        }
+      ]
+    },
+    {
+      "acceptedReferenceKeys": [
+        "5500"
+      ],
+      "source": "https://loupethis.com/auctions/rolex-air-king-5500-silver-dial",
+      "credit": "Loupe This",
+      "lot": "4327",
+      "specimenDescription": [
+        {
+          "_key": "d1d12f491673",
+          "_type": "titleLeftBodyRight",
+          "title": "Introduction",
+          "bodyCopy": [
+            {
+              "_key": "baccb0eaf7b1",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "marks": [],
+                  "text": "First released in 1945 in honor of the British RAF following their efforts in WWII, the Air-King has become one of the longest-serving members of Rolex’s catalog, with its official debut as a standalone collection, as we know it today, tracing its origins a little bit more recently to 1958. Since then, the collection has become one of Rolex’s most unique collections, with its design and construction often used as a means to push aesthetic boundaries and experiment with design in a way that few other collections within the Rolex family could. As such, the Air-King collection has been found to sport a vast expanse of dial colors and set-ups, with different bezel configurations and a large variety of sizes. ",
+                  "_key": "aaab049f1c58"
+                }
+              ],
+              "_type": "block",
+              "style": "normal"
+            }
+          ]
+        },
+        {
+          "_type": "auctionScorecard",
+          "grade": "V 8.5",
+          "status": "Vetted & Approved",
+          "included": "Watch Only",
+          "range": {
+            "end": 4000,
+            "_type": "range",
+            "start": 2000
+          },
+          "_key": "4f543b8d8d0e"
+        },
+        {
+          "_key": "f0bacdc03e5c",
+          "material": "Stainless steel",
+          "year": "1967",
+          "model": "Air-King",
+          "included": "Watch only",
+          "reference": "5500",
+          "_type": "twoColumnTable",
+          "dialColor": "Silver",
+          "condition": "Excellent",
+          "bracelet": "Stainless steel Oyster bracelet",
+          "brand": "Rolex",
+          "movement": "Automatic cal. 1520 ",
+          "dimensions": "34mm"
+        },
+        {
+          "_type": "threeUpImageModule",
+          "imageComponents": [
+            {
+              "caption": [
+                {
+                  "style": "h5",
+                  "_key": "32d62cf15a6c",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "marks": [],
+                      "text": "THE DIAL",
+                      "_key": "8bb6b6e77c6e",
+                      "_type": "span"
+                    }
+                  ],
+                  "_type": "block"
+                },
+                {
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "_key": "34194fa4f8cd",
+                      "_type": "span",
+                      "marks": [],
+                      "text": "Of all the dial variants launched under the Air-King umbrella, this example's silver dial is universally appealing with its applied indices, sword hands, monochromatic color, and impressive legibility.  "
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "normal",
+                  "_key": "86b87ee738c1"
+                }
+              ],
+              "_key": "8b16c91ac6e7",
+              "image": {
+                "_type": "imageField",
+                "alt": "THE DIAL",
+                "asset": {
+                  "_type": "reference",
+                  "_ref": "image-dca911660ae318f69bbe4cbc398ef5c243d053b6-2400x2400-jpg"
+                }
+              }
+            },
+            {
+              "image": {
+                "alt": "THE CONSTRUCTION",
+                "asset": {
+                  "_type": "reference",
+                  "_ref": "image-1b0a09d9817554eb551294290d6adb771fbaf107-2400x2400-jpg"
+                },
+                "_type": "imageField"
+              },
+              "caption": [
+                {
+                  "_type": "block",
+                  "style": "h5",
+                  "_key": "69f517a82cfa",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "_type": "span",
+                      "marks": [],
+                      "text": "THE CONSTRUCTION",
+                      "_key": "88d0471ef113"
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "_key": "6d6bcce59db3",
+                      "_type": "span",
+                      "marks": [],
+                      "text": "Featuring the Air-King's no-frills construction, the ref. 5500's aesthetic is defined by its flat polished bezel, lack of crown guards and Rolex's signature Oyster bracelet."
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "normal",
+                  "_key": "58ca27704f33",
+                  "markDefs": []
+                }
+              ],
+              "_key": "e571e39ff63f"
+            },
+            {
+              "_key": "98f314355c73",
+              "image": {
+                "asset": {
+                  "_ref": "image-cab3c781ff62b1a164a0cb6a535d819a8de3614b-750x750-jpg",
+                  "_type": "reference"
+                },
+                "_type": "imageField",
+                "alt": "TIMING MACHINE READOUT"
+              },
+              "caption": [
+                {
+                  "_key": "63a227d48262",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "marks": [
+                        "strong"
+                      ],
+                      "text": "TIMING MACHINE READOUT",
+                      "_key": "c230e5ad5b000",
+                      "_type": "span"
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "h5"
+                },
+                {
+                  "children": [
+                    {
+                      "marks": [],
+                      "text": "This reading was taken (crown down) with a ONEOF Accuracy Boutique Edition timing machine at time of cataloging. It is provided as a courtesy only, and shall not be construed as a warranty or guarantee of any kind. Please refer to our terms and conditions of sale for more information.",
+                      "_key": "d76b7d70dcbd0",
+                      "_type": "span"
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "normal",
+                  "_key": "741f83041412",
+                  "markDefs": []
+                }
+              ]
+            }
+          ],
+          "_key": "0d197430fd44"
+        },
+        {
+          "title": "Condition",
+          "bodyCopy": [
+            {
+              "_key": "ac6313cd57a7",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "marks": [],
+                  "text": "The watch is in overall excellent condition. The steel case has some some scatches and markson the lugs and bezel, including a couple of tiny nicks, and the case back has light surface marks. The dial shows a couple of light marks on the surface and some aging around the very edge. Some of the lume plots have discoloured, as has the lume in the hands, which also show light scratches. The plastic crystal has a number of scuffs and scratches. The solid link Oyster bracelet has light marks and light play between the links. The bracelet currently fits a 7 1/2” wrist, and has 13 links, 3 of which are removable.",
+                  "_key": "ac9d40447b48"
+                }
+              ],
+              "_type": "block",
+              "style": "normal"
+            }
+          ],
+          "_key": "6985ad09d93a",
+          "_type": "titleLeftBodyRight"
+        },
+        {
+          "authorProfiles": [
+            {
+              "_id": "f6d58947-7e19-43b1-a831-f297e8816a23",
+              "_type": "author",
+              "name": "Justin Gruenberg",
+              "jobTitle": "Co-founder",
+              "image": {
+                "_type": "imageField",
+                "asset": {
+                  "_ref": "image-590774cfe2c9b6581ab2fab9cdd7a5d633e1acbe-1000x971-jpg",
+                  "_type": "reference"
+                }
+              }
+            }
+          ],
+          "title": "Our Perspective",
+          "_key": "cc50944c5586",
+          "_type": "titleLeftBodyRight",
+          "bodyCopy": [
+            {
+              "markDefs": [],
+              "children": [
+                {
+                  "text": "A Rolex true to the brand's ethos as a tool watchmaker, the Air-King ref. 5500 strips away needless design details in lieu of being supremely legible, intensely robust and simply timeless. ",
+                  "_key": "32e2bee7eb88",
+                  "_type": "span",
+                  "marks": []
+                }
+              ],
+              "_type": "block",
+              "style": "normal",
+              "_key": "a6f2af080f4b"
+            }
+          ]
+        }
+      ],
+      "evidence": "Loupe This lot 4327: all 18 actual gallery photographs visually inspected; selected movement, back, clasp and identification views inspected at full resolution. Actual between-lug stamp 5500, movement stamp 1520 and internal back 1002 / I 67 establish this paired specimen. Internal 1002 is not a watch-reference alias. Signed clasp shows 78350 / U2, later equipment than the circa-1967 watch; fitted bracelet originality is not established. Source: https://loupethis.com/auctions/rolex-air-king-5500-silver-dial",
+      "acceptedPhotographIds": [
+        "loupe-archive-4327-front-0",
+        "loupe-archive-4327-movement-16",
+        "loupe-archive-4327-caseback-16",
+        "loupe-archive-4327-braceletClasp-12",
+        "loupe-archive-4327-detail-15"
+      ],
+      "inspectedImages": [
+        {
+          "reference": "5500",
+          "source": "https://loupethis.com/auctions/rolex-air-king-5500-silver-dial",
+          "index": 0,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/97375ab13ff6cda2d4f8d0e3e6636177d44aaae4-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "5082e06e30e6ffe6955a11df93129d79354d65af4c3e93fdd37bd5325311cd26"
+        },
+        {
+          "reference": "5500",
+          "source": "https://loupethis.com/auctions/rolex-air-king-5500-silver-dial",
+          "index": 1,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/428e5b008e0c5161af6512c384c48d610261e976-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "80bdb272a449ea83279f1311c24257097e185750b91b4dca7baae1143dd80557"
+        },
+        {
+          "reference": "5500",
+          "source": "https://loupethis.com/auctions/rolex-air-king-5500-silver-dial",
+          "index": 2,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/d6bd89adfad9cb77e1fdb3588137607c2e314a22-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "2cf6f0fca94afe4dc08c5a68d2ab2573be5595c12bf06e5a8ca20e2c8de95b0f"
+        },
+        {
+          "reference": "5500",
+          "source": "https://loupethis.com/auctions/rolex-air-king-5500-silver-dial",
+          "index": 3,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/34b139b026469706f7bc5c655bec32a191ec0610-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "e72efc28fb8a73330704d826b874e42f89bf34728fca0ac65916ad7b095ac81e"
+        },
+        {
+          "reference": "5500",
+          "source": "https://loupethis.com/auctions/rolex-air-king-5500-silver-dial",
+          "index": 4,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/f16768defae254024930dff6f9c57bade38506f4-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "20db1e0c71051c48366833eca0cfe0c50c16b172d06ffe9f6e31098bca5873be"
+        },
+        {
+          "reference": "5500",
+          "source": "https://loupethis.com/auctions/rolex-air-king-5500-silver-dial",
+          "index": 5,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/0c7a0431570437d253c8fcdbb806a2e0ca491a50-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "f0e347f11d82f36977e8f4cda6ff5ef9b6c89e01150a19929ef9a941599f7014"
+        },
+        {
+          "reference": "5500",
+          "source": "https://loupethis.com/auctions/rolex-air-king-5500-silver-dial",
+          "index": 6,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/5f8a50677d52321de3764cfad7bd9b8ac5f783e0-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "310fd689d45d90deabcfd0e22fb2ce1a4a8123ef758873e4dd267ed8d99ad110"
+        },
+        {
+          "reference": "5500",
+          "source": "https://loupethis.com/auctions/rolex-air-king-5500-silver-dial",
+          "index": 7,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/c9f2404dece2229b1476dad1b7fa1cdca3dd82b0-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "5fc9ed0c2c49efc5d43c4ea2c283a61853287d6148b739c6fa7bf29899cacb16"
+        },
+        {
+          "reference": "5500",
+          "source": "https://loupethis.com/auctions/rolex-air-king-5500-silver-dial",
+          "index": 8,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/c25989d2cfe95df01b10efc81f6f78034463f3d6-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "b81c3a6030d110b40eaa684b50b4b58b71d347d273dd9da4577b712acc449088"
+        },
+        {
+          "reference": "5500",
+          "source": "https://loupethis.com/auctions/rolex-air-king-5500-silver-dial",
+          "index": 9,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/c5569ae209e44262d5134f88585e13f3519b64e0-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "0ade8a8492092604d0ccd596d9dc6623217a9df97eee749211600fe94e9a8c7f"
+        },
+        {
+          "reference": "5500",
+          "source": "https://loupethis.com/auctions/rolex-air-king-5500-silver-dial",
+          "index": 10,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/1b454e0cc97404dad461fd298f32b13eeef63ddf-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "872c5836cbc1c1147024609ffe2ddf14915a03769e229d2119067af99d0f5a93"
+        },
+        {
+          "reference": "5500",
+          "source": "https://loupethis.com/auctions/rolex-air-king-5500-silver-dial",
+          "index": 11,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/dca911660ae318f69bbe4cbc398ef5c243d053b6-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "c63bba262e58a4469ccb2efdc40e75409ea58bdf358a22535323cbb28362c0b5"
+        },
+        {
+          "reference": "5500",
+          "source": "https://loupethis.com/auctions/rolex-air-king-5500-silver-dial",
+          "index": 12,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/2df8864b2cde44c49fe5bee2f08c6e2523f7a2a9-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "9f01925845162479bb598ab82fec2803cf6841f6b4d721e293cf2f2927a9d84c"
+        },
+        {
+          "reference": "5500",
+          "source": "https://loupethis.com/auctions/rolex-air-king-5500-silver-dial",
+          "index": 13,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/23741b38911cfcb7f9cdcc9bbc7a2aafce26a49d-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "3e587342ae1bd5d103d8f555d8365b3e403f4204080fa87dfa684bf32ac46067"
+        },
+        {
+          "reference": "5500",
+          "source": "https://loupethis.com/auctions/rolex-air-king-5500-silver-dial",
+          "index": 14,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/e53195d11c3da848b8d74b6013fa7e09998179ad-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "64450ad1e6f7f4e0856e405e3ab312bdb962859285a0480a3d0ac5aaf6ca1442"
+        },
+        {
+          "reference": "5500",
+          "source": "https://loupethis.com/auctions/rolex-air-king-5500-silver-dial",
+          "index": 15,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/70085bbbfc1f785f58032b04eabb6940e51c6ea2-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "a859486ae85e15a55bf9b4c17b3f6ce8ad42f548c63c11489d1b927bf7853c0d"
+        },
+        {
+          "reference": "5500",
+          "source": "https://loupethis.com/auctions/rolex-air-king-5500-silver-dial",
+          "index": 16,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/113b0bbe749d0511b9f1d348f1c1cce1b908088d-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "ec09b015237e3a824bf30f809fe9fa002ba3cda3cc5f855af3c391f0cb79b539"
+        },
+        {
+          "reference": "5500",
+          "source": "https://loupethis.com/auctions/rolex-air-king-5500-silver-dial",
+          "index": 17,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/1b0a09d9817554eb551294290d6adb771fbaf107-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "f0238eb15927e614ec60c7944d3ab28d8be5c1cdfb503ba1a6a8a3967e6d09b2"
+        }
+      ]
+    },
+    {
+      "acceptedReferenceKeys": [
+        "224270",
+        "224270-0001",
+        "M224270-0001"
+      ],
+      "source": "https://loupethis.com/auctions/rolex-explorer-i-224270-40mm",
+      "credit": "Loupe This",
+      "lot": "4033",
+      "specimenDescription": [
+        {
+          "_key": "d1d12f491673",
+          "_type": "titleLeftBodyRight",
+          "title": "Introduction",
+          "bodyCopy": [
+            {
+              "markDefs": [],
+              "children": [
+                {
+                  "text": "Inspired by the first-ever successful summit of Mount Everest by Sir Edmund Hillary and his Sherpa Tenzing Norgay, who wore a Rolex Oyster Perpetual, the Rolex Explorer has long been Rolex's ultimate adventure watch. Constructed entirely from Rolex's 904L steel, the Explorer's robust design ensures that it can always battle the elements. Featuring some of Rolex's most capable movements and a rich heritage to boot, the Explorer is another display of their timeless design as this icon of watchmaking has remained virtually untouched in its aesthetic since its inception. Identifiable by its signature 3-6-9 glossy black dial, a flat stainless steel bezel, and entirely satin-brushed stainless steel case and bracelet, the Rolex Explorer has become renowned for its understated class, sporty elegance, and capable construction. New for 2023, Rolex expanded the Explorer collection with a new 40mm variant, the ref. 224720 in stainless steel. Offered here we have the ref. 224270 powered by the automatic cal. 3230 with 70 hours of power reserve that ensures the new Explorer has all of the horological might and provenance that one might expect in a modern release from the Genevan Giants.",
+                  "_key": "762a80fc07920",
+                  "_type": "span",
+                  "marks": []
+                }
+              ],
+              "_type": "block",
+              "style": "normal",
+              "_key": "279284124a4a"
+            }
+          ]
+        },
+        {
+          "range": {
+            "_type": "range",
+            "start": 5000,
+            "end": 8000
+          },
+          "_key": "4f543b8d8d0e",
+          "_type": "auctionScorecard",
+          "grade": "M 8.5",
+          "status": "Vetted & Approved",
+          "included": "Box, Papers, Hang Tags"
+        },
+        {
+          "_type": "twoColumnTable",
+          "model": "Explorer",
+          "brand": "Rolex",
+          "dimensions": "40mm",
+          "year": "2023",
+          "reference": "224270",
+          "movement": "Automatic cal. 3230",
+          "bracelet": "Stainless steel Oyster bracelet",
+          "included": "Watch, Box, Papers, Hang Tags",
+          "_key": "f0bacdc03e5c",
+          "condition": "Excellent",
+          "dialColor": "Black",
+          "material": "Stainless steel"
+        },
+        {
+          "_type": "threeUpImageModule",
+          "imageComponents": [
+            {
+              "_key": "9f3c6dac0db2",
+              "image": {
+                "asset": {
+                  "_type": "reference",
+                  "_ref": "image-d59ffb217ee378d753336a519742ec8d9e27fc25-2400x2400-jpg"
+                },
+                "_type": "imageField",
+                "alt": "THE DIAL"
+              },
+              "caption": [
+                {
+                  "style": "h5",
+                  "_key": "44fcad56303d",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "marks": [],
+                      "text": "THE DIAL",
+                      "_key": "bbb627746a670",
+                      "_type": "span"
+                    }
+                  ],
+                  "_type": "block"
+                },
+                {
+                  "_key": "7dab9493d153",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "text": "Boasting a glossy black dial, as always for the Explorer, the ref. 224270 features all of the Explorer's iconic dial elements, such as its applied indices and applied 3-6-9 Arabic numerals. ",
+                      "_key": "c3bb64c297d5",
+                      "_type": "span",
+                      "marks": []
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "normal"
+                }
+              ]
+            },
+            {
+              "_key": "1da21344c9ba",
+              "image": {
+                "alt": "THE CONSTRUCTION",
+                "asset": {
+                  "_ref": "image-f560bcdfd2d0f9be42632563f5634ae7b925e38b-2400x2400-jpg",
+                  "_type": "reference"
+                },
+                "_type": "imageField"
+              },
+              "caption": [
+                {
+                  "style": "h5",
+                  "_key": "b43b84a23f60",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "_key": "19a5b5f24e7d",
+                      "_type": "span",
+                      "marks": [],
+                      "text": "THE CONSTRUCTION"
+                    }
+                  ],
+                  "_type": "block"
+                },
+                {
+                  "children": [
+                    {
+                      "_type": "span",
+                      "marks": [],
+                      "text": "A familiar design on the wrist of Explorer aficionados, but with a new profile, the new ref. 224270 takes the Explorer's iconic and historic design, and jumps it from the 36mm and 39mm versions that we have seen in the past to a larger-than-ever 40mm. ",
+                      "_key": "8886a407f25f"
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "normal",
+                  "_key": "5523337a8123",
+                  "markDefs": []
+                }
+              ]
+            },
+            {
+              "_key": "98f314355c73",
+              "image": {
+                "alt": "TIMING MACHINE READOUT",
+                "asset": {
+                  "_ref": "image-0dfafd25530fcac8065a4802cdc460acedf52c37-1125x1125-jpg",
+                  "_type": "reference"
+                },
+                "_type": "imageField"
+              },
+              "caption": [
+                {
+                  "children": [
+                    {
+                      "_key": "c230e5ad5b000",
+                      "_type": "span",
+                      "marks": [
+                        "strong"
+                      ],
+                      "text": "TIMING MACHINE READOUT"
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "h5",
+                  "_key": "63a227d48262",
+                  "markDefs": []
+                },
+                {
+                  "children": [
+                    {
+                      "_type": "span",
+                      "marks": [],
+                      "text": "This reading was taken (crown down) with a ONEOF Accuracy Boutique Edition timing machine at time of cataloging. It is provided as a courtesy only, and shall not be construed as a warranty or guarantee of any kind. Please refer to our terms and conditions of sale for more information.",
+                      "_key": "d76b7d70dcbd0"
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "normal",
+                  "_key": "741f83041412",
+                  "markDefs": []
+                }
+              ]
+            }
+          ],
+          "_key": "0d197430fd44"
+        },
+        {
+          "_key": "6985ad09d93a",
+          "_type": "titleLeftBodyRight",
+          "title": "Condition",
+          "bodyCopy": [
+            {
+              "children": [
+                {
+                  "text": "The watch is in overall excellent condition. The stainless steel case has some light surface scuffs and marks, with some more noticeable scratches visible on the polished bezel. The dial and hands are like new. The solid link Oyster bracelet shows light marks and has no play between the links. The bracelet has 11 links, 4 of which are removable, with 1 additional link included, and fits an approximately 7” wrist. The watch comes complete with its original box, warranty card, booklets, card holder, hangtags, and bezel protector.",
+                  "_key": "ac9d40447b48",
+                  "_type": "span",
+                  "marks": []
+                }
+              ],
+              "_type": "block",
+              "style": "normal",
+              "_key": "ac6313cd57a7",
+              "markDefs": []
+            },
+            {
+              "style": "normal",
+              "_key": "aedfec454b46",
+              "markDefs": [],
+              "children": [
+                {
+                  "text": "",
+                  "_key": "f3d83cf24014",
+                  "_type": "span",
+                  "marks": []
+                }
+              ],
+              "_type": "block"
+            }
+          ]
+        },
+        {
+          "_key": "cc50944c5586",
+          "_type": "titleLeftBodyRight",
+          "title": "Our Perspective",
+          "bodyCopy": [
+            {
+              "_type": "block",
+              "style": "normal",
+              "_key": "1cc1f159e6ce",
+              "markDefs": [],
+              "children": [
+                {
+                  "text": "Expanding the Explorer's current offering from the 36mm version with a new larger 40mm size that takes the icon's signature design and gives it the gravitas that a sports Rolex deserves, the ref. 224270 is an ultra-modern take on a classic. ",
+                  "_key": "3c9b94598ca3",
+                  "_type": "span",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "authorProfiles": [
+            {
+              "_id": "f6d58947-7e19-43b1-a831-f297e8816a23",
+              "_type": "author",
+              "name": "Justin Gruenberg",
+              "jobTitle": "Co-founder",
+              "image": {
+                "_type": "imageField",
+                "asset": {
+                  "_ref": "image-590774cfe2c9b6581ab2fab9cdd7a5d633e1acbe-1000x971-jpg",
+                  "_type": "reference"
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "evidence": "Loupe This lot 4033: all 22 actual gallery photographs visually inspected; selected movement, back, clasp and identification views inspected at full resolution. Actual guarantee card reads 224270 and paired tag reads M224270-0001. Neither 214270 nor 124270 inherits these photographs. No opened movement photograph establishes the claimed 3230 execution. Source: https://loupethis.com/auctions/rolex-explorer-i-224270-40mm",
+      "acceptedPhotographIds": [
+        "loupe-archive-4033-front-0",
+        "loupe-archive-4033-caseback-5",
+        "loupe-archive-4033-braceletClasp-12"
+      ],
+      "inspectedImages": [
+        {
+          "reference": "224270",
+          "source": "https://loupethis.com/auctions/rolex-explorer-i-224270-40mm",
+          "index": 0,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/64dbe158c0c3939e43fdd916d45fb936a693b70e-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "bec28e57ae1eab3a10ca8455a90de5524bc2f30c6c3bfa292e677da466b7fe31"
+        },
+        {
+          "reference": "224270",
+          "source": "https://loupethis.com/auctions/rolex-explorer-i-224270-40mm",
+          "index": 1,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/a9c18ee1b6806c9065b25ca1aa6e1e78b7e02931-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "f9267c7fa777161a6d0ab1cb5c6b44f455d65521b6f910eb1cfdc969b216eb48"
+        },
+        {
+          "reference": "224270",
+          "source": "https://loupethis.com/auctions/rolex-explorer-i-224270-40mm",
+          "index": 2,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/009543adc9d7578212748750d4267f4017de98c7-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "becd6ac8a6be2bc055bd411cfa985c4da0f693bca40ca8078242a795c84bb0c0"
+        },
+        {
+          "reference": "224270",
+          "source": "https://loupethis.com/auctions/rolex-explorer-i-224270-40mm",
+          "index": 3,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/8482b5d93400717fcbfad89fc02e0003f7c6ba73-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "a4e206f513c6dbee549c76402b6903c5a0aca3983bc17647f1800541fc79d796"
+        },
+        {
+          "reference": "224270",
+          "source": "https://loupethis.com/auctions/rolex-explorer-i-224270-40mm",
+          "index": 4,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/c3cb2236ed6e259d1cdce07123ec4c43988e75a4-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "31e78f64d60663ad29fb0e39041f5905ad54a6fc76805b5a6a0035926f9de2d4"
+        },
+        {
+          "reference": "224270",
+          "source": "https://loupethis.com/auctions/rolex-explorer-i-224270-40mm",
+          "index": 5,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/48024e67f831571af3cea4afea019514895bb14c-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "a3f6347abfc02c9758fbb99361b6513052d28f31038a9e8d6237a804c14ebd61"
+        },
+        {
+          "reference": "224270",
+          "source": "https://loupethis.com/auctions/rolex-explorer-i-224270-40mm",
+          "index": 6,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/86771cc6742ed22f315cbe8f68d6f6dbad5b92c7-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "d0451da04335df8b1e3a7419bfe87a19c73bc49f45a418119bc5326c502ff12c"
+        },
+        {
+          "reference": "224270",
+          "source": "https://loupethis.com/auctions/rolex-explorer-i-224270-40mm",
+          "index": 7,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/3aee524a4a0318ac93a8a73be098cd68222dcd7f-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "8453e0636c2af50bb723206154e9cc8e2d9d270b3dd3073b39bd7b1d8a3245b0"
+        },
+        {
+          "reference": "224270",
+          "source": "https://loupethis.com/auctions/rolex-explorer-i-224270-40mm",
+          "index": 8,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/c297ad137e03a4be4c29b3a485cc25d9b5d234b1-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "722c1efffddf1721d9d148b781bafdc6c5228e58d0ae9f94f793744cef794039"
+        },
+        {
+          "reference": "224270",
+          "source": "https://loupethis.com/auctions/rolex-explorer-i-224270-40mm",
+          "index": 9,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/20c8b1d3f054052497cb0b0c94fcc7b3ab9a0a42-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "a3b0772258fbc1649add2fd10a9637c76562bdeb28b24f2d30a8d6f328433e3c"
+        },
+        {
+          "reference": "224270",
+          "source": "https://loupethis.com/auctions/rolex-explorer-i-224270-40mm",
+          "index": 10,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/70bfd7cd729d5d1c82876dced0bf5de45347f30b-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "4a76393b41f603bfb739547800f0a1593fccca9aa360648c5bff82cfcc945364"
+        },
+        {
+          "reference": "224270",
+          "source": "https://loupethis.com/auctions/rolex-explorer-i-224270-40mm",
+          "index": 11,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/d59ffb217ee378d753336a519742ec8d9e27fc25-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "4b2782689f1818517ad1696c52b0d3f8de6244aca748e6061c121488040c28e0"
+        },
+        {
+          "reference": "224270",
+          "source": "https://loupethis.com/auctions/rolex-explorer-i-224270-40mm",
+          "index": 12,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/6af3ca1b6a4647f06ef1a0030a4cb681b6d4ff2a-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "c5a746523bee0afcee3911d709b889a43bdc40da229cdc8f8b5beac625573869"
+        },
+        {
+          "reference": "224270",
+          "source": "https://loupethis.com/auctions/rolex-explorer-i-224270-40mm",
+          "index": 13,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/5cbab69d2d3c4b42f47116d7ae91701362762501-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "6287987cb5664312212ad584e5a3a628e7e252a3e67c652c76ab2ea8935cb8de"
+        },
+        {
+          "reference": "224270",
+          "source": "https://loupethis.com/auctions/rolex-explorer-i-224270-40mm",
+          "index": 14,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/c3c32743071424890ee196a0986f0caf3846f94f-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "1719b83aec1993c90c5732a705a5d2ad46519aad45efc60168d18f5f708b268d"
+        },
+        {
+          "reference": "224270",
+          "source": "https://loupethis.com/auctions/rolex-explorer-i-224270-40mm",
+          "index": 15,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/b081a9f2319dc7b3c603736afb014a4d3d12a8de-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "fb5836fa1c8d5e5f9d7ce1b55df6bdc18a1447199c2a768b574ed1c215c64d1a"
+        },
+        {
+          "reference": "224270",
+          "source": "https://loupethis.com/auctions/rolex-explorer-i-224270-40mm",
+          "index": 16,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/1d4c78f641731a498326e389cdd929c415bf103c-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "f1bebb47f1a260baff0d4aa61a7e2fe482c220d309a381faf0256b59b7f9046e"
+        },
+        {
+          "reference": "224270",
+          "source": "https://loupethis.com/auctions/rolex-explorer-i-224270-40mm",
+          "index": 17,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/7b52d64552e8579082903b6b8263fa2e2f6c13ed-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "b33d35296f5c8e2b916b897c9752ede61f1abb248ab5da2ee962cfc933c73db6"
+        },
+        {
+          "reference": "224270",
+          "source": "https://loupethis.com/auctions/rolex-explorer-i-224270-40mm",
+          "index": 18,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/9a1dc82ea806f6e4cfc6e64c11b9bd6b109d2ab7-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "4e653c74a3be4bf41c8c961cb2e817e3b5010d4b6cfcccd3c2a25123f7f93aaa"
+        },
+        {
+          "reference": "224270",
+          "source": "https://loupethis.com/auctions/rolex-explorer-i-224270-40mm",
+          "index": 19,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/19f074cf26061be3750d163ecb7474d8eabd21b5-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "72b6e90e3cc1b02999df57002fcbee515d0161370768b630addce7a9c7e49f5c"
+        },
+        {
+          "reference": "224270",
+          "source": "https://loupethis.com/auctions/rolex-explorer-i-224270-40mm",
+          "index": 20,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/5bd4e551fbaafde9d922ea1fd801b199c67b3077-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "30e0ce2f6e2b4b3ebb195f27eb30579bfc005358f23839abf2a71ac3a32e52df"
+        },
+        {
+          "reference": "224270",
+          "source": "https://loupethis.com/auctions/rolex-explorer-i-224270-40mm",
+          "index": 21,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/f560bcdfd2d0f9be42632563f5634ae7b925e38b-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "f256cc35e9ba6f458fe071110a4e3a875ecab47cf6be2be7587ee83d3893ffb9"
+        }
+      ]
+    },
+    {
+      "acceptedReferenceKeys": [
+        "226570",
+        "226570-0001",
+        "M226570-0001"
+      ],
+      "source": "https://loupethis.com/auctions/rolex-explorer-ii-226570-white-dial",
+      "credit": "Loupe This",
+      "lot": "3961",
+      "specimenDescription": [
+        {
+          "title": "Introduction",
+          "_key": "d1d12f491673",
+          "_type": "titleLeftBodyRight",
+          "bodyCopy": [
+            {
+              "_key": "528889a6a031",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Debuting in 1971, the Rolex Explorer II was released to satiate the demand for a relatively niche timepiece for a particular type of explorer, Spelunkers, or cave explorers as we may call them. Made only of steel, the Explorer II's construction ensures that none of its parts might crack or break off against a rock in cramped conditions, such as a bezel insert. With this use in mind, the Explorer II originally featured its iconic arrow-shaped 24-hour hand to differentiate between AP and PM for spelunkers that might lose track of the day and night cycle while they were in caves for days at a time. The modern Explorer II models have had this function exchanged for a fully operational GMT-hand. Featuring its signature fixed stainless-steel bezel, arrow-shaped 2nd hour hand, and robust design, the Explorer II makes for an incredible jack-of-all-trades timepiece as it comprises of just about everything your modern exploring needs might demand. Whether you're 500m under a mountain, 30m underwater, or 10,000m in the air on a trans-Atlantic flight, the Explorer II has you covered. Released in 2021 as a 50th anniversary launch and ushering in a new era for the Rolex Explorer II collection, the ref. 226570 slimmed down the Explorer II's 42mm dimensions through its slimmer lugs while retaining the iconic fan-favourite orange arrow-shaped GMT-hour hand. Boasting the collection's signature steel bezel with its distinctive radial brushed finish, the Explorer II is the perfect blend of Rolex's legendary tool watch-specific heritage and their modern focus on the luxurious aspects of watchmaking.",
+                  "_key": "9acbe3ff133e0"
+                }
+              ],
+              "_type": "block",
+              "style": "normal"
+            }
+          ]
+        },
+        {
+          "grade": "M 9",
+          "status": "Vetted & Approved",
+          "_key": "4f543b8d8d0e",
+          "_type": "auctionScorecard",
+          "included": "Box and Papers",
+          "range": {
+            "_type": "range",
+            "start": 8000,
+            "end": 10000
+          }
+        },
+        {
+          "_key": "f0bacdc03e5c",
+          "material": "Stainless steel",
+          "bracelet": "Stainless steel Oyster bracelet",
+          "movement": "Automatic cal. 3285",
+          "_type": "twoColumnTable",
+          "reference": "226570",
+          "year": "2023",
+          "condition": "Near-Mint",
+          "included": "Watch, box, papers, and hang tags",
+          "dimensions": "42mm",
+          "model": "Explorer II",
+          "dialColor": "White",
+          "brand": "Rolex"
+        },
+        {
+          "_type": "threeUpImageModule",
+          "imageComponents": [
+            {
+              "_key": "1ec53453e762",
+              "image": {
+                "_type": "imageField",
+                "alt": "THE DIAL",
+                "asset": {
+                  "_ref": "image-753d94e56e16e5628ca32715f986b77ce5b3cc4d-2400x2400-jpg",
+                  "_type": "reference"
+                }
+              },
+              "caption": [
+                {
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "_type": "span",
+                      "marks": [],
+                      "text": "THE DIAL",
+                      "_key": "9116cc151019"
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "h5",
+                  "_key": "829a1dd14c32"
+                },
+                {
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "_key": "d9ea957e571b",
+                      "_type": "span",
+                      "marks": [],
+                      "text": "Introduced to the Explorer II collection through the ref. 16550, this ref. 226570 boasts the collection's famed \"Polar\" display with a white dial that plays background to the model's large orange arrow GMT hand. "
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "normal",
+                  "_key": "525aa45d50d6"
+                }
+              ]
+            },
+            {
+              "_key": "4cc88e06ebc7",
+              "image": {
+                "asset": {
+                  "_ref": "image-44af4d556730efaecd2f9fcf8d71c8743afe8478-2400x2400-jpg",
+                  "_type": "reference"
+                },
+                "_type": "imageField",
+                "alt": "THE CONSTRUCTION"
+              },
+              "caption": [
+                {
+                  "_type": "block",
+                  "style": "h5",
+                  "_key": "61815e0c984d",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "_type": "span",
+                      "marks": [],
+                      "text": "THE CONSTRUCTION",
+                      "_key": "affa106c22ad"
+                    }
+                  ]
+                },
+                {
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "_type": "span",
+                      "marks": [],
+                      "text": "Unmistakable as an Explorer II, this example's bright white dial, 24-hour graduated fixed bezel, and robust all-brushed construction leaves no uncertainty as to the rugged tool watch nature of this iconic timepiece.\n",
+                      "_key": "4de5973a6453"
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "normal",
+                  "_key": "91a450e09f9f"
+                }
+              ]
+            },
+            {
+              "caption": [
+                {
+                  "children": [
+                    {
+                      "text": "TIMING MACHINE READOUT",
+                      "_key": "c230e5ad5b000",
+                      "_type": "span",
+                      "marks": [
+                        "strong"
+                      ]
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "h5",
+                  "_key": "63a227d48262",
+                  "markDefs": []
+                },
+                {
+                  "_key": "741f83041412",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "_key": "d76b7d70dcbd0",
+                      "_type": "span",
+                      "marks": [],
+                      "text": "This reading was taken (crown down) with a ONEOF Accuracy Boutique Edition timing machine at time of cataloging. It is provided as a courtesy only, and shall not be construed as a warranty or guarantee of any kind. Please refer to our terms and conditions of sale for more information."
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "normal"
+                }
+              ],
+              "_key": "98f314355c73",
+              "image": {
+                "asset": {
+                  "_ref": "image-f6ad3039ac076ece22f905648da639c72481eaa3-1125x1125-jpg",
+                  "_type": "reference"
+                },
+                "_type": "imageField",
+                "alt": "TIMING MACHINE READOUT"
+              }
+            }
+          ],
+          "_key": "0d197430fd44"
+        },
+        {
+          "_type": "titleLeftBodyRight",
+          "title": "Condition",
+          "bodyCopy": [
+            {
+              "_key": "ac6313cd57a7",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "marks": [],
+                  "text": "The watch is in overall near-mint condition. The steel case and bracelet retain several factory stickers, light signs of wear visible on polished case sids, and on the case back and clasp. The Oyster bracelet has 11 links, 4 of which are removable, and one additional link is included. The watch comes complete with its full set of box and papers.",
+                  "_key": "ac9d40447b48"
+                }
+              ],
+              "_type": "block",
+              "style": "normal"
+            },
+            {
+              "style": "normal",
+              "_key": "7621b39f1c03",
+              "markDefs": [],
+              "children": [
+                {
+                  "marks": [],
+                  "text": "",
+                  "_key": "efc53a7a1390",
+                  "_type": "span"
+                }
+              ],
+              "_type": "block"
+            }
+          ],
+          "_key": "6985ad09d93a"
+        },
+        {
+          "_key": "cc50944c5586",
+          "_type": "titleLeftBodyRight",
+          "bodyCopy": [
+            {
+              "_type": "block",
+              "style": "normal",
+              "_key": "38f8c39ce064",
+              "markDefs": [],
+              "children": [
+                {
+                  "marks": [],
+                  "text": "Perhaps one of the unsung heroes within the world of Rolex, the Explorer II is a timepiece that has earned its right to enjoy the same level of status and admiration as any other Rolex model thanks to its unique cave exploring use-case and distinctive aesthetic.",
+                  "_key": "4a71161e800a",
+                  "_type": "span"
+                }
+              ]
+            }
+          ],
+          "authorProfiles": [
+            {
+              "_id": "08967c9c-8436-4841-b6cd-920ca9db96d8",
+              "_type": "author",
+              "name": "Eric Ku",
+              "jobTitle": "Co-founder",
+              "image": {
+                "asset": {
+                  "_type": "reference",
+                  "_ref": "image-e583b84f0b924ae364b7b663405f05f9aa7e8c16-2175x2258-jpg"
+                },
+                "_type": "imageField"
+              }
+            }
+          ],
+          "title": "Our Perspective"
+        }
+      ],
+      "evidence": "Loupe This lot 3961: all 20 actual gallery photographs visually inspected; selected movement, back, clasp and identification views inspected at full resolution. Actual guarantee card reads 226570 and paired tag reads M226570-0001. Black-dial 0002 and the earlier 216570 do not inherit this white-dial specimen. No opened movement photograph establishes the claimed 3285 execution. Source: https://loupethis.com/auctions/rolex-explorer-ii-226570-white-dial",
+      "acceptedPhotographIds": [
+        "loupe-archive-3961-front-0",
+        "loupe-archive-3961-caseback-5",
+        "loupe-archive-3961-braceletClasp-12"
+      ],
+      "inspectedImages": [
+        {
+          "reference": "226570",
+          "source": "https://loupethis.com/auctions/rolex-explorer-ii-226570-white-dial",
+          "index": 0,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/21cc73c67d29d17f7a9f9f79df8a0917ef1f7c1d-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "6bc2219b49158a7477c673829ffb7e8a22d1710fc8bb600ccc74016ee1af09a8"
+        },
+        {
+          "reference": "226570",
+          "source": "https://loupethis.com/auctions/rolex-explorer-ii-226570-white-dial",
+          "index": 1,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/d823ed66c155fc47417f472793aa17da77346d5c-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "d0e3d8fb4731bc5e8a5702dd663c97d2c8dd065ee6ff1f1f3ea7217d3cd9c153"
+        },
+        {
+          "reference": "226570",
+          "source": "https://loupethis.com/auctions/rolex-explorer-ii-226570-white-dial",
+          "index": 2,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/4fb690668d5f5f6111d6adb16d1fe9519cc92a73-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "af9bb8e7c08553037cbd079d52067764c3be7be8c3e3c097af043b39a362cdca"
+        },
+        {
+          "reference": "226570",
+          "source": "https://loupethis.com/auctions/rolex-explorer-ii-226570-white-dial",
+          "index": 3,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/f875a9093b5ad3fae69ad452f33e86df1ed8f180-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "a2f2c0204177475d9076b86afcd028d6e0bc6f6045eb0b0abe89fc7c6a577e23"
+        },
+        {
+          "reference": "226570",
+          "source": "https://loupethis.com/auctions/rolex-explorer-ii-226570-white-dial",
+          "index": 4,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/f13716385f30922be1b8963e8e5f2fbca5e6a66e-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "3e3d06c2228dadae74df84b71965c8cd797d409fb3cb5090524caca43c7fe09d"
+        },
+        {
+          "reference": "226570",
+          "source": "https://loupethis.com/auctions/rolex-explorer-ii-226570-white-dial",
+          "index": 5,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/e48f31039a9c065325f17388d8b5a25b6f660ecb-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "e4b635022d7728f5bf652540532322949577cef60150773c499fc1af64f96fe5"
+        },
+        {
+          "reference": "226570",
+          "source": "https://loupethis.com/auctions/rolex-explorer-ii-226570-white-dial",
+          "index": 6,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/1c8a4ee1baa9e02a7a2988b86c60d516bfaf2c52-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "189451bc4616cb7c8def56b4bd3c7ff6cd3ae369a100aa04ad902883ea037b48"
+        },
+        {
+          "reference": "226570",
+          "source": "https://loupethis.com/auctions/rolex-explorer-ii-226570-white-dial",
+          "index": 7,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/3abb41d668a6f997b0cb4f4a2b463991267eb59e-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "bc3702dc3500e1cda7aa67c7e656c68a59d5be998083aae55bb97c046945af97"
+        },
+        {
+          "reference": "226570",
+          "source": "https://loupethis.com/auctions/rolex-explorer-ii-226570-white-dial",
+          "index": 8,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/1f6b197e856ca4e890282652a1ea86366332e029-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "189a438da9838038471e1cfd44903914e23136d726cfa2a39999e88da6d3cb3f"
+        },
+        {
+          "reference": "226570",
+          "source": "https://loupethis.com/auctions/rolex-explorer-ii-226570-white-dial",
+          "index": 9,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/d87400d72575348286331ae8d68dd1ca44f3d542-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "875d82f4330b35366e77ee6e0bf4b024d19384b055d8df4eec15ecf17dd4e3e5"
+        },
+        {
+          "reference": "226570",
+          "source": "https://loupethis.com/auctions/rolex-explorer-ii-226570-white-dial",
+          "index": 10,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/bdfdd708f760053bc45a5bd094854d59546c3210-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "ecc5d2e87c697f609c1698ed4d839224f65cd0390a7972c1933e91bd3246e431"
+        },
+        {
+          "reference": "226570",
+          "source": "https://loupethis.com/auctions/rolex-explorer-ii-226570-white-dial",
+          "index": 11,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/753d94e56e16e5628ca32715f986b77ce5b3cc4d-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "b3343e7786de9bca305d2b61d2a27090e93fd54e37e29aa1b59a3607fe6d2569"
+        },
+        {
+          "reference": "226570",
+          "source": "https://loupethis.com/auctions/rolex-explorer-ii-226570-white-dial",
+          "index": 12,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/6286621dec309665c6ae3e38f3c62af6e75f72a5-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "d9ad160bc8d64456cc5ebc06f08a3affa5e441d6517b04b8c7d992f742584793"
+        },
+        {
+          "reference": "226570",
+          "source": "https://loupethis.com/auctions/rolex-explorer-ii-226570-white-dial",
+          "index": 13,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/5a7a884747b1c25e8056838c38c58a473de65ba8-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "9c1bee5f89153206595a411e35fbd9e8b92064afb0e9ed872fe9673b00d109e3"
+        },
+        {
+          "reference": "226570",
+          "source": "https://loupethis.com/auctions/rolex-explorer-ii-226570-white-dial",
+          "index": 14,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/6ec9da63e168796f2570351556d328edcba16b13-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "cae1a35fc88b227f4f36e6ce6d797628528909b4c43a273a0a748e46f5183a90"
+        },
+        {
+          "reference": "226570",
+          "source": "https://loupethis.com/auctions/rolex-explorer-ii-226570-white-dial",
+          "index": 15,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/63442d473e56f75092c33cde66b4e5b15a5bfb92-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "2ca471999e474d740d0749dc64bc920aff324cf14be71bd4546c771a3505fd0b"
+        },
+        {
+          "reference": "226570",
+          "source": "https://loupethis.com/auctions/rolex-explorer-ii-226570-white-dial",
+          "index": 16,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/bdcf1e041c43beb7a6725f215a05988017f0c091-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "66ed10144df018b8a7b30ea0a19b7f9f7e53ac1e679ed259adabf9cfe55d763f"
+        },
+        {
+          "reference": "226570",
+          "source": "https://loupethis.com/auctions/rolex-explorer-ii-226570-white-dial",
+          "index": 17,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/f0a50ba1402813b4b3aeed33f40280a1b84ff905-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "f65dbab9fd1ecf5a459aeb1036e306087b3876ba2651b0cdeb96120ccb2dee22"
+        },
+        {
+          "reference": "226570",
+          "source": "https://loupethis.com/auctions/rolex-explorer-ii-226570-white-dial",
+          "index": 18,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/b2802654910549d1b4cc834f2d9175f2d0dabd98-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "192671ca9683677851ff6cb64971f78a71865b1b1090aa3fa31739988280f46f"
+        },
+        {
+          "reference": "226570",
+          "source": "https://loupethis.com/auctions/rolex-explorer-ii-226570-white-dial",
+          "index": 19,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/44af4d556730efaecd2f9fcf8d71c8743afe8478-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "f61ced3e280b6303fc2fed1041e5a8238ce34961526b5d282a3ea95ce024c85a"
+        }
+      ]
+    }
+  ],
+  "sourceAccessLimitations": [
+    {
+      "source": "Catawiki previously discovered lot URLs",
+      "finding": "URLs redirected to generic Watches category pages; no identifiable lot photograph or reference coverage was claimed."
+    }
+  ]
+}
