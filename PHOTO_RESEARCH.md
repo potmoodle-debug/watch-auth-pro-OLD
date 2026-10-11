@@ -11,7 +11,7 @@ repository must not be modified.
 Network access was verified first. GitHub and the BenchAuth live site return HTTP
 200. Of 1,564 distinct stored source URLs, 1,531 return HTTP 200 and 33 manufacturer
 Breitling URLs return HTTP 403. HTTP access and download counts **do not** establish
-visual review. The published checkpoint is PR #15 at 33494b1c756b3ce67f0d3f8b0425bc8bed02a198. New research additions below remain unpublished until validation passes.
+visual review. The published checkpoint is PR #16 at bb26ced602af392fa2b1a55c2feffe527ab7c998. Pages deployment 37977132750 succeeded. The ninth-checkpoint additions below are published; earlier next-checkpoint descriptions record the status when those batches were prepared.
 
 Rollback: GitHub branch `rollback/benchauth-before-photographs-20261008`, commit
 `b4ffc080c4dba6f55bb246377a24a3c2bf284052`. A local Git bundle is saved at
@@ -254,8 +254,8 @@ implied. See `photograph-monochrome-tudor-history-sources.json` and
 ## Research after the published checkpoint
 
 The published PR #8 checkpoint is commit `e18a772808cdd56cf2e7bb4f32b285b79f8dc22c`
-with 507 verified photographs. Subsequent additions remain on the research branch
-until tested and deployed; current catalogue counts above include those additions.
+with 507 verified photographs. Subsequent additions through PR #16 have been
+tested and deployed; current catalogue counts above describe that published release.
 
 `photograph-tudor-older-sources.json` records 25 actual auction/dealer gallery
 photographs inspected. Six Sterling Vault photographs add front, closed caseback
@@ -532,3 +532,22 @@ enlarged all 27 new entries / 26 distinct inspected files across 17 explicit key
 checking source credits, representative scopes and mobile overflow. Full workflow
 fixtures again passed matching/refresh/safety, Rolex flags/clasp reminder, copying,
 save/next, RMA, daily reset/progress and history. Live authenticated RLS remains open.
+
+## Publication verification — 2026-10-11
+
+PR #8 is merged, and the latest photograph checkpoint is PR #16 at
+`bb26ced602af392fa2b1a55c2feffe527ab7c998`. Pages deployment
+37977132750 completed successfully. Six live files (`index.html`, `bench.js`,
+`photographs.js`, `photographs.json`, `photograph-coverage.json` and
+`photograph-coverage.csv`) matched the checkout byte for byte. Regenerating the
+coverage ledger produced no changes. The rollback branch still resolves to
+`b4ffc080c4dba6f55bb246377a24a3c2bf284052`. The earlier local rollback bundle
+is not present in this resumed workspace; the remote rollback remains available.
+
+The Node suite passed all eight test files, including the photograph assertions.
+Browser fixtures passed the preserved workflows. Actual live Chromium loaded and
+enlarged all 27 ninth-checkpoint entries (26 distinct inspected files) across 17
+explicit reference keys, checking credits, variants and mobile overflow with TLS
+verification enabled. Research remains in progress: 1,990 stored identifier keys
+are unreviewed. Live authenticated shared refresh/RLS remains unverified because
+no permitted test session is configured.
