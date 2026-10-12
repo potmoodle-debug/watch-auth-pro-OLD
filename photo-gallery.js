@@ -3,13 +3,13 @@ import {photoCategories} from './photographs.js?v=photos01';
 const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const sourceLink=p=>'<a href="'+esc(p.source)+'" target="_blank" rel="noopener">Source and credit</a>';
 
-export function renderPhotoGallery(container,photos,{externalOnly=false}={}){
+export function renderPhotoGallery(container,photos,{externalOnly=false,searchResults=false}={}){
  const categories=photoCategories.filter(([k])=>k!=='detail'||photos.some(p=>p.category===k));
  container.innerHTML=categories.map(([key,label])=>{
   const rows=photos.filter(p=>p.category===key);
   const restricted=externalOnly&&key==='movement';
   return '<section class="photo-category" data-category="'+key+'"><div class="heading"><h3>'+label+'</h3><small>'+rows.length+' verified</small></div>'+
-   (restricted?'<p class="photo-gap">External inspection only — movement photographs withheld.</p>':!rows.length?'<p class="photo-gap">No verified photograph attached. Source review remains unresolved.</p>':'<div class="photo-grid">'+rows.map(p=>'<figure><button type="button" class="photo-open" data-photo-id="'+esc(p.id)+'" aria-label="Enlarge '+esc(p.title)+'"><img loading="lazy" decoding="async" referrerpolicy="no-referrer" src="'+esc(p.image)+'" alt="'+esc(p.title+' — '+p.variant)+'"><span>Click to enlarge</span></button><figcaption><strong>'+esc(p.title)+'</strong><p class="photo-scope">'+esc(p.matchScope)+' · '+esc(p.variant)+'</p><p>'+esc(p.caption)+'</p><small>'+esc(p.credit)+'</small><p>'+sourceLink(p)+'</p></figcaption></figure>').join('')+'</div>')+'</section>';
+   (restricted?'<p class="photo-gap">External inspection only — movement photographs withheld.</p>':!rows.length?'<p class="photo-gap">'+(searchResults?'No results in this category.':'No verified photograph attached. Source review remains unresolved.')+'</p>':'<div class="photo-grid">'+rows.map(p=>'<figure><button type="button" class="photo-open" data-photo-id="'+esc(p.id)+'" aria-label="Enlarge '+esc(p.title)+'"><img loading="lazy" decoding="async" referrerpolicy="no-referrer" src="'+esc(p.image)+'" alt="'+esc(p.title+' — '+p.variant)+'"><span>Click to enlarge</span></button><figcaption><strong>'+esc(p.title)+'</strong><p class="photo-scope">'+esc(p.matchScope)+' · '+esc(p.variant)+'</p><p>'+esc(p.caption)+'</p><small>'+esc(p.credit)+'</small><p>'+sourceLink(p)+'</p></figcaption></figure>').join('')+'</div>')+'</section>';
  }).join('');
  container.querySelectorAll('img').forEach(img=>img.addEventListener('error',()=>{
   const button=img.closest('button');button.disabled=true;

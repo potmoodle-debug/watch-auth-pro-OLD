@@ -61,3 +61,5 @@
 .photo-zoom{max-height:70vh;overflow:auto;background:#f4f4f4}.photo-zoom img{display:block;width:100%;min-width:700px;height:auto}
 @media(max-width:480px){.photo-open img{height:280px}.photo-dialog{padding:14px}.photo-category>.heading{flex-wrap:wrap}}
 @media(max-width:800px){#visuals{grid-template-columns:1fr}}
+
+.photo-search-dialog{max-height:92vh;overflow:auto}.photo-search-dialog .fields input{min-width:0}.photo-search-dialog form{margin:18px 0}#photoSearchResults{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px}#photoSearchStatus{margin:18px 0;color:var(--muted)}#morePhotoSearch{margin-top:20px}@media(max-width:800px){#photoSearchResults{grid-template-columns:1fr}}

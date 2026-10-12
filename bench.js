@@ -1,5 +1,6 @@
 import {matchingPhotographs,mergeReferenceRules} from './photographs.js?v=photos01';
-import {renderPhotoGallery} from './photo-gallery.js?v=photos01';
+import {renderPhotoGallery} from './photo-gallery.js?v=search01';
+import {setupPhotoSearch} from './photo-search.js?v=search01';
 import {performanceStats,resetCorrections} from './performance.js?v=photos01';
 import {technologyReminder} from './movement-reminders.js?v=photos01';
 import {claspMatches,serialHints,needsResearch,replicaSignals} from './qol.js?v=photos01';
@@ -12,6 +13,7 @@ let localRules=[],photographs=[],intelligence={rules:[],safety:[],serial:{}},sam
 let inspectionId=crypto.randomUUID(),pending=null,saved=false,noteDirty=false,logs=[],counterfeits=[],entryAction=null,entryId=null,lastDay=londonDay(),daily=null,serialTimer=null,pendingResearch=null;
 const inputIds=['brand','reference','serial','movementType','calibre','clasp','overall','comments','issue','battery'];
 const conditionNames=['Clean','Dirty','Rusted','Damaged','Modified','Aged','External only'];
+setupPhotoSearch({getPhotographs:()=>photographs,getContext:()=>({brand:$('brand').value.trim(),reference:$('reference').value.trim(),externalOnly:selectedConditions().includes('External only')||!!safetyRule(intelligence.safety,$('brand').value,$('reference').value,rule?.family||rule?.model||'')})});
 const componentNames=['Clasp','Bracelet / strap','Case','Crown','Pushers','Crystal','Dial','Hands','Movement'];
 function status(text,error=false){$('status').textContent=text;$('status').className=error?'error':'';}
 function authStatus(text,error=false){$('authStatus').textContent=text;$('authStatus').className=error?'error':'';}

@@ -10545,6 +10545,34 @@
       "id": "RULE:0581",
       "reviewedAt": "2026-10-12T13:00:14.850Z",
       "evidence": "Original preowned dealer identifies S502-JET-R-S, 43mm black DLC steel, orange GMT hand, date three, fitted black rubber/pin buckle, UK supply September 2022. Five actual original images inspected. Actual black dial has pale round/baton markers, red seconds accent, orange triangular GMT hand, inner 24-hour scale, external elapsed-time bezel, SUPERMARINE/502m marking and LONDON. Actual dark BREMONT pin buckle belongs to ribbed black rubber on watch; a separate bright buckle on leather display-stand closure is not fitted watch hardware. No unobscured caseback or movement photo; no physical calibre stamp or manufacture date established. Supply date is dealer attribution. Existing broad Supermarine S502 explicitly representative of older 43mm JET DLC/rubber execution only, not newer 40mm Jet, uncoated steel, Bamford California dial, full suffixes or neighbouring S300/S302/S500. Rating/certification wording does not establish current pressure/accuracy. No readable personal owner data in selected front/buckle frames; unused angles with warranty paperwork not promoted. Fitted strap/buckle originality unproven. Conflicting original dealer listings also use S502-JET-R-S with a 40mm description (https://shrevecrumpandlow.com/product/bremont-s502-jet-40mm-stainless-steel-ceramic-s502-jet-r-s). This discrepancy is unresolved; the code alone cannot establish size/generation. Both lookup keys show this inspected 43mm specimen only as a representative variant."
+    },
+    {
+      "id": "RULE:0619",
+      "reviewedAt": "2026-10-12T13:19:03.158Z",
+      "evidence": "Original Goldsmiths preowned listing explicitly identifies actual photographed watch as AIRCO-M1-WH-R-S, approximately 40mm steel, white dial, automatic/date and leather buckle; August 2022 is dealer year attribution, not physical manufacture proof. Four original 600x600 files visually inspected. White outlined Arabic dial, red triangular seconds, date three, BREMONT/AUTOMATIC/LONDON, dark middle case barrel, signed crown and bright BREMONT pin buckle on dark brown leather with pale stitching. Actual display back shows bright rotor signed BREMONT in red, bright bridges and visible upper-edge gears/balance; rotor and reflection obscure other parts. No legible physical calibre stamp, no opened loose movement. Surround BREMONT CHRONOMETERS / WATER RESISTANT 100M and identity 39221; strap marked 20-R001. Inscriptions do not prove current pressure/accuracy. Fitted strap/buckle originality unproven. Exact single-literal source pattern RULE:0619 enumerated as AIRCO-M1-WH-R-S only; no generic Airco, black dial, Mach2/Mach3 or full bracelet suffix inheritance. EveryWatch mirror was not accepted: undisclosed original source and conflicting packaging description.",
+      "enumeratedReferences": [
+        "AIRCO-M1-WH-R-S"
+      ],
+      "categories": {
+        "front": "Actual white Arabic/date execution accepted.",
+        "movement": "Partially obscured display-back execution accepted; calibre stamp and opened movement remain gaps.",
+        "caseback": "Actual display back accepted; inscriptions not performance proof.",
+        "braceletClasp": "Actual pin buckle/leather accepted; originality unproven."
+      }
+    },
+    {
+      "id": "RULE:0423",
+      "reviewedAt": "2026-10-12T13:25:51.508Z",
+      "evidence": "Original EWC stock 27756 identifies BKM-SS, 43mm steel white-dial world-time/GMT chronograph, black rubber/deployant, numbered 79/500 with papers dated August 2015. Edition/date and BE-54AE specification are dealer attribution, not independent physical calibre/manufacture proof. Eight original 800px files inspected. Actual white dial city ring, three registers, date three, red arrow GMT/chronograph details, KINGSMAN upper-register text and K-symbol lower register; signed crown and additional crown eight. Actual display back bright skeleton rotor signed BREMONT, decorated bright bridges, blue screws and gears, no legible calibre stamp or opened loose movement. BREMONT/CHRONOMETER/WATER RESISTANT 10 ATM rim, seller black-masked identity/edition; do not infer 79/500 from masked pixels. Actual bright signed BREMONT folding clasp on black rubber marked 22-R001. Fitted rubber is the pictured execution, not assumed original film leather. Strap/clasp originality and current performance unproven. Broad Bremont Kingsman source record only representative of this steel/white/rubber specimen; rose-gold KINGSMAN/RG, black-DLC BKM-DLC, ordinary ALT1-WT/ALT1-B and unverified full suffixes do not inherit it. Other family variants remain research gaps. Package frame seven excluded from public gallery receipts; no paperwork used as physical execution proof.",
+      "enumeratedReferences": [
+        "BKM-SS"
+      ],
+      "categories": {
+        "front": "Verified representative steel white rubber specimen only; other family variants still open.",
+        "movement": "Actual display-back execution; physical calibre and opened-movement gaps remain.",
+        "caseback": "Actual display back with masked identity/edition; no physical edition verification.",
+        "braceletClasp": "Actual rubber/deployant specimen; originality and other family hardware remain open."
+      }
     }
   ]
 }

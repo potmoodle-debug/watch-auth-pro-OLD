@@ -1,0 +1,69 @@
+{
+  "reviewedAt": "2026-10-12T13:19:03.158Z",
+  "completion": "IN PROGRESS",
+  "source": "https://www.goldsmiths.co.uk/Pre%2BOwned-Bremont-AIRCO-MACH-1-Mens-Watch-AIRCO%2BM1%2BWH%2BR%2BS-null/p/406000419490",
+  "reference": "AIRCO-M1-WH-R-S",
+  "variant": "Goldsmiths 406000419490 / AIRCO-M1-WH-R-S / August 2022 dealer attribution / approximately 40mm steel, white dial and dark brown leather",
+  "evidence": "Original Goldsmiths preowned listing explicitly identifies actual photographed watch as AIRCO-M1-WH-R-S, approximately 40mm steel, white dial, automatic/date and leather buckle; August 2022 is dealer year attribution, not physical manufacture proof. Four original 600x600 files visually inspected. White outlined Arabic dial, red triangular seconds, date three, BREMONT/AUTOMATIC/LONDON, dark middle case barrel, signed crown and bright BREMONT pin buckle on dark brown leather with pale stitching. Actual display back shows bright rotor signed BREMONT in red, bright bridges and visible upper-edge gears/balance; rotor and reflection obscure other parts. No legible physical calibre stamp, no opened loose movement. Surround BREMONT CHRONOMETERS / WATER RESISTANT 100M and identity 39221; strap marked 20-R001. Inscriptions do not prove current pressure/accuracy. Fitted strap/buckle originality unproven. Exact single-literal source pattern RULE:0619 enumerated as AIRCO-M1-WH-R-S only; no generic Airco, black dial, Mach2/Mach3 or full bracelet suffix inheritance. EveryWatch mirror was not accepted: undisclosed original source and conflicting packaging description.",
+  "images": [
+    {
+      "i": 1,
+      "image": "https://content.thewosgroup.com/productimage/406000419490/406000419490_1.jpg?impolicy=hero&imwidth=600",
+      "httpStatus": 200,
+      "sha256": "24504ec11c201b070f0562fbd8de38df7a3cca68bc2c25c2117bb7ea517da59e",
+      "dimensions": [
+        600,
+        600
+      ]
+    },
+    {
+      "i": 2,
+      "image": "https://content.thewosgroup.com/productimage/406000419490/406000419490_2.jpg?impolicy=hero&imwidth=600",
+      "httpStatus": 200,
+      "sha256": "0721a37429591ea51d886fbb5d76baa917a97592c25ffc7dcee728fc76114b5c",
+      "dimensions": [
+        600,
+        600
+      ]
+    },
+    {
+      "i": 3,
+      "image": "https://content.thewosgroup.com/productimage/406000419490/406000419490_3.jpg?impolicy=hero&imwidth=600",
+      "httpStatus": 200,
+      "sha256": "4c805c5f8a1bbf7f5bec0c984167909dca588a08513666ea23459c8df8c7ebfd",
+      "dimensions": [
+        600,
+        600
+      ]
+    },
+    {
+      "i": 4,
+      "image": "https://content.thewosgroup.com/productimage/406000419490/406000419490_4.jpg?impolicy=hero&imwidth=600",
+      "httpStatus": 200,
+      "sha256": "4507e036e0bc5fa3ab0ef07c9bd76da8e9cc4a20b2d49524bc27903e5e7a3d0c",
+      "dimensions": [
+        600,
+        600
+      ]
+    }
+  ],
+  "acceptedViews": [
+    {
+      "i": 1,
+      "category": "front"
+    },
+    {
+      "i": 4,
+      "category": "movement"
+    },
+    {
+      "i": 4,
+      "category": "caseback"
+    },
+    {
+      "i": 3,
+      "category": "braceletClasp"
+    }
+  ],
+  "excluded": "Side frame inspected for case/crown consistency but not separate gallery entry; no paperwork images. No mirror photographs accepted."
+}
