@@ -1,0 +1,58 @@
+{
+  "reviewedAt": "2026-10-12T13:25:51.508Z",
+  "completion": "IN PROGRESS",
+  "source": "https://www.europeanwatch.com/watch/bremont-bkm-ss-bremont-kingsman-stainless-steel-27756",
+  "variant": "European Watch Company 27756 / source BKM-SS / August 2015 paperwork attribution / 43mm steel, white dial and fitted black rubber deployant",
+  "evidence": "Original EWC stock 27756 identifies BKM-SS, 43mm steel white-dial world-time/GMT chronograph, black rubber/deployant, numbered 79/500 with papers dated August 2015. Edition/date and BE-54AE specification are dealer attribution, not independent physical calibre/manufacture proof. Eight original 800px files inspected. Actual white dial city ring, three registers, date three, red arrow GMT/chronograph details, KINGSMAN upper-register text and K-symbol lower register; signed crown and additional crown eight. Actual display back bright skeleton rotor signed BREMONT, decorated bright bridges, blue screws and gears, no legible calibre stamp or opened loose movement. BREMONT/CHRONOMETER/WATER RESISTANT 10 ATM rim, seller black-masked identity/edition; do not infer 79/500 from masked pixels. Actual bright signed BREMONT folding clasp on black rubber marked 22-R001. Fitted rubber is the pictured execution, not assumed original film leather. Strap/clasp originality and current performance unproven. Broad Bremont Kingsman source record only representative of this steel/white/rubber specimen; rose-gold KINGSMAN/RG, black-DLC BKM-DLC, ordinary ALT1-WT/ALT1-B and unverified full suffixes do not inherit it. Other family variants remain research gaps. Package frame seven excluded from public gallery receipts; no paperwork used as physical execution proof.",
+  "images": [
+    {
+      "i": 0,
+      "image": "https://images.europeanwatch.com/images/27/27756-1.jpg",
+      "httpStatus": 200,
+      "sha256": "f7b1a0118340fdc1548d4201c423057f90c6a73b61d2b8fa4f7f59810acd2c84",
+      "dimensions": [
+        800,
+        640
+      ]
+    },
+    {
+      "i": 4,
+      "image": "https://images.europeanwatch.com/images/27/27756-5.jpg",
+      "httpStatus": 200,
+      "sha256": "fd07738b2a6649e2456b3e32b1a97582635b27bffddea986ec162340ecb637be",
+      "dimensions": [
+        800,
+        640
+      ]
+    },
+    {
+      "i": 6,
+      "image": "https://images.europeanwatch.com/images/27/27756-7.jpg",
+      "httpStatus": 200,
+      "sha256": "586e21692a713620c985789b76e33178873b1bbc944143651d4192ddeb40de7e",
+      "dimensions": [
+        800,
+        640
+      ]
+    }
+  ],
+  "acceptedViews": [
+    {
+      "i": 0,
+      "category": "front"
+    },
+    {
+      "i": 4,
+      "category": "movement"
+    },
+    {
+      "i": 4,
+      "category": "caseback"
+    },
+    {
+      "i": 6,
+      "category": "braceletClasp"
+    }
+  ],
+  "excluded": "Other watch angles inspected for consistency; package/paperwork frame seven not promoted publicly. Rose-gold listing located but not visually accepted or aliased."
+}

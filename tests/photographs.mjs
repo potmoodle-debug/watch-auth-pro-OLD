@@ -607,3 +607,27 @@ test('S502 JET retains specimen size limits, separate stand hardware and missing
  const review=JSON.parse(fs.readFileSync(new URL('../photograph-reviews.json',import.meta.url))).identifierReviews.find(x=>x.brand==='BREMONT'&&x.reference==='Supermarine S502');
  for(const category of ['movement','caseback'])assert.match(review.categories[category].finding,/No unobscured back\/movement/);
 });
+test('Airco exact white leather reference does not inherit family patterns or interior imagery into external-only lookup',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,options)=>matchingPhotographs(photos,'Bremont',ref,options).filter(p=>p.id.startsWith('bremont-pass-airco-'));
+ assert.equal(get('AIRCO-M1-WH-R-S').length,4);
+ assert.ok(get('AIRCO-M1-WH-R-S').every(p=>p.matchScope==='documented reference / variant'));
+ assert.deepEqual(get('AIRCO-M1-WH-R-S',{externalOnly:true}).map(p=>p.category).sort(),['braceletClasp','front']);
+ for(const ref of ['AIRCO','AIRCO-M1','AIRCO-M1-BK-R-S','AIRCO-M1-WH-B','AIRCO-M2-WH-R-S','AIRCO-M3'])assert.equal(get(ref).length,0,ref);
+ assert.match(get('AIRCO-M1-WH-R-S').find(p=>p.category==='movement').caption,/No legible physical calibre stamp/);
+ const reviews=JSON.parse(fs.readFileSync(new URL('../photograph-reviews.json',import.meta.url)));
+ assert.deepEqual(reviews.sourceRecordReviews.find(x=>x.id==='RULE:0619').enumeratedReferences,['AIRCO-M1-WH-R-S']);
+});
+test('Kingsman steel rubber specimen retains edition uncertainty and strict family limits',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,options)=>matchingPhotographs(photos,'Bremont',ref,options).filter(p=>p.id.startsWith('bremont-pass-kingsman-'));
+ assert.equal(get('BKM-SS').length,4);
+ assert.equal(get('Bremont Kingsman').length,4);
+ assert.ok(get('Bremont Kingsman').every(p=>p.matchScope==='representative variant'&&p.variant.includes('black rubber')));
+ assert.deepEqual(get('BKM-SS',{externalOnly:true}).map(p=>p.category).sort(),['braceletClasp','front']);
+ for(const ref of ['Kingsman','KINGSMAN/RG','BKM-DLC','BKM-SS-R-S','ALT1-WT','ALT1-B','220/500'])assert.equal(get(ref).length,0,ref);
+ assert.match(get('BKM-SS').find(p=>p.category==='movement').caption,/No legible physical calibre stamp/);
+ assert.match(get('BKM-SS').find(p=>p.category==='caseback').caption,/No edition number inferred/);
+ const reviews=JSON.parse(fs.readFileSync(new URL('../photograph-reviews.json',import.meta.url)));
+ assert.deepEqual(reviews.sourceRecordReviews.find(x=>x.id==='RULE:0423').enumeratedReferences,['BKM-SS']);
+});
