@@ -21689,7 +21689,8 @@
           2000
         ],
         "imageSha256": "4294fa6063246dbe3037e3b5da2357fbd8f830462a79de776fd0fa9025166726"
-      }
+      },
+      "depictsMovement": true
     },
     {
       "id": "loupe-archive-4814-braceletClasp-13",
@@ -23200,6 +23201,3097 @@
           2000
         ],
         "imageSha256": "03ee74f4d4a956a8219261bbcdef2bf3df8cca2f501bd9ba353b4c46909d6fce"
+      }
+    },
+    {
+      "id": "loupe-vintage-3216-front-0",
+      "brand": "ROLEX",
+      "references": [
+        "14010M"
+      ],
+      "representativeFor": [
+        "14010M"
+      ],
+      "variant": "34 mm steel Air-King / white Roman dial / engine-turned bezel / Oyster bracelet / Kuwait Oil Company award engraving",
+      "category": "front",
+      "title": "14010M — front",
+      "caption": "Actual dial, hands, bezel and case of the labelled representative specimen. Special award/signature dial or engraved configuration is specimen-specific; other configurations are not implied.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/8ad267896e5fdaf07ac56b9085e5ced7cf773aa6-3151x3151.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-air-king-14010-30-year-award-watch-for-the-kuwait-oil-company",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 3216: all 17 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 14010M. Actual movement marking reads 3130; internal back reads 2140. Paired execution is photographed, not a generic same-calibre substitution. Source title/table incorrectly identify 14010, but the actual physical case reads 14010M and the photographed movement is 3130. These photographs attach only to 14010M, never to the earlier 14010. Kuwait Oil Company / 30 YEARS award engraving is specimen-specific, not a standard factory caseback pattern. Source: https://loupethis.com/auctions/rolex-air-king-14010-30-year-award-watch-for-the-kuwait-oil-company",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "1dae8c80d3b7d0f11e98794a7511df4494dc4b830b229950c8109c06350802fd"
+      }
+    },
+    {
+      "id": "loupe-vintage-3216-movement-15",
+      "brand": "ROLEX",
+      "references": [
+        "14010M"
+      ],
+      "representativeFor": [
+        "14010M"
+      ],
+      "variant": "34 mm steel Air-King / white Roman dial / engine-turned bezel / Oyster bracelet / Kuwait Oil Company award engraving",
+      "category": "movement",
+      "title": "14010M — movement",
+      "caption": "Actual 3130 calibre marking, engraved rotor, visible hairspring and full balance bridge in this paired opened specimen. Same photograph also shows the internal caseback.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/94864abe25704b1dd07aac6e60822b92d1a8aec4-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-air-king-14010-30-year-award-watch-for-the-kuwait-oil-company",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 3216: all 17 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 14010M. Actual movement marking reads 3130; internal back reads 2140. Paired execution is photographed, not a generic same-calibre substitution. Source title/table incorrectly identify 14010, but the actual physical case reads 14010M and the photographed movement is 3130. These photographs attach only to 14010M, never to the earlier 14010. Kuwait Oil Company / 30 YEARS award engraving is specimen-specific, not a standard factory caseback pattern. Source: https://loupethis.com/auctions/rolex-air-king-14010-30-year-award-watch-for-the-kuwait-oil-company",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "d3053517afb195b9ed54825cdc1d1d3193499b6359ebbc33b8bf750540bac07e"
+      }
+    },
+    {
+      "id": "loupe-vintage-3216-caseback-15",
+      "brand": "ROLEX",
+      "references": [
+        "14010M"
+      ],
+      "representativeFor": [
+        "14010M"
+      ],
+      "variant": "34 mm steel Air-King / white Roman dial / engine-turned bezel / Oyster bracelet / Kuwait Oil Company award engraving",
+      "category": "caseback",
+      "title": "14010M — caseback",
+      "caption": "Actual internal steel caseback with Rolex inscriptions and 2140 markings beside the paired 3130 movement. Shared internal-back numbers and hand-written service notes do not create new case-reference aliases; same frame as Movement.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/94864abe25704b1dd07aac6e60822b92d1a8aec4-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-air-king-14010-30-year-award-watch-for-the-kuwait-oil-company",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 3216: all 17 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 14010M. Actual movement marking reads 3130; internal back reads 2140. Paired execution is photographed, not a generic same-calibre substitution. Source title/table incorrectly identify 14010, but the actual physical case reads 14010M and the photographed movement is 3130. These photographs attach only to 14010M, never to the earlier 14010. Kuwait Oil Company / 30 YEARS award engraving is specimen-specific, not a standard factory caseback pattern. Source: https://loupethis.com/auctions/rolex-air-king-14010-30-year-award-watch-for-the-kuwait-oil-company",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "d3053517afb195b9ed54825cdc1d1d3193499b6359ebbc33b8bf750540bac07e"
+      },
+      "depictsMovement": true
+    },
+    {
+      "id": "loupe-vintage-3216-braceletClasp-12",
+      "brand": "ROLEX",
+      "references": [
+        "14010M"
+      ],
+      "representativeFor": [
+        "14010M"
+      ],
+      "variant": "34 mm steel Air-King / white Roman dial / engine-turned bezel / Oyster bracelet / Kuwait Oil Company award engraving",
+      "category": "braceletClasp",
+      "title": "14010M — braceletClasp",
+      "caption": "Actual signed Oyster clasp and fitted bracelet construction. Factory originality of this particular bracelet is not established; codes and wear belong to the specimen.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/861b0dc3860db585d793738ec1053524b8d138fe-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-air-king-14010-30-year-award-watch-for-the-kuwait-oil-company",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 3216: all 17 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 14010M. Actual movement marking reads 3130; internal back reads 2140. Paired execution is photographed, not a generic same-calibre substitution. Source title/table incorrectly identify 14010, but the actual physical case reads 14010M and the photographed movement is 3130. These photographs attach only to 14010M, never to the earlier 14010. Kuwait Oil Company / 30 YEARS award engraving is specimen-specific, not a standard factory caseback pattern. Source: https://loupethis.com/auctions/rolex-air-king-14010-30-year-award-watch-for-the-kuwait-oil-company",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "5f3274c719ae3a8ebac21bf754040ec63db893fb3b49c6d8544c6176761ec64f"
+      }
+    },
+    {
+      "id": "loupe-vintage-3216-detail-14",
+      "brand": "ROLEX",
+      "references": [
+        "14010M"
+      ],
+      "representativeFor": [
+        "14010M"
+      ],
+      "variant": "34 mm steel Air-King / white Roman dial / engine-turned bezel / Oyster bracelet / Kuwait Oil Company award engraving",
+      "category": "detail",
+      "title": "14010M — detail",
+      "caption": "Actual physical case-reference stamp 14010M paired with this photographed specimen. The source says 14010 incorrectly; the trailing M is visible and required for this match.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/371a352fb67b85d2b22aeb57ff9ef3a17288f083-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-air-king-14010-30-year-award-watch-for-the-kuwait-oil-company",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 3216: all 17 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 14010M. Actual movement marking reads 3130; internal back reads 2140. Paired execution is photographed, not a generic same-calibre substitution. Source title/table incorrectly identify 14010, but the actual physical case reads 14010M and the photographed movement is 3130. These photographs attach only to 14010M, never to the earlier 14010. Kuwait Oil Company / 30 YEARS award engraving is specimen-specific, not a standard factory caseback pattern. Source: https://loupethis.com/auctions/rolex-air-king-14010-30-year-award-watch-for-the-kuwait-oil-company",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "9b308071bde29933f0c62f61c7b121d82c5f719525c567f7a8371a2719e7c38d"
+      }
+    },
+    {
+      "id": "loupe-vintage-3216-caseback-5",
+      "brand": "ROLEX",
+      "references": [
+        "14010M"
+      ],
+      "representativeFor": [
+        "14010M"
+      ],
+      "variant": "34 mm steel Air-King / white Roman dial / engine-turned bezel / Oyster bracelet / Kuwait Oil Company award engraving",
+      "category": "caseback",
+      "title": "14010M — caseback",
+      "caption": "Actual closed steel caseback with Kuwait Oil Company / 30 YEARS award engraving and fitted bracelet construction. This special inscription belongs to the auction specimen; it is not a standard factory caseback pattern.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/08e56131539b00ee48878ca9e9f6c5958accc054-3151x3151.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-air-king-14010-30-year-award-watch-for-the-kuwait-oil-company",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 3216: all 17 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 14010M. Actual movement marking reads 3130; internal back reads 2140. Paired execution is photographed, not a generic same-calibre substitution. Source title/table incorrectly identify 14010, but the actual physical case reads 14010M and the photographed movement is 3130. These photographs attach only to 14010M, never to the earlier 14010. Kuwait Oil Company / 30 YEARS award engraving is specimen-specific, not a standard factory caseback pattern. Source: https://loupethis.com/auctions/rolex-air-king-14010-30-year-award-watch-for-the-kuwait-oil-company",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "5d69778944b097426ce0e3c6fd98c73de31d3576a24119b909ddf5413dda91fe"
+      }
+    },
+    {
+      "id": "loupe-vintage-4068-front-0",
+      "brand": "ROLEX",
+      "references": [
+        "14270"
+      ],
+      "representativeFor": [
+        "14270"
+      ],
+      "variant": "36 mm steel Explorer / black 3-6-9 dial / Oyster bracelet / circa 1993 specimen",
+      "category": "front",
+      "title": "14270 — front",
+      "caption": "Actual dial, hands, bezel and case of the labelled representative specimen. Other dial, material and bracelet configurations are not implied.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/7e03c20647e8d8cffd2d1ae6cd23236b0a081fd2-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-explorer-i-14270-box-and-papers",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 4068: all 22 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 14270. Actual movement marking reads 3000; internal back reads 14270. Paired execution is photographed, not a generic same-calibre substitution. Source: https://loupethis.com/auctions/rolex-explorer-i-14270-box-and-papers",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "ecac36dbaceb33a2d8f5a0a61b0b50aa37592243812e7cd90bb43a2dd560655b"
+      }
+    },
+    {
+      "id": "loupe-vintage-4068-movement-16",
+      "brand": "ROLEX",
+      "references": [
+        "14270"
+      ],
+      "representativeFor": [
+        "14270"
+      ],
+      "variant": "36 mm steel Explorer / black 3-6-9 dial / Oyster bracelet / circa 1993 specimen",
+      "category": "movement",
+      "title": "14270 — movement",
+      "caption": "Actual 3000 calibre marking, engraved rotor, visible hairspring and balance cock in this paired opened specimen. Same photograph also shows the internal caseback.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/f87767497afd154b96ade9c91ffbfd315529ffd5-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-explorer-i-14270-box-and-papers",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 4068: all 22 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 14270. Actual movement marking reads 3000; internal back reads 14270. Paired execution is photographed, not a generic same-calibre substitution. Source: https://loupethis.com/auctions/rolex-explorer-i-14270-box-and-papers",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "0c651be03fbe45d91b6897798b88ad806b439f3613d1b97fcd572889c0c02768"
+      }
+    },
+    {
+      "id": "loupe-vintage-4068-caseback-16",
+      "brand": "ROLEX",
+      "references": [
+        "14270"
+      ],
+      "representativeFor": [
+        "14270"
+      ],
+      "variant": "36 mm steel Explorer / black 3-6-9 dial / Oyster bracelet / circa 1993 specimen",
+      "category": "caseback",
+      "title": "14270 — caseback",
+      "caption": "Actual internal steel caseback with Rolex inscriptions and 14270 markings beside the paired 3000 movement. Shared internal-back numbers and hand-written service notes do not create new case-reference aliases; same frame as Movement.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/f87767497afd154b96ade9c91ffbfd315529ffd5-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-explorer-i-14270-box-and-papers",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 4068: all 22 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 14270. Actual movement marking reads 3000; internal back reads 14270. Paired execution is photographed, not a generic same-calibre substitution. Source: https://loupethis.com/auctions/rolex-explorer-i-14270-box-and-papers",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "0c651be03fbe45d91b6897798b88ad806b439f3613d1b97fcd572889c0c02768"
+      },
+      "depictsMovement": true
+    },
+    {
+      "id": "loupe-vintage-4068-braceletClasp-13",
+      "brand": "ROLEX",
+      "references": [
+        "14270"
+      ],
+      "representativeFor": [
+        "14270"
+      ],
+      "variant": "36 mm steel Explorer / black 3-6-9 dial / Oyster bracelet / circa 1993 specimen",
+      "category": "braceletClasp",
+      "title": "14270 — braceletClasp",
+      "caption": "Actual signed Oyster clasp and fitted bracelet construction. Factory originality of this particular bracelet is not established; codes and wear belong to the specimen.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/0f908828fbac5ac5f73ade8e805981349b5bf399-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-explorer-i-14270-box-and-papers",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 4068: all 22 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 14270. Actual movement marking reads 3000; internal back reads 14270. Paired execution is photographed, not a generic same-calibre substitution. Source: https://loupethis.com/auctions/rolex-explorer-i-14270-box-and-papers",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "32e075f14eedd63dc1bb5c80f5fad66127fddc6fde8541e1f238cd304705005b"
+      }
+    },
+    {
+      "id": "loupe-vintage-4068-detail-14",
+      "brand": "ROLEX",
+      "references": [
+        "14270"
+      ],
+      "representativeFor": [
+        "14270"
+      ],
+      "variant": "36 mm steel Explorer / black 3-6-9 dial / Oyster bracelet / circa 1993 specimen",
+      "category": "detail",
+      "title": "14270 — detail",
+      "caption": "Actual physical case-reference stamp 14270 paired with this photographed specimen. No neighbouring reference or full catalogue suffix is inferred.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/f186ad6bcc2373bd5b598875ebe44430482f388e-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-explorer-i-14270-box-and-papers",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 4068: all 22 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 14270. Actual movement marking reads 3000; internal back reads 14270. Paired execution is photographed, not a generic same-calibre substitution. Source: https://loupethis.com/auctions/rolex-explorer-i-14270-box-and-papers",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "69b6f13ce72cb9c577db315819b937a09dfe95cccc4699aa7f6b1af65f0533c5"
+      }
+    },
+    {
+      "id": "loupe-vintage-3319-front-0",
+      "brand": "ROLEX",
+      "references": [
+        "15000"
+      ],
+      "representativeFor": [
+        "15000"
+      ],
+      "variant": "34 mm steel Oyster Perpetual Date / silver Honda-logo dial / smooth bezel / Jubilee bracelet / Honda Bowl award specimen",
+      "category": "front",
+      "title": "15000 — front",
+      "caption": "Actual dial, hands, bezel and case of the labelled representative specimen. Special award/signature dial or engraved configuration is specimen-specific; other configurations are not implied.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/293609f1f5478356a9cc817f623d73f4cc025f3a-3151x3151.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-oyster-perpetual-date-15000-honda-bowl-1985-award-watch",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 3319: all 17 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 15000. Actual movement marking reads 3035; internal back reads 15000. Paired execution is photographed, not a generic same-calibre substitution. Honda dial logo and Honda Bowl 85 exterior engraving identify this special award specimen; the 1982 production table and 1985 award are distinct, so no exact manufacturing/purchase date is inferred. Source: https://loupethis.com/auctions/rolex-oyster-perpetual-date-15000-honda-bowl-1985-award-watch",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "56fcc7402ad428ff9b0b8eeb379d2cc16c1e30da93e96d81c4cf758df68783c6"
+      }
+    },
+    {
+      "id": "loupe-vintage-3319-movement-15",
+      "brand": "ROLEX",
+      "references": [
+        "15000"
+      ],
+      "representativeFor": [
+        "15000"
+      ],
+      "variant": "34 mm steel Oyster Perpetual Date / silver Honda-logo dial / smooth bezel / Jubilee bracelet / Honda Bowl award specimen",
+      "category": "movement",
+      "title": "15000 — movement",
+      "caption": "Actual 3035 calibre marking, engraved rotor, visible hairspring and balance cock in this paired opened specimen. Same photograph also shows the internal caseback.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/1bcf90ca21c5117c88d67b290da3dcf4c3c8f479-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-oyster-perpetual-date-15000-honda-bowl-1985-award-watch",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 3319: all 17 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 15000. Actual movement marking reads 3035; internal back reads 15000. Paired execution is photographed, not a generic same-calibre substitution. Honda dial logo and Honda Bowl 85 exterior engraving identify this special award specimen; the 1982 production table and 1985 award are distinct, so no exact manufacturing/purchase date is inferred. Source: https://loupethis.com/auctions/rolex-oyster-perpetual-date-15000-honda-bowl-1985-award-watch",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "fe7b8a1a3e40e33a8b5ad1e4fc7c03e95b4ac6d55568c68a9e2a967f4fe35a29"
+      }
+    },
+    {
+      "id": "loupe-vintage-3319-caseback-15",
+      "brand": "ROLEX",
+      "references": [
+        "15000"
+      ],
+      "representativeFor": [
+        "15000"
+      ],
+      "variant": "34 mm steel Oyster Perpetual Date / silver Honda-logo dial / smooth bezel / Jubilee bracelet / Honda Bowl award specimen",
+      "category": "caseback",
+      "title": "15000 — caseback",
+      "caption": "Actual internal steel caseback with Rolex inscriptions and 15000 markings beside the paired 3035 movement. Shared internal-back numbers and hand-written service notes do not create new case-reference aliases; same frame as Movement.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/1bcf90ca21c5117c88d67b290da3dcf4c3c8f479-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-oyster-perpetual-date-15000-honda-bowl-1985-award-watch",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 3319: all 17 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 15000. Actual movement marking reads 3035; internal back reads 15000. Paired execution is photographed, not a generic same-calibre substitution. Honda dial logo and Honda Bowl 85 exterior engraving identify this special award specimen; the 1982 production table and 1985 award are distinct, so no exact manufacturing/purchase date is inferred. Source: https://loupethis.com/auctions/rolex-oyster-perpetual-date-15000-honda-bowl-1985-award-watch",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "fe7b8a1a3e40e33a8b5ad1e4fc7c03e95b4ac6d55568c68a9e2a967f4fe35a29"
+      },
+      "depictsMovement": true
+    },
+    {
+      "id": "loupe-vintage-3319-braceletClasp-12",
+      "brand": "ROLEX",
+      "references": [
+        "15000"
+      ],
+      "representativeFor": [
+        "15000"
+      ],
+      "variant": "34 mm steel Oyster Perpetual Date / silver Honda-logo dial / smooth bezel / Jubilee bracelet / Honda Bowl award specimen",
+      "category": "braceletClasp",
+      "title": "15000 — braceletClasp",
+      "caption": "Actual signed Jubilee clasp and fitted bracelet construction. Factory originality of this particular bracelet is not established; codes and wear belong to the specimen.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/70b40ee10438c3071c26251090792e15186e5020-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-oyster-perpetual-date-15000-honda-bowl-1985-award-watch",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 3319: all 17 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 15000. Actual movement marking reads 3035; internal back reads 15000. Paired execution is photographed, not a generic same-calibre substitution. Honda dial logo and Honda Bowl 85 exterior engraving identify this special award specimen; the 1982 production table and 1985 award are distinct, so no exact manufacturing/purchase date is inferred. Source: https://loupethis.com/auctions/rolex-oyster-perpetual-date-15000-honda-bowl-1985-award-watch",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "ceb8b618276a1801642b2d8993f54b1bd210490c2b16d66e5f1fba1edaf4ea43"
+      }
+    },
+    {
+      "id": "loupe-vintage-3319-detail-14",
+      "brand": "ROLEX",
+      "references": [
+        "15000"
+      ],
+      "representativeFor": [
+        "15000"
+      ],
+      "variant": "34 mm steel Oyster Perpetual Date / silver Honda-logo dial / smooth bezel / Jubilee bracelet / Honda Bowl award specimen",
+      "category": "detail",
+      "title": "15000 — detail",
+      "caption": "Actual physical case-reference stamp 15000 paired with this photographed specimen. No neighbouring reference or full catalogue suffix is inferred.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/0b182cc5f5d417eda00e9989636216c5d83eb6d4-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-oyster-perpetual-date-15000-honda-bowl-1985-award-watch",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 3319: all 17 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 15000. Actual movement marking reads 3035; internal back reads 15000. Paired execution is photographed, not a generic same-calibre substitution. Honda dial logo and Honda Bowl 85 exterior engraving identify this special award specimen; the 1982 production table and 1985 award are distinct, so no exact manufacturing/purchase date is inferred. Source: https://loupethis.com/auctions/rolex-oyster-perpetual-date-15000-honda-bowl-1985-award-watch",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "f8d2fe5a3817a6a2342c62cfddb2287f463a6aa94101c6172349b5ef25ab2a92"
+      }
+    },
+    {
+      "id": "loupe-vintage-3319-caseback-5",
+      "brand": "ROLEX",
+      "references": [
+        "15000"
+      ],
+      "representativeFor": [
+        "15000"
+      ],
+      "variant": "34 mm steel Oyster Perpetual Date / silver Honda-logo dial / smooth bezel / Jubilee bracelet / Honda Bowl award specimen",
+      "category": "caseback",
+      "title": "15000 — caseback",
+      "caption": "Actual closed steel caseback with Honda Bowl / 85 award engraving and fitted bracelet construction. This special inscription belongs to the auction specimen; it is not a standard factory caseback pattern.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/e791490ab83c6df68022b1184015c8bcafafa19a-3151x3151.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-oyster-perpetual-date-15000-honda-bowl-1985-award-watch",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 3319: all 17 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 15000. Actual movement marking reads 3035; internal back reads 15000. Paired execution is photographed, not a generic same-calibre substitution. Honda dial logo and Honda Bowl 85 exterior engraving identify this special award specimen; the 1982 production table and 1985 award are distinct, so no exact manufacturing/purchase date is inferred. Source: https://loupethis.com/auctions/rolex-oyster-perpetual-date-15000-honda-bowl-1985-award-watch",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "96141ed48c694927a4b2e56dc39300dba314e573d2be5db64d274086cea136e0"
+      }
+    },
+    {
+      "id": "loupe-vintage-1144-front-0",
+      "brand": "ROLEX",
+      "references": [
+        "16628"
+      ],
+      "representativeFor": [
+        "16628"
+      ],
+      "variant": "40 mm yellow-gold Yacht-Master / white dial and gold bezel / gold Oyster bracelet / circa 1995 specimen",
+      "category": "front",
+      "title": "16628 — front",
+      "caption": "Actual dial, hands, bezel and case of the labelled representative specimen. Other dial, material and bracelet configurations are not implied.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/7c0ab5a4fb278cbea83179f967419d87c3d09da7-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-yachtmaster-16628-yellow-gold",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 1144: all 16 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 16628. Actual movement marking reads 3135; internal back reads 16620. Paired execution is photographed, not a generic same-calibre substitution. Source: https://loupethis.com/auctions/rolex-yachtmaster-16628-yellow-gold",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "ac67b320a6341a071feddf41b3dde88c01e5a53de0d677598f6fdeb6a4f1581d"
+      }
+    },
+    {
+      "id": "loupe-vintage-1144-movement-14",
+      "brand": "ROLEX",
+      "references": [
+        "16628"
+      ],
+      "representativeFor": [
+        "16628"
+      ],
+      "variant": "40 mm yellow-gold Yacht-Master / white dial and gold bezel / gold Oyster bracelet / circa 1995 specimen",
+      "category": "movement",
+      "title": "16628 — movement",
+      "caption": "Actual 3135 calibre marking, engraved rotor, visible hairspring and full balance bridge in this paired opened specimen. Same photograph also shows the internal caseback.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/0bffb4552daa3d39367bed2a85e3f37ac8f9c01b-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-yachtmaster-16628-yellow-gold",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 1144: all 16 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 16628. Actual movement marking reads 3135; internal back reads 16620. Paired execution is photographed, not a generic same-calibre substitution. Source: https://loupethis.com/auctions/rolex-yachtmaster-16628-yellow-gold",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "6a8a49b47d8db04f57fc111c102c3641abb307d5cf002d2c0adf43fdc7f83303"
+      }
+    },
+    {
+      "id": "loupe-vintage-1144-caseback-14",
+      "brand": "ROLEX",
+      "references": [
+        "16628"
+      ],
+      "representativeFor": [
+        "16628"
+      ],
+      "variant": "40 mm yellow-gold Yacht-Master / white dial and gold bezel / gold Oyster bracelet / circa 1995 specimen",
+      "category": "caseback",
+      "title": "16628 — caseback",
+      "caption": "Actual internal gold caseback with Rolex inscriptions and 16620 markings beside the paired 3135 movement. Gold fineness marks are visible. Shared internal-back numbers and hand-written service notes do not create new case-reference aliases; same frame as Movement.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/0bffb4552daa3d39367bed2a85e3f37ac8f9c01b-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-yachtmaster-16628-yellow-gold",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 1144: all 16 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 16628. Actual movement marking reads 3135; internal back reads 16620. Paired execution is photographed, not a generic same-calibre substitution. Source: https://loupethis.com/auctions/rolex-yachtmaster-16628-yellow-gold",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "6a8a49b47d8db04f57fc111c102c3641abb307d5cf002d2c0adf43fdc7f83303"
+      },
+      "depictsMovement": true
+    },
+    {
+      "id": "loupe-vintage-1144-braceletClasp-11",
+      "brand": "ROLEX",
+      "references": [
+        "16628"
+      ],
+      "representativeFor": [
+        "16628"
+      ],
+      "variant": "40 mm yellow-gold Yacht-Master / white dial and gold bezel / gold Oyster bracelet / circa 1995 specimen",
+      "category": "braceletClasp",
+      "title": "16628 — braceletClasp",
+      "caption": "Actual signed Oyster clasp and fitted bracelet construction. Factory originality of this particular bracelet is not established; codes and wear belong to the specimen.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/72dc314f772ce1bd7e065baf8cb0955c923c3614-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-yachtmaster-16628-yellow-gold",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 1144: all 16 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 16628. Actual movement marking reads 3135; internal back reads 16620. Paired execution is photographed, not a generic same-calibre substitution. Source: https://loupethis.com/auctions/rolex-yachtmaster-16628-yellow-gold",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "efa264b7f3ae1953bf59bf75bda49cf587e5bde286cb03cac4cb6f12ce235322"
+      }
+    },
+    {
+      "id": "loupe-vintage-1144-detail-13",
+      "brand": "ROLEX",
+      "references": [
+        "16628"
+      ],
+      "representativeFor": [
+        "16628"
+      ],
+      "variant": "40 mm yellow-gold Yacht-Master / white dial and gold bezel / gold Oyster bracelet / circa 1995 specimen",
+      "category": "detail",
+      "title": "16628 — detail",
+      "caption": "Actual physical case-reference stamp 16628 paired with this photographed specimen. No neighbouring reference or full catalogue suffix is inferred.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/3d877c652094c6d44108d5a963da1b96ae8bdd00-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-yachtmaster-16628-yellow-gold",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 1144: all 16 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 16628. Actual movement marking reads 3135; internal back reads 16620. Paired execution is photographed, not a generic same-calibre substitution. Source: https://loupethis.com/auctions/rolex-yachtmaster-16628-yellow-gold",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "7311879f7348619a282694f40447091f7fd1ae84ed85d95d0ed13669802d240a"
+      }
+    },
+    {
+      "id": "loupe-vintage-3857-front-0",
+      "brand": "ROLEX",
+      "references": [
+        "18039"
+      ],
+      "representativeFor": [
+        "18039"
+      ],
+      "variant": "36 mm white-gold Day-Date / brown birchwood or burl dial / fluted bezel / President bracelet / circa 1983 specimen",
+      "category": "front",
+      "title": "18039 — front",
+      "caption": "Actual dial, hands, bezel and case of the labelled representative specimen. Other dial, material and bracelet configurations are not implied.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/56f6d45f2b00cc5ef065d3866d03c20c171009c5-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-day-date-18039-birchwood-dial-18k-wg-box-and-papers",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 3857: all 25 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 18039. Actual movement marking reads 3055; internal back reads 18000. Paired execution is photographed, not a generic same-calibre substitution. Source: https://loupethis.com/auctions/rolex-day-date-18039-birchwood-dial-18k-wg-box-and-papers",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "83b90766bd1f5991d2cac197ed311040dd35afa195ea0538d5420bd8ac38727c"
+      }
+    },
+    {
+      "id": "loupe-vintage-3857-movement-19",
+      "brand": "ROLEX",
+      "references": [
+        "18039"
+      ],
+      "representativeFor": [
+        "18039"
+      ],
+      "variant": "36 mm white-gold Day-Date / brown birchwood or burl dial / fluted bezel / President bracelet / circa 1983 specimen",
+      "category": "movement",
+      "title": "18039 — movement",
+      "caption": "Actual 3055 calibre marking, engraved rotor, visible hairspring and balance cock in this paired opened specimen. Same photograph also shows the internal caseback.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/06feffdb5bed222b3f0fb0811e367f2daa8b137e-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-day-date-18039-birchwood-dial-18k-wg-box-and-papers",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 3857: all 25 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 18039. Actual movement marking reads 3055; internal back reads 18000. Paired execution is photographed, not a generic same-calibre substitution. Source: https://loupethis.com/auctions/rolex-day-date-18039-birchwood-dial-18k-wg-box-and-papers",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "fea33cc6cecda0123888bbe39eb874eaf0ac2684e36a687e66efe8b020f84442"
+      }
+    },
+    {
+      "id": "loupe-vintage-3857-caseback-19",
+      "brand": "ROLEX",
+      "references": [
+        "18039"
+      ],
+      "representativeFor": [
+        "18039"
+      ],
+      "variant": "36 mm white-gold Day-Date / brown birchwood or burl dial / fluted bezel / President bracelet / circa 1983 specimen",
+      "category": "caseback",
+      "title": "18039 — caseback",
+      "caption": "Actual internal gold caseback with Rolex inscriptions and 18000 markings beside the paired 3055 movement. Gold fineness marks are visible. Shared internal-back numbers and hand-written service notes do not create new case-reference aliases; same frame as Movement.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/06feffdb5bed222b3f0fb0811e367f2daa8b137e-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-day-date-18039-birchwood-dial-18k-wg-box-and-papers",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 3857: all 25 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 18039. Actual movement marking reads 3055; internal back reads 18000. Paired execution is photographed, not a generic same-calibre substitution. Source: https://loupethis.com/auctions/rolex-day-date-18039-birchwood-dial-18k-wg-box-and-papers",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "fea33cc6cecda0123888bbe39eb874eaf0ac2684e36a687e66efe8b020f84442"
+      },
+      "depictsMovement": true
+    },
+    {
+      "id": "loupe-vintage-3857-braceletClasp-15",
+      "brand": "ROLEX",
+      "references": [
+        "18039"
+      ],
+      "representativeFor": [
+        "18039"
+      ],
+      "variant": "36 mm white-gold Day-Date / brown birchwood or burl dial / fluted bezel / President bracelet / circa 1983 specimen",
+      "category": "braceletClasp",
+      "title": "18039 — braceletClasp",
+      "caption": "Actual signed President clasp and fitted bracelet construction. Factory originality of this particular bracelet is not established; codes and wear belong to the specimen.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/7260a325afbcb56a4dc9c85abaae691be5e6e67a-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-day-date-18039-birchwood-dial-18k-wg-box-and-papers",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 3857: all 25 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 18039. Actual movement marking reads 3055; internal back reads 18000. Paired execution is photographed, not a generic same-calibre substitution. Source: https://loupethis.com/auctions/rolex-day-date-18039-birchwood-dial-18k-wg-box-and-papers",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "fd456679af6884378b5fb44d91f7f99be4d6cf8a500cad4b735c678fcef5a291"
+      }
+    },
+    {
+      "id": "loupe-vintage-3857-detail-17",
+      "brand": "ROLEX",
+      "references": [
+        "18039"
+      ],
+      "representativeFor": [
+        "18039"
+      ],
+      "variant": "36 mm white-gold Day-Date / brown birchwood or burl dial / fluted bezel / President bracelet / circa 1983 specimen",
+      "category": "detail",
+      "title": "18039 — detail",
+      "caption": "Actual physical case-reference stamp 18039 paired with this photographed specimen. No neighbouring reference or full catalogue suffix is inferred.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/cee943dccf3f2c4142835074406252e2c1636a1b-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-day-date-18039-birchwood-dial-18k-wg-box-and-papers",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 3857: all 25 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 18039. Actual movement marking reads 3055; internal back reads 18000. Paired execution is photographed, not a generic same-calibre substitution. Source: https://loupethis.com/auctions/rolex-day-date-18039-birchwood-dial-18k-wg-box-and-papers",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "4cc341391f5d4c58e5ae9fe65e315d490fbf67ef1b9bf3e5f95970435ab8bb70"
+      }
+    },
+    {
+      "id": "loupe-vintage-2018-front-0",
+      "brand": "ROLEX",
+      "references": [
+        "1807"
+      ],
+      "representativeFor": [
+        "1807"
+      ],
+      "variant": "36 mm yellow-gold Day-Date / silver baton dial with Qaboos signature / bark bezel and President bracelet / circa 1973 specimen",
+      "category": "front",
+      "title": "1807 — front",
+      "caption": "Actual dial, hands, bezel and case of the labelled representative specimen. Special award/signature dial or engraved configuration is specimen-specific; other configurations are not implied.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/719a1ac4c702a58b1e0f95e7d1469a717e7355f1-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-day-date-1807-bark-finish-qaboos-bin-said-al-said-dial-like-new-condition",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 2018: all 16 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 1807. Actual movement marking reads 1556; internal back reads 1803. Paired execution is photographed, not a generic same-calibre substitution. The silver dial bears the auction-documented Qaboos signature; this special dial is not an implication for every 1807. Internal back 1803 does not create a new 1803 image match. Source: https://loupethis.com/auctions/rolex-day-date-1807-bark-finish-qaboos-bin-said-al-said-dial-like-new-condition",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "44c7cccce43001913ee0a74c09417dc556378c5ba1b7fc338fae1f99affb970e"
+      }
+    },
+    {
+      "id": "loupe-vintage-2018-movement-14",
+      "brand": "ROLEX",
+      "references": [
+        "1807"
+      ],
+      "representativeFor": [
+        "1807"
+      ],
+      "variant": "36 mm yellow-gold Day-Date / silver baton dial with Qaboos signature / bark bezel and President bracelet / circa 1973 specimen",
+      "category": "movement",
+      "title": "1807 — movement",
+      "caption": "Actual 1556 calibre marking, engraved rotor, visible hairspring and balance cock in this paired opened specimen. Same photograph also shows the internal caseback.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/194a81eec44e96bbed5b452131e38663b09f9e88-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-day-date-1807-bark-finish-qaboos-bin-said-al-said-dial-like-new-condition",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 2018: all 16 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 1807. Actual movement marking reads 1556; internal back reads 1803. Paired execution is photographed, not a generic same-calibre substitution. The silver dial bears the auction-documented Qaboos signature; this special dial is not an implication for every 1807. Internal back 1803 does not create a new 1803 image match. Source: https://loupethis.com/auctions/rolex-day-date-1807-bark-finish-qaboos-bin-said-al-said-dial-like-new-condition",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "2455f5a283249b023b10cb481feddb12698f249b8169cfdc746eefd7efbd8f52"
+      }
+    },
+    {
+      "id": "loupe-vintage-2018-caseback-14",
+      "brand": "ROLEX",
+      "references": [
+        "1807"
+      ],
+      "representativeFor": [
+        "1807"
+      ],
+      "variant": "36 mm yellow-gold Day-Date / silver baton dial with Qaboos signature / bark bezel and President bracelet / circa 1973 specimen",
+      "category": "caseback",
+      "title": "1807 — caseback",
+      "caption": "Actual internal gold caseback with Rolex inscriptions and 1803 markings beside the paired 1556 movement. Gold fineness marks are visible. Shared internal-back numbers and hand-written service notes do not create new case-reference aliases; same frame as Movement.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/194a81eec44e96bbed5b452131e38663b09f9e88-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-day-date-1807-bark-finish-qaboos-bin-said-al-said-dial-like-new-condition",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 2018: all 16 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 1807. Actual movement marking reads 1556; internal back reads 1803. Paired execution is photographed, not a generic same-calibre substitution. The silver dial bears the auction-documented Qaboos signature; this special dial is not an implication for every 1807. Internal back 1803 does not create a new 1803 image match. Source: https://loupethis.com/auctions/rolex-day-date-1807-bark-finish-qaboos-bin-said-al-said-dial-like-new-condition",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "2455f5a283249b023b10cb481feddb12698f249b8169cfdc746eefd7efbd8f52"
+      },
+      "depictsMovement": true
+    },
+    {
+      "id": "loupe-vintage-2018-braceletClasp-11",
+      "brand": "ROLEX",
+      "references": [
+        "1807"
+      ],
+      "representativeFor": [
+        "1807"
+      ],
+      "variant": "36 mm yellow-gold Day-Date / silver baton dial with Qaboos signature / bark bezel and President bracelet / circa 1973 specimen",
+      "category": "braceletClasp",
+      "title": "1807 — braceletClasp",
+      "caption": "Actual signed President clasp and fitted bracelet construction. Factory originality of this particular bracelet is not established; codes and wear belong to the specimen.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/64f9d4da414dff19003898b8dc491ad782644848-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-day-date-1807-bark-finish-qaboos-bin-said-al-said-dial-like-new-condition",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 2018: all 16 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 1807. Actual movement marking reads 1556; internal back reads 1803. Paired execution is photographed, not a generic same-calibre substitution. The silver dial bears the auction-documented Qaboos signature; this special dial is not an implication for every 1807. Internal back 1803 does not create a new 1803 image match. Source: https://loupethis.com/auctions/rolex-day-date-1807-bark-finish-qaboos-bin-said-al-said-dial-like-new-condition",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "3c923dc621821d45cfa7661908c785f61892cbf0e830cef875cc54cafdc9d0a9"
+      }
+    },
+    {
+      "id": "loupe-vintage-2018-detail-12",
+      "brand": "ROLEX",
+      "references": [
+        "1807"
+      ],
+      "representativeFor": [
+        "1807"
+      ],
+      "variant": "36 mm yellow-gold Day-Date / silver baton dial with Qaboos signature / bark bezel and President bracelet / circa 1973 specimen",
+      "category": "detail",
+      "title": "1807 — detail",
+      "caption": "Actual physical case-reference stamp 1807 paired with this photographed specimen. No neighbouring reference or full catalogue suffix is inferred.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/5c661397238c0c88df0ece3bdc55aa0f97f6b538-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-day-date-1807-bark-finish-qaboos-bin-said-al-said-dial-like-new-condition",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 2018: all 16 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 1807. Actual movement marking reads 1556; internal back reads 1803. Paired execution is photographed, not a generic same-calibre substitution. The silver dial bears the auction-documented Qaboos signature; this special dial is not an implication for every 1807. Internal back 1803 does not create a new 1803 image match. Source: https://loupethis.com/auctions/rolex-day-date-1807-bark-finish-qaboos-bin-said-al-said-dial-like-new-condition",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "0b6cc38f7a1cfbc60f9e44dfd42c6305d579895427c5a1faa4b8fbd08d5da07c"
+      }
+    },
+    {
+      "id": "loupe-vintage-3251-front-0",
+      "brand": "ROLEX",
+      "references": [
+        "6694"
+      ],
+      "representativeFor": [
+        "6694"
+      ],
+      "variant": "34 mm steel Oysterdate / aged silver baton dial / smooth bezel / later Oyster bracelet as fitted / circa 1968 specimen",
+      "category": "front",
+      "title": "6694 — front",
+      "caption": "Actual dial, hands, bezel and case of the labelled representative specimen. Other dial, material and bracelet configurations are not implied.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/e438ba2447d3fa40026fa99e53ef10420c627a08-3151x3151.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-oysterdate-6694-silver-dial-manual-wind-with-guarantee",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 3251: all 19 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical outer case-reference stamp is corroded; exact source 6694 is corroborated by the paired internal 6694 / II 67 stamp. Actual movement marking reads 1225; internal back reads 6694 / II 67. Paired execution is photographed, not a generic same-calibre substitution. The actual 1225 marking was checked in a diagnostic crop of the unchanged source image. Fitted clasp reads 78350 / O1, later equipment than the circa-1968 watch; factory bracelet originality is not established. Hand-written internal service annotations are not factory markings. Source: https://loupethis.com/auctions/rolex-oysterdate-6694-silver-dial-manual-wind-with-guarantee",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "75fadfcbcbe4fdd32604517007f164e06427dd980c6d8740b245b9d7893dab7f"
+      }
+    },
+    {
+      "id": "loupe-vintage-3251-movement-15",
+      "brand": "ROLEX",
+      "references": [
+        "6694"
+      ],
+      "representativeFor": [
+        "6694"
+      ],
+      "variant": "34 mm steel Oysterdate / aged silver baton dial / smooth bezel / later Oyster bracelet as fitted / circa 1968 specimen",
+      "category": "movement",
+      "title": "6694 — movement",
+      "caption": "Actual 1225 calibre marking, manual-wind gear train, 17-jewel inscription, visible hairspring and balance cock in this paired opened specimen. Same photograph also shows the internal caseback.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/4474753edb0270127484f6b1155ba281b79d0fb4-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-oysterdate-6694-silver-dial-manual-wind-with-guarantee",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 3251: all 19 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical outer case-reference stamp is corroded; exact source 6694 is corroborated by the paired internal 6694 / II 67 stamp. Actual movement marking reads 1225; internal back reads 6694 / II 67. Paired execution is photographed, not a generic same-calibre substitution. The actual 1225 marking was checked in a diagnostic crop of the unchanged source image. Fitted clasp reads 78350 / O1, later equipment than the circa-1968 watch; factory bracelet originality is not established. Hand-written internal service annotations are not factory markings. Source: https://loupethis.com/auctions/rolex-oysterdate-6694-silver-dial-manual-wind-with-guarantee",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "9555f2c8f383f3758c05f055b2dac61a618e85ba323f5db302adb79d76681b58"
+      }
+    },
+    {
+      "id": "loupe-vintage-3251-caseback-15",
+      "brand": "ROLEX",
+      "references": [
+        "6694"
+      ],
+      "representativeFor": [
+        "6694"
+      ],
+      "variant": "34 mm steel Oysterdate / aged silver baton dial / smooth bezel / later Oyster bracelet as fitted / circa 1968 specimen",
+      "category": "caseback",
+      "title": "6694 — caseback",
+      "caption": "Actual internal steel caseback with Rolex inscriptions and 6694 / II 67 markings beside the paired 1225 movement. Shared internal-back numbers and hand-written service notes do not create new case-reference aliases; same frame as Movement.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/4474753edb0270127484f6b1155ba281b79d0fb4-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-oysterdate-6694-silver-dial-manual-wind-with-guarantee",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 3251: all 19 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical outer case-reference stamp is corroded; exact source 6694 is corroborated by the paired internal 6694 / II 67 stamp. Actual movement marking reads 1225; internal back reads 6694 / II 67. Paired execution is photographed, not a generic same-calibre substitution. The actual 1225 marking was checked in a diagnostic crop of the unchanged source image. Fitted clasp reads 78350 / O1, later equipment than the circa-1968 watch; factory bracelet originality is not established. Hand-written internal service annotations are not factory markings. Source: https://loupethis.com/auctions/rolex-oysterdate-6694-silver-dial-manual-wind-with-guarantee",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "9555f2c8f383f3758c05f055b2dac61a618e85ba323f5db302adb79d76681b58"
+      },
+      "depictsMovement": true
+    },
+    {
+      "id": "loupe-vintage-3251-braceletClasp-12",
+      "brand": "ROLEX",
+      "references": [
+        "6694"
+      ],
+      "representativeFor": [
+        "6694"
+      ],
+      "variant": "34 mm steel Oysterdate / aged silver baton dial / smooth bezel / later Oyster bracelet as fitted / circa 1968 specimen",
+      "category": "braceletClasp",
+      "title": "6694 — braceletClasp",
+      "caption": "Actual signed Oyster clasp and fitted bracelet construction. Factory originality of this particular bracelet is not established; codes and wear belong to the specimen. STEELINOX / O1 / 78350 marks identify later fitted equipment, not an original circa-1968 bracelet baseline.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/afa6e732e62fd424bf124478a3f80b5688c9c329-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-oysterdate-6694-silver-dial-manual-wind-with-guarantee",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 3251: all 19 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical outer case-reference stamp is corroded; exact source 6694 is corroborated by the paired internal 6694 / II 67 stamp. Actual movement marking reads 1225; internal back reads 6694 / II 67. Paired execution is photographed, not a generic same-calibre substitution. The actual 1225 marking was checked in a diagnostic crop of the unchanged source image. Fitted clasp reads 78350 / O1, later equipment than the circa-1968 watch; factory bracelet originality is not established. Hand-written internal service annotations are not factory markings. Source: https://loupethis.com/auctions/rolex-oysterdate-6694-silver-dial-manual-wind-with-guarantee",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "0edfa151809806649056f44158e2fe773454682689b0b0d5cd6f0bb5b58bae6b"
+      }
+    },
+    {
+      "id": "loupe-vintage-3348-front-0",
+      "brand": "ROLEX",
+      "references": [
+        "6542"
+      ],
+      "representativeFor": [
+        "6542"
+      ],
+      "variant": "38 mm yellow-gold GMT-Master / brown dial and maroon Bakelite bezel / UK-made gold bracelet as fitted / circa 1959 specimen",
+      "category": "front",
+      "title": "6542 — front",
+      "caption": "Actual dial, hands, bezel and case of the labelled representative specimen. Other dial, material and bracelet configurations are not implied.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/e1b87855d579b104b9a44b094d5ba250b02fe059-3151x3151.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-gmt-master-6542-bakelite-bezel-18k-yg-near-mint",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 3348: all 22 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 6542. Actual movement marking reads 1066; internal back reads 6542. Paired execution is photographed, not a generic same-calibre substitution. The source table says 1030 incorrectly; the photographed rotor is clearly marked 1066. Brown dial/maroon Bakelite/gold case are a labelled configuration; steel Pepsi variants are not implied. UK-made gold bracelet is signed ROLEX / MADE IN ENGLAND / C&CO with hallmarks, consistent with the source maker description; no Swiss Jubilee or factory-original bracelet claim is inferred. Source: https://loupethis.com/auctions/rolex-gmt-master-6542-bakelite-bezel-18k-yg-near-mint",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "03037f7507bad66dbe404b5aa02a40506ccbc632f8c16d59cbab2d9e8abb6023"
+      }
+    },
+    {
+      "id": "loupe-vintage-3348-movement-17",
+      "brand": "ROLEX",
+      "references": [
+        "6542"
+      ],
+      "representativeFor": [
+        "6542"
+      ],
+      "variant": "38 mm yellow-gold GMT-Master / brown dial and maroon Bakelite bezel / UK-made gold bracelet as fitted / circa 1959 specimen",
+      "category": "movement",
+      "title": "6542 — movement",
+      "caption": "Actual 1066 calibre marking, engraved rotor, visible hairspring and balance cock in this paired opened specimen. Same photograph also shows the internal caseback. The listing says 1030 incorrectly; the photographed marking is 1066.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/b6ddb9bd9ee55a890beab3efad5a51ded4baa3b0-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-gmt-master-6542-bakelite-bezel-18k-yg-near-mint",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 3348: all 22 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 6542. Actual movement marking reads 1066; internal back reads 6542. Paired execution is photographed, not a generic same-calibre substitution. The source table says 1030 incorrectly; the photographed rotor is clearly marked 1066. Brown dial/maroon Bakelite/gold case are a labelled configuration; steel Pepsi variants are not implied. UK-made gold bracelet is signed ROLEX / MADE IN ENGLAND / C&CO with hallmarks, consistent with the source maker description; no Swiss Jubilee or factory-original bracelet claim is inferred. Source: https://loupethis.com/auctions/rolex-gmt-master-6542-bakelite-bezel-18k-yg-near-mint",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "9314973bd9eb564b8bbe0712237ef50fed93cfc483e0ebe513e2465322ca98c3"
+      }
+    },
+    {
+      "id": "loupe-vintage-3348-caseback-17",
+      "brand": "ROLEX",
+      "references": [
+        "6542"
+      ],
+      "representativeFor": [
+        "6542"
+      ],
+      "variant": "38 mm yellow-gold GMT-Master / brown dial and maroon Bakelite bezel / UK-made gold bracelet as fitted / circa 1959 specimen",
+      "category": "caseback",
+      "title": "6542 — caseback",
+      "caption": "Actual internal gold caseback with Rolex inscriptions and 6542 markings beside the paired 1066 movement. Gold fineness marks are visible. Shared internal-back numbers and hand-written service notes do not create new case-reference aliases; same frame as Movement.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/b6ddb9bd9ee55a890beab3efad5a51ded4baa3b0-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-gmt-master-6542-bakelite-bezel-18k-yg-near-mint",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 3348: all 22 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 6542. Actual movement marking reads 1066; internal back reads 6542. Paired execution is photographed, not a generic same-calibre substitution. The source table says 1030 incorrectly; the photographed rotor is clearly marked 1066. Brown dial/maroon Bakelite/gold case are a labelled configuration; steel Pepsi variants are not implied. UK-made gold bracelet is signed ROLEX / MADE IN ENGLAND / C&CO with hallmarks, consistent with the source maker description; no Swiss Jubilee or factory-original bracelet claim is inferred. Source: https://loupethis.com/auctions/rolex-gmt-master-6542-bakelite-bezel-18k-yg-near-mint",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "9314973bd9eb564b8bbe0712237ef50fed93cfc483e0ebe513e2465322ca98c3"
+      },
+      "depictsMovement": true
+    },
+    {
+      "id": "loupe-vintage-3348-braceletClasp-12",
+      "brand": "ROLEX",
+      "references": [
+        "6542"
+      ],
+      "representativeFor": [
+        "6542"
+      ],
+      "variant": "38 mm yellow-gold GMT-Master / brown dial and maroon Bakelite bezel / UK-made gold bracelet as fitted / circa 1959 specimen",
+      "category": "braceletClasp",
+      "title": "6542 — braceletClasp",
+      "caption": "Actual signed UK-made gold clasp and fitted bracelet construction. Factory originality of this particular bracelet is not established; codes and wear belong to the specimen. Actual ROLEX / MADE IN ENGLAND / C&CO and gold hallmarks; the source attributes this bracelet to EJ Clewley & Co of Birmingham. It is distinct from Swiss-made Jubilee executions.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/195ab33dabbb3a601d5b4616b3afa433f81464be-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-gmt-master-6542-bakelite-bezel-18k-yg-near-mint",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 3348: all 22 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 6542. Actual movement marking reads 1066; internal back reads 6542. Paired execution is photographed, not a generic same-calibre substitution. The source table says 1030 incorrectly; the photographed rotor is clearly marked 1066. Brown dial/maroon Bakelite/gold case are a labelled configuration; steel Pepsi variants are not implied. UK-made gold bracelet is signed ROLEX / MADE IN ENGLAND / C&CO with hallmarks, consistent with the source maker description; no Swiss Jubilee or factory-original bracelet claim is inferred. Source: https://loupethis.com/auctions/rolex-gmt-master-6542-bakelite-bezel-18k-yg-near-mint",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "103f10cfde61f200676b16d8a025e0162ab80907291b9f4c78ded08e97c961ca"
+      }
+    },
+    {
+      "id": "loupe-vintage-3348-detail-15",
+      "brand": "ROLEX",
+      "references": [
+        "6542"
+      ],
+      "representativeFor": [
+        "6542"
+      ],
+      "variant": "38 mm yellow-gold GMT-Master / brown dial and maroon Bakelite bezel / UK-made gold bracelet as fitted / circa 1959 specimen",
+      "category": "detail",
+      "title": "6542 — detail",
+      "caption": "Actual physical case-reference stamp 6542 paired with this photographed specimen. No neighbouring reference or full catalogue suffix is inferred.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/ccd8e273fc0c8f95a1a4b48600ae627cd5adb2a2-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-gmt-master-6542-bakelite-bezel-18k-yg-near-mint",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected vintage specimen research 2026-10-09",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-09T19:08:23.869236+00:00",
+        "loadedAt": "2026-10-09T19:08:23.869236+00:00",
+        "evidence": "Loupe This lot 3348: all 22 actual gallery photographs visually inspected; selected movement, internal back, clasp and physical identifier views inspected at full resolution. Physical between-lug case-reference stamp reads 6542. Actual movement marking reads 1066; internal back reads 6542. Paired execution is photographed, not a generic same-calibre substitution. The source table says 1030 incorrectly; the photographed rotor is clearly marked 1066. Brown dial/maroon Bakelite/gold case are a labelled configuration; steel Pepsi variants are not implied. UK-made gold bracelet is signed ROLEX / MADE IN ENGLAND / C&CO with hallmarks, consistent with the source maker description; no Swiss Jubilee or factory-original bracelet claim is inferred. Source: https://loupethis.com/auctions/rolex-gmt-master-6542-bakelite-bezel-18k-yg-near-mint",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "4f2cb49673316e8e4666be964f3473974322cbb4a34c1a7584d61bb05feac4ea"
+      }
+    },
+    {
+      "id": "loupe-service-4285-front-0",
+      "brand": "ROLEX",
+      "references": [
+        "126720VTNR"
+      ],
+      "representativeFor": [
+        "126720VTNR"
+      ],
+      "variant": "40 mm steel GMT-Master II / black dial and green-black bezel / left crown and date / Jubilee bracelet",
+      "category": "front",
+      "title": "126720VTNR — front",
+      "caption": "Actual dial, hands, bezel and case of the labelled representative specimen. Other dial, bracelet and full catalogue suffix configurations are not implied.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/88745595f5d593ac18c9eb222de3d3ca4ba38c8c-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-gmt-master-ii-126720vtnr-left-handed-sprite",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 4285: all 20 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. Actual black/green left crown and left date 40mm steel GMT on Jubilee; front0, closedback5, clasp12/13 STEELINOX; card18 reads126720VTNR, no full suffix tag or opened movement in20photos; inspect fullres card/clasp before acceptance. Fullrescard18actual126720VTNR. Numeric126720notphysicallyshown in20images, doNOTassumenumericalaliaswithoutdocumentaryevidence. Source: https://loupethis.com/auctions/rolex-gmt-master-ii-126720vtnr-left-handed-sprite",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "8ee75444ac22264267e1fb1363e0525e6a2fdf8403783d0c7e8ec5650f64daf8"
+      }
+    },
+    {
+      "id": "loupe-service-4285-caseback-5",
+      "brand": "ROLEX",
+      "references": [
+        "126720VTNR"
+      ],
+      "representativeFor": [
+        "126720VTNR"
+      ],
+      "variant": "40 mm steel GMT-Master II / black dial and green-black bezel / left crown and date / Jubilee bracelet",
+      "category": "caseback",
+      "title": "126720VTNR — caseback",
+      "caption": "Actual closed caseback and its external construction. Surface wear and any service history belong to this specimen; no opening is required to compare this view.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/1e059b4fdae49d5efa91f793396e539ffdb7e6a5-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-gmt-master-ii-126720vtnr-left-handed-sprite",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 4285: all 20 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. Actual black/green left crown and left date 40mm steel GMT on Jubilee; front0, closedback5, clasp12/13 STEELINOX; card18 reads126720VTNR, no full suffix tag or opened movement in20photos; inspect fullres card/clasp before acceptance. Fullrescard18actual126720VTNR. Numeric126720notphysicallyshown in20images, doNOTassumenumericalaliaswithoutdocumentaryevidence. Source: https://loupethis.com/auctions/rolex-gmt-master-ii-126720vtnr-left-handed-sprite",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "e7e969c33fde50b3b42cd292b0c6787f159da43665f48c90b5ab43b727d11bfe"
+      }
+    },
+    {
+      "id": "loupe-service-4285-braceletClasp-13",
+      "brand": "ROLEX",
+      "references": [
+        "126720VTNR"
+      ],
+      "representativeFor": [
+        "126720VTNR"
+      ],
+      "variant": "40 mm steel GMT-Master II / black dial and green-black bezel / left crown and date / Jubilee bracelet",
+      "category": "braceletClasp",
+      "title": "126720VTNR — braceletClasp",
+      "caption": "Actual signed fitted clasp and bracelet construction; originality of this particular bracelet is not established. Jubilee STEELINOX / S2S markings; no Oyster-bracelet configuration is implied.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/edc26aa7460f4a18f3aa32b388120d4f3d5d9942-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-gmt-master-ii-126720vtnr-left-handed-sprite",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 4285: all 20 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. Actual black/green left crown and left date 40mm steel GMT on Jubilee; front0, closedback5, clasp12/13 STEELINOX; card18 reads126720VTNR, no full suffix tag or opened movement in20photos; inspect fullres card/clasp before acceptance. Fullrescard18actual126720VTNR. Numeric126720notphysicallyshown in20images, doNOTassumenumericalaliaswithoutdocumentaryevidence. Source: https://loupethis.com/auctions/rolex-gmt-master-ii-126720vtnr-left-handed-sprite",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "26fe7e989e036bbf41ef529f6b3a87ee511a80fbb23193e7615c7e507365c2c2"
+      }
+    },
+    {
+      "id": "loupe-service-3264-front-0",
+      "brand": "ROLEX",
+      "references": [
+        "226627"
+      ],
+      "representativeFor": [
+        "226627"
+      ],
+      "variant": "42 mm RLX titanium Yacht-Master / black dial and matte black bezel / titanium Oyster bracelet",
+      "category": "front",
+      "title": "226627 — front",
+      "caption": "Actual dial, hands, bezel and case of the labelled representative specimen. Other dial, bracelet and full catalogue suffix configurations are not implied.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/53509e248fa6fd85cc883c61b84e21edc3caeb1f-3151x3151.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-yacht-master-42-226627-titanium",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 3264: all 27 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. Actual black42mm titanium YachtMaster matte bezel/Oyster, front0 back5 clasp12/13 RLX TITANIUM, card21 reads226627; stillinspectsheet24 and fullres identifying detail/tag before acceptance; no opened movement in first24images. Final3 are additional actual front photos; all27inspected, no opened movement. Source: https://loupethis.com/auctions/rolex-yacht-master-42-226627-titanium",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "01d6c74d56f30d79c15ef1d1a2c80aa2dc13578943af3cb1793494b502e24018"
+      }
+    },
+    {
+      "id": "loupe-service-3264-caseback-5",
+      "brand": "ROLEX",
+      "references": [
+        "226627"
+      ],
+      "representativeFor": [
+        "226627"
+      ],
+      "variant": "42 mm RLX titanium Yacht-Master / black dial and matte black bezel / titanium Oyster bracelet",
+      "category": "caseback",
+      "title": "226627 — caseback",
+      "caption": "Actual closed caseback and its external construction. Surface wear and any service history belong to this specimen; no opening is required to compare this view.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/8208553e3db09b3dd891ee84bb4d2eb21cf58826-3151x3151.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-yacht-master-42-226627-titanium",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 3264: all 27 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. Actual black42mm titanium YachtMaster matte bezel/Oyster, front0 back5 clasp12/13 RLX TITANIUM, card21 reads226627; stillinspectsheet24 and fullres identifying detail/tag before acceptance; no opened movement in first24images. Final3 are additional actual front photos; all27inspected, no opened movement. Source: https://loupethis.com/auctions/rolex-yacht-master-42-226627-titanium",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "e8b9b23e5f720b7fc192bd8913b9eb77f8f5a598026f8b3038285cc38a941e4b"
+      }
+    },
+    {
+      "id": "loupe-service-3264-braceletClasp-13",
+      "brand": "ROLEX",
+      "references": [
+        "226627"
+      ],
+      "representativeFor": [
+        "226627"
+      ],
+      "variant": "42 mm RLX titanium Yacht-Master / black dial and matte black bezel / titanium Oyster bracelet",
+      "category": "braceletClasp",
+      "title": "226627 — braceletClasp",
+      "caption": "Actual signed fitted clasp and bracelet construction; originality of this particular bracelet is not established. Actual RLX TITANIUM / 3NP inscriptions; titanium construction is distinct from steel Yacht-Masters.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/9019c9a7686948a8063cf0c1aa43bed0a5489180-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-yacht-master-42-226627-titanium",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 3264: all 27 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. Actual black42mm titanium YachtMaster matte bezel/Oyster, front0 back5 clasp12/13 RLX TITANIUM, card21 reads226627; stillinspectsheet24 and fullres identifying detail/tag before acceptance; no opened movement in first24images. Final3 are additional actual front photos; all27inspected, no opened movement. Source: https://loupethis.com/auctions/rolex-yacht-master-42-226627-titanium",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "5b2569d5291abddbcbbda1b56e52ac8270a5a270e30a96fae87aa5471dcc8745"
+      }
+    },
+    {
+      "id": "loupe-service-2096-front-0",
+      "brand": "ROLEX",
+      "references": [
+        "228239"
+      ],
+      "representativeFor": [
+        "228239"
+      ],
+      "variant": "40 mm white-gold Day-Date / pave diamond dial and baguette markers / fluted bezel / President bracelet",
+      "category": "front",
+      "title": "228239 — front",
+      "caption": "Actual dial, hands, bezel and case of the labelled representative specimen. Other dial, bracelet and full catalogue suffix configurations are not implied.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/a8d5a3dcaf2a1efe17625d8ff71e68760ee0435b-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-day-date-40-228239-18k-wg-baguette-indexes-pave-diamond-dial",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 2096: all 16 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. Whitegold40DD fluted bezel pavédiamond dial baguette markers President, front0 closedback5 clasp11 card14 exact228239 purchaseApril28 2022. No fullsuffix or opened movement in16photos; inspectfullres clasp. Fullresclasp11actualAU750/ROLEXSA/N9K goldhallmarks. Source: https://loupethis.com/auctions/rolex-day-date-40-228239-18k-wg-baguette-indexes-pave-diamond-dial",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "cb1177a56e10cb54c72cd45b4ca700bc6635b1803cb5704b3590904a87ac4189"
+      }
+    },
+    {
+      "id": "loupe-service-2096-caseback-5",
+      "brand": "ROLEX",
+      "references": [
+        "228239"
+      ],
+      "representativeFor": [
+        "228239"
+      ],
+      "variant": "40 mm white-gold Day-Date / pave diamond dial and baguette markers / fluted bezel / President bracelet",
+      "category": "caseback",
+      "title": "228239 — caseback",
+      "caption": "Actual closed caseback and its external construction. Surface wear and any service history belong to this specimen; no opening is required to compare this view.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/d7f28f3fe9ec7337d3e862c2b778dadbefc0c432-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-day-date-40-228239-18k-wg-baguette-indexes-pave-diamond-dial",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 2096: all 16 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. Whitegold40DD fluted bezel pavédiamond dial baguette markers President, front0 closedback5 clasp11 card14 exact228239 purchaseApril28 2022. No fullsuffix or opened movement in16photos; inspectfullres clasp. Fullresclasp11actualAU750/ROLEXSA/N9K goldhallmarks. Source: https://loupethis.com/auctions/rolex-day-date-40-228239-18k-wg-baguette-indexes-pave-diamond-dial",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "6fd0314d666b5f8f39036cf713e219f86244c6bbee23df083ff209df9ddabd18"
+      }
+    },
+    {
+      "id": "loupe-service-2096-braceletClasp-11",
+      "brand": "ROLEX",
+      "references": [
+        "228239"
+      ],
+      "representativeFor": [
+        "228239"
+      ],
+      "variant": "40 mm white-gold Day-Date / pave diamond dial and baguette markers / fluted bezel / President bracelet",
+      "category": "braceletClasp",
+      "title": "228239 — braceletClasp",
+      "caption": "Actual signed fitted clasp and bracelet construction; originality of this particular bracelet is not established. Actual AU750 / ROLEXSA / N9K and gold hallmarks on the white-gold President clasp.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/8b83191dc6e26f31f10e8d2b571666991e44b5e8-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-day-date-40-228239-18k-wg-baguette-indexes-pave-diamond-dial",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 2096: all 16 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. Whitegold40DD fluted bezel pavédiamond dial baguette markers President, front0 closedback5 clasp11 card14 exact228239 purchaseApril28 2022. No fullsuffix or opened movement in16photos; inspectfullres clasp. Fullresclasp11actualAU750/ROLEXSA/N9K goldhallmarks. Source: https://loupethis.com/auctions/rolex-day-date-40-228239-18k-wg-baguette-indexes-pave-diamond-dial",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "d38904fb7433337ad3079ed0132f667b11f5473a7c510c649c483cd6190aaf5a"
+      }
+    },
+    {
+      "id": "loupe-service-2822-front-0",
+      "brand": "ROLEX",
+      "references": [
+        "268622"
+      ],
+      "representativeFor": [
+        "268622"
+      ],
+      "variant": "37 mm steel and platinum Yacht-Master / grey dial with blue seconds hand / platinum bezel / Oyster bracelet",
+      "category": "front",
+      "title": "268622 — front",
+      "caption": "Actual dial, hands, bezel and case of the labelled representative specimen. Other dial, bracelet and full catalogue suffix configurations are not implied.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/7510068b31350ded85ba9ce3ce65aa993f22f737-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-yacht-master-268622-oystersteel-and-platinum-37mm",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 2822: all 23 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. Steel37YachtMaster platinumbezel greydial blue seconds Oyster; front0 closedback5 clasp12 STEELINOX, physicalcase13/14, opened15, card21 exact268622 purchase03.12.2020. Needfullresolution rotorcalibre/internalback/hairspringexecution andcase14 beforeacceptance. Opened15 fullres actual2236 fullbalancebridge, violet hair? doNOTinfer material visually; internal2470notmodelalias. Fullresref14reads268622;13isSTAINLESSSTEEL notref. No2470alias. Source: https://loupethis.com/auctions/rolex-yacht-master-268622-oystersteel-and-platinum-37mm",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "8a7e443d3091234699d3e211f088305419baa6be08a58ae5e5b3f17d16f5b37b"
+      }
+    },
+    {
+      "id": "loupe-service-2822-caseback-5",
+      "brand": "ROLEX",
+      "references": [
+        "268622"
+      ],
+      "representativeFor": [
+        "268622"
+      ],
+      "variant": "37 mm steel and platinum Yacht-Master / grey dial with blue seconds hand / platinum bezel / Oyster bracelet",
+      "category": "caseback",
+      "title": "268622 — caseback",
+      "caption": "Actual closed caseback and its external construction. Surface wear and any service history belong to this specimen; no opening is required to compare this view.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/edfca68c4eb983cf8c52295ffd3364c360c842fa-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-yacht-master-268622-oystersteel-and-platinum-37mm",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 2822: all 23 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. Steel37YachtMaster platinumbezel greydial blue seconds Oyster; front0 closedback5 clasp12 STEELINOX, physicalcase13/14, opened15, card21 exact268622 purchase03.12.2020. Needfullresolution rotorcalibre/internalback/hairspringexecution andcase14 beforeacceptance. Opened15 fullres actual2236 fullbalancebridge, violet hair? doNOTinfer material visually; internal2470notmodelalias. Fullresref14reads268622;13isSTAINLESSSTEEL notref. No2470alias. Source: https://loupethis.com/auctions/rolex-yacht-master-268622-oystersteel-and-platinum-37mm",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "0d52bb87b106f83271e8d63d12a18d118d561d6097880aa78d0feb97444cdcc5"
+      }
+    },
+    {
+      "id": "loupe-service-2822-braceletClasp-12",
+      "brand": "ROLEX",
+      "references": [
+        "268622"
+      ],
+      "representativeFor": [
+        "268622"
+      ],
+      "variant": "37 mm steel and platinum Yacht-Master / grey dial with blue seconds hand / platinum bezel / Oyster bracelet",
+      "category": "braceletClasp",
+      "title": "268622 — braceletClasp",
+      "caption": "Actual signed fitted clasp and bracelet construction; originality of this particular bracelet is not established.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/29f027c44ae8aa2c2645be98df428820019b4821-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-yacht-master-268622-oystersteel-and-platinum-37mm",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 2822: all 23 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. Steel37YachtMaster platinumbezel greydial blue seconds Oyster; front0 closedback5 clasp12 STEELINOX, physicalcase13/14, opened15, card21 exact268622 purchase03.12.2020. Needfullresolution rotorcalibre/internalback/hairspringexecution andcase14 beforeacceptance. Opened15 fullres actual2236 fullbalancebridge, violet hair? doNOTinfer material visually; internal2470notmodelalias. Fullresref14reads268622;13isSTAINLESSSTEEL notref. No2470alias. Source: https://loupethis.com/auctions/rolex-yacht-master-268622-oystersteel-and-platinum-37mm",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "fec1b7a8dfef51403ebc13f10e6e8b2a90b389912ca208c9feca2e1c7a6b605a"
+      }
+    },
+    {
+      "id": "loupe-service-2822-detail-14",
+      "brand": "ROLEX",
+      "references": [
+        "268622"
+      ],
+      "representativeFor": [
+        "268622"
+      ],
+      "variant": "37 mm steel and platinum Yacht-Master / grey dial with blue seconds hand / platinum bezel / Oyster bracelet",
+      "category": "detail",
+      "title": "268622 — detail",
+      "caption": "Actual physical case-reference stamp 268622 paired with this photographed specimen. Serial numbers and internal shared-part numbers are not reference aliases.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/bedc33253e29a75c6b9476c86c648107e43efb10-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-yacht-master-268622-oystersteel-and-platinum-37mm",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 2822: all 23 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. Steel37YachtMaster platinumbezel greydial blue seconds Oyster; front0 closedback5 clasp12 STEELINOX, physicalcase13/14, opened15, card21 exact268622 purchase03.12.2020. Needfullresolution rotorcalibre/internalback/hairspringexecution andcase14 beforeacceptance. Opened15 fullres actual2236 fullbalancebridge, violet hair? doNOTinfer material visually; internal2470notmodelalias. Fullresref14reads268622;13isSTAINLESSSTEEL notref. No2470alias. Source: https://loupethis.com/auctions/rolex-yacht-master-268622-oystersteel-and-platinum-37mm",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "185017bdee528ab9efb688e043f47c231ab94e2e44eb58e9a215ab1bed4d9ae9"
+      }
+    },
+    {
+      "id": "loupe-service-2822-movement-15",
+      "brand": "ROLEX",
+      "references": [
+        "268622"
+      ],
+      "representativeFor": [
+        "268622"
+      ],
+      "variant": "37 mm steel and platinum Yacht-Master / grey dial with blue seconds hand / platinum bezel / Oyster bracelet",
+      "category": "movement",
+      "title": "268622 — movement",
+      "caption": "Actual 2236 calibre marking in this paired opened watch, engraved rotor, full balance bridge and visible hairspring. No generic same-calibre substitution; the same frame also shows the internal back. The listing says 2235 incorrectly; the photographed rotor is marked 2236.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/ef6ed30766717efd3dd8122db586fd7ff0b254a0-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-yacht-master-268622-oystersteel-and-platinum-37mm",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 2822: all 23 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. Steel37YachtMaster platinumbezel greydial blue seconds Oyster; front0 closedback5 clasp12 STEELINOX, physicalcase13/14, opened15, card21 exact268622 purchase03.12.2020. Needfullresolution rotorcalibre/internalback/hairspringexecution andcase14 beforeacceptance. Opened15 fullres actual2236 fullbalancebridge, violet hair? doNOTinfer material visually; internal2470notmodelalias. Fullresref14reads268622;13isSTAINLESSSTEEL notref. No2470alias. Source: https://loupethis.com/auctions/rolex-yacht-master-268622-oystersteel-and-platinum-37mm",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "90275463e814dea66170023c2df49823367be03b3ce661346a4168a28d65ec45"
+      }
+    },
+    {
+      "id": "loupe-service-2822-caseback-15",
+      "brand": "ROLEX",
+      "references": [
+        "268622"
+      ],
+      "representativeFor": [
+        "268622"
+      ],
+      "variant": "37 mm steel and platinum Yacht-Master / grey dial with blue seconds hand / platinum bezel / Oyster bracelet",
+      "category": "caseback",
+      "title": "268622 — caseback",
+      "caption": "Actual internal Rolex caseback with 2470 markings beside the paired opened watch. Internal part numbers and handwritten service notes are not new reference aliases.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/ef6ed30766717efd3dd8122db586fd7ff0b254a0-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-yacht-master-268622-oystersteel-and-platinum-37mm",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 2822: all 23 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. Steel37YachtMaster platinumbezel greydial blue seconds Oyster; front0 closedback5 clasp12 STEELINOX, physicalcase13/14, opened15, card21 exact268622 purchase03.12.2020. Needfullresolution rotorcalibre/internalback/hairspringexecution andcase14 beforeacceptance. Opened15 fullres actual2236 fullbalancebridge, violet hair? doNOTinfer material visually; internal2470notmodelalias. Fullresref14reads268622;13isSTAINLESSSTEEL notref. No2470alias. Source: https://loupethis.com/auctions/rolex-yacht-master-268622-oystersteel-and-platinum-37mm",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "90275463e814dea66170023c2df49823367be03b3ce661346a4168a28d65ec45"
+      },
+      "depictsMovement": true
+    },
+    {
+      "id": "loupe-service-2243-front-0",
+      "brand": "ROLEX",
+      "references": [
+        "278278"
+      ],
+      "representativeFor": [
+        "278278"
+      ],
+      "variant": "31 mm yellow-gold Datejust / champagne ten-diamond dial / fluted bezel / President bracelet",
+      "category": "front",
+      "title": "278278 — front",
+      "caption": "Actual dial, hands, bezel and case of the labelled representative specimen. Other dial, bracelet and full catalogue suffix configurations are not implied.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/c4c8ccaadb6e2c26d72aeabf89c72d5ababb134c-3001x3001.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-datejust-278278-18k-yg-champagne-diamond-dial",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 2243: all 15 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. 31mmyellowgoldchampagnediamondDatejustPresident front0 closedback5 card12exact278278bracelet83368; noopenedmovement oropenclasp15gallery soleaveclaspmarkingsunsupported, wholebracelet9canrepresentconstructionlabelclosedclasp. Source: https://loupethis.com/auctions/rolex-datejust-278278-18k-yg-champagne-diamond-dial",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "eb50e5bb419d6ec9bcd08a6d8e99993ef3ab51d2a6ce7a0486fdc0344cd14c19"
+      }
+    },
+    {
+      "id": "loupe-service-2243-caseback-5",
+      "brand": "ROLEX",
+      "references": [
+        "278278"
+      ],
+      "representativeFor": [
+        "278278"
+      ],
+      "variant": "31 mm yellow-gold Datejust / champagne ten-diamond dial / fluted bezel / President bracelet",
+      "category": "caseback",
+      "title": "278278 — caseback",
+      "caption": "Actual closed caseback and its external construction. Surface wear and any service history belong to this specimen; no opening is required to compare this view.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/c5b29fa1f5c15d17571fc19b03fcdb3011f40d61-3000x3000.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-datejust-278278-18k-yg-champagne-diamond-dial",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 2243: all 15 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. 31mmyellowgoldchampagnediamondDatejustPresident front0 closedback5 card12exact278278bracelet83368; noopenedmovement oropenclasp15gallery soleaveclaspmarkingsunsupported, wholebracelet9canrepresentconstructionlabelclosedclasp. Source: https://loupethis.com/auctions/rolex-datejust-278278-18k-yg-champagne-diamond-dial",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "2fe0dd77d8818fb9069674974acbd7167e203ddb74a3fb60573ec2a1f0cd9a78"
+      }
+    },
+    {
+      "id": "loupe-service-2243-braceletClasp-9",
+      "brand": "ROLEX",
+      "references": [
+        "278278"
+      ],
+      "representativeFor": [
+        "278278"
+      ],
+      "variant": "31 mm yellow-gold Datejust / champagne ten-diamond dial / fluted bezel / President bracelet",
+      "category": "braceletClasp",
+      "title": "278278 — braceletClasp",
+      "caption": "Actual fitted gold President bracelet and closed concealed clasp. The card identifies bracelet 83368 and champagne ten-diamond dial; internal clasp marks are not photographed and remain unsupported.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/f41e754b4b3c6c2fb15fc74f3c38c43b59b5c8c1-4040x4040.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-datejust-278278-18k-yg-champagne-diamond-dial",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 2243: all 15 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. 31mmyellowgoldchampagnediamondDatejustPresident front0 closedback5 card12exact278278bracelet83368; noopenedmovement oropenclasp15gallery soleaveclaspmarkingsunsupported, wholebracelet9canrepresentconstructionlabelclosedclasp. Source: https://loupethis.com/auctions/rolex-datejust-278278-18k-yg-champagne-diamond-dial",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "ad5a39bd669b27d30c4a36127d215ec6fc14c751f95285af297a15b441af8a74"
+      }
+    },
+    {
+      "id": "loupe-service-4163-front-0",
+      "brand": "ROLEX",
+      "references": [
+        "5508"
+      ],
+      "representativeFor": [
+        "5508"
+      ],
+      "variant": "38 mm steel Submariner / aged black service dial and hands / small crown and no guards / fitted rivet Oyster with later replacement clasp",
+      "category": "front",
+      "title": "5508 — front",
+      "caption": "Actual dial, hands, bezel and case of the labelled representative specimen. Other dial, bracelet and full catalogue suffix configurations are not implied.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/2f81e44ce723a52925d13c0ca066a7ef3883f482-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-submariner-5508-service-dial",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 4163: all 17 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. Agedblacktritiumservice dial/hands steelno-dateSubmariner smallcrown no guards,sourceexplicitservice; front0 closedback5 clasp12 actual62510H apparentlaterJubileemark clasp on Oyster inspectfull; physicalref13 opened15 needfullcalstamps execution. Opened15 fullres actual1530 rotor25jewels, balancecockregulator +/- visible spiral, internal5508 III1958, specimenoxidation/servicenotes. Fullresclasp12actual62510H/B Jubilee-coded later replacement fitted to Oyster, explicitly mixedequipment notoriginal1958baseline. Source: https://loupethis.com/auctions/rolex-submariner-5508-service-dial",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "b2c7d3070d71b6635e204493f2ecc447b1275bb4ae33f78c7e6498803b0dfbc5"
+      }
+    },
+    {
+      "id": "loupe-service-4163-caseback-5",
+      "brand": "ROLEX",
+      "references": [
+        "5508"
+      ],
+      "representativeFor": [
+        "5508"
+      ],
+      "variant": "38 mm steel Submariner / aged black service dial and hands / small crown and no guards / fitted rivet Oyster with later replacement clasp",
+      "category": "caseback",
+      "title": "5508 — caseback",
+      "caption": "Actual closed caseback and its external construction. Surface wear and any service history belong to this specimen; no opening is required to compare this view.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/8fc448b516f393198a5f97b7e4dbaca3665b7b2e-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-submariner-5508-service-dial",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 4163: all 17 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. Agedblacktritiumservice dial/hands steelno-dateSubmariner smallcrown no guards,sourceexplicitservice; front0 closedback5 clasp12 actual62510H apparentlaterJubileemark clasp on Oyster inspectfull; physicalref13 opened15 needfullcalstamps execution. Opened15 fullres actual1530 rotor25jewels, balancecockregulator +/- visible spiral, internal5508 III1958, specimenoxidation/servicenotes. Fullresclasp12actual62510H/B Jubilee-coded later replacement fitted to Oyster, explicitly mixedequipment notoriginal1958baseline. Source: https://loupethis.com/auctions/rolex-submariner-5508-service-dial",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "9c9284b69d7ac361091d38386ede55a399f8dae176df76ffe9e11e663600c120"
+      }
+    },
+    {
+      "id": "loupe-service-4163-braceletClasp-12",
+      "brand": "ROLEX",
+      "references": [
+        "5508"
+      ],
+      "representativeFor": [
+        "5508"
+      ],
+      "variant": "38 mm steel Submariner / aged black service dial and hands / small crown and no guards / fitted rivet Oyster with later replacement clasp",
+      "category": "braceletClasp",
+      "title": "5508 — braceletClasp",
+      "caption": "Actual signed fitted clasp and bracelet construction; originality of this particular bracelet is not established. The actual clasp reads STEELINOX / 62510H / B. This later Jubilee-coded replacement clasp is fitted to the photographed Oyster bracelet; it is not an original circa-1958 bracelet/clasp baseline.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/a025585d9adcdb021108ba248a2ebc18c1056058-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-submariner-5508-service-dial",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 4163: all 17 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. Agedblacktritiumservice dial/hands steelno-dateSubmariner smallcrown no guards,sourceexplicitservice; front0 closedback5 clasp12 actual62510H apparentlaterJubileemark clasp on Oyster inspectfull; physicalref13 opened15 needfullcalstamps execution. Opened15 fullres actual1530 rotor25jewels, balancecockregulator +/- visible spiral, internal5508 III1958, specimenoxidation/servicenotes. Fullresclasp12actual62510H/B Jubilee-coded later replacement fitted to Oyster, explicitly mixedequipment notoriginal1958baseline. Source: https://loupethis.com/auctions/rolex-submariner-5508-service-dial",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "3638b36da66cca722d0c11c99bef4044356f9269dc0ebb6832494d829efbe787"
+      }
+    },
+    {
+      "id": "loupe-service-4163-detail-13",
+      "brand": "ROLEX",
+      "references": [
+        "5508"
+      ],
+      "representativeFor": [
+        "5508"
+      ],
+      "variant": "38 mm steel Submariner / aged black service dial and hands / small crown and no guards / fitted rivet Oyster with later replacement clasp",
+      "category": "detail",
+      "title": "5508 — detail",
+      "caption": "Actual physical case-reference stamp 5508 paired with this photographed specimen. Serial numbers and internal shared-part numbers are not reference aliases.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/2e3b13cb400a67d627097f9144b525d4b97e2375-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-submariner-5508-service-dial",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 4163: all 17 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. Agedblacktritiumservice dial/hands steelno-dateSubmariner smallcrown no guards,sourceexplicitservice; front0 closedback5 clasp12 actual62510H apparentlaterJubileemark clasp on Oyster inspectfull; physicalref13 opened15 needfullcalstamps execution. Opened15 fullres actual1530 rotor25jewels, balancecockregulator +/- visible spiral, internal5508 III1958, specimenoxidation/servicenotes. Fullresclasp12actual62510H/B Jubilee-coded later replacement fitted to Oyster, explicitly mixedequipment notoriginal1958baseline. Source: https://loupethis.com/auctions/rolex-submariner-5508-service-dial",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "5feaa425ffc4e2c85a649e2ae7b0b910dfa39cd1c76b9bd64558edddeb775e7a"
+      }
+    },
+    {
+      "id": "loupe-service-4163-movement-15",
+      "brand": "ROLEX",
+      "references": [
+        "5508"
+      ],
+      "representativeFor": [
+        "5508"
+      ],
+      "variant": "38 mm steel Submariner / aged black service dial and hands / small crown and no guards / fitted rivet Oyster with later replacement clasp",
+      "category": "movement",
+      "title": "5508 — movement",
+      "caption": "Actual 1530 calibre marking in this paired opened watch, engraved rotor, balance cock, regulator and visible hairspring. No generic same-calibre substitution; the same frame also shows the internal back.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/8416678ee88067a4dfeea72d8e70c4557c792456-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-submariner-5508-service-dial",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 4163: all 17 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. Agedblacktritiumservice dial/hands steelno-dateSubmariner smallcrown no guards,sourceexplicitservice; front0 closedback5 clasp12 actual62510H apparentlaterJubileemark clasp on Oyster inspectfull; physicalref13 opened15 needfullcalstamps execution. Opened15 fullres actual1530 rotor25jewels, balancecockregulator +/- visible spiral, internal5508 III1958, specimenoxidation/servicenotes. Fullresclasp12actual62510H/B Jubilee-coded later replacement fitted to Oyster, explicitly mixedequipment notoriginal1958baseline. Source: https://loupethis.com/auctions/rolex-submariner-5508-service-dial",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "fc5f515d93c5ce01b1e60625a4ef581fa46d1bbc55a243bd84bc9b58ce608380"
+      }
+    },
+    {
+      "id": "loupe-service-4163-caseback-15",
+      "brand": "ROLEX",
+      "references": [
+        "5508"
+      ],
+      "representativeFor": [
+        "5508"
+      ],
+      "variant": "38 mm steel Submariner / aged black service dial and hands / small crown and no guards / fitted rivet Oyster with later replacement clasp",
+      "category": "caseback",
+      "title": "5508 — caseback",
+      "caption": "Actual internal Rolex caseback with 5508 / III.1958 markings beside the paired opened watch. Internal part numbers and handwritten service notes are not new reference aliases.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/8416678ee88067a4dfeea72d8e70c4557c792456-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-submariner-5508-service-dial",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 4163: all 17 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. Agedblacktritiumservice dial/hands steelno-dateSubmariner smallcrown no guards,sourceexplicitservice; front0 closedback5 clasp12 actual62510H apparentlaterJubileemark clasp on Oyster inspectfull; physicalref13 opened15 needfullcalstamps execution. Opened15 fullres actual1530 rotor25jewels, balancecockregulator +/- visible spiral, internal5508 III1958, specimenoxidation/servicenotes. Fullresclasp12actual62510H/B Jubilee-coded later replacement fitted to Oyster, explicitly mixedequipment notoriginal1958baseline. Source: https://loupethis.com/auctions/rolex-submariner-5508-service-dial",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "fc5f515d93c5ce01b1e60625a4ef581fa46d1bbc55a243bd84bc9b58ce608380"
+      },
+      "depictsMovement": true
+    },
+    {
+      "id": "loupe-service-3077-front-0",
+      "brand": "ROLEX",
+      "references": [
+        "6204"
+      ],
+      "representativeFor": [
+        "6204"
+      ],
+      "variant": "37.5 mm steel Submariner / black tritium service dial and hands / small crown and no guards / fitted Oyster bracelet",
+      "category": "front",
+      "title": "6204 — front",
+      "caption": "Actual dial, hands, bezel and case of the labelled representative specimen. Other dial, bracelet and full catalogue suffix configurations are not implied.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/9a5390b06cd67ef3ad78339c67ef9f084d5fef03-3150x3150.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-submariner-6204-tritium-service-dial-and-hands",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 3077: all 17 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. Agedblackservice dial/hands steelSubmariner smallcrown no guards laterOyster front0 closed5 clasp12 case13 opened15 bigbubblebackrotor;fullcalstampsrequired. Opened15 has earlybubblebackrotor and visible17jewels patentchronometermarking, no readablecalibrestamp; sourceA260 needsdocumentedexecutionproof otherwisemovementgap. Internal6205struckthroughand6204below not6205alias. Fullresref14reads6204;13SERIAL7949478 mustnotattachasref. Source: https://loupethis.com/auctions/rolex-submariner-6204-tritium-service-dial-and-hands",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "fa5ccadedfc779957dd7f452b4ca347e1741eafc1742aafbbb60d108890c0900"
+      }
+    },
+    {
+      "id": "loupe-service-3077-caseback-5",
+      "brand": "ROLEX",
+      "references": [
+        "6204"
+      ],
+      "representativeFor": [
+        "6204"
+      ],
+      "variant": "37.5 mm steel Submariner / black tritium service dial and hands / small crown and no guards / fitted Oyster bracelet",
+      "category": "caseback",
+      "title": "6204 — caseback",
+      "caption": "Actual closed caseback and its external construction. Surface wear and any service history belong to this specimen; no opening is required to compare this view.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/439025864d9e5ac0c66c9549e541055b4a2dba70-3150x3150.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-submariner-6204-tritium-service-dial-and-hands",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 3077: all 17 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. Agedblackservice dial/hands steelSubmariner smallcrown no guards laterOyster front0 closed5 clasp12 case13 opened15 bigbubblebackrotor;fullcalstampsrequired. Opened15 has earlybubblebackrotor and visible17jewels patentchronometermarking, no readablecalibrestamp; sourceA260 needsdocumentedexecutionproof otherwisemovementgap. Internal6205struckthroughand6204below not6205alias. Fullresref14reads6204;13SERIAL7949478 mustnotattachasref. Source: https://loupethis.com/auctions/rolex-submariner-6204-tritium-service-dial-and-hands",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "cbaaf5ea89ecaf372a080b79aa8c99d5eaae4d9a051c276ea68ec2f96a76759c"
+      }
+    },
+    {
+      "id": "loupe-service-3077-braceletClasp-12",
+      "brand": "ROLEX",
+      "references": [
+        "6204"
+      ],
+      "representativeFor": [
+        "6204"
+      ],
+      "variant": "37.5 mm steel Submariner / black tritium service dial and hands / small crown and no guards / fitted Oyster bracelet",
+      "category": "braceletClasp",
+      "title": "6204 — braceletClasp",
+      "caption": "Actual signed fitted clasp and bracelet construction; originality of this particular bracelet is not established. Actual embossed Rolex / PATENTED & REGISTERED / SWISS MADE / STEELINOX folding clasp, as fitted; no circa-1953 factory-original bracelet claim.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/eaaf3e515bdd6070a72dbbe43faa84d409611ad4-3150x3150.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-submariner-6204-tritium-service-dial-and-hands",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 3077: all 17 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. Agedblackservice dial/hands steelSubmariner smallcrown no guards laterOyster front0 closed5 clasp12 case13 opened15 bigbubblebackrotor;fullcalstampsrequired. Opened15 has earlybubblebackrotor and visible17jewels patentchronometermarking, no readablecalibrestamp; sourceA260 needsdocumentedexecutionproof otherwisemovementgap. Internal6205struckthroughand6204below not6205alias. Fullresref14reads6204;13SERIAL7949478 mustnotattachasref. Source: https://loupethis.com/auctions/rolex-submariner-6204-tritium-service-dial-and-hands",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "05f2a9a3db6fae25344db8e1ba9095bbfeaf618f2123c50d68e9b44803d8b21f"
+      }
+    },
+    {
+      "id": "loupe-service-3077-detail-14",
+      "brand": "ROLEX",
+      "references": [
+        "6204"
+      ],
+      "representativeFor": [
+        "6204"
+      ],
+      "variant": "37.5 mm steel Submariner / black tritium service dial and hands / small crown and no guards / fitted Oyster bracelet",
+      "category": "detail",
+      "title": "6204 — detail",
+      "caption": "Actual physical case-reference stamp 6204 paired with this photographed specimen. Serial numbers and internal shared-part numbers are not reference aliases.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/a8b84038ae029e065bb3dc5548326401952bd5a3-3009x3009.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-submariner-6204-tritium-service-dial-and-hands",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 3077: all 17 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. Agedblackservice dial/hands steelSubmariner smallcrown no guards laterOyster front0 closed5 clasp12 case13 opened15 bigbubblebackrotor;fullcalstampsrequired. Opened15 has earlybubblebackrotor and visible17jewels patentchronometermarking, no readablecalibrestamp; sourceA260 needsdocumentedexecutionproof otherwisemovementgap. Internal6205struckthroughand6204below not6205alias. Fullresref14reads6204;13SERIAL7949478 mustnotattachasref. Source: https://loupethis.com/auctions/rolex-submariner-6204-tritium-service-dial-and-hands",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "d8672d531eb2bc6e96a2806e4f2d60ca447cdb19c153171867598a93397e80a0"
+      }
+    },
+    {
+      "id": "loupe-service-3077-caseback-15",
+      "brand": "ROLEX",
+      "references": [
+        "6204"
+      ],
+      "representativeFor": [
+        "6204"
+      ],
+      "variant": "37.5 mm steel Submariner / black tritium service dial and hands / small crown and no guards / fitted Oyster bracelet",
+      "category": "caseback",
+      "title": "6204 — caseback",
+      "caption": "Actual internal Rolex caseback with 6205 struck through, with 6204 underneath markings beside the paired opened watch. Internal part numbers and handwritten service notes are not new reference aliases. The source describes A260, but the exact calibre marking and execution are not sufficiently established in the available photograph; Movement remains empty.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/96773186634982ac39882d148758d285dd67b79d-3572x3571.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-submariner-6204-tritium-service-dial-and-hands",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 3077: all 17 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. Agedblackservice dial/hands steelSubmariner smallcrown no guards laterOyster front0 closed5 clasp12 case13 opened15 bigbubblebackrotor;fullcalstampsrequired. Opened15 has earlybubblebackrotor and visible17jewels patentchronometermarking, no readablecalibrestamp; sourceA260 needsdocumentedexecutionproof otherwisemovementgap. Internal6205struckthroughand6204below not6205alias. Fullresref14reads6204;13SERIAL7949478 mustnotattachasref. Source: https://loupethis.com/auctions/rolex-submariner-6204-tritium-service-dial-and-hands",
+        "imageDimensions": [
+          2000,
+          1999
+        ],
+        "imageSha256": "a7c7a08b9f68b5685e28468480d3c89c85b3621d860f5a7aa3381dd81be7a68a"
+      },
+      "depictsMovement": true
+    },
+    {
+      "id": "loupe-service-2925-front-0",
+      "brand": "ROLEX",
+      "references": [
+        "6205"
+      ],
+      "representativeFor": [
+        "6205"
+      ],
+      "variant": "37 mm steel Submariner / black tritium service dial / small crown and no guards / fitted Oyster bracelet",
+      "category": "front",
+      "title": "6205 — front",
+      "caption": "Actual dial, hands, bezel and case of the labelled representative specimen. Other dial, bracelet and full catalogue suffix configurations are not implied.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/e7330c51d70953aa5b0594e11ee7283f29532d59-3150x3150.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-submariner-6205-tritium-service-dial",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 2925: all 17 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. Agedblackservicedial no-depthtext steelSubmariner smallcrownnoguards laterOyster front0 closed5 clasp12 case13 opened15; needfullcalstamps. Opened15 earlybubblebackrotor no readablecalibrestamp; internal6205; sourceA260 requiresadditional documentedproof ormovementgap. Source: https://loupethis.com/auctions/rolex-submariner-6205-tritium-service-dial",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "2e8d199c9b8e65c4fb1664dd427e2f7dd4fbb47f34ece86121092164d04c7a9a"
+      }
+    },
+    {
+      "id": "loupe-service-2925-caseback-5",
+      "brand": "ROLEX",
+      "references": [
+        "6205"
+      ],
+      "representativeFor": [
+        "6205"
+      ],
+      "variant": "37 mm steel Submariner / black tritium service dial / small crown and no guards / fitted Oyster bracelet",
+      "category": "caseback",
+      "title": "6205 — caseback",
+      "caption": "Actual closed caseback and its external construction. Surface wear and any service history belong to this specimen; no opening is required to compare this view.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/912418d0e1c13aad9e365d3944509a794967870d-3150x3150.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-submariner-6205-tritium-service-dial",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 2925: all 17 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. Agedblackservicedial no-depthtext steelSubmariner smallcrownnoguards laterOyster front0 closed5 clasp12 case13 opened15; needfullcalstamps. Opened15 earlybubblebackrotor no readablecalibrestamp; internal6205; sourceA260 requiresadditional documentedproof ormovementgap. Source: https://loupethis.com/auctions/rolex-submariner-6205-tritium-service-dial",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "ea03164e987a209bc87218e674de138658c79cc8366ab5216e2ad39c9ea43321"
+      }
+    },
+    {
+      "id": "loupe-service-2925-braceletClasp-12",
+      "brand": "ROLEX",
+      "references": [
+        "6205"
+      ],
+      "representativeFor": [
+        "6205"
+      ],
+      "variant": "37 mm steel Submariner / black tritium service dial / small crown and no guards / fitted Oyster bracelet",
+      "category": "braceletClasp",
+      "title": "6205 — braceletClasp",
+      "caption": "Actual signed fitted clasp and bracelet construction; originality of this particular bracelet is not established. Actual embossed Rolex / PATENTED & REGISTERED / SWISS MADE / STEELINOX folding clasp, as fitted; no circa-1953 factory-original bracelet claim.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/38c2ebcaa7f2c2aa51790a6a57e79f17ad57d928-3237x3237.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-submariner-6205-tritium-service-dial",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 2925: all 17 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. Agedblackservicedial no-depthtext steelSubmariner smallcrownnoguards laterOyster front0 closed5 clasp12 case13 opened15; needfullcalstamps. Opened15 earlybubblebackrotor no readablecalibrestamp; internal6205; sourceA260 requiresadditional documentedproof ormovementgap. Source: https://loupethis.com/auctions/rolex-submariner-6205-tritium-service-dial",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "887e443f01be44434a6ddf505e660e1ddbec3be52f95f755156ec2ada0303f5c"
+      }
+    },
+    {
+      "id": "loupe-service-2925-detail-13",
+      "brand": "ROLEX",
+      "references": [
+        "6205"
+      ],
+      "representativeFor": [
+        "6205"
+      ],
+      "variant": "37 mm steel Submariner / black tritium service dial / small crown and no guards / fitted Oyster bracelet",
+      "category": "detail",
+      "title": "6205 — detail",
+      "caption": "Actual physical case-reference stamp 6205 paired with this photographed specimen. Serial numbers and internal shared-part numbers are not reference aliases.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/3a1bb720f0ddefd1e15c5e9e0ecde4bbe147e845-3150x3150.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-submariner-6205-tritium-service-dial",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 2925: all 17 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. Agedblackservicedial no-depthtext steelSubmariner smallcrownnoguards laterOyster front0 closed5 clasp12 case13 opened15; needfullcalstamps. Opened15 earlybubblebackrotor no readablecalibrestamp; internal6205; sourceA260 requiresadditional documentedproof ormovementgap. Source: https://loupethis.com/auctions/rolex-submariner-6205-tritium-service-dial",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "4934f41f5e9a6ae4a19a5552c1e949d2e97f19b4c46554531151f92fece5c580"
+      }
+    },
+    {
+      "id": "loupe-service-2925-caseback-15",
+      "brand": "ROLEX",
+      "references": [
+        "6205"
+      ],
+      "representativeFor": [
+        "6205"
+      ],
+      "variant": "37 mm steel Submariner / black tritium service dial / small crown and no guards / fitted Oyster bracelet",
+      "category": "caseback",
+      "title": "6205 — caseback",
+      "caption": "Actual internal Rolex caseback with 6205 markings beside the paired opened watch. Internal part numbers and handwritten service notes are not new reference aliases. The source describes A260, but the exact calibre marking and execution are not sufficiently established in the available photograph; Movement remains empty.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/fc2af7661b6ec3ce40ae4c14b353f11a767af7e4-3844x3844.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-submariner-6205-tritium-service-dial",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 2925: all 17 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. Agedblackservicedial no-depthtext steelSubmariner smallcrownnoguards laterOyster front0 closed5 clasp12 case13 opened15; needfullcalstamps. Opened15 earlybubblebackrotor no readablecalibrestamp; internal6205; sourceA260 requiresadditional documentedproof ormovementgap. Source: https://loupethis.com/auctions/rolex-submariner-6205-tritium-service-dial",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "830ffb3135df2956ab315a0fa4514de8fc30e3026ca92bbee4c3197c6a0483d1"
+      },
+      "depictsMovement": true
+    },
+    {
+      "id": "loupe-service-5101-front-0",
+      "brand": "ROLEX",
+      "references": [
+        "6538"
+      ],
+      "representativeFor": [
+        "6538"
+      ],
+      "variant": "38 mm steel Submariner / black service dial and hands / large crown and no guards / aftermarket striped nylon strap",
+      "category": "front",
+      "title": "6538 — front",
+      "caption": "Actual dial, hands, bezel and case of the labelled representative specimen. Other dial, bracelet and full catalogue suffix configurations are not implied.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/2673743dbef45e7eb9fe86eb1ea058163fa6eb34-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-submariner-6538-service-dial-big-crown",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 5101: all 18 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. BigcrownsteelSubmarinerblackservicedialwithdepthtext stripedaftermarketnylon strap/buckle13 marked20mm noRolexidentity; front0 closed6 physicalcase14 opened16; fullmovementreadneeded; noRolexbraceletbaseline. Opened16actual1030butterflyrotor plusregulatedbalancecock internal6538 I59. Source: https://loupethis.com/auctions/rolex-submariner-6538-service-dial-big-crown",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "e4d73e872817abb78d06ec05029b16b5172375dd07f0e62fbb7ffd5e6cb87e50"
+      }
+    },
+    {
+      "id": "loupe-service-5101-caseback-6",
+      "brand": "ROLEX",
+      "references": [
+        "6538"
+      ],
+      "representativeFor": [
+        "6538"
+      ],
+      "variant": "38 mm steel Submariner / black service dial and hands / large crown and no guards / aftermarket striped nylon strap",
+      "category": "caseback",
+      "title": "6538 — caseback",
+      "caption": "Actual closed caseback and its external construction. Surface wear and any service history belong to this specimen; no opening is required to compare this view.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/f6afb5838afafb803c246daf027bc94398c53ed4-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-submariner-6538-service-dial-big-crown",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 5101: all 18 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. BigcrownsteelSubmarinerblackservicedialwithdepthtext stripedaftermarketnylon strap/buckle13 marked20mm noRolexidentity; front0 closed6 physicalcase14 opened16; fullmovementreadneeded; noRolexbraceletbaseline. Opened16actual1030butterflyrotor plusregulatedbalancecock internal6538 I59. Source: https://loupethis.com/auctions/rolex-submariner-6538-service-dial-big-crown",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "6d15ed79610545804fe78095ee3b8ddc24fa31512b12631c098ef53e003e9d74"
+      }
+    },
+    {
+      "id": "loupe-service-5101-detail-14",
+      "brand": "ROLEX",
+      "references": [
+        "6538"
+      ],
+      "representativeFor": [
+        "6538"
+      ],
+      "variant": "38 mm steel Submariner / black service dial and hands / large crown and no guards / aftermarket striped nylon strap",
+      "category": "detail",
+      "title": "6538 — detail",
+      "caption": "Actual physical case-reference stamp 6538 paired with this photographed specimen. Serial numbers and internal shared-part numbers are not reference aliases.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/1668ad789929b76fa5caea53506478d2e5007c24-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-submariner-6538-service-dial-big-crown",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 5101: all 18 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. BigcrownsteelSubmarinerblackservicedialwithdepthtext stripedaftermarketnylon strap/buckle13 marked20mm noRolexidentity; front0 closed6 physicalcase14 opened16; fullmovementreadneeded; noRolexbraceletbaseline. Opened16actual1030butterflyrotor plusregulatedbalancecock internal6538 I59. Source: https://loupethis.com/auctions/rolex-submariner-6538-service-dial-big-crown",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "f4198599c85ad7c2ebefb26dfee187c98f886d9fa4fd2a794f7a82e74594332d"
+      }
+    },
+    {
+      "id": "loupe-service-5101-movement-16",
+      "brand": "ROLEX",
+      "references": [
+        "6538"
+      ],
+      "representativeFor": [
+        "6538"
+      ],
+      "variant": "38 mm steel Submariner / black service dial and hands / large crown and no guards / aftermarket striped nylon strap",
+      "category": "movement",
+      "title": "6538 — movement",
+      "caption": "Actual 1030 calibre marking in this paired opened watch, engraved rotor, balance cock, regulator and visible hairspring. No generic same-calibre substitution; the same frame also shows the internal back.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/734ddd08aea36f462326d560d6b0017979d5b804-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-submariner-6538-service-dial-big-crown",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 5101: all 18 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. BigcrownsteelSubmarinerblackservicedialwithdepthtext stripedaftermarketnylon strap/buckle13 marked20mm noRolexidentity; front0 closed6 physicalcase14 opened16; fullmovementreadneeded; noRolexbraceletbaseline. Opened16actual1030butterflyrotor plusregulatedbalancecock internal6538 I59. Source: https://loupethis.com/auctions/rolex-submariner-6538-service-dial-big-crown",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "c4670bc883f1e68818f6900c8ded07acf3892367461d87399ee3e512810acfc8"
+      }
+    },
+    {
+      "id": "loupe-service-5101-caseback-16",
+      "brand": "ROLEX",
+      "references": [
+        "6538"
+      ],
+      "representativeFor": [
+        "6538"
+      ],
+      "variant": "38 mm steel Submariner / black service dial and hands / large crown and no guards / aftermarket striped nylon strap",
+      "category": "caseback",
+      "title": "6538 — caseback",
+      "caption": "Actual internal Rolex caseback with 6538 / I59 markings beside the paired opened watch. Internal part numbers and handwritten service notes are not new reference aliases. The source year 1955 differs from the photographed I59 back date; no exact manufacture-year claim is made.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/734ddd08aea36f462326d560d6b0017979d5b804-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/rolex-submariner-6538-service-dial-big-crown",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:50:44.547963+00:00",
+        "loadedAt": "2026-10-11T08:50:44.547963+00:00",
+        "evidence": "Loupe This lot 5101: all 18 actual gallery photographs visually inspected; selected identifying marks, opened photographs and clasp views checked at full resolution. BigcrownsteelSubmarinerblackservicedialwithdepthtext stripedaftermarketnylon strap/buckle13 marked20mm noRolexidentity; front0 closed6 physicalcase14 opened16; fullmovementreadneeded; noRolexbraceletbaseline. Opened16actual1030butterflyrotor plusregulatedbalancecock internal6538 I59. Source: https://loupethis.com/auctions/rolex-submariner-6538-service-dial-big-crown",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "c4670bc883f1e68818f6900c8ded07acf3892367461d87399ee3e512810acfc8"
+      },
+      "depictsMovement": true
+    },
+    {
+      "id": "breitling-audit-a13362-front",
+      "brand": "BREITLING",
+      "references": [
+        "A13362"
+      ],
+      "representativeFor": [
+        "A13362"
+      ],
+      "variant": "44.8 mm steel Bentley GT / burgundy dial with white subdials / fitted brown leather strap",
+      "category": "front",
+      "title": "A13362 — watch front",
+      "caption": "Actual photographed dial, chronograph counters, day/date, hands, knurled bezel and steel case. The specialist model page identifies A13362 only. The fitted leather strap is representative; no full dial/bracelet suffix is inferred. Limited 300 x 300 source resolution: useful for layout comparison, not fine engraving or finishing. Original source watermark retained.",
+      "image": "https://www.breitlingsource.com/images/watches/gt_01.jpg",
+      "source": "https://www.breitlingsource.com/watch_details/Bentley_43.html",
+      "credit": "BreitlingSource.com",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specialist gallery audit 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:56:08.682414+00:00",
+        "loadedAt": "2026-10-11T08:56:08.682414+00:00",
+        "evidence": "The specialist page lists A13362 as its sole reference. Actual photographed physical specimen inspected at original 300 x 300 resolution: natural reflections, wear/texture and depth-of-field visible. All source-gallery images were visually inspected. No neighbouring-model or generic-movement substitution. Source: https://www.breitlingsource.com/watch_details/Bentley_43.html",
+        "imageDimensions": [
+          300,
+          300
+        ],
+        "imageSha256": "36542143e7b4aa7ecbb69f043eed2295052e86a713c719f6d1843aa29e443d9f"
+      }
+    },
+    {
+      "id": "breitling-audit-a59028-front",
+      "brand": "BREITLING",
+      "references": [
+        "A59028"
+      ],
+      "representativeFor": [
+        "A59028"
+      ],
+      "variant": "41.5 mm steel Jupiter Pilot / black dial and white chronograph counters / fitted leather strap",
+      "category": "front",
+      "title": "A59028 — watch front",
+      "caption": "Actual photographed dial, hands, slide-rule bezel and steel case of the specialist-identified A59028 Jupiter Pilot. The date and quartz chronograph layout are visible; no opened movement or factory bracelet is shown. Limited 300 x 300 source resolution: useful for layout comparison, not fine engraving or finishing. Original source watermark retained.",
+      "image": "https://www.breitlingsource.com/images/watches/jupiter_pilot_01.jpg",
+      "source": "https://www.breitlingsource.com/watch_details/Navitimer_134.html",
+      "credit": "BreitlingSource.com",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specialist gallery audit 2026-10-11",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-11T08:56:08.682414+00:00",
+        "loadedAt": "2026-10-11T08:56:08.682414+00:00",
+        "evidence": "The specialist page lists A59028 as its sole reference. Actual photographed physical specimen inspected at original 300 x 300 resolution: natural reflections, wear/texture and depth-of-field visible. All source-gallery images were visually inspected. No neighbouring-model or generic-movement substitution. Source: https://www.breitlingsource.com/watch_details/Navitimer_134.html",
+        "imageDimensions": [
+          300,
+          300
+        ],
+        "imageSha256": "bb0318f9967057f1d386c46872e92d88f58e164615beb973717afabe6b38ab57"
+      }
+    },
+    {
+      "id": "loupe-cartier-4763-front-0",
+      "brand": "CARTIER",
+      "references": [
+        "WSSA0039",
+        "4072"
+      ],
+      "representativeFor": [
+        "WSSA0039",
+        "4072"
+      ],
+      "variant": "Santos de Cartier WSSA0039 / case 4072 / black ADLC steel / grey-black Roman dial / fitted black rubber strap and Cartier folding clasp",
+      "category": "front",
+      "title": "WSSA0039 / 4072 — front",
+      "caption": "Actual grey-black Roman dial, hands, black ADLC bezel and steel case of this WSSA0039 specimen, on its fitted black rubber strap. This labelled configuration represents the photographed 4072 case; other dial or strap configurations are not implied.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/767cbfb926cc104c7b2367e1f48bb171d3c93b04-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/cartier-santos-de-cartier-wssa0039-adlc-2",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-12",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-12T07:30:20.284229+00:00",
+        "loadedAt": "2026-10-12T07:30:20.284229+00:00",
+        "evidence": "Loupe This lot 4763: all 21 actual gallery photographs visually inspected in contact sheets; front 0, caseback 5 and 14, signed clasp 15 and warranty card 18 inspected at full resolution. Card explicitly identifies WSSA0039 / BLACK ADLC STEEL and serial 4072426146BX; actual back separately stamps case number 4072 and serial 426146BX. The paired card and physical back document 4072 as a representative case-reference match for this particular WSSA0039 specimen, without implying every 4072 configuration. No opened movement is pictured. Source: https://loupethis.com/auctions/cartier-santos-de-cartier-wssa0039-adlc-2",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "b9d1814848c2ccd073267b2813c2b489295d800f7b785298021c11b2cab862e8"
+      }
+    },
+    {
+      "id": "loupe-cartier-4763-caseback-5",
+      "brand": "CARTIER",
+      "references": [
+        "WSSA0039",
+        "4072"
+      ],
+      "representativeFor": [
+        "WSSA0039",
+        "4072"
+      ],
+      "variant": "Santos de Cartier WSSA0039 / case 4072 / black ADLC steel / grey-black Roman dial / fitted black rubber strap and Cartier folding clasp",
+      "category": "caseback",
+      "title": "WSSA0039 / 4072 — caseback",
+      "caption": "Actual closed back: Cartier, SWISS MADE, AUTOMATIC, WATER RESISTANT 100m, STAINLESS STEEL and physical case number 4072. Auction/service stickers partly cover the signature; those stickers are specimen-specific, not factory markings.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/7e4131c10d9c298b73156600e5e5f9c960037455-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/cartier-santos-de-cartier-wssa0039-adlc-2",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-12",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-12T07:30:20.284229+00:00",
+        "loadedAt": "2026-10-12T07:30:20.284229+00:00",
+        "evidence": "Loupe This lot 4763: all 21 actual gallery photographs visually inspected in contact sheets; front 0, caseback 5 and 14, signed clasp 15 and warranty card 18 inspected at full resolution. Card explicitly identifies WSSA0039 / BLACK ADLC STEEL and serial 4072426146BX; actual back separately stamps case number 4072 and serial 426146BX. The paired card and physical back document 4072 as a representative case-reference match for this particular WSSA0039 specimen, without implying every 4072 configuration. No opened movement is pictured. Source: https://loupethis.com/auctions/cartier-santos-de-cartier-wssa0039-adlc-2",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "ef7f30b2ab76185b9bd22cbf601e6b46fcfad9e18e321ff30a3d82bb726636a1"
+      }
+    },
+    {
+      "id": "loupe-cartier-4763-detail-14",
+      "brand": "CARTIER",
+      "references": [
+        "WSSA0039",
+        "4072"
+      ],
+      "representativeFor": [
+        "WSSA0039",
+        "4072"
+      ],
+      "variant": "Santos de Cartier WSSA0039 / case 4072 / black ADLC steel / grey-black Roman dial / fitted black rubber strap and Cartier folding clasp",
+      "category": "detail",
+      "title": "WSSA0039 / 4072 — detail",
+      "caption": "Closer actual caseback view showing separate 4072 case number and 426146BX serial. The paired warranty card explicitly identifies WSSA0039; the serial prefix alone is not used as reference evidence.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/92f26e5a74d382430521ad021a19302cdf53bde5-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/cartier-santos-de-cartier-wssa0039-adlc-2",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-12",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-12T07:30:20.284229+00:00",
+        "loadedAt": "2026-10-12T07:30:20.284229+00:00",
+        "evidence": "Loupe This lot 4763: all 21 actual gallery photographs visually inspected in contact sheets; front 0, caseback 5 and 14, signed clasp 15 and warranty card 18 inspected at full resolution. Card explicitly identifies WSSA0039 / BLACK ADLC STEEL and serial 4072426146BX; actual back separately stamps case number 4072 and serial 426146BX. The paired card and physical back document 4072 as a representative case-reference match for this particular WSSA0039 specimen, without implying every 4072 configuration. No opened movement is pictured. Source: https://loupethis.com/auctions/cartier-santos-de-cartier-wssa0039-adlc-2",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "27bf28cbc874f9b00ac31678055f995715d1ba8211d63433308f390db83ed470"
+      }
+    },
+    {
+      "id": "loupe-cartier-4763-braceletClasp-15",
+      "brand": "CARTIER",
+      "references": [
+        "WSSA0039",
+        "4072"
+      ],
+      "representativeFor": [
+        "WSSA0039",
+        "4072"
+      ],
+      "variant": "Santos de Cartier WSSA0039 / case 4072 / black ADLC steel / grey-black Roman dial / fitted black rubber strap and Cartier folding clasp",
+      "category": "braceletClasp",
+      "title": "WSSA0039 / 4072 — braceletClasp",
+      "caption": "Actual Cartier-signed folding clasp and fitted black rubber strap construction. This specimen has a strap, not a steel bracelet; unphotographed internal part codes and factory-original status are not inferred.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/1688c3f04bbf1a91e4b991b39ad2ee310fcaaf9a-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/cartier-santos-de-cartier-wssa0039-adlc-2",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-12",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-12T07:30:20.284229+00:00",
+        "loadedAt": "2026-10-12T07:30:20.284229+00:00",
+        "evidence": "Loupe This lot 4763: all 21 actual gallery photographs visually inspected in contact sheets; front 0, caseback 5 and 14, signed clasp 15 and warranty card 18 inspected at full resolution. Card explicitly identifies WSSA0039 / BLACK ADLC STEEL and serial 4072426146BX; actual back separately stamps case number 4072 and serial 426146BX. The paired card and physical back document 4072 as a representative case-reference match for this particular WSSA0039 specimen, without implying every 4072 configuration. No opened movement is pictured. Source: https://loupethis.com/auctions/cartier-santos-de-cartier-wssa0039-adlc-2",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "5c35bd33b70705df122f305fed9daed0889ba4f408b7cfc89ce66ff1cbef289b"
+      }
+    },
+    {
+      "id": "loupe-moonwatch-4565-front-0",
+      "brand": "OMEGA",
+      "references": [
+        "310.30.42.50.01.001"
+      ],
+      "representativeFor": [
+        "310.30.42.50.01.001"
+      ],
+      "variant": "42 mm steel Speedmaster Moonwatch Professional / black stepped dial / Hesalite crystal / closed steel back / fitted steel bracelet",
+      "category": "front",
+      "title": "310.30.42.50.01.001 — front",
+      "caption": "Actual dial, hands, black tachymeter bezel and steel case of this fully identified black-dial Hesalite configuration. Other Moonwatch dial, crystal, strap and reference variants are not implied.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/b7851e53c1dee172f7f0813e3c3345f51328a29c-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-12",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-12T07:33:26.393897+00:00",
+        "loadedAt": "2026-10-12T07:33:26.393897+00:00",
+        "evidence": "Loupe This lot 4565: all 24 gallery photographs inspected in contact sheets; selected front 0, back 5, signed clasp 12 and matching full-reference paperwork 20 inspected at full resolution. Black-dial Hesalite closed-back specimen: actual lug serial 84472670 matches full-reference paperwork. No opened movement is photographed; the card naming 3861 is not movement-image evidence. Source: https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "3b1491bbe169975545f6800630fe9c1bd4a2be1e3213603f408e223c411a38ac"
+      }
+    },
+    {
+      "id": "loupe-moonwatch-4565-caseback-5",
+      "brand": "OMEGA",
+      "references": [
+        "310.30.42.50.01.001"
+      ],
+      "representativeFor": [
+        "310.30.42.50.01.001"
+      ],
+      "variant": "42 mm steel Speedmaster Moonwatch Professional / black stepped dial / Hesalite crystal / closed steel back / fitted steel bracelet",
+      "category": "caseback",
+      "title": "310.30.42.50.01.001 — caseback",
+      "caption": "Actual closed steel back: central Speedmaster hippocampus; FLIGHT-QUALIFIED BY NASA IN 1965 FOR ALL MANNED SPACE MISSIONS / THE FIRST WATCH WORN ON THE MOON, with CO-AXIAL MASTER CHRONOMETER / PROFESSIONAL MOONWATCH inscriptions. No display-back variant is implied.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/7f838515d77e41473addf53689989d4d2fb3471c-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-12",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-12T07:33:26.393897+00:00",
+        "loadedAt": "2026-10-12T07:33:26.393897+00:00",
+        "evidence": "Loupe This lot 4565: all 24 gallery photographs inspected in contact sheets; selected front 0, back 5, signed clasp 12 and matching full-reference paperwork 20 inspected at full resolution. Black-dial Hesalite closed-back specimen: actual lug serial 84472670 matches full-reference paperwork. No opened movement is photographed; the card naming 3861 is not movement-image evidence. Source: https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "8adf6bc8e5e7f9d7f77efd4da73f35859a53040ff5723c862481008dd3c9672e"
+      }
+    },
+    {
+      "id": "loupe-moonwatch-4565-braceletClasp-12",
+      "brand": "OMEGA",
+      "references": [
+        "310.30.42.50.01.001"
+      ],
+      "representativeFor": [
+        "310.30.42.50.01.001"
+      ],
+      "variant": "42 mm steel Speedmaster Moonwatch Professional / black stepped dial / Hesalite crystal / closed steel back / fitted steel bracelet",
+      "category": "braceletClasp",
+      "title": "310.30.42.50.01.001 — braceletClasp",
+      "caption": "Actual fitted folding clasp: Omega signature, STAINLESS STEEL and STZ013899 / GIH / 50 visible markings. These production codes describe the photographed specimen; they are not universal codes for every example of this reference.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/2ce039770e7062242cab78a6abd7f73f925bb375-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-12",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-12T07:33:26.393897+00:00",
+        "loadedAt": "2026-10-12T07:33:26.393897+00:00",
+        "evidence": "Loupe This lot 4565: all 24 gallery photographs inspected in contact sheets; selected front 0, back 5, signed clasp 12 and matching full-reference paperwork 20 inspected at full resolution. Black-dial Hesalite closed-back specimen: actual lug serial 84472670 matches full-reference paperwork. No opened movement is photographed; the card naming 3861 is not movement-image evidence. Source: https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "f101a0e98a9783f0bad5b2f4e037775aae0baa06ef933a0ad694c94b06f0fcf5"
+      }
+    },
+    {
+      "id": "loupe-moonwatch-4277-front-0",
+      "brand": "OMEGA",
+      "references": [
+        "310.30.42.50.04.001"
+      ],
+      "representativeFor": [
+        "310.30.42.50.04.001"
+      ],
+      "variant": "42 mm steel Speedmaster Moonwatch Professional / white dial with red Speedmaster signature / sapphire display back / fitted steel bracelet",
+      "category": "front",
+      "title": "310.30.42.50.04.001 — front",
+      "caption": "Actual dial, hands, black tachymeter bezel and steel case of this fully identified white-dial sapphire configuration. Other Moonwatch dial, crystal, strap and reference variants are not implied.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/c53c3b5504da731822aa887b6a6d07dcd97b907a-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-12",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-12T07:33:26.393897+00:00",
+        "loadedAt": "2026-10-12T07:33:26.393897+00:00",
+        "evidence": "Loupe This lot 4277: all 25 gallery photographs inspected in contact sheets; selected front 0, back 5, signed clasp 14 and matching full-reference paperwork 20 inspected at full resolution. White-dial sapphire display-back specimen: actual movement bridge reads OMEGA 3861 / MASTER CO-AXIAL; actual movement serial 88463628 matches the reference card. Visible rhodium-finished manual chronograph, balance cock and bridge execution belong to this paired specimen. Source: https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "26c6ce38ce5b9b0bdc64b0fb08ad09c01df625aa4a14e0e6c18ecba4e1087ce8"
+      }
+    },
+    {
+      "id": "loupe-moonwatch-4277-caseback-5",
+      "brand": "OMEGA",
+      "references": [
+        "310.30.42.50.04.001"
+      ],
+      "representativeFor": [
+        "310.30.42.50.04.001"
+      ],
+      "variant": "42 mm steel Speedmaster Moonwatch Professional / white dial with red Speedmaster signature / sapphire display back / fitted steel bracelet",
+      "category": "caseback",
+      "title": "310.30.42.50.04.001 — caseback",
+      "caption": "Actual closed sapphire display back: THE FIRST WATCH WORN ON THE MOON / CO-AXIAL / MASTER CHRONOMETER, with the paired 3861 visible through the crystal. This photograph required no opening; it is still a movement-depicting image for restricted-image handling.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/65c6313b19665cfd4e757f276c4b9d2c6535c46e-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-12",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-12T07:33:26.393897+00:00",
+        "loadedAt": "2026-10-12T07:33:26.393897+00:00",
+        "evidence": "Loupe This lot 4277: all 25 gallery photographs inspected in contact sheets; selected front 0, back 5, signed clasp 14 and matching full-reference paperwork 20 inspected at full resolution. White-dial sapphire display-back specimen: actual movement bridge reads OMEGA 3861 / MASTER CO-AXIAL; actual movement serial 88463628 matches the reference card. Visible rhodium-finished manual chronograph, balance cock and bridge execution belong to this paired specimen. Source: https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "d3028782c4048646e83f195b8a37d5d1edf24b1e681926dd8ce83cfcf38fc422"
+      },
+      "depictsMovement": true
+    },
+    {
+      "id": "loupe-moonwatch-4277-braceletClasp-14",
+      "brand": "OMEGA",
+      "references": [
+        "310.30.42.50.04.001"
+      ],
+      "representativeFor": [
+        "310.30.42.50.04.001"
+      ],
+      "variant": "42 mm steel Speedmaster Moonwatch Professional / white dial with red Speedmaster signature / sapphire display back / fitted steel bracelet",
+      "category": "braceletClasp",
+      "title": "310.30.42.50.04.001 — braceletClasp",
+      "caption": "Actual fitted folding clasp: Omega signature, STAINLESS STEEL and STZ013899 / IIG / 11 visible markings. These production codes describe the photographed specimen; they are not universal codes for every example of this reference.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/126339e2539ad2e8ab94591f2e6def6d084fba4b-2400x2400.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-12",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-12T07:33:26.393897+00:00",
+        "loadedAt": "2026-10-12T07:33:26.393897+00:00",
+        "evidence": "Loupe This lot 4277: all 25 gallery photographs inspected in contact sheets; selected front 0, back 5, signed clasp 14 and matching full-reference paperwork 20 inspected at full resolution. White-dial sapphire display-back specimen: actual movement bridge reads OMEGA 3861 / MASTER CO-AXIAL; actual movement serial 88463628 matches the reference card. Visible rhodium-finished manual chronograph, balance cock and bridge execution belong to this paired specimen. Source: https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "c6613e1abf45f3985e3dca94e69bfe52cf0f98587baf4db93b992321154d59fb"
+      }
+    },
+    {
+      "id": "loupe-moonwatch-4277-movement-5",
+      "brand": "OMEGA",
+      "references": [
+        "310.30.42.50.04.001"
+      ],
+      "representativeFor": [
+        "310.30.42.50.04.001"
+      ],
+      "variant": "42 mm steel Speedmaster Moonwatch Professional / white dial with red Speedmaster signature / sapphire display back / fitted steel bracelet",
+      "category": "movement",
+      "title": "310.30.42.50.04.001 — movement",
+      "caption": "Actual rhodium-finished manual Omega 3861 MASTER CO-AXIAL movement visible through this paired sapphire back: bridge engraving, manual chronograph layout, balance cock and visible hairspring execution. The photographed movement serial matches the full-reference card; no generic 3861 image is substituted. No opening is required for this view.",
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/65c6313b19665cfd4e757f276c4b9d2c6535c46e-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+      "credit": "Loupe This",
+      "mediaKind": "photograph",
+      "origin": "visually inspected specimen research 2026-10-12",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-12T07:33:26.393897+00:00",
+        "loadedAt": "2026-10-12T07:33:26.393897+00:00",
+        "evidence": "Loupe This lot 4277: all 25 gallery photographs inspected in contact sheets; selected front 0, back 5, signed clasp 14 and matching full-reference paperwork 20 inspected at full resolution. White-dial sapphire display-back specimen: actual movement bridge reads OMEGA 3861 / MASTER CO-AXIAL; actual movement serial 88463628 matches the reference card. Visible rhodium-finished manual chronograph, balance cock and bridge execution belong to this paired specimen. Source: https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+        "imageDimensions": [
+          2000,
+          2000
+        ],
+        "imageSha256": "d3028782c4048646e83f195b8a37d5d1edf24b1e681926dd8ce83cfcf38fc422"
       }
     }
   ]

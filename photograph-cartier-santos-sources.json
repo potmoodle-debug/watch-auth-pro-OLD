@@ -1,0 +1,512 @@
+{
+  "reviewedAt": "2026-10-12T07:30:20.284229+00:00",
+  "completion": "IN PROGRESS",
+  "galleriesInspected": 1,
+  "imageOccurrencesInspected": 21,
+  "source": "https://loupethis.com/auctions/cartier-santos-de-cartier-wssa0039-adlc-2",
+  "credit": "Loupe This",
+  "lot": "4763",
+  "acceptedReferenceKeys": [
+    "WSSA0039",
+    "4072"
+  ],
+  "specimenDescription": [
+    {
+      "title": "Introduction",
+      "bodyCopy": [
+        {
+          "markDefs": [],
+          "children": [
+            {
+              "marks": [],
+              "text": "Debuting at SIHH 2018 as a fresh and modern take on one of Cartier's many iconic models, the Santos, the Santos De Cartier is an exciting timepiece that has recently undergone a well-deserved explosion in popularity. Tastefully revamping the Santos' design language to pay homage to the iconic history of the collection to which it belongs, the Santos De Cartier has played an important role in popularising Cartier’s modern creations in recent years, while also bringing one of its most important models to the forefront of the horology. With a large array of variants, the Santos de Cartier speaks to the design strengths of Cartier with its variety of sizes, colors, materials, and more, all aiding in its growing popularity. Offered here, we have the ref. WSSA0039 – a large-sized ADLC (Amorphous Diamond-Like Carbon)-coated stainless steel variant that boasts a 39.8mm square-shaped case, a signature Cartier dial design with white Roman numeral, and black hands atop a black backdrop and a wonderful automatic cal. 1847 MC movement. Of course, as a result of this movement the ref. WSSA0039 measures in at a rather thin 9.38mm tall and thus references Cartier’s past as a creator of all things elegant with regards to their other watch collections and jewelry. Combining the Santos de Cartier’s heritage-inspired design with modern watchmaking excellence, the WSSA0039 showcases Cartier’s capacity as a modern watchmaker to create impressive designed, with its black rubber strap including a design imprint that makes it look like a metal bracelet, complete with real screws that cap off its look as the final cherry on top.",
+              "_key": "8f88e920621a",
+              "_type": "span"
+            }
+          ],
+          "_type": "block",
+          "style": "normal",
+          "_key": "46ba88b01895"
+        }
+      ],
+      "_key": "d1d12f491673",
+      "_type": "titleLeftBodyRight"
+    },
+    {
+      "included": "Box and Papers",
+      "range": {
+        "_type": "range",
+        "start": 4000,
+        "end": 6000
+      },
+      "_key": "4f543b8d8d0e",
+      "_type": "auctionScorecard",
+      "grade": "M 9",
+      "status": "Vetted & Approved"
+    },
+    {
+      "year": "2022",
+      "included": "Watch, box, and papers",
+      "_type": "twoColumnTable",
+      "model": "Santos de Cartier",
+      "dimensions": "47.5mm x 39.8mm",
+      "reference": "WSSA0039 / 4072",
+      "condition": "Near mint",
+      "material": "Stainless steel with ADLC ",
+      "brand": "Cartier",
+      "dialColor": "Black",
+      "movement": "Automatic cal. 1847 MC",
+      "bracelet": "Rubber strap",
+      "_key": "f0bacdc03e5c"
+    },
+    {
+      "_key": "0d197430fd44",
+      "_type": "threeUpImageModule",
+      "imageComponents": [
+        {
+          "caption": [
+            {
+              "style": "h5",
+              "_key": "2782d92f9849",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "marks": [],
+                  "text": "THE DIAL",
+                  "_key": "3e93d2779e30"
+                }
+              ],
+              "_type": "block"
+            },
+            {
+              "children": [
+                {
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Perhaps one of the most recognizable dials in all of watchmaking, this Santos de Cartier features Cartier's signature dial design but with a dark black backdrop boasting white Roman numerals, a railroad minute track, and blued steel hands. ",
+                  "_key": "b867fa1750b5"
+                }
+              ],
+              "_type": "block",
+              "style": "normal",
+              "_key": "7b29472b105a",
+              "markDefs": []
+            }
+          ],
+          "_key": "8201c490833c",
+          "image": {
+            "_type": "imageField",
+            "alt": "THE DIAL",
+            "asset": {
+              "_ref": "image-ea47a94be53f592aecf8f7f353dc2e0dc6091293-3770x3770-jpg",
+              "_type": "reference"
+            }
+          }
+        },
+        {
+          "_key": "4575b8a5c442",
+          "image": {
+            "asset": {
+              "_type": "reference",
+              "_ref": "image-ef0d48f272682d62256a5ed69f2d66872af518b6-3770x3770-jpg"
+            },
+            "_type": "imageField",
+            "alt": "THE CONSTRUCTION"
+          },
+          "caption": [
+            {
+              "children": [
+                {
+                  "text": "THE CONSTRUCTION",
+                  "_key": "cca57b30722d",
+                  "_type": "span",
+                  "marks": []
+                }
+              ],
+              "_type": "block",
+              "style": "h5",
+              "_key": "95d6b9f9d3ad",
+              "markDefs": []
+            },
+            {
+              "markDefs": [],
+              "children": [
+                {
+                  "text": "Boasting the Santos' iconic square-shaped case in a black ADLC-coating, the WSSA0039 is a stealthy and under-the-radar timepiece that combines heritage with a sense of modernity that is perfectly represented by the WSSA0039's black rubber strap, which includes a design that makes it look like an ADLC-coated stainless steel integrated bracelet. ",
+                  "_key": "1fc52644c4a5",
+                  "_type": "span",
+                  "marks": []
+                }
+              ],
+              "_type": "block",
+              "style": "normal",
+              "_key": "51d18bda8947"
+            }
+          ]
+        },
+        {
+          "_key": "98f314355c73",
+          "image": {
+            "alt": "TIMING MACHINE READOUT",
+            "asset": {
+              "_ref": "image-cd4024ad61d0560cc02fe54d4e35f752022560f1-750x750-jpg",
+              "_type": "reference"
+            },
+            "_type": "imageField"
+          },
+          "caption": [
+            {
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "marks": [
+                    "strong"
+                  ],
+                  "text": "TIMING MACHINE READOUT",
+                  "_key": "c230e5ad5b000"
+                }
+              ],
+              "_type": "block",
+              "style": "h5",
+              "_key": "63a227d48262"
+            },
+            {
+              "markDefs": [],
+              "children": [
+                {
+                  "_key": "d76b7d70dcbd0",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "This reading was taken (crown down) with a ONEOF Accuracy Boutique Edition timing machine at time of cataloging. It is provided as a courtesy only, and shall not be construed as a warranty or guarantee of any kind. Please refer to our terms and conditions of sale for more information."
+                }
+              ],
+              "_type": "block",
+              "style": "normal",
+              "_key": "741f83041412"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bodyCopy": [
+        {
+          "style": "normal",
+          "_key": "ac6313cd57a7",
+          "markDefs": [],
+          "children": [
+            {
+              "marks": [],
+              "text": "Watch is in overall near-mint condition. The DLC-coated steel case shows light signs of careful wear, with a few pin-prick marks to the coating mainly visible from the rear. The dial and hands remain like new. It is fitted with a rubber strap and a steel deployant clasp, both remaining in near-mint condition. Comes complete with inner and outer boxes, warranty card and tool.",
+              "_key": "ac9d40447b48",
+              "_type": "span"
+            }
+          ],
+          "_type": "block"
+        }
+      ],
+      "_key": "6985ad09d93a",
+      "_type": "titleLeftBodyRight",
+      "title": "Condition"
+    },
+    {
+      "_key": "cc50944c5586",
+      "_type": "titleLeftBodyRight",
+      "title": "Our Perspective",
+      "bodyCopy": [
+        {
+          "_key": "485f341a75ff",
+          "markDefs": [],
+          "children": [
+            {
+              "marks": [],
+              "text": "A wonderfully designed timepiece that blends tradition with a forward-looking ethos, the Santos de Cartier successfully celebrates Cartier's heritage while also enabling them to remain relevant and up to date on current market trends.  We especially love the quick-release bracelet on these newer Cartiers that make the strap switching a breeze.  ",
+              "_key": "0e3e91fb2b3d",
+              "_type": "span"
+            }
+          ],
+          "_type": "block",
+          "style": "normal"
+        }
+      ],
+      "authorProfiles": [
+        {
+          "image": {
+            "asset": {
+              "_type": "reference",
+              "_ref": "image-e583b84f0b924ae364b7b663405f05f9aa7e8c16-2175x2258-jpg"
+            },
+            "_type": "imageField"
+          },
+          "_id": "08967c9c-8436-4841-b6cd-920ca9db96d8",
+          "_type": "author",
+          "name": "Eric Ku",
+          "jobTitle": "Co-founder"
+        }
+      ]
+    }
+  ],
+  "evidence": "Loupe This lot 4763: all 21 actual gallery photographs visually inspected in contact sheets; front 0, caseback 5 and 14, signed clasp 15 and warranty card 18 inspected at full resolution. Card explicitly identifies WSSA0039 / BLACK ADLC STEEL and serial 4072426146BX; actual back separately stamps case number 4072 and serial 426146BX. The paired card and physical back document 4072 as a representative case-reference match for this particular WSSA0039 specimen, without implying every 4072 configuration. No opened movement is pictured. Source: https://loupethis.com/auctions/cartier-santos-de-cartier-wssa0039-adlc-2",
+  "acceptedPhotographIds": [
+    "loupe-cartier-4763-front-0",
+    "loupe-cartier-4763-caseback-5",
+    "loupe-cartier-4763-detail-14",
+    "loupe-cartier-4763-braceletClasp-15"
+  ],
+  "inspectedImages": [
+    {
+      "reference": "WSSA0039",
+      "source": "https://loupethis.com/auctions/cartier-santos-de-cartier-wssa0039-adlc-2",
+      "index": 0,
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/767cbfb926cc104c7b2367e1f48bb171d3c93b04-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256": "b9d1814848c2ccd073267b2813c2b489295d800f7b785298021c11b2cab862e8"
+    },
+    {
+      "reference": "WSSA0039",
+      "source": "https://loupethis.com/auctions/cartier-santos-de-cartier-wssa0039-adlc-2",
+      "index": 1,
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/98f8ac3e556b8fb9b42af542be66afd7a1beda71-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256": "a12e197fee2737b9e07b1f86cd0058198441c2d74b700d5460be425e35d147cd"
+    },
+    {
+      "reference": "WSSA0039",
+      "source": "https://loupethis.com/auctions/cartier-santos-de-cartier-wssa0039-adlc-2",
+      "index": 2,
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/4f1379b9b71e7e11ae43f238a5976ffaacc7f2ba-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256": "290699a8cde9f2e08bb356944d8ff94ed8af4fe2b613740ec237fe4562a905a8"
+    },
+    {
+      "reference": "WSSA0039",
+      "source": "https://loupethis.com/auctions/cartier-santos-de-cartier-wssa0039-adlc-2",
+      "index": 3,
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/15b63beb8b3ddd3f4048c2466f2e062ccc83b39c-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256": "644caacf6c23732e8f8327a41d1832a8f287a461452b13a15f9077b12e738ab8"
+    },
+    {
+      "reference": "WSSA0039",
+      "source": "https://loupethis.com/auctions/cartier-santos-de-cartier-wssa0039-adlc-2",
+      "index": 4,
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/ef8bc98d8ed303b9269920444b88578993d2389a-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256": "4f5261ed09d044aa6fce674007f40367cdc3881c1bdd2c72e575d6a36d5f895a"
+    },
+    {
+      "reference": "WSSA0039",
+      "source": "https://loupethis.com/auctions/cartier-santos-de-cartier-wssa0039-adlc-2",
+      "index": 5,
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/7e4131c10d9c298b73156600e5e5f9c960037455-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256": "ef7f30b2ab76185b9bd22cbf601e6b46fcfad9e18e321ff30a3d82bb726636a1"
+    },
+    {
+      "reference": "WSSA0039",
+      "source": "https://loupethis.com/auctions/cartier-santos-de-cartier-wssa0039-adlc-2",
+      "index": 6,
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/24c6073485e6873e88b21012e6f3f3682443432e-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256": "4f0ee64ea400c678ecb57af8a0239fcfe64450d8f7c4967b86162af16b4bbf99"
+    },
+    {
+      "reference": "WSSA0039",
+      "source": "https://loupethis.com/auctions/cartier-santos-de-cartier-wssa0039-adlc-2",
+      "index": 7,
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/dbb9422dfb8f12b9bb6cbba75d76434ef4c82f34-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256": "ddf0e37a9607276a187756eb0d28db54d9f41cc33f8dc87cb689ca8ef29def06"
+    },
+    {
+      "reference": "WSSA0039",
+      "source": "https://loupethis.com/auctions/cartier-santos-de-cartier-wssa0039-adlc-2",
+      "index": 8,
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/17b14fd06cd70b15acc50a7f1b5e882d26be2266-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256": "bcd730ec9d3bdf8eaae41b631031a4d14d467d48def58290a2b0cbe06674e6d5"
+    },
+    {
+      "reference": "WSSA0039",
+      "source": "https://loupethis.com/auctions/cartier-santos-de-cartier-wssa0039-adlc-2",
+      "index": 9,
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/d604398218d3217bfc2ca8239cc75b30ddb1de1d-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256": "d34db9120ac35068199cfa0827b0413382e590e936960cca54c610c9b77389ee"
+    },
+    {
+      "reference": "WSSA0039",
+      "source": "https://loupethis.com/auctions/cartier-santos-de-cartier-wssa0039-adlc-2",
+      "index": 10,
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/75c92be349df121daf61d541d42df512090a35a8-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256": "9e231bf3f323a5811626b1205b49f5cf56ec10c7eaf1db228640d62fc721c92e"
+    },
+    {
+      "reference": "WSSA0039",
+      "source": "https://loupethis.com/auctions/cartier-santos-de-cartier-wssa0039-adlc-2",
+      "index": 11,
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/ea47a94be53f592aecf8f7f353dc2e0dc6091293-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256": "00ed79e1f004de11872a96c4e2da32b89ffad4c76f0b0ccba8ce487c5cf4d6da"
+    },
+    {
+      "reference": "WSSA0039",
+      "source": "https://loupethis.com/auctions/cartier-santos-de-cartier-wssa0039-adlc-2",
+      "index": 12,
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/1722d37ac58aea59b89b620a597ca769eeb3d85a-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256": "30d95609a572a1ff9cb3e09cd55ddb8513d46b1e90cdddcd71e32dd43861fd85"
+    },
+    {
+      "reference": "WSSA0039",
+      "source": "https://loupethis.com/auctions/cartier-santos-de-cartier-wssa0039-adlc-2",
+      "index": 13,
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/72da2458fd35e803207a187ee63ee5450d374ddc-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256": "24c880fac63012cd9c480466ff412272b9bc8c1d2268d4b2c81c574227b5df02"
+    },
+    {
+      "reference": "WSSA0039",
+      "source": "https://loupethis.com/auctions/cartier-santos-de-cartier-wssa0039-adlc-2",
+      "index": 14,
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/92f26e5a74d382430521ad021a19302cdf53bde5-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256": "27bf28cbc874f9b00ac31678055f995715d1ba8211d63433308f390db83ed470"
+    },
+    {
+      "reference": "WSSA0039",
+      "source": "https://loupethis.com/auctions/cartier-santos-de-cartier-wssa0039-adlc-2",
+      "index": 15,
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/1688c3f04bbf1a91e4b991b39ad2ee310fcaaf9a-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256": "5c35bd33b70705df122f305fed9daed0889ba4f408b7cfc89ce66ff1cbef289b"
+    },
+    {
+      "reference": "WSSA0039",
+      "source": "https://loupethis.com/auctions/cartier-santos-de-cartier-wssa0039-adlc-2",
+      "index": 16,
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/fa47203bb04c219cb114185b0b7202f46ada0d17-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256": "dc0fb8b57fca3025f3545cec27d5d3cdced804f8b53b497b85da5ae35f48a4b1"
+    },
+    {
+      "reference": "WSSA0039",
+      "source": "https://loupethis.com/auctions/cartier-santos-de-cartier-wssa0039-adlc-2",
+      "index": 17,
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/1a253c079c067cc2d2c0b36f41f1cbf00d7a8060-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256": "7f77224720a1cd64db32bc5d176103f00a322f0291a7188716c23bb576b22d85"
+    },
+    {
+      "reference": "WSSA0039",
+      "source": "https://loupethis.com/auctions/cartier-santos-de-cartier-wssa0039-adlc-2",
+      "index": 18,
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/6bb6f59e9d311af3cebe8e67b9082a61ea74d656-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256": "a4583f0483be971c01f0bae024e8322af474f0df2476673555f1f379ece92eae"
+    },
+    {
+      "reference": "WSSA0039",
+      "source": "https://loupethis.com/auctions/cartier-santos-de-cartier-wssa0039-adlc-2",
+      "index": 19,
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/cf60a92bae94bfe671ab0366e25ef3adb393d611-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256": "a6f1a0b3c7aa5fbcc23c07f6280678230b6e35e8ec1682f37d1c432ece3c7157"
+    },
+    {
+      "reference": "WSSA0039",
+      "source": "https://loupethis.com/auctions/cartier-santos-de-cartier-wssa0039-adlc-2",
+      "index": 20,
+      "image": "https://cdn.sanity.io/images/j0ua8uvr/production/ef0d48f272682d62256a5ed69f2d66872af518b6-3770x3770.jpg?w=2000&q=90&fit=clip",
+      "status": "decoded",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "sha256": "65a825a928d94df146b36f64a5a783155d0919e8af852a46217de090cd91af44"
+    }
+  ]
+}

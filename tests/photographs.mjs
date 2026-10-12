@@ -47,7 +47,7 @@ test('pending, rejected, uninspected, rendering and unproven movement assets are
  assert.equal(verifiedPhotograph(fixture({image:'javascript:alert(1)'})),false);
 });
 test('safety restrictions suppress movement images while preserving external photographs',()=>{
- const front=fixture(),movement=fixture({id:'movement',category:'movement'});
+ const front=fixture(),movement=fixture({id:'movement',category:'movement',image:'https://example.invalid/movement.jpg'});
  assert.equal(matchingPhotographs([front,movement],'Tudor','25600TN').length,2);
  assert.deepEqual(matchingPhotographs([front,movement],'Tudor','25600TN',{externalOnly:true}).map(p=>p.category),['front']);
 });
@@ -327,4 +327,70 @@ test('photographed Rolex configurations keep Jubilee, dial and numeric case boun
  assert.match(get('126200').find(p=>p.category==='front').variant,/Wimbledon.*Jubilee/);
  assert.match(get('116900').find(p=>p.category==='caseback').caption,/not a standard 116900 baseline/);
  assert.ok(matchingPhotographs(photos,'Rolex','116000',{externalOnly:true}).every(p=>p.category!=='movement'));
+});
+
+
+test('external-only lookups suppress opened photographs reused under other categories',()=>{
+ const front=fixture(),movement=fixture({id:'movement-restricted',category:'movement',image:'https://example.invalid/opened.jpg',review:{...fixture().review,imageSha256:'same-file'}});
+ const back=fixture({id:'back-restricted',category:'caseback',image:movement.image});
+ const alternateUrl=fixture({id:'alternate-opened',category:'caseback',image:'https://example.invalid/another-url.jpg',review:{...fixture().review,imageSha256:'same-file'}});
+ const unverifiedMovementBack=fixture({id:'unverified-movement-back',category:'caseback',depictsMovement:true,image:'https://example.invalid/unverified-opened.jpg'});
+ const closed=fixture({id:'closed',category:'caseback',image:'https://example.invalid/closed.jpg'});
+ const catalogue=[front,movement,back,alternateUrl,unverifiedMovementBack,closed];
+ assert.equal(matchingPhotographs(catalogue,'Tudor','25600TN').length,6);
+ assert.deepEqual(matchingPhotographs(catalogue,'Tudor','25600TN',{externalOnly:true}).map(p=>p.id),['fixture','closed']);
+});
+
+test('vintage physical case and calibre stamps override incorrect catalogue text',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=ref=>matchingPhotographs(photos,'Rolex',ref).filter(p=>p.id.startsWith('loupe-vintage-'));
+ for(const [ref,n] of [['14010M',6],['14270',5],['15000',6],['16628',5],['18039',5],['1807',5],['6694',4],['6542',5]])assert.equal(get(ref).length,n,ref);
+ for(const ref of ['14010','214270','1500','16620','18000','1803','6542-0001','6694-0001'])assert.equal(get(ref).length,0,ref);
+ for(const [ref,cal] of [['14010M','3130'],['14270','3000'],['15000','3035'],['16628','3135'],['18039','3055'],['1807','1556'],['6694','1225'],['6542','1066']])assert.ok(get(ref).find(p=>p.category==='movement').caption.includes(cal));
+ assert.match(get('6542').find(p=>p.category==='movement').caption,/listing says 1030 incorrectly/);
+ assert.match(get('6542').find(p=>p.category==='braceletClasp').caption,/MADE IN ENGLAND/);
+ for(const ref of ['14010M','14270','15000','16628','18039','1807','6694','6542']){
+  const restricted=matchingPhotographs(photos,'Rolex',ref,{externalOnly:true});
+  const opened=photos.filter(p=>p.category==='movement').map(p=>p.review.imageSha256||p.image);
+  assert.ok(restricted.every(p=>!opened.includes(p.review.imageSha256||p.image)&&p.depictsMovement!==true));
+  assert.ok(restricted.some(p=>p.category==='front'));
+ }
+ const uncertain=matchingPhotographs(photos,'Rolex','6426',{externalOnly:true});
+ assert.ok(uncertain.every(p=>p.depictsMovement!==true));
+});
+
+
+test('service specimens retain exact case, calibre and replacement-part boundaries',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=ref=>matchingPhotographs(photos,'Rolex',ref).filter(p=>p.id.startsWith('loupe-service-'));
+ for(const [ref,n] of [['126720VTNR',3],['226627',3],['228239',3],['268622',6],['278278',3],['5508',6],['6204',5],['6205',5],['6538',5]])assert.equal(get(ref).length,n,ref);
+ for(const ref of ['126720','126720VTNR-0001','6536','6536/1','2470','5508-0001'])assert.equal(get(ref).length,0,ref);
+ assert.match(get('268622').find(p=>p.category==='movement').caption,/2235 incorrectly.*2236/);
+ assert.match(get('5508').find(p=>p.category==='braceletClasp').caption,/later Jubilee-coded replacement clasp/);
+ assert.match(get('278278').find(p=>p.category==='braceletClasp').caption,/internal clasp marks are not photographed/);
+ for(const ref of ['126720VTNR','226627','228239','278278','6204','6205'])assert.ok(get(ref).every(p=>p.category!=='movement'));
+ assert.ok(get('6538').every(p=>p.category!=='braceletClasp'));
+ for(const ref of ['268622','5508','6204','6205','6538'])assert.ok(matchingPhotographs(photos,'Rolex',ref,{externalOnly:true}).every(p=>!p.depictsMovement));
+});
+test('restored Omega variants retain exact suffixes and restricted display-back handling',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,options)=>matchingPhotographs(photos,'Omega',ref,options).filter(p=>p.id.startsWith('loupe-moonwatch-'));
+ assert.equal(get('31030425001001').length,3);
+ assert.ok(get('310.30.42.50.01.001').every(p=>p.category!=='movement'));
+ assert.equal(get('310.30.42.50.04.001').length,4);
+ assert.match(get('310.30.42.50.04.001').find(p=>p.category==='movement').caption,/3861/);
+ const external=get('310.30.42.50.04.001',{externalOnly:true});
+ assert.deepEqual(external.map(p=>p.category).sort(),['braceletClasp','front']);
+ for(const ref of ['310.30.42.50.01.002','310.30.42.50.04.002','310.30.42.50','310'])assert.equal(get(ref).length,0,ref);
+ assert.equal(matchingPhotographs(photos,'Rolex','310.30.42.50.04.001').length,0);
+});
+
+test('restored Cartier case alias and Breitling specimen scope remain explicit',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=ref=>matchingPhotographs(photos,'Cartier',ref).filter(p=>p.id.startsWith('loupe-cartier-4763'));
+ assert.equal(get('WSSA0039').length,4);assert.equal(get('4072').length,4);
+ assert.ok(get('4072').every(p=>p.category!=='movement'));
+ for(const ref of ['WSSA0039-0001','WSSA0018','4073'])assert.equal(get(ref).length,0);
+ for(const ref of ['A13362','A59028'])assert.equal(matchingPhotographs(photos,'Breitling',ref).filter(p=>p.id.startsWith('breitling-audit-')).length,1);
+ assert.equal(matchingPhotographs(photos,'Breitling','A13362-0001').filter(p=>p.id.startsWith('breitling-audit-')).length,0);
 });
