@@ -1,0 +1,114 @@
+{
+  "reviewedAt": "2026-10-12T10:29:55.159Z",
+  "completion": "IN PROGRESS",
+  "specimens": [
+    {
+      "ref": "PAM00915",
+      "group": "915",
+      "source": "https://www.europeanwatch.com/watch/panerai-pam00915-luminor-8-days-ss-55458",
+      "credit": "European Watch Company",
+      "count": 7,
+      "variant": "44 mm steel Luminor 8 Giorni / black sandwich dial / fitted brown leather strap and signed pin buckle / closed-back specimen",
+      "evidence": "EWC stock 55458 identifies exact PAM00915. All seven actual gallery frames inspected; selected back and buckle viewed at full resolution. Closed brushed steel back marked OFFICINE PANERAI / FIRENZE 1860 / STAINLESS STEEL / 300 m, with identity digits seller-masked. Written manual P.5000 description does not supply movement imagery. Source conflicts about paper dating (July 2022 versus Undated); no confirmed period inferred.",
+      "views": [
+        [
+          0,
+          "front",
+          "Actual black sandwich Luminor dial with 8 GIORNI, small seconds at 9 and fitted brown leather strap. No claim of strap originality."
+        ],
+        [
+          5,
+          "caseback",
+          "Actual closed brushed steel back, FIRENZE 1860 / STAINLESS STEEL / 300 m. Seller-masked identity digits cannot be compared."
+        ],
+        [
+          4,
+          "braceletClasp",
+          "Actual PANERAI-signed steel pin buckle on fitted brown leather strap."
+        ]
+      ],
+      "gaps": {
+        "movement": "No opened movement photo in the inspected seven-frame gallery; source text alone does not establish photo coverage."
+      }
+    }
+  ],
+  "images": [
+    {
+      "ref": "915",
+      "i": 0,
+      "image": "https://images.europeanwatch.com/images/55/55458-1.jpg",
+      "httpStatus": 200,
+      "sha256": "c613012884a39a12345288c53d935c0c59b142e5881f3177f117475340a1c7b7",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "915",
+      "i": 1,
+      "image": "https://images.europeanwatch.com/images/55/55458-2.jpg",
+      "httpStatus": 200,
+      "sha256": "d7951585207fa17a7483625d222e06cce621b627315db6ed309ac926212318ef",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "915",
+      "i": 2,
+      "image": "https://images.europeanwatch.com/images/55/55458-3.jpg",
+      "httpStatus": 200,
+      "sha256": "5a18d3a0012263716a9c0407b51b91dc08b5885e2e86e0e6d2da40d2d9f33dfc",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "915",
+      "i": 3,
+      "image": "https://images.europeanwatch.com/images/55/55458-4.jpg",
+      "httpStatus": 200,
+      "sha256": "214f47b9db27c35f60b5fb97e1eb0de9d8346a02b80a52bbd56ccb8cef0541b7",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "915",
+      "i": 4,
+      "image": "https://images.europeanwatch.com/images/55/55458-5.jpg",
+      "httpStatus": 200,
+      "sha256": "f9fb3a298e0c4c15953596bbf13485d8f34a6dbad241fdc130aa182e7e7f29fa",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "915",
+      "i": 5,
+      "image": "https://images.europeanwatch.com/images/55/55458-6.jpg",
+      "httpStatus": 200,
+      "sha256": "5ea4c0654380dd1408b2eeec099ffc70ffa6bbde57b216b4f80b300b98f4a922",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "915",
+      "i": 6,
+      "image": "https://images.europeanwatch.com/images/55/55458-7.jpg",
+      "httpStatus": 200,
+      "sha256": "0ac3ec8b0921854380d8c460764dad5a0d15b4df45ffb48ca6b81f69e783def6",
+      "dimensions": [
+        1080,
+        864
+      ]
+    }
+  ]
+}

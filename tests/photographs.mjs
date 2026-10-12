@@ -394,3 +394,40 @@ test('restored Cartier case alias and Breitling specimen scope remain explicit',
  for(const ref of ['A13362','A59028'])assert.equal(matchingPhotographs(photos,'Breitling',ref).filter(p=>p.id.startsWith('breitling-audit-')).length,1);
  assert.equal(matchingPhotographs(photos,'Breitling','A13362-0001').filter(p=>p.id.startsWith('breitling-audit-')).length,0);
 });
+test('resumed Globemaster and Submersible research keeps unsupported movement and suffixes empty',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,options)=>matchingPhotographs(photos,'Omega',ref,options).filter(p=>p.id.startsWith('ewc-45681'));
+ assert.equal(get('13030392103001').length,3);assert.ok(get('130.30.39.21.03.001').every(p=>p.category!=='movement'));
+ assert.deepEqual(get('130.30.39.21.03.001',{externalOnly:true}).map(p=>p.category).sort(),['braceletClasp','front']);
+ for(const ref of ['130.30.39.21.02.001','130.33.39.21.03.001','130.30.39.21'])assert.equal(get(ref).length,0,ref);
+ const pan=matchingPhotographs(photos,'Panerai','PAM00024').filter(p=>p.id.startsWith('phillips-hk080216'));
+ assert.deepEqual(pan.map(p=>p.category),['front']);
+ assert.equal(matchingPhotographs(photos,'Panerai','PAM01024').filter(p=>p.id.startsWith('phillips-hk080216')).length,0);
+});
+test('Panerai specimen research preserves exact PAM, manual execution and absent views',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,options)=>matchingPhotographs(photos,'Panerai',ref,options).filter(p=>p.id.startsWith('panerai-pass-'));
+ for(const ref of ['PAM00091','PAM00287','PAM00380','PAM00557'])assert.equal(get(ref).length,3,ref);
+ for(const ref of ['PAM00091','PAM00287','PAM00380'])assert.ok(get(ref).every(p=>p.category!=='movement'));
+ assert.match(get('PAM00557').find(p=>p.category==='movement').caption,/manual.*P\.3000.*two-screw/);
+ assert.ok(get('PAM00557').every(p=>p.category!=='braceletClasp'));
+ assert.deepEqual(get('PAM00557',{externalOnly:true}).map(p=>p.category),['front']);
+ for(const ref of ['PAM00372','PAM00090','PAM00288','OP6558','OP6987','PAM00557-0001'])assert.equal(get(ref).length,0,ref);
+ assert.ok(get('PAM00380').every(p=>p.caption.includes('490 px')));
+});
+test('second Panerai batch keeps photographed manual executions and masked identities scoped',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,options)=>matchingPhotographs(photos,'Panerai',ref,options).filter(p=>p.id.startsWith('panerai-pass2-'));
+ assert.equal(get('PAM00574').length,4);
+ assert.match(get('PAM00574').find(p=>p.category==='movement').caption,/manual.*21 JEWELS.*two-screw/);
+ assert.equal(get('PAM00609').length,0);
+ const pending=photos.filter(p=>p.id.startsWith('panerai-pass2-pam00609'));assert.equal(pending.length,3);assert.ok(pending.every(p=>p.review.status==='pending'));assert.match(pending.find(p=>p.category==='movement').caption,/P\.5000.*020836.*two-screw/);
+ assert.ok(get('PAM00609').every(p=>p.category!=='braceletClasp'));
+ for(const ref of ['PAM00574','PAM00609'])assert.ok(get(ref,{externalOnly:true}).every(p=>!['movement','caseback'].includes(p.category)));
+ for(const ref of ['PAM01005','PAM01024']){assert.equal(get(ref).length,3);assert.ok(get(ref).every(p=>p.category!=='movement'));}
+ for(const ref of ['PAM00024','PAM00575','PAM00610','PAM01000','PAM01024-0001','PAM24'])assert.equal(get(ref).length,0,ref);
+});
+
+test('PAM00915 closed-back specimen cannot inherit a photographed P.5000 or neighbouring reference',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;const get=ref=>matchingPhotographs(photos,'Panerai',ref).filter(p=>p.id.startsWith('panerai-pass3-'));assert.deepEqual(get('PAM00915').map(p=>p.category).sort(),['braceletClasp','caseback','front']);for(const ref of ['PAM00914','PAM00916','PAM00609','PAM915'])assert.equal(get(ref).length,0,ref);
+});
