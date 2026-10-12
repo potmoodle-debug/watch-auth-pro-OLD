@@ -1,0 +1,47 @@
+{
+  "reviewedAt": "2026-10-12T14:17:48.868Z",
+  "completion": "IN PROGRESS",
+  "source": "https://www.europeanwatch.com/watch/cartier-w5000156-tank-francaise-yg-strap-13436",
+  "variant": "EWC stock13436 / W5000156 Tank Francaise / dealer 18k yellow gold attribution, silver Roman date dial and fitted black leather pin-buckle strap",
+  "evidence": "Original EWC explicitly identifies W5000156, 18k yellow gold and automatic/date. Five original actual photographs inspected. Silver guilloche Roman dial, blued hands, date six, CARTIER and SWISS MADE; blue cabochon crown. Actual closed four-screw back engraved Cartier/AUTOMATIC/WATER RESISTANT/750/1840 and identity 277550CE, with visible hallmarks. Actual gold-tone pin buckle underside Cartier/SWISS MADE and hallmark; black embossed leather, pale underside marked A04/MADE IN FRANCE. Gold fineness remains source attribution and observed inscription, not an assay. Strap/buckle originality unproven. No opened movement or physical calibre stamp. EWC dimensions 29x35mm differ from Christies lot313922 28x32.5mm; neither measurement independently resolved. Christies circa2000 and replacement calf strap belong to a separate specimen and are not transferred. No calibre120 or manufacture-year inference. No alias to generic Tank, other W500 suffixes or separate case1840 variants.",
+  "images": [
+    {
+      "i": 0,
+      "image": "https://images.europeanwatch.com/images/13/13436-1.jpg",
+      "httpStatus": 200,
+      "sha256": "f5c9a6b35edf7c6ef2dd1594499fe5bffd557b24ebd06993dbb8c9e6eb4d4413"
+    },
+    {
+      "i": 1,
+      "image": "https://images.europeanwatch.com/images/13/13436-2.jpg",
+      "httpStatus": 200,
+      "sha256": "fce81aad90dbe27646140edcf24f8c4931f727f74d9f3ce8f555eab4cfac2ed3"
+    },
+    {
+      "i": 4,
+      "image": "https://images.europeanwatch.com/images/13/13436-5.jpg",
+      "httpStatus": 200,
+      "sha256": "9a6d08d5fe6738054760cc11de17e25bf25eec9827f9e738e23fe0fd3e9080fa"
+    }
+  ],
+  "acceptedViews": [
+    {
+      "i": 0,
+      "category": "front"
+    },
+    {
+      "i": 1,
+      "category": "caseback"
+    },
+    {
+      "i": 4,
+      "category": "braceletClasp"
+    }
+  ],
+  "gaps": [
+    "No opened movement or physical calibre stamp.",
+    "Unresolved dimensional difference between original dealer and separate auction.",
+    "No independently established production period or strap originality.",
+    "Queue remains open; textual mapping and calibre need further work."
+  ]
+}

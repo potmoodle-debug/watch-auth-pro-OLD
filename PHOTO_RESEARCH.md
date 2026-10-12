@@ -11,7 +11,7 @@ repository must not be modified.
 Network access was verified first. GitHub and the BenchAuth live site return HTTP
 200. Of 1,564 distinct stored source URLs, 1,531 return HTTP 200 and 33 manufacturer
 Breitling URLs return HTTP 403. HTTP access and download counts **do not** establish
-visual review. The historical PR #16 checkpoint was bb26ced602af392fa2b1a55c2feffe527ab7c998 (Pages run 37977132750 succeeded). Current published and fully verified live checkpoint is PR #24 at eb2a0e3e0c4352120a87e18f629e368c0eee472d, with 843 verified entries and both catalogue/web image search; Pages run 38257400043 succeeded. Earlier unpublished/waiting descriptions below are preparation history. The eighteen Sinn additions below are published; their preparation notes retain the status at that time. The ninth-checkpoint additions below are published; earlier next-checkpoint descriptions record the status when those batches were prepared.
+visual review. The historical PR #16 checkpoint was bb26ced602af392fa2b1a55c2feffe527ab7c998 (Pages run 37977132750 succeeded). Current published and fully verified live checkpoint is PR #25 at 5a60d028ebb0a92720b19154f8be80e4fd759091, with 849 verified entries and both catalogue/web image search; Pages run 38259484711 succeeded. Earlier unpublished/waiting descriptions below are preparation history. The eighteen Sinn additions below are published; their preparation notes retain the status at that time. The ninth-checkpoint additions below are published; earlier next-checkpoint descriptions record the status when those batches were prepared.
 
 Rollback: GitHub branch `rollback/benchauth-before-photographs-20261008`, commit
 `b4ffc080c4dba6f55bb246377a24a3c2bf284052`. The original workspace recorded a local bundle at
@@ -25,24 +25,23 @@ Run `node scripts/build-photo-audit.mjs` to rebuild `photograph-coverage.json` a
 `photograph-coverage.csv`. The JSON includes source records, per-identifier category
 coverage, candidate IDs, evidence and exact counts. The CSV supports bench research.
 
-Current inventory: the shared BenchAuth database has 982 reference-fact rows
+Historical shared-count checkpoint: the BenchAuth database had 982 reference-fact rows
 (937 repository rules and 45 research updates), including 47 verified textual
-mappings. Those rows plus 1,465 imported catalogue variant records
-= **2,447 source records**. The finite literal
+mappings at the historical shared-count checkpoint. Current public files contain 937 rules and 46 research updates (983 rows), separately from the historical shared982 count; plus 1,465 imported catalogue variants = **2,448 source records**. The finite literal
 identifiers in the existing public rules, research updates and imported
-catalogue yield **2,238
+catalogue yield **2,239
 stored identifier keys**. Only aggregate shared database counts are retained; no row-level database
 snapshot is published. The inventory is built from the public repository files.
-These are lookup keys, not 2,238 distinct
+These are lookup keys, not 2,239 distinct
 watch models: punctuation/case duplicates collapse; M-prefixed aliases, base
 references and catalogue suffixes remain separate keys. Broad patterns require
 enumeration and source review; they are never counted as exact references.
 
-Current exact progress is in the generated coverage files: **325 identifier keys
-reviewed, 1,913 unreviewed; 252 source records reviewed, 2,195 unreviewed**. There are
-**884 catalogue assets: 849 verified gallery entries, 26 pending and 9 rejected**, including 31
-legacy assets. Verified entries use **806 distinct stored image URLs and 805 distinct inspected file hashes**; the same photograph can serve two categories. Verified reference-key coverage: **front 261, movement 101, caseback
-227, bracelet/clasp 221**. Reviewed gaps describe the inspected source set, not a
+Current exact progress is in the generated coverage files: **326 identifier keys
+reviewed, 1,913 unreviewed; 253 source records reviewed, 2,195 unreviewed**. There are
+**893 catalogue assets: 858 verified gallery entries, 26 pending and 9 rejected**, including 31
+legacy assets. Verified entries use **815 distinct stored image URLs and 814 distinct inspected file hashes**; the same photograph can serve two categories. Verified reference-key coverage: **front 262, movement 101, caseback
+229, bracelet/clasp 223**. Reviewed gaps describe the inspected source set, not a
 claim that no suitable image exists elsewhere. Existing textual research and
 pre-existing "verified" mapping badges do not verify photographs. Unreviewed
 categories are not counted as reviewed gaps.
@@ -967,3 +966,27 @@ RULE:0503 broad BROADSWORD and RULE:0715 broader pattern initially reviewed with
 Original Mappin & Webb ARROW-R-S listing and four original photographs inspected. Accepted three distinct exterior files: black Arabic monopusher front, closed armed-forces-badge back and signed bright pin buckle. Pictured blue fabric upper and brown leather backing differ from dealer leather-only description; captions retain the distinction. Source size 42mm steel and year 2020 are dealer attribution, not independently established manufacture date. Inscriptions do not prove military issue, certification, originality or current performance. No opened movement or physical calibre stamp, so BE-51AE/SW510 specification does not fill the movement-image gap. Contradictory JG Watch Co Arrow title with Broadsword reference/40mm/calibre details excluded.
 
 RULE:0534 initially reviewed. Full ARROW-R-S is documented; ARROW remains explicitly representative of this strap specimen. ARROW-B bracelet, Vulcan and other suffixes not inferred. All 68 Node checks pass. Three actual files load/enlarge with credits and variant labels across two explicit keys, including mobile layout. Local total849 includes six unpublished Broadsword/Arrow entries; live PR24 remains843. Research remains incomplete: 1,913 identifier keys and 2,195 source records unreviewed. Fifteen of 29 Bremont source records initially reviewed; fourteen remain. Live signed-in refresh/RLS outstanding.
+
+## PR25 publication and next priority — 2026-10-12
+
+Six Broadsword Recon and Arrow entries published in PR25. Exact remote tree 94014c7d59b632bfe6c1c4c612e07ebd5e6ea2f7 matches the tested local tree; prior main preserved as rollback/benchauth-before-arrow-recon-20261012. Pages run38259484711 succeeded. Ten served files match current main byte-for-byte. Six actual original files load/enlarge across five explicit lookup keys with credits, variant/scope and mobile checks. Research remains incomplete; signed-in refresh/RLS outstanding.
+
+User requested the live Missing-reference queue be researched next. Read-only query against the confirmed BenchAuth Lab project found42 requests:41 open and1 researching. No status/data changes made. Queue snapshot stays in local work files; customer questions, authors and serials are not published. Prioritise exact-reference and brand validation from that queue before resuming general inventory. The oldest item has a brand/reference mismatch requiring clarification, rather than silently inferring a cross-brand alias. Broad family names, truncated references and possible serials require explicit matching limits. Keep the full original finished-product goal active.
+
+## Missing-reference queue: Cartier W5000156 — initial photographic review
+
+Five actual original EWC stock13436 files inspected. Accepted three distinct views: silver guilloche Roman/date-six dial, closed four-screw back engraved Cartier/AUTOMATIC/WATER RESISTANT/750/1840 and signed/hallmarked pin buckle underside. Source W5000156 explicitly documented. Black embossed leather with pale backing; originality not independently established. Dealer18k gold attribution and750 inscription are not an assay. Dimensions differ: EWC29x35mm versus separate Christies specimen28x32.5mm. No manufacture period transferred from the other auction specimen. No opened movement or physical calibre stamp, so calibre120 remains unaccepted pending stronger evidence. Exact W5000156 pictures added without generic Tank/1840/neighbouring reference aliases. This queue reference is absent from the existing finite public inventory; no invented existing-inventory review record added. Textual mapping remains a separate outstanding task.
+
+All69 Node checks pass including cross-brand/adjacent-reference and movement-gap boundaries. Three actual files load/enlarge with credits and variant labels, with mobile overflow checked. Local852 includes three unpublished Cartier views; livePR25 remains849. Queue remains open and statuses unchanged. Continue exact identity/specification research and remaining41 queue entries, then the full inventory. Signed-in refresh/RLS outstanding.
+
+## W5000156 exact-reference mapping and second specimen — local unpublished
+
+Original Alpha Omega h189 identifies automatic Cal.120 and reports internal movement inspection. This supports an attributed specification with manual-review limits; actual galleries still contain no opened movement or calibre stamp. New exact W5000156 update lists120/Cartier120 only, with no ETA equivalence or1840 alias, and preserves dimensional discrepancy. Nine original h189 files visually inspected; accepted front, closed back and signed/hallmarked buckle on explicitly aftermarket brown Cassis strap. Seller-masked identity retained. Back AUTOMATIC/SWISS MADE/18K and buckle750 are observed marks, not independent assay/performance proof. Jomashop contradictory quartz title/calibre comments and marketplace conflicting jewel counts excluded. All69 checks pass, including physical-calibre confirmation messaging, unsupported ETA caution, wrong-brand and suffix boundaries. Six actual Cartier files load/enlarge with credits, labelled variants and mobile checks.
+
+Local855 contains six unpublished Cartier entries and one exact-reference update. Finite public inventory grows to2448source records and2239keys:253records/326keys initially reviewed;2195records/1913keys remain. Historical shared database counts982/47 are not changed or presented as a current public-file total. Queue status remains open because physical execution and remaining evidence gaps are unresolved. LivePR25 remains849. Full goal remains active; next queued research A32360, then remaining queue and full inventory.
+
+## Missing-reference queue: A32360 follow-up — local unpublished
+
+Existing RULE0000 already documents Steelfish GMT with exact-reference scope, calibre32 and explicit period/edition/dimension limits. Fifteen actual original Whizz Watch files inspected. Accepted three new views: blue concentric12/9/6 GMT dial with red-arrow hand/inner24 scale/date three; closed signed back; signed steel folding clasp with surface wear and microadjustment holes. Caseback LIMITED EDITION visible, but exact fraction/identity not asserted. No opened movement or physical calibre stamp, no underside clasp code or factory originality proof. Dealer2003/42mm claims remain attribution; bidirectional-bezel claim conflicts with other sources and is not adopted. H&T product JSON404; Watches.co.uk1mm field rejected. No ColtA32350/A32370, full suffix or separate edition inheritance.
+
+Existing A32360 identifier and source review refreshed with original gallery evidence; this is gap improvement, not newly reviewed inventory. New back/clasp category coverage closes two inspected-source exterior gaps. All70 Node checks pass. Browser loads/enlarges all three new files and two existing A32360 catalogue entries with credits, representative variants and mobile layout. Harness initial count included existing entries and was corrected to verify the complete displayed set and every new asset. Local858 contains nine unpublished Cartier/Breitling views and the Cartier exact update. LivePR25 remains849; queue statuses unchanged, research incomplete, authenticated refresh/RLS outstanding. Next reconcile/publish this tested queue batch, then continue L37904 and other missing references before general inventory.

@@ -1,0 +1,49 @@
+{
+  "reviewedAt": "2026-10-12T14:21:44.801Z",
+  "completion": "IN PROGRESS",
+  "source": "https://www.awc.co.jp/2024/05/22/cartier-tank-francaise-lm-ref-w5000156-h189/",
+  "variant": "Alpha Omega h189 / W5000156 Tank Francaise / yellow gold attribution, silver date dial and aftermarket brown Cassis strap",
+  "evidence": "Original Alpha Omega h189 explicitly documents W5000156, automatic Cal.120 with internal movement inspection claimed, yellow gold, 32.5x28mm and aftermarket Cassis leather strap. Nine original files inspected, including full back/buckle and hallmark close-up. Actual silver Roman guilloche date-six dial with blued hands and blue cabochon crown; brown leather/cream stitching. Closed four-screw back Cartier/AUTOMATIC/WATER RESISTANT/SWISS MADE/18K, hallmarks and seller-masked identity. Actual pin buckle underside Cartier/SWISS MADE/750 and hallmarks. Observed inscriptions do not establish assay, present water resistance, production year or originality. No opened movement or physical calibre stamp. Dealer Cal.120 is attributed specification only, not physical verification of this or EWC specimen. No ETA 2000-1 equivalence or jewel-count inference. EWC29x35mm versus this source32.5x28mm remains unresolved. Package frame8 excluded; no paper-based manufacture dating. Jomashop contradictory quartz title versus calibre120 comments and marketplace conflicting jewel counts not accepted.",
+  "images": [
+    {
+      "i": 0,
+      "image": "https://www.awc.co.jp/wp-content/uploads/2024/05/h189.jpg",
+      "sha256": "48f29cc8dbec42dd74010f81df2fc3e7aaa448d9fc9b0bd2f1e9b8ede14203ed"
+    },
+    {
+      "i": 4,
+      "image": "https://www.awc.co.jp/wp-content/uploads/2024/05/h189__04.jpg",
+      "sha256": "28deb77ea0ea91e488f26c084b438b0d25d59bc4b27f6f7bf3b0ae2cecbe3e2f"
+    },
+    {
+      "i": 5,
+      "image": "https://www.awc.co.jp/wp-content/uploads/2024/05/h189__05.jpg",
+      "sha256": "e327eab4dc89a14ea1a884a0c2e64dfda76b5a978a34b4cdd67e9fb3adcf40f8"
+    },
+    {
+      "i": 7,
+      "image": "https://www.awc.co.jp/wp-content/uploads/2024/05/h189__07.jpg",
+      "sha256": "ba040df007ed034a1d57ad0e9f0972740984f808923ae7185ed36a4e45257451"
+    }
+  ],
+  "acceptedViews": [
+    {
+      "i": 0,
+      "category": "front"
+    },
+    {
+      "i": 5,
+      "category": "caseback"
+    },
+    {
+      "i": 4,
+      "category": "braceletClasp"
+    }
+  ],
+  "gaps": [
+    "No opened movement or physical calibre stamp",
+    "Dimensions unresolved",
+    "No production interval; no original-strap inference"
+  ],
+  "excluded": "Other watch angles inspected for consistency; package8 excluded. Hallmark close-up7 is corroboration only."
+}

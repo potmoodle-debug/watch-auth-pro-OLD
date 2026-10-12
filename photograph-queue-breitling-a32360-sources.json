@@ -1,0 +1,45 @@
+{
+  "reviewedAt": "2026-10-12T14:26:22.041Z",
+  "completion": "IN PROGRESS",
+  "source": "https://whizzwatch.co.uk/product/breitling-superocean-gmt-automatic-a32360-blue-dial-42mm-mens-watch/",
+  "variant": "Whizz Watch A32360 / blue concentric dial, steel bracelet, closed limited-edition back / dealer42mm and2003 attribution only",
+  "evidence": "Original dealer explicitly identifies A32360 blue-dial automatic GMT with steel bracelet,42mm and year2003 attribution. Fifteen actual original files inspected. Blue concentric dial with applied12/9/6 and round markers, red arrow GMT hand/inner24-hour scale, red-edged date three, SUPEROCEAN and chronometer/1000m inscriptions. Steel minute bezel with four rider tabs, screw heads and signed crown; static photos do not establish rotation direction. Dealer bidirectional bezel claim conflicts with other source records and is not adopted. Actual closed back with winged logo, BREITLING1884, CHRONOMETRE/OFFICIELLEMENT CERTIFIE/MANUFACTURE EN SUISSE/ETANCHE1000M, A32360 and LIMITED EDITION markings; exact edition fraction and identity partly obscured/small and not asserted. Actual folding steel clasp with winged logo/BREITLING1884, visible surface wear, microadjustment holes; no clear underside hardware code or originality proof. No opened movement or physical calibre stamp. Year2003 and42mm are dealer claims, not independently measured/manufacture proof; existing period/dimension limits preserved. No transfer to white/black dial, other editions, ColtA32350/A32370 or undocumented full suffixes.",
+  "images": [
+    {
+      "i": 0,
+      "image": "https://whizzwatch.co.uk/wp-content/uploads/2025/03/s-l1600-1.jpeg",
+      "sha256": "d43143fdf7d06b38c12d8912c0dd3ee66302f3d1f611a6a65c1ddf1cfab7350d"
+    },
+    {
+      "i": 13,
+      "image": "https://whizzwatch.co.uk/wp-content/uploads/2025/03/s-l1600-11.jpeg",
+      "sha256": "5f663bd8c3525988cb33ed81cb049188bdcf11d5455471b06884e677175c2ba5"
+    },
+    {
+      "i": 14,
+      "image": "https://whizzwatch.co.uk/wp-content/uploads/2025/03/s-l1600-10.jpeg",
+      "sha256": "c3c5d33bf0d0b791b5163df0adeab6daa385250a5945f9bf3af2ec97f9ff93b9"
+    }
+  ],
+  "acceptedViews": [
+    {
+      "i": 0,
+      "category": "front"
+    },
+    {
+      "i": 14,
+      "category": "caseback"
+    },
+    {
+      "i": 13,
+      "category": "braceletClasp"
+    }
+  ],
+  "gaps": [
+    "No opened movement",
+    "Edition fraction and identity not independently resolved",
+    "Year, size and bezel rotation claims unresolved",
+    "Factory originality and underside clasp code unproven"
+  ],
+  "excluded": "H&T product JSON404. Watches.co.uk source diameter1mm field rejected. Other original watch angles inspected for consistency."
+}
