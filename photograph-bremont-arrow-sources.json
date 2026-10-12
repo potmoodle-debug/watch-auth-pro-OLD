@@ -1,0 +1,42 @@
+{
+  "reviewedAt": "2026-10-12T13:52:08.945Z",
+  "completion": "IN PROGRESS",
+  "source": "https://www.mappinandwebb.com/Pre%2BOwned-Bremont-Arrow--ARROW%2BR%2BS-ARROW%2BR%2BS/p/408000568490",
+  "variant": "Mappin & Webb ARROW-R-S / dealer year 2020 / 42mm steel, black dial, blue fabric upper and leather-backed strap",
+  "evidence": "Original dealer explicitly identifies ARROW-R-S, 42mm stainless steel, black dial and year 2020. Four original 600x600 photographs visually inspected. Actual Arabic black dial with red triangle twelve, running seconds nine, thirty-minute register three, date six, AUTOMATIC CHRONOMETER and LONDON; single upper chronograph pusher and signed crown, three flank grooves. Actual blue fabric upper with brown leather backing and signed bright BREMONT pin buckle. Dealer leather-only description does not describe the pictured fabric upper. Actual closed back shows three armed-forces badges, APPROVED BY/HER MAJESTYS ARMED FORCES, BREMONT, WR 10ATM, identity 51230, partially visible AUTOMATIC and strap underside 20-R. Inscriptions do not independently prove military issue, certification, manufacture date, originality or current performance. No opened movement or physical calibre stamp. BE-51AE/SW510 source-rule attribution cannot supply a movement photograph. Generic ARROW is representative only of this photographed strap execution; bracelet ARROW-B, Vulcan and other suffixes are not aliases. Conflicting JG Watch Co Arrow title with BROADSWORD-R-S/40mm/BE-95-2AV details was not accepted.",
+  "images": [
+    {
+      "i": 1,
+      "image": "https://content.thewosgroup.com/productimage/408000568490/408000568490_1.jpg?impolicy=hero&imwidth=600",
+      "httpStatus": 200,
+      "sha256": "2440d51e083860ad0d1d52766aeb9b3d3c9bfcf18d2ad21e91efbd2d519931a6"
+    },
+    {
+      "i": 3,
+      "image": "https://content.thewosgroup.com/productimage/408000568490/408000568490_3.jpg?impolicy=hero&imwidth=600",
+      "httpStatus": 200,
+      "sha256": "187fa66c705609bb2e373224ae119e03468e30f950c81b1597cd1efbcb2c0a98"
+    },
+    {
+      "i": 4,
+      "image": "https://content.thewosgroup.com/productimage/408000568490/408000568490_4.jpg?impolicy=hero&imwidth=600",
+      "httpStatus": 200,
+      "sha256": "fd5b30de9d71c71d90a4f5ed6504e284ecb000d44661b062329a19f1857b09bb"
+    }
+  ],
+  "acceptedViews": [
+    {
+      "i": 1,
+      "category": "front"
+    },
+    {
+      "i": 4,
+      "category": "caseback"
+    },
+    {
+      "i": 3,
+      "category": "braceletClasp"
+    }
+  ],
+  "excluded": "Side photograph two inspected for consistency. No opened movement. JG Watch Co contradictory reference details excluded. ARROW-B and Vulcan not inferred."
+}

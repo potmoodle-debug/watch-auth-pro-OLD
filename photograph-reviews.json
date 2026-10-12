@@ -10573,6 +10573,59 @@
         "caseback": "Actual display back with masked identity/edition; no physical edition verification.",
         "braceletClasp": "Actual rubber/deployant specimen; originality and other family hardware remain open."
       }
+    },
+    {
+      "id": "RULE:0503",
+      "reviewedAt": "2026-10-12T13:45:44.590Z",
+      "evidence": "Original dealer identifies BROADSWORD-RECON-R-S, January 2024 attribution, 40mm steel limited Recon with three supplied straps; twelve actual original files inspected. Actual black stencil/sandwich Arabic dial, small seconds six, date three, BREMONT/HMAF/LONDON, bright steel case with three flank grooves and signed crown. Actual closed back shows three armed-forces badges, BREMONT/APPROVED BY/HER MAJESTYS ARMED FORCES/CHRONOMETER/AUTOMATIC/WR 10 ATM and 015/200. These are observed inscriptions, not independent military-issue, manufacture-date or current certification/performance proof. Fitted black fabric upper, tan leather underside marked 20-R and signed bright BREMONT pin buckle photographed. No opened movement or physical calibre stamp; dealer BE-95-2AV attribution cannot supply a movement image. Fitted strap/buckle originality unproven. Broad BROADSWORD and BROADSWORD RECON are representative only of this pictured steel Recon execution; bronze, DLC, generic steel variants and unverified suffixes remain gaps. Frame two unrelated pocket-watch props and frame seven package/paperwork not used for execution/photo receipts.",
+      "enumeratedReferences": [
+        "BROADSWORD-RECON-R-S"
+      ],
+      "representativeKeys": [
+        "BROADSWORD",
+        "BROADSWORD RECON"
+      ],
+      "categories": {
+        "front": "Verified representative Recon only; bronze, DLC and other steel execution remain gaps.",
+        "movement": "No opened movement or physical calibre evidence; further research remains open.",
+        "caseback": "Actual closed Recon back accepted; inscriptions not independent performance/issue proof.",
+        "braceletClasp": "Actual fabric/leather-backed strap and pin buckle; other straps and factory originality unresolved."
+      }
+    },
+    {
+      "id": "RULE:0715",
+      "reviewedAt": "2026-10-12T13:45:44.590Z",
+      "evidence": "Original dealer identifies BROADSWORD-RECON-R-S, January 2024 attribution, 40mm steel limited Recon with three supplied straps; twelve actual original files inspected. Actual black stencil/sandwich Arabic dial, small seconds six, date three, BREMONT/HMAF/LONDON, bright steel case with three flank grooves and signed crown. Actual closed back shows three armed-forces badges, BREMONT/APPROVED BY/HER MAJESTYS ARMED FORCES/CHRONOMETER/AUTOMATIC/WR 10 ATM and 015/200. These are observed inscriptions, not independent military-issue, manufacture-date or current certification/performance proof. Fitted black fabric upper, tan leather underside marked 20-R and signed bright BREMONT pin buckle photographed. No opened movement or physical calibre stamp; dealer BE-95-2AV attribution cannot supply a movement image. Fitted strap/buckle originality unproven. Broad BROADSWORD and BROADSWORD RECON are representative only of this pictured steel Recon execution; bronze, DLC, generic steel variants and unverified suffixes remain gaps. Frame two unrelated pocket-watch props and frame seven package/paperwork not used for execution/photo receipts.",
+      "enumeratedReferences": [
+        "BROADSWORD-RECON-R-S"
+      ],
+      "representativeKeys": [
+        "BROADSWORD",
+        "BROADSWORD RECON"
+      ],
+      "categories": {
+        "front": "Verified representative Recon only; bronze, DLC and other steel execution remain gaps.",
+        "movement": "No opened movement or physical calibre evidence; further research remains open.",
+        "caseback": "Actual closed Recon back accepted; inscriptions not independent performance/issue proof.",
+        "braceletClasp": "Actual fabric/leather-backed strap and pin buckle; other straps and factory originality unresolved."
+      }
+    },
+    {
+      "id": "RULE:0534",
+      "reviewedAt": "2026-10-12T13:52:08.945Z",
+      "evidence": "Original dealer explicitly identifies ARROW-R-S, 42mm stainless steel, black dial and year 2020. Four original 600x600 photographs visually inspected. Actual Arabic black dial with red triangle twelve, running seconds nine, thirty-minute register three, date six, AUTOMATIC CHRONOMETER and LONDON; single upper chronograph pusher and signed crown, three flank grooves. Actual blue fabric upper with brown leather backing and signed bright BREMONT pin buckle. Dealer leather-only description does not describe the pictured fabric upper. Actual closed back shows three armed-forces badges, APPROVED BY/HER MAJESTYS ARMED FORCES, BREMONT, WR 10ATM, identity 51230, partially visible AUTOMATIC and strap underside 20-R. Inscriptions do not independently prove military issue, certification, manufacture date, originality or current performance. No opened movement or physical calibre stamp. BE-51AE/SW510 source-rule attribution cannot supply a movement photograph. Generic ARROW is representative only of this photographed strap execution; bracelet ARROW-B, Vulcan and other suffixes are not aliases. Conflicting JG Watch Co Arrow title with BROADSWORD-R-S/40mm/BE-95-2AV details was not accepted.",
+      "enumeratedReferences": [
+        "ARROW-R-S"
+      ],
+      "representativeKeys": [
+        "ARROW"
+      ],
+      "categories": {
+        "front": "Verified representative black fabric-strap execution; bracelet and other variants remain gaps.",
+        "movement": "No opened movement or physical calibre stamp; further research remains open.",
+        "caseback": "Actual closed back; inscriptions not independent issue/certification proof.",
+        "braceletClasp": "Signed pin buckle, blue fabric and leather backing; originality unproven."
+      }
     }
   ]
 }

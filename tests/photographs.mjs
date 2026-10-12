@@ -631,3 +631,15 @@ test('Kingsman steel rubber specimen retains edition uncertainty and strict fami
  const reviews=JSON.parse(fs.readFileSync(new URL('../photograph-reviews.json',import.meta.url)));
  assert.deepEqual(reviews.sourceRecordReviews.find(x=>x.id==='RULE:0423').enumeratedReferences,['BKM-SS']);
 });
+test('Broadsword Recon preserves closed-back gap and does not inherit bronze or DLC execution',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,options)=>matchingPhotographs(photos,'Bremont',ref,options).filter(p=>p.id.startsWith('bremont-pass-broadsword-'));
+ for(const ref of ['BROADSWORD','BROADSWORD RECON','BROADSWORD-RECON-R-S']){
+  assert.equal(get(ref).length,3);assert.equal(get(ref,{externalOnly:true}).length,3);
+ }
+ assert.ok(get('BROADSWORD').every(p=>p.matchScope==='representative variant'&&p.variant.includes('Recon')));
+ for(const ref of ['BROADSWORD BRONZE','BROADSWORD DLC','BROADSWORD STEEL','BROADSWORD-BK-R-S','BROADSWORD-RECON-B','Bremont Broadsword'])assert.equal(get(ref).length,0,ref);
+ assert.match(get('BROADSWORD').find(p=>p.category==='caseback').caption,/No movement shown/);
+ const reviews=JSON.parse(fs.readFileSync(new URL('../photograph-reviews.json',import.meta.url)));
+ for(const id of ['RULE:0503','RULE:0715'])assert.match(reviews.sourceRecordReviews.find(x=>x.id===id).categories.movement,/No opened movement/);
+});

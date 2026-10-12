@@ -1,0 +1,54 @@
+{
+  "reviewedAt": "2026-10-12T13:45:44.590Z",
+  "completion": "IN PROGRESS",
+  "source": "https://kibblewatches.co.uk/products/2024-bremont-broadsword-recon-40mm-limited-edition",
+  "variant": "Kibble Broadsword Recon / BROADSWORD-RECON-R-S / January 2024 dealer attribution / 40mm steel, black sandwich dial and fitted black fabric/leather-backed strap",
+  "evidence": "Original dealer identifies BROADSWORD-RECON-R-S, January 2024 attribution, 40mm steel limited Recon with three supplied straps; twelve actual original files inspected. Actual black stencil/sandwich Arabic dial, small seconds six, date three, BREMONT/HMAF/LONDON, bright steel case with three flank grooves and signed crown. Actual closed back shows three armed-forces badges, BREMONT/APPROVED BY/HER MAJESTYS ARMED FORCES/CHRONOMETER/AUTOMATIC/WR 10 ATM and 015/200. These are observed inscriptions, not independent military-issue, manufacture-date or current certification/performance proof. Fitted black fabric upper, tan leather underside marked 20-R and signed bright BREMONT pin buckle photographed. No opened movement or physical calibre stamp; dealer BE-95-2AV attribution cannot supply a movement image. Fitted strap/buckle originality unproven. Broad BROADSWORD and BROADSWORD RECON are representative only of this pictured steel Recon execution; bronze, DLC, generic steel variants and unverified suffixes remain gaps. Frame two unrelated pocket-watch props and frame seven package/paperwork not used for execution/photo receipts.",
+  "images": [
+    {
+      "i": 4,
+      "image": "https://cdn.shopify.com/s/files/1/0270/0771/3366/files/5_f093249e-c223-4a43-b1f4-645c29e0b794.jpg?v=1770909552",
+      "httpStatus": 200,
+      "sha256": "e16945cc09cc9e8b8c2256a9f574c20be1491541cc7e51be921466b8834c03a3",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "i": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0270/0771/3366/files/9_123dee3b-a93d-4dbf-bf05-b82917237193.jpg?v=1770909552",
+      "httpStatus": 200,
+      "sha256": "5e570c5b11e7e28b311d2f1444716898f5be39fefafd6da3948dc97222eaf8b5",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "i": 9,
+      "image": "https://cdn.shopify.com/s/files/1/0270/0771/3366/files/10_c8764ee0-8516-4d67-8ee3-51dc6218a64c.jpg?v=1770909552",
+      "httpStatus": 200,
+      "sha256": "050806f53e8165acf0210f5d2e332b62b49eb6dfd20fe4f1910699f7a15201b7",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    }
+  ],
+  "acceptedViews": [
+    {
+      "i": 4,
+      "category": "front"
+    },
+    {
+      "i": 8,
+      "category": "caseback"
+    },
+    {
+      "i": 9,
+      "category": "braceletClasp"
+    }
+  ],
+  "excluded": "Other actual watch angles inspected; pocket-watch props in two and package/paperwork in seven excluded from public receipts. No opened movement. Broader pattern variants remain explicit gaps."
+}
