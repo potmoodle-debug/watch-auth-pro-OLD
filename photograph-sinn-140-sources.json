@@ -1,0 +1,76 @@
+{
+  "reviewedAt": "2026-10-12T11:05:33.269Z",
+  "completion": "IN PROGRESS",
+  "source": "https://www.betteridge.com/Pre%2BOwned-Sinn-Sinn-140/42-Chronograph-40991281/AS08304/p/40991281",
+  "evidence": "Betteridge inventory 40991281 / AS08304 is titled 140/42, but its original description explicitly identifies this particular specimen as a 142 with source-attributed Lemania 5100. Six actual gallery photographs inspected, with closed back and bracelet at original 700px resolution. Closed back shows a commemorative space engraving; no opened movement is pictured. Image 4 shows bracelet links, not a detailed clasp view. The title does not establish an exact 140 specimen or justify merging 140 and 142. Withhold these photographs from the stored Sinn 140 / 42 key until its intended scope and a properly identified specimen are established. Do not infer photographed calibre from the source description.",
+  "acceptedViews": [],
+  "images": [
+    {
+      "ref": "140",
+      "i": 0,
+      "image": "https://content.thewosgroup.com/productimage/40991281/40991281_1.jpg?impolicy=hero&imwidth=700",
+      "httpStatus": 200,
+      "sha256": "edb6762d7a76a7621df7b45629296fb2c8857de4d9ffe7fbe04af533a9ce0dea",
+      "dimensions": [
+        700,
+        700
+      ]
+    },
+    {
+      "ref": "140",
+      "i": 1,
+      "image": "https://content.thewosgroup.com/productimage/40991281/40991281_2.jpg?impolicy=hero&imwidth=700",
+      "httpStatus": 200,
+      "sha256": "051fcb5db4ecce1d4a685413c24b54082436c318e4906b0f783543ce66e14a27",
+      "dimensions": [
+        700,
+        700
+      ]
+    },
+    {
+      "ref": "140",
+      "i": 2,
+      "image": "https://content.thewosgroup.com/productimage/40991281/40991281_3.jpg?impolicy=hero&imwidth=700",
+      "httpStatus": 200,
+      "sha256": "429b90d6e82133fe0ee59b001b3d1593fdac7efda4c2dc9fe84183d73195b3d6",
+      "dimensions": [
+        700,
+        700
+      ]
+    },
+    {
+      "ref": "140",
+      "i": 3,
+      "image": "https://content.thewosgroup.com/productimage/40991281/40991281_4.jpg?impolicy=hero&imwidth=700",
+      "httpStatus": 200,
+      "sha256": "cee403c443b90ecbc1926ed7ac23998e24e2206bc62ec5271cc0bb6c0b87f0aa",
+      "dimensions": [
+        700,
+        700
+      ]
+    },
+    {
+      "ref": "140",
+      "i": 4,
+      "image": "https://content.thewosgroup.com/productimage/40991281/40991281_5.jpg?impolicy=hero&imwidth=700",
+      "httpStatus": 200,
+      "sha256": "989d1d39c95db6dbecdc6fc1503be1a1774e534a6bac3afbbb67dfd7751a1873",
+      "dimensions": [
+        700,
+        700
+      ]
+    },
+    {
+      "ref": "140",
+      "i": 5,
+      "image": "https://content.thewosgroup.com/productimage/40991281/40991281_6.jpg?impolicy=hero&imwidth=700",
+      "httpStatus": 200,
+      "sha256": "956b154d428f95917fa59b1fc5165a8c10fdd5c1d97d9bbfe2039a3d3dc1b583",
+      "dimensions": [
+        700,
+        700
+      ]
+    }
+  ],
+  "finding": "Withheld: listing title 140/42 conflicts with particular-specimen identification 142; no opened movement or detailed clasp photograph. Preserve distinct model identities."
+}

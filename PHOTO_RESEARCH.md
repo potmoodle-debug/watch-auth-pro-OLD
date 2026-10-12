@@ -11,7 +11,7 @@ repository must not be modified.
 Network access was verified first. GitHub and the BenchAuth live site return HTTP
 200. Of 1,564 distinct stored source URLs, 1,531 return HTTP 200 and 33 manufacturer
 Breitling URLs return HTTP 403. HTTP access and download counts **do not** establish
-visual review. The published checkpoint is PR #16 at bb26ced602af392fa2b1a55c2feffe527ab7c998. Pages deployment 37977132750 succeeded. The ninth-checkpoint additions below are published; earlier next-checkpoint descriptions record the status when those batches were prepared.
+visual review. The historical PR #16 checkpoint was bb26ced602af392fa2b1a55c2feffe527ab7c998 (Pages run 37977132750 succeeded). Current published checkpoint is PR #20 at 080313df7f30e22f8d305ba06b5a795232bca86c, with 783 verified entries; eighteen further Sinn entries below are tested locally and prepared for publication. The ninth-checkpoint additions below are published; earlier next-checkpoint descriptions record the status when those batches were prepared.
 
 Rollback: GitHub branch `rollback/benchauth-before-photographs-20261008`, commit
 `b4ffc080c4dba6f55bb246377a24a3c2bf284052`. The original workspace recorded a local bundle at
@@ -38,11 +38,11 @@ watch models: punctuation/case duplicates collapse; M-prefixed aliases, base
 references and catalogue suffixes remain separate keys. Broad patterns require
 enumeration and source review; they are never counted as exact references.
 
-Current exact progress is in the generated coverage files: **307 identifier keys
-reviewed, 1,931 unreviewed; 226 source records reviewed, 2,221 unreviewed**. There are
-**818 catalogue assets: 783 verified gallery entries, 26 pending and 9 rejected**, including 31
-legacy assets. Verified entries use **751 distinct stored image URLs and 750 distinct inspected file hashes**; the same photograph can serve two categories. Verified reference-key coverage: **front 245, movement 94, caseback
-214, bracelet/clasp 205**. Reviewed gaps describe the inspected source set, not a
+Current exact progress is in the generated coverage files: **313 identifier keys
+reviewed, 1,925 unreviewed; 232 source records reviewed, 2,215 unreviewed**. There are
+**836 catalogue assets: 801 verified gallery entries, 26 pending and 9 rejected**, including 31
+legacy assets. Verified entries use **766 distinct stored image URLs and 765 distinct inspected file hashes**; the same photograph can serve two categories. Verified reference-key coverage: **front 250, movement 97, caseback
+219, bracelet/clasp 210**. Reviewed gaps describe the inspected source set, not a
 claim that no suitable image exists elsewhere. Existing textual research and
 pre-existing "verified" mapping badges do not verify photographs. Unreviewed
 categories are not counted as reviewed gaps.
@@ -815,3 +815,21 @@ PAM01305 EWC stock 70146 and PAM01572 GINZA RASIN item U-PAM01572: all fourteen 
 Safety correction: PAM00574 and PAM01305 buckle frames also show blurred display-back movements in the background. Both entire frames are flagged depictsMovement and withheld for external-only lookups. Actual browser checks passed fourteen entries (twelve distinct files) across four keys: the ten unpublished PAM01271/PAM01305/PAM01572 additions plus the affected PAM00574 specimen. All 47 Node regression checks pass.
 
 All fourteen stored Panerai keys now have source reviews, with categories and source-record evidence documented. This is reviewed inventory, not complete photograph coverage: absent movements/buckles remain researched gaps, three PAM00609 assets remain pending delivery and further source research stays open. Local catalogue: 783 verified entries; published PR #19 remains 773. Overall 1,931 identifier keys and 2,221 source records remain unreviewed. Live authenticated refresh/RLS remains outstanding.
+
+## PR #20 publication and continued Sinn research — 2026-10-12
+
+PR #20 merged at 080313df7f30e22f8d305ba06b5a795232bca86c. Uploaded and fetched main tree 07021a88b5bc440d11e10c676d6df7821bc38e07 exactly matches tested local files. Pages run 38238782029 succeeded. Live index.html, bench.js, photographs.js, photographs.json and both coverage files returned HTTP 200 and matched current main byte for byte. All fourteen affected/new Panerai entries (twelve files, four keys) passed real live loading/enlargement/credits/variant/mobile checks. Original rollback refs plus rollback/benchauth-before-panerai-final-20261012 at 39163341dc25ade497b32b35a5015119f5c9c69e are preserved.
+
+Continued source research: June 10 2025 Teddy Baldassarre hands-on white 104 St Sa I W review supplies four accepted views, with generic 104/Sinn 104 explicitly representative. Actual photographed rotor/finishing/layout retained; source-described SW220-1 does not imply physical calibre inscription or interchangeable ETA execution. U15/UX comparison frames excluded. Delray Watch U1 SDR inventory 7172 supplies exact source-identified front, closed back and signed clasp; all eight frames inspected and selected back/clasp at full resolution. Numeric 1010 and adjacent U1 variants are not aliases. No movement view exists. Source receipts are photograph-sinn-104-sources.json and photograph-sinn-u1-sources.json.
+
+Seven LOCAL UNPUBLISHED Sinn entries (six distinct files) passed actual Chrome image loading/enlargement/credits/variant/mobile across five explicit keys. All 49 Node checks pass. Four of six stored Sinn keys remain unreviewed. Overall 309/2,238 keys and 228/2,447 source records reviewed, with 1,929 keys unreviewed. No authorized signed-in session is available; live authenticated refresh/RLS remains outstanding. Research remains IN PROGRESS.
+
+## Sinn 140 / 42 conflict review — 2026-10-12, unpublished
+
+Inspected all six Betteridge inventory 40991281 / AS08304 gallery frames and its original description. The listing title says 140/42, but the description identifies the particular watch as a 142. Its Lemania 5100 attribution is textual; there is no opened movement photo. Closed back has commemorative space engraving, and the rear bracelet frame does not show a detailed clasp. No images were accepted for the stored key. The public source receipt preserves the conflict and inspected image hashes; exact-model research remains open. Generated coverage now records 310 reviewed keys and 229 reviewed source records, with 790 verified photograph entries unchanged. All 49 Node tests pass. This review has not been published.
+
+## Final three stored Sinn keys — 2026-10-12, prepared for publication
+
+Eleven additional views were inspected and accepted across 358 Anniversary (four), 206 Arktis II (four) and U50 Hydro (three). Generic 358 is explicitly representative of the slate Anniversary specimen, with actual 1961–2011 dial and 50 JAHRE / 428/500 display back. Used brown strap and buckle side view retains signature/material limits. The source dimension and hidden calibre are not independently verified. The Arktis II front and actual display back agree with the dealer-identified blue steel specimen; its movement calibre is not physically established. Its clasp frame includes background movement, and all movement-bearing frames are flagged for external-only suppression. U50 Hydro has a physically marked closed back, steel-bezel black HYDRO dial and signed clasp; source-dated 2024 and 715 Li quartz attribution remain textual. There is no opened movement image and HYDRO safety remains intact. All box/paperwork frames are excluded from public attachments and receipt URLs.
+
+All six stored Sinn keys now have an initial review, including the unresolved 140/42 listing/specimen conflict; this is not complete photograph coverage. Overall inventory remains 1,925 unreviewed keys and 2,215 unreviewed source records. All 51 Node checks pass. Eleven new entries (nine distinct actual files) passed real Chrome loading/enlargement/credits/variant/mobile checks across seven explicit keys. Combined with the earlier seven Sinn entries, this prepares eighteen photograph entries for release beyond published PR20. No authorized signed-in session is available; live authenticated refresh/RLS remains outstanding. Research remains IN PROGRESS.
