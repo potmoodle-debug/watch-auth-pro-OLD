@@ -1,0 +1,71 @@
+{
+  "reviewedAt": "2026-10-12T12:47:12.482Z",
+  "completion": "IN PROGRESS",
+  "source": "https://www.exquisitetimepieces.com/bremont-alt1-zt-51-preowned.html",
+  "manufacturerContext": "https://au.bremont.com/products/alt1-zt-51",
+  "variant": "Exquisite 210000000250 / 00182362 / source ALT1/ZT/51 / steel case, black dial with pale registers, fitted brown leather and folding clasp",
+  "evidence": "Original preowned dealer listing documents ALT1/ZT/51, internal 210000000250 / 00182362, 43mm steel, black dial, leather/deployant, automatic chrono/GMT/date and exhibition back. Six actual gallery frames inspected; selected actual front and underside folding-clasp/strap hardware. Front has black dial, pale registers at twelve/six, running seconds nine, date three, pale GMT scale on internal ring, red-bordered triangular GMT hand and LONDON. Side frame shows black case barrel, signed crown and fitted brown leather with metal folding mechanism; no readable clasp signature. Actual display back/movement is not shown unobscured. No manufacture year or physical calibre established. Relative one-month-old/23-month-warranty dealer description is undated, not a calendar year. Manufacturer BE-54AE and 2016 introduction context does not establish physical execution/date of this specimen. Key ALT1-ZT/51 is explicitly representative of this steel/leather specimen, not ALT1-ZT/BK, ALT1-ZDG, ALT1-B, P-51 or arbitrary full strap/bracelet suffixes. Box/paperwork frame excluded public URL; Shreve new product artwork not promoted without actual-photograph provenance.",
+  "images": [
+    {
+      "i": 0,
+      "image": "https://cdn.shopify.com/s/files/1/0716/2783/3515/files/1088535463.jpg?v=1784948807",
+      "httpStatus": 200,
+      "sha256": "b25845f6e6bd4ece37960a3cc069e098886f86e8ab5de7d9b1cc641f1942bbf3",
+      "dimensions": [
+        950,
+        950
+      ]
+    },
+    {
+      "i": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0716/2783/3515/files/1088535478.jpg?v=1784948807",
+      "httpStatus": 200,
+      "sha256": "7170b1955bba8970ac14975a966b38a34fc40443c8cec99e23bac6c350ab5694",
+      "dimensions": [
+        970,
+        970
+      ]
+    },
+    {
+      "i": 2,
+      "image": "https://cdn.shopify.com/s/files/1/0716/2783/3515/files/1088535483.jpg?v=1784948807",
+      "httpStatus": 200,
+      "sha256": "3713fecc6ba4b05da4e02493691750546273ae446ed2c79a0dda02714ec5713a",
+      "dimensions": [
+        970,
+        970
+      ]
+    },
+    {
+      "i": 3,
+      "image": "https://cdn.shopify.com/s/files/1/0716/2783/3515/files/1088535488.jpg?v=1784948807",
+      "httpStatus": 200,
+      "sha256": "239e51c01f2131b15053d4e82345a73e9f6237c78bd7b9173111785b4e43bd73",
+      "dimensions": [
+        970,
+        970
+      ]
+    },
+    {
+      "i": 4,
+      "image": "https://cdn.shopify.com/s/files/1/0716/2783/3515/files/1088535493.jpg?v=1784948807",
+      "httpStatus": 200,
+      "sha256": "5c0ffbcb6b4a6a0cde302e66eb8499047e01a4bbb15869870d631319501f80d5",
+      "dimensions": [
+        970,
+        970
+      ]
+    }
+  ],
+  "acceptedViews": [
+    {
+      "i": 0,
+      "category": "front"
+    },
+    {
+      "i": 4,
+      "category": "braceletClasp"
+    }
+  ],
+  "excluded": "Frame 5 box/paperwork excluded public URL. No unobscured back/movement. New dealer product artwork provenance unestablished; not promoted."
+}

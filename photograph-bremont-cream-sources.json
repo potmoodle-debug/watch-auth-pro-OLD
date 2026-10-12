@@ -1,0 +1,62 @@
+{
+  "reviewedAt": "2026-10-12T12:39:06.502Z",
+  "completion": "IN PROGRESS",
+  "source": "https://www.markworthingtonjewellers.co.uk/bremont-alt1-ccr-43mm-classic-cream-dial.html",
+  "manufacturerContext": "https://au.bremont.com/products/alt1-c-cr",
+  "manufacturerSku": "ALT1-C2-CR-SS-R-S",
+  "variant": "Worthington W26W12154 / source ALT1-C/CR-R-S, UK supplied December 2014 / cream Arabic dial, black registers, steel case and brown leather pin-buckle strap",
+  "evidence": "Original dealer listing identifies ALT1-C/CR-R-S, cream dial, 43mm steel case, UK supply December 2014 and Bremont service June 2026, with BE-50AV attribution. These dates and calibre are dealer statements, not independently verified physical stamps. Five actual gallery images inspected: front angles, side, signed buckle and box/paperwork. No unobscured back or movement view; no physical calibre or movement execution verified. Actual front has cream Arabic numerals, black registers, red central hand, date six and LONDON. Actual pin buckle signed BREMONT and fitted brown leather; originality unproven. Stored ALT1-C-CR receives an explicitly representative cream steel/leather specimen only, with existing punctuation normalization retained, without inferring unsupported full suffixes or generations. Current manufacturer cream product JSON gives ALT1-C2-CR-SS-R-S, a different identifier, not evidence of this older specimen exact identity or execution. Blue ALT1-C/BL images cannot fill these gaps. Paperwork excluded from public image receipt URLs.",
+  "images": [
+    {
+      "i": 0,
+      "image": "https://www.markworthingtonjewellers.co.uk/images/super/W26W12154_1.JPG",
+      "httpStatus": 200,
+      "sha256": "c9b3a934c8e7b24747af39f1119679fb446de796e751d31bc3d1abc39e058fca",
+      "dimensions": [
+        2262,
+        3170
+      ]
+    },
+    {
+      "i": 1,
+      "image": "https://www.markworthingtonjewellers.co.uk/images/super/W26W12154_2.JPG",
+      "httpStatus": 200,
+      "sha256": "caf8bbd5fa2cb63cfe0d9b9cac3b7fb88758010a32cf3a04cc20fe9aac38b4c1",
+      "dimensions": [
+        2500,
+        3400
+      ]
+    },
+    {
+      "i": 3,
+      "image": "https://www.markworthingtonjewellers.co.uk/images/super/W26W12154_3.JPG",
+      "httpStatus": 200,
+      "sha256": "cfdb6c58252ca9c6b2ce61a86f5df8ade3c13397ec38e99b5d730b75ddbd35c7",
+      "dimensions": [
+        2500,
+        3400
+      ]
+    },
+    {
+      "i": 4,
+      "image": "https://www.markworthingtonjewellers.co.uk/images/super/W26W12154_4.JPG",
+      "httpStatus": 200,
+      "sha256": "25f980ecb2a889019e824b2a812120934efc79cb73adbf495036c1ab5b7b7999",
+      "dimensions": [
+        2459,
+        3382
+      ]
+    }
+  ],
+  "acceptedViews": [
+    {
+      "i": 1,
+      "category": "front"
+    },
+    {
+      "i": 4,
+      "category": "braceletClasp"
+    }
+  ],
+  "excluded": "Frame 2 box/paperwork inspected, excluded public URL. No unobscured back/movement image accepted. Buckle conservatively movement-flagged for obscured display-back background."
+}

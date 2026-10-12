@@ -1,0 +1,129 @@
+{
+  "reviewedAt": "2026-10-12T12:34:00.297Z",
+  "completion": "IN PROGRESS",
+  "source": "https://delraywatch.com/bremont-alt1-c-blue-pilots-chronograph/",
+  "manufacturerContext": "https://au.bremont.com/products/alt1-c-blue",
+  "variant": "Delray ALT1-C/BL specimen / blue dial, pale subdials, steel case, fitted used blue leather strap and signed pin buckle",
+  "evidence": "Original Delray listing documents ALT1-C/BL, 43mm steel case, automatic chronograph/date and used calf strap; specimen manufacture year is unstated. Eleven gallery files inspected (ten scenes plus smaller front rendition). Actual blue dial has pale subdials at three/nine, date at six, CHRONOMETER and LONDON; actual display back has AUTOMATIC / BREMONT / CHRONOMETER / 10 ATM inscriptions. Visible movement has a Bremont signed decorated rotor, blue screws and visible bridge finishing; no legible calibre stamp and no base-calibre equivalence established. Manufacturer retired ALT1-C Blue page describes a 2018 redesign and BE-50AE specification, but those dates/specifications do not prove this particular specimen date, physical calibre, pressure rating or current accuracy. Generic ALT1-C is explicitly representative of this blue steel/leather execution, not cream ALT1-C-CR, gold, black, polished-white or other suffixes. Signed pin buckle and worn blue leather are fitted specimen hardware; factory originality is not established. No paperwork photograph promoted.",
+  "images": [
+    {
+      "i": 0,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/products/4531/images/26872/DSC_5119__33554.1634913267.386.513.JPG?c=2",
+      "httpStatus": 200,
+      "sha256": "2e6c478e9a3daf120cbe2af080378334a1fb118b1cd67277f2f311edf8806828",
+      "dimensions": [
+        386,
+        386
+      ]
+    },
+    {
+      "i": 1,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/4531/26872/DSC_5119__33554.1634913267.JPG?c=2",
+      "httpStatus": 200,
+      "sha256": "8e1a4f9eec70ed9ea021fb6f3b6a6cb02775158e6b90806f30ab3b70d94bf774",
+      "dimensions": [
+        4000,
+        4000
+      ]
+    },
+    {
+      "i": 2,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/4531/26871/DSC_5120__42439.1634913269.JPG?c=2",
+      "httpStatus": 200,
+      "sha256": "d228b9ff8910f88ad1f5540e7fdf183fc6900612708f3bde8463942ab16e39a3",
+      "dimensions": [
+        4000,
+        4000
+      ]
+    },
+    {
+      "i": 3,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/4531/26873/DSC_5121__52497.1634913271.JPG?c=2",
+      "httpStatus": 200,
+      "sha256": "7d898d1830ffc5dc9503ed21a173e52fe3f1a7de3149303c546280e40f157b29",
+      "dimensions": [
+        4000,
+        4000
+      ]
+    },
+    {
+      "i": 4,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/4531/26869/DSC_5123__70780.1634913272.JPG?c=2",
+      "httpStatus": 200,
+      "sha256": "248be2bb4fec889d0913d2408ce7fb346759b00ef41026ac00aaa36176abe14d",
+      "dimensions": [
+        4000,
+        4000
+      ]
+    },
+    {
+      "i": 5,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/4531/26867/DSC_5122__16934.1634913274.JPG?c=2",
+      "httpStatus": 200,
+      "sha256": "bf2e97523956e536641ece70aad8ac8060715689bd7a6fa8b6ce06db2caafb80",
+      "dimensions": [
+        4000,
+        4000
+      ]
+    },
+    {
+      "i": 6,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/4531/26866/DSC_5124__75425.1634913258.JPG?c=2",
+      "httpStatus": 200,
+      "sha256": "05144254bb8611087d9e77bb53983c158bc0165503aa80b93b7d6aef45bb3be7",
+      "dimensions": [
+        4000,
+        4000
+      ]
+    },
+    {
+      "i": 7,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/4531/26870/DSC_5118__26071.1634913279.JPG?c=2",
+      "httpStatus": 200,
+      "sha256": "f9f974b90ec6e5b0ab13189b217041aae611dd1bb49e252f2ee337a47cbdc923",
+      "dimensions": [
+        4000,
+        4000
+      ]
+    },
+    {
+      "i": 9,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/4531/26868/DSC_5162__12282.1634913258.JPG?c=2",
+      "httpStatus": 200,
+      "sha256": "474e6e3d454fb47f4fba93d25aae3b902263963398555989b3978defdbe8a00c",
+      "dimensions": [
+        4000,
+        4000
+      ]
+    },
+    {
+      "i": 10,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/4531/26875/DSC_5085__61928.1634913258.JPG?c=2",
+      "httpStatus": 200,
+      "sha256": "6afb29bc8029fbbccc3124561f67203b841ecd1c95666826b0e24660779799f2",
+      "dimensions": [
+        4000,
+        4000
+      ]
+    }
+  ],
+  "acceptedViews": [
+    {
+      "i": 1,
+      "category": "front"
+    },
+    {
+      "i": 7,
+      "category": "movement"
+    },
+    {
+      "i": 7,
+      "category": "caseback"
+    },
+    {
+      "i": 6,
+      "category": "braceletClasp"
+    }
+  ],
+  "excluded": "Frame 8 box/paperwork inspected but not promoted or retained as a public image URL. Smaller front rendition and other comparison angles not attached. Bracelet frame conservatively movement-flagged for obscured display-back background."
+}
