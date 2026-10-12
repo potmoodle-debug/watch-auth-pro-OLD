@@ -1,0 +1,22 @@
+{
+  "reviewedAt": "2026-10-12T11:27:48.824Z",
+  "completion": "IN PROGRESS",
+  "source": "https://bellross.com/en-uk/products/br-v1-92-black-steel",
+  "evidence": "Exact stored spelling BRBRV1-92-S and alternative BRV1-92-S searched separately; no original source establishing either as the exact stored reference was found. Original Bell & Ross Black Steel product page reviewed and its sole front product image visually inspected at original 876x1050 resolution. Manufacturer identifies BRV192-BL-ST/SCA with wrist-size SKU suffixes S/M/L, 38.5mm polished-satin steel, BR-CAL.302 and black calfskin. These full configuration/size identifiers do not establish the doubled-BR stored key or justify stripping its prefix. Sole image is a manufacturer product image whose actual-photograph provenance is not independently established, with no back, movement or clasp detail. No image accepted for the unresolved stored key; do not borrow other V1-92 executions or silently correct the key. Original imported rule provenance is generic manufacturer/specialist records without a specific URL; identity research remains open.",
+  "acceptedViews": [],
+  "inspectedImages": [
+    {
+      "i": 0,
+      "image": "https://cdn.shopify.com/s/files/1/0937/4374/3243/files/BRV1-92-Black-Steel.png?v=1761063694",
+      "httpStatus": 200,
+      "sha256": "8eec994dcea98efc91d5eb08f1fba4c8b46c2227bd7d12d12b1bb109342af2a9"
+    }
+  ],
+  "manufacturerConfiguration": "BRV192-BL-ST/SCA",
+  "wristSizeSkus": [
+    "BRV192-BL-ST/SCA-S",
+    "BRV192-BL-ST/SCA-M",
+    "BRV192-BL-ST/SCA-L"
+  ],
+  "finding": "No documented equivalence to BRBRV1-92-S; exact identity remains unresolved. Product image not promoted to verified specimen photograph."
+}

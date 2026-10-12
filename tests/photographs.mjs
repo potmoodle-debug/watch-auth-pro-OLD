@@ -472,3 +472,47 @@ test('U50 Hydro stays external with quartz attribution distinct from photographe
  for(const ref of ['U50','U50 SDR','U50 S','1051','1051.010'])assert.equal(get(ref).length,0,ref);
  assert.ok(get('U50 Hydro').every(p=>p.review.evidence.includes('No opened movement')));
 });
+
+test('early anOrdain Model 2 cannot inherit current automatic or porcelain execution',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,options)=>matchingPhotographs(photos,'anOrdain',ref,options).filter(p=>p.id.startsWith('anordain-pass-'));
+ for(const ref of ['Model 2','anOrdain Model 2']){
+  assert.deepEqual(get(ref).map(p=>p.category).sort(),['braceletClasp','caseback','front']);
+  assert.ok(get(ref).every(p=>p.matchScope==='representative variant'));
+  assert.equal(get(ref,{externalOnly:true}).length,3);
+ }
+ for(const ref of ['Model 1','Model 2 Porcelain','Model 2 Racing Green','Model 2 Large','Model 2 A1'])assert.equal(get(ref).length,0,ref);
+ assert.ok(get('Model 2').every(p=>p.review.evidence.includes('unrelated prop')));
+ assert.match(get('Model 2').find(p=>p.category==='caseback').caption,/specimen-specific/);
+ assert.match(get('Model 2').find(p=>p.category==='braceletClasp').caption,/signature is not legible/);
+});
+
+test('Riviera case 65900 keeps documented coating variant and blurred movement gap',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,options)=>matchingPhotographs(photos,'Baume & Mercier',ref,options).filter(p=>p.id.startsWith('baume-pass-'));
+ assert.deepEqual(get('65900').map(p=>p.category).sort(),['braceletClasp','caseback','front']);
+ assert.ok(get('65900').every(p=>p.matchScope==='representative variant'));
+ assert.ok(get('M0A10617').every(p=>p.matchScope==='documented reference / variant'));
+ assert.deepEqual(get('65900',{externalOnly:true}).map(p=>p.category),['front']);
+ for(const ref of ['M0A10616','65901','10617','M0A10617-001'])assert.equal(get(ref).length,0,ref);
+ assert.match(get('65900').find(p=>p.category==='caseback').caption,/calibre cannot be physically read/);
+ const base=JSON.parse(fs.readFileSync(new URL('../intelligence.json',import.meta.url)));
+ const rule=base.rules.find(x=>x.brand==='Baume & Mercier'&&x.baseReference==='65900');
+ assert.match(rule.family,/Riviera Baumatic/);assert.equal(rule.manualReview,true);
+ assert.ok(rule.calibre.includes('BM13-1975A'));assert.ok(!rule.calibre.includes('BM12-1975A'));
+});
+
+test('Bell and Ross broad keys retain exact identity gaps and labelled steel specimen',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,options)=>matchingPhotographs(photos,'Bell & Ross',ref,options).filter(p=>p.id.startsWith('bell-pass-'));
+ for(const ref of ['BR03','BR03-92-S']){
+  assert.deepEqual(get(ref).map(p=>p.category).sort(),['braceletClasp','caseback','front']);
+  assert.ok(get(ref).every(p=>p.matchScope==='representative variant'));
+  assert.equal(get(ref,{externalOnly:true}).length,3);
+ }
+ for(const ref of ['BR03-92','BR03-92-S-20','BR03-92-D','BR03-94','BRBRV1-92-S','BRV192-BL-ST/SCA'])assert.equal(get(ref).length,0,ref);
+ const reviews=JSON.parse(fs.readFileSync(new URL('../photograph-reviews.json',import.meta.url)));
+ const v1=reviews.identifierReviews.find(x=>x.brand==='BELLROSS'&&x.reference==='BRBRV1-92-S');
+ assert.match(v1.categories.front.finding,/unresolved/);
+ assert.match(get('BR03').find(p=>p.category==='caseback').caption,/DO NOT UNSCREW/);
+});

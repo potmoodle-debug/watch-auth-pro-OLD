@@ -1,0 +1,148 @@
+{
+  "reviewedAt": "2026-10-12T11:23:59.125Z",
+  "completion": "IN PROGRESS",
+  "source": "https://closer-shop.jp/products/905886",
+  "official": "https://www.baume-et-mercier.com/us/en/collections/riviera-men/watch-riviera-10617.html",
+  "wempe": "https://www.wempe.com/en-us/watches/baume-mercier/riviera/riviera-baumatic-42-mm-m0a-10617",
+  "variant": "CLOSER 905886 / M0A10617 paired with photographed case 65900 / smoked grey sapphire dial / black ADLC steel and fitted black rubber strap / used display-back specimen",
+  "evidence": "All six CLOSER 905886 gallery frames inspected; front, back/crown and signed clasp at original 1000px resolution. Actual back visibly marked 65900 SWISS 100M STAINLESS STEEL; original dealer title pairs M0A10617/65900. Original manufacturer 10617 page confirms modern 2021 Riviera, 42mm, smoked grey sapphire dial, black ADLC steel, rubber strap, sapphire back, 120h reserve and 21 jewels. Wempe original authorised-dealer page maps M0A10617 to BM13-1975A; this remains source attribution. A second CLOSER specimen 962847 gallery (seven files) inspected for comparison, with paperwork/box frame excluded; it is not merged with this specimen. All actual movement views are out of focus or washed out: no physically legible calibre or sufficiently detailed execution, so no movement-category image accepted. The back and signed folding-clasp frames contain movement and are flagged for external-only suppression. Generic 65900 is explicitly representative of this documented grey/ADLC/rubber execution, not all case-family variants. No manufacturer date or originality verdict is inferred.",
+  "images": [
+    {
+      "i": 0,
+      "image": "https://cdn.shopify.com/s/files/1/0892/0124/6487/files/905886_1.jpg?v=1757047955",
+      "httpStatus": 200,
+      "sha256": "2b0dddb455fdb5bc18540598d7b309686ca0565f0f935840624077b9ca0613c2",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "i": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0892/0124/6487/files/905886_2.jpg?v=1757047954",
+      "httpStatus": 200,
+      "sha256": "b2ddb73383d73713fb841523f6b78494ba34abb67c1a53c78bc60eaf5a548157",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "i": 2,
+      "image": "https://cdn.shopify.com/s/files/1/0892/0124/6487/files/905886_3.jpg?v=1757047954",
+      "httpStatus": 200,
+      "sha256": "3425d429d2fc576d7d44b56a813faadc7be12cac7b3e644157dd937d90541c1a",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "i": 3,
+      "image": "https://cdn.shopify.com/s/files/1/0892/0124/6487/files/905886_4.jpg?v=1757047954",
+      "httpStatus": 200,
+      "sha256": "9903649c9a99d84151b22b31d6510be82f21869c43368df701d1daf50d9fb20a",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "i": 4,
+      "image": "https://cdn.shopify.com/s/files/1/0892/0124/6487/files/905886_5.jpg?v=1757047955",
+      "httpStatus": 200,
+      "sha256": "c9d24219390e64097fde500975f062b6ea5606eba3eb6093f49616f39a0c9b93",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "i": 5,
+      "image": "https://cdn.shopify.com/s/files/1/0892/0124/6487/files/905886_6.jpg?v=1757047954",
+      "httpStatus": 200,
+      "sha256": "b548b5d0d5772ec3a2d0d17ff6281b370948c38b350cc4c5e3a7662ce018cb48",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    }
+  ],
+  "acceptedViews": [
+    {
+      "i": 0,
+      "category": "front"
+    },
+    {
+      "i": 4,
+      "category": "caseback"
+    },
+    {
+      "i": 2,
+      "category": "braceletClasp"
+    }
+  ],
+  "comparisonImages": [
+    {
+      "i": 0,
+      "image": "https://cdn.shopify.com/s/files/1/0892/0124/6487/files/962847_1.jpg?v=1780965073",
+      "httpStatus": 200,
+      "sha256": "b8523793b867621a52f5ebaa5b291fcf97d460649f413d63780a33c7e8bb6b6a",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "i": 2,
+      "image": "https://cdn.shopify.com/s/files/1/0892/0124/6487/files/962847_2.jpg?v=1780965073",
+      "httpStatus": 200,
+      "sha256": "93caca45cc7e97350c10d1f29ae8cbfb02129c5ab75d4655d152d94fec6cb93a",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "i": 3,
+      "image": "https://cdn.shopify.com/s/files/1/0892/0124/6487/files/962847_6.jpg?v=1780965073",
+      "httpStatus": 200,
+      "sha256": "01bb6d2cfcc2dce582c4942fc2a429c893f8a1a71d1e8eee38c57f155129861b",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "i": 4,
+      "image": "https://cdn.shopify.com/s/files/1/0892/0124/6487/files/962847_3.jpg?v=1780965073",
+      "httpStatus": 200,
+      "sha256": "9baf2eb80a905560079b76ee08ce2c5540a6c3bb65e114e820e45fd544d55975",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "i": 5,
+      "image": "https://cdn.shopify.com/s/files/1/0892/0124/6487/files/962847_4.jpg?v=1780965073",
+      "httpStatus": 200,
+      "sha256": "5ffa6533db27f1e5a0902f71544da8a54f7b614d4c728431aa6ad4b11d8f26d4",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "i": 6,
+      "image": "https://cdn.shopify.com/s/files/1/0892/0124/6487/files/962847_5.jpg?v=1780965073",
+      "httpStatus": 200,
+      "sha256": "d4f8cb142bd74112c10cb79b93304e5080a0912897dd00ad496a668a8533a4c0",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    }
+  ],
+  "excluded": "Second specimen box/paperwork frame excluded from public receipt URLs; no photo from that specimen accepted. No movement image accepted due to insufficient detail."
+}
