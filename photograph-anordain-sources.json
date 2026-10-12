@@ -1,0 +1,85 @@
+{
+  "reviewedAt": "2026-10-12T11:18:32.520Z",
+  "completion": "IN PROGRESS",
+  "source": "https://kibblewatches.co.uk/products/2020-anordain-model-2-white-enamel-medium-manual",
+  "manufacturerComparison": "https://anordain.com/products/model-2-white",
+  "variant": "Source-dated August 2020 / early 36 mm Model 2 white vitreous-enamel dial / polished steel / UK-map closed back / fitted used black leather strap and pin buckle",
+  "evidence": "Kibble Watches original specimen page identifies early 36 mm manual Model 2 with white enamel dial, polished steel, UK-map closed back and source-attributed SW210-1. All nine gallery files inspected; selected front, back and buckle at original 1000px file resolution. Actual dial says VITREOUS ENAMEL; back OLD CRAFTS / NEW HANDS with UK/Ireland map, fitted strap quick-release hardware and simple pin buckle. Buckle signature is not legible from the accepted face view. August 2020 is source attribution, not an independent manufacture date. No opened watch movement photograph: gold-tone loose movement in staged frames 2 and 3 is an unrelated prop and is excluded. Current manufacturer Model 2 page offers manual SW210, automatic G101 and decorated A1: those are not interchangeable evidence for this early closed-back specimen. Generic stored Model 2 receives an explicitly representative white early variant. Paperwork frame excluded from public attachments and receipt URLs.",
+  "images": [
+    {
+      "i": 0,
+      "image": "https://kibblewatches.co.uk/cdn/shop/files/1_649186e1-0919-4554-9762-bf97879e842c.jpg?v=1689849673&width=1946",
+      "httpStatus": 200,
+      "sha256": "e1ac8f83e422bb47f8417356abda12bb4bc9b5cf2dd2d312328a27731f22864b",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "i": 1,
+      "image": "https://kibblewatches.co.uk/cdn/shop/files/2_fd4cbbdd-72c6-4a07-8208-127f7e70e869.jpg?v=1689849673&width=1946",
+      "httpStatus": 200,
+      "sha256": "0494f64ccb3e1b3b34c9159b1a6112ae75a8099d60273b16e90137135bead052",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "i": 5,
+      "image": "https://kibblewatches.co.uk/cdn/shop/files/6_0caf8ca0-712d-4e44-b7b8-655ec0354d48.jpg?v=1689849673&width=1946",
+      "httpStatus": 200,
+      "sha256": "0cabdbed153ae4f3bf7c0e9d80d9cddd82896b46080419d3796b932fd5072ad5",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "i": 6,
+      "image": "https://kibblewatches.co.uk/cdn/shop/files/7_e6e18e96-a76c-4dcc-861f-e8dd1c61d876.jpg?v=1689849673&width=1946",
+      "httpStatus": 200,
+      "sha256": "ca1de61907e88d1079df78c3a90127603733ebcdf9ea6d5c49149aac6630e6a3",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "i": 7,
+      "image": "https://kibblewatches.co.uk/cdn/shop/files/8_2ca8e29b-6b67-47c2-b56f-327b70743307.jpg?v=1689849674&width=1946",
+      "httpStatus": 200,
+      "sha256": "83c0454a6b9d8c2f09b5cf34ac1f8ddfc3e5658a0d671965e1e300f5d20af0b3",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "i": 8,
+      "image": "https://kibblewatches.co.uk/cdn/shop/files/9_506e42e3-60b7-4f0d-9838-a14c46db286e.jpg?v=1689849674&width=1946",
+      "httpStatus": 200,
+      "sha256": "fd9f39f3bbe2c6b310397ed59a0cccc27d2a982f26b5ba753eb5771c81e437f8",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    }
+  ],
+  "acceptedViews": [
+    {
+      "i": 0,
+      "category": "front"
+    },
+    {
+      "i": 5,
+      "category": "caseback"
+    },
+    {
+      "i": 6,
+      "category": "braceletClasp"
+    }
+  ],
+  "excluded": "Staged loose movement props in frames 2/3 are not this watch movement; paperwork frame 4 omitted from public receipt URLs."
+}

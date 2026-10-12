@@ -11,7 +11,7 @@ repository must not be modified.
 Network access was verified first. GitHub and the BenchAuth live site return HTTP
 200. Of 1,564 distinct stored source URLs, 1,531 return HTTP 200 and 33 manufacturer
 Breitling URLs return HTTP 403. HTTP access and download counts **do not** establish
-visual review. The historical PR #16 checkpoint was bb26ced602af392fa2b1a55c2feffe527ab7c998 (Pages run 37977132750 succeeded). Current published checkpoint is PR #20 at 080313df7f30e22f8d305ba06b5a795232bca86c, with 783 verified entries; eighteen further Sinn entries below are tested locally and prepared for publication. The ninth-checkpoint additions below are published; earlier next-checkpoint descriptions record the status when those batches were prepared.
+visual review. The historical PR #16 checkpoint was bb26ced602af392fa2b1a55c2feffe527ab7c998 (Pages run 37977132750 succeeded). Current published checkpoint is PR #21 at ff2aac29b5f1a2bfe59846074a200300fd6e7094, with 801 verified entries. The eighteen Sinn additions below are published; their preparation notes retain the status at that time. The ninth-checkpoint additions below are published; earlier next-checkpoint descriptions record the status when those batches were prepared.
 
 Rollback: GitHub branch `rollback/benchauth-before-photographs-20261008`, commit
 `b4ffc080c4dba6f55bb246377a24a3c2bf284052`. The original workspace recorded a local bundle at
@@ -38,11 +38,11 @@ watch models: punctuation/case duplicates collapse; M-prefixed aliases, base
 references and catalogue suffixes remain separate keys. Broad patterns require
 enumeration and source review; they are never counted as exact references.
 
-Current exact progress is in the generated coverage files: **313 identifier keys
-reviewed, 1,925 unreviewed; 232 source records reviewed, 2,215 unreviewed**. There are
-**836 catalogue assets: 801 verified gallery entries, 26 pending and 9 rejected**, including 31
-legacy assets. Verified entries use **766 distinct stored image URLs and 765 distinct inspected file hashes**; the same photograph can serve two categories. Verified reference-key coverage: **front 250, movement 97, caseback
-219, bracelet/clasp 210**. Reviewed gaps describe the inspected source set, not a
+Current exact progress is in the generated coverage files: **317 identifier keys
+reviewed, 1,921 unreviewed; 237 source records reviewed, 2,210 unreviewed**. There are
+**845 catalogue assets: 810 verified gallery entries, 26 pending and 9 rejected**, including 31
+legacy assets. Verified entries use **774 distinct stored image URLs and 773 distinct inspected file hashes**; the same photograph can serve two categories. Verified reference-key coverage: **front 253, movement 97, caseback
+222, bracelet/clasp 213**. Reviewed gaps describe the inspected source set, not a
 claim that no suitable image exists elsewhere. Existing textual research and
 pre-existing "verified" mapping badges do not verify photographs. Unreviewed
 categories are not counted as reviewed gaps.
@@ -833,3 +833,31 @@ Inspected all six Betteridge inventory 40991281 / AS08304 gallery frames and its
 Eleven additional views were inspected and accepted across 358 Anniversary (four), 206 Arktis II (four) and U50 Hydro (three). Generic 358 is explicitly representative of the slate Anniversary specimen, with actual 1961–2011 dial and 50 JAHRE / 428/500 display back. Used brown strap and buckle side view retains signature/material limits. The source dimension and hidden calibre are not independently verified. The Arktis II front and actual display back agree with the dealer-identified blue steel specimen; its movement calibre is not physically established. Its clasp frame includes background movement, and all movement-bearing frames are flagged for external-only suppression. U50 Hydro has a physically marked closed back, steel-bezel black HYDRO dial and signed clasp; source-dated 2024 and 715 Li quartz attribution remain textual. There is no opened movement image and HYDRO safety remains intact. All box/paperwork frames are excluded from public attachments and receipt URLs.
 
 All six stored Sinn keys now have an initial review, including the unresolved 140/42 listing/specimen conflict; this is not complete photograph coverage. Overall inventory remains 1,925 unreviewed keys and 2,215 unreviewed source records. All 51 Node checks pass. Eleven new entries (nine distinct actual files) passed real Chrome loading/enlargement/credits/variant/mobile checks across seven explicit keys. Combined with the earlier seven Sinn entries, this prepares eighteen photograph entries for release beyond published PR20. No authorized signed-in session is available; live authenticated refresh/RLS remains outstanding. Research remains IN PROGRESS.
+
+## Sinn publication verified — PR21, 2026-10-12
+
+Published only to potmoodle-debug/watch-auth-pro-OLD. PR21 merged as ff2aac29b5f1a2bfe59846074a200300fd6e7094; release tree 07f1942af08e020a5af47cc4056bcf7d90be1876 exactly matches the tested local tree. Rollback branch rollback/benchauth-before-sinn-20261012 retains prior main 080313df7f30e22f8d305ba06b5a795232bca86c. Pages run 38241213996 completed successfully. Six live files (index.html, bench.js, photographs.js, photographs.json, photograph-coverage.json and CSV) returned HTTP200 and matched main bytes exactly. All eighteen new Sinn entries (fifteen actual files) loaded and enlarged on the live site across twelve explicit keys, with credits, variants and mobile layout verified. App and workflow files were unchanged; production WatchAuthPro was untouched.
+
+The original goal continues: 1,925 keys and 2,215 source records remain unreviewed; reviewed gaps and pending media remain open. Signed-in refresh/RLS remains outstanding because no authorized session is available. Next initial source review: stored anOrdain Model 2.
+
+## Early anOrdain Model 2 — 2026-10-12, local unpublished
+
+Three actual Kibble Watches specimen views accepted: front, UK/Ireland-map closed back and pin buckle. All nine gallery frames inspected, selected originals 1000px. Source identifies August 2020 early polished-steel 36mm white vitreous-enamel Model 2 and attributes manual SW210-1. Stored Model 2 receives an explicitly representative white early variant; no current Porcelain, G101, decorated A1, large-case or other-dial inheritance. Hidden calibre and manufacture date remain source attribution. Map engraving is specimen-specific; the source describes a signed buckle but the accepted face view does not show a legible signature. Staged frames with an unrelated loose gold-tone movement prop are excluded; no actual opened movement photo was accepted. Box/paperwork frame excluded from public receipt URLs.
+
+All 52 Node tests pass. Three distinct files loaded and enlarged in real Chrome across the two explicit Model 2 lookup keys, including credits, representative labels and mobile overflow checks. Published main remains PR21 with 801 entries; these three additions are local and unpublished. Research remains IN PROGRESS: 1,924 stored keys and 2,214 source records unreviewed. No authorized signed-in session; live refresh/RLS remains outstanding.
+
+## Baume & Mercier case 65900 — 2026-10-12, local unpublished
+
+Three CLOSER 905886 views accepted: actual grey sapphire front, legibly stamped 65900 display back/crown, and signed folding clasp. All six originals inspected, selected 1000px; second CLOSER 962847 seven-frame gallery inspected as comparison but no entries merged across specimens. Source explicitly pairs M0A10617/65900. Manufacturer 10617 page identifies modern 2021 Riviera, black ADLC steel, smoked grey sapphire dial, rubber strap and 120-hour Baumatic; original Wempe authorised-dealer listing attributes BM13-1975A. Corrected the prior Vintage/Classic description and vague calibre display in the one stored 65900 rule. Retained legacy 1975A only as limited family guidance with manual review; no BM12 equivalence. All other intelligence and safety data were compared structurally and preserved exactly. Generic case 65900 has an explicitly representative M0A10617 grey/ADLC/rubber specimen; other configurations cannot inherit an unqualified variant assertion.
+
+No movement-category entry accepted: actual display-back views are out of focus/washed out and do not physically establish calibre or detailed execution. Back and clasp frame retain movement flags, so external-only comparison shows the front only. Manufacturer ratings are specifications, not present water resistance or independently measured reserve. No independent manufacture-date, originality or authenticity verdict. Second specimen box/paperwork frame excluded from public receipt URLs.
+
+All 53 Node tests pass. Three actual files loaded/enlarged in Chrome across the two explicit case/model keys, with credits, variant labels and mobile overflow verified. Local catalogue now has 807 entries, six beyond published PR21 (801). Research remains IN PROGRESS: 1,923 keys and 2,213 source records unreviewed; signed-in refresh/RLS remains outstanding without an authorized session.
+
+## Bell & Ross initial stored-key review — 2026-10-12, local unpublished
+
+Stored BRBRV1-92-S remains unresolved. Exact spelling and an alternative were searched; original manufacturer Black Steel page identifies BRV192-BL-ST/SCA and S/M/L wrist-size SKUs. Sole product image inspected but no actual-photograph provenance or exact stored-key equivalence established. No image accepted, no prefix silently stripped and no hidden full configuration inferred. All four categories retain researched identity/view gaps; further investigation remains open.
+
+Three actual Delray 4732 BR03-92-S Black Steel views accepted: full-size front, closed back and fitted canvas/buckle. Six original scenes plus a smaller front rendition inspected; full original front/back images used. Actual closed back has BR03-92-S prefix and seller-masked identity; DO NOT UNSCREW and military-style wording are retained without inferring issue status or present pressure rating. Fitted olive canvas/dark scratched pin buckle are specimen-specific and buckle letters are not legible. Generic BR03 and source BR03-92-S are representative of this execution, not ceramic, Diver, Golden Heritage, chronograph or later generation. No opened movement photo, physically verified calibre, manufacture date or factory strap assertion. Broad source pattern was reviewed separately without promoting it to a literal stored identifier.
+
+All 54 Node tests pass. Three new gallery entries (two actual files) loaded/enlarged in Chrome across two explicit lookup keys, with credits, representative labels and mobile overflow checked. Both stored Bell & Ross keys have an initial review; gaps remain. Local catalogue 810 includes nine unpublished additions beyond live PR21 (801). Research remains IN PROGRESS: 1,921 identifier keys and 2,210 source records unreviewed. No authorized signed-in session; refresh/RLS remains outstanding.

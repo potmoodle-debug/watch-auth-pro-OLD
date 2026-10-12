@@ -1,0 +1,94 @@
+{
+  "reviewedAt": "2026-10-12T11:29:26.951Z",
+  "completion": "IN PROGRESS",
+  "source": "https://delraywatch.com/bell-ross-br03-92-s-black-steel-inventory-4732/",
+  "variant": "Delray inventory 4732 / BR03-92-S Black Steel / black dial, steel square case and fitted used olive canvas strap with dark pin buckle",
+  "evidence": "Delray original listing identifies BR03-92-S Black Steel, 42mm square steel case, automatic and canvas strap; no manufacture year or calibre specified. Six distinct original gallery scenes plus small front rendition inspected; selected full-size front and back/buckle originals. Actual dial BR03-92, actual back BR03-92-S followed by partially masked identity, AVIATION TYPE / MILITARY SPEC., DO NOT UNSCREW, STAINLESS STEEL / AUTOMATIC MOVEMENT / WATER RESISTANT 100M/325FT / SWISS MADE. No opened movement photograph or physical calibre evidence; no SW300/BR-CAL.302 equivalence inferred. Fitted olive canvas and scratched dark pin buckle are this specimen, not an assertion of factory strap configuration. Buckle lettering is not legible. Generic BR03 and source BR03-92-S are explicitly representative of this black-dial steel/canvas execution, not ceramic, Diver, Golden Heritage, chronograph or later-generation configurations. Actual back instruction retained; routine unscrewing is not advised. Pattern source reviewed as source inventory, not promoted to a literal stored identifier.",
+  "images": [
+    {
+      "i": 0,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/products/6352/images/42204/4732-1__29977.1700078036.386.513.jpg?c=2",
+      "httpStatus": 200,
+      "sha256": "8e050cd5f17894df4a325e18f140e194ef3c97f04cc2bd2832ab5fc69356deeb",
+      "dimensions": [
+        386,
+        386
+      ]
+    },
+    {
+      "i": 1,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/6352/42204/4732-1__29977.1700078036.jpg?c=2",
+      "httpStatus": 200,
+      "sha256": "9c21d7f44b5563084de3054b6125946d48605d4fcf80f7bf08b8dcb728ddca1e",
+      "dimensions": [
+        2169,
+        2169
+      ]
+    },
+    {
+      "i": 2,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/6352/42199/4732-2__00937.1700078031.jpg?c=2",
+      "httpStatus": 200,
+      "sha256": "bbc23b0e5637f7c2c93f6293b380a75c78d3688e3b13d5cf7793cc177a8fcf0c",
+      "dimensions": [
+        2120,
+        2119
+      ]
+    },
+    {
+      "i": 3,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/6352/42200/4732-3__67939.1700078031.jpg?c=2",
+      "httpStatus": 200,
+      "sha256": "0d3a91cbb1d147fd11a3d297fc309054a150c2cabf019a26d92d4d9ff3518f38",
+      "dimensions": [
+        2120,
+        2119
+      ]
+    },
+    {
+      "i": 4,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/6352/42202/4732-5__90061.1700078038.jpg?c=2",
+      "httpStatus": 200,
+      "sha256": "7b104d5ca5b3e2a45f30e7e96b57cfaf0dc751b34ace3ae6dfbce70293bdbf40",
+      "dimensions": [
+        2245,
+        2245
+      ]
+    },
+    {
+      "i": 5,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/6352/42203/4732-4__73069.1700078039.jpg?c=2",
+      "httpStatus": 200,
+      "sha256": "ac062d887b1411bf4a3a952a149e52a293f4511a0896d7c3584d821d8caef4a7",
+      "dimensions": [
+        2190,
+        2190
+      ]
+    },
+    {
+      "i": 6,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/6352/42201/4732-6__15555.1700078031.jpg?c=2",
+      "httpStatus": 200,
+      "sha256": "1592b86263ce7d1f4ae3e4bbf0483cce4048e218bebf53681a13dca1a387c2a2",
+      "dimensions": [
+        2152,
+        2154
+      ]
+    }
+  ],
+  "acceptedViews": [
+    {
+      "i": 1,
+      "category": "front"
+    },
+    {
+      "i": 6,
+      "category": "caseback"
+    },
+    {
+      "i": 6,
+      "category": "braceletClasp"
+    }
+  ],
+  "excluded": "Small front rendition inspected but not attached; full-size original used. No opened movement view in gallery."
+}
