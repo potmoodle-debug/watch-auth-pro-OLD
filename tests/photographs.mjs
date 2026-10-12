@@ -431,3 +431,11 @@ test('second Panerai batch keeps photographed manual executions and masked ident
 test('PAM00915 closed-back specimen cannot inherit a photographed P.5000 or neighbouring reference',()=>{
  const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;const get=ref=>matchingPhotographs(photos,'Panerai',ref).filter(p=>p.id.startsWith('panerai-pass3-'));assert.deepEqual(get('PAM00915').map(p=>p.category).sort(),['braceletClasp','caseback','front']);for(const ref of ['PAM00914','PAM00916','PAM00609','PAM915'])assert.equal(get(ref).length,0,ref);
 });
+
+test('PAM01271 white Quaranta retains full reference and closed-back evidence',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;const get=ref=>matchingPhotographs(photos,'Panerai',ref).filter(p=>p.id.startsWith('panerai-pass4-'));assert.deepEqual(get('PAM01271').map(p=>p.category).sort(),['braceletClasp','caseback','front']);assert.ok(get('PAM01271').every(p=>p.variant.includes('white')));for(const ref of ['PAM01372','PAM01272','PAM1271','PAM01271-0001'])assert.equal(get(ref).length,0,ref);
+});
+
+test('final stored Panerai keys preserve actual execution and external-only background suppression',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;const get=(ref,options)=>matchingPhotographs(photos,'Panerai',ref,options).filter(p=>p.id.startsWith('panerai-pass5-'));assert.equal(get('PAM01305').length,4);assert.match(get('PAM01305').find(p=>p.category==='movement').caption,/automatic.*31.*two-screw/);assert.deepEqual(get('PAM01305',{externalOnly:true}).map(p=>p.category),['front']);assert.deepEqual(get('PAM01572').map(p=>p.category).sort(),['braceletClasp','caseback','front']);for(const ref of ['PAM00305','PAM01305-0001','PAM01573','OP7607','PAM1572'])assert.equal(get(ref).length,0,ref);const p574=matchingPhotographs(photos,'Panerai','PAM00574',{externalOnly:true}).filter(p=>p.id.startsWith('panerai-pass2-'));assert.deepEqual(p574.map(p=>p.category),['front']);
+});

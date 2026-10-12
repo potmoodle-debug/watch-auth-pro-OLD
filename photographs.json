@@ -26898,7 +26898,7 @@
       "variant": "42 mm steel Radiomir 1940 / black sandwich dial / fitted green leather strap / source-identified manual P.1000 execution",
       "category": "braceletClasp",
       "title": "PAM00574 — braceletClasp",
-      "caption": "Actual PANERAI-signed pin buckle on fitted green leather strap.",
+      "caption": "Actual PANERAI-signed pin buckle on fitted green leather strap. Blurred display-back movement appears in the background; this entire frame is withheld for external-only lookups.",
       "image": "https://images.europeanwatch.com/images/50/50111-5.jpg",
       "source": "https://www.europeanwatch.com/watch/panerai-pam00574-radiomir-manual-wind-ss-42mm-1940-3-day-50111",
       "credit": "European Watch Company",
@@ -26917,7 +26917,8 @@
           864
         ],
         "imageSha256": "105805df11222892c300452b795943c4a0e819eb9531692efb883d9391266195"
-      }
+      },
+      "depictsMovement": true
     },
     {
       "id": "panerai-pass2-pam00609-front",
@@ -27294,6 +27295,319 @@
           864
         ],
         "imageSha256": "f9fb3a298e0c4c15953596bbf13485d8f34a6dbad241fdc130aa182e7e7f29fa"
+      }
+    },
+    {
+      "id": "panerai-pass4-pam01271-front",
+      "brand": "PANERAI",
+      "references": [
+        "PAM01271"
+      ],
+      "representativeFor": [],
+      "variant": "40 mm steel Luminor Marina Quaranta / white automatic dial / fitted black leather strap and signed pin buckle / closed-back specimen",
+      "category": "front",
+      "title": "PAM01271 — front",
+      "caption": "Actual white Luminor Marina dial with date at 3, small seconds at 9 and fitted black leather strap. Compare this white-dial specimen only; source-specified 40 mm cannot be measured from pixels.",
+      "image": "https://images.europeanwatch.com/images/57/57576-1.jpg",
+      "source": "https://www.europeanwatch.com/watch/panerai-pam01271-luminor-marina-quaranta-stainless-steel-40mm-whi-57576",
+      "credit": "European Watch Company",
+      "mediaKind": "photograph",
+      "origin": "inspected Panerai specimen research 2026-10-12",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-12T10:39:05.386Z",
+        "loadedAt": "2026-10-12T10:39:05.386Z",
+        "evidence": "EWC stock 57576 explicitly identifies PAM01271. All six actual gallery photographs inspected, including back and buckle at full resolution. Actual white dial has date at 3 and small seconds at 9; closed brushed steel back marked LUMINOR / PANERAI / STAINLESS STEEL / 100 m with seller-masked identity digits. Source describes automatic P.900, but no movement photograph exists. No neighbouring PAM01372, PAM01272 or short numeric alias inherits these images. Source paper-date fields conflict, so no confirmed production year is asserted. Source: https://www.europeanwatch.com/watch/panerai-pam01271-luminor-marina-quaranta-stainless-steel-40mm-whi-57576",
+        "imageDimensions": [
+          1080,
+          864
+        ],
+        "imageSha256": "faede0383a30fb94fadb024b2c869edce74429c84cbafd61dfa89e52293e4f9c"
+      }
+    },
+    {
+      "id": "panerai-pass4-pam01271-caseback",
+      "brand": "PANERAI",
+      "references": [
+        "PAM01271"
+      ],
+      "representativeFor": [],
+      "variant": "40 mm steel Luminor Marina Quaranta / white automatic dial / fitted black leather strap and signed pin buckle / closed-back specimen",
+      "category": "caseback",
+      "title": "PAM01271 — caseback",
+      "caption": "Actual closed brushed steel back, LUMINOR / PANERAI / STAINLESS STEEL / 100 m; seller-masked identity digits cannot be compared.",
+      "image": "https://images.europeanwatch.com/images/57/57576-6.jpg",
+      "source": "https://www.europeanwatch.com/watch/panerai-pam01271-luminor-marina-quaranta-stainless-steel-40mm-whi-57576",
+      "credit": "European Watch Company",
+      "mediaKind": "photograph",
+      "origin": "inspected Panerai specimen research 2026-10-12",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-12T10:39:05.386Z",
+        "loadedAt": "2026-10-12T10:39:05.386Z",
+        "evidence": "EWC stock 57576 explicitly identifies PAM01271. All six actual gallery photographs inspected, including back and buckle at full resolution. Actual white dial has date at 3 and small seconds at 9; closed brushed steel back marked LUMINOR / PANERAI / STAINLESS STEEL / 100 m with seller-masked identity digits. Source describes automatic P.900, but no movement photograph exists. No neighbouring PAM01372, PAM01272 or short numeric alias inherits these images. Source paper-date fields conflict, so no confirmed production year is asserted. Source: https://www.europeanwatch.com/watch/panerai-pam01271-luminor-marina-quaranta-stainless-steel-40mm-whi-57576",
+        "imageDimensions": [
+          1080,
+          864
+        ],
+        "imageSha256": "42681fa09bfbf7b3bb8bfa0806a3ffdd31aa9864089b1b3becbb2328de980b6d"
+      }
+    },
+    {
+      "id": "panerai-pass4-pam01271-braceletClasp",
+      "brand": "PANERAI",
+      "references": [
+        "PAM01271"
+      ],
+      "representativeFor": [],
+      "variant": "40 mm steel Luminor Marina Quaranta / white automatic dial / fitted black leather strap and signed pin buckle / closed-back specimen",
+      "category": "braceletClasp",
+      "title": "PAM01271 — braceletClasp",
+      "caption": "Actual PANERAI-signed steel pin buckle on fitted black leather strap. Factory originality is not asserted.",
+      "image": "https://images.europeanwatch.com/images/57/57576-5.jpg",
+      "source": "https://www.europeanwatch.com/watch/panerai-pam01271-luminor-marina-quaranta-stainless-steel-40mm-whi-57576",
+      "credit": "European Watch Company",
+      "mediaKind": "photograph",
+      "origin": "inspected Panerai specimen research 2026-10-12",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-12T10:39:05.386Z",
+        "loadedAt": "2026-10-12T10:39:05.386Z",
+        "evidence": "EWC stock 57576 explicitly identifies PAM01271. All six actual gallery photographs inspected, including back and buckle at full resolution. Actual white dial has date at 3 and small seconds at 9; closed brushed steel back marked LUMINOR / PANERAI / STAINLESS STEEL / 100 m with seller-masked identity digits. Source describes automatic P.900, but no movement photograph exists. No neighbouring PAM01372, PAM01272 or short numeric alias inherits these images. Source paper-date fields conflict, so no confirmed production year is asserted. Source: https://www.europeanwatch.com/watch/panerai-pam01271-luminor-marina-quaranta-stainless-steel-40mm-whi-57576",
+        "imageDimensions": [
+          1080,
+          864
+        ],
+        "imageSha256": "93344df2137a3c3591b2ffc1f7325769a8d70830af73460648210b4ce7dd3952"
+      }
+    },
+    {
+      "id": "panerai-pass5-pam01305-front",
+      "brand": "PANERAI",
+      "references": [
+        "PAM01305"
+      ],
+      "representativeFor": [],
+      "variant": "47 mm titanium Luminor Submersible 1950 / black dial with blue seconds hand / fitted black rubber strap / source-identified automatic P.9010 execution",
+      "category": "front",
+      "title": "PAM01305 — front",
+      "caption": "Actual titanium-cased specimen: black Submersible dial, blue small-seconds hand, date at 3, fitted black rubber strap and dive bezel. Material and 47 mm size are paired source facts, not measurements from pixels.",
+      "image": "https://images.europeanwatch.com/images/70/70146-1.jpg",
+      "source": "https://www.europeanwatch.com/watch/panerai-pam01305-pam01305-luminor-submersible-1950-3-days-titaniu-70146",
+      "credit": "European Watch Company",
+      "mediaKind": "photograph",
+      "origin": "inspected Panerai specimen research 2026-10-12",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-12T10:42:39.797Z",
+        "loadedAt": "2026-10-12T10:42:39.797Z",
+        "evidence": "EWC stock 70146 identifies exact PAM01305 and automatic P.9010. Seven actual gallery frames inspected, selected back and buckle at full resolution. Actual movement has signed rotor with (31) JEWELS, brushed bridges and two-screw balance bridge. P.9010 identity relies on paired exact-reference source; no readable calibre engraving claimed. Back physically marked TITANIUM / SUBMERSIBLE / 300 m; seller masks identity digits. Source paper date conflicts (2018 versus Undated), so no confirmed production year asserted. Source: https://www.europeanwatch.com/watch/panerai-pam01305-pam01305-luminor-submersible-1950-3-days-titaniu-70146",
+        "imageDimensions": [
+          1080,
+          864
+        ],
+        "imageSha256": "4d99f084345d25a4db4be5edd26c9612a1894ad51599fd1887b16d3d9d41c4de"
+      }
+    },
+    {
+      "id": "panerai-pass5-pam01305-movement",
+      "brand": "PANERAI",
+      "references": [
+        "PAM01305"
+      ],
+      "representativeFor": [],
+      "variant": "47 mm titanium Luminor Submersible 1950 / black dial with blue seconds hand / fitted black rubber strap / source-identified automatic P.9010 execution",
+      "category": "movement",
+      "title": "PAM01305 — movement",
+      "caption": "Actual automatic execution with OFFICINE PANERAI rotor / (31) JEWELS, brushed bridge layout and two-screw balance bridge. Paired source identifies P.9010; hidden calibre markings are not inferred.",
+      "image": "https://images.europeanwatch.com/images/70/70146-6.jpg",
+      "source": "https://www.europeanwatch.com/watch/panerai-pam01305-pam01305-luminor-submersible-1950-3-days-titaniu-70146",
+      "credit": "European Watch Company",
+      "mediaKind": "photograph",
+      "origin": "inspected Panerai specimen research 2026-10-12",
+      "depictsMovement": true,
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-12T10:42:39.797Z",
+        "loadedAt": "2026-10-12T10:42:39.797Z",
+        "evidence": "EWC stock 70146 identifies exact PAM01305 and automatic P.9010. Seven actual gallery frames inspected, selected back and buckle at full resolution. Actual movement has signed rotor with (31) JEWELS, brushed bridges and two-screw balance bridge. P.9010 identity relies on paired exact-reference source; no readable calibre engraving claimed. Back physically marked TITANIUM / SUBMERSIBLE / 300 m; seller masks identity digits. Source paper date conflicts (2018 versus Undated), so no confirmed production year asserted. Source: https://www.europeanwatch.com/watch/panerai-pam01305-pam01305-luminor-submersible-1950-3-days-titaniu-70146",
+        "imageDimensions": [
+          1080,
+          864
+        ],
+        "imageSha256": "cce493797b83bb035b595af367e508e376cee75ccf9301fef77cc9085111a85b"
+      }
+    },
+    {
+      "id": "panerai-pass5-pam01305-caseback",
+      "brand": "PANERAI",
+      "references": [
+        "PAM01305"
+      ],
+      "representativeFor": [],
+      "variant": "47 mm titanium Luminor Submersible 1950 / black dial with blue seconds hand / fitted black rubber strap / source-identified automatic P.9010 execution",
+      "category": "caseback",
+      "title": "PAM01305 — caseback",
+      "caption": "Actual closed sapphire back with TITANIUM / SUBMERSIBLE / 300 m and cased movement. Seller-masked identity digits cannot be compared. Withheld for external-only inspection.",
+      "image": "https://images.europeanwatch.com/images/70/70146-6.jpg",
+      "source": "https://www.europeanwatch.com/watch/panerai-pam01305-pam01305-luminor-submersible-1950-3-days-titaniu-70146",
+      "credit": "European Watch Company",
+      "mediaKind": "photograph",
+      "origin": "inspected Panerai specimen research 2026-10-12",
+      "depictsMovement": true,
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-12T10:42:39.797Z",
+        "loadedAt": "2026-10-12T10:42:39.797Z",
+        "evidence": "EWC stock 70146 identifies exact PAM01305 and automatic P.9010. Seven actual gallery frames inspected, selected back and buckle at full resolution. Actual movement has signed rotor with (31) JEWELS, brushed bridges and two-screw balance bridge. P.9010 identity relies on paired exact-reference source; no readable calibre engraving claimed. Back physically marked TITANIUM / SUBMERSIBLE / 300 m; seller masks identity digits. Source paper date conflicts (2018 versus Undated), so no confirmed production year asserted. Source: https://www.europeanwatch.com/watch/panerai-pam01305-pam01305-luminor-submersible-1950-3-days-titaniu-70146",
+        "imageDimensions": [
+          1080,
+          864
+        ],
+        "imageSha256": "cce493797b83bb035b595af367e508e376cee75ccf9301fef77cc9085111a85b"
+      }
+    },
+    {
+      "id": "panerai-pass5-pam01305-braceletClasp",
+      "brand": "PANERAI",
+      "references": [
+        "PAM01305"
+      ],
+      "representativeFor": [],
+      "variant": "47 mm titanium Luminor Submersible 1950 / black dial with blue seconds hand / fitted black rubber strap / source-identified automatic P.9010 execution",
+      "category": "braceletClasp",
+      "title": "PAM01305 — braceletClasp",
+      "caption": "Actual PANERAI-signed buckle and fitted black rubber strap. Source identifies titanium buckle; appearance alone cannot verify alloy. Blurred display-back movement is visible in background, so this entire frame is withheld for external-only inspection.",
+      "image": "https://images.europeanwatch.com/images/70/70146-5.jpg",
+      "source": "https://www.europeanwatch.com/watch/panerai-pam01305-pam01305-luminor-submersible-1950-3-days-titaniu-70146",
+      "credit": "European Watch Company",
+      "mediaKind": "photograph",
+      "origin": "inspected Panerai specimen research 2026-10-12",
+      "depictsMovement": true,
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-12T10:42:39.797Z",
+        "loadedAt": "2026-10-12T10:42:39.797Z",
+        "evidence": "EWC stock 70146 identifies exact PAM01305 and automatic P.9010. Seven actual gallery frames inspected, selected back and buckle at full resolution. Actual movement has signed rotor with (31) JEWELS, brushed bridges and two-screw balance bridge. P.9010 identity relies on paired exact-reference source; no readable calibre engraving claimed. Back physically marked TITANIUM / SUBMERSIBLE / 300 m; seller masks identity digits. Source paper date conflicts (2018 versus Undated), so no confirmed production year asserted. Source: https://www.europeanwatch.com/watch/panerai-pam01305-pam01305-luminor-submersible-1950-3-days-titaniu-70146",
+        "imageDimensions": [
+          1080,
+          864
+        ],
+        "imageSha256": "d437f9d3011adfe8c143ccb2cd62da5a556430fbf5890d3d8c2e841ac6ca7212"
+      }
+    },
+    {
+      "id": "panerai-pass5-pam01572-front",
+      "brand": "PANERAI",
+      "references": [
+        "PAM01572"
+      ],
+      "representativeFor": [],
+      "variant": "Dealer-identified AA-series 40 mm steel Radiomir Quaranta / black dial / fitted black leather strap / closed-back serviced specimen",
+      "category": "front",
+      "title": "PAM01572 — front",
+      "caption": "Actual black Radiomir dial, gold-tone hands and markers, date at 3 and small seconds at 9. Fitted black leather strap; no factory originality claim. Original 640 px resolution limits fine-detail comparison.",
+      "image": "https://image1.shopserve.jp/rasin.co.jp/pic-labo/llimg/1qewopau0001-1.jpg?t=20260927132845",
+      "source": "https://www.rasin.co.jp/SHOP/U-PAM01572.html",
+      "credit": "GINZA RASIN",
+      "mediaKind": "photograph",
+      "origin": "inspected Panerai specimen research 2026-10-12",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-12T10:42:39.797Z",
+        "loadedAt": "2026-10-12T10:42:39.797Z",
+        "evidence": "GINZA RASIN item U-PAM01572 identifies exact PAM01572. Seven gallery frames inspected; selected closed back and buckle at original 640 px resolution. Mannequin image explicitly illustrative and paperwork frame excluded from attachments/receipt URLs. Actual back shows OP7607 / STAINLESS STEEL / 50 m; identity/edition portions masked. OP7607 is not a lookup alias. Dealer states warranty June 2025 and manufacturer complete service September 2026; these are source claims, not independently verified factory-originality or production-year evidence. Written P.900 description does not provide movement photo coverage. Source: https://www.rasin.co.jp/SHOP/U-PAM01572.html",
+        "imageDimensions": [
+          640,
+          640
+        ],
+        "imageSha256": "b64e2285575ad3e0539cf6f285cc5bfa469d4278e67e16542ac5a4a0bc43ac49"
+      }
+    },
+    {
+      "id": "panerai-pass5-pam01572-caseback",
+      "brand": "PANERAI",
+      "references": [
+        "PAM01572"
+      ],
+      "representativeFor": [],
+      "variant": "Dealer-identified AA-series 40 mm steel Radiomir Quaranta / black dial / fitted black leather strap / closed-back serviced specimen",
+      "category": "caseback",
+      "title": "PAM01572 — caseback",
+      "caption": "Actual closed steel PANERAI / RADIOMIR back with OP7607, STAINLESS STEEL and 50 m. Masked identity/edition cannot be compared. Original 640 px resolution.",
+      "image": "https://image1.shopserve.jp/rasin.co.jp/pic-labo/llimg/1qewopau0001-4.jpg?t=20260927132846",
+      "source": "https://www.rasin.co.jp/SHOP/U-PAM01572.html",
+      "credit": "GINZA RASIN",
+      "mediaKind": "photograph",
+      "origin": "inspected Panerai specimen research 2026-10-12",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-12T10:42:39.797Z",
+        "loadedAt": "2026-10-12T10:42:39.797Z",
+        "evidence": "GINZA RASIN item U-PAM01572 identifies exact PAM01572. Seven gallery frames inspected; selected closed back and buckle at original 640 px resolution. Mannequin image explicitly illustrative and paperwork frame excluded from attachments/receipt URLs. Actual back shows OP7607 / STAINLESS STEEL / 50 m; identity/edition portions masked. OP7607 is not a lookup alias. Dealer states warranty June 2025 and manufacturer complete service September 2026; these are source claims, not independently verified factory-originality or production-year evidence. Written P.900 description does not provide movement photo coverage. Source: https://www.rasin.co.jp/SHOP/U-PAM01572.html",
+        "imageDimensions": [
+          640,
+          640
+        ],
+        "imageSha256": "3d772163175939b3ae4f3e695390c2444e629c20f34bb173dbc23e67a2ef5971"
+      }
+    },
+    {
+      "id": "panerai-pass5-pam01572-braceletClasp",
+      "brand": "PANERAI",
+      "references": [
+        "PAM01572"
+      ],
+      "representativeFor": [],
+      "variant": "Dealer-identified AA-series 40 mm steel Radiomir Quaranta / black dial / fitted black leather strap / closed-back serviced specimen",
+      "category": "braceletClasp",
+      "title": "PAM01572 — braceletClasp",
+      "caption": "Actual fitted black leather strap and PANERAI-signed steel pin buckle; original 640 px resolution limits fine detail.",
+      "image": "https://image1.shopserve.jp/rasin.co.jp/pic-labo/llimg/1qewopau0001-5.jpg?t=20260927132847",
+      "source": "https://www.rasin.co.jp/SHOP/U-PAM01572.html",
+      "credit": "GINZA RASIN",
+      "mediaKind": "photograph",
+      "origin": "inspected Panerai specimen research 2026-10-12",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-12T10:42:39.797Z",
+        "loadedAt": "2026-10-12T10:42:39.797Z",
+        "evidence": "GINZA RASIN item U-PAM01572 identifies exact PAM01572. Seven gallery frames inspected; selected closed back and buckle at original 640 px resolution. Mannequin image explicitly illustrative and paperwork frame excluded from attachments/receipt URLs. Actual back shows OP7607 / STAINLESS STEEL / 50 m; identity/edition portions masked. OP7607 is not a lookup alias. Dealer states warranty June 2025 and manufacturer complete service September 2026; these are source claims, not independently verified factory-originality or production-year evidence. Written P.900 description does not provide movement photo coverage. Source: https://www.rasin.co.jp/SHOP/U-PAM01572.html",
+        "imageDimensions": [
+          640,
+          640
+        ],
+        "imageSha256": "9427a089d69d5899eaddbb64e90becd20a181148f053c777e909a910b1dd31c4"
       }
     }
   ]

@@ -38,11 +38,11 @@ watch models: punctuation/case duplicates collapse; M-prefixed aliases, base
 references and catalogue suffixes remain separate keys. Broad patterns require
 enumeration and source review; they are never counted as exact references.
 
-Current exact progress is in the generated coverage files: **304 identifier keys
-reviewed, 1,934 unreviewed; 223 source records reviewed, 2,224 unreviewed**. There are
-**808 catalogue assets: 773 verified gallery entries, 26 pending and 9 rejected**, including 31
-legacy assets. Verified entries use **742 distinct stored image URLs and 741 distinct inspected file hashes**; the same photograph can serve two categories. Verified reference-key coverage: **front 242, movement 93, caseback
-211, bracelet/clasp 202**. Reviewed gaps describe the inspected source set, not a
+Current exact progress is in the generated coverage files: **307 identifier keys
+reviewed, 1,931 unreviewed; 226 source records reviewed, 2,221 unreviewed**. There are
+**818 catalogue assets: 783 verified gallery entries, 26 pending and 9 rejected**, including 31
+legacy assets. Verified entries use **751 distinct stored image URLs and 750 distinct inspected file hashes**; the same photograph can serve two categories. Verified reference-key coverage: **front 245, movement 94, caseback
+214, bracelet/clasp 205**. Reviewed gaps describe the inspected source set, not a
 claim that no suitable image exists elsewhere. Existing textual research and
 pre-existing "verified" mapping badges do not verify photographs. Unreviewed
 categories are not counted as reviewed gaps.
@@ -801,3 +801,17 @@ Validation: all 44 Node regression tests pass. Real-image browser check loaded t
 Three PAM00609 entries retain their inspected evidence but are pending and withheld: original and resized source URLs repeatedly timed out when loaded directly in Chrome. This does not invalidate the visual evidence; browser delivery remains unresolved. PAM00915 adds exact-reference front, closed steel back and signed pin buckle views after all seven gallery photographs were inspected, including selected back/buckle at full resolution. No source-described P.5000 movement image is inferred. Contradictory paper dating and seller-masked identity are documented.
 
 Current release candidate: 29 accepted additions over published PR #18; 45 Node regression tests pass; all 29 actual images (25 distinct inspected files) load and enlarge across 10 explicit keys with credits, variant labels and mobile overflow checked. No application code or workflows changed. Three Panerai keys remain unreviewed, and the complete inventory and live signed-in refresh/RLS remain unfinished. Current pre-release main is b71e7c07ed04fc20ff5df5079e53247a66ad159d; original rollback refs are preserved.
+
+## PR #19 publication and continued PAM01271 research — 2026-10-12
+
+PR #19 merged at 39163341dc25ade497b32b35a5015119f5c9c69e with exact tested tree 5bbed2cf3d9260dfc50fbeaf43b345910d86ded4. Pages run 38237342597 succeeded. Live index.html, bench.js, photographs.js, photographs.json and both coverage files returned HTTP 200 and matched main byte for byte. All 29 additions passed live real-image loading/enlargement, credits/variants and mobile overflow checks. A complete 773-entry Git recovery bundle was verified and restored to b049fdde8e57be6726f21e08706a39bee34b70c5; original 045ffc1 and rollback history were confirmed present.
+
+Research continues after publishing: EWC stock 57576 PAM01271 six-frame gallery inspected, selected closed steel back and signed buckle at full resolution; three accepted exact-reference photographs passed actual Chrome loading/enlargement/credits/mobile. These three entries are LOCAL AND UNPUBLISHED. Manufacturer archive redirect to PAM01372 is not a matching source; no neighbouring-reference photos are reused. Written P.900 data does not supply a movement image. Two stored Panerai keys remain unreviewed; overall 1,933 keys remain unreviewed and authenticated refresh/RLS remains outstanding.
+
+## Final stored Panerai keys reviewed — 2026-10-12
+
+PAM01305 EWC stock 70146 and PAM01572 GINZA RASIN item U-PAM01572: all fourteen gallery frames inspected; selected back/movement/buckle frames at original resolution. Four PAM01305 entries retain the photographed signed automatic rotor, 31-jewel execution and two-screw balance bridge; source-paired P.9010 identification does not claim an unreadable physical calibre inscription. Three PAM01572 entries retain AA-series source label, actual closed back OP7607 / 50 m and original 640 px limits. Dealer-stated recent service/paper dating is labelled as source evidence, not a factory-originality claim. Illustrative mannequin and paperwork frames are excluded from public attachments/receipt URLs. Neither OP7607 nor neighbouring references inherit images.
+
+Safety correction: PAM00574 and PAM01305 buckle frames also show blurred display-back movements in the background. Both entire frames are flagged depictsMovement and withheld for external-only lookups. Actual browser checks passed fourteen entries (twelve distinct files) across four keys: the ten unpublished PAM01271/PAM01305/PAM01572 additions plus the affected PAM00574 specimen. All 47 Node regression checks pass.
+
+All fourteen stored Panerai keys now have source reviews, with categories and source-record evidence documented. This is reviewed inventory, not complete photograph coverage: absent movements/buckles remain researched gaps, three PAM00609 assets remain pending delivery and further source research stays open. Local catalogue: 783 verified entries; published PR #19 remains 773. Overall 1,931 identifier keys and 2,221 source records remain unreviewed. Live authenticated refresh/RLS remains outstanding.

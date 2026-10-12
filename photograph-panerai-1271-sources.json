@@ -1,0 +1,103 @@
+{
+  "reviewedAt": "2026-10-12T10:39:05.386Z",
+  "completion": "IN PROGRESS",
+  "specimens": [
+    {
+      "ref": "PAM01271",
+      "group": "1271",
+      "source": "https://www.europeanwatch.com/watch/panerai-pam01271-luminor-marina-quaranta-stainless-steel-40mm-whi-57576",
+      "credit": "European Watch Company",
+      "count": 6,
+      "variant": "40 mm steel Luminor Marina Quaranta / white automatic dial / fitted black leather strap and signed pin buckle / closed-back specimen",
+      "evidence": "EWC stock 57576 explicitly identifies PAM01271. All six actual gallery photographs inspected, including back and buckle at full resolution. Actual white dial has date at 3 and small seconds at 9; closed brushed steel back marked LUMINOR / PANERAI / STAINLESS STEEL / 100 m with seller-masked identity digits. Source describes automatic P.900, but no movement photograph exists. No neighbouring PAM01372, PAM01272 or short numeric alias inherits these images. Source paper-date fields conflict, so no confirmed production year is asserted.",
+      "views": [
+        [
+          0,
+          "front",
+          "Actual white Luminor Marina dial with date at 3, small seconds at 9 and fitted black leather strap. Compare this white-dial specimen only; source-specified 40 mm cannot be measured from pixels."
+        ],
+        [
+          5,
+          "caseback",
+          "Actual closed brushed steel back, LUMINOR / PANERAI / STAINLESS STEEL / 100 m; seller-masked identity digits cannot be compared."
+        ],
+        [
+          4,
+          "braceletClasp",
+          "Actual PANERAI-signed steel pin buckle on fitted black leather strap. Factory originality is not asserted."
+        ]
+      ],
+      "gaps": {
+        "movement": "No movement photograph in the six-frame gallery. Written P.900 specification does not provide visual movement coverage."
+      }
+    }
+  ],
+  "images": [
+    {
+      "ref": "1271",
+      "i": 0,
+      "image": "https://images.europeanwatch.com/images/57/57576-1.jpg",
+      "httpStatus": 200,
+      "sha256": "faede0383a30fb94fadb024b2c869edce74429c84cbafd61dfa89e52293e4f9c",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "1271",
+      "i": 1,
+      "image": "https://images.europeanwatch.com/images/57/57576-2.jpg",
+      "httpStatus": 200,
+      "sha256": "0bcc6054b0fc2571245b59b530f22a61c39eede6f2f9c685c62dfaa0c8e3bf8c",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "1271",
+      "i": 2,
+      "image": "https://images.europeanwatch.com/images/57/57576-3.jpg",
+      "httpStatus": 200,
+      "sha256": "e1ee73a3e44aea78d34e29cc8c14eb405dde2befee5e3dc8154c4386bf73615d",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "1271",
+      "i": 3,
+      "image": "https://images.europeanwatch.com/images/57/57576-4.jpg",
+      "httpStatus": 200,
+      "sha256": "c4efb1ee62de83a8797d1c20088d4ef1ca137155240046aa36f9fc32e7e3f020",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "1271",
+      "i": 4,
+      "image": "https://images.europeanwatch.com/images/57/57576-5.jpg",
+      "httpStatus": 200,
+      "sha256": "93344df2137a3c3591b2ffc1f7325769a8d70830af73460648210b4ce7dd3952",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "1271",
+      "i": 5,
+      "image": "https://images.europeanwatch.com/images/57/57576-6.jpg",
+      "httpStatus": 200,
+      "sha256": "42681fa09bfbf7b3bb8bfa0806a3ffdd31aa9864089b1b3becbb2328de980b6d",
+      "dimensions": [
+        1080,
+        864
+      ]
+    }
+  ]
+}
