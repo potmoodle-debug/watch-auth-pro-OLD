@@ -1,0 +1,114 @@
+{
+  "reviewedAt": "2026-10-12T12:56:51.794Z",
+  "completion": "IN PROGRESS",
+  "source": "https://delraywatch.com/bremont-supermarine-s300-inventory-8985/",
+  "variant": "Delray 8985 / source S300 / 40mm steel, black Arabic dial and bezel, fitted black rubber and signed steel pin buckle",
+  "evidence": "Original dealer listing identifies S300, 40mm steel, automatic time/date, black rubber and no box/papers. Nine original files inspected (eight scenes plus smaller front). Actual black dial has twelve/nine/six numerals, date three, red seconds accent, SUPERMARINE 300m-980ft and LONDON; black elapsed-time bezel and gold-coloured crown ring. Actual closed back has aircraft engraving, BREMONT SUPERMARINE / AUTOMATIC CHRONOMETER / 300M-980FT. Rubber marked 20-R002, signed steel pin buckle photographed. No opened movement or physically identified calibre, no manufacture year; no shared calibre or S301/S302/S500/S502 equivalence inferred. Broad stored Supermarine S300 is explicitly representative of black steel/rubber execution, not blue/white dials or full suffixes. Rating/chronometer inscriptions do not prove present pressure/accuracy, fitted strap/buckle originality unproven. Source pattern reviewed as source inventory, not a promoted literal identifier. No movement view accepted.",
+  "images": [
+    {
+      "i": 0,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/products/10262/images/72520/8985_1__99097.1781535433.386.513.jpg?c=2",
+      "httpStatus": 200,
+      "sha256": "25567507a5f2e30408ecf02635bb6aae427a1d1878205a2d8da0ec33bef85163",
+      "dimensions": [
+        386,
+        386
+      ]
+    },
+    {
+      "i": 1,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/10262/72520/8985_1__99097.1781535433.jpg?c=2",
+      "httpStatus": 200,
+      "sha256": "8eed31ea6ef0fadf3c1c0b0ea3423f5aeb4c00ce1a949aae30a564b30443bbc0",
+      "dimensions": [
+        2000,
+        2000
+      ]
+    },
+    {
+      "i": 2,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/10262/72522/8985_2__93397.1781535433.jpg?c=2",
+      "httpStatus": 200,
+      "sha256": "32214b3683ad34e97777481be0df76956246bc1cef41bfe4f6d2367564e2a2ce",
+      "dimensions": [
+        2000,
+        2000
+      ]
+    },
+    {
+      "i": 3,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/10262/72516/8985_3__97454.1781535433.jpg?c=2",
+      "httpStatus": 200,
+      "sha256": "b58b5470ab401f1ae72135eebb3e5b191875af0347d366e267cb4c0cad4003b9",
+      "dimensions": [
+        2000,
+        2000
+      ]
+    },
+    {
+      "i": 4,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/10262/72517/8985_4__10644.1781535434.jpg?c=2",
+      "httpStatus": 200,
+      "sha256": "c497567dc05c146c6f6c46d23031d117621720c793c9c5a6e340210cc8d8f49a",
+      "dimensions": [
+        2000,
+        2000
+      ]
+    },
+    {
+      "i": 5,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/10262/72518/8985_5__65132.1781535434.jpg?c=2",
+      "httpStatus": 200,
+      "sha256": "e837576ddd43035a2cba0792ec0b4d6ca6707c48cbfc5859220ad9103b31a10e",
+      "dimensions": [
+        2000,
+        2000
+      ]
+    },
+    {
+      "i": 6,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/10262/72521/8985_8__09176.1781535433.jpg?c=2",
+      "httpStatus": 200,
+      "sha256": "2a1a77c36404a7c6215d9b59d3867905bfd9238fc01c7c99c392d15e425d8c7c",
+      "dimensions": [
+        2000,
+        2000
+      ]
+    },
+    {
+      "i": 7,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/10262/72523/8985_6__52313.1781535433.jpg?c=2",
+      "httpStatus": 200,
+      "sha256": "1bc0a349b3b7d989b6b62271c94fc45aee43cf8aaeabf964a047979ff1ec12e7",
+      "dimensions": [
+        2000,
+        2000
+      ]
+    },
+    {
+      "i": 8,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/10262/72519/8985_7__71286.1781535434.jpg?c=2",
+      "httpStatus": 200,
+      "sha256": "88a7da738b8c68701cf5106eafb16dfeb4f04c11d3904591c0fdc1251d1fcbf7",
+      "dimensions": [
+        2000,
+        2000
+      ]
+    }
+  ],
+  "acceptedViews": [
+    {
+      "i": 1,
+      "category": "front"
+    },
+    {
+      "i": 6,
+      "category": "caseback"
+    },
+    {
+      "i": 7,
+      "category": "braceletClasp"
+    }
+  ],
+  "excluded": "Smaller front rendition not attached. No opened movement; remaining comparison angles inspected but not attached."
+}

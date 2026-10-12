@@ -516,3 +516,94 @@ test('Bell and Ross broad keys retain exact identity gaps and labelled steel spe
  assert.match(v1.categories.front.finding,/unresolved/);
  assert.match(get('BR03').find(p=>p.category==='caseback').caption,/DO NOT UNSCREW/);
 });
+test('Bremont ALT1-C blue specimen has strict suffix and external-only boundaries',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,options)=>matchingPhotographs(photos,'Bremont',ref,options).filter(p=>p.id.startsWith('bremont-pass-alt1c-'));
+ assert.deepEqual(get('ALT1-C').map(p=>p.category).sort(),['braceletClasp','caseback','front','movement']);
+ assert.ok(get('ALT1-C').every(p=>p.matchScope==='representative variant'));
+ assert.equal(get('ALT1-C/BL').length,4);
+ assert.deepEqual(get('ALT1-C',{externalOnly:true}).map(p=>p.category),['front']);
+ for(const ref of ['ALT1-C-CR','ALT1-C/CR','ALT1-C/BL/R','ALT1-C-RG','ALT1-P2','ALT1-ZT/51'])assert.equal(get(ref).length,0,ref);
+ assert.match(get('ALT1-C').find(p=>p.category==='movement').caption,/No legible calibre stamp/);
+});
+test('Cream ALT1-C photographs retain separate suffix, generation and view gaps',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,options)=>matchingPhotographs(photos,'Bremont',ref,options).filter(p=>p.id.startsWith('bremont-pass-cream-'));
+ assert.deepEqual(get('ALT1-C-CR').map(p=>p.category).sort(),['braceletClasp','front']);
+ assert.ok(get('ALT1-C-CR').every(p=>p.matchScope==='representative variant'));
+ assert.equal(get('ALT1-C/CR-R-S').length,2);
+ assert.deepEqual(get('ALT1-C-CR',{externalOnly:true}).map(p=>p.category),['front']);
+ assert.ok(get('ALT1-C/CR').every(p=>p.matchScope==='representative variant'));
+ assert.equal(get('ALT1-C-CR-R-S').length,2);
+ for(const ref of ['ALT1-C','ALT1-C/BL','ALT1-C-CR-B','ALT1-C2-CR-SS-R-S'])assert.equal(get(ref).length,0,ref);
+ const review=JSON.parse(fs.readFileSync(new URL('../photograph-reviews.json',import.meta.url))).identifierReviews.find(x=>x.brand==='BREMONT'&&x.reference==='ALT1-C-CR');
+ assert.match(review.categories.movement.finding,/No unobscured view/);
+ assert.match(review.categories.caseback.finding,/No unobscured view/);
+});
+test('ALT1-B special-project specimen cannot stand for neighbouring GMT or civilian suffixes',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,options)=>matchingPhotographs(photos,'Bremont',ref,options).filter(p=>p.id.startsWith('bremont-pass-alt1b-'));
+ assert.equal(get('ALT1-B').length,4);
+ assert.ok(get('ALT1-B').every(p=>p.matchScope==='representative variant'&&p.variant.includes('28 Squadron')));
+ assert.deepEqual(get('ALT1-B',{externalOnly:true}).map(p=>p.category).sort(),['braceletClasp','front']);
+ for(const ref of ['ALT1-B-BK','ALT1-B/BK','ALT1-ZT/51','ALT1-Z','ALT1-C','ALT1-B Apache'])assert.equal(get(ref).length,0,ref);
+ assert.match(get('ALT1-B').find(p=>p.category==='movement').caption,/No legible calibre stamp/);
+ assert.match(get('ALT1-B').find(p=>p.category==='caseback').caption,/seller-masked identity/);
+});
+test('ALT1-ZT/51 keeps photographed GMT execution and missing back/movement separate',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,options)=>matchingPhotographs(photos,'Bremont',ref,options).filter(p=>p.id.startsWith('bremont-pass-zt51-'));
+ assert.deepEqual(get('ALT1-ZT/51').map(p=>p.category).sort(),['braceletClasp','front']);
+ assert.ok(get('ALT1-ZT/51').every(p=>p.matchScope==='representative variant'));
+ assert.equal(get('ALT1-ZT/51',{externalOnly:true}).length,2);
+ for(const ref of ['ALT1-ZT/BK','ALT1-ZDG','ALT1-B','P-51','ALT1-ZT-51-R-S','ALT1-ZT-51-B'])assert.equal(get(ref).length,0,ref);
+ assert.match(get('ALT1-ZT/51').find(p=>p.category==='braceletClasp').caption,/No readable clasp signature/);
+ const review=JSON.parse(fs.readFileSync(new URL('../photograph-reviews.json',import.meta.url))).identifierReviews.find(x=>x.brand==='BREMONT'&&x.reference==='ALT1-ZT/51');
+ assert.match(review.categories.movement.finding,/No unobscured view/);
+});
+test('Bremont ALT1-P2 JET photographs retain actual strap and calibre limits',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,options)=>matchingPhotographs(photos,'Bremont',ref,options).filter(p=>p.id.startsWith('bremont-pass-p2-'));
+ assert.equal(get('Bremont ALT1-P2').length,4);
+ assert.ok(get('Bremont ALT1-P2').every(p=>p.matchScope==='representative variant'&&p.variant.includes('brown leather')));
+ assert.equal(get('ALT1-P2-JET').length,4);
+ assert.deepEqual(get('Bremont ALT1-P2',{externalOnly:true}).map(p=>p.category).sort(),['braceletClasp','front']);
+ for(const ref of ['ALT1-P2','ALT1-P','ALT1-P2-BK','ALT1-P2-JET-R-S','ALT1-B'])assert.equal(get(ref).length,0,ref);
+ assert.match(get('Bremont ALT1-P2').find(p=>p.category==='movement').caption,/no legible calibre stamp/i);
+ assert.match(get('Bremont ALT1-P2').find(p=>p.category==='braceletClasp').caption,/another black sailcloth strap/);
+});
+test('Solo 43mm representative specimen retains missing full identity and obscured movement limits',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,options)=>matchingPhotographs(photos,'Bremont',ref,options).filter(p=>p.id.startsWith('bremont-pass-solo-'));
+ assert.equal(get('SOLO-43').length,4);
+ assert.ok(get('SOLO-43').every(p=>p.matchScope==='representative variant'));
+ assert.deepEqual(get('SOLO-43',{externalOnly:true}).map(p=>p.category),['front']);
+ assert.equal(get('SOLO-WH').length,4);
+ for(const ref of ['Bremont Solo','Solo','SOLO-37','SOLO-34','SOLO43-BK-R-S','SOLO-WH-R-S','NA'])assert.equal(get(ref).length,0,ref);
+ assert.match(get('SOLO-43').find(p=>p.category==='front').caption,/Reference NA/);
+ assert.match(get('SOLO-43').find(p=>p.category==='movement').caption,/partly obscured/);
+ assert.match(get('SOLO-43').find(p=>p.category==='braceletClasp').caption,/Movement remains visible/);
+});
+test('S300 photographs retain closed-back movement gap and strict neighbour exclusions',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,options)=>matchingPhotographs(photos,'Bremont',ref,options).filter(p=>p.id.startsWith('bremont-pass-s300-'));
+ for(const ref of ['Supermarine S300','S300']){assert.equal(get(ref).length,3);assert.ok(get(ref).every(p=>p.matchScope==='representative variant'));assert.equal(get(ref,{externalOnly:true}).length,3);}
+ for(const ref of ['S301','S302','S500','S502','S300-BK-R-S','Supermarine','Supermarine S502'])assert.equal(get(ref).length,0,ref);
+ assert.match(get('S300').find(p=>p.category==='caseback').caption,/No movement shown/);
+ const reviews=JSON.parse(fs.readFileSync(new URL('../photograph-reviews.json',import.meta.url)));
+ assert.match(reviews.identifierReviews.find(x=>x.brand==='BREMONT'&&x.reference==='Supermarine S300').categories.movement.finding,/No opened movement/);
+ assert.ok(reviews.sourceRecordReviews.some(x=>x.id==='RULE:0655'));
+});
+test('S502 JET retains specimen size limits, separate stand hardware and missing interior views',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,options)=>matchingPhotographs(photos,'Bremont',ref,options).filter(p=>p.id.startsWith('bremont-pass-s502-'));
+ for(const ref of ['Supermarine S502','S502-JET-R-S']){
+  assert.deepEqual(get(ref).map(p=>p.category).sort(),['braceletClasp','front']);
+  assert.ok(get(ref).every(p=>p.matchScope==='representative variant'&&p.variant.includes('43mm')));
+  assert.equal(get(ref,{externalOnly:true}).length,2);
+ }
+ for(const ref of ['S502','S502-JET','S502-BK-R-S','S502-DLC-BAMFORD-L-S','S300','S302','S500'])assert.equal(get(ref).length,0,ref);
+ assert.match(get('Supermarine S502').find(p=>p.category==='braceletClasp').caption,/display-stand closure is not watch hardware/);
+ const review=JSON.parse(fs.readFileSync(new URL('../photograph-reviews.json',import.meta.url))).identifierReviews.find(x=>x.brand==='BREMONT'&&x.reference==='Supermarine S502');
+ for(const category of ['movement','caseback'])assert.match(review.categories[category].finding,/No unobscured back\/movement/);
+});

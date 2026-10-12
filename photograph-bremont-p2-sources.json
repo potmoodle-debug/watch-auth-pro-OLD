@@ -1,0 +1,98 @@
+{
+  "reviewedAt": "2026-10-12T12:50:20.213Z",
+  "completion": "IN PROGRESS",
+  "source": "https://kibblewatches.co.uk/products/2021-bremont-pilot-chronograph-black-alt1-p2-jet",
+  "variant": "Kibble ALT1-P2-JET / September 2021 dealer-attributed / black DLC steel case, black Arabic dial, fitted brown leather and black signed pin buckle",
+  "evidence": "Original dealer listing identifies ALT1-P2-JET, September 2021, 43mm black-coated steel, automatic BE-53AE attribution. Nine actual gallery frames inspected. Actual dial black with pale Arabic numerals/hands, three dark registers at three/six/nine, red details and date between four/five. Actual display back BREMONT / CHRONOMETER / AUTOMATIC, visible specimen identity, dark signed skeletonised rotor and visible gear/bridge details; lighting is dark, no legible calibre stamp. Dealer 27-jewel BE-53AE/ETA7753 and certification assertions are attribution, not physical stamp, performance or base-calibre substitution. Manufacturer date not independently established. Actual fitted brown leather and signed black pin buckle accepted; listing also describes black sailcloth/blue stitching, which is not the selected photographed strap. Generic stored Bremont ALT1-P2 explicitly representative of JET/brown-leather execution, not non-JET steel, other suffixes, ALT1-P or ALT1-B. Staged frame two contains unrelated loose gold movement props, excluded. Box/paperwork frame four excluded public URL; no loose prop accepted as watch movement.",
+  "images": [
+    {
+      "i": 0,
+      "image": "https://cdn.shopify.com/s/files/1/0270/0771/3366/files/1_da397376-a81c-446e-8b11-e58bff1d53cc.jpg?v=1697110204",
+      "httpStatus": 200,
+      "sha256": "0d9946a4be6bf912f7789b1cbe9f0774924bb4d0353f974a61390cb2e59b6bed",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "i": 1,
+      "image": "https://cdn.shopify.com/s/files/1/0270/0771/3366/files/2_3f66f672-fc9b-45f4-a9da-276a7dc88b86.jpg?v=1697110203",
+      "httpStatus": 200,
+      "sha256": "56a7182e1591ea2871b2ac95a97a2fdcbe422855056f843e826e25f5488a18c4",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "i": 3,
+      "image": "https://cdn.shopify.com/s/files/1/0270/0771/3366/files/4_79d68834-e4f0-4aed-be5b-7f1f28ef30fe.jpg?v=1697110203",
+      "httpStatus": 200,
+      "sha256": "6e7669ed1bb85d0187e103c8da402293e32bc9bf4f2100e442b375fb13f32f16",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "i": 5,
+      "image": "https://cdn.shopify.com/s/files/1/0270/0771/3366/files/6_1d8ff529-6658-4ac0-8ba3-97c5b53e9f2a.jpg?v=1697110203",
+      "httpStatus": 200,
+      "sha256": "5dea4b35f34374d42d0cdd4d564c1e08655879ac7cab7d842828d3aece8effba",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "i": 6,
+      "image": "https://cdn.shopify.com/s/files/1/0270/0771/3366/files/7_81564cd9-3d38-42ef-b926-bd0b540f5fbe.jpg?v=1697110203",
+      "httpStatus": 200,
+      "sha256": "d7e1bfaecd39445db1f54fd1c2269f5fa052be9b49365ececa4e1ce7f8804241",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "i": 7,
+      "image": "https://cdn.shopify.com/s/files/1/0270/0771/3366/files/8_b5358526-4fa5-4501-acd3-c86c6a57230e.jpg?v=1697110203",
+      "httpStatus": 200,
+      "sha256": "412d38b76c915015687d690cd47962917837cee976790f657f141a1f9f16dc36",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "i": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0270/0771/3366/files/9_d5846c36-2e83-4206-9bde-87a4110603c7.jpg?v=1697110204",
+      "httpStatus": 200,
+      "sha256": "801b63059c096ba214febc0e0692b9307bfd50e79a28b135e498130f9bf39318",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    }
+  ],
+  "acceptedViews": [
+    {
+      "i": 0,
+      "category": "front"
+    },
+    {
+      "i": 5,
+      "category": "movement"
+    },
+    {
+      "i": 5,
+      "category": "caseback"
+    },
+    {
+      "i": 6,
+      "category": "braceletClasp"
+    }
+  ],
+  "excluded": "Frame 2 contains unrelated loose gold movement props and frame 4 paperwork: inspected but public URLs excluded. No loose movement prop accepted. Actual brown strap retained despite black sailcloth description elsewhere on source."
+}

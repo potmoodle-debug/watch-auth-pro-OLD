@@ -1,0 +1,41 @@
+{
+  "reviewedAt": "2026-10-12T13:00:14.850Z",
+  "completion": "IN PROGRESS",
+  "source": "https://www.markworthingtonjewellers.co.uk/bremont-s502-jet-1.html",
+  "variant": "Worthington W22W0116 / source S502-JET-R-S / UK supplied September 2022 attributed / 43mm black DLC steel, black dial and ribbed black rubber",
+  "evidence": "Original preowned dealer identifies S502-JET-R-S, 43mm black DLC steel, orange GMT hand, date three, fitted black rubber/pin buckle, UK supply September 2022. Five actual original images inspected. Actual black dial has pale round/baton markers, red seconds accent, orange triangular GMT hand, inner 24-hour scale, external elapsed-time bezel, SUPERMARINE/502m marking and LONDON. Actual dark BREMONT pin buckle belongs to ribbed black rubber on watch; a separate bright buckle on leather display-stand closure is not fitted watch hardware. No unobscured caseback or movement photo; no physical calibre stamp or manufacture date established. Supply date is dealer attribution. Existing broad Supermarine S502 explicitly representative of older 43mm JET DLC/rubber execution only, not newer 40mm Jet, uncoated steel, Bamford California dial, full suffixes or neighbouring S300/S302/S500. Rating/certification wording does not establish current pressure/accuracy. No readable personal owner data in selected front/buckle frames; unused angles with warranty paperwork not promoted. Fitted strap/buckle originality unproven. Conflicting original dealer listings also use S502-JET-R-S with a 40mm description (https://shrevecrumpandlow.com/product/bremont-s502-jet-40mm-stainless-steel-ceramic-s502-jet-r-s). This discrepancy is unresolved; the code alone cannot establish size/generation. Both lookup keys show this inspected 43mm specimen only as a representative variant.",
+  "images": [
+    {
+      "i": 1,
+      "image": "https://www.markworthingtonjewellers.co.uk/images/super/W22W0116_1.JPG",
+      "httpStatus": 200,
+      "sha256": "2e4c4d9ecb16fea826f95842d988b3bddb6adb09ae64a26a1999fff598ea468a",
+      "dimensions": [
+        1992,
+        2584
+      ]
+    },
+    {
+      "i": 2,
+      "image": "https://www.markworthingtonjewellers.co.uk/images/super/W22W0116_5.JPG",
+      "httpStatus": 200,
+      "sha256": "bc704efc6b1b296eb2ddd9530c9709d6c68f667ace12c4bb0d6386b760f930c5",
+      "dimensions": [
+        2058,
+        2496
+      ]
+    }
+  ],
+  "acceptedViews": [
+    {
+      "i": 1,
+      "category": "front"
+    },
+    {
+      "i": 2,
+      "category": "braceletClasp"
+    }
+  ],
+  "excluded": "Other three original angles inspected but paperwork/warranty backgrounds not promoted. Selected certificate background contains no readable personal owner data; no certification conclusion inferred. No unobscured caseback/movement. Separate leather stand buckle is not fitted hardware.",
+  "conflictingSource": "https://shrevecrumpandlow.com/product/bremont-s502-jet-40mm-stainless-steel-ceramic-s502-jet-r-s"
+}
