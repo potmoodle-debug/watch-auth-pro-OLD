@@ -9,6 +9,7 @@ const fs=require('node:fs');
  // Only test fixtures are routed; no real remote account or database is mutated.
  const fixture=(brand,reference,category,id)=>({id,brand,references:[reference],representativeFor:[],variant:reference+' TEST FIXTURE',category,title:'Browser test fixture',caption:'Non-watch pixel fixture used only in automated tests.',credit:'Test fixture',image:'https://photo-fixture.invalid/'+id+'.png',source:'https://photo-fixture.invalid/source',mediaKind:'photograph',review:{status:'verified',visualInspected:true,referenceVerified:true,executionVerified:true,inspectedAt:'2026-10-08',loadedAt:'2026-10-08',evidence:'Test metadata'}});
  const photos=[fixture('Tudor','25600TN','front','front'),fixture('Tudor','25600TN','movement','movement'),fixture('Sinn','UX','front','sinn-front'),fixture('Sinn','UX','movement','sinn-movement'),fixture('Rolex','126000','front','broken')];
+ photos.push({...fixture('Sinn','UX','caseback','sinn-opened-back'),image:photos.find(p=>p.id==='sinn-movement').image});
  await page.route('**/photographs.json?*',r=>r.fulfill({json:{photographs:photos}}));
  await page.route('https://photo-fixture.invalid/**',r=>r.request().url().includes('broken')?r.fulfill({status:404}):r.fulfill({contentType:'image/png',body:Buffer.from('iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+jR7kAAAAASUVORK5CYII=','base64')}));
  let sharedReads=0;
@@ -45,7 +46,7 @@ const fs=require('node:fs');
  await page.locator('[data-tab="bench"]').click();assert.equal(await page.locator('#visuals img').count(),2);
  await lookup('Tudor','M25600TN-9999');assert.equal(await page.locator('#visuals img').count(),0);
  await lookup('Tudor','25600TB');assert.equal(await page.locator('#visuals img').count(),0);
- await lookup('Sinn','UX');assert.match(await page.locator('#safety').textContent(),/DO NOT OPEN/);assert.equal(await page.locator('[data-category="movement"] img').count(),0);
+ await lookup('Sinn','UX');assert.match(await page.locator('#safety').textContent(),/DO NOT OPEN/);assert.equal(await page.locator('[data-category="movement"] img').count(),0);assert.equal(await page.locator('[data-category="caseback"] img').count(),0);
  assert.equal(await page.locator('#calibre').isDisabled(),true);assert.ok(await page.locator('#conditions input[value="External only"]').isChecked());
  await lookup('Rolex','126000');await page.locator('#serial').fill('T11Y1111');await page.locator('#clasp').fill('U7T');
  assert.ok(await page.locator('#replicaFlags').isVisible());assert.ok(await page.locator('#rolexClasp').isVisible());

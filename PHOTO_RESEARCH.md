@@ -14,8 +14,10 @@ Breitling URLs return HTTP 403. HTTP access and download counts **do not** estab
 visual review. The published checkpoint is PR #16 at bb26ced602af392fa2b1a55c2feffe527ab7c998. Pages deployment 37977132750 succeeded. The ninth-checkpoint additions below are published; earlier next-checkpoint descriptions record the status when those batches were prepared.
 
 Rollback: GitHub branch `rollback/benchauth-before-photographs-20261008`, commit
-`b4ffc080c4dba6f55bb246377a24a3c2bf284052`. A local Git bundle is saved at
-`/workspace/benchauth-before-photographs-20261008.bundle`.
+`b4ffc080c4dba6f55bb246377a24a3c2bf284052`. The original workspace recorded a local bundle at
+`/workspace/benchauth-before-photographs-20261008.bundle`; that path is historical.
+Restoration preserved the remote rollback and saved a fresh local bundle containing
+pre-restore main and the original rollback ref.
 
 ## Inventory and counts
 
@@ -36,11 +38,11 @@ watch models: punctuation/case duplicates collapse; M-prefixed aliases, base
 references and catalogue suffixes remain separate keys. Broad patterns require
 enumeration and source review; they are never counted as exact references.
 
-Current exact progress is in the generated coverage files: **248 identifier keys
-reviewed, 1,990 unreviewed; 178 source records reviewed, 2,269 unreviewed**. There are
-**683 catalogue assets: 651 verified gallery entries, 23 pending and 9 rejected**, including 31
-legacy assets. Verified entries use **636 distinct stored image URLs and 635 distinct inspected file hashes**; the same photograph can serve two categories. Verified reference-key coverage: **front 211, movement 79, caseback
-183, bracelet/clasp 176**. Reviewed gaps describe the inspected source set, not a
+Current exact progress is in the generated coverage files: **293 identifier keys
+reviewed, 1,945 unreviewed; 212 source records reviewed, 2,235 unreviewed**. There are
+**776 catalogue assets: 744 verified gallery entries, 23 pending and 9 rejected**, including 31
+legacy assets. Verified entries use **717 distinct stored image URLs and 716 distinct inspected file hashes**; the same photograph can serve two categories. Verified reference-key coverage: **front 232, movement 91, caseback
+202, bracelet/clasp 194**. Reviewed gaps describe the inspected source set, not a
 claim that no suitable image exists elsewhere. Existing textual research and
 pre-existing "verified" mapping badges do not verify photographs. Unreviewed
 categories are not counted as reviewed gaps.
@@ -255,7 +257,7 @@ implied. See `photograph-monochrome-tudor-history-sources.json` and
 
 The published PR #8 checkpoint is commit `e18a772808cdd56cf2e7bb4f32b285b79f8dc22c`
 with 507 verified photographs. Subsequent additions through PR #16 have been
-tested and deployed; current catalogue counts above describe that published release.
+tested and deployed; current catalogue counts above include the restored unpublished research.
 
 `photograph-tudor-older-sources.json` records 25 actual auction/dealer gallery
 photographs inspected. Six Sterling Vault photographs add front, closed caseback
@@ -411,7 +413,7 @@ was changed. Live authenticated database verification remains separately open.
 
 ## Datejust II and Yacht-Master specialist specimens — next checkpoint
 
-PR #15 at 33494b1c756b3ce67f0d3f8b0425bc8bed02a198 is deployed and
+PR #16 at bb26ced602af392fa2b1a55c2feffe527ab7c998 is deployed and
 verified: six public files match, and live Chromium loaded/enlarged 47 images
 across the new numeric/full-variant lookups, unsupported suffixes and mobile
 layout. The ready-reference exports list 268 accepted keys at that checkpoint.
@@ -533,6 +535,167 @@ checking source credits, representative scopes and mobile overflow. Full workflo
 fixtures again passed matching/refresh/safety, Rolex flags/clasp reminder, copying,
 save/next, RMA, daily reset/progress and history. Live authenticated RLS remains open.
 
+## Tenth checkpoint: vintage case and calibre evidence
+
+PR #16 was published and verified: Pages run 37977132750 succeeded; six served
+application/audit files matched tested SHA-256 hashes. Live Chromium loaded and
+enlarged 51 photographs, checked unsupported suffixes and positive controls,
+and passed mobile overflow. Ready exports now list 307 accepted exact keys.
+
+Eight complete Loupe This galleries supply 154 actual photographs, all visually
+inspected. Selected opened movements, internal backs and identifying marks were
+inspected at full resolution. This batch attaches 41 entries / 33 distinct files
+for physically stamped 14010M, 14270, 15000, 16628, 18039, 1807, 6542 and paired
+internal-back-identified 6694. Source title/table say 14010, but the actual case
+reads 14010M with photographed 3130; 14010 receives a reviewed gap, not these
+neighbouring-reference photos. Source table says 1030 for 6542, but the actual
+rotor reads 1066. Other photographed markings establish 3000, 3035, 3135, 3055,
+1556 and 1225. A diagnostic crop confirms 6694's actual 1225 marking; the attached
+photograph is the unchanged source file. Internal numbers 2140, 16620, 18000
+and 1803 are not new watch-reference aliases. Special Kuwait Oil Company, Honda
+and Qaboos configurations are labelled. External award engravings have separate
+closed-back views. Later fitted Oyster equipment and UK-made gold bracelet
+construction are explicit, without factory-originality claims.
+
+`photograph-loupe-vintage-sources.json` preserves the inspected galleries, exact
+case identities, movement execution evidence and source discrepancies.
+
+An opened photograph reused as Caseback could previously bypass external-only
+movement filtering. The matcher now suppresses any photograph sharing the URL
+or inspected file hash of a verified movement, plus explicitly marked
+`depictsMovement` photographs (including opened 6426 whose exact calibre remains
+unverified). Ordinary lookups retain the galleries; external-only lookups retain
+suitable external photos and the existing opening warnings. Tests cover both
+same-URL and alternate-URL/same-file cases, explicit marking, and an actual
+restricted Sinn UX browser fixture with a movement reused under Caseback.
+
+Research is IN PROGRESS: 1,981 stored identifier keys remain unreviewed. Live
+authenticated refresh/RLS validation still requires an authorized test session.
+
+Tenth-checkpoint validation: all 38 Node tests passed. Actual-source Chromium
+loaded and enlarged all 692 accepted gallery entries (668 distinct inspected
+files) across 315 explicit reference keys, with credits, representative labels
+and mobile layout checks. The separate new-batch check loaded all 41 entries
+from 33 files across eight exact keys. Browser fixtures passed existing workflows,
+sign-in/out and refresh, and the opened-photo Caseback restriction regression.
+Live authenticated shared-refresh/RLS remains pending an authorized test session.
+
+
+## Eleventh research checkpoint — publication awaiting GitHub access
+
+The tested tenth checkpoint is saved locally in commit 0a3e70b. GitHub's session
+credential became invalid before pushing, so the live site remains at PR #16
+with 651 verified entries. Reconnection has been requested; no production
+repository or rollback point was changed.
+
+Ten further complete Loupe This galleries contain 186 actual photographs, all
+visually inspected. Selected case-reference stamps, opened views, cards and
+clasps were inspected at full resolution. This adds 39 gallery entries from 36
+files for nine exact keys. Only 126720VTNR is documented on its photographed
+card; numeric 126720 remains a reviewed gap without a documented numeric alias.
+The physically stamped 6536/1 specimen is withheld from stored 6536. No full
+catalogue suffix is inferred. Reference 268622 has an actual rotor marked 2236,
+contradicting the source table's 2235; the internal 2470 is not a case alias.
+
+Vintage Submariner service dials/hands are labelled; fitted bracelets are not
+claimed factory-original. The 5508's actual 62510H / B clasp is later Jubilee-coded
+equipment fitted to an Oyster bracelet. References 6204 and 6205 have photographed
+internal backs, but their exact A260 execution is not sufficiently established,
+so Movement remains empty and the opened back views are marked depictsMovement.
+The 6204 back has a struck-through 6205 with 6204 underneath; its physical case
+reads 6204 and does not become a 6205 alias. Reference 6538's actual 1030 and I59
+back are recorded without inheriting the source's 1955 year claim. Its aftermarket
+nylon strap supplies no Rolex bracelet/clasp baseline. The 278278 gallery supplies
+gold President construction with a closed clasp; internal clasp markings remain
+unsupported. Its photographed card says champagne ten diamonds despite a source
+table saying silver. Modern unopened calibres remain gaps.
+
+photograph-loupe-service-sources.json preserves the complete inspected source set
+and acceptance decisions. Current progress: 267 stored keys reviewed, 1,971
+unreviewed. Research is IN PROGRESS. Authenticated shared refresh/RLS still
+requires an authorized test session.
+
+Eleventh-checkpoint validation: all 39 Node checks passed. Actual-source Chromium
+loaded and enlarged every new entry: 39 gallery entries from 36 inspected files
+across nine exact keys; source credits, representative labels and mobile layout
+passed. The local catalogue has 324 explicitly accepted keys. These additions
+remain unpublished because the GitHub session credential is invalid.
+
+
+## Twelfth research checkpoint — Breitling specialist gallery audit
+
+Re-inspected all 99 images from the previously enumerated BreitlingSource.com
+model galleries. For 23 stored keys whose image-category reviews had not yet
+been recorded, audited 28 source pages and 47 distinct gallery images. All 28
+pages returned HTTP 200 on this pass. Two actual photographed front views are
+accepted: A13362 Bentley GT and A59028 Jupiter Pilot. Original 300 x 300 resolution
+and the limited usefulness for fine-detail comparison are explicit; credits and
+watermarks remain intact. Neither supplies an opened movement or verified clasp.
+
+Mixed reference/era galleries (A44364, A13353 and D12022), gold-looking Flying B
+specimens under steel A16362, and product media whose exact photographed origin
+is insufficiently established remain reviewed gaps. Model-page reference lists
+never identify every pictured specimen. Other source sets still require research.
+photograph-breitling-gallery-audit.json records source access, inspected file
+hashes and acceptance decisions. No pending media was silently promoted.
+
+The live site remains PR #16 / 651 entries; local unpublished research contains
+733 verified entries. Publication awaits reconnection of GitHub access.
+
+Twelfth-checkpoint validation: all 39 Node checks passed. Actual-source Chromium
+loaded and enlarged both new Breitling front photographs across their two exact
+keys; source credits, representative labels and mobile overflow passed.
+Authenticated live refresh/RLS remains an outstanding separate check.
+
+## Thirteenth research checkpoint — Cartier Santos WSSA0039 / 4072
+
+Inspected all 21 actual photographs in Loupe This lot 4763, including selected
+full-resolution front, back, clasp and identifying paperwork. Four entries add
+front, closed caseback, caseback marking detail and Cartier-signed folding clasp
+with fitted black rubber strap. The warranty card explicitly identifies WSSA0039
+and BLACK ADLC STEEL; the paired physical back independently stamps case 4072
+and the matching serial suffix. Both identifiers match this labelled specimen.
+The gallery does not imply that all 4072 configurations have this dial or strap.
+Auction/service stickers on the back are described as specimen-specific. No
+opened movement is photographed; Movement remains empty. Paperwork is research
+evidence, not a gallery attachment. photograph-cartier-santos-sources.json retains
+the complete inspected source set, image hashes and matching evidence.
+
+Validation: all 39 Node checks passed. Actual-source Chromium loaded and enlarged
+all four photographs for WSSA0039 and 4072; credits, representative labels and
+mobile overflow passed. The live site still has 651 entries; the local catalogue
+has 737. Publishing is blocked by invalid workspace GitHub credentials and absent
+GitHub connector tools. Authenticated live shared-refresh/RLS validation remains
+open. Research remains IN PROGRESS with 1,947 stored keys unreviewed.
+
+## Fourteenth research checkpoint — two fully identified Omega Moonwatch variants
+
+Inspected all 49 actual photographs from Loupe This lots 4565 and 4277. Selected
+front, back, signed clasp and full-reference cards were checked at full resolution.
+Seven gallery entries use six photographs across 310.30.42.50.01.001 and
+310.30.42.50.04.001. The black-dial Hesalite variant has a closed steel back;
+its paperwork naming 3861 supplies no movement photograph, so Movement stays
+empty. The white-dial sapphire variant has the photographed manual 3861 execution
+visible through its closed display back; the actual movement serial matches its
+full-reference card. The same actual frame serves Movement and Caseback and is
+marked depictsMovement so restricted-image handling suppresses that back too.
+Paperwork remains identification evidence rather than gallery attachments.
+
+photograph-omega-moonwatch-sources.json preserves the complete inspected galleries,
+matching evidence and file hashes. No black-dial sapphire .01.002 variant, other
+white-dial suffix, abbreviated family reference or common-calibre neighbour
+inherits these images. Original clasp inscriptions are specimen-specific.
+
+Validation: all 39 Node checks passed. Actual-source Chromium loaded and enlarged
+all seven new entries, with credits, representative labels and mobile layout
+checked. Direct checks passed full-reference punctuation normalisation, strict
+variant boundaries, empty Hesalite Movement and restricted display-back handling.
+The live checkpoint remains PR #16 / 651 entries; the local catalogue has 744.
+Publishing still lacks valid workspace GitHub authentication; live authenticated
+shared-refresh/RLS validation also remains open. Research is IN PROGRESS: 293
+stored keys reviewed, 1,945 unreviewed. Nine further downloaded Omega galleries
+await selected full-resolution evidence and promotion decisions.
+
 ## Publication verification — 2026-10-11
 
 PR #8 is merged, and the latest photograph checkpoint is PR #16 at
@@ -551,3 +714,35 @@ explicit reference keys, checking credits, variants and mobile overflow with TLS
 verification enabled. Research remains in progress: 1,990 stored identifier keys
 are unreviewed. Live authenticated shared refresh/RLS remains unverified because
 no permitted test session is configured.
+
+## Backup restoration and release validation — 2026-10-12
+
+Restored `benchauth-recovery-744.zip` in a new directory. The bundle SHA-256
+matched `276683b0df9258af650c03846c381afc1242b0bf6e9692c500aa67f034775e12`;
+Git verified its required published base, and restored HEAD exactly matched
+`045ffc1f5888157fbbf3518ea3099bef3ee5379b`. Reconciled the saved research with
+main `936d73e428bb193336f773dd861bbba52c16a195`, retaining its publication record.
+
+All 41 Node tests pass, including new Omega exact-suffix/display-back safety
+and Cartier/Breitling scope regressions. Workflow browser fixtures pass. Actual
+Chrome loaded and enlarged all 744 accepted gallery entries (716 distinct inspected
+files) across 330 explicit reference keys, checking credits, representative labels,
+variants and mobile overflow. TLS verification remained enabled. Temporary Windows
+harnesses served local application files through Playwright routing because local
+loopback connections timed out; actual public photograph requests were not mocked.
+The first full-photo attempt timed out; the logged rerun passed the complete catalogue.
+The audit was regenerated, synchronizing stale Omega movement evidence wording
+with photograph-reviews.json without changing counts.
+
+The original rollback ref still resolves to
+`b4ffc080c4dba6f55bb246377a24a3c2bf284052`. A fresh local Git bundle preserves
+pre-restore main and that rollback. Publication is scoped only to
+`potmoodle-debug/watch-auth-pro-OLD`; production WatchAuthPro is untouched.
+Command-line credential-helper execution failed; publication uses the connected
+GitHub API, preserving the original recovery bundle and exact checkpoint locally.
+
+Research remains IN PROGRESS: 293 stored keys reviewed, 1,945 unreviewed.
+Authenticated live shared refresh/RLS remains unverified without a permitted test
+session. The nine previously downloaded Omega galleries are discovery leads; their
+local downloads were not included in this recovery bundle and must be fetched and
+inspected again before promotion. These counts do not imply completion.

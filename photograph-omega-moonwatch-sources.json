@@ -1,0 +1,1129 @@
+{
+  "reviewedAt": "2026-10-12T07:33:26.393897+00:00",
+  "completion": "IN PROGRESS",
+  "galleriesInspected": 2,
+  "imageOccurrencesInspected": 49,
+  "attachedSpecimens": [
+    {
+      "reference": "310.30.42.50.01.001",
+      "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+      "credit": "Loupe This",
+      "lot": "4565",
+      "specimenDescription": [
+        {
+          "_type": "titleLeftBodyRight",
+          "title": "Introduction",
+          "bodyCopy": [
+            {
+              "_type": "block",
+              "style": "normal",
+              "_key": "135093402a84",
+              "markDefs": [],
+              "children": [
+                {
+                  "text": "Released in 1957 and based on their earlier chronographs from the 1920s and '30s, the Omega Speedmaster is one of the most iconic chronographs ever. Named after the purpose of the tachymeter along its bezel, the Speedmaster was designed for race car drivers and pilots to time events and make rapid calculations. While these adrenaline-fueled activities might not be for the faint-hearted, they weren't what made the Speedmaster so iconic - that was its use in space and on the Moon. Following a gruelling series of tests with several competing brands, the Speedmaster debuted in space as a piece of NASA standard-issue equipment during the Gemini program of 1965. Today the Speedmaster has many forms, but the Moonwatch is by far the most iconic, with its design standing as the prototypical look of the Speedmaster. Subscribing to the original aesthetic that Moonwatches worn by the Apollo astronauts had, the Speedmaster Professional that we have here is the black dial hesalite Moonwatch ref. 310.30.42.50.01.001 that was launched in 2022. Boasting a hesalite crystal over its heritage-inspired black dial above its manual-wind cal. 3861 movement, this timepiece offers a modern take on one of horlogy’s most iconic timepieces.",
+                  "_key": "96b2303957c50",
+                  "_type": "span",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "_key": "d1d12f491673"
+        },
+        {
+          "_key": "4f543b8d8d0e",
+          "_type": "auctionScorecard",
+          "grade": "M 9.5",
+          "status": "Vetted & Approved",
+          "included": "Box and Papers, ",
+          "range": {
+            "start": 3000,
+            "end": 5000,
+            "_type": "range"
+          }
+        },
+        {
+          "year": "2025",
+          "condition": "Like new",
+          "reference": "310.30.42.50.01.001",
+          "dimensions": "42mm",
+          "dialColor": "Black",
+          "included": "Watch, box, papers, and accessories",
+          "bracelet": "Stainless steel bracelet",
+          "_type": "twoColumnTable",
+          "_key": "f0bacdc03e5c",
+          "brand": "Omega",
+          "material": "Stainless steel",
+          "model": "Speedmaster Moonwatch",
+          "movement": "Manual-wind cal. 3861"
+        },
+        {
+          "_key": "0d197430fd44",
+          "_type": "threeUpImageModule",
+          "imageComponents": [
+            {
+              "caption": [
+                {
+                  "_type": "block",
+                  "style": "h5",
+                  "_key": "6ea6023091c5",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "_type": "span",
+                      "marks": [],
+                      "text": "THE DIAL",
+                      "_key": "738f9e9be66b"
+                    }
+                  ]
+                },
+                {
+                  "_key": "5b0c7d8de223",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "_key": "9adc219423d4",
+                      "_type": "span",
+                      "marks": [],
+                      "text": "Boasting the same black dial design as the Moonwatch has become known for, the latest edition of the icon features a stepped dial design that is truly timeless. "
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "normal"
+                }
+              ],
+              "_key": "7cf63e93584a",
+              "image": {
+                "_type": "imageField",
+                "alt": "THE DIAL",
+                "asset": {
+                  "_ref": "image-255af9c78c2af3ef6ac1e6cc0e39005101e7dada-3770x3770-jpg",
+                  "_type": "reference"
+                }
+              }
+            },
+            {
+              "_key": "aefa1e0781cf",
+              "image": {
+                "alt": "THE CONSTRUCTION",
+                "asset": {
+                  "_type": "reference",
+                  "_ref": "image-c54df721e7ef22dc6a278151103814bb72009ccb-3770x3770-jpg"
+                },
+                "_type": "imageField"
+              },
+              "caption": [
+                {
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "text": "THE CONSTRUCTION",
+                      "_key": "74897e095697",
+                      "_type": "span",
+                      "marks": []
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "h5",
+                  "_key": "504b28bc51d0"
+                },
+                {
+                  "_type": "block",
+                  "style": "normal",
+                  "_key": "66cd955f1e36",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "marks": [],
+                      "text": "Boasting its 42mm case, its famed lyre lugs, black dial and black bezel combo, and new dramatically tapered bracelet design, this is a twist on the Speedmaster that every watch enthusiast will surely see the appeal of. ",
+                      "_key": "e7819de66f9c",
+                      "_type": "span"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "_key": "98f314355c73",
+              "image": {
+                "_type": "imageField",
+                "alt": "TIMING MACHINE READOUT",
+                "asset": {
+                  "_ref": "image-d00f25d1a15da559317fa78d79e3caafc6c52116-750x750-jpg",
+                  "_type": "reference"
+                }
+              },
+              "caption": [
+                {
+                  "children": [
+                    {
+                      "marks": [
+                        "strong"
+                      ],
+                      "text": "TIMING MACHINE READOUT",
+                      "_key": "c230e5ad5b000",
+                      "_type": "span"
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "h5",
+                  "_key": "63a227d48262",
+                  "markDefs": []
+                },
+                {
+                  "_key": "741f83041412",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "_key": "d76b7d70dcbd0",
+                      "_type": "span",
+                      "marks": [],
+                      "text": "This reading was taken (crown down) with a ONEOF Accuracy Boutique Edition timing machine at time of cataloging. It is provided as a courtesy only, and shall not be construed as a warranty or guarantee of any kind. Please refer to our terms and conditions of sale for more information."
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "normal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "6985ad09d93a",
+          "_type": "titleLeftBodyRight",
+          "title": "Condition",
+          "bodyCopy": [
+            {
+              "children": [
+                {
+                  "marks": [],
+                  "text": "Watch is in overall like-new condition. The case shows only light signs of wear or handling. The bracelet is fitted with 21 links, 7 of which are removable, and fits approximately a 7” wrist. Additionally, there are 5 links included. Comes complete with box and papers.",
+                  "_key": "ac9d40447b48",
+                  "_type": "span"
+                }
+              ],
+              "_type": "block",
+              "style": "normal",
+              "_key": "ac6313cd57a7",
+              "markDefs": []
+            },
+            {
+              "_key": "d93c9252b2b3",
+              "markDefs": [],
+              "children": [
+                {
+                  "text": "",
+                  "_key": "c3a5aa109d750",
+                  "_type": "span",
+                  "marks": []
+                }
+              ],
+              "_type": "block",
+              "style": "normal"
+            }
+          ]
+        },
+        {
+          "bodyCopy": [
+            {
+              "_type": "block",
+              "style": "normal",
+              "_key": "f27f17bef870",
+              "markDefs": [],
+              "children": [
+                {
+                  "marks": [],
+                  "text": "A legendary watch that certainly needs no introduction, the Speedmaster is arguably one of the most important timepieces in horology and every collector should have one in their collection. ",
+                  "_key": "8ed569f2b519",
+                  "_type": "span"
+                }
+              ]
+            }
+          ],
+          "authorProfiles": [
+            {
+              "_type": "author",
+              "name": "Justin Gruenberg",
+              "jobTitle": "Co-founder",
+              "image": {
+                "asset": {
+                  "_ref": "image-590774cfe2c9b6581ab2fab9cdd7a5d633e1acbe-1000x971-jpg",
+                  "_type": "reference"
+                },
+                "_type": "imageField"
+              },
+              "_id": "f6d58947-7e19-43b1-a831-f297e8816a23"
+            }
+          ],
+          "_key": "cc50944c5586",
+          "_type": "titleLeftBodyRight",
+          "title": "Our Perspective"
+        }
+      ],
+      "evidence": "Loupe This lot 4565: all 24 gallery photographs inspected in contact sheets; selected front 0, back 5, signed clasp 12 and matching full-reference paperwork 20 inspected at full resolution. Black-dial Hesalite closed-back specimen: actual lug serial 84472670 matches full-reference paperwork. No opened movement is photographed; the card naming 3861 is not movement-image evidence. Source: https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+      "acceptedPhotographIds": [
+        "loupe-moonwatch-4565-front-0",
+        "loupe-moonwatch-4565-caseback-5",
+        "loupe-moonwatch-4565-braceletClasp-12"
+      ],
+      "inspectedImages": [
+        {
+          "reference": "310.30.42.50.01.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+          "index": 0,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/b7851e53c1dee172f7f0813e3c3345f51328a29c-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "3b1491bbe169975545f6800630fe9c1bd4a2be1e3213603f408e223c411a38ac"
+        },
+        {
+          "reference": "310.30.42.50.01.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+          "index": 1,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/5ef226d52e1ffd6fb3037786c44f1185a97f91bc-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "37319778d437425fd69d1c81d4d8aae0a394e6d126c9743540689eefd1a6f4d0"
+        },
+        {
+          "reference": "310.30.42.50.01.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+          "index": 2,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/7466424dffee02c2f50d8bf4b4ebe38976512c59-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "7f160ba2644b84551414b067ed58bbe72d480c383fc3c6cd28a711ecffeb93a6"
+        },
+        {
+          "reference": "310.30.42.50.01.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+          "index": 3,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/8b3edabc8d8c47a87dd27e74167c00a8f9bdbef6-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "9346c785e873b54987cc3b4b499b27dd0a240c1b1bd91b4f4625b1d6338db80b"
+        },
+        {
+          "reference": "310.30.42.50.01.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+          "index": 4,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/d78703bf73ef46e8b1ed2d002751622fd4b1f8a2-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "3e4a379241352ed885873ed593c0666cab9260ba1f118f0d73dc099fc3333fe2"
+        },
+        {
+          "reference": "310.30.42.50.01.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+          "index": 5,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/7f838515d77e41473addf53689989d4d2fb3471c-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "8adf6bc8e5e7f9d7f77efd4da73f35859a53040ff5723c862481008dd3c9672e"
+        },
+        {
+          "reference": "310.30.42.50.01.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+          "index": 6,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/cac1302e161832bbfbe896500ecf72aa40a87251-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "c1b5c2b9b370585bfcedf99cf434b958c9ad659708bb5cb0493db90a02443f89"
+        },
+        {
+          "reference": "310.30.42.50.01.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+          "index": 7,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/b21cab1e5bd14d616646a306b249835414d1f2ac-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "a9bb7ce50f871f6ac05fb20fc3327c6af1181986a3edf5790de572f404d045d0"
+        },
+        {
+          "reference": "310.30.42.50.01.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+          "index": 8,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/e83e9ad40200eaa66a3ea9f7b7d920a4c65c17e1-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "d7df2a1cea2a21c4ec9a9f0009cf949dfcda400684da821bc6acebd3c5034033"
+        },
+        {
+          "reference": "310.30.42.50.01.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+          "index": 9,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/f3529275ded393fd4c0c366fbc8c7ce3c9d7d5f8-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "0e8ccc8ce94231cbf4097fc10e292caaeeb46457d19cf99fd42735bef435c6f4"
+        },
+        {
+          "reference": "310.30.42.50.01.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+          "index": 10,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/d1476cf74251b043c02dda5192e225835024339c-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "39b7a47876b604bf8336cee4707d4555c5abbe42fc010cf7e4cd21f91cba0a88"
+        },
+        {
+          "reference": "310.30.42.50.01.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+          "index": 11,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/255af9c78c2af3ef6ac1e6cc0e39005101e7dada-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "351240e51d523f4748186b69c1b95c3bca1666f493b730865feb8860f33f646f"
+        },
+        {
+          "reference": "310.30.42.50.01.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+          "index": 12,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/2ce039770e7062242cab78a6abd7f73f925bb375-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "f101a0e98a9783f0bad5b2f4e037775aae0baa06ef933a0ad694c94b06f0fcf5"
+        },
+        {
+          "reference": "310.30.42.50.01.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+          "index": 13,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/2d0ef8b4bd2093b87442c6352c8f3005ad74fbf0-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "ed58990cebaad3909067c7a2ca165915ee4f3105239207f4e2306d3923fd9a0c"
+        },
+        {
+          "reference": "310.30.42.50.01.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+          "index": 14,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/c729087c74653086cb2c3d3efcee2b8e43bfb28c-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "c0bace0cebb44ce80a7efe2c7e40ff2f8783eea67740fc3cfe89ccd39599a74f"
+        },
+        {
+          "reference": "310.30.42.50.01.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+          "index": 15,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/d89ddc774b65ffdd9bda7d385635121041fa2f3b-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "71a848160241fca05cfa9149bc6094ba70bc78a678ea963582984ec060577332"
+        },
+        {
+          "reference": "310.30.42.50.01.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+          "index": 16,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/d7a0bf781392c80d49704e6e61f52d66b60768fc-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "ac9279ce43b830e8f5e7afbdd0b4cd0d949307c9bf4f8dbe9b072f0667a0a93c"
+        },
+        {
+          "reference": "310.30.42.50.01.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+          "index": 17,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/0c57b30e0ccd02bd9df935661dda5383e4ee4b92-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "dd38739264df9986891f246c981eded40340618184640052a103e70ca3035c34"
+        },
+        {
+          "reference": "310.30.42.50.01.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+          "index": 18,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/ff9459cdfb6681895d0b0db6a77c7a3610bf2913-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "22b310b24952a0e3df14a729a28c57752e017f1d78989a568a44f230199d4a2f"
+        },
+        {
+          "reference": "310.30.42.50.01.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+          "index": 19,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/0bf5c8367da7018632bc7ad86f404a7258a2fd3c-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "eae21b172f0d97efa8056ef84ade82c59d755c10a42df80379bdd11471e21ac7"
+        },
+        {
+          "reference": "310.30.42.50.01.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+          "index": 20,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/44739c610624946df38cac0613add5ea85576c6a-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "081cafd840be83b8b4dc4bcd822af222b9e63902e57b1427a75e89b042a19eb6"
+        },
+        {
+          "reference": "310.30.42.50.01.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+          "index": 21,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/1c1309608a9d2d8726ab6edf39860aa2d9b14c87-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "fcb4b170bea610205760c072eb5a0213396febcf49f8dca461243b8cc8eb259a"
+        },
+        {
+          "reference": "310.30.42.50.01.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+          "index": 22,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/46bf0f6d0a4d40afffa94fc99ea2767b7aa429be-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "af01f28f0e3da1ad8d99bc4f211648df4c05ad8c85e4d3207183dcd99be2bff2"
+        },
+        {
+          "reference": "310.30.42.50.01.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-01-001",
+          "index": 23,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/c54df721e7ef22dc6a278151103814bb72009ccb-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "f06c0be33993920590c9eaba352b0cbf5558bc17f44eef10b00743023aa3f0d5"
+        }
+      ]
+    },
+    {
+      "reference": "310.30.42.50.04.001",
+      "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+      "credit": "Loupe This",
+      "lot": "4277",
+      "specimenDescription": [
+        {
+          "_type": "titleLeftBodyRight",
+          "title": "Introduction",
+          "bodyCopy": [
+            {
+              "_type": "block",
+              "style": "normal",
+              "_key": "4d527cfb53f2",
+              "markDefs": [],
+              "children": [
+                {
+                  "text": "Released in 1957 and based on their earlier chronographs from the 1920s and '30s, the Omega Speedmaster is one of the most iconic chronographs ever. Named after the purpose of the tachymeter along its bezel, the Speedmaster was designed for race car drivers and pilots to time events and make rapid calculations. While these adrenaline-fueled activities might not be for the faint-hearted, they weren't what made the Speedmaster so iconic - that was its use in space and on the Moon. Following a gruelling series of tests with several competing brands, the Speedmaster debuted in space as a piece of NASA standard-issue equipment during the Gemini program of 1965. Today the Speedmaster has many forms, but the Moonwatch is by far the most iconic, with its design standing as the prototypical look of the Speedmaster. Offering a new aesthetic to the original Moonwatches that the Apollo astronauts wore, the Speedmaster Professional that we have here is the white dial Moonwatch ref. 310.30.42.50.04.001 that was launched in very early 2024. Boasting a sapphire crystal over its bright white dial and over its manual-wind cal. 3861 movement, this timepiece offers a modern take on one of horlogy’s most iconic timepieces.",
+                  "_key": "60aa7310eef40",
+                  "_type": "span",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "_key": "d1d12f491673"
+        },
+        {
+          "_key": "4f543b8d8d0e",
+          "_type": "auctionScorecard",
+          "grade": "M 9.5",
+          "status": "Vetted & Approved",
+          "included": "Box and Papers",
+          "range": {
+            "_type": "range",
+            "start": 4000,
+            "end": 6000
+          }
+        },
+        {
+          "bracelet": "Stainless steel bracelet",
+          "condition": "Like new",
+          "reference": "310.30.42.50.04.001",
+          "dimensions": "42mm",
+          "brand": "Omega",
+          "_key": "f0bacdc03e5c",
+          "included": "Watch, box, and papers",
+          "dialColor": "White",
+          "year": "2024",
+          "_type": "twoColumnTable",
+          "material": "Stainless steel",
+          "movement": "Manual-wind cal. 3861",
+          "model": "Speedmaster Moonwatch"
+        },
+        {
+          "_key": "0d197430fd44",
+          "_type": "threeUpImageModule",
+          "imageComponents": [
+            {
+              "caption": [
+                {
+                  "_key": "99f222ebd91a",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "_type": "span",
+                      "marks": [],
+                      "text": "THE DIAL",
+                      "_key": "73cd1160ac25"
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "h5"
+                },
+                {
+                  "style": "normal",
+                  "_key": "cefa0edecdc2",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "text": "A rarity within the Speedmaster collection, this latest addition to the Moonwatch family boasts a bright white dial with stark black and red accents. ",
+                      "_key": "1086bf7e5a52",
+                      "_type": "span",
+                      "marks": []
+                    }
+                  ],
+                  "_type": "block"
+                }
+              ],
+              "_key": "495574bf6788",
+              "image": {
+                "alt": "THE DIAL",
+                "asset": {
+                  "_type": "reference",
+                  "_ref": "image-62d066529ac7c150339cd9757ccc87ee737bab7e-2400x2400-jpg"
+                },
+                "_type": "imageField"
+              }
+            },
+            {
+              "image": {
+                "_type": "imageField",
+                "alt": "THE CONSTRUCTION",
+                "asset": {
+                  "_ref": "image-d5ce19f3a8daec31740cbe719b8656d68143d5e5-2400x2400-jpg",
+                  "_type": "reference"
+                }
+              },
+              "caption": [
+                {
+                  "style": "h5",
+                  "_key": "d6a54d04cb57",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "text": "THE CONSTRUCTION",
+                      "_key": "d9647211e194",
+                      "_type": "span",
+                      "marks": []
+                    }
+                  ],
+                  "_type": "block"
+                },
+                {
+                  "_key": "dd664a71cf4a",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "_type": "span",
+                      "marks": [],
+                      "text": "Boasting its 42mm case, its famed lyre lugs, and unique white dial and black bezel combo, this is a twist on the Speedmaster that every watch enthusiast will surely see the appeal of. ",
+                      "_key": "dfea5b91765a"
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "normal"
+                }
+              ],
+              "_key": "cae62ada8bb4"
+            },
+            {
+              "_key": "98f314355c73",
+              "image": {
+                "_type": "imageField",
+                "alt": "TIMING MACHINE READOUT",
+                "asset": {
+                  "_ref": "image-1a23c2cfb36984582d8bb78c93afb055ad21a7b0-750x750-jpg",
+                  "_type": "reference"
+                }
+              },
+              "caption": [
+                {
+                  "children": [
+                    {
+                      "_key": "c230e5ad5b000",
+                      "_type": "span",
+                      "marks": [
+                        "strong"
+                      ],
+                      "text": "TIMING MACHINE READOUT"
+                    }
+                  ],
+                  "_type": "block",
+                  "style": "h5",
+                  "_key": "63a227d48262",
+                  "markDefs": []
+                },
+                {
+                  "style": "normal",
+                  "_key": "741f83041412",
+                  "markDefs": [],
+                  "children": [
+                    {
+                      "text": "This reading was taken (crown down) with a ONEOF Accuracy Boutique Edition timing machine at time of cataloging. It is provided as a courtesy only, and shall not be construed as a warranty or guarantee of any kind. Please refer to our terms and conditions of sale for more information.",
+                      "_key": "d76b7d70dcbd0",
+                      "_type": "span",
+                      "marks": []
+                    }
+                  ],
+                  "_type": "block"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_type": "titleLeftBodyRight",
+          "title": "Condition",
+          "bodyCopy": [
+            {
+              "children": [
+                {
+                  "_type": "span",
+                  "marks": [],
+                  "text": "The watch is in like-new condition, showing only very light signs of wear. The stainless steel bracelet currently fits an approximately 6¾” wrist and includes 18 links, 6 of which are removable, with 6 additional links included. The watch is complete with its box and papers.\n",
+                  "_key": "ac9d40447b48"
+                }
+              ],
+              "_type": "block",
+              "style": "normal",
+              "_key": "ac6313cd57a7",
+              "markDefs": []
+            },
+            {
+              "style": "normal",
+              "_key": "2f841d2138bd",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "marks": [],
+                  "text": "",
+                  "_key": "8458640b573f"
+                }
+              ],
+              "_type": "block"
+            }
+          ],
+          "_key": "6985ad09d93a"
+        },
+        {
+          "_key": "cc50944c5586",
+          "_type": "titleLeftBodyRight",
+          "title": "Our Perspective",
+          "bodyCopy": [
+            {
+              "style": "normal",
+              "_key": "cf7f4311283b",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "marks": [],
+                  "text": "A legendary watch that certainly needs no introduction, the Speedmaster is arguably one of the most important timepieces in horology and every collector should have one in their collection. ",
+                  "_key": "a0324976ee2e"
+                }
+              ],
+              "_type": "block"
+            }
+          ],
+          "authorProfiles": [
+            {
+              "image": {
+                "_type": "imageField",
+                "asset": {
+                  "_ref": "image-590774cfe2c9b6581ab2fab9cdd7a5d633e1acbe-1000x971-jpg",
+                  "_type": "reference"
+                }
+              },
+              "_id": "f6d58947-7e19-43b1-a831-f297e8816a23",
+              "_type": "author",
+              "name": "Justin Gruenberg",
+              "jobTitle": "Co-founder"
+            }
+          ]
+        }
+      ],
+      "evidence": "Loupe This lot 4277: all 25 gallery photographs inspected in contact sheets; selected front 0, back 5, signed clasp 14 and matching full-reference paperwork 20 inspected at full resolution. White-dial sapphire display-back specimen: actual movement bridge reads OMEGA 3861 / MASTER CO-AXIAL; actual movement serial 88463628 matches the reference card. Visible rhodium-finished manual chronograph, balance cock and bridge execution belong to this paired specimen. Source: https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+      "acceptedPhotographIds": [
+        "loupe-moonwatch-4277-front-0",
+        "loupe-moonwatch-4277-caseback-5",
+        "loupe-moonwatch-4277-braceletClasp-14",
+        "loupe-moonwatch-4277-movement-5"
+      ],
+      "inspectedImages": [
+        {
+          "reference": "310.30.42.50.04.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+          "index": 0,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/c53c3b5504da731822aa887b6a6d07dcd97b907a-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "26c6ce38ce5b9b0bdc64b0fb08ad09c01df625aa4a14e0e6c18ecba4e1087ce8"
+        },
+        {
+          "reference": "310.30.42.50.04.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+          "index": 1,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/9ac0cd94a043d5e4799645f1ef01626be28175e5-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "8d00737e30ecae6e74535e558d06fd1854eb053f9021e6bd75570f86a405f0d6"
+        },
+        {
+          "reference": "310.30.42.50.04.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+          "index": 2,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/802278f06db855c18bfd2b7f1bfb8861cfacda5a-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "c0961d6c309ee79acd326af8f9178bf81ec4212decdcaa9c7420edd2853aa116"
+        },
+        {
+          "reference": "310.30.42.50.04.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+          "index": 3,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/8cf4949d8da37115a9bc9b9bcb9bfe66e3b19410-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "6c21736dff970b50f95036ce8fdc484ed33ed41cbdab8a62cf2417fe007f148d"
+        },
+        {
+          "reference": "310.30.42.50.04.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+          "index": 4,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/b997448f216468e3080efd6d654065c1a8270fa6-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "264413f28d941ec475cd15658cc17a552a4fa63e61641a9f94aee5d531c8b759"
+        },
+        {
+          "reference": "310.30.42.50.04.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+          "index": 5,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/65c6313b19665cfd4e757f276c4b9d2c6535c46e-3770x3770.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "d3028782c4048646e83f195b8a37d5d1edf24b1e681926dd8ce83cfcf38fc422"
+        },
+        {
+          "reference": "310.30.42.50.04.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+          "index": 6,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/231dc0feb6ac4239a3ddeea062af2e82a2f66537-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "ab624fd66b6a92ed6d94b0567469e0f4b64e82090d5bcd97cfd09c4dfa66f672"
+        },
+        {
+          "reference": "310.30.42.50.04.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+          "index": 7,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/8ae81e6a1dcce7d32270a78e6dab85c61b4902d6-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "f51131414d4236936075f5769ffafa21c9149d44c10c561073ad3f32d9b60128"
+        },
+        {
+          "reference": "310.30.42.50.04.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+          "index": 8,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/2c14ca20a2f3523825a32ff724b9e5087fc785f3-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "37271af686172cdb90cf4d08dc4592a170a923be7eaca4a3f7a92755b758dc17"
+        },
+        {
+          "reference": "310.30.42.50.04.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+          "index": 9,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/2265aa44c8c424d4c20256ebd85691691f0ae2dd-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "cb256cd746c2facd574b9d30ebc798556f76477fa2ff5358f3cd63fa52c2ff63"
+        },
+        {
+          "reference": "310.30.42.50.04.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+          "index": 10,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/68c243f818c02a99f1f927fb3d4fa7227206f297-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "d99c012e75da714af760efefc68dc0cac1565eb0f551f1e2487eb5ea3701a5fb"
+        },
+        {
+          "reference": "310.30.42.50.04.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+          "index": 11,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/62d066529ac7c150339cd9757ccc87ee737bab7e-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "0ff5ad34c7713576fb68f41f872e759305187d35576ce23e98a8fc1924494283"
+        },
+        {
+          "reference": "310.30.42.50.04.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+          "index": 12,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/6b3d2bdc72e98a2fad3ac5698160485785256356-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "26c20797fde20300c3c9dac4db4b10e4104f58f039a6316f1a9db2270fe94978"
+        },
+        {
+          "reference": "310.30.42.50.04.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+          "index": 13,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/1338d89dfe16719394aeb66cc77eca8410086810-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "71f3a359e9ed9875c9a4c484c9f070754562906149955c9b1be643a8ece5660c"
+        },
+        {
+          "reference": "310.30.42.50.04.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+          "index": 14,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/126339e2539ad2e8ab94591f2e6def6d084fba4b-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "c6613e1abf45f3985e3dca94e69bfe52cf0f98587baf4db93b992321154d59fb"
+        },
+        {
+          "reference": "310.30.42.50.04.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+          "index": 15,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/c245ace065a9eb0681b28236f3b0f23454d00c21-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "d1c14187541dafe5ac182e78c099fd67be3135707fbdae0f8b3e273ea6be6ce6"
+        },
+        {
+          "reference": "310.30.42.50.04.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+          "index": 16,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/ae341bf37c8803cdca52943f88f24fd43c249a4c-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "5cf4d932b2cd7ced461308a3ce0fbf0aba81ff5e24053c08dc2858c616354401"
+        },
+        {
+          "reference": "310.30.42.50.04.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+          "index": 17,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/7a6bf68a2461d1cc5e3c9e44d1814105bfc58658-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "d5c466f0941092b656c4ec4251c519f42eb84662971293d2104ce9168989e1bb"
+        },
+        {
+          "reference": "310.30.42.50.04.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+          "index": 18,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/fc18938bc64018b65c4b1a6129b555f128559f49-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "fae4df0739126e3e87c07cee04b891547a0959ba25f9b5efff41666d54eda4ae"
+        },
+        {
+          "reference": "310.30.42.50.04.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+          "index": 19,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/cb6046cb0aa03706d41ea896577a03c98ec43d0c-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "fc27081344216292d124b4daa644b71d6ad6326f8a596316ce3839d98a14bbce"
+        },
+        {
+          "reference": "310.30.42.50.04.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+          "index": 20,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/2ffc3ead794e10942641e28b9e8de28b32df6dc8-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "820e0e332ca533896234288af811a54e35a9955f245d8919ae482c42b320ba9d"
+        },
+        {
+          "reference": "310.30.42.50.04.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+          "index": 21,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/e1ed36c2d01e39943568a63033e21b869258fe6e-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "b837d0a847dfecebeb79562c597ba9239bddfb8815fecaf8c68c392674c422c5"
+        },
+        {
+          "reference": "310.30.42.50.04.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+          "index": 22,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/ec08a4c6237c9c88ff76608eb0cb03d09761e841-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "24e86ba940178814b6130ddd75692f21e4e484c503e9f13f6d1b852b33e595b7"
+        },
+        {
+          "reference": "310.30.42.50.04.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+          "index": 23,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/30fe86e00d2253978c459f83bb26d0b73a1e0a95-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "e450047eda14a7dc71228a3f73620f3a9946815747f8c9957c7bb7b34b37c0b2"
+        },
+        {
+          "reference": "310.30.42.50.04.001",
+          "source": "https://loupethis.com/auctions/omega-speedmaster-moonwatch-professional-310-30-42-50-04-001-white-dial",
+          "index": 24,
+          "image": "https://cdn.sanity.io/images/j0ua8uvr/production/d5ce19f3a8daec31740cbe719b8656d68143d5e5-2400x2400.jpg?w=2000&q=90&fit=clip",
+          "status": "decoded",
+          "dimensions": [
+            2000,
+            2000
+          ],
+          "sha256": "0f103b8c99c80fd56a667b1d66bfaba65d54f198d079fe86abeff61fa53e9b70"
+        }
+      ]
+    }
+  ]
+}
