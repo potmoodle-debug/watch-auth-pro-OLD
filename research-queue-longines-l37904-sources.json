@@ -1,0 +1,95 @@
+{
+  "reviewedAt": "2026-10-12T14:39:37.457Z",
+  "completion": "IN PROGRESS",
+  "scope": "Seven public mappings: one limited base and six enumerated exact variants; physical execution/photo gaps remain.",
+  "sources": [
+    {
+      "reference": "L3.790.4.96.6",
+      "source": "https://www.longines.com/en-gb/p/watch-hydroconquest-gmt-l3-790-4-96-6",
+      "sourceSha256": "2549fd75ce7dd53eac21ecb860eb68d66fd50405aa3321f05c9ac2174029f024",
+      "selectedDataPath": "@\"ProductPageAdditionalDocument\",\"en-gb\",\"watch-hydroconquest-gmt-l3-790-4-96-6\",.products.items.0",
+      "calibre": "L844.5",
+      "dimensions": {
+        "diameter": "Ø 41.00 mm",
+        "lugs": "21 mm",
+        "thickness": "12.90 mm",
+        "lugToLug": "49.40 mm"
+      }
+    },
+    {
+      "reference": "L3.790.4.06.6",
+      "source": "https://www.longines.com/en-gb/p/watch-hydroconquest-gmt-l3-790-4-06-6",
+      "sourceSha256": "cdd0ad119a59fd5f792d22de092339e8144b239d35c4c585da151a1c305f6c35",
+      "selectedDataPath": "@\"ProductPageAdditionalDocument\",\"en-gb\",\"watch-hydroconquest-gmt-l3-790-4-06-6\",.products.items.0",
+      "calibre": "L844.5",
+      "dimensions": {
+        "diameter": "Ø 41.00 mm",
+        "lugs": "21 mm",
+        "thickness": "12.90 mm",
+        "lugToLug": "49.40 mm"
+      }
+    },
+    {
+      "reference": "L3.790.4.56.6",
+      "source": "https://www.longines.com/en-gb/p/watch-hydroconquest-gmt-l3-790-4-56-6",
+      "sourceSha256": "23781cab1b504ded8bb42f04c1caa7de9c4757d91bcb363b5e094fcb2ffae3dd",
+      "selectedDataPath": "@\"ProductPageAdditionalDocument\",\"en-gb\",\"watch-hydroconquest-gmt-l3-790-4-56-6\",.products.items.0",
+      "calibre": "L844.5",
+      "dimensions": {
+        "diameter": "Ø 41.00 mm",
+        "lugs": "21 mm",
+        "thickness": "12.90 mm",
+        "lugToLug": "49.40 mm"
+      }
+    },
+    {
+      "reference": "L3.790.4.66.6",
+      "source": "https://www.longines.com/en-gb/p/watch-hydroconquest-gmt-l3-790-4-66-6",
+      "sourceSha256": "144d6d1304f1729cb802c011bce7b048e49602731847e9683adf14c31826154b",
+      "selectedDataPath": "@\"ProductPageAdditionalDocument\",\"en-gb\",\"watch-hydroconquest-gmt-l3-790-4-66-6\",.products.items.0",
+      "calibre": "L844.5",
+      "dimensions": {
+        "diameter": "Ø 41.00 mm",
+        "lugs": "21 mm",
+        "thickness": "12.90 mm",
+        "lugToLug": "49.40 mm"
+      }
+    },
+    {
+      "reference": "L3.790.4.96.9",
+      "source": "https://www.longines.com/en-gb/p/watch-hydroconquest-gmt-l3-790-4-96-9",
+      "sourceSha256": "9b26654d78ed6625cf8cf18ba1c912f77480afc3ba3e5182001c601b126f4bb3",
+      "selectedDataPath": "@\"ProductPageAdditionalDocument\",\"en-gb\",\"watch-hydroconquest-gmt-l3-790-4-96-9\",.products.items.0",
+      "calibre": "L844.5",
+      "dimensions": {
+        "diameter": "Ø 41.00 mm",
+        "lugs": "21 mm",
+        "thickness": "12.90 mm",
+        "lugToLug": "49.40 mm"
+      }
+    },
+    {
+      "reference": "L3.790.4.56.9",
+      "source": "https://www.longines.com/en-gb/p/watch-hydroconquest-gmt-l3-790-4-56-9",
+      "sourceSha256": "e8a02a4ba0839d8439a53fc46e732f020e95bee0ba930c48139d542f47952b73",
+      "selectedDataPath": "@\"ProductPageAdditionalDocument\",\"en-gb\",\"watch-hydroconquest-gmt-l3-790-4-56-9\",.products.items.0",
+      "calibre": "L844.5",
+      "dimensions": {
+        "diameter": "Ø 41.00 mm",
+        "lugs": "21 mm",
+        "thickness": "12.90 mm",
+        "lugToLug": "49.40 mm"
+      }
+    }
+  ],
+  "excluded": {
+    "source": "https://www.exquisitetimepieces.com/longines-l3-790-4-96-6-hydroconquest-sunray-blue-dial-on-bracelet-210000068795.html",
+    "finding": "Only650x650 image inspected; LIVE IMAGES COMING SOON placeholder excluded. Source2024 warranty attribution not manufacturing date."
+  },
+  "gaps": [
+    "Actual front, movement, caseback and clasp photos remain unverified",
+    "No individual calibre marking or generic L844 equivalence",
+    "Unlisted/historical variants and production interval unestablished",
+    "Queue status unchanged; not resolved"
+  ]
+}

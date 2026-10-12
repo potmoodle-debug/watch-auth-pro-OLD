@@ -11,7 +11,7 @@ repository must not be modified.
 Network access was verified first. GitHub and the BenchAuth live site return HTTP
 200. Of 1,564 distinct stored source URLs, 1,531 return HTTP 200 and 33 manufacturer
 Breitling URLs return HTTP 403. HTTP access and download counts **do not** establish
-visual review. The historical PR #16 checkpoint was bb26ced602af392fa2b1a55c2feffe527ab7c998 (Pages run 37977132750 succeeded). Current published and fully verified live checkpoint is PR #25 at 5a60d028ebb0a92720b19154f8be80e4fd759091, with 849 verified entries and both catalogue/web image search; Pages run 38259484711 succeeded. Earlier unpublished/waiting descriptions below are preparation history. The eighteen Sinn additions below are published; their preparation notes retain the status at that time. The ninth-checkpoint additions below are published; earlier next-checkpoint descriptions record the status when those batches were prepared.
+visual review. The historical PR #16 checkpoint was bb26ced602af392fa2b1a55c2feffe527ab7c998 (Pages run 37977132750 succeeded). Current published and fully verified live checkpoint is PR #26 at 0260ca3b177c4d97617e06c20b3b2eb5b64de882, with 858 verified entries and both catalogue/web image search; Pages run 38263636917 succeeded. Earlier unpublished/waiting descriptions below are preparation history. The eighteen Sinn additions below are published; their preparation notes retain the status at that time. The ninth-checkpoint additions below are published; earlier next-checkpoint descriptions record the status when those batches were prepared.
 
 Rollback: GitHub branch `rollback/benchauth-before-photographs-20261008`, commit
 `b4ffc080c4dba6f55bb246377a24a3c2bf284052`. The original workspace recorded a local bundle at
@@ -27,18 +27,18 @@ coverage, candidate IDs, evidence and exact counts. The CSV supports bench resea
 
 Historical shared-count checkpoint: the BenchAuth database had 982 reference-fact rows
 (937 repository rules and 45 research updates), including 47 verified textual
-mappings at the historical shared-count checkpoint. Current public files contain 937 rules and 46 research updates (983 rows), separately from the historical shared982 count; plus 1,465 imported catalogue variants = **2,448 source records**. The finite literal
+mappings at the historical shared-count checkpoint. Current public files contain 937 rules and 53 research updates (990 rows), separately from the historical shared982 count; plus 1,465 imported catalogue variants = **2,455 source records**. The finite literal
 identifiers in the existing public rules, research updates and imported
-catalogue yield **2,239
+catalogue yield **2,246
 stored identifier keys**. Only aggregate shared database counts are retained; no row-level database
 snapshot is published. The inventory is built from the public repository files.
-These are lookup keys, not 2,239 distinct
+These are lookup keys, not 2,246 distinct
 watch models: punctuation/case duplicates collapse; M-prefixed aliases, base
 references and catalogue suffixes remain separate keys. Broad patterns require
 enumeration and source review; they are never counted as exact references.
 
 Current exact progress is in the generated coverage files: **326 identifier keys
-reviewed, 1,913 unreviewed; 253 source records reviewed, 2,195 unreviewed**. There are
+reviewed, 1,920 unreviewed; 253 source records reviewed, 2,202 unreviewed**. There are
 **893 catalogue assets: 858 verified gallery entries, 26 pending and 9 rejected**, including 31
 legacy assets. Verified entries use **815 distinct stored image URLs and 814 distinct inspected file hashes**; the same photograph can serve two categories. Verified reference-key coverage: **front 262, movement 101, caseback
 229, bracelet/clasp 223**. Reviewed gaps describe the inspected source set, not a
@@ -990,3 +990,27 @@ Local855 contains six unpublished Cartier entries and one exact-reference update
 Existing RULE0000 already documents Steelfish GMT with exact-reference scope, calibre32 and explicit period/edition/dimension limits. Fifteen actual original Whizz Watch files inspected. Accepted three new views: blue concentric12/9/6 GMT dial with red-arrow hand/inner24 scale/date three; closed signed back; signed steel folding clasp with surface wear and microadjustment holes. Caseback LIMITED EDITION visible, but exact fraction/identity not asserted. No opened movement or physical calibre stamp, no underside clasp code or factory originality proof. Dealer2003/42mm claims remain attribution; bidirectional-bezel claim conflicts with other sources and is not adopted. H&T product JSON404; Watches.co.uk1mm field rejected. No ColtA32350/A32370, full suffix or separate edition inheritance.
 
 Existing A32360 identifier and source review refreshed with original gallery evidence; this is gap improvement, not newly reviewed inventory. New back/clasp category coverage closes two inspected-source exterior gaps. All70 Node checks pass. Browser loads/enlarges all three new files and two existing A32360 catalogue entries with credits, representative variants and mobile layout. Harness initial count included existing entries and was corrected to verify the complete displayed set and every new asset. Local858 contains nine unpublished Cartier/Breitling views and the Cartier exact update. LivePR25 remains849; queue statuses unchanged, research incomplete, authenticated refresh/RLS outstanding. Next reconcile/publish this tested queue batch, then continue L37904 and other missing references before general inventory.
+
+## PR26 merged; deployment verification pending
+
+PR26 merged to OLD main0260ca3b177c4d97617e06c20b3b2eb5b64de882; exact tested tree2f6df2210288287c3e8fe777fb8df208094e54b5. Nine queue photos and Cartier exact-reference update are now in main. Prior main preserved in rollback/benchauth-before-queue-research-20261012. Confirmed Pages run38263636917: build success, deploy job114860383804 waiting. Current served photographs.json still differs from new main, so no claim of live release verification. Continue polling this same run, then execute verify-pr26-live.cjs and prepared .pr26-live-photos.cjs for all new photos plus existing A32360 entries. Do not restart deployment simply because observation expires. Queue priority remains active, no statuses changed. Longines L37904 official linked variant enumeration recorded in local work for next implementation. Full goal and live authenticated validation remain outstanding.
+
+## PR26 live verification completed
+
+Same confirmed Pages run38263636917 completed successfully; earlier waiting/mismatch descriptions record preparation status only. Eleven served files match origin/main byte-for-byte, including research-updates-20261008.json. Live browser verified all nine new actual source files plus two existing A32360 entries across two exact lookup keys, with enlargement, credits, variant/representative scope and mobile overflow checks. Cartier exact-reference source mapping is now served. Existing browser/auth limitations retained: no live authorized signed-in refresh/RLS session. Queue statuses unchanged; research incomplete.
+
+Next queued L37904 research: archived six official full-reference pages. Each selected ProductPageAdditionalDocument product record identifies mvt_fct_calibre_name L844.5 and12.90mm thickness. The operating manual/video family name L844 is not substituted as precise execution. Original linked variants retain suffix-specific dial/strap differences. No images yet accepted or public mapping created for this next reference; further pixel/manual/detail review is required.
+
+## Missing-reference queue L37904: scoped manufacturer mappings — local unpublished
+
+Archived six original Longines full-reference pages and selected their exact ProductPageAdditionalDocument product records. All identify L844.5,41mm diameter,21mm lugs,12.90mm thickness and49.40mm lug-to-lug. Manufacturer GMT/date,25,200vph and up-to72h specification retained. New seven mappings provide base L3.790.4/L37904 family guidance plus exact96.6 blue bracelet,06.6 green bracelet,56.6 black bracelet,66.6 brown bracelet,96.9 blue rubber and56.9 black rubber. Base requires suffix confirmation; individual physical calibre/execution remain manual review. Unsuffixed L844 manual label is not accepted as equivalent physical execution; no ETA substitution,43mm L3.890.4, non-GMT or unlisted-suffix inheritance. No exhaustive historical production interval claimed.
+
+Exquisite original product endpoint returned one650x650 image explicitly labelled LIVE IMAGES COMING SOON. Pixels inspected and image excluded; no actual photographs accepted and no fabricated movement/back/clasp coverage. Original official imagery and further actual specimen sources still need review. Source receipt records selected technical fields and archived-page hashes. All70 checks pass with exact/base, wrong-brand, suffix and calibre-equivalence boundaries. Browser confirms seven guidance records display precise L844.5 and their correct scope, with empty photo gallery and mobile layout. This does not establish image delivery or physical movement verification.
+
+Public inventory expands to2455source records/2246keys;253records/326keys photo-reviewed,2202records/1920keys remain unreviewed. Seven new textual mappings do not count as reviewed photograph inventory. Shared historical aggregate982/47 unchanged. Local maps53; livePR26 maps46 and858verified gallery entries. Queue remains open. Continue genuine-photo/manual/execution research for L37904 and remaining queue, then full inventory; no signed-in test session.
+
+## Missing-reference queue Omega25025000 — local unpublished
+
+Original Omega exact2502.50.00 page supports black/steel42.2mm, self-winding Co-Axial2500 and48h nominal reserve. Twelve original SwissWatchExpo files inspected; four gallery entries from three distinct files accepted: front1, movement/back7 and signed clasp8. Papers10 corroborate25025000/2500 but are excluded as category photographs. Actual rotor marked OMEGA2500; no2500A/B/C/D execution suffix confirmed. Bracelet underside code/originality, full production interval and individual date remain unresolved. Dealer EWC9471 conflicting blue-dial description excluded. Clasp view includes display movement; external-only retains only front. No partial2502.50, adjacent2503/2504, quartz2512, unsupported suffix or generic ETA equivalence.
+
+All71 Node checks pass, including exact/wrong-brand and physical-calibre/external-only boundaries. Four actual entries (three files) load/enlarge with credits, variant/scope and mobile checks. Local862 verified entries and54 research updates; livePR26 remains858/46. Inventory2456sources/2247keys;254sources/327keys initially reviewed;2202sources/1920keys unreviewed. Research remains incomplete; queue status unchanged and no live authenticated session. Next reconcile/publish Longines+Omega tested batch to OLD only, then WAY2113 and remaining queue/full inventory. Original rollback history retained.
