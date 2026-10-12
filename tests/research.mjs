@@ -29,3 +29,12 @@ assert.match(matchingRule(rules,'IWC','IW370601').family,/Pilot/);
 assert.equal(matchingRule(rules,'IWC','IW370601').manualReview,true);
 assert.equal(movementResult(matchingRule(rules,'IWC','IW388113'),'7750').level,'caution');
 assert.equal(matchingRule(rules,'IWC','IW328206').reserve,'120 hours');
+
+const queuedCartier=matchingRule(rules,'Cartier','W5000156');
+assert.ok(queuedCartier.manualReview);
+assert.equal(movementResult(queuedCartier,'120').level,'match');
+assert.match(movementResult(queuedCartier,'120').text,/confirm the exact execution/);
+assert.equal(movementResult(queuedCartier,'ETA 2000-1').level,'caution');
+assert.equal(matchingRule(rules,'Omega','W5000156'),null);
+assert.equal(matchingRule(rules,'Cartier','W5000156-001'),null);
+assert.match(queuedCartier.technicalDetail.movement,/dealer attribution/);

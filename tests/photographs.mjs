@@ -643,3 +643,24 @@ test('Broadsword Recon preserves closed-back gap and does not inherit bronze or 
  const reviews=JSON.parse(fs.readFileSync(new URL('../photograph-reviews.json',import.meta.url)));
  for(const id of ['RULE:0503','RULE:0715'])assert.match(reviews.sourceRecordReviews.find(x=>x.id===id).categories.movement,/No opened movement/);
 });
+
+test('queued W5000156 photos preserve exact brand/reference and closed-back limits',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(brand,ref,externalOnly=false)=>matchingPhotographs(photos,brand,ref,{externalOnly}).filter(p=>p.id.startsWith('queue-cartier-w5000156-'));
+ assert.deepEqual(get('Cartier','W5000156').map(p=>p.category).sort(),['braceletClasp','braceletClasp','caseback','caseback','front','front']);
+ assert.equal(get('Cartier','W5000156',true).length,6);
+ for(const ref of ['W5000256','W5001456','1840','Tank Francaise','W5000156-001'])assert.equal(get('Cartier',ref).length,0,ref);
+ assert.equal(get('Omega','W5000156').length,0);
+ assert.equal(get('Cartier','W5000156').filter(p=>p.category==='movement').length,0);
+ assert.ok(get('Cartier','W5000156').every(p=>p.references.length===1&&!p.representativeFor.length));
+});
+
+test('A32360 blue specimen does not inherit Colt, full-suffix or opened-movement coverage',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,externalOnly=false)=>matchingPhotographs(photos,'Breitling',ref,{externalOnly}).filter(p=>p.id.startsWith('queue-breitling-a32360-'));
+ assert.deepEqual(get('A32360').map(p=>p.category).sort(),['braceletClasp','caseback','front']);
+ assert.equal(get('A32360',true).length,3);
+ assert.ok(get('A32360').every(p=>p.matchScope==='representative variant'));
+ for(const ref of ['A32350','A32370','A32360B4/C698','A326B05PFA','A32360-001'])assert.equal(get(ref).length,0,ref);
+ assert.equal(get('A32360').filter(p=>p.category==='movement').length,0);
+});
