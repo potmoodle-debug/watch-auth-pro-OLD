@@ -1,0 +1,459 @@
+{
+  "reviewedAt": "2026-10-12T10:23:46.675Z",
+  "completion": "IN PROGRESS",
+  "galleriesInspected": 4,
+  "distinctGalleryFramesInspected": 30,
+  "specimens": [
+    {
+      "ref": "PAM00574",
+      "group": "574",
+      "source": "https://www.europeanwatch.com/watch/panerai-pam00574-radiomir-manual-wind-ss-42mm-1940-3-day-50111",
+      "credit": "European Watch Company",
+      "count": 7,
+      "variant": "42 mm steel Radiomir 1940 / black sandwich dial / fitted green leather strap / source-identified manual P.1000 execution",
+      "evidence": "EWC stock 50111 pairs exact PAM00574 with seven inspected photographs. Full-resolution sapphire-back image shows rotorless manual execution, 3 DAYS and TWENTY-ONE (21) JEWELS, brushed bridge and two-screw balance bridge. Source description identifies manual P.1000; contradictory Automatic specification field is not accepted. Physical calibre text is not visible; P.1000 identity relies on paired exact-reference source, not invented engraving. Seller masks back identity digits.",
+      "views": [
+        [
+          0,
+          "front",
+          "Actual black sandwich dial, small seconds at 9 and fitted green leather strap; strap originality is not asserted."
+        ],
+        [
+          5,
+          "movement",
+          "Actual rotorless manual movement with 3 DAYS / 21 JEWELS, brushed bridges and two-screw balance bridge. Source identifies P.1000; no visible P.1000 engraving is claimed."
+        ],
+        [
+          5,
+          "caseback",
+          "Actual closed sapphire back and cased movement; masked back digits cannot be compared. Movement-visible frame is suppressed for external-only lookups."
+        ],
+        [
+          4,
+          "braceletClasp",
+          "Actual PANERAI-signed pin buckle on fitted green leather strap."
+        ]
+      ],
+      "gaps": {}
+    },
+    {
+      "ref": "PAM00609",
+      "group": "609",
+      "source": "https://onlineonly.christies.com/s/christies-watches-online-summer-watch-series-part-i/panerai-radiomir-black-seal-8-days-ref-pam00609-30/57825",
+      "credit": "Christie's",
+      "count": 4,
+      "variant": "Source-dated circa 2017 / 45 mm steel Radiomir Black Seal 8 Days / black dial / fitted brown leather strap / manual P.5000",
+      "evidence": "Christies lot 30 identifies PAM00609, circa 2017 steel 45 mm and manual P.5000. Four distinct gallery frames inspected; resized duplicate front excluded. Actual display-back photo clearly shows P.5000, EIGHT DAYS, 21 JEWELS, movement 020836 and brushed bridge with two-screw balance bridge. No dedicated buckle photo; written accessory claim is not photo coverage.",
+      "views": [
+        [
+          1,
+          "front",
+          "Actual black Radiomir Black Seal dial with 8 DAYS, small seconds at 9 and fitted brown leather strap."
+        ],
+        [
+          3,
+          "movement",
+          "Actual manual P.5000 with EIGHT DAYS / TWENTY-ONE (21) JEWELS, movement 020836, brushed bridge layout and two-screw balance bridge."
+        ],
+        [
+          3,
+          "caseback",
+          "Same actual closed sapphire-back frame shows cased P.5000 and 100 m steel back markings. Movement-visible view is suppressed for external-only lookups."
+        ]
+      ],
+      "gaps": {
+        "braceletClasp": "Gallery has no dedicated visible buckle or clasp view."
+      }
+    },
+    {
+      "ref": "PAM01005",
+      "group": "1005",
+      "source": "https://www.pcarmarket.com/results/panerai-luminor-marina-logo-watch-ref-pam01005-full-set",
+      "credit": "PCARMARKET / listing photographs retain LP watermark",
+      "count": 12,
+      "variant": "44 mm steel Luminor Marina Logo / black dial / fitted grey rubber strap and steel pin buckle",
+      "evidence": "Exact PAM01005 listing and twelve gallery frames inspected; eleven duplicate renditions excluded. Actual closed back has seller-masked identity marking and visible edition marking; no hidden identity is inferred. Grey rubber strap is fitted specimen equipment, not factory-originality evidence. Buckle photographed from inner surface without readable Panerai signature. No movement photograph.",
+      "views": [
+        [
+          0,
+          "front",
+          "Actual black Luminor Marina Logo dial with small seconds at 9 and fitted grey rubber strap; listing watermark retained."
+        ],
+        [
+          5,
+          "caseback",
+          "Actual closed brushed steel back with OFFICINE PANERAI / FIRENZE 1860 and 100 m. Seller-masked identity cannot be compared; reflections limit fine text."
+        ],
+        [
+          8,
+          "braceletClasp",
+          "Actual fitted grey rubber strap and steel pin buckle, inner view. No readable buckle signature or originality claim."
+        ]
+      ],
+      "gaps": {
+        "movement": "No opened movement photograph in the inspected gallery."
+      }
+    },
+    {
+      "ref": "PAM01024",
+      "group": "1024",
+      "source": "https://www.europeanwatch.com/watch/panerai-pam01024-luminor-submersible-44mm-ss-black-dial-62257",
+      "credit": "European Watch Company",
+      "count": 7,
+      "variant": "44 mm steel Luminor Submersible / black automatic dial / fitted black rubber strap and signed pin buckle",
+      "evidence": "EWC stock 62257 identifies exact PAM01024. Seven gallery frames inspected; selected back and buckle full-resolution. Actual closed back marked AUTOMATIC DIVERS PROFESSIONAL / SUBMERSIBLE / stainless steel / 300 m, with seller-masked identity digits. No opened movement view. No inheritance to PAM00024 or short PAM24 aliases.",
+      "views": [
+        [
+          0,
+          "front",
+          "Actual automatic black dial with date at 3 and small seconds at 9, steel dive bezel and fitted black rubber strap."
+        ],
+        [
+          5,
+          "caseback",
+          "Actual closed steel SUBMERSIBLE back with AUTOMATIC DIVERS PROFESSIONAL and 300 m. Seller-masked identity digits cannot be compared."
+        ],
+        [
+          4,
+          "braceletClasp",
+          "Actual PANERAI-signed steel pin buckle on fitted black rubber strap."
+        ]
+      ],
+      "gaps": {
+        "movement": "No opened movement photograph in the inspected gallery."
+      }
+    }
+  ],
+  "images": [
+    {
+      "ref": "574",
+      "i": 0,
+      "image": "https://images.europeanwatch.com/images/50/50111-1.jpg",
+      "httpStatus": 200,
+      "sha256": "4a2011a01b383478b37c4506864b2f5a80cbabf711c1c338f541eddeb63fb030",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "574",
+      "i": 1,
+      "image": "https://images.europeanwatch.com/images/50/50111-2.jpg",
+      "httpStatus": 200,
+      "sha256": "69532e548c0d2735d8f86ab9143d036bcad5656e27a187e2cf5c8dc2b6e32ea3",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "574",
+      "i": 2,
+      "image": "https://images.europeanwatch.com/images/50/50111-3.jpg",
+      "httpStatus": 200,
+      "sha256": "bfcca7f6046c7144ef1285a4b3298967a7a52cdc5e7b60358cc9c1b154436e34",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "574",
+      "i": 3,
+      "image": "https://images.europeanwatch.com/images/50/50111-4.jpg",
+      "httpStatus": 200,
+      "sha256": "2911e9367a3b6ec0630bc125fa9ef26d8b741225bdeffc5c8aa5a5e8ec01b21e",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "574",
+      "i": 4,
+      "image": "https://images.europeanwatch.com/images/50/50111-5.jpg",
+      "httpStatus": 200,
+      "sha256": "105805df11222892c300452b795943c4a0e819eb9531692efb883d9391266195",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "574",
+      "i": 5,
+      "image": "https://images.europeanwatch.com/images/50/50111-6.jpg",
+      "httpStatus": 200,
+      "sha256": "303746dd38c235bdc4d4238941e464c5433073e10456ad7fac5be644b0a3b0e0",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "574",
+      "i": 6,
+      "image": "https://images.europeanwatch.com/images/50/50111-7.jpg",
+      "httpStatus": 200,
+      "sha256": "2c089858d5de0c72aa042a942ef3cce30b0678c513630c490c12a8b546fee577",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "1024",
+      "i": 0,
+      "image": "https://images.europeanwatch.com/images/62/62257-1.jpg",
+      "httpStatus": 200,
+      "sha256": "9d0fcae395bae37e9cd201f59f6302b68ee2e5bf542c3578101e903f0e4333c9",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "1024",
+      "i": 1,
+      "image": "https://images.europeanwatch.com/images/62/62257-2.jpg",
+      "httpStatus": 200,
+      "sha256": "ece54aee9c97b99b1505b6cd8b09633e3acadf6fb0fc686853c0edaff255c4d6",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "1024",
+      "i": 2,
+      "image": "https://images.europeanwatch.com/images/62/62257-3.jpg",
+      "httpStatus": 200,
+      "sha256": "91782cc093c73c0a562fd6d31106001bf03d111b149995f6cc7dc37fc4e14239",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "1024",
+      "i": 3,
+      "image": "https://images.europeanwatch.com/images/62/62257-4.jpg",
+      "httpStatus": 200,
+      "sha256": "24dc7ba1706524bc065c41b86a06dc0916bf0697c6ab48548a72bc5ad3d24fe3",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "1024",
+      "i": 4,
+      "image": "https://images.europeanwatch.com/images/62/62257-5.jpg",
+      "httpStatus": 200,
+      "sha256": "ac93098b7103196e03527bff17bf530d5202e3b9c3ba0d94767e5408a00c5e5a",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "1024",
+      "i": 5,
+      "image": "https://images.europeanwatch.com/images/62/62257-6.jpg",
+      "httpStatus": 200,
+      "sha256": "59afeb8ed566f26ec17510b6beaa18aedcea5d128adcfe49a8981a3ea3480cfb",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "1024",
+      "i": 6,
+      "image": "https://images.europeanwatch.com/images/62/62257-7.jpg",
+      "httpStatus": 200,
+      "sha256": "cf9341860bb10db076f9270d279de231977d3f3ecff30c996f9b3673590ead1b",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "609",
+      "i": 1,
+      "image": "https://www.christies.com/img/LotImages/2018/NYR/2018_NYR_16361_0030_000(panerai_radiomir_black_seal_8_days_ref_pam00609043152).jpg",
+      "httpStatus": 200,
+      "sha256": "82bbb57ca58fcddf9d2f61a7e8fb29a0d8e1a97451ac5aecb20114cfa342fb89",
+      "dimensions": [
+        2044,
+        3200
+      ]
+    },
+    {
+      "ref": "609",
+      "i": 2,
+      "image": "https://www.christies.com/img/LotImages/2018/NYR/2018_NYR_16361_0030_002(panerai_radiomir_black_seal_8_days_ref_pam00609043152).jpg",
+      "httpStatus": 200,
+      "sha256": "6411d50a8115092947c31047f8807d8a9dc69b18e1dfd4717965b4dea7f2c80b",
+      "dimensions": [
+        3200,
+        2476
+      ]
+    },
+    {
+      "ref": "609",
+      "i": 3,
+      "image": "https://www.christies.com/img/LotImages/2018/NYR/2018_NYR_16361_0030_001(panerai_radiomir_black_seal_8_days_ref_pam00609043152).jpg",
+      "httpStatus": 200,
+      "sha256": "ae4b9a38552cefb8abc4cd06fb4ec3ed20a2db83d34e159bd65798c4490905cd",
+      "dimensions": [
+        3200,
+        2476
+      ]
+    },
+    {
+      "ref": "609",
+      "i": 4,
+      "image": "https://www.christies.com/img/LotImages/2018/NYR/2018_NYR_16361_0030_003(panerai_radiomir_black_seal_8_days_ref_pam00609125227).jpg",
+      "httpStatus": 200,
+      "sha256": "5dfefb1e265c539d759ea53d8bdcc7386b725cf0245ea27bb087658dccf733b1",
+      "dimensions": [
+        3200,
+        2472
+      ]
+    },
+    {
+      "ref": "1005",
+      "i": 0,
+      "image": "https://assets.basta.app/accounts/005fe31d-e133-4f0b-ac58-2c2cd5f3301c/images/2fdf3022-1f1f-43ca-b094-072425391d08?width=1000&quality=75&format=webp",
+      "httpStatus": 200,
+      "sha256": "5007eaa03a012b22c1e20d2ae29ce123fe730fd1333d49188de3323a3da429f8",
+      "dimensions": [
+        1000,
+        667
+      ]
+    },
+    {
+      "ref": "1005",
+      "i": 1,
+      "image": "https://assets.basta.app/accounts/005fe31d-e133-4f0b-ac58-2c2cd5f3301c/images/28cecf0d-91de-485a-b25a-197176cc28df?width=1000&quality=75&format=webp",
+      "httpStatus": 200,
+      "sha256": "3ca826ef289683e1c6d297213d782e2562dc3f994c9772dcf49502ab3c9393d4",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "ref": "1005",
+      "i": 2,
+      "image": "https://assets.basta.app/accounts/005fe31d-e133-4f0b-ac58-2c2cd5f3301c/images/0d7b7cca-65d8-4d89-a1e8-d55c7f401e3c?width=1000&quality=75&format=webp",
+      "httpStatus": 200,
+      "sha256": "2c7056b7b88dd754afdf4445827158b46db0d819ffb1074a407024a2ffe221cb",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "ref": "1005",
+      "i": 3,
+      "image": "https://assets.basta.app/accounts/005fe31d-e133-4f0b-ac58-2c2cd5f3301c/images/cd1e45b5-9a04-4fe3-ad75-0a4a9248100d?width=1000&quality=75&format=webp",
+      "httpStatus": 200,
+      "sha256": "6c501d4e5a2e34e8413d174170dcdc092b4e2a15100fcb04accf00ff5b882a89",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "ref": "1005",
+      "i": 4,
+      "image": "https://assets.basta.app/accounts/005fe31d-e133-4f0b-ac58-2c2cd5f3301c/images/055bfaca-57bb-41f5-9b10-65c021640aae?width=1000&quality=75&format=webp",
+      "httpStatus": 200,
+      "sha256": "2a66282d02feef359bd5baad9f35f6acfeb14f230d4a5c18cab722f8cbc3d026",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "ref": "1005",
+      "i": 5,
+      "image": "https://assets.basta.app/accounts/005fe31d-e133-4f0b-ac58-2c2cd5f3301c/images/d597c920-ef76-408a-843f-818c3a045a3a?width=1000&quality=75&format=webp",
+      "httpStatus": 200,
+      "sha256": "6b316cdcaee669c5a8e86bb8f5b7cf94238da42a1d4f9b7443c7446c8c7d4c47",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "ref": "1005",
+      "i": 6,
+      "image": "https://assets.basta.app/accounts/005fe31d-e133-4f0b-ac58-2c2cd5f3301c/images/a5665a38-a93e-4016-9d87-875c0396a373?width=1000&quality=75&format=webp",
+      "httpStatus": 200,
+      "sha256": "65c45bf1137cc79863772674149c989db9fb6de3f5a3ca1ffae130229bacfdf7",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "ref": "1005",
+      "i": 7,
+      "image": "https://assets.basta.app/accounts/005fe31d-e133-4f0b-ac58-2c2cd5f3301c/images/182eca30-2fa9-4829-9d8c-f894860cd64e?width=1000&quality=75&format=webp",
+      "httpStatus": 200,
+      "sha256": "0d85a1129980db88c7adeac563cef08d05078eb6d9582168026734469f6703f4",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "ref": "1005",
+      "i": 8,
+      "image": "https://assets.basta.app/accounts/005fe31d-e133-4f0b-ac58-2c2cd5f3301c/images/98e212ef-a51e-4c86-8175-0526c35fc1e2?width=1000&quality=75&format=webp",
+      "httpStatus": 200,
+      "sha256": "ed3a027ebbb05a0c6107e1bb65b17635a0b88d0af675ca52327bf9dcb167ba65",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "ref": "1005",
+      "i": 9,
+      "image": "https://assets.basta.app/accounts/005fe31d-e133-4f0b-ac58-2c2cd5f3301c/images/7e493bc7-1272-4d95-b977-c122f3d3b53b?width=1000&quality=75&format=webp",
+      "httpStatus": 200,
+      "sha256": "100accadfbe7d5330f1bff51013438f049aa09b1c550ef0fc5832c20b653e79e",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "ref": "1005",
+      "i": 10,
+      "image": "https://assets.basta.app/accounts/005fe31d-e133-4f0b-ac58-2c2cd5f3301c/images/9265be63-b969-463b-a607-47debb785e56?width=1000&quality=75&format=webp",
+      "httpStatus": 200,
+      "sha256": "730d1a32e20e44f38f28c78548d5dd1c9a7d569abab64d709f920067e54e6dd7",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "ref": "1005",
+      "i": 11,
+      "image": "https://assets.basta.app/accounts/005fe31d-e133-4f0b-ac58-2c2cd5f3301c/images/73de5457-a71f-464c-a6d5-817f40c8ec75?width=1000&quality=75&format=webp",
+      "httpStatus": 200,
+      "sha256": "87c58a68cb5944d547f7d616bc5cfcf5585b1057410db7fb2418292109c76685",
+      "dimensions": [
+        1000,
+        1000
+      ]
+    }
+  ]
+}

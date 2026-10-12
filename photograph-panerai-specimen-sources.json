@@ -1,0 +1,313 @@
+{
+  "reviewedAt": "2026-10-12T10:15:34.047Z",
+  "completion": "IN PROGRESS",
+  "galleriesInspected": 4,
+  "imageOccurrencesInspected": 19,
+  "specimens": [
+    {
+      "ref": "PAM00287",
+      "group": "287",
+      "source": "https://www.europeanwatch.com/watch/panerai-pam00287-radiomir-black-seal-ss-33097",
+      "credit": "European Watch Company",
+      "count": 7,
+      "variant": "K-series 45 mm steel Radiomir Black Seal Automatic / black dial / fitted brown leather strap and signed double-fold clasp",
+      "evidence": "Stock 33097 identifies PAM00287. Seven actual gallery photographs inspected, with selected front, closed back and signed clasp at full resolution. Back says AUTOMATIC and PB0579110; OP and edition digits are seller-masked. No numeric OP alias or movement photo is inferred.",
+      "gaps": {
+        "movement": "No opened movement photograph in this inspected gallery."
+      },
+      "acceptedViews": [
+        {
+          "i": 0,
+          "category": "front"
+        },
+        {
+          "i": 6,
+          "category": "caseback"
+        },
+        {
+          "i": 5,
+          "category": "braceletClasp"
+        }
+      ]
+    },
+    {
+      "ref": "PAM00380",
+      "group": "380",
+      "source": "https://uhren-miquel.com/Panerai-Panerai-Radiomir-Black-Seal-Logo/5127",
+      "credit": "MIQUEL Schmuck & Uhren GmbH",
+      "count": 3,
+      "variant": "45 mm steel Radiomir Black Seal Logo / black dial / fitted black leather strap and signed pin buckle",
+      "evidence": "Dealer item 5127 identifies full PAM00380. All three source photographs inspected, including the available original-resolution back/buckle frame. Limited original resolution (490 px wide) and watermark obscure fine back details. No movement image exists.",
+      "gaps": {
+        "movement": "No opened movement photograph in this inspected gallery."
+      },
+      "acceptedViews": [
+        {
+          "i": 0,
+          "category": "front"
+        },
+        {
+          "i": 1,
+          "category": "caseback"
+        },
+        {
+          "i": 1,
+          "category": "braceletClasp"
+        }
+      ]
+    },
+    {
+      "ref": "PAM00091",
+      "group": "91full",
+      "source": "https://www.artcurial.com/ventes/M1105/lots/238-a",
+      "credit": "Artcurial",
+      "count": 2,
+      "variant": "Source-identified circa 2003 Luminor Marina / anthracite dial / titanium and steel case / fitted metal bracelet and signed double-fold clasp",
+      "evidence": "Artcurial M1105 lot 238 identifies PAM00091. Both original photographs inspected, including back and clasp at full resolution. Physical back OP6558 / BB1053873 / E0598/2000 pairs with catalogue case identity. No opened movement is pictured. OP6558 is a construction marking, not a new lookup alias.",
+      "gaps": {
+        "movement": "No opened movement photograph in this inspected gallery; written movement statements do not create photo coverage."
+      },
+      "acceptedViews": [
+        {
+          "i": 0,
+          "category": "front"
+        },
+        {
+          "i": 1,
+          "category": "caseback"
+        },
+        {
+          "i": 1,
+          "category": "braceletClasp"
+        }
+      ]
+    },
+    {
+      "ref": "PAM00557",
+      "group": "557",
+      "source": "https://www.sothebys.com/en/buy/auction/2023/fine-watches-4/reference-pam00557-luminor-a-limited-edition",
+      "credit": "Sotheby's",
+      "count": 7,
+      "variant": "Source-identified circa 2014 left-handed 47 mm steel Luminor / black sandwich dial / fitted brown leather strap / P.3000 display-back execution",
+      "evidence": "Sothebys N11274 lot 279 identifies PAM00557. Seven gallery photographs inspected; selected front and display back at full resolution. Actual CAL. P.3000 and movement 026697 match source record, with brushed bridge layout and two-screw balance bridge. BB1657902 and Q001/700 case markings pair with source. Personal guarantee paperwork is identification evidence only and is excluded from public attachments and receipts.",
+      "gaps": {
+        "braceletClasp": "No dedicated buckle or clasp view in this inspected gallery; the source-described buckle is not photo evidence."
+      },
+      "acceptedViews": [
+        {
+          "i": 0,
+          "category": "front"
+        },
+        {
+          "i": 4,
+          "category": "movement"
+        },
+        {
+          "i": 4,
+          "category": "caseback"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "ref": "287",
+      "i": 0,
+      "image": "https://images.europeanwatch.com/images/33/33097-1.jpg",
+      "httpStatus": 200,
+      "sha256": "227fa2367113f97fa1e464a793db87e5f29262ee145da4dfd8e0a80ef5f4658a",
+      "dimensions": [
+        1583,
+        1266
+      ]
+    },
+    {
+      "ref": "287",
+      "i": 1,
+      "image": "https://images.europeanwatch.com/images/33/33097-2.jpg",
+      "httpStatus": 200,
+      "sha256": "0d912d3ec393192900b62e0cabb5ea5ede35de9da58c3241b576b80d6c024591",
+      "dimensions": [
+        1592,
+        1274
+      ]
+    },
+    {
+      "ref": "287",
+      "i": 2,
+      "image": "https://images.europeanwatch.com/images/33/33097-3.jpg",
+      "httpStatus": 200,
+      "sha256": "3c4e8642a6544af539f6a05683a6d5fff4818950d18c2b4866fab35a03e11ea6",
+      "dimensions": [
+        1565,
+        1252
+      ]
+    },
+    {
+      "ref": "287",
+      "i": 3,
+      "image": "https://images.europeanwatch.com/images/33/33097-4.jpg",
+      "httpStatus": 200,
+      "sha256": "df0df23784c568e062495a9db2bd51f888aa1f82980dcf7273de504c98a3fdea",
+      "dimensions": [
+        1535,
+        1228
+      ]
+    },
+    {
+      "ref": "287",
+      "i": 4,
+      "image": "https://images.europeanwatch.com/images/33/33097-5.jpg",
+      "httpStatus": 200,
+      "sha256": "45cccd58c7d5a2060e8f72b55b600fa72ae396d1e00df2a13060a4248366be5b",
+      "dimensions": [
+        1430,
+        1144
+      ]
+    },
+    {
+      "ref": "287",
+      "i": 5,
+      "image": "https://images.europeanwatch.com/images/33/33097-6.jpg",
+      "httpStatus": 200,
+      "sha256": "982b88915befe5744e92fcfca58cee2363e6a999ca40f67e68fae234acb83ed6",
+      "dimensions": [
+        1496,
+        1197
+      ]
+    },
+    {
+      "ref": "287",
+      "i": 6,
+      "image": "https://images.europeanwatch.com/images/33/33097-7.jpg",
+      "httpStatus": 200,
+      "sha256": "472e052b660fc190699c62265f163f1a5f175f579edb0b99efef4c78a5439b68",
+      "dimensions": [
+        1536,
+        1229
+      ]
+    },
+    {
+      "ref": "380",
+      "i": 0,
+      "image": "https://uhren-miquel.com/media/c4/2f/6a/1609784916/Officine-Panerai-Panerai-Radiomir-Black-Seal-Logo_56385c82c2f75.jpg",
+      "httpStatus": 200,
+      "sha256": "23680f7cf1a0f4aa027d9fedd6f457ad321714d624c6447b1f173d83c9036d95",
+      "dimensions": [
+        490,
+        655
+      ]
+    },
+    {
+      "ref": "380",
+      "i": 1,
+      "image": "https://uhren-miquel.com/media/f0/76/59/1609784917/Officine-Panerai-Panerai-Radiomir-Black-Seal-Logo_56385c831a1b7.jpg",
+      "httpStatus": 200,
+      "sha256": "e51168f66cdbea28cb16b30774260a27ef94bf16ebe9575e18ef0eaece6549a7",
+      "dimensions": [
+        490,
+        470
+      ]
+    },
+    {
+      "ref": "380",
+      "i": 2,
+      "image": "https://uhren-miquel.com/media/cf/e2/bc/1609784917/Officine-Panerai-Panerai-Radiomir-Black-Seal-Logo_56385c835bc76.jpg",
+      "httpStatus": 200,
+      "sha256": "afcfc3de34311dbbb345e41133f231413732e251baa485176db4b3fc9e7547b7",
+      "dimensions": [
+        490,
+        326
+      ]
+    },
+    {
+      "ref": "557",
+      "i": 0,
+      "image": "https://sothebys-brightspot.s3.amazonaws.com/media-desk/8c/a5/f934495b4507a743975d338aeb10/n11274-cpf33-01.jpg",
+      "httpStatus": 200,
+      "sha256": "19f7d9ba420a2bf437819ed156a41c84c54615647856bf67adf1888dee3462e4",
+      "dimensions": [
+        3543,
+        3543
+      ]
+    },
+    {
+      "ref": "557",
+      "i": 1,
+      "image": "https://sothebys-brightspot.s3.amazonaws.com/media-desk/2c/23/004d96a14c12bf4dc71527d5f308/n11274-cpf33-02.jpg",
+      "httpStatus": 200,
+      "sha256": "2f94a3df2cd9c86dd06d94291bfdab13e2862d63462898b71bf9e691327d2afa",
+      "dimensions": [
+        3543,
+        3543
+      ]
+    },
+    {
+      "ref": "557",
+      "i": 2,
+      "image": "https://sothebys-brightspot.s3.amazonaws.com/media-desk/webnative/images/ac/f5/c0b4e31c47418ac69564473cad5a/n11274-cpf33-04.jpg",
+      "httpStatus": 200,
+      "sha256": "c127cd7e352633f410b055117ae9ed7f3eb7ae2158e9c11a8a35de3ac58c049d",
+      "dimensions": [
+        2000,
+        2000
+      ]
+    },
+    {
+      "ref": "557",
+      "i": 3,
+      "image": "https://sothebys-brightspot.s3.amazonaws.com/media-desk/16/7a/9e90ddf24a398c1135416714b8d7/n11274-cpf33-03.jpg",
+      "httpStatus": 200,
+      "sha256": "b3a9c85bab272f77748eec6167c35b653cac21fa9955c028b41a23ab680c55b9",
+      "dimensions": [
+        3543,
+        3543
+      ]
+    },
+    {
+      "ref": "557",
+      "i": 4,
+      "image": "https://sothebys-brightspot.s3.amazonaws.com/media-desk/1b/39/ddfb56564ff1a7b98eece6b4b3e3/n11274-cpf33-05.jpg",
+      "httpStatus": 200,
+      "sha256": "2cd679422da5b9c16e27037b4739055ad65f6bae3b1de5a0389e0251d3aba386",
+      "dimensions": [
+        3543,
+        3543
+      ]
+    },
+    {
+      "ref": "557",
+      "i": 5,
+      "image": "https://sothebys-brightspot.s3.amazonaws.com/media-desk/webnative/images/60/66/397b23f84e27b26ea25808c044b3/n11274-cpf33-bp.jpg",
+      "httpStatus": 200,
+      "sha256": "309ab4cca007e3fc17e219b713de9fea52bf1cdbe260a818c5ad3f72b8680b20",
+      "dimensions": [
+        2000,
+        2000
+      ]
+    },
+    {
+      "ref": "91full",
+      "i": 0,
+      "image": "https://storage.googleapis.com/art-fr-maya-prod-inventory/MC/445/20015445_Vue.jpg",
+      "httpStatus": 200,
+      "sha256": "04fa2f0b93cea24e75154850827e63e982de060d3b15898d41a6f5a8e1a78473",
+      "dimensions": [
+        1956,
+        2506
+      ]
+    },
+    {
+      "ref": "91full",
+      "i": 1,
+      "image": "https://storage.googleapis.com/art-fr-maya-prod-inventory/MC/445/20015445_Vue%2002.jpg",
+      "httpStatus": 200,
+      "sha256": "1a50bea18f923baa2d04f4e3a168420cc22c1da458b18803c0c5d64bb56d4537",
+      "dimensions": [
+        3120,
+        2233
+      ]
+    }
+  ],
+  "excluded": "Personal guarantee document inspected for paired identification only; not attached or transcribed."
+}

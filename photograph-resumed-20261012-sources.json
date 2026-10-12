@@ -1,0 +1,85 @@
+{
+  "reviewedAt": "2026-10-12T10:05:06.648Z",
+  "completion": "IN PROGRESS",
+  "sources": [
+    {
+      "brand": "OMEGA",
+      "reference": "130.30.39.21.03.001",
+      "source": "https://www.europeanwatch.com/watch/omega-13030392103001-omega-globemaster-co-axial-master-chronomete-45681",
+      "imageOccurrencesInspected": 9,
+      "evidence": "European Watch Company stock 45681 identifies full reference 130.30.39.21.03.001. All nine gallery photographs inspected; front, display back and signed clasp inspected at full resolution. Blue pie-pan dial and fitted steel bracelet match the source. Back shows a distinctive observatory-medallion rotor; the calibre marking is obscured, so the described 8900 movement is not yet promoted as a verified Movement photograph. Clasp STZ004152/JJD/11 markings are specimen details. Source: https://www.europeanwatch.com/watch/omega-13030392103001-omega-globemaster-co-axial-master-chronomete-45681"
+    },
+    {
+      "brand": "PANERAI",
+      "reference": "PAM00024",
+      "source": "https://www.phillips.com/detail/HK080216/851",
+      "imageOccurrencesInspected": 1,
+      "evidence": "Phillips HK080216 lot 851 identifies PAM00024. Its single gallery photograph was inspected at full resolution: black dial, date at 3, small seconds at 9, steel diving bezel, crown guard and fitted black Panerai rubber strap. No back, opened movement or buckle is visible. Source-described OP III and buckle do not create photo coverage. Source: https://www.phillips.com/detail/HK080216/851"
+    }
+  ],
+  "images": [
+    {
+      "i": 0,
+      "url": "https://images.europeanwatch.com/images/45/45681-1.jpg",
+      "status": 200,
+      "sha256": "c240598110bafb066f2e372c5cbfdcb0be42d4be9c48624612aaaa4516aa23bc"
+    },
+    {
+      "i": 1,
+      "url": "https://images.europeanwatch.com/images/45/45681-2.jpg",
+      "status": 200,
+      "sha256": "3845e6ac64cd9b1e21840645a1ae506f2f7fabb6d89eae075288a1d778e24247"
+    },
+    {
+      "i": 2,
+      "url": "https://images.europeanwatch.com/images/45/45681-3.jpg",
+      "status": 200,
+      "sha256": "2fc531272591c82b354ea20234a5371d2b1bca965cb9fb1ba1329c652bf6aeb1"
+    },
+    {
+      "i": 3,
+      "url": "https://images.europeanwatch.com/images/45/45681-4.jpg",
+      "status": 200,
+      "sha256": "e97636694301fba92f8154f1f36ebbb20a94c4344039b58217d42619933ece6d"
+    },
+    {
+      "i": 4,
+      "url": "https://images.europeanwatch.com/images/45/45681-5.jpg",
+      "status": 200,
+      "sha256": "e8a62f873284124806e583f519b53915bcfd665b0061f39a3b03fafe1329e287"
+    },
+    {
+      "i": 5,
+      "url": "https://images.europeanwatch.com/images/45/45681-6.jpg",
+      "status": 200,
+      "sha256": "f699ea405a4a0bb5f5e8cebdc74591bf4c8d0e8a988b7e363828bca26d55114d"
+    },
+    {
+      "i": 6,
+      "url": "https://images.europeanwatch.com/images/45/45681-7.jpg",
+      "status": 200,
+      "sha256": "a9ec2136bb9c9900b3c3c148b977cf1ec636d21142d86f9737790d6655e4aabe"
+    },
+    {
+      "i": 7,
+      "url": "https://images.europeanwatch.com/images/45/45681-8.jpg",
+      "status": 200,
+      "sha256": "60d60330d9b5d0eb89903c0bbe360f3f91b4acf182a889ac217c026432e6e2af"
+    },
+    {
+      "i": 8,
+      "url": "https://images.europeanwatch.com/images/45/45681-9.jpg",
+      "status": 200,
+      "sha256": "cb5f05e4064fe134ed18a8c533d4c6f4d89fa5c2c90403ea274d7c14654c92e4"
+    },
+    {
+      "i": 9,
+      "url": "https://dist.phillips.com/auction-assets/HK080216/851_001.jpg",
+      "status": 200,
+      "sha256": "0fe8ce5ec3ddcfcce4f40bd2c430307bac9fa98783290246b1e13312fefcf89f"
+    }
+  ],
+  "notPromoted": {
+    "movement": "Omega exact calibre execution awaits further corroboration; Panerai has no movement photograph."
+  }
+}

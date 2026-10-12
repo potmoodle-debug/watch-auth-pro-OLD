@@ -38,11 +38,11 @@ watch models: punctuation/case duplicates collapse; M-prefixed aliases, base
 references and catalogue suffixes remain separate keys. Broad patterns require
 enumeration and source review; they are never counted as exact references.
 
-Current exact progress is in the generated coverage files: **293 identifier keys
-reviewed, 1,945 unreviewed; 212 source records reviewed, 2,235 unreviewed**. There are
-**776 catalogue assets: 744 verified gallery entries, 23 pending and 9 rejected**, including 31
-legacy assets. Verified entries use **717 distinct stored image URLs and 716 distinct inspected file hashes**; the same photograph can serve two categories. Verified reference-key coverage: **front 232, movement 91, caseback
-202, bracelet/clasp 194**. Reviewed gaps describe the inspected source set, not a
+Current exact progress is in the generated coverage files: **304 identifier keys
+reviewed, 1,934 unreviewed; 223 source records reviewed, 2,224 unreviewed**. There are
+**808 catalogue assets: 773 verified gallery entries, 26 pending and 9 rejected**, including 31
+legacy assets. Verified entries use **742 distinct stored image URLs and 741 distinct inspected file hashes**; the same photograph can serve two categories. Verified reference-key coverage: **front 242, movement 93, caseback
+211, bracelet/clasp 202**. Reviewed gaps describe the inspected source set, not a
 claim that no suitable image exists elsewhere. Existing textual research and
 pre-existing "verified" mapping badges do not verify photographs. Unreviewed
 categories are not counted as reviewed gaps.
@@ -746,3 +746,58 @@ Authenticated live shared refresh/RLS remains unverified without a permitted tes
 session. The nine previously downloaded Omega galleries are discovery leads; their
 local downloads were not included in this recovery bundle and must be fetched and
 inspected again before promotion. These counts do not imply completion.
+
+## Publication and resumed research — 2026-10-12
+
+PR #18 merged at b71e7c07ed04fc20ff5df5079e53247a66ad159d. Pages run
+38233570145 succeeded. Six live application/audit files matched published Git
+bytes. Live Chrome loaded/enlarged 13 restored Omega, Cartier and Breitling
+entries, with credits, variants and mobile layout checked. Both rollback branches
+are retained. The original recovery commit remains verified in the local bundle.
+
+Research continued after publishing. European Watch Company stock 45681 has nine
+inspected Globemaster photographs; Phillips HK080216 lot 851 has one inspected
+PAM00024 photograph. Four new entries cover exact identified front/back/clasp
+views without neighbouring-reference aliases. Omega Movement remains a gap because
+its calibre engraving is obscured; Panerai Movement, Caseback and Clasp remain
+gaps because those views are absent. The Omega display back is marked
+depictsMovement for safety suppression. Full receipts are in
+photograph-resumed-20261012-sources.json. These new additions are local research,
+not part of the published 744-entry release. Research remains IN PROGRESS.
+
+Resumed-batch validation: all 42 Node tests pass. Actual Chrome loaded and enlarged
+all four new public-source entries with credits, variant labels and mobile overflow
+checked. Published release remains 744 entries; the local research checkpoint has
+748 entries, 295 reviewed keys and 1,943 unreviewed keys. No production repository
+was modified. Live authenticated shared refresh remains pending a permitted session.
+
+## Panerai specimen pass — 2026-10-12
+
+Inspected 19 photographs across four complete galleries for PAM00091, PAM00287,
+PAM00380 and PAM00557. Twelve entries add exact-reference front/back/clasp views
+and the source-paired manual P.3000 execution for left-handed PAM00557. Movement
+026697 and the two-screw balance bridge are visible. Its display-back frame serves
+Movement and Caseback and is suppressed in both categories for external-only
+lookups. Other three movements remain empty; the PAM00557 buckle is not pictured.
+Miquel original 490 px images have explicit comparison limits. Seller masking and
+specimen edition numbers remain explicit, and OP markings create no PAM aliases.
+Personal guarantee paperwork is not attached or transcribed. Full receipts are
+in photograph-panerai-specimen-sources.json. Research remains IN PROGRESS.
+
+Validation: all 43 Node tests pass. Actual Chrome loaded/enlarged the complete
+unpublished 16-entry batch (13 distinct inspected files) across six exact keys,
+with source credits, variants and mobile layout checked. The prior published 744
+entries are unchanged. The local catalogue now has 760 verified entries; 299
+stored keys and 218 source records reviewed; 1,939 keys remain unreviewed.
+
+## Further Panerai specimen review — 2026-10-12
+
+Thirteen accepted entries from four exact references (PAM00574, PAM00609, PAM01005, PAM01024), after inspecting all 30 distinct gallery frames and selected movements/backs/buckles at full resolution. Source receipts and individual matching limits are in photograph-panerai-second-specimen-sources.json. PAM00574 has contradictory seller metadata: manual description and visible rotorless execution take precedence over the Automatic field; physical P.1000 engraving is not claimed. PAM00609 visibly carries P.5000 / EIGHT DAYS / 21 JEWELS and movement 020836. Both display-back images are withheld for external-only lookups. Closed-back models retain movement gaps. No short PAM24, OP, adjacent-reference or suffix aliases were added. Four of fourteen stored Panerai keys remain unreviewed. Research and signed-in refresh verification remain incomplete.
+
+Validation: all 44 Node regression tests pass. Real-image browser check loaded the prior 16 additions and the PAM00574 views, then timed out while enlarging the Christie's PAM00609 front image. This batch is not published; direct browser delivery must be resolved or affected photographs withheld before release.
+
+## Delivery gate and PAM00915 review — 2026-10-12
+
+Three PAM00609 entries retain their inspected evidence but are pending and withheld: original and resized source URLs repeatedly timed out when loaded directly in Chrome. This does not invalidate the visual evidence; browser delivery remains unresolved. PAM00915 adds exact-reference front, closed steel back and signed pin buckle views after all seven gallery photographs were inspected, including selected back/buckle at full resolution. No source-described P.5000 movement image is inferred. Contradictory paper dating and seller-masked identity are documented.
+
+Current release candidate: 29 accepted additions over published PR #18; 45 Node regression tests pass; all 29 actual images (25 distinct inspected files) load and enlarge across 10 explicit keys with credits, variant labels and mobile overflow checked. No application code or workflows changed. Three Panerai keys remain unreviewed, and the complete inventory and live signed-in refresh/RLS remain unfinished. Current pre-release main is b71e7c07ed04fc20ff5df5079e53247a66ad159d; original rollback refs are preserved.
