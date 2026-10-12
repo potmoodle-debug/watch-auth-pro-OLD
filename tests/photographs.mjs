@@ -439,3 +439,36 @@ test('PAM01271 white Quaranta retains full reference and closed-back evidence',(
 test('final stored Panerai keys preserve actual execution and external-only background suppression',()=>{
  const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;const get=(ref,options)=>matchingPhotographs(photos,'Panerai',ref,options).filter(p=>p.id.startsWith('panerai-pass5-'));assert.equal(get('PAM01305').length,4);assert.match(get('PAM01305').find(p=>p.category==='movement').caption,/automatic.*31.*two-screw/);assert.deepEqual(get('PAM01305',{externalOnly:true}).map(p=>p.category),['front']);assert.deepEqual(get('PAM01572').map(p=>p.category).sort(),['braceletClasp','caseback','front']);for(const ref of ['PAM00305','PAM01305-0001','PAM01573','OP7607','PAM1572'])assert.equal(get(ref).length,0,ref);const p574=matchingPhotographs(photos,'Panerai','PAM00574',{externalOnly:true}).filter(p=>p.id.startsWith('panerai-pass2-'));assert.deepEqual(p574.map(p=>p.category),['front']);
 });
+
+test('Sinn 104 representative white execution cannot borrow U15 UX or ETA comparison evidence',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;const get=(ref,options)=>matchingPhotographs(photos,'Sinn',ref,options).filter(p=>p.id.startsWith('sinn-pass-'));assert.equal(get('104 St Sa I W').length,4);assert.ok(get('104 St Sa I W').every(p=>p.matchScope==='documented reference / variant'));for(const ref of ['104','Sinn 104'])assert.ok(get(ref).every(p=>p.matchScope==='representative variant'));assert.deepEqual(get('104',{externalOnly:true}).map(p=>p.category).sort(),['braceletClasp','front']);for(const ref of ['104 St Sa I','104 St Sa A','UX','U15','104 St Sa I B'])assert.equal(get(ref).length,0,ref);assert.ok(get('104').every(p=>!p.image.includes('U15')&&!p.image.includes('Sinn-UX')));assert.match(get('104').find(p=>p.category==='movement').caption,/SW220-1.*no legible physical calibre/);
+});
+
+test('U1 SDR specimen retains black-bezel scope and a genuine movement gap',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;const get=ref=>matchingPhotographs(photos,'Sinn',ref).filter(p=>p.id.startsWith('sinn-pass-u1sdr'));for(const ref of ['U1 SDR','Sinn U1 SDR'])assert.deepEqual(get(ref).map(p=>p.category).sort(),['braceletClasp','caseback','front']);for(const ref of ['1010','U1','U1 SDR B','U1 S','1010.040'])assert.equal(get(ref).length,0,ref);assert.match(get('U1 SDR').find(p=>p.category==='caseback').caption,/Seller-blurred identity/);
+});
+
+test('Sinn Anniversary and Arktis specimens preserve display-back and model boundaries',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,options)=>matchingPhotographs(photos,'Sinn',ref,options).filter(p=>p.id.startsWith('sinn-three-'));
+ assert.equal(get('358 Anniversary').length,4);
+ assert.ok(get('358').every(p=>p.matchScope==='representative variant'));
+ assert.deepEqual(get('358',{externalOnly:true}).map(p=>p.category).sort(),['braceletClasp','front']);
+ assert.equal(get('206 Arktis II').length,4);
+ assert.deepEqual(get('206 Arktis II',{externalOnly:true}).map(p=>p.category),['front']);
+ for(const ref of ['358 DIAPAL','358 Sa Pilot','206','203 Arktis','140','142','Sinn 140 / 42'])assert.equal(get(ref).length,0,ref);
+ const review=JSON.parse(fs.readFileSync(new URL('../photograph-reviews.json',import.meta.url))).identifierReviews.find(x=>x.brand==='SINN'&&x.reference==='Sinn 140 / 42');
+ assert.match(review.categories.front.evidence,/particular specimen as a 142/);
+ assert.ok(photos.every(p=>!p.id.startsWith('sinn-three-140')));
+});
+
+test('U50 Hydro stays external with quartz attribution distinct from photographed evidence',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,options)=>matchingPhotographs(photos,'Sinn',ref,options).filter(p=>p.id.startsWith('sinn-three-u50'));
+ for(const ref of ['U50 Hydro','Sinn U50 Hydro']){
+  assert.deepEqual(get(ref).map(p=>p.category).sort(),['braceletClasp','caseback','front']);
+  assert.equal(get(ref,{externalOnly:true}).length,3);
+ }
+ for(const ref of ['U50','U50 SDR','U50 S','1051','1051.010'])assert.equal(get(ref).length,0,ref);
+ assert.ok(get('U50 Hydro').every(p=>p.review.evidence.includes('No opened movement')));
+});

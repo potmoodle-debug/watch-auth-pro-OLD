@@ -1,0 +1,79 @@
+{
+  "reviewedAt": "2026-10-12T11:08:25.350Z",
+  "completion": "IN PROGRESS",
+  "source": "https://www.careofcarl.co.uk/en/sinn-pre-owned-u50-hydro-",
+  "variant": "U50 HYDRO / steel bezel and black dial / fitted steel H-link bracelet and signed folding clasp / source-dated 2024 used quartz specimen",
+  "evidence": "Care of Carl product 30238110 identifies U50 Hydro, reference-family 1051, steel bezel/bracelet, quartz 715 Li and year 2024. All six gallery frames inspected, selected front, closed back and clasp at original resolution. Actual dial says HYDRO / U50 and closed back U50 HYDRO / 5000 m / DEUTSCHER U-BOOT-STAHL / SEEWASSERBESTÄNDIG. No opened movement or photographed calibre evidence: leave movement empty and preserve oil-filled HYDRO safety. Source year and calibre remain textual attribution; engraving does not independently verify steel alloy. No inheritance to mechanical U50, black-bezel SDR, all-black S or bare 1051 family. Box/paperwork frame excluded from public receipt URLs.",
+  "images": [
+    {
+      "ref": "u50",
+      "i": 0,
+      "image": "https://www.careofcarl.co.uk/bilder/artiklar/zoom/30238110_1.jpg?m=1759396094",
+      "httpStatus": 200,
+      "sha256": "4f326ce5243d6c80c02c7e983d08b25972cf6f6124165fb114bc8539b9694438",
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "ref": "u50",
+      "i": 1,
+      "image": "https://www.careofcarl.co.uk/bilder/artiklar/zoom/30238110_2.jpg?m=1759396078",
+      "httpStatus": 200,
+      "sha256": "7876af9916a4f9a15fb30610cc6c1a489b39351179a831b03223a71af7d0a05e",
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "ref": "u50",
+      "i": 2,
+      "image": "https://www.careofcarl.co.uk/bilder/artiklar/zoom/30238110_3.jpg?m=1759396078",
+      "httpStatus": 200,
+      "sha256": "2320afc37cc2312c0584874a4ee91310a7a0ea62bb70607f9939ab673d13a3d5",
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "ref": "u50",
+      "i": 3,
+      "image": "https://www.careofcarl.co.uk/bilder/artiklar/zoom/30238110_4.jpg?m=1759396078",
+      "httpStatus": 200,
+      "sha256": "cbbe7e9404e2e6dcb628d8afcb4f67266e3a07dd6461745f571180b6aa37f797",
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "ref": "u50",
+      "i": 4,
+      "image": "https://www.careofcarl.co.uk/bilder/artiklar/zoom/30238110_5.jpg?m=1759396078",
+      "httpStatus": 200,
+      "sha256": "68ec4151bde065e18cb4a1419796fbf8b1bc3bb1d0ea116c90c26e0dc58c569b",
+      "dimensions": [
+        900,
+        1125
+      ]
+    }
+  ],
+  "acceptedViews": [
+    {
+      "i": 0,
+      "category": "front"
+    },
+    {
+      "i": 4,
+      "category": "caseback"
+    },
+    {
+      "i": 1,
+      "category": "braceletClasp"
+    }
+  ],
+  "excluded": "Box/paperwork frames inspected but excluded from public attachments and receipt URLs."
+}

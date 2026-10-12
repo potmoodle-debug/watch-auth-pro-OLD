@@ -1,0 +1,94 @@
+{
+  "reviewedAt": "2026-10-12T11:08:25.350Z",
+  "completion": "IN PROGRESS",
+  "source": "https://delraywatch.com/sinn-358-anniversary-edition-slate-dial-limited-edition/",
+  "variant": "358 Anniversary / slate dial marked 1961–2011 / steel display-back specimen / fitted used brown leather strap and pin buckle",
+  "evidence": "All seven gallery frames inspected; selected front, display back and side/buckle view at original resolution. Dealer identifies 358 Anniversary, limited to 500; actual back is marked 50 JAHRE and 428/500, dial 1961–2011. Actual movement has a Sinn-signed striped rotor and visible blue screws; no legible physical calibre identifier is established. Dealer gives automatic movement and 40mm case size; dimensions and calibre are not independently established here. Generic stored 358 receives an explicitly representative Anniversary specimen, not other 358 executions. Paperwork frame excluded from public receipt URLs.",
+  "images": [
+    {
+      "ref": "358",
+      "i": 0,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/1094/6095/preownedwatches12__53191.1542748240.jpg?c=2",
+      "httpStatus": 200,
+      "sha256": "fa7e2a8cd92a1203d774c11fc1d4739fd494051892ee3308530e4cee70f184ea",
+      "dimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "ref": "358",
+      "i": 1,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/1094/6093/preownedwatches13__36545.1542748234.jpg?c=2",
+      "httpStatus": 200,
+      "sha256": "8d9e4317d7d5d72874129f116fbb7954a202e4b0c6a50107a9c2c0c83faf4bb1",
+      "dimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "ref": "358",
+      "i": 2,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/1094/6090/preownedwatches14__69690.1542748235.jpg?c=2",
+      "httpStatus": 200,
+      "sha256": "b12302b8b43e106e6f78b25838c5b6cb526ec07bdbc97451c95da940992f5946",
+      "dimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "ref": "358",
+      "i": 3,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/1094/6091/preownedwatches16__13225.1542748236.jpg?c=2",
+      "httpStatus": 200,
+      "sha256": "b0fb788a64f6bff1c147ca389a01478eefc379a53accba4addf3ce1855f05ab0",
+      "dimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "ref": "358",
+      "i": 4,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/1094/6089/preownedwatches15__00988.1542748222.jpg?c=2",
+      "httpStatus": 200,
+      "sha256": "0e4a94d830e5beba0899c7eb95e08a3dacb35314fc45cea33b0ac1418746e29a",
+      "dimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "ref": "358",
+      "i": 5,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/1094/6094/preownedwatches17__70859.1542748238.jpg?c=2",
+      "httpStatus": 200,
+      "sha256": "0286ea326b4103301e4d0f377ee8b0652e42f36e5c36ba6ed11e4bf167b30d97",
+      "dimensions": [
+        1280,
+        1280
+      ]
+    }
+  ],
+  "acceptedViews": [
+    {
+      "i": 0,
+      "category": "front"
+    },
+    {
+      "i": 5,
+      "category": "movement"
+    },
+    {
+      "i": 5,
+      "category": "caseback"
+    },
+    {
+      "i": 3,
+      "category": "braceletClasp"
+    }
+  ],
+  "excluded": "Box/paperwork frames inspected but excluded from public attachments and receipt URLs."
+}

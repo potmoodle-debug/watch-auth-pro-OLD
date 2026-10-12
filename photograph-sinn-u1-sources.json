@@ -1,0 +1,101 @@
+{
+  "reviewedAt": "2026-10-12T10:56:05.401Z",
+  "completion": "IN PROGRESS",
+  "source": "https://delraywatch.com/sinn-u1-sdr-1010-1000m-inventory-7172/",
+  "variant": "Source-identified 44 mm steel U1 SDR / black bezel and dial / fitted H-link bracelet and signed folding clasp / used closed-back specimen",
+  "evidence": "Delray Watch inventory 7172 identifies U1 SDR, reference-family 1010 and pre-owned steel 44 mm specimen. All eight distinct gallery frames inspected; selected back and clasp at original resolution. Actual closed back says U1 / 1000 m / DEUTSCHER U-BOOT-STAHL / SEEWASSERBESTAENDIG with seller-blurred identity. Clasp physically signed Sinn and shows wear. No opened movement photo or photographed calibre; generic 1010, U1 or neighbouring SDR B variants do not inherit these images. Box/paperwork frame excluded from public attachments and receipt URLs.",
+  "images": [
+    {
+      "ref": "u1",
+      "i": 0,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/8580/58657/7172_1__78474.1746211794.jpg?c=2",
+      "httpStatus": 200,
+      "sha256": "f7eebf176f6b37bf5adc7b7d7d9d6af62ec79ee940dab16b77e26c5bbfe2c607",
+      "dimensions": [
+        2000,
+        2000
+      ]
+    },
+    {
+      "ref": "u1",
+      "i": 1,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/8580/58659/7172_2__70144.1746211794.jpg?c=2",
+      "httpStatus": 200,
+      "sha256": "c8211b6e6824f960e87fd964092833bc9194a3f300ba9738d3b1eeada8827878",
+      "dimensions": [
+        2000,
+        2000
+      ]
+    },
+    {
+      "ref": "u1",
+      "i": 2,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/8580/58660/7172_3__42377.1746211794.jpg?c=2",
+      "httpStatus": 200,
+      "sha256": "193ea05311ada0d378e29292dabef16bd4a098cad9224d44e06a4a36348ccad3",
+      "dimensions": [
+        2000,
+        2000
+      ]
+    },
+    {
+      "ref": "u1",
+      "i": 3,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/8580/58655/7172_4__27087.1746211794.jpg?c=2",
+      "httpStatus": 200,
+      "sha256": "503c52a4a4f52c2da5f2b2da4edd253d44000a868e54a2ee1c61596df2c5bce0",
+      "dimensions": [
+        2000,
+        2000
+      ]
+    },
+    {
+      "ref": "u1",
+      "i": 4,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/8580/58653/7172_5__58201.1746211794.jpg?c=2",
+      "httpStatus": 200,
+      "sha256": "84c71d80b0b98b39d1bb816449af0c24ba0ef188197384a38c61fe5a58ca6e1d",
+      "dimensions": [
+        2000,
+        2000
+      ]
+    },
+    {
+      "ref": "u1",
+      "i": 5,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/8580/58656/7172_7__01268.1746211794.jpg?c=2",
+      "httpStatus": 200,
+      "sha256": "dcb213dbb8e6a94fe091e17789d6cba27f56b95825c4f4441bc88a3aefb1b5d9",
+      "dimensions": [
+        2000,
+        2000
+      ]
+    },
+    {
+      "ref": "u1",
+      "i": 6,
+      "image": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/8580/58658/7172_6__27509.1746211794.jpg?c=2",
+      "httpStatus": 200,
+      "sha256": "58fda4f831add80a2a900d6463b9f8bfe4e70d592ea123ae29794270645a5929",
+      "dimensions": [
+        2000,
+        2000
+      ]
+    }
+  ],
+  "acceptedViews": [
+    {
+      "i": 0,
+      "category": "front"
+    },
+    {
+      "i": 5,
+      "category": "caseback"
+    },
+    {
+      "i": 6,
+      "category": "braceletClasp"
+    }
+  ],
+  "excluded": "Box/paperwork frame inspected but not attached or included in public receipt URLs."
+}
