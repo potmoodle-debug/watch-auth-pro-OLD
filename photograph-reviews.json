@@ -9334,6 +9334,32 @@
           "finding": "Verified exact source reference, two labelled specimens; execution limits retained."
         }
       }
+    },
+    {
+      "brand": "OMEGA",
+      "reference": "2502.50.00",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-12T14:49:26.745Z",
+          "evidence": "Original manufacturer identifies exact2502.50.00 black-dial steel/steel42.2mm Aqua Terra, self-winding Co-Axial calibre2500 and48h nominal reserve. Original SwissWatchExpo page explicitly identifies2502.50.00; twelve actual original499x499 files inspected. Front black dial, wedge indices, arrow minute hand, date three and CO-AXIAL/CHRONOMETER/150m/500ft visible. Display back shows bright signed OMEGA2500 rotor, visible bridge geometry and case-ring Seamaster/Aqua Terra/Co-Axial Escapement/150m500ft markings. No A/B/C/D execution suffix legible; no generic ETA equivalence. Papers photo10 reads25025000/2500; papers are corroboration, not authentication proof or manufacture date. Folding steel bracelet clasp face has Omega logo; underside code and factory originality unproven. Clasp photo8 also shows the movement through the display back, so external-only mode must suppress it along with back/movement views. Serial is not used to infer manufacture date or authentication. Separate EWC9471 title/reference2502.50 with blue-dial description conflicts with manufacturer and is excluded pending reconciliation. No transfer to2503/2504, quartz2512 or other suffixes.",
+          "finding": "Verified exact specimen; individual originality remains unproven."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-12T14:49:26.745Z",
+          "evidence": "Original manufacturer identifies exact2502.50.00 black-dial steel/steel42.2mm Aqua Terra, self-winding Co-Axial calibre2500 and48h nominal reserve. Original SwissWatchExpo page explicitly identifies2502.50.00; twelve actual original499x499 files inspected. Front black dial, wedge indices, arrow minute hand, date three and CO-AXIAL/CHRONOMETER/150m/500ft visible. Display back shows bright signed OMEGA2500 rotor, visible bridge geometry and case-ring Seamaster/Aqua Terra/Co-Axial Escapement/150m500ft markings. No A/B/C/D execution suffix legible; no generic ETA equivalence. Papers photo10 reads25025000/2500; papers are corroboration, not authentication proof or manufacture date. Folding steel bracelet clasp face has Omega logo; underside code and factory originality unproven. Clasp photo8 also shows the movement through the display back, so external-only mode must suppress it along with back/movement views. Serial is not used to infer manufacture date or authentication. Separate EWC9471 title/reference2502.50 with blue-dial description conflicts with manufacturer and is excluded pending reconciliation. No transfer to2503/2504, quartz2512 or other suffixes.",
+          "finding": "Actual signed2500 display movement; exact execution suffix remains unresolved."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-12T14:49:26.745Z",
+          "evidence": "Original manufacturer identifies exact2502.50.00 black-dial steel/steel42.2mm Aqua Terra, self-winding Co-Axial calibre2500 and48h nominal reserve. Original SwissWatchExpo page explicitly identifies2502.50.00; twelve actual original499x499 files inspected. Front black dial, wedge indices, arrow minute hand, date three and CO-AXIAL/CHRONOMETER/150m/500ft visible. Display back shows bright signed OMEGA2500 rotor, visible bridge geometry and case-ring Seamaster/Aqua Terra/Co-Axial Escapement/150m500ft markings. No A/B/C/D execution suffix legible; no generic ETA equivalence. Papers photo10 reads25025000/2500; papers are corroboration, not authentication proof or manufacture date. Folding steel bracelet clasp face has Omega logo; underside code and factory originality unproven. Clasp photo8 also shows the movement through the display back, so external-only mode must suppress it along with back/movement views. Serial is not used to infer manufacture date or authentication. Separate EWC9471 title/reference2502.50 with blue-dial description conflicts with manufacturer and is excluded pending reconciliation. No transfer to2503/2504, quartz2512 or other suffixes.",
+          "finding": "Verified exact specimen; individual originality remains unproven."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-12T14:49:26.745Z",
+          "evidence": "Original manufacturer identifies exact2502.50.00 black-dial steel/steel42.2mm Aqua Terra, self-winding Co-Axial calibre2500 and48h nominal reserve. Original SwissWatchExpo page explicitly identifies2502.50.00; twelve actual original499x499 files inspected. Front black dial, wedge indices, arrow minute hand, date three and CO-AXIAL/CHRONOMETER/150m/500ft visible. Display back shows bright signed OMEGA2500 rotor, visible bridge geometry and case-ring Seamaster/Aqua Terra/Co-Axial Escapement/150m500ft markings. No A/B/C/D execution suffix legible; no generic ETA equivalence. Papers photo10 reads25025000/2500; papers are corroboration, not authentication proof or manufacture date. Folding steel bracelet clasp face has Omega logo; underside code and factory originality unproven. Clasp photo8 also shows the movement through the display back, so external-only mode must suppress it along with back/movement views. Serial is not used to infer manufacture date or authentication. Separate EWC9471 title/reference2502.50 with blue-dial description conflicts with manufacturer and is excluded pending reconciliation. No transfer to2503/2504, quartz2512 or other suffixes.",
+          "finding": "Verified exact specimen; individual originality remains unproven."
+        }
+      }
     }
   ],
   "sourceRecordReviews": [
@@ -10682,6 +10708,11 @@
           "finding": "Verified exact source reference, two labelled specimens; execution limits retained."
         }
       }
+    },
+    {
+      "id": "UPDATE:OMEGA|25025000",
+      "reviewedAt": "2026-10-12T14:49:26.745Z",
+      "evidence": "Original manufacturer identifies exact2502.50.00 black-dial steel/steel42.2mm Aqua Terra, self-winding Co-Axial calibre2500 and48h nominal reserve. Original SwissWatchExpo page explicitly identifies2502.50.00; twelve actual original499x499 files inspected. Front black dial, wedge indices, arrow minute hand, date three and CO-AXIAL/CHRONOMETER/150m/500ft visible. Display back shows bright signed OMEGA2500 rotor, visible bridge geometry and case-ring Seamaster/Aqua Terra/Co-Axial Escapement/150m500ft markings. No A/B/C/D execution suffix legible; no generic ETA equivalence. Papers photo10 reads25025000/2500; papers are corroboration, not authentication proof or manufacture date. Folding steel bracelet clasp face has Omega logo; underside code and factory originality unproven. Clasp photo8 also shows the movement through the display back, so external-only mode must suppress it along with back/movement views. Serial is not used to infer manufacture date or authentication. Separate EWC9471 title/reference2502.50 with blue-dial description conflicts with manufacturer and is excluded pending reconciliation. No transfer to2503/2504, quartz2512 or other suffixes."
     }
   ]
 }

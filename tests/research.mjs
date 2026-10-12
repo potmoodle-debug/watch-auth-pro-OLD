@@ -38,3 +38,20 @@ assert.equal(movementResult(queuedCartier,'ETA 2000-1').level,'caution');
 assert.equal(matchingRule(rules,'Omega','W5000156'),null);
 assert.equal(matchingRule(rules,'Cartier','W5000156-001'),null);
 assert.match(queuedCartier.technicalDetail.movement,/dealer attribution/);
+
+for(const ref of ['L3.790.4','L37904','L3.790.4.96.6','L3.790.4.06.6','L3.790.4.56.6','L3.790.4.66.6','L3.790.4.96.9','L3.790.4.56.9']){
+ const r=matchingRule(rules,'Longines',ref);assert.ok(r,ref);assert.ok(r.manualReview);assert.equal(movementResult(r,'L844.5').level,'match');assert.equal(movementResult(r,'L844').level,'caution');assert.equal(movementResult(r,'ETA A31').level,'caution');
+}
+assert.ok(matchingRule(rules,'Longines','L37904').collectionOnly);
+assert.equal(matchingRule(rules,'Longines','L37904966').variant,'Sunray blue / Steel bracelet');
+assert.equal(matchingRule(rules,'Longines','L37904969').variant,'Sunray blue / Blue rubber strap');
+for(const ref of ['L37904567','L38904966','L37904-9999'])assert.equal(matchingRule(rules,'Longines',ref),null,ref);
+assert.equal(matchingRule(rules,'Omega','L37904966'),null);
+
+const queuedOmega=matchingRule(rules,'Omega','25025000');
+assert.ok(queuedOmega.manualReview);
+assert.equal(movementResult(queuedOmega,'2500').level,'match');
+for(const c of ['2500A','2500B','2500C','2500D','ETA2892-A2'])assert.equal(movementResult(queuedOmega,c).level,'caution',c);
+assert.equal(matchingRule(rules,'Omega','2502.50'),null);
+assert.equal(matchingRule(rules,'Omega','25025000-001'),null);
+assert.equal(matchingRule(rules,'Longines','25025000'),null);

@@ -664,3 +664,13 @@ test('A32360 blue specimen does not inherit Colt, full-suffix or opened-movement
  for(const ref of ['A32350','A32370','A32360B4/C698','A326B05PFA','A32360-001'])assert.equal(get(ref).length,0,ref);
  assert.equal(get('A32360').filter(p=>p.category==='movement').length,0);
 });
+
+test('queued Omega exact specimen suppresses all display-movement views externally',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,externalOnly=false)=>matchingPhotographs(photos,'Omega',ref,{externalOnly}).filter(p=>p.id.startsWith('queue-omega-25025000-'));
+ for(const ref of ['2502.50.00','25025000'])assert.deepEqual(get(ref).map(p=>p.category).sort(),['braceletClasp','caseback','front','movement']);
+ assert.deepEqual(get('25025000',true).map(p=>p.category),['front']);
+ for(const ref of ['2502.50','2503.50.00','2504.50.00','2512.50.00','2502.50.00-001'])assert.equal(get(ref).length,0,ref);
+ assert.equal(matchingPhotographs(photos,'Longines','25025000').filter(p=>p.id.startsWith('queue-omega-')).length,0);
+ assert.match(get('25025000').find(p=>p.category==='movement').caption,/No legible A\/B\/C\/D/);
+});

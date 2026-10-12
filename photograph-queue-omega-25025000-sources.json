@@ -1,0 +1,65 @@
+{
+  "reviewedAt": "2026-10-12T14:49:26.745Z",
+  "completion": "IN PROGRESS",
+  "source": "https://www.swisswatchexpo.com/watches/omega/mens-omega/aqua-terra-/seamaster-aqua-terra-mens-watch-25025000-4224/",
+  "manufacturerSource": "https://www.omegawatches.com/watch-omega-seamaster-aqua-terra-big-size-chronometer-25025000",
+  "sourceSha256": "02c1ae1c7f8d71531615d22ec8b1a7583564e6e048b5ab2e6a621c9b293753b2",
+  "variant": "SwissWatchExpo2502.50.00 black dial / steel bracelet / display back; precise2500 execution suffix unverified",
+  "evidence": "Original manufacturer identifies exact2502.50.00 black-dial steel/steel42.2mm Aqua Terra, self-winding Co-Axial calibre2500 and48h nominal reserve. Original SwissWatchExpo page explicitly identifies2502.50.00; twelve actual original499x499 files inspected. Front black dial, wedge indices, arrow minute hand, date three and CO-AXIAL/CHRONOMETER/150m/500ft visible. Display back shows bright signed OMEGA2500 rotor, visible bridge geometry and case-ring Seamaster/Aqua Terra/Co-Axial Escapement/150m500ft markings. No A/B/C/D execution suffix legible; no generic ETA equivalence. Papers photo10 reads25025000/2500; papers are corroboration, not authentication proof or manufacture date. Folding steel bracelet clasp face has Omega logo; underside code and factory originality unproven. Clasp photo8 also shows the movement through the display back, so external-only mode must suppress it along with back/movement views. Serial is not used to infer manufacture date or authentication. Separate EWC9471 title/reference2502.50 with blue-dial description conflicts with manufacturer and is excluded pending reconciliation. No transfer to2503/2504, quartz2512 or other suffixes.",
+  "images": [
+    {
+      "i": 1,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/232/4224/omega-seamaster-aqua-terra-mens-watch-25025000-33395_bea94c.jpg",
+      "sha256": "631261746912b9f95fa81d91c1a09db946178eb59c663302b7395bd9584ba366",
+      "width": 499,
+      "height": 499
+    },
+    {
+      "i": 7,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/232/4224/omega-seamaster-aqua-terra-mens-watch-25025000-33403_b.jpg",
+      "sha256": "266226593ad4ec75cb5b0d5cd9c5c213b0cdb84ffc1e0cff23575773df77222e",
+      "width": 499,
+      "height": 499
+    },
+    {
+      "i": 8,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/232/4224/omega-seamaster-aqua-terra-mens-watch-25025000-33400_b.jpg",
+      "sha256": "72326c0c318502c92b2fa4d32c8686745df5b0feba9cd5269b56bc73c48b7ba1",
+      "width": 499,
+      "height": 499
+    },
+    {
+      "i": 10,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/232/4224/omega-seamaster-aqua-terra-mens-watch-25025000-33401_b.jpg",
+      "sha256": "d8ff7357873f3aab6ace3c14fba8583cca03893338917b947d539269b7c3bad9",
+      "width": 499,
+      "height": 499
+    }
+  ],
+  "acceptedViews": [
+    {
+      "i": 1,
+      "category": "front"
+    },
+    {
+      "i": 7,
+      "category": "movement"
+    },
+    {
+      "i": 7,
+      "category": "caseback"
+    },
+    {
+      "i": 8,
+      "category": "braceletClasp",
+      "depictsMovement": true
+    }
+  ],
+  "gaps": [
+    "Precise2500 execution suffix unresolved",
+    "Clasp underside code and factory originality unproven",
+    "Production interval and individual manufacture date unestablished",
+    "Queue status unchanged"
+  ],
+  "excluded": "EWC9471 conflicting blue-dial description; packaging/papers not accepted as watch-category images."
+}
