@@ -1,0 +1,202 @@
+{
+  "reviewedAt": "2026-10-12T10:42:39.797Z",
+  "completion": "IN PROGRESS",
+  "specimens": [
+    {
+      "ref": "PAM01305",
+      "group": "1305",
+      "source": "https://www.europeanwatch.com/watch/panerai-pam01305-pam01305-luminor-submersible-1950-3-days-titaniu-70146",
+      "credit": "European Watch Company",
+      "count": 7,
+      "variant": "47 mm titanium Luminor Submersible 1950 / black dial with blue seconds hand / fitted black rubber strap / source-identified automatic P.9010 execution",
+      "evidence": "EWC stock 70146 identifies exact PAM01305 and automatic P.9010. Seven actual gallery frames inspected, selected back and buckle at full resolution. Actual movement has signed rotor with (31) JEWELS, brushed bridges and two-screw balance bridge. P.9010 identity relies on paired exact-reference source; no readable calibre engraving claimed. Back physically marked TITANIUM / SUBMERSIBLE / 300 m; seller masks identity digits. Source paper date conflicts (2018 versus Undated), so no confirmed production year asserted.",
+      "views": [
+        [
+          0,
+          "front",
+          "Actual titanium-cased specimen: black Submersible dial, blue small-seconds hand, date at 3, fitted black rubber strap and dive bezel. Material and 47 mm size are paired source facts, not measurements from pixels."
+        ],
+        [
+          5,
+          "movement",
+          "Actual automatic execution with OFFICINE PANERAI rotor / (31) JEWELS, brushed bridge layout and two-screw balance bridge. Paired source identifies P.9010; hidden calibre markings are not inferred."
+        ],
+        [
+          5,
+          "caseback",
+          "Actual closed sapphire back with TITANIUM / SUBMERSIBLE / 300 m and cased movement. Seller-masked identity digits cannot be compared. Withheld for external-only inspection."
+        ],
+        [
+          4,
+          "braceletClasp",
+          "Actual PANERAI-signed buckle and fitted black rubber strap. Source identifies titanium buckle; appearance alone cannot verify alloy. Blurred display-back movement is visible in background, so this entire frame is withheld for external-only inspection."
+        ]
+      ],
+      "gaps": {}
+    },
+    {
+      "ref": "PAM01572",
+      "group": "1572",
+      "source": "https://www.rasin.co.jp/SHOP/U-PAM01572.html",
+      "credit": "GINZA RASIN",
+      "count": 7,
+      "variant": "Dealer-identified AA-series 40 mm steel Radiomir Quaranta / black dial / fitted black leather strap / closed-back serviced specimen",
+      "evidence": "GINZA RASIN item U-PAM01572 identifies exact PAM01572. Seven gallery frames inspected; selected closed back and buckle at original 640 px resolution. Mannequin image explicitly illustrative and paperwork frame excluded from attachments/receipt URLs. Actual back shows OP7607 / STAINLESS STEEL / 50 m; identity/edition portions masked. OP7607 is not a lookup alias. Dealer states warranty June 2025 and manufacturer complete service September 2026; these are source claims, not independently verified factory-originality or production-year evidence. Written P.900 description does not provide movement photo coverage.",
+      "views": [
+        [
+          0,
+          "front",
+          "Actual black Radiomir dial, gold-tone hands and markers, date at 3 and small seconds at 9. Fitted black leather strap; no factory originality claim. Original 640 px resolution limits fine-detail comparison."
+        ],
+        [
+          3,
+          "caseback",
+          "Actual closed steel PANERAI / RADIOMIR back with OP7607, STAINLESS STEEL and 50 m. Masked identity/edition cannot be compared. Original 640 px resolution."
+        ],
+        [
+          4,
+          "braceletClasp",
+          "Actual fitted black leather strap and PANERAI-signed steel pin buckle; original 640 px resolution limits fine detail."
+        ]
+      ],
+      "gaps": {
+        "movement": "Closed-back gallery has no movement photograph; written P.900 specification cannot fill this category."
+      }
+    }
+  ],
+  "images": [
+    {
+      "ref": "1305",
+      "i": 0,
+      "image": "https://images.europeanwatch.com/images/70/70146-1.jpg",
+      "httpStatus": 200,
+      "sha256": "4d99f084345d25a4db4be5edd26c9612a1894ad51599fd1887b16d3d9d41c4de",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "1305",
+      "i": 1,
+      "image": "https://images.europeanwatch.com/images/70/70146-2.jpg",
+      "httpStatus": 200,
+      "sha256": "12baf03eaf1d72859a208ff53cc6f52be5ed425a6c79a5835244a93c0c4e6b3c",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "1305",
+      "i": 2,
+      "image": "https://images.europeanwatch.com/images/70/70146-3.jpg",
+      "httpStatus": 200,
+      "sha256": "9e30defa9e7ad47cfa761cfa4b65d7746bcdd46471496f09b150501657543a66",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "1305",
+      "i": 3,
+      "image": "https://images.europeanwatch.com/images/70/70146-4.jpg",
+      "httpStatus": 200,
+      "sha256": "b826ddec9dafcb3d3e83c59902e0d1410f85cb294f921de9ddd26c26f6e09262",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "1305",
+      "i": 4,
+      "image": "https://images.europeanwatch.com/images/70/70146-5.jpg",
+      "httpStatus": 200,
+      "sha256": "d437f9d3011adfe8c143ccb2cd62da5a556430fbf5890d3d8c2e841ac6ca7212",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "1305",
+      "i": 5,
+      "image": "https://images.europeanwatch.com/images/70/70146-6.jpg",
+      "httpStatus": 200,
+      "sha256": "cce493797b83bb035b595af367e508e376cee75ccf9301fef77cc9085111a85b",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "1305",
+      "i": 6,
+      "image": "https://images.europeanwatch.com/images/70/70146-7.jpg",
+      "httpStatus": 200,
+      "sha256": "8c3a07285df4d4706dbf1250561f2c7f9e9cce1110a754f7249a8eaa58cc5adf",
+      "dimensions": [
+        1080,
+        864
+      ]
+    },
+    {
+      "ref": "1572",
+      "i": 0,
+      "image": "https://image1.shopserve.jp/rasin.co.jp/pic-labo/llimg/1qewopau0001-1.jpg?t=20260927132845",
+      "httpStatus": 200,
+      "sha256": "b64e2285575ad3e0539cf6f285cc5bfa469d4278e67e16542ac5a4a0bc43ac49",
+      "dimensions": [
+        640,
+        640
+      ]
+    },
+    {
+      "ref": "1572",
+      "i": 1,
+      "image": "https://image1.shopserve.jp/rasin.co.jp/pic-labo/llimg/1qewopau0001-2.jpg?t=20260927132846",
+      "httpStatus": 200,
+      "sha256": "91d87c6929f1706767c8bc20d1b92200aa48e810006b252485705419509bf822",
+      "dimensions": [
+        640,
+        640
+      ]
+    },
+    {
+      "ref": "1572",
+      "i": 2,
+      "image": "https://image1.shopserve.jp/rasin.co.jp/pic-labo/llimg/1qewopau0001-3.jpg?t=20260927132846",
+      "httpStatus": 200,
+      "sha256": "b0d3a4535a34e8d64d968d6f9cdd4df4e83784eae5c88a8a6a9d999242f4859c",
+      "dimensions": [
+        640,
+        640
+      ]
+    },
+    {
+      "ref": "1572",
+      "i": 3,
+      "image": "https://image1.shopserve.jp/rasin.co.jp/pic-labo/llimg/1qewopau0001-4.jpg?t=20260927132846",
+      "httpStatus": 200,
+      "sha256": "3d772163175939b3ae4f3e695390c2444e629c20f34bb173dbc23e67a2ef5971",
+      "dimensions": [
+        640,
+        640
+      ]
+    },
+    {
+      "ref": "1572",
+      "i": 4,
+      "image": "https://image1.shopserve.jp/rasin.co.jp/pic-labo/llimg/1qewopau0001-5.jpg?t=20260927132847",
+      "httpStatus": 200,
+      "sha256": "9427a089d69d5899eaddbb64e90becd20a181148f053c777e909a910b1dd31c4",
+      "dimensions": [
+        640,
+        640
+      ]
+    }
+  ],
+  "excluded": "Illustrative mannequin frame and paperwork frame inspected but excluded from attached imagery and public receipt URLs."
+}
