@@ -30230,6 +30230,232 @@
         },
         "imageSha256": "72326c0c318502c92b2fa4d32c8686745df5b0feba9cd5269b56bc73c48b7ba1"
       }
+    },
+    {
+      "id": "queue-tag-way2113-front",
+      "brand": "TAGHEUER",
+      "references": [
+        "WAY2113"
+      ],
+      "representativeFor": [
+        "WAY2113"
+      ],
+      "variant": "SWC18998S WAY2113 / grey horizontal-groove dial, steel bracelet / full suffix unverified",
+      "category": "front",
+      "title": "WAY2113 grey steel specimen — front",
+      "caption": "Actual grey horizontal-groove dial, luminous wedge/baton indices, date three and CALIBRE5/300m1000ft printing; steel bezel/bracelet. Source partial WAY2113; no full bracelet suffix confirmed.",
+      "image": "https://www.watches.co.uk/images/watermarked/12/12f8021a523d11fb23b0c6dbdc33ffde1825af7e41519d3ec977ab84cd95a172.jpg",
+      "source": "https://www.watches.co.uk/tag-heuer-aquaracer-calibre-5-WAY2113-TA-18998S",
+      "credit": "Swiss Watch Company / Watches.co.uk",
+      "mediaKind": "photograph",
+      "origin": "inspected Missing-reference queue research2026-10-13",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T07:43:38.705Z",
+        "loadedAt": "2026-10-13T07:43:38.705Z",
+        "evidence": "Original SWC18998S explicitly identifies WAY2113 grey dial, steel case/bracelet, automatic, dealer40.5mm and December2016 warranty attribution. Five actual original800x800 photographs inspected. Grey horizontal-groove dial with luminous wedge/baton indices, triangle twelve, date three and CALIBRE5/300m1000ft; steel minute bezel. Closed back with diver helmet and TAGHeuer shield, SWISS MADE SINCE1860 and300METERS1000FEET; exact reference/identity engravings too faint to assert independently. Folding clasp with microadjustment holes and visible safety catch; blue protective film printed TAGHeuer obscures actual clasp-face marks. Hardware underside code/originality unproven. No opened movement or physical calibre stamp. Manufacturer full WAY2113.BA0928 technical section says41mm steel case/bezel/bracelet, grey dial, Calibre5 automatic,38h,28800vph,300m; description separately says steel/gold, retained as contradiction not accepted gold evidence. Size40.5 vs41 discrepancy retained. Dealer warranty date is not manufacture date. No ETA2824/SW200 physical-execution equivalence. Dealer partial reference does not prove BA0928/BA0910 or undocumented suffix.",
+        "imageDimensions": {
+          "width": 800,
+          "height": 800
+        },
+        "imageSha256": "2eb115ef57784f52884e94be72b7fb3f6263a07d58e5ee52a4672e6f3e2a7700"
+      }
+    },
+    {
+      "id": "queue-tag-way2113-caseback",
+      "brand": "TAGHEUER",
+      "references": [
+        "WAY2113"
+      ],
+      "representativeFor": [
+        "WAY2113"
+      ],
+      "variant": "SWC18998S WAY2113 / grey horizontal-groove dial, steel bracelet / full suffix unverified",
+      "category": "caseback",
+      "title": "WAY2113 grey steel specimen — caseback",
+      "caption": "Actual closed diver-helmet back with shield, SWISS MADE SINCE1860 and water-rating marks. Reference/identity too faint to independently assert. No movement shown; inscriptions are not present performance proof.",
+      "image": "https://www.watches.co.uk/images/watermarked/6d/6dc304105609f617ae03c5669d90c9c6ee9d32bb6506f2334d599109c3a1a43f.jpg",
+      "source": "https://www.watches.co.uk/tag-heuer-aquaracer-calibre-5-WAY2113-TA-18998S",
+      "credit": "Swiss Watch Company / Watches.co.uk",
+      "mediaKind": "photograph",
+      "origin": "inspected Missing-reference queue research2026-10-13",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T07:43:38.705Z",
+        "loadedAt": "2026-10-13T07:43:38.705Z",
+        "evidence": "Original SWC18998S explicitly identifies WAY2113 grey dial, steel case/bracelet, automatic, dealer40.5mm and December2016 warranty attribution. Five actual original800x800 photographs inspected. Grey horizontal-groove dial with luminous wedge/baton indices, triangle twelve, date three and CALIBRE5/300m1000ft; steel minute bezel. Closed back with diver helmet and TAGHeuer shield, SWISS MADE SINCE1860 and300METERS1000FEET; exact reference/identity engravings too faint to assert independently. Folding clasp with microadjustment holes and visible safety catch; blue protective film printed TAGHeuer obscures actual clasp-face marks. Hardware underside code/originality unproven. No opened movement or physical calibre stamp. Manufacturer full WAY2113.BA0928 technical section says41mm steel case/bezel/bracelet, grey dial, Calibre5 automatic,38h,28800vph,300m; description separately says steel/gold, retained as contradiction not accepted gold evidence. Size40.5 vs41 discrepancy retained. Dealer warranty date is not manufacture date. No ETA2824/SW200 physical-execution equivalence. Dealer partial reference does not prove BA0928/BA0910 or undocumented suffix.",
+        "imageDimensions": {
+          "width": 800,
+          "height": 800
+        },
+        "imageSha256": "9b1700e4c9449ed1c5166fe98425d875807ac5347c4531fc9ee4dec2b2d6d84e"
+      }
+    },
+    {
+      "id": "queue-tag-way2113-braceletClasp",
+      "brand": "TAGHEUER",
+      "references": [
+        "WAY2113"
+      ],
+      "representativeFor": [
+        "WAY2113"
+      ],
+      "variant": "SWC18998S WAY2113 / grey horizontal-groove dial, steel bracelet / full suffix unverified",
+      "category": "braceletClasp",
+      "title": "WAY2113 grey steel specimen — braceletClasp",
+      "caption": "Actual folding clasp with safety catch and microadjustment holes. TAGHeuer text appears on blue protective film, which obscures metal-face markings. Underside code and originality unproven.",
+      "image": "https://www.watches.co.uk/images/watermarked/6d/6dc304105609f617ae03c5669d90c9c6ee9d32bb6506f2334d599109c3a1a43f.jpg",
+      "source": "https://www.watches.co.uk/tag-heuer-aquaracer-calibre-5-WAY2113-TA-18998S",
+      "credit": "Swiss Watch Company / Watches.co.uk",
+      "mediaKind": "photograph",
+      "origin": "inspected Missing-reference queue research2026-10-13",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T07:43:38.705Z",
+        "loadedAt": "2026-10-13T07:43:38.705Z",
+        "evidence": "Original SWC18998S explicitly identifies WAY2113 grey dial, steel case/bracelet, automatic, dealer40.5mm and December2016 warranty attribution. Five actual original800x800 photographs inspected. Grey horizontal-groove dial with luminous wedge/baton indices, triangle twelve, date three and CALIBRE5/300m1000ft; steel minute bezel. Closed back with diver helmet and TAGHeuer shield, SWISS MADE SINCE1860 and300METERS1000FEET; exact reference/identity engravings too faint to assert independently. Folding clasp with microadjustment holes and visible safety catch; blue protective film printed TAGHeuer obscures actual clasp-face marks. Hardware underside code/originality unproven. No opened movement or physical calibre stamp. Manufacturer full WAY2113.BA0928 technical section says41mm steel case/bezel/bracelet, grey dial, Calibre5 automatic,38h,28800vph,300m; description separately says steel/gold, retained as contradiction not accepted gold evidence. Size40.5 vs41 discrepancy retained. Dealer warranty date is not manufacture date. No ETA2824/SW200 physical-execution equivalence. Dealer partial reference does not prove BA0928/BA0910 or undocumented suffix.",
+        "imageDimensions": {
+          "width": 800,
+          "height": 800
+        },
+        "imageSha256": "9b1700e4c9449ed1c5166fe98425d875807ac5347c4531fc9ee4dec2b2d6d84e"
+      }
+    },
+    {
+      "id": "queue-panerai-pam00992-front",
+      "brand": "PANERAI",
+      "references": [
+        "PAM00992"
+      ],
+      "representativeFor": [],
+      "variant": "SwissWatchExpo37893 PAM00992 / open-cutout P.5000 bridge, black dial, brown leather; originality unproven",
+      "category": "front",
+      "title": "PAM00992 actual specimen — front",
+      "caption": "Actual black dial, beige12/6 and markers, blue hands, small seconds9 and8GIORNI/BREVETTATO emblem; brown stitched leather.45mm is dealer attribution.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/11/1/panerai-radiomir-8-days-otto-giorni-steel-mens-watch-pam00992-box-card-37893_04e7eec85e.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/panerai-radiomir-8-days-otto-giorni-steel-mens-watch-pam00992-box-card-37893/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected queue research2026-10-13",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T07:48:35.856Z",
+        "loadedAt": "2026-10-13T07:48:35.856Z",
+        "evidence": "Original SwissWatchExpo exact PAM00992 specimen page and twelve original photographs inspected. Black dial, beige12/6/sticks, blue hands, small seconds9,8GIORNI/BREVETTATO emblem3; cushion steel case/wire lugs and distressed brown leather with cream stitching. Actual display movement legibly marked P.5000, EIGHTDAYS,21JEWELS, with broad bright bridge and open cutout exposing a gear beside balance. This photographed arrangement is documented, not generic P.5000 execution equivalence. Signed PANERAI pin buckle photo also reveals display movement. Back OP7250/PL007,100m,STAINLESSSTEEL and V0429/1000 observed; no independent originality/performance or manufacture-date inference. Papers10 explicitly PAM00992 with matching specimen identity and March11,2021 date; corroboration only, no authentication or manufacture-date proof. Packaging/papers excluded as category assets. Dealer45mm and manual8day specification attributed; complete production interval unestablished. No neighbouring PAM aliases.",
+        "imageDimensions": {
+          "width": 4131,
+          "height": 4131
+        },
+        "imageSha256": "e7394c5db1be26ccc92c5ccd7f375f7f58043af67f043df3458d72ad086e21bb"
+      }
+    },
+    {
+      "id": "queue-panerai-pam00992-movement",
+      "brand": "PANERAI",
+      "references": [
+        "PAM00992"
+      ],
+      "representativeFor": [],
+      "variant": "SwissWatchExpo37893 PAM00992 / open-cutout P.5000 bridge, black dial, brown leather; originality unproven",
+      "category": "movement",
+      "title": "PAM00992 actual specimen — movement",
+      "caption": "Actual P.5000/EIGHTDAYS/21JEWELS marking and broad bright bridge with open gear cutout beside balance. Compare this execution; no generic fully closed bridge substitution.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/11/1/panerai-radiomir-8-days-otto-giorni-steel-mens-watch-pam00992-box-card-37893_06a4d.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/panerai-radiomir-8-days-otto-giorni-steel-mens-watch-pam00992-box-card-37893/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected queue research2026-10-13",
+      "depictsMovement": true,
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T07:48:35.856Z",
+        "loadedAt": "2026-10-13T07:48:35.856Z",
+        "evidence": "Original SwissWatchExpo exact PAM00992 specimen page and twelve original photographs inspected. Black dial, beige12/6/sticks, blue hands, small seconds9,8GIORNI/BREVETTATO emblem3; cushion steel case/wire lugs and distressed brown leather with cream stitching. Actual display movement legibly marked P.5000, EIGHTDAYS,21JEWELS, with broad bright bridge and open cutout exposing a gear beside balance. This photographed arrangement is documented, not generic P.5000 execution equivalence. Signed PANERAI pin buckle photo also reveals display movement. Back OP7250/PL007,100m,STAINLESSSTEEL and V0429/1000 observed; no independent originality/performance or manufacture-date inference. Papers10 explicitly PAM00992 with matching specimen identity and March11,2021 date; corroboration only, no authentication or manufacture-date proof. Packaging/papers excluded as category assets. Dealer45mm and manual8day specification attributed; complete production interval unestablished. No neighbouring PAM aliases.",
+        "imageDimensions": {
+          "width": 2792,
+          "height": 2792
+        },
+        "imageSha256": "761f2f13a0f159c3aa77ccdd0e2c1694f246dbf6c8b7c25235f53ea09e6049f0"
+      }
+    },
+    {
+      "id": "queue-panerai-pam00992-caseback",
+      "brand": "PANERAI",
+      "references": [
+        "PAM00992"
+      ],
+      "representativeFor": [],
+      "variant": "SwissWatchExpo37893 PAM00992 / open-cutout P.5000 bridge, black dial, brown leather; originality unproven",
+      "category": "caseback",
+      "title": "PAM00992 actual specimen — caseback",
+      "caption": "Actual display back with OP7250/PL007,STAINLESSSTEEL,100m and edition markings. Movement visible; identity/edition marks do not independently authenticate or date the watch.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/11/1/panerai-radiomir-8-days-otto-giorni-steel-mens-watch-pam00992-box-card-37893_06a4d.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/panerai-radiomir-8-days-otto-giorni-steel-mens-watch-pam00992-box-card-37893/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected queue research2026-10-13",
+      "depictsMovement": true,
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T07:48:35.856Z",
+        "loadedAt": "2026-10-13T07:48:35.856Z",
+        "evidence": "Original SwissWatchExpo exact PAM00992 specimen page and twelve original photographs inspected. Black dial, beige12/6/sticks, blue hands, small seconds9,8GIORNI/BREVETTATO emblem3; cushion steel case/wire lugs and distressed brown leather with cream stitching. Actual display movement legibly marked P.5000, EIGHTDAYS,21JEWELS, with broad bright bridge and open cutout exposing a gear beside balance. This photographed arrangement is documented, not generic P.5000 execution equivalence. Signed PANERAI pin buckle photo also reveals display movement. Back OP7250/PL007,100m,STAINLESSSTEEL and V0429/1000 observed; no independent originality/performance or manufacture-date inference. Papers10 explicitly PAM00992 with matching specimen identity and March11,2021 date; corroboration only, no authentication or manufacture-date proof. Packaging/papers excluded as category assets. Dealer45mm and manual8day specification attributed; complete production interval unestablished. No neighbouring PAM aliases.",
+        "imageDimensions": {
+          "width": 2792,
+          "height": 2792
+        },
+        "imageSha256": "761f2f13a0f159c3aa77ccdd0e2c1694f246dbf6c8b7c25235f53ea09e6049f0"
+      }
+    },
+    {
+      "id": "queue-panerai-pam00992-braceletClasp",
+      "brand": "PANERAI",
+      "references": [
+        "PAM00992"
+      ],
+      "representativeFor": [],
+      "variant": "SwissWatchExpo37893 PAM00992 / open-cutout P.5000 bridge, black dial, brown leather; originality unproven",
+      "category": "braceletClasp",
+      "title": "PAM00992 actual specimen — braceletClasp",
+      "caption": "Actual PANERAI pin buckle and distressed brown stitched leather. Originality/underside hardware code unproven. Display movement also visible; suppressed externally.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/11/1/panerai-radiomir-8-days-otto-giorni-steel-mens-watch-pam00992-box-card-37893_a1d72.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/panerai-radiomir-8-days-otto-giorni-steel-mens-watch-pam00992-box-card-37893/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected queue research2026-10-13",
+      "depictsMovement": true,
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T07:48:35.856Z",
+        "loadedAt": "2026-10-13T07:48:35.856Z",
+        "evidence": "Original SwissWatchExpo exact PAM00992 specimen page and twelve original photographs inspected. Black dial, beige12/6/sticks, blue hands, small seconds9,8GIORNI/BREVETTATO emblem3; cushion steel case/wire lugs and distressed brown leather with cream stitching. Actual display movement legibly marked P.5000, EIGHTDAYS,21JEWELS, with broad bright bridge and open cutout exposing a gear beside balance. This photographed arrangement is documented, not generic P.5000 execution equivalence. Signed PANERAI pin buckle photo also reveals display movement. Back OP7250/PL007,100m,STAINLESSSTEEL and V0429/1000 observed; no independent originality/performance or manufacture-date inference. Papers10 explicitly PAM00992 with matching specimen identity and March11,2021 date; corroboration only, no authentication or manufacture-date proof. Packaging/papers excluded as category assets. Dealer45mm and manual8day specification attributed; complete production interval unestablished. No neighbouring PAM aliases.",
+        "imageDimensions": {
+          "width": 3751,
+          "height": 3751
+        },
+        "imageSha256": "190475625d6d15e139f3846f8bf24815ddf878f8b71d6188b1673728b005b002"
+      }
     }
   ]
 }

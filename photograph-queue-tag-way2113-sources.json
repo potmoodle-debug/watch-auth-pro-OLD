@@ -1,0 +1,40 @@
+{
+  "reviewedAt": "2026-10-13T07:43:38.705Z",
+  "completion": "IN PROGRESS",
+  "source": "https://www.watches.co.uk/tag-heuer-aquaracer-calibre-5-WAY2113-TA-18998S",
+  "manufacturerSource": "https://www.tagheuer.com/int/en/timepieces/collections/tag-heuer-aquaracer/41-mm-calibre-5-automatic/WAY2113.BA0928.html",
+  "evidence": "Original SWC18998S explicitly identifies WAY2113 grey dial, steel case/bracelet, automatic, dealer40.5mm and December2016 warranty attribution. Five actual original800x800 photographs inspected. Grey horizontal-groove dial with luminous wedge/baton indices, triangle twelve, date three and CALIBRE5/300m1000ft; steel minute bezel. Closed back with diver helmet and TAGHeuer shield, SWISS MADE SINCE1860 and300METERS1000FEET; exact reference/identity engravings too faint to assert independently. Folding clasp with microadjustment holes and visible safety catch; blue protective film printed TAGHeuer obscures actual clasp-face marks. Hardware underside code/originality unproven. No opened movement or physical calibre stamp. Manufacturer full WAY2113.BA0928 technical section says41mm steel case/bezel/bracelet, grey dial, Calibre5 automatic,38h,28800vph,300m; description separately says steel/gold, retained as contradiction not accepted gold evidence. Size40.5 vs41 discrepancy retained. Dealer warranty date is not manufacture date. No ETA2824/SW200 physical-execution equivalence. Dealer partial reference does not prove BA0928/BA0910 or undocumented suffix.",
+  "images": [
+    {
+      "i": 1,
+      "image": "https://www.watches.co.uk/images/watermarked/12/12f8021a523d11fb23b0c6dbdc33ffde1825af7e41519d3ec977ab84cd95a172.jpg",
+      "sha256": "2eb115ef57784f52884e94be72b7fb3f6263a07d58e5ee52a4672e6f3e2a7700",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "i": 3,
+      "image": "https://www.watches.co.uk/images/watermarked/6d/6dc304105609f617ae03c5669d90c9c6ee9d32bb6506f2334d599109c3a1a43f.jpg",
+      "sha256": "9b1700e4c9449ed1c5166fe98425d875807ac5347c4531fc9ee4dec2b2d6d84e",
+      "width": 800,
+      "height": 800
+    }
+  ],
+  "sourceHashes": [
+    {
+      "name": "swc",
+      "sha256": "72da98edad5ed0e7517527460d960823c1b452d443bc1ed323e55a9b31209c7a"
+    },
+    {
+      "name": "official",
+      "sha256": "5f1c87f9678a5af9bc0eb1d7cbd629909fb43e098534087d5a9025f581807d81"
+    }
+  ],
+  "gaps": [
+    "No physical movement or calibre execution",
+    "Full bracelet suffix not documented for photographed specimen",
+    "Clasp film hides face marking; underside code unverified",
+    "Size discrepancy and manufacturer material contradiction retained",
+    "Queue status unchanged"
+  ]
+}
