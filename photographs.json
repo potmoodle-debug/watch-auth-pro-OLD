@@ -31405,6 +31405,99 @@
         },
         "imageSha256": "86dd9ad3863a53647453f75b3295347717fe52d6235148287a1d50edff93e532"
       }
+    },
+    {
+      "id": "queue-omega-22525000-swe-front",
+      "brand": "OMEGA",
+      "references": [
+        "2252.50.00"
+      ],
+      "representativeFor": [],
+      "variant": "SWE70407 exact2252.50.00 /36.25mm black wave,sword hands,steel bracelet / individual movement unverified",
+      "category": "front",
+      "title": "2252.50.00 midsize specimen — front",
+      "caption": "Actual black wave dial,sword hands,date3,red seconds tip,minute bezel and steel bracelet. Source exact2252.50.00 specimen; present performance/originality unproven.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/5/17/omega-seamaster-midsize-black-wave-dial-steel-mens-watch-22525000-70407_f0f34.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/omega-seamaster-midsize-black-wave-dial-steel-mens-watch-22525000-70407/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected queue research2026-10-13",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T15:31:42.714Z",
+        "loadedAt": "2026-10-13T15:31:42.714Z",
+        "evidence": "Original Omega exact2252.50.00 record specifies36.25mm steel,black dial,Omega1120 self-winding44h,300m factory rating,steel foldover clasp/diver extension andapprox141g total product weight. Weight/rating/reserve are nominal specifications,not authentication/current-performance thresholds. Original SWE70407 exact2252.50.00 gallery contains nine fetched actual files;front2,closedback6,clasp8 inspected and accepted. Actual black wave dial,sword hands,date3,red seconds tip,minute bezel,helium valve10 and steel bracelet. Closed seahorse/wave Seamaster back and signed Omega Seamaster Professional clasp with pushbuttons. Partial lug identity fragment/endlink marking visible; no full serial,manufacture date or complete bracelet-code/originality claim. Diver extension not independently unfolded in selected image. No opened movement or physical1120 stamp; no generic ETA2892/2500 equivalence. Duplicate front crops0/1 excluded. No2254.50.00,quartz2262.50.00,AquaTerra2502.50.00 or broadSeamaster inheritance. Full historical period/material assay/factory originality unresolved.",
+        "imageDimensions": {
+          "width": 4048,
+          "height": 4048
+        },
+        "imageSha256": "06a0e94eeed2a625ee495ef2f90b1c2b8878a9e6ce043f2c52fa0579d576f2e1"
+      }
+    },
+    {
+      "id": "queue-omega-22525000-swe-caseback",
+      "brand": "OMEGA",
+      "references": [
+        "2252.50.00"
+      ],
+      "representativeFor": [],
+      "variant": "SWE70407 exact2252.50.00 /36.25mm black wave,sword hands,steel bracelet / individual movement unverified",
+      "category": "caseback",
+      "title": "2252.50.00 midsize specimen — caseback",
+      "caption": "Actual closed seahorse/wave Seamaster back. Partial identity/endlink markings do not prove manufacture date or complete hardware originality. No movement shown.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/5/17/omega-seamaster-midsize-black-wave-dial-steel-mens-watch-22525000-70407_74c97.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/omega-seamaster-midsize-black-wave-dial-steel-mens-watch-22525000-70407/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected queue research2026-10-13",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T15:31:42.714Z",
+        "loadedAt": "2026-10-13T15:31:42.714Z",
+        "evidence": "Original Omega exact2252.50.00 record specifies36.25mm steel,black dial,Omega1120 self-winding44h,300m factory rating,steel foldover clasp/diver extension andapprox141g total product weight. Weight/rating/reserve are nominal specifications,not authentication/current-performance thresholds. Original SWE70407 exact2252.50.00 gallery contains nine fetched actual files;front2,closedback6,clasp8 inspected and accepted. Actual black wave dial,sword hands,date3,red seconds tip,minute bezel,helium valve10 and steel bracelet. Closed seahorse/wave Seamaster back and signed Omega Seamaster Professional clasp with pushbuttons. Partial lug identity fragment/endlink marking visible; no full serial,manufacture date or complete bracelet-code/originality claim. Diver extension not independently unfolded in selected image. No opened movement or physical1120 stamp; no generic ETA2892/2500 equivalence. Duplicate front crops0/1 excluded. No2254.50.00,quartz2262.50.00,AquaTerra2502.50.00 or broadSeamaster inheritance. Full historical period/material assay/factory originality unresolved.",
+        "imageDimensions": {
+          "width": 2553,
+          "height": 2553
+        },
+        "imageSha256": "9fedb1e34fb5eed54a29a40687edb57ebe98e954eec032965312d533635958d7"
+      }
+    },
+    {
+      "id": "queue-omega-22525000-swe-braceletClasp",
+      "brand": "OMEGA",
+      "references": [
+        "2252.50.00"
+      ],
+      "representativeFor": [],
+      "variant": "SWE70407 exact2252.50.00 /36.25mm black wave,sword hands,steel bracelet / individual movement unverified",
+      "category": "braceletClasp",
+      "title": "2252.50.00 midsize specimen — braceletClasp",
+      "caption": "Actual Omega Seamaster Professional-signed folding clasp with pushbuttons. Diver extension not independently unfolded here; full hardware code and originality unproven.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/5/17/omega-seamaster-midsize-black-wave-dial-steel-mens-watch-22525000-70407_c161d.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/omega-seamaster-midsize-black-wave-dial-steel-mens-watch-22525000-70407/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected queue research2026-10-13",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T15:31:42.714Z",
+        "loadedAt": "2026-10-13T15:31:42.714Z",
+        "evidence": "Original Omega exact2252.50.00 record specifies36.25mm steel,black dial,Omega1120 self-winding44h,300m factory rating,steel foldover clasp/diver extension andapprox141g total product weight. Weight/rating/reserve are nominal specifications,not authentication/current-performance thresholds. Original SWE70407 exact2252.50.00 gallery contains nine fetched actual files;front2,closedback6,clasp8 inspected and accepted. Actual black wave dial,sword hands,date3,red seconds tip,minute bezel,helium valve10 and steel bracelet. Closed seahorse/wave Seamaster back and signed Omega Seamaster Professional clasp with pushbuttons. Partial lug identity fragment/endlink marking visible; no full serial,manufacture date or complete bracelet-code/originality claim. Diver extension not independently unfolded in selected image. No opened movement or physical1120 stamp; no generic ETA2892/2500 equivalence. Duplicate front crops0/1 excluded. No2254.50.00,quartz2262.50.00,AquaTerra2502.50.00 or broadSeamaster inheritance. Full historical period/material assay/factory originality unresolved.",
+        "imageDimensions": {
+          "width": 3435,
+          "height": 3435
+        },
+        "imageSha256": "94004e32c17d3e72cb429274f7aaa855290fbf83da94822b317526bffd98d256"
+      }
     }
   ]
 }
