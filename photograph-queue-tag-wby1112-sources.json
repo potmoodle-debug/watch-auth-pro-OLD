@@ -1,0 +1,46 @@
+{
+  "reviewedAt": "2026-10-13T09:03:39.271Z",
+  "completion": "IN PROGRESS",
+  "source": "https://en.www.rasin.co.jp/SHOP/U-WBY1112BA42.html",
+  "manufacturerSource": "https://www.tagheuer.com/int/en/timepieces/collections/tag-heuer-formula-1/38-mm-th50-00/WBY1112.BA0042.html",
+  "sourceHashes": [
+    {
+      "name": "official",
+      "sha256": "98cd5ec30271c08565c2963123ea2359e78a4b8206b146d86e6b89c8024ab2cf"
+    },
+    {
+      "name": "rasin",
+      "sha256": "58770ef5de4de8bad56b006ab53eb6f0e624c0165da59201ad2ad2aadb93ce5e"
+    }
+  ],
+  "evidence": "Manufacturer exact WBY1112.BA0042 identifies Formula1 Solargraph blue opalin steel38mm/9.9mm/18.5mm lugs,TH-Polylight bezel,plain steel back,solar quartzTH50-00 and100m factory rating. Rasin original exact-reference used specimen gallery inspected: nine fetched640x640 files including repeated front, illustrative mannequin and packaging. Accepted distinct front1,back4,clasp5. Actual blue dial/bezel, white flange, round/shield markers, red seconds,date3,FORMULA1/SOLARGRAPH/SWISSMADE. Closed shield/check-pattern back; peripheral reference/identity too faint to independently assert. Steel folding clasp with TAGHeuer text, pushbuttons and visible protection/marks; originality/code unproven. No opened movement/physical TH50-00 stamp. Full-charge up-to10months and cell-life up-to15years are nominal manufacturer claims, not tested performance or ordinary disposable-cell equivalence. Watch Buyers only generic product image excluded; mannequin/packaging not category photos. No AquaracerWBP1112,otherFormula1suffixes or generic solar movement inheritance.",
+  "images": [
+    {
+      "i": 1,
+      "image": "https://image1.shopserve.jp/rasin.co.jp/pic-labo/llimg/0050thau0023-1.jpg?t=20260916142929",
+      "sha256": "e44c1d2297562f63d9a925992822724dd9928124b382bc696ab8392913742f2c",
+      "width": 640,
+      "height": 640
+    },
+    {
+      "i": 4,
+      "image": "https://image1.shopserve.jp/rasin.co.jp/pic-labo/llimg/0050thau0023-4.jpg?t=20260916142931",
+      "sha256": "a8665d7c59c3fee6d52cf561914814e0d6febc526d4e440e681edff30a28d3b9",
+      "width": 640,
+      "height": 640
+    },
+    {
+      "i": 5,
+      "image": "https://image1.shopserve.jp/rasin.co.jp/pic-labo/llimg/0050thau0023-5.jpg?t=20260916142931",
+      "sha256": "4717c897ad81dfa6f971f1fb540761944f497abfbe580bac0cd80cd8299cf0fa",
+      "width": 640,
+      "height": 640
+    }
+  ],
+  "gaps": [
+    "No physical calibre/opened movement",
+    "Originality and full production interval unproven",
+    "Queue status unchanged"
+  ],
+  "excluded": "Generic Watch Buyers product image, repeated front, illustrative mannequin and packaging."
+}

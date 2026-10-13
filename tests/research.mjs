@@ -80,3 +80,9 @@ assert.equal(matchingRule(rules,'Longines','L37884999'),null);
 assert.match(matchingRule(rules,'Longines','L37884986').notes,/exclusive edition/);
 
 const queuedCartier830=matchingRule(rules,'Cartier','83041488');assert.ok(queuedCartier830.manualReview);assert.deepEqual(queuedCartier830.calibre,[]);assert.equal(movementResult(queuedCartier830,'87'),null);assert.match(queuedCartier830.notes,/replacement/);assert.equal(matchingRule(rules,'Omega','83041488'),null);
+
+for(const ref of ['WBY1112','WBY1112.BA0042']){
+ const r=matchingRule(rules,'TAG Heuer',ref);assert.ok(r.manualReview);assert.equal(movementResult(r,'TH50-00').level,'match');assert.equal(movementResult(r,'Eco-Drive').level,'caution');assert.match(r.technology,/Solar quartz/);
+}
+assert.equal(matchingRule(rules,'TAG Heuer','WBY1112.FT0000'),null);
+assert.equal(matchingRule(rules,'Omega','WBY1112'),null);
