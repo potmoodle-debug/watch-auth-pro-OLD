@@ -1,0 +1,24 @@
+{
+  "reviewedAt": "2026-10-13T08:45:44.982Z",
+  "completion": "UNRESOLVED",
+  "brand": "TUDOR",
+  "reference": "7699",
+  "sources": [
+    {
+      "source": "https://shop.hodinkee.com/products/1962-tudor-big-rose-reference-7966",
+      "httpStatus": 200,
+      "sourceSha256": "1efa9f6d3b08e78f19dec054d78d28aa5a707824a40cfa8ca0819c2aac69991a",
+      "finding": "Original title/description7966 conflicts with Fine Print7699; reference not independently established. Do not transfer model/calibre/photo matching."
+    },
+    {
+      "source": "https://www.watchtrader.co.uk/product/tudor-black-bay-pro-5/",
+      "httpStatus": 200,
+      "sourceSha256": "1b608d3332a34494fc4398782d130452dc08da6f37fb4a52ffc34aaddd422a76",
+      "finding": "Original model reference79470 uses7699/W7699 as stock code, not case reference."
+    }
+  ],
+  "acceptedMappings": 0,
+  "acceptedPhotographs": 0,
+  "decision": "No safe exact case-reference identity established; no7966/79470/ETA2452 aliases or photo transfer.",
+  "nextEvidence": "Legible physical case-reference engraving or independent primary source tying7699 to an exact specimen is required. Queue status unchanged."
+}

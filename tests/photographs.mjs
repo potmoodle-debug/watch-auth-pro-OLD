@@ -704,3 +704,12 @@ test('L37884 green specimen retains partial scope and closed movement gap',()=>{
  for(const ref of ['L37884066','L37884566','L37884966','L37904','L38904'])assert.equal(get(ref).length,0,ref);
  assert.equal(matchingPhotographs(photos,'Omega','L37884').filter(p=>p.id.startsWith('queue-longines-l37884-')).length,0);
 });
+
+test('Cartier83041488 photos retain service limits without adjacent or case-code inheritance',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,externalOnly=false)=>matchingPhotographs(photos,'Cartier',ref,{externalOnly}).filter(p=>p.id.startsWith('queue-cartier-83041488-'));
+ assert.deepEqual(get('83041488').map(p=>p.category).sort(),['braceletClasp','caseback','front']);assert.equal(get('83041488',true).length,3);
+ for(const ref of ['83041489','8191','81912','Santos Vendome','83041488-001'])assert.equal(get(ref).length,0,ref);
+ assert.equal(matchingPhotographs(photos,'Omega','83041488').filter(p=>p.id.startsWith('queue-cartier-83041488-')).length,0);
+ assert.match(get('83041488').find(p=>p.category==='front').caption,/replacements/);
+});
