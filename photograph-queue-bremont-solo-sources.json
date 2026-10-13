@@ -1,0 +1,86 @@
+{
+  "reviewedAt": "2026-10-13T15:14:20.376Z",
+  "completion": "IN PROGRESS",
+  "source": "https://grailzee.com/products/bremont-solo-solo32-aj-wh-r-s",
+  "sourceSha256": "4b4417046e257073096952076f6b39e0e6a986008aa9a9a028bb727dccacbdbe",
+  "manufacturerSources": [
+    {
+      "id": "solo37",
+      "url": "https://www.bremont.com/collections/watches-solo-37",
+      "status": 200,
+      "sha256": "7543ce025750c97561cb7a5b0c2ef8c6b5faea2080d7f710b2cde24a5ea5220e"
+    },
+    {
+      "id": "solo34lc",
+      "url": "https://au.bremont.com/products/solo-34-lc-white",
+      "status": 200,
+      "sha256": "389103a97cc5ffc7419c10dc60a6c3fdd4ec17f511a31ba722be292b5855cf96"
+    },
+    {
+      "id": "solo37rg",
+      "url": "https://au.bremont.com/products/solo-37-rg",
+      "status": 200,
+      "sha256": "818a33d0e58fb806b00b79a88178871837587ecf92895411034abd54882c15e7"
+    },
+    {
+      "id": "solo32",
+      "url": "https://us.bremont.com/collections/watches-ladies-solo-32",
+      "status": 200,
+      "sha256": "a594a9abc248408293da0df091e9ed60bb782be8a60e2a2e13920a76ad511788"
+    },
+    {
+      "id": "pilotFamilies",
+      "url": "https://au.bremont.com/pages/pilot-watches",
+      "status": 200,
+      "sha256": "0d024e96646acc43c3a716b42999d270715d4a2714441d328a617b8ee27fa92a"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bremont original SOLO32 collection",
+      "url": "https://us.bremont.com/collections/watches-ladies-solo-32"
+    },
+    {
+      "title": "Bremont exact37 RG specifications",
+      "url": "https://au.bremont.com/products/solo-37-rg"
+    },
+    {
+      "title": "Bremont exact34 LC specifications",
+      "url": "https://au.bremont.com/products/solo-34-lc-white"
+    },
+    {
+      "title": "Bremont original pilot families34/37/43",
+      "url": "https://au.bremont.com/pages/pilot-watches"
+    }
+  ],
+  "images": [
+    {
+      "i": 0,
+      "image": "https://cdn.shopify.com/s/files/1/0574/3175/2836/files/Bremont-Solo-32-White-Dial-32mm-Automatic-Ladies-Watch-SOLO32-AJ-WH-R-S-6-2000x2000_1.jpg?v=1718569374",
+      "sha256": "8f6c5d17afd73b1f8f12a59a1b594b66fdec109dcb502eddeaa6a9f3620c4ba9",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "i": 4,
+      "image": "https://cdn.shopify.com/s/files/1/0574/3175/2836/files/Capa0sfsswaaws.png?v=1718569404",
+      "sha256": "86dd9ad3863a53647453f75b3295347717fe52d6235148287a1d50edff93e532",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "i": 5,
+      "image": "https://cdn.shopify.com/s/files/1/0574/3175/2836/files/Bremont-Solo-32-White-Dial-32mm-Automatic-Ladies-Watch-SOLO32-AJ-WH-R-S-3.jpg?v=1718569404",
+      "sha256": "6555481c32e9264f52938a190adb6f11089fcb5e59d890710fa3decdf01feee3",
+      "width": 1997,
+      "height": 1997
+    }
+  ],
+  "evidence": "Original Grailzee listing explicitly identifies SOLO32-AJ-WH-R-S,32mm steel,white Arabic dial,date6,leather strap and signed steel buckle,year unknown/open papers. Seven original files inspected;600x750 front duplicate2 excluded. Actual white quarter-Arabic12/3/9 dial,round applied markers,railway minute track,red triangle12,blue hands,central seconds,date6,BREMONT/AUTOMATIC/LONDON printing and black strap with visible fibres. Actual exhibition back and decorated automatic rotor partly obscured by clear display holder; BREMONT rotor and CHRONOMETER/ATM rim fragments visible. Complete reference/calibre/jewel/identity/hardware code not independently legible. No physical SW1000 or branded calibre stamp asserted. Signed BREMONT pin buckle with visible marks; factory originality unproven. Manufacturer Solo32 collection independently establishes32mm family;37 RG specifies BE-36AE/date3/20mm lugs/5-screw back,34 LC specifies BE-92AV/date6/16mm lugs/4-screw back. Their calibre/dimensions do not transfer to32 or broadSolo. Broad family spans32/34/37/43mm; old43mm/BE-36AE/SW220-1 universal attribution withdrawn. No SW1000/BE-92AV or SW220-1/BE-36AE equivalence,other size/dial/strap SKU inheritance. Movement/back share one file; clasp view exposes peripheral exhibition back and is conservatively movement-bearing for external-only suppression. Dates,performance,materials and originality not independently proven.",
+  "gaps": [
+    "Queued exact model/size/generation andSW1000 unresolved",
+    "Unobscured physical calibre stamp",
+    "Other32/34/37/43 variants and historical generations"
+  ],
+  "queueStatus": "Remains open"
+}

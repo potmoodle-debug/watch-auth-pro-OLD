@@ -31270,6 +31270,141 @@
         },
         "imageSha256": "d20f599c3803a5bbfef1b0b73bf824c204726e80432161743b93117d0d560dcf"
       }
+    },
+    {
+      "id": "queue-bremont-solo32-grailzee-front",
+      "brand": "BREMONT",
+      "references": [
+        "SOLO32-AJ-WH-R-S"
+      ],
+      "representativeFor": [
+        "Bremont Solo"
+      ],
+      "variant": "Grailzee exactSOLO32-AJ-WH-R-S /32mm white Arabic,black leather / calibre and year unverified",
+      "category": "front",
+      "title": "Solo32 white Arabic specimen — front",
+      "caption": "Actual white quarter-Arabic dial,blue hands,date6 and black leather strap. Exact seller-identified SOLO32-AJ-WH-R-S specimen; originality unproven.",
+      "image": "https://cdn.shopify.com/s/files/1/0574/3175/2836/files/Bremont-Solo-32-White-Dial-32mm-Automatic-Ladies-Watch-SOLO32-AJ-WH-R-S-6-2000x2000_1.jpg?v=1718569374",
+      "source": "https://grailzee.com/products/bremont-solo-solo32-aj-wh-r-s",
+      "credit": "Grailzee",
+      "mediaKind": "photograph",
+      "origin": "inspected queue research2026-10-13",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T15:14:20.376Z",
+        "loadedAt": "2026-10-13T15:14:20.376Z",
+        "evidence": "Original Grailzee listing explicitly identifies SOLO32-AJ-WH-R-S,32mm steel,white Arabic dial,date6,leather strap and signed steel buckle,year unknown/open papers. Seven original files inspected;600x750 front duplicate2 excluded. Actual white quarter-Arabic12/3/9 dial,round applied markers,railway minute track,red triangle12,blue hands,central seconds,date6,BREMONT/AUTOMATIC/LONDON printing and black strap with visible fibres. Actual exhibition back and decorated automatic rotor partly obscured by clear display holder; BREMONT rotor and CHRONOMETER/ATM rim fragments visible. Complete reference/calibre/jewel/identity/hardware code not independently legible. No physical SW1000 or branded calibre stamp asserted. Signed BREMONT pin buckle with visible marks; factory originality unproven. Manufacturer Solo32 collection independently establishes32mm family;37 RG specifies BE-36AE/date3/20mm lugs/5-screw back,34 LC specifies BE-92AV/date6/16mm lugs/4-screw back. Their calibre/dimensions do not transfer to32 or broadSolo. Broad family spans32/34/37/43mm; old43mm/BE-36AE/SW220-1 universal attribution withdrawn. No SW1000/BE-92AV or SW220-1/BE-36AE equivalence,other size/dial/strap SKU inheritance. Movement/back share one file; clasp view exposes peripheral exhibition back and is conservatively movement-bearing for external-only suppression. Dates,performance,materials and originality not independently proven.",
+        "imageDimensions": {
+          "width": 2000,
+          "height": 2000
+        },
+        "imageSha256": "8f6c5d17afd73b1f8f12a59a1b594b66fdec109dcb502eddeaa6a9f3620c4ba9"
+      }
+    },
+    {
+      "id": "queue-bremont-solo32-grailzee-movement",
+      "brand": "BREMONT",
+      "references": [
+        "SOLO32-AJ-WH-R-S"
+      ],
+      "representativeFor": [
+        "Bremont Solo"
+      ],
+      "variant": "Grailzee exactSOLO32-AJ-WH-R-S /32mm white Arabic,black leather / calibre and year unverified",
+      "category": "movement",
+      "title": "Solo32 white Arabic specimen — movement",
+      "caption": "Actual decorated automatic movement through exhibition back,partly obscured by clear display holder. No complete physical calibre or jewel-count stamp asserted.",
+      "image": "https://cdn.shopify.com/s/files/1/0574/3175/2836/files/Bremont-Solo-32-White-Dial-32mm-Automatic-Ladies-Watch-SOLO32-AJ-WH-R-S-3.jpg?v=1718569404",
+      "source": "https://grailzee.com/products/bremont-solo-solo32-aj-wh-r-s",
+      "credit": "Grailzee",
+      "mediaKind": "photograph",
+      "origin": "inspected queue research2026-10-13",
+      "depictsMovement": true,
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T15:14:20.376Z",
+        "loadedAt": "2026-10-13T15:14:20.376Z",
+        "evidence": "Original Grailzee listing explicitly identifies SOLO32-AJ-WH-R-S,32mm steel,white Arabic dial,date6,leather strap and signed steel buckle,year unknown/open papers. Seven original files inspected;600x750 front duplicate2 excluded. Actual white quarter-Arabic12/3/9 dial,round applied markers,railway minute track,red triangle12,blue hands,central seconds,date6,BREMONT/AUTOMATIC/LONDON printing and black strap with visible fibres. Actual exhibition back and decorated automatic rotor partly obscured by clear display holder; BREMONT rotor and CHRONOMETER/ATM rim fragments visible. Complete reference/calibre/jewel/identity/hardware code not independently legible. No physical SW1000 or branded calibre stamp asserted. Signed BREMONT pin buckle with visible marks; factory originality unproven. Manufacturer Solo32 collection independently establishes32mm family;37 RG specifies BE-36AE/date3/20mm lugs/5-screw back,34 LC specifies BE-92AV/date6/16mm lugs/4-screw back. Their calibre/dimensions do not transfer to32 or broadSolo. Broad family spans32/34/37/43mm; old43mm/BE-36AE/SW220-1 universal attribution withdrawn. No SW1000/BE-92AV or SW220-1/BE-36AE equivalence,other size/dial/strap SKU inheritance. Movement/back share one file; clasp view exposes peripheral exhibition back and is conservatively movement-bearing for external-only suppression. Dates,performance,materials and originality not independently proven.",
+        "imageDimensions": {
+          "width": 1997,
+          "height": 1997
+        },
+        "imageSha256": "6555481c32e9264f52938a190adb6f11089fcb5e59d890710fa3decdf01feee3"
+      }
+    },
+    {
+      "id": "queue-bremont-solo32-grailzee-caseback",
+      "brand": "BREMONT",
+      "references": [
+        "SOLO32-AJ-WH-R-S"
+      ],
+      "representativeFor": [
+        "Bremont Solo"
+      ],
+      "variant": "Grailzee exactSOLO32-AJ-WH-R-S /32mm white Arabic,black leather / calibre and year unverified",
+      "category": "caseback",
+      "title": "Solo32 white Arabic specimen — caseback",
+      "caption": "Actual exhibition back and rim inscriptions,partly obscured by display holder. Movement visible; full reference/calibre/identity not independently legible.",
+      "image": "https://cdn.shopify.com/s/files/1/0574/3175/2836/files/Bremont-Solo-32-White-Dial-32mm-Automatic-Ladies-Watch-SOLO32-AJ-WH-R-S-3.jpg?v=1718569404",
+      "source": "https://grailzee.com/products/bremont-solo-solo32-aj-wh-r-s",
+      "credit": "Grailzee",
+      "mediaKind": "photograph",
+      "origin": "inspected queue research2026-10-13",
+      "depictsMovement": true,
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T15:14:20.376Z",
+        "loadedAt": "2026-10-13T15:14:20.376Z",
+        "evidence": "Original Grailzee listing explicitly identifies SOLO32-AJ-WH-R-S,32mm steel,white Arabic dial,date6,leather strap and signed steel buckle,year unknown/open papers. Seven original files inspected;600x750 front duplicate2 excluded. Actual white quarter-Arabic12/3/9 dial,round applied markers,railway minute track,red triangle12,blue hands,central seconds,date6,BREMONT/AUTOMATIC/LONDON printing and black strap with visible fibres. Actual exhibition back and decorated automatic rotor partly obscured by clear display holder; BREMONT rotor and CHRONOMETER/ATM rim fragments visible. Complete reference/calibre/jewel/identity/hardware code not independently legible. No physical SW1000 or branded calibre stamp asserted. Signed BREMONT pin buckle with visible marks; factory originality unproven. Manufacturer Solo32 collection independently establishes32mm family;37 RG specifies BE-36AE/date3/20mm lugs/5-screw back,34 LC specifies BE-92AV/date6/16mm lugs/4-screw back. Their calibre/dimensions do not transfer to32 or broadSolo. Broad family spans32/34/37/43mm; old43mm/BE-36AE/SW220-1 universal attribution withdrawn. No SW1000/BE-92AV or SW220-1/BE-36AE equivalence,other size/dial/strap SKU inheritance. Movement/back share one file; clasp view exposes peripheral exhibition back and is conservatively movement-bearing for external-only suppression. Dates,performance,materials and originality not independently proven.",
+        "imageDimensions": {
+          "width": 1997,
+          "height": 1997
+        },
+        "imageSha256": "6555481c32e9264f52938a190adb6f11089fcb5e59d890710fa3decdf01feee3"
+      }
+    },
+    {
+      "id": "queue-bremont-solo32-grailzee-braceletClasp",
+      "brand": "BREMONT",
+      "references": [
+        "SOLO32-AJ-WH-R-S"
+      ],
+      "representativeFor": [
+        "Bremont Solo"
+      ],
+      "variant": "Grailzee exactSOLO32-AJ-WH-R-S /32mm white Arabic,black leather / calibre and year unverified",
+      "category": "braceletClasp",
+      "title": "Solo32 white Arabic specimen — braceletClasp",
+      "caption": "Actual BREMONT-signed pin buckle and black strap with visible fibres. Peripheral exhibition back included; hardware code and originality unproven.",
+      "image": "https://cdn.shopify.com/s/files/1/0574/3175/2836/files/Capa0sfsswaaws.png?v=1718569404",
+      "source": "https://grailzee.com/products/bremont-solo-solo32-aj-wh-r-s",
+      "credit": "Grailzee",
+      "mediaKind": "photograph",
+      "origin": "inspected queue research2026-10-13",
+      "depictsMovement": true,
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T15:14:20.376Z",
+        "loadedAt": "2026-10-13T15:14:20.376Z",
+        "evidence": "Original Grailzee listing explicitly identifies SOLO32-AJ-WH-R-S,32mm steel,white Arabic dial,date6,leather strap and signed steel buckle,year unknown/open papers. Seven original files inspected;600x750 front duplicate2 excluded. Actual white quarter-Arabic12/3/9 dial,round applied markers,railway minute track,red triangle12,blue hands,central seconds,date6,BREMONT/AUTOMATIC/LONDON printing and black strap with visible fibres. Actual exhibition back and decorated automatic rotor partly obscured by clear display holder; BREMONT rotor and CHRONOMETER/ATM rim fragments visible. Complete reference/calibre/jewel/identity/hardware code not independently legible. No physical SW1000 or branded calibre stamp asserted. Signed BREMONT pin buckle with visible marks; factory originality unproven. Manufacturer Solo32 collection independently establishes32mm family;37 RG specifies BE-36AE/date3/20mm lugs/5-screw back,34 LC specifies BE-92AV/date6/16mm lugs/4-screw back. Their calibre/dimensions do not transfer to32 or broadSolo. Broad family spans32/34/37/43mm; old43mm/BE-36AE/SW220-1 universal attribution withdrawn. No SW1000/BE-92AV or SW220-1/BE-36AE equivalence,other size/dial/strap SKU inheritance. Movement/back share one file; clasp view exposes peripheral exhibition back and is conservatively movement-bearing for external-only suppression. Dates,performance,materials and originality not independently proven.",
+        "imageDimensions": {
+          "width": 2000,
+          "height": 2000
+        },
+        "imageSha256": "86dd9ad3863a53647453f75b3295347717fe52d6235148287a1d50edff93e532"
+      }
     }
   ]
 }

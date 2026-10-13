@@ -723,6 +723,15 @@ test('WBY1112 exact blue specimen stays separate from Aquaracer and undocumented
  assert.equal(matchingPhotographs(photos,'Omega','WBY1112').filter(p=>p.id.startsWith('queue-tag-wby1112-')).length,0);
 });
 
+test('BremontSolo32 photos preserve family scope and movement-bearing external restrictions',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,externalOnly=false)=>matchingPhotographs(photos,'Bremont',ref,{externalOnly}).filter(p=>p.id.startsWith('queue-bremont-solo32-grailzee-'));
+ for(const ref of ['Bremont Solo','SOLO32-AJ-WH-R-S']){assert.deepEqual(get(ref).map(p=>p.category).sort(),['braceletClasp','caseback','front','movement']);assert.deepEqual(get(ref,true).map(p=>p.category),['front']);}
+ assert.ok(get('Bremont Solo').every(p=>p.matchScope==='representative variant'));
+ for(const ref of ['SOLO34-AJ-WH-R-S','SOLO32-LC-WH-R-S','SOLO37-RG','SOLO43'])assert.equal(get(ref).length,0,ref);
+ assert.equal(matchingPhotographs(photos,'Rolex','Bremont Solo').filter(p=>p.id.startsWith('queue-bremont-solo32-grailzee-')).length,0);
+});
+
 test('Rolex179174 representative26mm photos do not inherit neighbouring case references',()=>{
  const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
  const get=(ref,externalOnly=false)=>matchingPhotographs(photos,'Rolex',ref,{externalOnly}).filter(p=>p.id.startsWith('queue-rolex-179174-ewc-'));
