@@ -30747,6 +30747,99 @@
         },
         "imageSha256": "4717c897ad81dfa6f971f1fb540761944f497abfbe580bac0cd80cd8299cf0fa"
       }
+    },
+    {
+      "id": "queue-omega-21092422001001-front",
+      "brand": "OMEGA",
+      "references": [
+        "210.92.42.20.01.001"
+      ],
+      "representativeFor": [],
+      "variant": "EWC35665 exact210.92.42.20.01.001 / striped NATO,brown no-date dial,closed007 back / individual movement unverified",
+      "category": "front",
+      "title": "210.92.42.20.01.001 NATO specimen — front",
+      "caption": "Actual no-date dial,beige markers,broad arrow,red Seamaster text,skeleton hands and striped NATO. Exact NATO source; material is manufacturer attribution,not assay.",
+      "image": "https://images.europeanwatch.com/images/35/35665-1.jpg",
+      "source": "https://www.europeanwatch.com/watch/omega-21092422001001-seamaster-300m-007-co-axial-master-chronomet-35665",
+      "credit": "European Watch Company",
+      "mediaKind": "photograph",
+      "origin": "inspected queue research2026-10-13",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T09:13:17.990Z",
+        "loadedAt": "2026-10-13T09:13:17.990Z",
+        "evidence": "Exact manufacturer210.92.42.20.01.001 documents grade2 titanium42mm,12.99mm thick,20mm lugs,49.60mm lug-to-lug,brown aluminium dial/bezel,striped polyamide NATO/titanium pin buckle,Omega8806 automatic55h and300m factory rating. Original EWC35665 exact reference and eight actual800x640 files inspected. Front no-date dial with beige markers/broad arrow,red Seamaster text,skeleton hands,striped grey/beige/brown NATO. Closed NAIADLOCK,DIVER300M,300m1000ft,0552/923,A/007/62,007/broad-arrow back; film design markings not proof of military issue,limited count or manufacture date. Actual signed Omega pin buckle and007 loop under protective film; hardware code/originality unproven. No opened movement or physical8806 stamp. Dealer materials table saysstainlesssteel contrary to its description/manufacturer; excluded as accepted material evidence. Dealer14mm vs manufacturer12.99mm discrepancy retained. Papers May2020 date not manufacture proof. No mesh210.90 or other suffix,8800/ETA equivalence. Packaging excluded.",
+        "imageDimensions": {
+          "width": 800,
+          "height": 640
+        },
+        "imageSha256": "7639be072bad5fe969a6919bcd75da65fe8d5f865925feed79196ee8d75545e8"
+      }
+    },
+    {
+      "id": "queue-omega-21092422001001-caseback",
+      "brand": "OMEGA",
+      "references": [
+        "210.92.42.20.01.001"
+      ],
+      "representativeFor": [],
+      "variant": "EWC35665 exact210.92.42.20.01.001 / striped NATO,brown no-date dial,closed007 back / individual movement unverified",
+      "category": "caseback",
+      "title": "210.92.42.20.01.001 NATO specimen — caseback",
+      "caption": "Actual closed NAIADLOCK,DIVER300M,0552/923,A/007/62 and007/broad-arrow back. Design markings do not prove military issue,limited count or manufacture date. No movement shown.",
+      "image": "https://images.europeanwatch.com/images/35/35665-6.jpg",
+      "source": "https://www.europeanwatch.com/watch/omega-21092422001001-seamaster-300m-007-co-axial-master-chronomet-35665",
+      "credit": "European Watch Company",
+      "mediaKind": "photograph",
+      "origin": "inspected queue research2026-10-13",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T09:13:17.990Z",
+        "loadedAt": "2026-10-13T09:13:17.990Z",
+        "evidence": "Exact manufacturer210.92.42.20.01.001 documents grade2 titanium42mm,12.99mm thick,20mm lugs,49.60mm lug-to-lug,brown aluminium dial/bezel,striped polyamide NATO/titanium pin buckle,Omega8806 automatic55h and300m factory rating. Original EWC35665 exact reference and eight actual800x640 files inspected. Front no-date dial with beige markers/broad arrow,red Seamaster text,skeleton hands,striped grey/beige/brown NATO. Closed NAIADLOCK,DIVER300M,300m1000ft,0552/923,A/007/62,007/broad-arrow back; film design markings not proof of military issue,limited count or manufacture date. Actual signed Omega pin buckle and007 loop under protective film; hardware code/originality unproven. No opened movement or physical8806 stamp. Dealer materials table saysstainlesssteel contrary to its description/manufacturer; excluded as accepted material evidence. Dealer14mm vs manufacturer12.99mm discrepancy retained. Papers May2020 date not manufacture proof. No mesh210.90 or other suffix,8800/ETA equivalence. Packaging excluded.",
+        "imageDimensions": {
+          "width": 800,
+          "height": 640
+        },
+        "imageSha256": "719bb2a61b7a0d4a5f3d5a72ad15a41bd0a6401ae4ede57610022c399bb8d909"
+      }
+    },
+    {
+      "id": "queue-omega-21092422001001-braceletClasp",
+      "brand": "OMEGA",
+      "references": [
+        "210.92.42.20.01.001"
+      ],
+      "representativeFor": [],
+      "variant": "EWC35665 exact210.92.42.20.01.001 / striped NATO,brown no-date dial,closed007 back / individual movement unverified",
+      "category": "braceletClasp",
+      "title": "210.92.42.20.01.001 NATO specimen — braceletClasp",
+      "caption": "Actual Omega-signed pin buckle and striped NATO;007 loop beneath protective film. Hardware code/factory originality unproven.",
+      "image": "https://images.europeanwatch.com/images/35/35665-5.jpg",
+      "source": "https://www.europeanwatch.com/watch/omega-21092422001001-seamaster-300m-007-co-axial-master-chronomet-35665",
+      "credit": "European Watch Company",
+      "mediaKind": "photograph",
+      "origin": "inspected queue research2026-10-13",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T09:13:17.990Z",
+        "loadedAt": "2026-10-13T09:13:17.990Z",
+        "evidence": "Exact manufacturer210.92.42.20.01.001 documents grade2 titanium42mm,12.99mm thick,20mm lugs,49.60mm lug-to-lug,brown aluminium dial/bezel,striped polyamide NATO/titanium pin buckle,Omega8806 automatic55h and300m factory rating. Original EWC35665 exact reference and eight actual800x640 files inspected. Front no-date dial with beige markers/broad arrow,red Seamaster text,skeleton hands,striped grey/beige/brown NATO. Closed NAIADLOCK,DIVER300M,300m1000ft,0552/923,A/007/62,007/broad-arrow back; film design markings not proof of military issue,limited count or manufacture date. Actual signed Omega pin buckle and007 loop under protective film; hardware code/originality unproven. No opened movement or physical8806 stamp. Dealer materials table saysstainlesssteel contrary to its description/manufacturer; excluded as accepted material evidence. Dealer14mm vs manufacturer12.99mm discrepancy retained. Papers May2020 date not manufacture proof. No mesh210.90 or other suffix,8800/ETA equivalence. Packaging excluded.",
+        "imageDimensions": {
+          "width": 800,
+          "height": 640
+        },
+        "imageSha256": "8d76cf8152d8f2abf3bcc8da74047b1359a286560fc7ae43533dc5f7c1b8bdc5"
+      }
     }
   ]
 }

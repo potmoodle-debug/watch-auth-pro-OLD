@@ -9516,6 +9516,32 @@
           "finding": "Verified exact blue BA0042 specimen; base representative only."
         }
       }
+    },
+    {
+      "brand": "OMEGA",
+      "reference": "210.92.42.20.01.001",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-13T09:13:17.990Z",
+          "evidence": "Exact manufacturer210.92.42.20.01.001 documents grade2 titanium42mm,12.99mm thick,20mm lugs,49.60mm lug-to-lug,brown aluminium dial/bezel,striped polyamide NATO/titanium pin buckle,Omega8806 automatic55h and300m factory rating. Original EWC35665 exact reference and eight actual800x640 files inspected. Front no-date dial with beige markers/broad arrow,red Seamaster text,skeleton hands,striped grey/beige/brown NATO. Closed NAIADLOCK,DIVER300M,300m1000ft,0552/923,A/007/62,007/broad-arrow back; film design markings not proof of military issue,limited count or manufacture date. Actual signed Omega pin buckle and007 loop under protective film; hardware code/originality unproven. No opened movement or physical8806 stamp. Dealer materials table saysstainlesssteel contrary to its description/manufacturer; excluded as accepted material evidence. Dealer14mm vs manufacturer12.99mm discrepancy retained. Papers May2020 date not manufacture proof. No mesh210.90 or other suffix,8800/ETA equivalence. Packaging excluded.",
+          "finding": "Verified exact NATO specimen; originality unproven."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-13T09:13:17.990Z",
+          "evidence": "Exact manufacturer210.92.42.20.01.001 documents grade2 titanium42mm,12.99mm thick,20mm lugs,49.60mm lug-to-lug,brown aluminium dial/bezel,striped polyamide NATO/titanium pin buckle,Omega8806 automatic55h and300m factory rating. Original EWC35665 exact reference and eight actual800x640 files inspected. Front no-date dial with beige markers/broad arrow,red Seamaster text,skeleton hands,striped grey/beige/brown NATO. Closed NAIADLOCK,DIVER300M,300m1000ft,0552/923,A/007/62,007/broad-arrow back; film design markings not proof of military issue,limited count or manufacture date. Actual signed Omega pin buckle and007 loop under protective film; hardware code/originality unproven. No opened movement or physical8806 stamp. Dealer materials table saysstainlesssteel contrary to its description/manufacturer; excluded as accepted material evidence. Dealer14mm vs manufacturer12.99mm discrepancy retained. Papers May2020 date not manufacture proof. No mesh210.90 or other suffix,8800/ETA equivalence. Packaging excluded.",
+          "finding": "No opened movement or physical calibre stamp; gap remains."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-13T09:13:17.990Z",
+          "evidence": "Exact manufacturer210.92.42.20.01.001 documents grade2 titanium42mm,12.99mm thick,20mm lugs,49.60mm lug-to-lug,brown aluminium dial/bezel,striped polyamide NATO/titanium pin buckle,Omega8806 automatic55h and300m factory rating. Original EWC35665 exact reference and eight actual800x640 files inspected. Front no-date dial with beige markers/broad arrow,red Seamaster text,skeleton hands,striped grey/beige/brown NATO. Closed NAIADLOCK,DIVER300M,300m1000ft,0552/923,A/007/62,007/broad-arrow back; film design markings not proof of military issue,limited count or manufacture date. Actual signed Omega pin buckle and007 loop under protective film; hardware code/originality unproven. No opened movement or physical8806 stamp. Dealer materials table saysstainlesssteel contrary to its description/manufacturer; excluded as accepted material evidence. Dealer14mm vs manufacturer12.99mm discrepancy retained. Papers May2020 date not manufacture proof. No mesh210.90 or other suffix,8800/ETA equivalence. Packaging excluded.",
+          "finding": "Verified exact NATO specimen; originality unproven."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-13T09:13:17.990Z",
+          "evidence": "Exact manufacturer210.92.42.20.01.001 documents grade2 titanium42mm,12.99mm thick,20mm lugs,49.60mm lug-to-lug,brown aluminium dial/bezel,striped polyamide NATO/titanium pin buckle,Omega8806 automatic55h and300m factory rating. Original EWC35665 exact reference and eight actual800x640 files inspected. Front no-date dial with beige markers/broad arrow,red Seamaster text,skeleton hands,striped grey/beige/brown NATO. Closed NAIADLOCK,DIVER300M,300m1000ft,0552/923,A/007/62,007/broad-arrow back; film design markings not proof of military issue,limited count or manufacture date. Actual signed Omega pin buckle and007 loop under protective film; hardware code/originality unproven. No opened movement or physical8806 stamp. Dealer materials table saysstainlesssteel contrary to its description/manufacturer; excluded as accepted material evidence. Dealer14mm vs manufacturer12.99mm discrepancy retained. Papers May2020 date not manufacture proof. No mesh210.90 or other suffix,8800/ETA equivalence. Packaging excluded.",
+          "finding": "Verified exact NATO specimen; originality unproven."
+        }
+      }
     }
   ],
   "sourceRecordReviews": [
@@ -10899,6 +10925,11 @@
       "id": "UPDATE:TAGHEUER|WBY1112BA0042",
       "reviewedAt": "2026-10-13T09:03:39.271Z",
       "evidence": "Manufacturer exact WBY1112.BA0042 identifies Formula1 Solargraph blue opalin steel38mm/9.9mm/18.5mm lugs,TH-Polylight bezel,plain steel back,solar quartzTH50-00 and100m factory rating. Rasin original exact-reference used specimen gallery inspected: nine fetched640x640 files including repeated front, illustrative mannequin and packaging. Accepted distinct front1,back4,clasp5. Actual blue dial/bezel, white flange, round/shield markers, red seconds,date3,FORMULA1/SOLARGRAPH/SWISSMADE. Closed shield/check-pattern back; peripheral reference/identity too faint to independently assert. Steel folding clasp with TAGHeuer text, pushbuttons and visible protection/marks; originality/code unproven. No opened movement/physical TH50-00 stamp. Full-charge up-to10months and cell-life up-to15years are nominal manufacturer claims, not tested performance or ordinary disposable-cell equivalence. Watch Buyers only generic product image excluded; mannequin/packaging not category photos. No AquaracerWBP1112,otherFormula1suffixes or generic solar movement inheritance."
+    },
+    {
+      "id": "UPDATE:OMEGA|21092422001001",
+      "reviewedAt": "2026-10-13T09:13:17.990Z",
+      "evidence": "Exact manufacturer210.92.42.20.01.001 documents grade2 titanium42mm,12.99mm thick,20mm lugs,49.60mm lug-to-lug,brown aluminium dial/bezel,striped polyamide NATO/titanium pin buckle,Omega8806 automatic55h and300m factory rating. Original EWC35665 exact reference and eight actual800x640 files inspected. Front no-date dial with beige markers/broad arrow,red Seamaster text,skeleton hands,striped grey/beige/brown NATO. Closed NAIADLOCK,DIVER300M,300m1000ft,0552/923,A/007/62,007/broad-arrow back; film design markings not proof of military issue,limited count or manufacture date. Actual signed Omega pin buckle and007 loop under protective film; hardware code/originality unproven. No opened movement or physical8806 stamp. Dealer materials table saysstainlesssteel contrary to its description/manufacturer; excluded as accepted material evidence. Dealer14mm vs manufacturer12.99mm discrepancy retained. Papers May2020 date not manufacture proof. No mesh210.90 or other suffix,8800/ETA equivalence. Packaging excluded."
     }
   ]
 }

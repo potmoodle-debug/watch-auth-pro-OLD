@@ -86,3 +86,5 @@ for(const ref of ['WBY1112','WBY1112.BA0042']){
 }
 assert.equal(matchingRule(rules,'TAG Heuer','WBY1112.FT0000'),null);
 assert.equal(matchingRule(rules,'Omega','WBY1112'),null);
+
+const queuedOmega21092=matchingRule(rules,'Omega','21092422001001');assert.ok(queuedOmega21092.manualReview);assert.equal(movementResult(queuedOmega21092,'8806').level,'match');assert.equal(movementResult(queuedOmega21092,'8800').level,'caution');assert.equal(movementResult(queuedOmega21092,'ETA2892').level,'caution');assert.match(queuedOmega21092.caseDetails,/12.99mm/);assert.equal(matchingRule(rules,'Tudor','21092422001001'),null);
