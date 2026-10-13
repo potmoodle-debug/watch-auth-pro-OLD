@@ -6,6 +6,11 @@ const before=performanceStats(30,60,new Date('2026-10-13T10:00:00+01:00'),plan),
 assert.equal(before.expected,18);assert.equal(during.expected,before.expected);assert.equal(during.rate,before.rate);assert.equal(after.rate,15);assert.equal(after.finish,'13:30');
 assert.equal(performanceStats(0,60,new Date('2026-10-13T07:00:00+01:00'),plan).against,'Before shift');
 assert.equal(performanceStats(60,60,new Date('2026-10-13T11:00:00+01:00'),plan).finish,'Target reached');
+const straight={start:'09:00',end:'17:00',breaks:[]},noon=new Date('2026-10-13T12:00:00+01:00');
+assert.equal(performanceStats(10,35,noon,straight).finish,'19:30 late');
+assert.equal(performanceStats(10,55,noon,straight).finish,'1:30 (+1 day) late');
+assert.equal(performanceStats(10,27,noon,straight).finish,'17:06 late');
+assert.equal(performanceStats(10,26,noon,straight).finish,'16:48');
 assert.throws(()=>workdayBlocks({...plan,breaks:[{start:'09:00',end:'11:00'},{start:'10:00',end:'12:00'}]}),/overlap/);
 assert.throws(()=>workdayBlocks({...plan,breaks:[{start:'07:00',end:'08:30'}]}),/within/);
 assert.throws(()=>workdayBlocks({...plan,end:'08:00'}),/after/);
