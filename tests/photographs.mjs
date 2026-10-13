@@ -722,3 +722,12 @@ test('WBY1112 exact blue specimen stays separate from Aquaracer and undocumented
  for(const ref of ['WBP1112','WBP1112.FT6199','WBY1111.BA0042','WBY1112.FT0000'])assert.equal(get(ref).length,0,ref);
  assert.equal(matchingPhotographs(photos,'Omega','WBY1112').filter(p=>p.id.startsWith('queue-tag-wby1112-')).length,0);
 });
+
+test('Omega007 NATO specimen does not supply mesh or neighbouring suffix coverage',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,externalOnly=false)=>matchingPhotographs(photos,'Omega',ref,{externalOnly}).filter(p=>p.id.startsWith('queue-omega-21092422001001-'));
+ for(const ref of ['210.92.42.20.01.001','21092422001001']){assert.deepEqual(get(ref).map(p=>p.category).sort(),['braceletClasp','caseback','front']);assert.equal(get(ref,true).length,3);}
+ for(const ref of ['21090422001001','21092422010001','21092422001002','Seamaster007'])assert.equal(get(ref).length,0,ref);
+ assert.equal(matchingPhotographs(photos,'Tudor','21092422001001').filter(p=>p.id.startsWith('queue-omega-21092422001001-')).length,0);
+ assert.match(get('21092422001001').find(p=>p.category==='caseback').caption,/do not prove military issue/);
+});
