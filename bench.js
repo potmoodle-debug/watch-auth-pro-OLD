@@ -130,6 +130,10 @@ function serialGuidance(){
  return lines.filter(x=>x.startsWith('ALERT:'));
 }
 function setIntelligenceExpanded(expanded){$('intelligenceContent').hidden=!expanded;$('lookup').textContent=expanded?'Hide watch information':'Watch information';$('lookup').setAttribute('aria-expanded',String(expanded));}
+function renderCurrentPhotographs(s=safetyRule(intelligence.safety,$('brand').value,$('reference').value,rule?.family||rule?.model||'')){
+ const externalOnly=!!s||selectedConditions().includes('External only');
+ const photos=matchingPhotographs(photographs,$('brand').value,$('reference').value,{externalOnly});$('images').hidden=false;renderPhotoGallery($('visuals'),photos,{externalOnly});
+}
 function renderInfo(){
  const s=enforceSafety(),sample=samples[normalize($('brand').value)+'|'+normalize($('reference').value)];
  if($('watchInfo').hidden)setIntelligenceExpanded(true);$('watchInfo').hidden=false;$('model').textContent=rule?.family||rule?.model||sample?.model||'Reference not mapped';
@@ -143,7 +147,7 @@ function renderInfo(){
  $('provenance').innerHTML=rule?'<p>'+esc(rule.source||'Imported WatchAuthPro mapping')+'</p><p>'+link(rule.sourceUrl,'Open original source')+'</p><p class="muted">'+esc(rule.confidence||'Original confidence not specified')+' · '+esc(rule.benchStatus==='verified'?'Reviewed in shared reference database':'Imported from existing WatchAuthPro research; not newly verified')+'</p>':'No source attached to an exact reference record.';
  if(rule?.technicalDetail){$('provenance').innerHTML+=Object.entries(rule.technicalDetail).filter(([k,v])=>typeof v==='string').map(([k,v])=>'<p><strong>'+esc(k)+':</strong> '+esc(v)+'</p>').join('');$('provenance').innerHTML+=(rule.sources||[]).map(x=>'<p>'+link(x.url,x.title)+'</p>').join('');}
  $('calibreOptions').innerHTML=(rule?.calibre||[]).map(x=>'<option value="'+esc(x)+'"></option>').join('');
- const externalOnly=!!s;const photos=matchingPhotographs(photographs,$('brand').value,$('reference').value,{externalOnly});$('images').hidden=false;renderPhotoGallery($('visuals'),photos,{externalOnly});
+ renderCurrentPhotographs(s);
  const warnings=serialGuidance();$('alerts').innerHTML=warnings.map(x=>'<div class="notice stop">'+esc(x)+'</div>').join('');
  compare();generate();
 }
@@ -239,7 +243,7 @@ $('brand').addEventListener('input',syncBrandButtons);
 $('identifyPanel').addEventListener('click',e=>{const b=e.target.closest('[data-brand-choice]');if(!b||pending||saved)return;$('brand').value=b.dataset.brandChoice;$('brand').dispatchEvent(new Event('input',{bubbles:true}));$('reference').focus();});
 inputIds.forEach(id=>$(id).addEventListener('input',()=>{if(pending||saved)return;if(['brand','reference'].includes(id)){identity=null;rule=null;lookupVersion++;$('watchInfo').hidden=true;$('calibreChoices').hidden=true;setIntelligenceExpanded(false);$('teamNotes').textContent='';}renderReplicaFlags();const s=enforceSafety();if(s&&$('watchInfo').hidden)renderInfo();compare();if(!noteDirty)generate();autosave();if(['serial','clasp'].includes(id)&&identity){clearTimeout(serialTimer);serialTimer=setTimeout(()=>lookup().catch(e=>status(e.message,true)),400);}}));
 $('omegaSeries').addEventListener('change',()=>{serialGuidance();});
-document.querySelectorAll('#conditions input').forEach(x=>x.addEventListener('change',()=>{enforceSafety();compare();generate();autosave();}));
+document.querySelectorAll('#conditions input').forEach(x=>x.addEventListener('change',()=>{enforceSafety();if(!$('watchInfo').hidden)renderCurrentPhotographs();compare();generate();autosave();}));
 document.querySelectorAll('#componentChecks select').forEach(x=>x.addEventListener('change',autosave));
 $('note').addEventListener('input',()=>{noteDirty=true;autosave();});
 bind('lookup',async()=>{if(identity&&!$('watchInfo').hidden){setIntelligenceExpanded($('intelligenceContent').hidden);return;}await lookup();});$('reference').addEventListener('keydown',e=>{if(e.key==='Enter')action($('lookup'),lookup);});
