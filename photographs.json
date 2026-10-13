@@ -31171,6 +31171,105 @@
         },
         "imageSha256": "6cd6bd057e1c3edb4c3f98b8d7ad30b12fa7c2f06550043166dfb74ffdd18e9b"
       }
+    },
+    {
+      "id": "queue-rolex-179174-ewc-front",
+      "brand": "ROLEX",
+      "references": [
+        "179174"
+      ],
+      "representativeFor": [
+        "179174"
+      ],
+      "variant": "EWC40182 / mother-of-pearl diamond dial,Jubilee / source2007 attribution,movement unverified",
+      "category": "front",
+      "title": "179174 mother-of-pearl Jubilee specimen — front",
+      "caption": "Actual mother-of-pearl-effect dial with ten stone-set markers,date/cyclops,central seconds,fluted bezel and Jubilee. Representative EWC40182 variant; source material/originality require corroboration.",
+      "image": "https://images.europeanwatch.com/images/40/40182-1.jpg",
+      "source": "https://www.europeanwatch.com/watch/rolex-179174-lady-datejust-mop-diamond-dial-jubilee-ss-ss-40182",
+      "credit": "European Watch Company",
+      "mediaKind": "photograph",
+      "origin": "inspected queue research2026-10-13",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T14:35:20.267Z",
+        "loadedAt": "2026-10-13T14:35:20.267Z",
+        "evidence": "Original EWC40182 explicitly identifies179174. Eight actual1080x864 gallery files inspected; accepted front0,openclasp5,closedback6. Actual mother-of-pearl-effect dial with ten stone-set markers,crown12,date3/cyclops,central seconds,fluted bezel and Jubilee bracelet. Closed plain screw back; case reference/serial not independently visible. Open clasp signed Rolex,Geneva,Swiss Made and faint STEELINOX; additional hardware/date codes too faint to assert. Source26mm,10.5mm,steel case/bracelet and white-gold bezel are seller specifications,not independent measurement/assay. SourceZ-series2007 and December2007 papers are attribution,not individual manufacture-date proof. No opened movement or physical2235 stamp. Separate Bucherer Rolex CPO1507-535-7 exact179174 white Roman dial2014 record corroborates26mm and2235; its CPO certification/dial/year do not transfer to EWC or user specimens. Generic modern28mm marketing on that page is not exact179174 specification. No2236/2135/ETA equivalence or279174/79174/178274/suffix inheritance. Packaging excluded; individual movement/originality/full period remain unresolved.",
+        "imageDimensions": {
+          "width": 1080,
+          "height": 864
+        },
+        "imageSha256": "56a96a31c7c987771ee1084442f7e9fb5667dfc150abf454d9aa2c617fde9771"
+      }
+    },
+    {
+      "id": "queue-rolex-179174-ewc-caseback",
+      "brand": "ROLEX",
+      "references": [
+        "179174"
+      ],
+      "representativeFor": [
+        "179174"
+      ],
+      "variant": "EWC40182 / mother-of-pearl diamond dial,Jubilee / source2007 attribution,movement unverified",
+      "category": "caseback",
+      "title": "179174 mother-of-pearl Jubilee specimen — caseback",
+      "caption": "Actual plain closed screw back and Jubilee attachment. Case reference/serial not independently visible in this view; no movement shown.",
+      "image": "https://images.europeanwatch.com/images/40/40182-7.jpg",
+      "source": "https://www.europeanwatch.com/watch/rolex-179174-lady-datejust-mop-diamond-dial-jubilee-ss-ss-40182",
+      "credit": "European Watch Company",
+      "mediaKind": "photograph",
+      "origin": "inspected queue research2026-10-13",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T14:35:20.267Z",
+        "loadedAt": "2026-10-13T14:35:20.267Z",
+        "evidence": "Original EWC40182 explicitly identifies179174. Eight actual1080x864 gallery files inspected; accepted front0,openclasp5,closedback6. Actual mother-of-pearl-effect dial with ten stone-set markers,crown12,date3/cyclops,central seconds,fluted bezel and Jubilee bracelet. Closed plain screw back; case reference/serial not independently visible. Open clasp signed Rolex,Geneva,Swiss Made and faint STEELINOX; additional hardware/date codes too faint to assert. Source26mm,10.5mm,steel case/bracelet and white-gold bezel are seller specifications,not independent measurement/assay. SourceZ-series2007 and December2007 papers are attribution,not individual manufacture-date proof. No opened movement or physical2235 stamp. Separate Bucherer Rolex CPO1507-535-7 exact179174 white Roman dial2014 record corroborates26mm and2235; its CPO certification/dial/year do not transfer to EWC or user specimens. Generic modern28mm marketing on that page is not exact179174 specification. No2236/2135/ETA equivalence or279174/79174/178274/suffix inheritance. Packaging excluded; individual movement/originality/full period remain unresolved.",
+        "imageDimensions": {
+          "width": 1080,
+          "height": 864
+        },
+        "imageSha256": "936ce4db4ce2cad0f89f936f1c945ce0feddc93505d9a158053f1337b807f8dc"
+      }
+    },
+    {
+      "id": "queue-rolex-179174-ewc-braceletClasp",
+      "brand": "ROLEX",
+      "references": [
+        "179174"
+      ],
+      "representativeFor": [
+        "179174"
+      ],
+      "variant": "EWC40182 / mother-of-pearl diamond dial,Jubilee / source2007 attribution,movement unverified",
+      "category": "braceletClasp",
+      "title": "179174 mother-of-pearl Jubilee specimen — braceletClasp",
+      "caption": "Actual open Jubilee folding clasp signed Rolex/Geneva/Swiss Made,with faint STEELINOX. Complete hardware/date code and factory originality unproven.",
+      "image": "https://images.europeanwatch.com/images/40/40182-6.jpg",
+      "source": "https://www.europeanwatch.com/watch/rolex-179174-lady-datejust-mop-diamond-dial-jubilee-ss-ss-40182",
+      "credit": "European Watch Company",
+      "mediaKind": "photograph",
+      "origin": "inspected queue research2026-10-13",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T14:35:20.267Z",
+        "loadedAt": "2026-10-13T14:35:20.267Z",
+        "evidence": "Original EWC40182 explicitly identifies179174. Eight actual1080x864 gallery files inspected; accepted front0,openclasp5,closedback6. Actual mother-of-pearl-effect dial with ten stone-set markers,crown12,date3/cyclops,central seconds,fluted bezel and Jubilee bracelet. Closed plain screw back; case reference/serial not independently visible. Open clasp signed Rolex,Geneva,Swiss Made and faint STEELINOX; additional hardware/date codes too faint to assert. Source26mm,10.5mm,steel case/bracelet and white-gold bezel are seller specifications,not independent measurement/assay. SourceZ-series2007 and December2007 papers are attribution,not individual manufacture-date proof. No opened movement or physical2235 stamp. Separate Bucherer Rolex CPO1507-535-7 exact179174 white Roman dial2014 record corroborates26mm and2235; its CPO certification/dial/year do not transfer to EWC or user specimens. Generic modern28mm marketing on that page is not exact179174 specification. No2236/2135/ETA equivalence or279174/79174/178274/suffix inheritance. Packaging excluded; individual movement/originality/full period remain unresolved.",
+        "imageDimensions": {
+          "width": 1080,
+          "height": 864
+        },
+        "imageSha256": "d20f599c3803a5bbfef1b0b73bf824c204726e80432161743b93117d0d560dcf"
+      }
     }
   ]
 }
