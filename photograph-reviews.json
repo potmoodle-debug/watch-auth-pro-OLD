@@ -9724,6 +9724,32 @@
           "finding": "Inspected32mm specimen only; calibre/generation limits and external-only suppression retained."
         }
       }
+    },
+    {
+      "brand": "OMEGA",
+      "reference": "2252.50.00",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-13T15:31:42.714Z",
+          "evidence": "Original Omega exact2252.50.00 record specifies36.25mm steel,black dial,Omega1120 self-winding44h,300m factory rating,steel foldover clasp/diver extension andapprox141g total product weight. Weight/rating/reserve are nominal specifications,not authentication/current-performance thresholds. Original SWE70407 exact2252.50.00 gallery contains nine fetched actual files;front2,closedback6,clasp8 inspected and accepted. Actual black wave dial,sword hands,date3,red seconds tip,minute bezel,helium valve10 and steel bracelet. Closed seahorse/wave Seamaster back and signed Omega Seamaster Professional clasp with pushbuttons. Partial lug identity fragment/endlink marking visible; no full serial,manufacture date or complete bracelet-code/originality claim. Diver extension not independently unfolded in selected image. No opened movement or physical1120 stamp; no generic ETA2892/2500 equivalence. Duplicate front crops0/1 excluded. No2254.50.00,quartz2262.50.00,AquaTerra2502.50.00 or broadSeamaster inheritance. Full historical period/material assay/factory originality unresolved.",
+          "finding": "Verified exact seller-identified midsize specimen; originality unproven."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-13T15:31:42.714Z",
+          "evidence": "Original Omega exact2252.50.00 record specifies36.25mm steel,black dial,Omega1120 self-winding44h,300m factory rating,steel foldover clasp/diver extension andapprox141g total product weight. Weight/rating/reserve are nominal specifications,not authentication/current-performance thresholds. Original SWE70407 exact2252.50.00 gallery contains nine fetched actual files;front2,closedback6,clasp8 inspected and accepted. Actual black wave dial,sword hands,date3,red seconds tip,minute bezel,helium valve10 and steel bracelet. Closed seahorse/wave Seamaster back and signed Omega Seamaster Professional clasp with pushbuttons. Partial lug identity fragment/endlink marking visible; no full serial,manufacture date or complete bracelet-code/originality claim. Diver extension not independently unfolded in selected image. No opened movement or physical1120 stamp; no generic ETA2892/2500 equivalence. Duplicate front crops0/1 excluded. No2254.50.00,quartz2262.50.00,AquaTerra2502.50.00 or broadSeamaster inheritance. Full historical period/material assay/factory originality unresolved.",
+          "finding": "No opened movement or physical1120 stamp; further research remains open."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-13T15:31:42.714Z",
+          "evidence": "Original Omega exact2252.50.00 record specifies36.25mm steel,black dial,Omega1120 self-winding44h,300m factory rating,steel foldover clasp/diver extension andapprox141g total product weight. Weight/rating/reserve are nominal specifications,not authentication/current-performance thresholds. Original SWE70407 exact2252.50.00 gallery contains nine fetched actual files;front2,closedback6,clasp8 inspected and accepted. Actual black wave dial,sword hands,date3,red seconds tip,minute bezel,helium valve10 and steel bracelet. Closed seahorse/wave Seamaster back and signed Omega Seamaster Professional clasp with pushbuttons. Partial lug identity fragment/endlink marking visible; no full serial,manufacture date or complete bracelet-code/originality claim. Diver extension not independently unfolded in selected image. No opened movement or physical1120 stamp; no generic ETA2892/2500 equivalence. Duplicate front crops0/1 excluded. No2254.50.00,quartz2262.50.00,AquaTerra2502.50.00 or broadSeamaster inheritance. Full historical period/material assay/factory originality unresolved.",
+          "finding": "Verified exact seller-identified midsize specimen; originality unproven."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-13T15:31:42.714Z",
+          "evidence": "Original Omega exact2252.50.00 record specifies36.25mm steel,black dial,Omega1120 self-winding44h,300m factory rating,steel foldover clasp/diver extension andapprox141g total product weight. Weight/rating/reserve are nominal specifications,not authentication/current-performance thresholds. Original SWE70407 exact2252.50.00 gallery contains nine fetched actual files;front2,closedback6,clasp8 inspected and accepted. Actual black wave dial,sword hands,date3,red seconds tip,minute bezel,helium valve10 and steel bracelet. Closed seahorse/wave Seamaster back and signed Omega Seamaster Professional clasp with pushbuttons. Partial lug identity fragment/endlink marking visible; no full serial,manufacture date or complete bracelet-code/originality claim. Diver extension not independently unfolded in selected image. No opened movement or physical1120 stamp; no generic ETA2892/2500 equivalence. Duplicate front crops0/1 excluded. No2254.50.00,quartz2262.50.00,AquaTerra2502.50.00 or broadSeamaster inheritance. Full historical period/material assay/factory originality unresolved.",
+          "finding": "Verified exact seller-identified midsize specimen; originality unproven."
+        }
+      }
     }
   ],
   "sourceRecordReviews": [
@@ -11147,6 +11173,11 @@
       "id": "UPDATE:BREMONT|SOLO32AJWHRS",
       "reviewedAt": "2026-10-13T15:14:20.376Z",
       "evidence": "Original Grailzee listing explicitly identifies SOLO32-AJ-WH-R-S,32mm steel,white Arabic dial,date6,leather strap and signed steel buckle,year unknown/open papers. Seven original files inspected;600x750 front duplicate2 excluded. Actual white quarter-Arabic12/3/9 dial,round applied markers,railway minute track,red triangle12,blue hands,central seconds,date6,BREMONT/AUTOMATIC/LONDON printing and black strap with visible fibres. Actual exhibition back and decorated automatic rotor partly obscured by clear display holder; BREMONT rotor and CHRONOMETER/ATM rim fragments visible. Complete reference/calibre/jewel/identity/hardware code not independently legible. No physical SW1000 or branded calibre stamp asserted. Signed BREMONT pin buckle with visible marks; factory originality unproven. Manufacturer Solo32 collection independently establishes32mm family;37 RG specifies BE-36AE/date3/20mm lugs/5-screw back,34 LC specifies BE-92AV/date6/16mm lugs/4-screw back. Their calibre/dimensions do not transfer to32 or broadSolo. Broad family spans32/34/37/43mm; old43mm/BE-36AE/SW220-1 universal attribution withdrawn. No SW1000/BE-92AV or SW220-1/BE-36AE equivalence,other size/dial/strap SKU inheritance. Movement/back share one file; clasp view exposes peripheral exhibition back and is conservatively movement-bearing for external-only suppression. Dates,performance,materials and originality not independently proven."
+    },
+    {
+      "id": "UPDATE:OMEGA|22525000",
+      "reviewedAt": "2026-10-13T15:31:42.714Z",
+      "evidence": "Original Omega exact2252.50.00 record specifies36.25mm steel,black dial,Omega1120 self-winding44h,300m factory rating,steel foldover clasp/diver extension andapprox141g total product weight. Weight/rating/reserve are nominal specifications,not authentication/current-performance thresholds. Original SWE70407 exact2252.50.00 gallery contains nine fetched actual files;front2,closedback6,clasp8 inspected and accepted. Actual black wave dial,sword hands,date3,red seconds tip,minute bezel,helium valve10 and steel bracelet. Closed seahorse/wave Seamaster back and signed Omega Seamaster Professional clasp with pushbuttons. Partial lug identity fragment/endlink marking visible; no full serial,manufacture date or complete bracelet-code/originality claim. Diver extension not independently unfolded in selected image. No opened movement or physical1120 stamp; no generic ETA2892/2500 equivalence. Duplicate front crops0/1 excluded. No2254.50.00,quartz2262.50.00,AquaTerra2502.50.00 or broadSeamaster inheritance. Full historical period/material assay/factory originality unresolved."
     }
   ]
 }

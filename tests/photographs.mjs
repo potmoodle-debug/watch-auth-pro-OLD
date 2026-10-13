@@ -723,6 +723,14 @@ test('WBY1112 exact blue specimen stays separate from Aquaracer and undocumented
  assert.equal(matchingPhotographs(photos,'Omega','WBY1112').filter(p=>p.id.startsWith('queue-tag-wby1112-')).length,0);
 });
 
+test('Omega2252.50.00 midsize photographs exclude larger,quartz andAquaTerra references',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,externalOnly=false)=>matchingPhotographs(photos,'Omega',ref,{externalOnly}).filter(p=>p.id.startsWith('queue-omega-22525000-swe-'));
+ for(const ref of ['2252.50.00','22525000']){assert.deepEqual(get(ref).map(p=>p.category).sort(),['braceletClasp','caseback','front']);assert.equal(get(ref,true).length,3);}
+ for(const ref of ['2254.50.00','2262.50.00','2502.50.00','2252.50','SeamasterDiver'])assert.equal(get(ref).length,0,ref);
+ assert.equal(matchingPhotographs(photos,'Rolex','22525000').filter(p=>p.id.startsWith('queue-omega-22525000-swe-')).length,0);
+});
+
 test('BremontSolo32 photos preserve family scope and movement-bearing external restrictions',()=>{
  const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
  const get=(ref,externalOnly=false)=>matchingPhotographs(photos,'Bremont',ref,{externalOnly}).filter(p=>p.id.startsWith('queue-bremont-solo32-grailzee-'));
