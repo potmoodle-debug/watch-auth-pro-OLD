@@ -723,6 +723,16 @@ test('WBY1112 exact blue specimen stays separate from Aquaracer and undocumented
  assert.equal(matchingPhotographs(photos,'Omega','WBY1112').filter(p=>p.id.startsWith('queue-tag-wby1112-')).length,0);
 });
 
+test('Piaget90802 champagne physical9P2 photos retain execution and external-only boundaries',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,externalOnly=false)=>matchingPhotographs(photos,'Piaget',ref,{externalOnly}).filter(p=>p.id.startsWith('queue-piaget-90802-lps-'));
+ assert.deepEqual(get('90802').map(p=>p.category).sort(),['braceletClasp','caseback','front','movement']);assert.equal(get('90802',true).length,3);assert.ok(get('90802',true).every(p=>p.category!=='movement'));
+ assert.ok(get('90802').every(p=>p.matchScope==='representative variant'));
+ for(const ref of ['90802G1','90802D','90803'])assert.equal(get(ref).length,0,ref);
+ assert.equal(matchingPhotographs(photos,'Cartier','90802').filter(p=>p.id.startsWith('queue-piaget-90802-lps-')).length,0);
+ assert.match(get('90802').find(p=>p.category==='braceletClasp').caption,/No clear Piaget signature/);
+});
+
 test('A37320 black mesh specimen remains representative and excludes unsupported aliases',()=>{
  const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
  const get=(ref,externalOnly=false)=>matchingPhotographs(photos,'Breitling',ref,{externalOnly}).filter(p=>p.id.startsWith('queue-breitling-a37320-kibble-'));

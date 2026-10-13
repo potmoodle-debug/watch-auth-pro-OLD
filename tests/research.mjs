@@ -94,3 +94,5 @@ for(const ref of ['L37644','L37644066','L37644500','L37644507','L37644907','L376
  const r=matchingRule(rules,'Longines',ref);assert.ok(r.manualReview);assert.equal(movementResult(r,'L888.6').level,'match');assert.equal(movementResult(r,'L888').level,'caution');assert.equal(movementResult(r,'L888.5').level,'caution');
 }
 assert.equal(matchingRule(rules,'Longines','L37644506'),null);assert.equal(matchingRule(rules,'Longines','L37644906'),null);assert.equal(matchingRule(rules,'Omega','L37644066'),null);assert.notEqual(matchingRule(rules,'Longines','L37644500').variant,matchingRule(rules,'Longines','L37644509').variant);
+
+const queuedPiaget=matchingRule(rules,'Piaget','90802');assert.ok(queuedPiaget.manualReview);assert.equal(movementResult(queuedPiaget,'9P2').level,'match');assert.equal(movementResult(queuedPiaget,'9P').level,'caution');assert.equal(movementResult(queuedPiaget,'9PS').level,'caution');assert.equal(matchingRule(rules,'Piaget','90802G1'),null);assert.equal(matchingRule(rules,'Cartier','90802'),null);

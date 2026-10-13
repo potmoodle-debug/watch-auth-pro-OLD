@@ -4,30 +4,30 @@
   "counting": "Stored identifier keys deduplicate punctuation/case only; documented M-prefixed aliases and base/catalogue identifiers remain separate lookup keys. Patterns are source records, never claimed as enumerated exact references. Textual model research is not photograph verification. verifiedAssets counts category/gallery entries; verifiedImageUrls counts distinct stored URLs; verifiedImageFiles deduplicates inspected file hashes (falling back to URL when unavailable).",
   "counts": {
     "repositoryRuleRecords": 937,
-    "repositoryResearchUpdates": 81,
-    "sourceRuleRecords": 1018,
+    "repositoryResearchUpdates": 82,
+    "sourceRuleRecords": 1019,
     "sharedReferenceFactRows": 982,
     "sharedVerifiedTextRows": 47,
     "importedCatalogueVariantRecords": 1465,
-    "sourceInventoryRecords": 2483,
-    "storedIdentifierKeys": 2273,
+    "sourceInventoryRecords": 2484,
+    "storedIdentifierKeys": 2274,
     "sourceRecordsUnreviewed": 2219,
     "identifierKeysUnreviewed": 1936,
-    "identifierKeysReviewed": 337,
-    "sourceRecordsReviewed": 264,
-    "reviewedIdentifierCategoryPairs": 1348,
-    "catalogueAssets": 922,
+    "identifierKeysReviewed": 338,
+    "sourceRecordsReviewed": 265,
+    "reviewedIdentifierCategoryPairs": 1352,
+    "catalogueAssets": 926,
     "legacyAssets": 31,
-    "verifiedAssets": 887,
-    "verifiedImageUrls": 841,
-    "verifiedImageFiles": 840,
+    "verifiedAssets": 891,
+    "verifiedImageUrls": 845,
+    "verifiedImageFiles": 844,
     "pendingAssets": 26,
     "rejectedAssets": 9,
     "verifiedIdentifierKeysByCategory": {
-      "front": 273,
-      "movement": 103,
-      "caseback": 240,
-      "braceletClasp": 234
+      "front": 274,
+      "movement": 104,
+      "caseback": 241,
+      "braceletClasp": 235
     },
     "byBrand": {
       "TUDOR": {
@@ -328,6 +328,16 @@
           "movement": 0,
           "caseback": 0,
           "braceletClasp": 0
+        }
+      },
+      "PIAGET": {
+        "storedIdentifierKeys": 1,
+        "unreviewed": 0,
+        "verifiedByCategory": {
+          "front": 1,
+          "movement": 1,
+          "caseback": 1,
+          "braceletClasp": 1
         }
       },
       "RAYMONDWEIL": {
@@ -1431,6 +1441,7 @@
     {"id":"UPDATE:LONGINES|L37644909","brand":"LONGINES","key":"L3.764.4.90.9","scope":"reference rule","status":"unreviewed for photographs"},
     {"id":"UPDATE:LONGINES|L37644069","brand":"LONGINES","key":"L3.764.4.06.9","scope":"reference rule","status":"unreviewed for photographs"},
     {"id":"UPDATE:BREITLING|A37320","brand":"BREITLING","key":"A37320","scope":"reference rule","status":"reviewed for photographs"},
+    {"id":"UPDATE:PIAGET|90802","brand":"PIAGET","key":"90802","scope":"reference rule","status":"reviewed for photographs"},
     {"id":"CATALOGUE:M52506-0003","brand":"ROLEX","key":"m52506-0003","scope":"catalogue variant","status":"unreviewed for photographs"},
     {"id":"CATALOGUE:M52508-0002","brand":"ROLEX","key":"m52508-0002","scope":"catalogue variant","status":"unreviewed for photographs"},
     {"id":"CATALOGUE:M52508-0005","brand":"ROLEX","key":"m52508-0005","scope":"catalogue variant","status":"unreviewed for photographs"},
@@ -5092,6 +5103,7 @@
     {"brand":"Oris","reference":"7759","aliases":["7759"],"origins":["rules"],"sources":[],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
     {"brand":"Oris","reference":"7786 40","aliases":["7786 40"],"origins":["rules"],"sources":[],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
     {"brand":"Patek Philippe","reference":"4910/1200","aliases":["4910/1200"],"origins":["rules"],"sources":[],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
+    {"brand":"PIAGET","reference":"90802","aliases":["90802"],"origins":["research updates"],"sources":["https://www.lepetitsuissewatches.com/products/piaget-tank-normale-ultra-thin-18k-yellow-gold-ref-90802"],"reviewStatus":"reviewed","categories":{"front":{"status":"verified","photographIds":["queue-piaget-90802-lps-front"],"candidateIds":["queue-piaget-90802-lps-front"],"review":{"reviewedAt":"2026-10-13T14:12:17.524Z","evidence":"Le Petit Suisse original exact90802 listing and fifteen actual1600x1600 images inspected. Accepted front0,movement13,closedback10,buckle6. Champagne Roman two-hand dial with rectangular railway minute track,PIAGET/SWISS printing,dauphine hands with visible surface loss and blue cabochon crown. Closed four-screw back legibly90802. Opened movement physically marked9P2,PIAGET,18JEWELS,EIGHTEEN,ADJUSTED5POSITIONS/TO TEMPERATURE and A/R regulator; actual bridge and winding-wheel construction observed. Inner back14 PIAGET/SWISS/750,hallmarks and81 inspected but not adopted as manufacture-date proof. SWISS750 pin buckle has visible wear; no clear Piaget signature seen, factory originality/purity not independently proven. Seller claims18k yellow gold23x29mm,recent service,original dial/crown/buckle and new handmade Belgian ostrich strap; these remain source attribution,service/performance not independently validated. Actual replacement strap underside Le Petit Suisse visible. Antiquorum324-471 attributes9P to separate white-gold blue90802,circa1975 with double deployant clasp; not this champagne9P2 specimen. No9P/9PS/9P2 equivalence,90802G1/D alias,Cartier-brand or other material/bracelet inheritance. Full historical interval and as-issued originality remain unresolved.","finding":"Verified representative champagne specimen; originality unproven."}},"movement":{"status":"verified","photographIds":["queue-piaget-90802-lps-movement"],"candidateIds":["queue-piaget-90802-lps-movement"],"review":{"reviewedAt":"2026-10-13T14:12:17.524Z","evidence":"Le Petit Suisse original exact90802 listing and fifteen actual1600x1600 images inspected. Accepted front0,movement13,closedback10,buckle6. Champagne Roman two-hand dial with rectangular railway minute track,PIAGET/SWISS printing,dauphine hands with visible surface loss and blue cabochon crown. Closed four-screw back legibly90802. Opened movement physically marked9P2,PIAGET,18JEWELS,EIGHTEEN,ADJUSTED5POSITIONS/TO TEMPERATURE and A/R regulator; actual bridge and winding-wheel construction observed. Inner back14 PIAGET/SWISS/750,hallmarks and81 inspected but not adopted as manufacture-date proof. SWISS750 pin buckle has visible wear; no clear Piaget signature seen, factory originality/purity not independently proven. Seller claims18k yellow gold23x29mm,recent service,original dial/crown/buckle and new handmade Belgian ostrich strap; these remain source attribution,service/performance not independently validated. Actual replacement strap underside Le Petit Suisse visible. Antiquorum324-471 attributes9P to separate white-gold blue90802,circa1975 with double deployant clasp; not this champagne9P2 specimen. No9P/9PS/9P2 equivalence,90802G1/D alias,Cartier-brand or other material/bracelet inheritance. Full historical interval and as-issued originality remain unresolved.","finding":"Physically marked9P2 champagne specimen; not generic9P/9PS equivalence."}},"caseback":{"status":"verified","photographIds":["queue-piaget-90802-lps-caseback"],"candidateIds":["queue-piaget-90802-lps-caseback"],"review":{"reviewedAt":"2026-10-13T14:12:17.524Z","evidence":"Le Petit Suisse original exact90802 listing and fifteen actual1600x1600 images inspected. Accepted front0,movement13,closedback10,buckle6. Champagne Roman two-hand dial with rectangular railway minute track,PIAGET/SWISS printing,dauphine hands with visible surface loss and blue cabochon crown. Closed four-screw back legibly90802. Opened movement physically marked9P2,PIAGET,18JEWELS,EIGHTEEN,ADJUSTED5POSITIONS/TO TEMPERATURE and A/R regulator; actual bridge and winding-wheel construction observed. Inner back14 PIAGET/SWISS/750,hallmarks and81 inspected but not adopted as manufacture-date proof. SWISS750 pin buckle has visible wear; no clear Piaget signature seen, factory originality/purity not independently proven. Seller claims18k yellow gold23x29mm,recent service,original dial/crown/buckle and new handmade Belgian ostrich strap; these remain source attribution,service/performance not independently validated. Actual replacement strap underside Le Petit Suisse visible. Antiquorum324-471 attributes9P to separate white-gold blue90802,circa1975 with double deployant clasp; not this champagne9P2 specimen. No9P/9PS/9P2 equivalence,90802G1/D alias,Cartier-brand or other material/bracelet inheritance. Full historical interval and as-issued originality remain unresolved.","finding":"Verified representative champagne specimen; originality unproven."}},"braceletClasp":{"status":"verified","photographIds":["queue-piaget-90802-lps-braceletClasp"],"candidateIds":["queue-piaget-90802-lps-braceletClasp"],"review":{"reviewedAt":"2026-10-13T14:12:17.524Z","evidence":"Le Petit Suisse original exact90802 listing and fifteen actual1600x1600 images inspected. Accepted front0,movement13,closedback10,buckle6. Champagne Roman two-hand dial with rectangular railway minute track,PIAGET/SWISS printing,dauphine hands with visible surface loss and blue cabochon crown. Closed four-screw back legibly90802. Opened movement physically marked9P2,PIAGET,18JEWELS,EIGHTEEN,ADJUSTED5POSITIONS/TO TEMPERATURE and A/R regulator; actual bridge and winding-wheel construction observed. Inner back14 PIAGET/SWISS/750,hallmarks and81 inspected but not adopted as manufacture-date proof. SWISS750 pin buckle has visible wear; no clear Piaget signature seen, factory originality/purity not independently proven. Seller claims18k yellow gold23x29mm,recent service,original dial/crown/buckle and new handmade Belgian ostrich strap; these remain source attribution,service/performance not independently validated. Actual replacement strap underside Le Petit Suisse visible. Antiquorum324-471 attributes9P to separate white-gold blue90802,circa1975 with double deployant clasp; not this champagne9P2 specimen. No9P/9PS/9P2 equivalence,90802G1/D alias,Cartier-brand or other material/bracelet inheritance. Full historical interval and as-issued originality remain unresolved.","finding":"Verified representative champagne specimen; originality unproven."}}}},
     {"brand":"Raymond Weil","reference":"2785","aliases":["2785"],"origins":["rules"],"sources":[],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
     {"brand":"Seiko","reference":"7S36-5000","aliases":["7S36-5000"],"origins":["rules"],"sources":[],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
     {"brand":"Seiko","reference":"SBEN011","aliases":["SBEN011"],"origins":["rules"],"sources":[],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},

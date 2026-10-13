@@ -31038,6 +31038,139 @@
         },
         "imageSha256": "c2f1d4ec663d69be640fdb39faf05fb55ec6bef47aed9ae34fa3528a084871f6"
       }
+    },
+    {
+      "id": "queue-piaget-90802-lps-front",
+      "brand": "PIAGET",
+      "references": [
+        "90802"
+      ],
+      "representativeFor": [
+        "90802"
+      ],
+      "variant": "Le Petit Suisse champagne90802 / physical9P2 / replacement ostrich strap,SWISS750 buckle",
+      "category": "front",
+      "title": "90802 champagne9P2 specimen — front",
+      "caption": "Actual champagne Roman two-hand dial, railway minute track and blue cabochon crown. Visible hand surface loss. Representative pictured90802 execution; originality unproven.",
+      "image": "https://cdn.shopify.com/s/files/1/0896/0199/9173/files/PiagetTankNormale18KYellowGold9P2Ref90802-3531.jpg?v=1758978093",
+      "source": "https://www.lepetitsuissewatches.com/products/piaget-tank-normale-ultra-thin-18k-yellow-gold-ref-90802",
+      "credit": "Le Petit Suisse",
+      "mediaKind": "photograph",
+      "origin": "inspected queue research2026-10-13",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T14:12:17.524Z",
+        "loadedAt": "2026-10-13T14:12:17.524Z",
+        "evidence": "Le Petit Suisse original exact90802 listing and fifteen actual1600x1600 images inspected. Accepted front0,movement13,closedback10,buckle6. Champagne Roman two-hand dial with rectangular railway minute track,PIAGET/SWISS printing,dauphine hands with visible surface loss and blue cabochon crown. Closed four-screw back legibly90802. Opened movement physically marked9P2,PIAGET,18JEWELS,EIGHTEEN,ADJUSTED5POSITIONS/TO TEMPERATURE and A/R regulator; actual bridge and winding-wheel construction observed. Inner back14 PIAGET/SWISS/750,hallmarks and81 inspected but not adopted as manufacture-date proof. SWISS750 pin buckle has visible wear; no clear Piaget signature seen, factory originality/purity not independently proven. Seller claims18k yellow gold23x29mm,recent service,original dial/crown/buckle and new handmade Belgian ostrich strap; these remain source attribution,service/performance not independently validated. Actual replacement strap underside Le Petit Suisse visible. Antiquorum324-471 attributes9P to separate white-gold blue90802,circa1975 with double deployant clasp; not this champagne9P2 specimen. No9P/9PS/9P2 equivalence,90802G1/D alias,Cartier-brand or other material/bracelet inheritance. Full historical interval and as-issued originality remain unresolved.",
+        "imageDimensions": {
+          "width": 1600,
+          "height": 1600
+        },
+        "imageSha256": "460e4ac119e39fb21563c84cb8d2a91697b3f81e8157986e7719d942d751fde6"
+      }
+    },
+    {
+      "id": "queue-piaget-90802-lps-movement",
+      "brand": "PIAGET",
+      "references": [
+        "90802"
+      ],
+      "representativeFor": [
+        "90802"
+      ],
+      "variant": "Le Petit Suisse champagne90802 / physical9P2 / replacement ostrich strap,SWISS750 buckle",
+      "category": "movement",
+      "title": "90802 champagne9P2 specimen — movement",
+      "caption": "Actual opened specimen visibly marked PIAGET9P2 and18JEWELS, with pictured bridge/winding-wheel layout. Does not establish9P or9PS equivalence,manufacture date or authenticity.",
+      "image": "https://cdn.shopify.com/s/files/1/0896/0199/9173/files/PiagetTankNormale18KYellowGold9P2Ref90802-3440.jpg?v=1758978092",
+      "source": "https://www.lepetitsuissewatches.com/products/piaget-tank-normale-ultra-thin-18k-yellow-gold-ref-90802",
+      "credit": "Le Petit Suisse",
+      "mediaKind": "photograph",
+      "origin": "inspected queue research2026-10-13",
+      "depictsMovement": true,
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T14:12:17.524Z",
+        "loadedAt": "2026-10-13T14:12:17.524Z",
+        "evidence": "Le Petit Suisse original exact90802 listing and fifteen actual1600x1600 images inspected. Accepted front0,movement13,closedback10,buckle6. Champagne Roman two-hand dial with rectangular railway minute track,PIAGET/SWISS printing,dauphine hands with visible surface loss and blue cabochon crown. Closed four-screw back legibly90802. Opened movement physically marked9P2,PIAGET,18JEWELS,EIGHTEEN,ADJUSTED5POSITIONS/TO TEMPERATURE and A/R regulator; actual bridge and winding-wheel construction observed. Inner back14 PIAGET/SWISS/750,hallmarks and81 inspected but not adopted as manufacture-date proof. SWISS750 pin buckle has visible wear; no clear Piaget signature seen, factory originality/purity not independently proven. Seller claims18k yellow gold23x29mm,recent service,original dial/crown/buckle and new handmade Belgian ostrich strap; these remain source attribution,service/performance not independently validated. Actual replacement strap underside Le Petit Suisse visible. Antiquorum324-471 attributes9P to separate white-gold blue90802,circa1975 with double deployant clasp; not this champagne9P2 specimen. No9P/9PS/9P2 equivalence,90802G1/D alias,Cartier-brand or other material/bracelet inheritance. Full historical interval and as-issued originality remain unresolved.",
+        "imageDimensions": {
+          "width": 1600,
+          "height": 1600
+        },
+        "imageSha256": "74c85b12285e37b999913c1dc220b06c8a4cd542b5422771a33ef5bdde404826"
+      }
+    },
+    {
+      "id": "queue-piaget-90802-lps-caseback",
+      "brand": "PIAGET",
+      "references": [
+        "90802"
+      ],
+      "representativeFor": [
+        "90802"
+      ],
+      "variant": "Le Petit Suisse champagne90802 / physical9P2 / replacement ostrich strap,SWISS750 buckle",
+      "category": "caseback",
+      "title": "90802 champagne9P2 specimen — caseback",
+      "caption": "Actual closed four-screw back legibly90802. Hallmarks/source18k attribution are not an independent assay or manufacture-date proof.",
+      "image": "https://cdn.shopify.com/s/files/1/0896/0199/9173/files/PiagetTankNormale18KYellowGold9P2Ref90802-3551.jpg?v=1758978092",
+      "source": "https://www.lepetitsuissewatches.com/products/piaget-tank-normale-ultra-thin-18k-yellow-gold-ref-90802",
+      "credit": "Le Petit Suisse",
+      "mediaKind": "photograph",
+      "origin": "inspected queue research2026-10-13",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T14:12:17.524Z",
+        "loadedAt": "2026-10-13T14:12:17.524Z",
+        "evidence": "Le Petit Suisse original exact90802 listing and fifteen actual1600x1600 images inspected. Accepted front0,movement13,closedback10,buckle6. Champagne Roman two-hand dial with rectangular railway minute track,PIAGET/SWISS printing,dauphine hands with visible surface loss and blue cabochon crown. Closed four-screw back legibly90802. Opened movement physically marked9P2,PIAGET,18JEWELS,EIGHTEEN,ADJUSTED5POSITIONS/TO TEMPERATURE and A/R regulator; actual bridge and winding-wheel construction observed. Inner back14 PIAGET/SWISS/750,hallmarks and81 inspected but not adopted as manufacture-date proof. SWISS750 pin buckle has visible wear; no clear Piaget signature seen, factory originality/purity not independently proven. Seller claims18k yellow gold23x29mm,recent service,original dial/crown/buckle and new handmade Belgian ostrich strap; these remain source attribution,service/performance not independently validated. Actual replacement strap underside Le Petit Suisse visible. Antiquorum324-471 attributes9P to separate white-gold blue90802,circa1975 with double deployant clasp; not this champagne9P2 specimen. No9P/9PS/9P2 equivalence,90802G1/D alias,Cartier-brand or other material/bracelet inheritance. Full historical interval and as-issued originality remain unresolved.",
+        "imageDimensions": {
+          "width": 1600,
+          "height": 1600
+        },
+        "imageSha256": "d3a9ad9d134b1a3f1fcc9de86ccad17df0c33cd524ccb2a15324d05d4d83eb0e"
+      }
+    },
+    {
+      "id": "queue-piaget-90802-lps-braceletClasp",
+      "brand": "PIAGET",
+      "references": [
+        "90802"
+      ],
+      "representativeFor": [
+        "90802"
+      ],
+      "variant": "Le Petit Suisse champagne90802 / physical9P2 / replacement ostrich strap,SWISS750 buckle",
+      "category": "braceletClasp",
+      "title": "90802 champagne9P2 specimen — braceletClasp",
+      "caption": "Actual pin buckle underside marked SWISS750. No clear Piaget signature observed; originality/purity unproven. Replacement ostrich strap is seller-described, not as-issued.",
+      "image": "https://cdn.shopify.com/s/files/1/0896/0199/9173/files/PiagetTankNormale18KYellowGold9P2Ref90802-3555.jpg?v=1758978093",
+      "source": "https://www.lepetitsuissewatches.com/products/piaget-tank-normale-ultra-thin-18k-yellow-gold-ref-90802",
+      "credit": "Le Petit Suisse",
+      "mediaKind": "photograph",
+      "origin": "inspected queue research2026-10-13",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T14:12:17.524Z",
+        "loadedAt": "2026-10-13T14:12:17.524Z",
+        "evidence": "Le Petit Suisse original exact90802 listing and fifteen actual1600x1600 images inspected. Accepted front0,movement13,closedback10,buckle6. Champagne Roman two-hand dial with rectangular railway minute track,PIAGET/SWISS printing,dauphine hands with visible surface loss and blue cabochon crown. Closed four-screw back legibly90802. Opened movement physically marked9P2,PIAGET,18JEWELS,EIGHTEEN,ADJUSTED5POSITIONS/TO TEMPERATURE and A/R regulator; actual bridge and winding-wheel construction observed. Inner back14 PIAGET/SWISS/750,hallmarks and81 inspected but not adopted as manufacture-date proof. SWISS750 pin buckle has visible wear; no clear Piaget signature seen, factory originality/purity not independently proven. Seller claims18k yellow gold23x29mm,recent service,original dial/crown/buckle and new handmade Belgian ostrich strap; these remain source attribution,service/performance not independently validated. Actual replacement strap underside Le Petit Suisse visible. Antiquorum324-471 attributes9P to separate white-gold blue90802,circa1975 with double deployant clasp; not this champagne9P2 specimen. No9P/9PS/9P2 equivalence,90802G1/D alias,Cartier-brand or other material/bracelet inheritance. Full historical interval and as-issued originality remain unresolved.",
+        "imageDimensions": {
+          "width": 1600,
+          "height": 1600
+        },
+        "imageSha256": "6cd6bd057e1c3edb4c3f98b8d7ad30b12fa7c2f06550043166dfb74ffdd18e9b"
+      }
     }
   ]
 }
