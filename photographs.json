@@ -30840,6 +30840,105 @@
         },
         "imageSha256": "8d76cf8152d8f2abf3bcc8da74047b1359a286560fc7ae43533dc5f7c1b8bdc5"
       }
+    },
+    {
+      "id": "queue-longines-l37644-grand-front",
+      "brand": "LONGINES",
+      "references": [
+        "L3.764.4.06.6"
+      ],
+      "representativeFor": [
+        "L3.764.4"
+      ],
+      "variant": "Grand Caliber863Y1 / exact green L3.764.4.06.6 steel bracelet / individual movement unverified",
+      "category": "front",
+      "title": "L3.764.4.06.6 green specimen — front",
+      "caption": "Actual green no-date dial, Arabic numerals and internal rotating bezel, arrow hour hand, twin crowns and steel multi-link bracelet. Exact suffix identified by seller; originality unproven.",
+      "image": "https://cdn.shopify.com/s/files/1/0637/9159/5764/files/Longines_Legend_Diver_3.764.4.06.6.jpg?v=1782330348",
+      "source": "https://grandcaliber.com/products/39mm-longines-legend-diver-green-dial-l3-764-4-06-6-2026-pre-owned-watches-dallas",
+      "credit": "Grand Caliber",
+      "mediaKind": "photograph",
+      "origin": "inspected queue research2026-10-13",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T09:33:10.700Z",
+        "loadedAt": "2026-10-13T09:33:10.700Z",
+        "evidence": "Grand Caliber original listing explicitly identifies L3.764.4.06.6, green dial, steel bracelet, 39mm, stock863Y1. Ten original1440x1800 files inspected; accepted front0, closedback1 and openclasp3. Green no-date dial, Arabic12/3/6/9, internal rotating bezel, arrow hour hand, two crowns and multi-link steel bracelet observed. Closed back shows diver medallion, LEGEND DIVER, CHRONOMETER OFFICIALLY CERTIFIED, MAGNETIC RESISTANT-SWISS MADE and DIVER’S WATCH-300 METER inscriptions; these do not independently prove performance. Open folding blade signed LONGINES and winged-hourglass cover; hardware code and factory originality unproven. Exact reference is seller identification, not independently legible back engraving. Seller2026 attribution is not manufacture-date proof. Manufacturer exact green reference specifies L888.6; no opened movement or physical calibre stamp. No transfer to other suffixes, historical50.6/90.6, 42mm L3.774, HydroConquest or GMT. Packaging/papers excluded from category photos.",
+        "imageDimensions": {
+          "width": 1440,
+          "height": 1800
+        },
+        "imageSha256": "bc960ebf926e250654b2831f4e35de8d9aa866b03bc8fa346684f6c3f83553ed"
+      }
+    },
+    {
+      "id": "queue-longines-l37644-grand-caseback",
+      "brand": "LONGINES",
+      "references": [
+        "L3.764.4.06.6"
+      ],
+      "representativeFor": [
+        "L3.764.4"
+      ],
+      "variant": "Grand Caliber863Y1 / exact green L3.764.4.06.6 steel bracelet / individual movement unverified",
+      "category": "caseback",
+      "title": "L3.764.4.06.6 green specimen — caseback",
+      "caption": "Actual closed diver-medallion back with chronometer, magnetic-resistance and300m inscriptions. Inscriptions do not independently prove performance. No movement shown.",
+      "image": "https://cdn.shopify.com/s/files/1/0637/9159/5764/files/Longines_Legend_Diver_3.764.4.06.6_0.jpg?v=1782330353",
+      "source": "https://grandcaliber.com/products/39mm-longines-legend-diver-green-dial-l3-764-4-06-6-2026-pre-owned-watches-dallas",
+      "credit": "Grand Caliber",
+      "mediaKind": "photograph",
+      "origin": "inspected queue research2026-10-13",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T09:33:10.700Z",
+        "loadedAt": "2026-10-13T09:33:10.700Z",
+        "evidence": "Grand Caliber original listing explicitly identifies L3.764.4.06.6, green dial, steel bracelet, 39mm, stock863Y1. Ten original1440x1800 files inspected; accepted front0, closedback1 and openclasp3. Green no-date dial, Arabic12/3/6/9, internal rotating bezel, arrow hour hand, two crowns and multi-link steel bracelet observed. Closed back shows diver medallion, LEGEND DIVER, CHRONOMETER OFFICIALLY CERTIFIED, MAGNETIC RESISTANT-SWISS MADE and DIVER’S WATCH-300 METER inscriptions; these do not independently prove performance. Open folding blade signed LONGINES and winged-hourglass cover; hardware code and factory originality unproven. Exact reference is seller identification, not independently legible back engraving. Seller2026 attribution is not manufacture-date proof. Manufacturer exact green reference specifies L888.6; no opened movement or physical calibre stamp. No transfer to other suffixes, historical50.6/90.6, 42mm L3.774, HydroConquest or GMT. Packaging/papers excluded from category photos.",
+        "imageDimensions": {
+          "width": 1440,
+          "height": 1800
+        },
+        "imageSha256": "7f02c5c9fd303cf5127f833883980bef15607e42b2306e1737076af627f6e3f1"
+      }
+    },
+    {
+      "id": "queue-longines-l37644-grand-braceletClasp",
+      "brand": "LONGINES",
+      "references": [
+        "L3.764.4.06.6"
+      ],
+      "representativeFor": [
+        "L3.764.4"
+      ],
+      "variant": "Grand Caliber863Y1 / exact green L3.764.4.06.6 steel bracelet / individual movement unverified",
+      "category": "braceletClasp",
+      "title": "L3.764.4.06.6 green specimen — braceletClasp",
+      "caption": "Actual open folding clasp with LONGINES-signed blade and winged-hourglass cover. Hardware code and factory originality unproven.",
+      "image": "https://cdn.shopify.com/s/files/1/0637/9159/5764/files/Longines_Legend_Diver_3.764.4.06.6_2.jpg?v=1782330365",
+      "source": "https://grandcaliber.com/products/39mm-longines-legend-diver-green-dial-l3-764-4-06-6-2026-pre-owned-watches-dallas",
+      "credit": "Grand Caliber",
+      "mediaKind": "photograph",
+      "origin": "inspected queue research2026-10-13",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T09:33:10.700Z",
+        "loadedAt": "2026-10-13T09:33:10.700Z",
+        "evidence": "Grand Caliber original listing explicitly identifies L3.764.4.06.6, green dial, steel bracelet, 39mm, stock863Y1. Ten original1440x1800 files inspected; accepted front0, closedback1 and openclasp3. Green no-date dial, Arabic12/3/6/9, internal rotating bezel, arrow hour hand, two crowns and multi-link steel bracelet observed. Closed back shows diver medallion, LEGEND DIVER, CHRONOMETER OFFICIALLY CERTIFIED, MAGNETIC RESISTANT-SWISS MADE and DIVER’S WATCH-300 METER inscriptions; these do not independently prove performance. Open folding blade signed LONGINES and winged-hourglass cover; hardware code and factory originality unproven. Exact reference is seller identification, not independently legible back engraving. Seller2026 attribution is not manufacture-date proof. Manufacturer exact green reference specifies L888.6; no opened movement or physical calibre stamp. No transfer to other suffixes, historical50.6/90.6, 42mm L3.774, HydroConquest or GMT. Packaging/papers excluded from category photos.",
+        "imageDimensions": {
+          "width": 1440,
+          "height": 1800
+        },
+        "imageSha256": "3a62941f00b98edf511e6f2c8318936b2a3893760c2d5a818fe99ba50e1febf0"
+      }
     }
   ]
 }

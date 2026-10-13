@@ -1,0 +1,143 @@
+{
+  "reviewedAt": "2026-10-13T09:23:34.239Z",
+  "completion": "IN PROGRESS",
+  "sources": [
+    {
+      "reference": "L3.764.4.06.6",
+      "source": "https://www.longines.com/en-gb/p/watch-longines-legend-diver-l3-764-4-06-6",
+      "sourceSha256": "4df8471e51b65b39c469134df1eeebd020c604f33765c805c451adf78e6a492f",
+      "selectedDataPath": "@\"ProductPageAdditionalDocument\",\"en-gb\",\"watch-longines-legend-diver-l3-764-4-06-6\",",
+      "calibre": "L888.6",
+      "dimensions": {
+        "diameter": "Ø 39.00 mm",
+        "thickness": "12.70 mm",
+        "lugs": "20 mm",
+        "lugToLug": "47.00 mm"
+      }
+    },
+    {
+      "reference": "L3.764.4.50.0",
+      "source": "https://www.longines.com/en-gb/p/watch-longines-legend-diver-l3-764-4-50-0",
+      "sourceSha256": "691ce45be7b094513f25c564ce5be803257d85dfd5615bec126f11314f70319d",
+      "selectedDataPath": "@\"ProductPageAdditionalDocument\",\"en-gb\",\"watch-longines-legend-diver-l3-764-4-50-0\",",
+      "calibre": "L888.6",
+      "dimensions": {
+        "diameter": "Ø 39.00 mm",
+        "thickness": "12.70 mm",
+        "lugs": "20 mm",
+        "lugToLug": "47.00 mm"
+      }
+    },
+    {
+      "reference": "L3.764.4.50.7",
+      "source": "https://www.longines.com/en-gb/p/watch-longines-legend-diver-l3-764-4-50-7",
+      "sourceSha256": "6922c742048346556c7ece10f4fd6e93d93f0c76c90329ea0a76b568ea000904",
+      "selectedDataPath": "@\"ProductPageAdditionalDocument\",\"en-gb\",\"watch-longines-legend-diver-l3-764-4-50-7\",",
+      "calibre": "L888.6",
+      "dimensions": {
+        "diameter": "Ø 39.00 mm",
+        "thickness": "12.70 mm",
+        "lugs": "20 mm",
+        "lugToLug": "47.00 mm"
+      }
+    },
+    {
+      "reference": "L3.764.4.90.7",
+      "source": "https://www.longines.com/en-gb/p/watch-longines-legend-diver-l3-764-4-90-7",
+      "sourceSha256": "96c69a778fa50bd5a35c517949c466dca877cfe1f63958f40f2e1bc9279cefe6",
+      "selectedDataPath": "@\"ProductPageAdditionalDocument\",\"en-gb\",\"watch-longines-legend-diver-l3-764-4-90-7\",",
+      "calibre": "L888.6",
+      "dimensions": {
+        "diameter": "Ø 39.00 mm",
+        "thickness": "12.70 mm",
+        "lugs": "20 mm",
+        "lugToLug": "47.00 mm"
+      }
+    },
+    {
+      "reference": "L3.764.4.99.6",
+      "source": "https://www.longines.com/en-gb/p/watch-longines-legend-diver-l3-764-4-99-6",
+      "sourceSha256": "8dabd0fc6dbd4cabd77af2e87c3d31fa3ea5cdc10b117fd2705f10716b5db3c5",
+      "selectedDataPath": "@\"ProductPageAdditionalDocument\",\"en-gb\",\"watch-longines-legend-diver-l3-764-4-99-6\",",
+      "calibre": "L888.6",
+      "dimensions": {
+        "diameter": "Ø 39.00 mm",
+        "thickness": "12.70 mm",
+        "lugs": "20 mm",
+        "lugToLug": "47.00 mm"
+      }
+    },
+    {
+      "reference": "L3.764.4.96.6",
+      "source": "https://www.longines.com/en-gb/p/watch-longines-legend-diver-l3-764-4-96-6",
+      "sourceSha256": "80821f6b770e7234423ffbe5210585181ff72c13b03f476d26ea50ff86bcc052",
+      "selectedDataPath": "@\"ProductPageAdditionalDocument\",\"en-gb\",\"watch-longines-legend-diver-l3-764-4-96-6\",",
+      "calibre": "L888.6",
+      "dimensions": {
+        "diameter": "Ø 39.00 mm",
+        "thickness": "12.70 mm",
+        "lugs": "20 mm",
+        "lugToLug": "47.00 mm"
+      }
+    },
+    {
+      "reference": "L3.764.4.16.6",
+      "source": "https://www.longines.com/en-gb/p/watch-longines-legend-diver-l3-764-4-16-6",
+      "sourceSha256": "ed4d2f1f2b9046e5b1ddd3b5b6c2e681fe89dd0d8cd3bb5c5f3a0302cf603294",
+      "selectedDataPath": "@\"ProductPageAdditionalDocument\",\"en-gb\",\"watch-longines-legend-diver-l3-764-4-16-6\",",
+      "calibre": "L888.6",
+      "dimensions": {
+        "diameter": "Ø 39.00 mm",
+        "thickness": "12.70 mm",
+        "lugs": "20 mm",
+        "lugToLug": "47.00 mm"
+      }
+    },
+    {
+      "reference": "L3.764.4.50.9",
+      "source": "https://www.longines.com/en-gb/p/watch-longines-legend-diver-l3-764-4-50-9",
+      "sourceSha256": "851ea679a23f0faabe95b93722abcb8477c6e156ca98508584a2a5d04c80735c",
+      "selectedDataPath": "@\"ProductPageAdditionalDocument\",\"en-gb\",\"watch-longines-legend-diver-l3-764-4-50-9\",",
+      "calibre": "L888.6",
+      "dimensions": {
+        "diameter": "Ø 39.00 mm",
+        "thickness": "12.70 mm",
+        "lugs": "20 mm",
+        "lugToLug": "47.00 mm"
+      }
+    },
+    {
+      "reference": "L3.764.4.90.9",
+      "source": "https://www.longines.com/en-gb/p/watch-longines-legend-diver-l3-764-4-90-9",
+      "sourceSha256": "6ab3a13c4ea51ba7e10c0ea647cbc7cadcb9131477f2671a7bc59f6d933e29f2",
+      "selectedDataPath": "@\"ProductPageAdditionalDocument\",\"en-gb\",\"watch-longines-legend-diver-l3-764-4-90-9\",",
+      "calibre": "L888.6",
+      "dimensions": {
+        "diameter": "Ø 39.00 mm",
+        "thickness": "12.70 mm",
+        "lugs": "20 mm",
+        "lugToLug": "47.00 mm"
+      }
+    },
+    {
+      "reference": "L3.764.4.06.9",
+      "source": "https://www.longines.com/en-gb/p/watch-longines-legend-diver-l3-764-4-06-9",
+      "sourceSha256": "bbec32c6173c9aefa88b25b798de3285a249313858accf6702893e52710ce212",
+      "selectedDataPath": "@\"ProductPageAdditionalDocument\",\"en-gb\",\"watch-longines-legend-diver-l3-764-4-06-9\",",
+      "calibre": "L888.6",
+      "dimensions": {
+        "diameter": "Ø 39.00 mm",
+        "thickness": "12.70 mm",
+        "lugs": "20 mm",
+        "lugToLug": "47.00 mm"
+      }
+    }
+  ],
+  "gaps": [
+    "Green06.6 front, closed caseback and clasp now accepted; opened movement and other suffix photos remain open",
+    "Historical50.6/90.6 not treated as current50.7/90.7 aliases",
+    "Full period and individual physical movement unresolved",
+    "Queue unchanged"
+  ],
+  "photoEvidence": "photograph-queue-longines-l37644-sources.json"
+}

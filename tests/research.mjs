@@ -88,3 +88,8 @@ assert.equal(matchingRule(rules,'TAG Heuer','WBY1112.FT0000'),null);
 assert.equal(matchingRule(rules,'Omega','WBY1112'),null);
 
 const queuedOmega21092=matchingRule(rules,'Omega','21092422001001');assert.ok(queuedOmega21092.manualReview);assert.equal(movementResult(queuedOmega21092,'8806').level,'match');assert.equal(movementResult(queuedOmega21092,'8800').level,'caution');assert.equal(movementResult(queuedOmega21092,'ETA2892').level,'caution');assert.match(queuedOmega21092.caseDetails,/12.99mm/);assert.equal(matchingRule(rules,'Tudor','21092422001001'),null);
+
+for(const ref of ['L37644','L37644066','L37644500','L37644507','L37644907','L37644996','L37644966','L37644166','L37644509','L37644909','L37644069']){
+ const r=matchingRule(rules,'Longines',ref);assert.ok(r.manualReview);assert.equal(movementResult(r,'L888.6').level,'match');assert.equal(movementResult(r,'L888').level,'caution');assert.equal(movementResult(r,'L888.5').level,'caution');
+}
+assert.equal(matchingRule(rules,'Longines','L37644506'),null);assert.equal(matchingRule(rules,'Longines','L37644906'),null);assert.equal(matchingRule(rules,'Omega','L37644066'),null);assert.notEqual(matchingRule(rules,'Longines','L37644500').variant,matchingRule(rules,'Longines','L37644509').variant);

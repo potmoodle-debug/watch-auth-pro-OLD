@@ -723,6 +723,15 @@ test('WBY1112 exact blue specimen stays separate from Aquaracer and undocumented
  assert.equal(matchingPhotographs(photos,'Omega','WBY1112').filter(p=>p.id.startsWith('queue-tag-wby1112-')).length,0);
 });
 
+test('Legend Diver green bracelet photos do not supply other dial, strap or size variants',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,externalOnly=false)=>matchingPhotographs(photos,'Longines',ref,{externalOnly}).filter(p=>p.id.startsWith('queue-longines-l37644-grand-'));
+ for(const ref of ['L3.764.4','L3.764.4.06.6']){assert.deepEqual(get(ref).map(p=>p.category).sort(),['braceletClasp','caseback','front']);assert.equal(get(ref,true).length,3);}
+ assert.ok(get('L3.764.4').every(p=>p.matchScope==='representative variant'));
+ for(const ref of ['L3.764.4.06.9','L3.764.4.50.0','L3.764.4.50.6','L3.764.4.50.7','L3.764.4.90.6','L3.764.4.90.7','L3.764.4.99.6','L3.764.4.96.6','L3.764.4.16.6','L3.774.4.06.6'])assert.equal(get(ref).length,0,ref);
+ assert.equal(matchingPhotographs(photos,'Omega','L3.764.4.06.6').filter(p=>p.id.startsWith('queue-longines-l37644-grand-')).length,0);
+});
+
 test('Omega007 NATO specimen does not supply mesh or neighbouring suffix coverage',()=>{
  const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
  const get=(ref,externalOnly=false)=>matchingPhotographs(photos,'Omega',ref,{externalOnly}).filter(p=>p.id.startsWith('queue-omega-21092422001001-'));
