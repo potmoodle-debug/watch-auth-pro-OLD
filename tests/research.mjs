@@ -79,6 +79,7 @@ for(const ref of ['L37884706','L37884906','L37884986','L37884996']){
 assert.equal(matchingRule(rules,'Longines','L37884999'),null);
 assert.match(matchingRule(rules,'Longines','L37884986').notes,/exclusive edition/);
 
+const queuedA37320=matchingRule(rules,'Breitling','A37320');assert.ok(queuedA37320.manualReview);assert.equal(movementResult(queuedA37320,'Breitling37').level,'match');assert.equal(movementResult(queuedA37320,'ETA2895-2').level,'caution');assert.match(queuedA37320.calibreDisplay,/seller attribution/);assert.equal(matchingRule(rules,'Breitling','A37320264'),null);assert.equal(matchingRule(rules,'Omega','A37320'),null);
 const queuedCartier830=matchingRule(rules,'Cartier','83041488');assert.ok(queuedCartier830.manualReview);assert.deepEqual(queuedCartier830.calibre,[]);assert.equal(movementResult(queuedCartier830,'87'),null);assert.match(queuedCartier830.notes,/replacement/);assert.equal(matchingRule(rules,'Omega','83041488'),null);
 
 for(const ref of ['WBY1112','WBY1112.BA0042']){
