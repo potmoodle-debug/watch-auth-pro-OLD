@@ -4,7 +4,7 @@ import {matchingRule,movementResult,safetyRule} from '../core.js';
 const base=JSON.parse(fs.readFileSync(new URL('../intelligence.json',import.meta.url)));
 const reviewed=JSON.parse(fs.readFileSync(new URL('../research-updates-20261008.json',import.meta.url)));
 const rules=reviewed.concat(base.rules);
-for(const r of reviewed){assert.equal(matchingRule(rules,r.brand,r.baseReference),r);assert.equal(movementResult(r,r.calibre[0]).level,'match');assert.equal(movementResult(r,'UNLISTED9999').level,'caution');assert.ok(r.sourceUrl.startsWith('https://'));for(const v of r.visuals||[])assert.ok(!v.image.endsWith(':'));}
+for(const r of reviewed){assert.equal(matchingRule(rules,r.brand,r.baseReference),r);if(r.calibre.length){assert.equal(movementResult(r,r.calibre[0]).level,'match');assert.equal(movementResult(r,'UNLISTED9999').level,'caution');}else assert.equal(movementResult(r,'UNLISTED9999'),null);assert.ok(r.sourceUrl.startsWith('https://'));for(const v of r.visuals||[])assert.ok(!v.image.endsWith(':'));}
 assert.match(matchingRule(rules,'Tudor','7924').caseDetails,/37 mm/);
 assert.match(matchingRule(rules,'Tudor','7031/0').technology,/manual/);
 assert.equal(matchingRule(rules,'Tudor','M79360N-0013').calibreDisplay,'MT5813');
@@ -78,3 +78,5 @@ for(const ref of ['L37884706','L37884906','L37884986','L37884996']){
 }
 assert.equal(matchingRule(rules,'Longines','L37884999'),null);
 assert.match(matchingRule(rules,'Longines','L37884986').notes,/exclusive edition/);
+
+const queuedCartier830=matchingRule(rules,'Cartier','83041488');assert.ok(queuedCartier830.manualReview);assert.deepEqual(queuedCartier830.calibre,[]);assert.equal(movementResult(queuedCartier830,'87'),null);assert.match(queuedCartier830.notes,/replacement/);assert.equal(matchingRule(rules,'Omega','83041488'),null);
