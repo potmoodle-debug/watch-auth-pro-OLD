@@ -723,6 +723,15 @@ test('WBY1112 exact blue specimen stays separate from Aquaracer and undocumented
  assert.equal(matchingPhotographs(photos,'Omega','WBY1112').filter(p=>p.id.startsWith('queue-tag-wby1112-')).length,0);
 });
 
+test('A37320 black mesh specimen remains representative and excludes unsupported aliases',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,externalOnly=false)=>matchingPhotographs(photos,'Breitling',ref,{externalOnly}).filter(p=>p.id.startsWith('queue-breitling-a37320-kibble-'));
+ assert.deepEqual(get('A37320').map(p=>p.category).sort(),['braceletClasp','caseback','front']);assert.equal(get('A37320',true).length,3);
+ assert.ok(get('A37320').every(p=>p.matchScope==='representative variant'));
+ for(const ref of ['A37320264','A37320/A717','A17320','A37330','A37340'])assert.equal(get(ref).length,0,ref);
+ assert.equal(matchingPhotographs(photos,'Omega','A37320').filter(p=>p.id.startsWith('queue-breitling-a37320-kibble-')).length,0);
+});
+
 test('Legend Diver green bracelet photos do not supply other dial, strap or size variants',()=>{
  const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
  const get=(ref,externalOnly=false)=>matchingPhotographs(photos,'Longines',ref,{externalOnly}).filter(p=>p.id.startsWith('queue-longines-l37644-grand-'));
