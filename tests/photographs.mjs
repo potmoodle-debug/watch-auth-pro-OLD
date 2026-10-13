@@ -723,6 +723,14 @@ test('WBY1112 exact blue specimen stays separate from Aquaracer and undocumented
  assert.equal(matchingPhotographs(photos,'Omega','WBY1112').filter(p=>p.id.startsWith('queue-tag-wby1112-')).length,0);
 });
 
+test('Rolex179174 representative26mm photos do not inherit neighbouring case references',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,externalOnly=false)=>matchingPhotographs(photos,'Rolex',ref,{externalOnly}).filter(p=>p.id.startsWith('queue-rolex-179174-ewc-'));
+ assert.deepEqual(get('179174').map(p=>p.category).sort(),['braceletClasp','caseback','front']);assert.equal(get('179174',true).length,3);assert.ok(get('179174').every(p=>p.matchScope==='representative variant'));
+ for(const ref of ['279174','79174','178274','179173','179174-0001'])assert.equal(get(ref).length,0,ref);
+ assert.equal(matchingPhotographs(photos,'Tudor','179174').filter(p=>p.id.startsWith('queue-rolex-179174-ewc-')).length,0);
+});
+
 test('Piaget90802 champagne physical9P2 photos retain execution and external-only boundaries',()=>{
  const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
  const get=(ref,externalOnly=false)=>matchingPhotographs(photos,'Piaget',ref,{externalOnly}).filter(p=>p.id.startsWith('queue-piaget-90802-lps-'));

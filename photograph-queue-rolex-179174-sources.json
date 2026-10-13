@@ -1,0 +1,45 @@
+{
+  "reviewedAt": "2026-10-13T14:35:20.267Z",
+  "completion": "IN PROGRESS",
+  "source": "https://www.europeanwatch.com/watch/rolex-179174-lady-datejust-mop-diamond-dial-jubilee-ss-ss-40182",
+  "sourceSha256": "d03456a0feee21168c45d94965337bb009b7be99ee306b76cec713514cbf024c",
+  "independentSource": {
+    "url": "https://www.bucherer.com/us/en/rolex-certified-pre-owned/watches/lady-datejust/1507-535-7.html",
+    "status": 200,
+    "sha256": "4c0e4dccbf78c783fb31123ca206556027245e8d77acc1057272cb2e01a9a8a9",
+    "readAt": "2026-10-13T14:30:41.932Z",
+    "scope": "Separate white Roman dial2014 CPO179174 specimen;26mm/2235 exact record, generic28mm marketing not used; no certification transfer to EWC or user specimen"
+  },
+  "reference": "179174",
+  "images": [
+    {
+      "i": 0,
+      "image": "https://images.europeanwatch.com/images/40/40182-1.jpg",
+      "sha256": "56a96a31c7c987771ee1084442f7e9fb5667dfc150abf454d9aa2c617fde9771",
+      "width": 1080,
+      "height": 864
+    },
+    {
+      "i": 5,
+      "image": "https://images.europeanwatch.com/images/40/40182-6.jpg",
+      "sha256": "d20f599c3803a5bbfef1b0b73bf824c204726e80432161743b93117d0d560dcf",
+      "width": 1080,
+      "height": 864
+    },
+    {
+      "i": 6,
+      "image": "https://images.europeanwatch.com/images/40/40182-7.jpg",
+      "sha256": "936ce4db4ce2cad0f89f936f1c945ce0feddc93505d9a158053f1337b807f8dc",
+      "width": 1080,
+      "height": 864
+    }
+  ],
+  "evidence": "Original EWC40182 explicitly identifies179174. Eight actual1080x864 gallery files inspected; accepted front0,openclasp5,closedback6. Actual mother-of-pearl-effect dial with ten stone-set markers,crown12,date3/cyclops,central seconds,fluted bezel and Jubilee bracelet. Closed plain screw back; case reference/serial not independently visible. Open clasp signed Rolex,Geneva,Swiss Made and faint STEELINOX; additional hardware/date codes too faint to assert. Source26mm,10.5mm,steel case/bracelet and white-gold bezel are seller specifications,not independent measurement/assay. SourceZ-series2007 and December2007 papers are attribution,not individual manufacture-date proof. No opened movement or physical2235 stamp. Separate Bucherer Rolex CPO1507-535-7 exact179174 white Roman dial2014 record corroborates26mm and2235; its CPO certification/dial/year do not transfer to EWC or user specimens. Generic modern28mm marketing on that page is not exact179174 specification. No2236/2135/ETA equivalence or279174/79174/178274/suffix inheritance. Packaging excluded; individual movement/originality/full period remain unresolved.",
+  "gaps": [
+    "Opened physical2235",
+    "Complete clasp/hardware/date code",
+    "Individual manufacture date and factory originality",
+    "Other dial/bracelet executions"
+  ],
+  "queueStatus": "Unchanged until published lookup is verified"
+}
