@@ -55,3 +55,12 @@ for(const c of ['2500A','2500B','2500C','2500D','ETA2892-A2'])assert.equal(movem
 assert.equal(matchingRule(rules,'Omega','2502.50'),null);
 assert.equal(matchingRule(rules,'Omega','25025000-001'),null);
 assert.equal(matchingRule(rules,'Longines','25025000'),null);
+
+for(const ref of ['WAY2113','WAY2113.BA0928']){
+ const r=matchingRule(rules,'TAG Heuer',ref);assert.ok(r.manualReview);assert.equal(movementResult(r,'Calibre5').level,'match');
+ for(const c of ['ETA2824-2','SW200-1'])assert.equal(movementResult(r,c).level,'caution');
+}
+assert.ok(matchingRule(rules,'TAG Heuer','WAY2113').collectionOnly);
+assert.equal(matchingRule(rules,'TAG Heuer','WAY2113.BA0910'),null);
+assert.equal(matchingRule(rules,'TAG Heuer','WAY2113-9999'),null);
+assert.equal(matchingRule(rules,'Omega','WAY2113'),null);

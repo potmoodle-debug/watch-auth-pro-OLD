@@ -674,3 +674,24 @@ test('queued Omega exact specimen suppresses all display-movement views external
  assert.equal(matchingPhotographs(photos,'Longines','25025000').filter(p=>p.id.startsWith('queue-omega-')).length,0);
  assert.match(get('25025000').find(p=>p.category==='movement').caption,/No legible A\/B\/C\/D/);
 });
+
+test('WAY2113 partial specimen does not supply full-suffix or movement coverage',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,options)=>matchingPhotographs(photos,'TAG Heuer',ref,options).filter(p=>p.id.startsWith('queue-tag-way2113-'));
+ assert.deepEqual(get('WAY2113').map(p=>p.category).sort(),['braceletClasp','caseback','front']);
+ assert.equal(get('WAY2113',{externalOnly:true}).length,3);
+ assert.ok(get('WAY2113').every(p=>p.matchScope==='representative variant'));
+ for(const ref of ['WAY2113.BA0928','WAY2113.BA0910','WAY2113-0','WAY2110','WBD2113'])assert.equal(get(ref).length,0,ref);
+ assert.equal(matchingPhotographs(photos,'Omega','WAY2113').filter(p=>p.id.startsWith('queue-tag-way2113-')).length,0);
+ assert.match(get('WAY2113').find(p=>p.category==='braceletClasp').caption,/protective film/);
+});
+
+test('PAM00992 exact execution keeps adjacent references and external movement views out',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,externalOnly=false)=>matchingPhotographs(photos,'Panerai',ref,{externalOnly}).filter(p=>p.id.startsWith('queue-panerai-pam00992-'));
+ assert.deepEqual(get('PAM00992').map(p=>p.category).sort(),['braceletClasp','caseback','front','movement']);
+ assert.deepEqual(get('PAM00992',true).map(p=>p.category),['front']);
+ for(const ref of ['PAM00993','PAM01243','PAM00992-001','OP7250'])assert.equal(get(ref).length,0,ref);
+ assert.equal(matchingPhotographs(photos,'Omega','PAM00992').filter(p=>p.id.startsWith('queue-panerai-')).length,0);
+ assert.match(get('PAM00992').find(p=>p.category==='movement').caption,/open gear cutout/);
+});
