@@ -30456,6 +30456,105 @@
         },
         "imageSha256": "190475625d6d15e139f3846f8bf24815ddf878f8b71d6188b1673728b005b002"
       }
+    },
+    {
+      "id": "queue-longines-l37884-front",
+      "brand": "LONGINES",
+      "references": [
+        "L3.788.4"
+      ],
+      "representativeFor": [
+        "L3.788.4"
+      ],
+      "variant": "Original Poshmark seller green L3.788.4 / steel bracelet, closed back / full suffix and originality unverified",
+      "category": "front",
+      "title": "L3.788.4 green specimen — front",
+      "caption": "Actual green dial/bezel, triangle12, round6/9, date3 and HYDROCONQUEST/AUTOMATIC/30bar text. Seller partial L3.788.4; full suffix not established.",
+      "image": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/24/6ab4cca278e01d6a83313884/l_6ab4ccecb552238ac4b75052.jpeg",
+      "source": "https://poshmark.com/listing/Longines-Hydroconquest-Green-Dial-Stainless-Steel-42mm-Automatic-Mens-L37884-6ab4cca278e01d6a83313884",
+      "credit": "Original Poshmark seller listing",
+      "mediaKind": "photograph",
+      "origin": "inspected queue research2026-10-13",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T08:07:11.508Z",
+        "loadedAt": "2026-10-13T08:07:11.508Z",
+        "evidence": "Original seller listing explicitly identifies partial L3.788.4 green dial steel bracelet42mm. Eleven original1000x1333 files inspected. Actual green dial/green minute bezel, triangle12, round6/9, baton markers, date3, HYDROCONQUEST/AUTOMATIC/30bar printing. Closed back legibly L3.788.4,HYDROCONQUEST,30bar300meter,MAGNETICRESISTANT,STAINLESSSTEEL with winged-hourglass/globe motif. Inscriptions are not independent resistance/authentication proof. Open bracelet/clasp hardware and link construction observed; underside code fragment faint, no complete hardware code asserted. Source2026 warranty attribution not manufacture date. No opened movement/physical L888.5 marking. Full06.6 suffix not explicitly established; no transfer to other dial/bracelet variants or GMT.",
+        "imageDimensions": {
+          "width": 1000,
+          "height": 1333
+        },
+        "imageSha256": "692ed5f3a1534d80c7ebb42dfecf44d46464d51d6d4ca5981052f321839765ff"
+      }
+    },
+    {
+      "id": "queue-longines-l37884-caseback",
+      "brand": "LONGINES",
+      "references": [
+        "L3.788.4"
+      ],
+      "representativeFor": [
+        "L3.788.4"
+      ],
+      "variant": "Original Poshmark seller green L3.788.4 / steel bracelet, closed back / full suffix and originality unverified",
+      "category": "caseback",
+      "title": "L3.788.4 green specimen — caseback",
+      "caption": "Actual closed signed globe/winged-hourglass back, L3.788.4 and magnetic/water-rating inscriptions. No movement visible; marks are not tested resistance or authentication.",
+      "image": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/24/6ab4cca278e01d6a83313884/l_6ab4ccece625d24e018dccf5.jpeg",
+      "source": "https://poshmark.com/listing/Longines-Hydroconquest-Green-Dial-Stainless-Steel-42mm-Automatic-Mens-L37884-6ab4cca278e01d6a83313884",
+      "credit": "Original Poshmark seller listing",
+      "mediaKind": "photograph",
+      "origin": "inspected queue research2026-10-13",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T08:07:11.508Z",
+        "loadedAt": "2026-10-13T08:07:11.508Z",
+        "evidence": "Original seller listing explicitly identifies partial L3.788.4 green dial steel bracelet42mm. Eleven original1000x1333 files inspected. Actual green dial/green minute bezel, triangle12, round6/9, baton markers, date3, HYDROCONQUEST/AUTOMATIC/30bar printing. Closed back legibly L3.788.4,HYDROCONQUEST,30bar300meter,MAGNETICRESISTANT,STAINLESSSTEEL with winged-hourglass/globe motif. Inscriptions are not independent resistance/authentication proof. Open bracelet/clasp hardware and link construction observed; underside code fragment faint, no complete hardware code asserted. Source2026 warranty attribution not manufacture date. No opened movement/physical L888.5 marking. Full06.6 suffix not explicitly established; no transfer to other dial/bracelet variants or GMT.",
+        "imageDimensions": {
+          "width": 1000,
+          "height": 1333
+        },
+        "imageSha256": "52fcefac0edd89a6dc20a87b6f2e636aa749f13335f2a7064e95226253a58183"
+      }
+    },
+    {
+      "id": "queue-longines-l37884-braceletClasp",
+      "brand": "LONGINES",
+      "references": [
+        "L3.788.4"
+      ],
+      "representativeFor": [
+        "L3.788.4"
+      ],
+      "variant": "Original Poshmark seller green L3.788.4 / steel bracelet, closed back / full suffix and originality unverified",
+      "category": "braceletClasp",
+      "title": "L3.788.4 green specimen — braceletClasp",
+      "caption": "Actual open steel bracelet/clasp hardware and link construction. Faint code fragment not asserted as a complete code; factory originality remains unproven.",
+      "image": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/24/6ab4cca278e01d6a83313884/l_6ab4ccec9c93e0d601b2afe3.jpeg",
+      "source": "https://poshmark.com/listing/Longines-Hydroconquest-Green-Dial-Stainless-Steel-42mm-Automatic-Mens-L37884-6ab4cca278e01d6a83313884",
+      "credit": "Original Poshmark seller listing",
+      "mediaKind": "photograph",
+      "origin": "inspected queue research2026-10-13",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T08:07:11.508Z",
+        "loadedAt": "2026-10-13T08:07:11.508Z",
+        "evidence": "Original seller listing explicitly identifies partial L3.788.4 green dial steel bracelet42mm. Eleven original1000x1333 files inspected. Actual green dial/green minute bezel, triangle12, round6/9, baton markers, date3, HYDROCONQUEST/AUTOMATIC/30bar printing. Closed back legibly L3.788.4,HYDROCONQUEST,30bar300meter,MAGNETICRESISTANT,STAINLESSSTEEL with winged-hourglass/globe motif. Inscriptions are not independent resistance/authentication proof. Open bracelet/clasp hardware and link construction observed; underside code fragment faint, no complete hardware code asserted. Source2026 warranty attribution not manufacture date. No opened movement/physical L888.5 marking. Full06.6 suffix not explicitly established; no transfer to other dial/bracelet variants or GMT.",
+        "imageDimensions": {
+          "width": 1000,
+          "height": 1333
+        },
+        "imageSha256": "cc8db06a5ee90e8f4ad449269d83b1551362e48f3abbc1a7c7699bcdb64f3735"
+      }
     }
   ]
 }

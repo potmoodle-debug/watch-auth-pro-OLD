@@ -1,0 +1,34 @@
+{
+  "reviewedAt": "2026-10-13T08:07:11.508Z",
+  "completion": "IN PROGRESS",
+  "source": "https://poshmark.com/listing/Longines-Hydroconquest-Green-Dial-Stainless-Steel-42mm-Automatic-Mens-L37884-6ab4cca278e01d6a83313884",
+  "evidence": "Original seller listing explicitly identifies partial L3.788.4 green dial steel bracelet42mm. Eleven original1000x1333 files inspected. Actual green dial/green minute bezel, triangle12, round6/9, baton markers, date3, HYDROCONQUEST/AUTOMATIC/30bar printing. Closed back legibly L3.788.4,HYDROCONQUEST,30bar300meter,MAGNETICRESISTANT,STAINLESSSTEEL with winged-hourglass/globe motif. Inscriptions are not independent resistance/authentication proof. Open bracelet/clasp hardware and link construction observed; underside code fragment faint, no complete hardware code asserted. Source2026 warranty attribution not manufacture date. No opened movement/physical L888.5 marking. Full06.6 suffix not explicitly established; no transfer to other dial/bracelet variants or GMT.",
+  "images": [
+    {
+      "i": 1,
+      "image": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/24/6ab4cca278e01d6a83313884/l_6ab4ccecb552238ac4b75052.jpeg",
+      "sha256": "692ed5f3a1534d80c7ebb42dfecf44d46464d51d6d4ca5981052f321839765ff",
+      "width": 1000,
+      "height": 1333
+    },
+    {
+      "i": 6,
+      "image": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/24/6ab4cca278e01d6a83313884/l_6ab4ccec9c93e0d601b2afe3.jpeg",
+      "sha256": "cc8db06a5ee90e8f4ad449269d83b1551362e48f3abbc1a7c7699bcdb64f3735",
+      "width": 1000,
+      "height": 1333
+    },
+    {
+      "i": 8,
+      "image": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/24/6ab4cca278e01d6a83313884/l_6ab4ccece625d24e018dccf5.jpeg",
+      "sha256": "52fcefac0edd89a6dc20a87b6f2e636aa749f13335f2a7064e95226253a58183",
+      "width": 1000,
+      "height": 1333
+    }
+  ],
+  "gaps": [
+    "No physical calibre/movement photo",
+    "Full suffix/hardware code/originality unresolved",
+    "Queue status unchanged"
+  ]
+}

@@ -63,3 +63,5 @@
 @media(max-width:800px){#visuals{grid-template-columns:1fr}}
 
 .photo-search-dialog{max-height:92vh;overflow:auto}.photo-search-dialog .fields input{min-width:0}.photo-search-dialog form{margin:18px 0}#photoSearchResults{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px}#photoSearchStatus{margin:18px 0;color:var(--muted)}#morePhotoSearch{margin-top:20px}@media(max-width:800px){#photoSearchResults{grid-template-columns:1fr}}
+
+#workdayDialog{width:min(640px,calc(100vw - 32px));max-height:90vh;overflow:auto}#workdayBreaks .workday-break{grid-template-columns:1fr 1fr auto;align-items:end;margin-bottom:12px}#workdayButton{font-size:.85rem;margin-top:8px} @media(max-width:600px){#workdayBreaks .workday-break{grid-template-columns:1fr 1fr}#workdayBreaks .workday-break button{grid-column:1/-1}}

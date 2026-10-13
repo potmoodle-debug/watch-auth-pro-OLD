@@ -1,0 +1,89 @@
+{
+  "reviewedAt": "2026-10-13T08:04:34.237Z",
+  "completion": "IN PROGRESS",
+  "sources": [
+    {
+      "reference": "L3.788.4.06.6",
+      "source": "https://www.longines.com/en-gb/p/watch-hydroconquest-l3-788-4-06-6",
+      "sourceSha256": "c7f341bf930fc4565959c85891bbf6da2521614c67c9293ae7ec861d55646f9c",
+      "selectedDataPath": "@\"ProductPageAdditionalDocument\",\"en-gb\",\"watch-hydroconquest-l3-788-4-06-6\",",
+      "calibre": "L888.5",
+      "diameter": "Ø 42.00 mm",
+      "thickness": "11.70 mm",
+      "lugs": "21 mm",
+      "lugToLug": "51.20 mm"
+    },
+    {
+      "reference": "L3.788.4.56.6",
+      "source": "https://www.longines.com/en-gb/p/watch-hydroconquest-l3-788-4-56-6",
+      "sourceSha256": "8e1ec3cb1c3d4cf84e03f6e0c5d35d20a3dadb58376097ae3135b9dbededba7c",
+      "selectedDataPath": "@\"ProductPageAdditionalDocument\",\"en-gb\",\"watch-hydroconquest-l3-788-4-56-6\",",
+      "calibre": "L888.5",
+      "diameter": "Ø 42.00 mm",
+      "thickness": "11.70 mm",
+      "lugs": "21 mm",
+      "lugToLug": "51.20 mm"
+    },
+    {
+      "reference": "L3.788.4.96.6",
+      "source": "https://www.longines.com/en-gb/p/watch-hydroconquest-l3-788-4-96-6",
+      "sourceSha256": "f311bce3b8b5651a34eccefc1364cf8067552294642e68897648ed7b0e0d6659",
+      "selectedDataPath": "@\"ProductPageAdditionalDocument\",\"en-gb\",\"watch-hydroconquest-l3-788-4-96-6\",",
+      "calibre": "L888.5",
+      "diameter": "Ø 42.00 mm",
+      "thickness": "11.70 mm",
+      "lugs": "21 mm",
+      "lugToLug": "51.20 mm"
+    },
+    {
+      "reference": "L3.788.4.70.6",
+      "source": "https://www.longines.com/en-gb/p/watch-hydroconquest-l3-788-4-70-6",
+      "sourceSha256": "2e7f0fadfeb155b344ae64b3d8e9dcdce509c9967fc38cea20ee4fbdd95478a4",
+      "selectedDataPath": "@\"ProductPageAdditionalDocument\",\"en-gb\",\"watch-hydroconquest-l3-788-4-70-6\",",
+      "calibre": "L888.5",
+      "diameter": "Ø 42.00 mm",
+      "thickness": "11.70 mm",
+      "lugs": "21 mm",
+      "lugToLug": "51.20 mm"
+    },
+    {
+      "reference": "L3.788.4.90.6",
+      "source": "https://www.longines.com/en-gb/p/watch-hydroconquest-l3-788-4-90-6",
+      "sourceSha256": "64825e17f6de466a7291372775603f09c36574e1fad63718385cfd9b776bc13b",
+      "selectedDataPath": "@\"ProductPageAdditionalDocument\",\"en-gb\",\"watch-hydroconquest-l3-788-4-90-6\",",
+      "calibre": "L888.5",
+      "diameter": "Ø 42.00 mm",
+      "thickness": "11.70 mm",
+      "lugs": "21 mm",
+      "lugToLug": "51.20 mm"
+    },
+    {
+      "reference": "L3.788.4.98.6",
+      "source": "https://www.longines.com/en-gb/p/watch-hydroconquest-l3-788-4-98-6",
+      "sourceSha256": "0b04988c628c2f0159983fde5687087477bfbad8bd16147a3efe671e47471c94",
+      "selectedDataPath": "@\"ProductPageAdditionalDocument\",\"en-gb\",\"watch-hydroconquest-l3-788-4-98-6\",",
+      "calibre": "L888.5",
+      "diameter": "Ø 42.00 mm",
+      "thickness": "11.70 mm",
+      "lugs": "21 mm",
+      "lugToLug": "51.20 mm"
+    },
+    {
+      "reference": "L3.788.4.99.6",
+      "source": "https://www.longines.com/en-gb/p/watch-hydroconquest-l3-788-4-99-6",
+      "sourceSha256": "35a1f590e1f60cf15dd184a4b85fff4d50386b0b79904a38009820941ba9db91",
+      "selectedDataPath": "@\"ProductPageAdditionalDocument\",\"en-gb\",\"watch-hydroconquest-l3-788-4-99-6\",",
+      "calibre": "L888.5",
+      "diameter": "Ø 42.00 mm",
+      "thickness": "11.70 mm",
+      "lugs": "21 mm",
+      "lugToLug": "51.20 mm"
+    }
+  ],
+  "gaps": [
+    "Actual photographs in all four categories unverified",
+    "Detailed bracelet configurations for70.6/90.6/99.6 require further pixel/material review",
+    "No individual movement execution or complete historical production interval",
+    "Queue status unchanged"
+  ]
+}

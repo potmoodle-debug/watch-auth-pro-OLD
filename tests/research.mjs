@@ -64,3 +64,17 @@ assert.ok(matchingRule(rules,'TAG Heuer','WAY2113').collectionOnly);
 assert.equal(matchingRule(rules,'TAG Heuer','WAY2113.BA0910'),null);
 assert.equal(matchingRule(rules,'TAG Heuer','WAY2113-9999'),null);
 assert.equal(matchingRule(rules,'Omega','WAY2113'),null);
+
+for(const ref of ['L37884','L3.788.4.06.6','L3.788.4.56.6','L3.788.4.96.6']){
+ const r=matchingRule(rules,'Longines',ref);assert.ok(r.manualReview);assert.equal(movementResult(r,'L888.5').level,'match');
+ for(const c of ['L888','L888.2','L844.5'])assert.equal(movementResult(r,c).level,'caution');
+}
+assert.ok(matchingRule(rules,'Longines','L37884').collectionOnly);
+assert.equal(matchingRule(rules,'Longines','L37884969'),null);
+assert.equal(matchingRule(rules,'Omega','L37884966'),null);
+
+for(const ref of ['L37884706','L37884906','L37884986','L37884996']){
+ const r=matchingRule(rules,'Longines',ref);assert.ok(r.manualReview);assert.equal(movementResult(r,'L888.5').level,'match');assert.equal(movementResult(r,'L888').level,'caution');
+}
+assert.equal(matchingRule(rules,'Longines','L37884999'),null);
+assert.match(matchingRule(rules,'Longines','L37884986').notes,/exclusive edition/);

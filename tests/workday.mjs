@@ -1,0 +1,13 @@
+import assert from 'node:assert/strict';
+import {performanceStats,workdayBlocks} from '../performance.js';
+const plan={start:'08:00',end:'16:00',breaks:[{start:'10:00',end:'11:00'},{start:'12:00',end:'12:30'}]};
+assert.deepEqual(workdayBlocks(plan),[[480,600],[660,720],[750,960]]);
+const before=performanceStats(30,60,new Date('2026-10-13T10:00:00+01:00'),plan),during=performanceStats(30,60,new Date('2026-10-13T10:45:00+01:00'),plan),after=performanceStats(30,60,new Date('2026-10-13T11:00:00+01:00'),plan);
+assert.equal(before.expected,18);assert.equal(during.expected,before.expected);assert.equal(during.rate,before.rate);assert.equal(after.rate,15);assert.equal(after.finish,'13:30');
+assert.equal(performanceStats(0,60,new Date('2026-10-13T07:00:00+01:00'),plan).against,'Before shift');
+assert.equal(performanceStats(60,60,new Date('2026-10-13T11:00:00+01:00'),plan).finish,'Target reached');
+assert.throws(()=>workdayBlocks({...plan,breaks:[{start:'09:00',end:'11:00'},{start:'10:00',end:'12:00'}]}),/overlap/);
+assert.throws(()=>workdayBlocks({...plan,breaks:[{start:'07:00',end:'08:30'}]}),/within/);
+assert.throws(()=>workdayBlocks({...plan,end:'08:00'}),/after/);
+assert.deepEqual(workdayBlocks({start:'08:00',end:'16:00',breaks:[]}),[[480,960]]);
+console.log('Custom workday pace, frozen breaks, future-break forecast and invalid-plan checks passed.');

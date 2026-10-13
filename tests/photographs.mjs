@@ -695,3 +695,12 @@ test('PAM00992 exact execution keeps adjacent references and external movement v
  assert.equal(matchingPhotographs(photos,'Omega','PAM00992').filter(p=>p.id.startsWith('queue-panerai-')).length,0);
  assert.match(get('PAM00992').find(p=>p.category==='movement').caption,/open gear cutout/);
 });
+
+test('L37884 green specimen retains partial scope and closed movement gap',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,externalOnly=false)=>matchingPhotographs(photos,'Longines',ref,{externalOnly}).filter(p=>p.id.startsWith('queue-longines-l37884-'));
+ assert.deepEqual(get('L37884').map(p=>p.category).sort(),['braceletClasp','caseback','front']);
+ assert.equal(get('L37884',true).length,3);assert.ok(get('L37884').every(p=>p.matchScope==='representative variant'));
+ for(const ref of ['L37884066','L37884566','L37884966','L37904','L38904'])assert.equal(get(ref).length,0,ref);
+ assert.equal(matchingPhotographs(photos,'Omega','L37884').filter(p=>p.id.startsWith('queue-longines-l37884-')).length,0);
+});
