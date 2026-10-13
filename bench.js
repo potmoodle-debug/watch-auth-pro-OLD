@@ -1,7 +1,7 @@
 import {matchingPhotographs,mergeReferenceRules} from './photographs.js?v=photos01';
 import {renderPhotoGallery} from './photo-gallery.js?v=search01';
 import {setupPhotoSearch} from './photo-search.js?v=search01';
-import {performanceStats,resetCorrections,defaultWorkday,workdayBlocks} from './performance.js?v=workday01';
+import {performanceStats,resetCorrections,defaultWorkday,workdayBlocks} from './performance.js?v=finishclock01';
 import {technologyReminder} from './movement-reminders.js?v=photos01';
 import {claspMatches,serialHints,needsResearch,replicaSignals} from './qol.js?v=photos01';
 import * as cloud from './cloud.js?v=photos01';

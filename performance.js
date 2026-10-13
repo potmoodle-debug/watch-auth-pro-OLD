@@ -14,7 +14,7 @@ export function performanceStats(completed,target,date=new Date(),plan=defaultWo
  const expected=Math.floor(target*elapsed/total),difference=completed-expected,rate=elapsed>0?Math.max(0,completed)*60/elapsed:0;
  let finish='—',late=false;
  if(completed>=target)finish='Target reached';
- else if(rate>0){let remaining=(target-completed)*60/rate,at=Math.max(shiftStart,now);for(const [s,e] of blocks){const start=Math.max(at,s);if(start>=e)continue;const available=e-start;if(remaining<=available){at=start+remaining;remaining=0;break;}remaining-=available;at=e;}if(remaining>0)at=Math.max(shiftEnd,now)+remaining;const minutes=Math.ceil(at);late=minutes>shiftEnd;finish=late?`${Math.floor((minutes-shiftEnd)/60)}:${String((minutes-shiftEnd)%60).padStart(2,'0')} late`:`${Math.floor(minutes/60)}:${String(minutes%60).padStart(2,'0')}`;}
+ else if(rate>0){let remaining=(target-completed)*60/rate,at=Math.max(shiftStart,now);for(const [s,e] of blocks){const start=Math.max(at,s);if(start>=e)continue;const available=e-start;if(remaining<=available){at=start+remaining;remaining=0;break;}remaining-=available;at=e;}if(remaining>0)at=Math.max(shiftEnd,now)+remaining;const minutes=Math.ceil(at),day=Math.floor(minutes/1440),clock=minutes%1440;late=minutes>shiftEnd;finish=`${Math.floor(clock/60)}:${String(clock%60).padStart(2,'0')}${day?` (+${day} ${day===1?'day':'days'})`:''}${late?' late':''}`;}
  return {expected,difference,rate,finish,late,against:now<shiftStart?'Before shift':difference<0?`${-difference} behind`:difference>0?`${difference} ahead`:'On target'};
 }
 export function resetCorrections(completed,author,workDate,makeId){
