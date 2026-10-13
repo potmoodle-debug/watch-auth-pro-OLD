@@ -1,0 +1,80 @@
+{
+  "reviewedAt": "2026-10-13T13:38:16.373Z",
+  "scope": "BenchAuth Lab missing-reference lookup requests; does not claim complete photograph or specimen authentication coverage",
+  "publishedResearchMain": "efc1e05564e47242e83e4b7e2264a3c44f2de67a",
+  "verifiedResolved": [
+    {
+      "brand": "CARTIER",
+      "reference": "W5000156"
+    },
+    {
+      "brand": "LONGINES",
+      "reference": "L37904"
+    },
+    {
+      "brand": "OMEGA",
+      "reference": "25025000"
+    },
+    {
+      "brand": "TAGHEUER",
+      "reference": "WAY2113"
+    },
+    {
+      "brand": "PANERAI",
+      "reference": "PAM00992"
+    },
+    {
+      "brand": "LONGINES",
+      "reference": "L37884"
+    },
+    {
+      "brand": "TAGHEUER",
+      "reference": "WBY1112"
+    },
+    {
+      "brand": "OMEGA",
+      "reference": "21092422001001"
+    },
+    {
+      "brand": "LONGINES",
+      "reference": "L37644"
+    }
+  ],
+  "counts": {
+    "initial": 57,
+    "verifiedUnchangedExisting": 48,
+    "newDuringAudit": 2,
+    "total": 59,
+    "active": 50,
+    "resolved": 9
+  },
+  "held": [
+    {
+      "brand": "OMEGA",
+      "reference": "WBD2313",
+      "reason": "Wrong brand/reference identity unresolved"
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "7699",
+      "reason": "Reference identity unresolved"
+    },
+    {
+      "brand": "CARTIER",
+      "reference": "83041488",
+      "reason": "Precise calibre unverified; recorded81 not independently established"
+    },
+    {
+      "brand": "BREITLING",
+      "reference": "A32360",
+      "reason": "Observed ETA2893-2 differs from accepted Breitling32 attribution; physical execution review remains"
+    },
+    {
+      "brand": "BREITLING",
+      "reference": "A37320",
+      "reason": "Observed ETA2895-2 differs from accepted Breitling37 attribution; physical execution review remains"
+    }
+  ],
+  "retention": "All59 database records retained. Only9 selected statuses/question-resolution notes changed; all48 original unselected rows verified unchanged. Guarded private rollback and before/after snapshots saved outside public repository.",
+  "validation": "80 Node tests and active/history/resolve/reopen/refresh/escape/mobile/signout browser fixture pass. Live authenticated refresh/RLS remains outstanding."
+}
