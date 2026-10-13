@@ -9412,6 +9412,32 @@
           "finding": "Verified exact specimen; individual originality and full historical execution scope remain unproven."
         }
       }
+    },
+    {
+      "brand": "LONGINES",
+      "reference": "L3.788.4",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-13T08:07:11.508Z",
+          "evidence": "Original seller listing explicitly identifies partial L3.788.4 green dial steel bracelet42mm. Eleven original1000x1333 files inspected. Actual green dial/green minute bezel, triangle12, round6/9, baton markers, date3, HYDROCONQUEST/AUTOMATIC/30bar printing. Closed back legibly L3.788.4,HYDROCONQUEST,30bar300meter,MAGNETICRESISTANT,STAINLESSSTEEL with winged-hourglass/globe motif. Inscriptions are not independent resistance/authentication proof. Open bracelet/clasp hardware and link construction observed; underside code fragment faint, no complete hardware code asserted. Source2026 warranty attribution not manufacture date. No opened movement/physical L888.5 marking. Full06.6 suffix not explicitly established; no transfer to other dial/bracelet variants or GMT.",
+          "finding": "Verified representative green partial-reference specimen; full suffix unproven."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-13T08:07:11.508Z",
+          "evidence": "Original seller listing explicitly identifies partial L3.788.4 green dial steel bracelet42mm. Eleven original1000x1333 files inspected. Actual green dial/green minute bezel, triangle12, round6/9, baton markers, date3, HYDROCONQUEST/AUTOMATIC/30bar printing. Closed back legibly L3.788.4,HYDROCONQUEST,30bar300meter,MAGNETICRESISTANT,STAINLESSSTEEL with winged-hourglass/globe motif. Inscriptions are not independent resistance/authentication proof. Open bracelet/clasp hardware and link construction observed; underside code fragment faint, no complete hardware code asserted. Source2026 warranty attribution not manufacture date. No opened movement/physical L888.5 marking. Full06.6 suffix not explicitly established; no transfer to other dial/bracelet variants or GMT.",
+          "finding": "No opened movement or physical calibre stamp; gap remains."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-13T08:07:11.508Z",
+          "evidence": "Original seller listing explicitly identifies partial L3.788.4 green dial steel bracelet42mm. Eleven original1000x1333 files inspected. Actual green dial/green minute bezel, triangle12, round6/9, baton markers, date3, HYDROCONQUEST/AUTOMATIC/30bar printing. Closed back legibly L3.788.4,HYDROCONQUEST,30bar300meter,MAGNETICRESISTANT,STAINLESSSTEEL with winged-hourglass/globe motif. Inscriptions are not independent resistance/authentication proof. Open bracelet/clasp hardware and link construction observed; underside code fragment faint, no complete hardware code asserted. Source2026 warranty attribution not manufacture date. No opened movement/physical L888.5 marking. Full06.6 suffix not explicitly established; no transfer to other dial/bracelet variants or GMT.",
+          "finding": "Verified representative green partial-reference specimen; full suffix unproven."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-13T08:07:11.508Z",
+          "evidence": "Original seller listing explicitly identifies partial L3.788.4 green dial steel bracelet42mm. Eleven original1000x1333 files inspected. Actual green dial/green minute bezel, triangle12, round6/9, baton markers, date3, HYDROCONQUEST/AUTOMATIC/30bar printing. Closed back legibly L3.788.4,HYDROCONQUEST,30bar300meter,MAGNETICRESISTANT,STAINLESSSTEEL with winged-hourglass/globe motif. Inscriptions are not independent resistance/authentication proof. Open bracelet/clasp hardware and link construction observed; underside code fragment faint, no complete hardware code asserted. Source2026 warranty attribution not manufacture date. No opened movement/physical L888.5 marking. Full06.6 suffix not explicitly established; no transfer to other dial/bracelet variants or GMT.",
+          "finding": "Verified representative green partial-reference specimen; full suffix unproven."
+        }
+      }
     }
   ],
   "sourceRecordReviews": [
@@ -10775,6 +10801,11 @@
       "id": "UPDATE:PANERAI|PAM00992",
       "reviewedAt": "2026-10-13T07:48:35.856Z",
       "evidence": "Original SwissWatchExpo exact PAM00992 specimen page and twelve original photographs inspected. Black dial, beige12/6/sticks, blue hands, small seconds9,8GIORNI/BREVETTATO emblem3; cushion steel case/wire lugs and distressed brown leather with cream stitching. Actual display movement legibly marked P.5000, EIGHTDAYS,21JEWELS, with broad bright bridge and open cutout exposing a gear beside balance. This photographed arrangement is documented, not generic P.5000 execution equivalence. Signed PANERAI pin buckle photo also reveals display movement. Back OP7250/PL007,100m,STAINLESSSTEEL and V0429/1000 observed; no independent originality/performance or manufacture-date inference. Papers10 explicitly PAM00992 with matching specimen identity and March11,2021 date; corroboration only, no authentication or manufacture-date proof. Packaging/papers excluded as category assets. Dealer45mm and manual8day specification attributed; complete production interval unestablished. No neighbouring PAM aliases."
+    },
+    {
+      "id": "UPDATE:LONGINES|L37884",
+      "reviewedAt": "2026-10-13T08:07:11.508Z",
+      "evidence": "Original seller listing explicitly identifies partial L3.788.4 green dial steel bracelet42mm. Eleven original1000x1333 files inspected. Actual green dial/green minute bezel, triangle12, round6/9, baton markers, date3, HYDROCONQUEST/AUTOMATIC/30bar printing. Closed back legibly L3.788.4,HYDROCONQUEST,30bar300meter,MAGNETICRESISTANT,STAINLESSSTEEL with winged-hourglass/globe motif. Inscriptions are not independent resistance/authentication proof. Open bracelet/clasp hardware and link construction observed; underside code fragment faint, no complete hardware code asserted. Source2026 warranty attribution not manufacture date. No opened movement/physical L888.5 marking. Full06.6 suffix not explicitly established; no transfer to other dial/bracelet variants or GMT."
     }
   ]
 }
