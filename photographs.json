@@ -30648,6 +30648,105 @@
         },
         "imageSha256": "c85d0c2c4b19a335b78fd861e6e874f5a21554717d6db61e84cbe5110b57e941"
       }
+    },
+    {
+      "id": "queue-tag-wby1112-front",
+      "brand": "TAGHEUER",
+      "references": [
+        "WBY1112.BA0042"
+      ],
+      "representativeFor": [
+        "WBY1112"
+      ],
+      "variant": "Rasin WBY1112.BA0042 / blue opalin, steel bracelet, closed back / physical movement unverified",
+      "category": "front",
+      "title": "WBY1112.BA0042 actual specimen — front",
+      "caption": "Actual blue dial/bezel, white flange, round/shield markers, red seconds hand and date3. FORMULA1/SOLARGRAPH printing; source exactBA0042.",
+      "image": "https://image1.shopserve.jp/rasin.co.jp/pic-labo/llimg/0050thau0023-1.jpg?t=20260916142929",
+      "source": "https://en.www.rasin.co.jp/SHOP/U-WBY1112BA42.html",
+      "credit": "GINZA RASIN",
+      "mediaKind": "photograph",
+      "origin": "inspected queue research2026-10-13",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T09:03:39.271Z",
+        "loadedAt": "2026-10-13T09:03:39.271Z",
+        "evidence": "Manufacturer exact WBY1112.BA0042 identifies Formula1 Solargraph blue opalin steel38mm/9.9mm/18.5mm lugs,TH-Polylight bezel,plain steel back,solar quartzTH50-00 and100m factory rating. Rasin original exact-reference used specimen gallery inspected: nine fetched640x640 files including repeated front, illustrative mannequin and packaging. Accepted distinct front1,back4,clasp5. Actual blue dial/bezel, white flange, round/shield markers, red seconds,date3,FORMULA1/SOLARGRAPH/SWISSMADE. Closed shield/check-pattern back; peripheral reference/identity too faint to independently assert. Steel folding clasp with TAGHeuer text, pushbuttons and visible protection/marks; originality/code unproven. No opened movement/physical TH50-00 stamp. Full-charge up-to10months and cell-life up-to15years are nominal manufacturer claims, not tested performance or ordinary disposable-cell equivalence. Watch Buyers only generic product image excluded; mannequin/packaging not category photos. No AquaracerWBP1112,otherFormula1suffixes or generic solar movement inheritance.",
+        "imageDimensions": {
+          "width": 640,
+          "height": 640
+        },
+        "imageSha256": "e44c1d2297562f63d9a925992822724dd9928124b382bc696ab8392913742f2c"
+      }
+    },
+    {
+      "id": "queue-tag-wby1112-caseback",
+      "brand": "TAGHEUER",
+      "references": [
+        "WBY1112.BA0042"
+      ],
+      "representativeFor": [
+        "WBY1112"
+      ],
+      "variant": "Rasin WBY1112.BA0042 / blue opalin, steel bracelet, closed back / physical movement unverified",
+      "category": "caseback",
+      "title": "WBY1112.BA0042 actual specimen — caseback",
+      "caption": "Actual closed steel shield/check-pattern back; peripheral reference/identity too faint to independently assert. No movement visible; marks not authentication or performance proof.",
+      "image": "https://image1.shopserve.jp/rasin.co.jp/pic-labo/llimg/0050thau0023-4.jpg?t=20260916142931",
+      "source": "https://en.www.rasin.co.jp/SHOP/U-WBY1112BA42.html",
+      "credit": "GINZA RASIN",
+      "mediaKind": "photograph",
+      "origin": "inspected queue research2026-10-13",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T09:03:39.271Z",
+        "loadedAt": "2026-10-13T09:03:39.271Z",
+        "evidence": "Manufacturer exact WBY1112.BA0042 identifies Formula1 Solargraph blue opalin steel38mm/9.9mm/18.5mm lugs,TH-Polylight bezel,plain steel back,solar quartzTH50-00 and100m factory rating. Rasin original exact-reference used specimen gallery inspected: nine fetched640x640 files including repeated front, illustrative mannequin and packaging. Accepted distinct front1,back4,clasp5. Actual blue dial/bezel, white flange, round/shield markers, red seconds,date3,FORMULA1/SOLARGRAPH/SWISSMADE. Closed shield/check-pattern back; peripheral reference/identity too faint to independently assert. Steel folding clasp with TAGHeuer text, pushbuttons and visible protection/marks; originality/code unproven. No opened movement/physical TH50-00 stamp. Full-charge up-to10months and cell-life up-to15years are nominal manufacturer claims, not tested performance or ordinary disposable-cell equivalence. Watch Buyers only generic product image excluded; mannequin/packaging not category photos. No AquaracerWBP1112,otherFormula1suffixes or generic solar movement inheritance.",
+        "imageDimensions": {
+          "width": 640,
+          "height": 640
+        },
+        "imageSha256": "a8665d7c59c3fee6d52cf561914814e0d6febc526d4e440e681edff30a28d3b9"
+      }
+    },
+    {
+      "id": "queue-tag-wby1112-braceletClasp",
+      "brand": "TAGHEUER",
+      "references": [
+        "WBY1112.BA0042"
+      ],
+      "representativeFor": [
+        "WBY1112"
+      ],
+      "variant": "Rasin WBY1112.BA0042 / blue opalin, steel bracelet, closed back / physical movement unverified",
+      "category": "braceletClasp",
+      "title": "WBY1112.BA0042 actual specimen — braceletClasp",
+      "caption": "Actual steel folding clasp with TAGHeuer text/pushbuttons and visible protection/marks. Hardware code and factory originality unproven; closed back visible.",
+      "image": "https://image1.shopserve.jp/rasin.co.jp/pic-labo/llimg/0050thau0023-5.jpg?t=20260916142931",
+      "source": "https://en.www.rasin.co.jp/SHOP/U-WBY1112BA42.html",
+      "credit": "GINZA RASIN",
+      "mediaKind": "photograph",
+      "origin": "inspected queue research2026-10-13",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-13T09:03:39.271Z",
+        "loadedAt": "2026-10-13T09:03:39.271Z",
+        "evidence": "Manufacturer exact WBY1112.BA0042 identifies Formula1 Solargraph blue opalin steel38mm/9.9mm/18.5mm lugs,TH-Polylight bezel,plain steel back,solar quartzTH50-00 and100m factory rating. Rasin original exact-reference used specimen gallery inspected: nine fetched640x640 files including repeated front, illustrative mannequin and packaging. Accepted distinct front1,back4,clasp5. Actual blue dial/bezel, white flange, round/shield markers, red seconds,date3,FORMULA1/SOLARGRAPH/SWISSMADE. Closed shield/check-pattern back; peripheral reference/identity too faint to independently assert. Steel folding clasp with TAGHeuer text, pushbuttons and visible protection/marks; originality/code unproven. No opened movement/physical TH50-00 stamp. Full-charge up-to10months and cell-life up-to15years are nominal manufacturer claims, not tested performance or ordinary disposable-cell equivalence. Watch Buyers only generic product image excluded; mannequin/packaging not category photos. No AquaracerWBP1112,otherFormula1suffixes or generic solar movement inheritance.",
+        "imageDimensions": {
+          "width": 640,
+          "height": 640
+        },
+        "imageSha256": "4717c897ad81dfa6f971f1fb540761944f497abfbe580bac0cd80cd8299cf0fa"
+      }
     }
   ]
 }

@@ -713,3 +713,12 @@ test('Cartier83041488 photos retain service limits without adjacent or case-code
  assert.equal(matchingPhotographs(photos,'Omega','83041488').filter(p=>p.id.startsWith('queue-cartier-83041488-')).length,0);
  assert.match(get('83041488').find(p=>p.category==='front').caption,/replacements/);
 });
+
+test('WBY1112 exact blue specimen stays separate from Aquaracer and undocumented suffixes',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,externalOnly=false)=>matchingPhotographs(photos,'TAG Heuer',ref,{externalOnly}).filter(p=>p.id.startsWith('queue-tag-wby1112-'));
+ for(const ref of ['WBY1112','WBY1112.BA0042']){assert.deepEqual(get(ref).map(p=>p.category).sort(),['braceletClasp','caseback','front']);assert.equal(get(ref,true).length,3);}
+ assert.ok(get('WBY1112').every(p=>p.matchScope==='representative variant'));
+ for(const ref of ['WBP1112','WBP1112.FT6199','WBY1111.BA0042','WBY1112.FT0000'])assert.equal(get(ref).length,0,ref);
+ assert.equal(matchingPhotographs(photos,'Omega','WBY1112').filter(p=>p.id.startsWith('queue-tag-wby1112-')).length,0);
+});
