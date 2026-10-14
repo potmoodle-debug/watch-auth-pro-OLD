@@ -1,0 +1,139 @@
+{
+  "reviewedAt": "2026-10-14T14:25:19.615Z",
+  "completion": "IN PROGRESS",
+  "reference": "H384290",
+  "sources": [
+    {
+      "id": "whiteH38429710",
+      "url": "https://www.hamiltonwatch.com/en-gb/h38429710-american-classic-intra-matic-chronograph-h.html",
+      "finalUrl": "https://www.hamiltonwatch.com/en-gb/h38429710-american-classic-intra-matic-chronograph-h.html",
+      "status": 200,
+      "bytes": 676535,
+      "sha256": "ada75199a22f744f5c921b01a81247278d4ef1d4452c800069a67234aa36606a",
+      "at": "2026-10-14T14:17:07.484Z"
+    },
+    {
+      "id": "blackH38429130",
+      "url": "https://www.hamiltonwatch.com/en-us/h38429130-american-classic-intra-matic-chronograph-h.html",
+      "finalUrl": "https://www.hamiltonwatch.com/en-us/h38429130-american-classic-intra-matic-chronograph-h.html",
+      "status": 200,
+      "bytes": 558180,
+      "sha256": "4e7abb35358f311453c5eaf53c74e8b89bedff92e56b424dd7682d83e08b12c8",
+      "at": "2026-10-14T14:17:08.270Z"
+    },
+    {
+      "id": "shuckH384290",
+      "url": "https://www.shucktheoyster.com/portfolio/hamilton-vintage-style-chronograph-h384290/",
+      "finalUrl": "https://www.shucktheoyster.com/portfolio/hamilton-vintage-style-chronograph-h384290/",
+      "status": 200,
+      "bytes": 135537,
+      "sha256": "6213855af3af1289af94071a5102345e2e4952d2ef05cb4e5d56a32e801b6b39",
+      "at": "2026-10-14T14:17:08.659Z"
+    }
+  ],
+  "technical": [
+    {
+      "id": "whiteH38429710",
+      "fields": {
+        "Reference": "H38429710",
+        "Caliber": "H-51",
+        "Collection": "American Classic",
+        "Movement": "Mechanical",
+        "Watch Function": "Chronograph, Tachymeter",
+        "Case size": "40mm",
+        "Thickness (mm)": "14.35",
+        "Dial color": "White",
+        "Case material": "Stainless steel",
+        "Crystal": "Sapphire",
+        "Lug to lug": "49mm",
+        "Lug width": "20mm lug width",
+        "Power reserve": "60 hour",
+        "Status": "Past collection",
+        "Water Resistance": "10 bar (100m)",
+        "Anti Reflection": "Yes",
+        "Super Luminova": "Yes",
+        "Strap reference": "H6003841151",
+        "Buckle type": "Pin buckle",
+        "Buckle width": "18mm"
+      }
+    },
+    {
+      "id": "blackH38429130",
+      "fields": {
+        "Reference": "H38429130",
+        "Caliber": "H-51",
+        "Collection": "American Classic",
+        "Movement": "Mechanical",
+        "Watch Function": "Chronograph, Tachymeter",
+        "Case size": "40mm",
+        "Thickness (mm)": "14.35",
+        "Dial color": "Black",
+        "Case material": "Stainless steel",
+        "Crystal": "Sapphire",
+        "Lug to lug": "49mm",
+        "Lug width": "20mm",
+        "Power reserve": "60 hour",
+        "Status": "Past collection",
+        "Water Resistance": "10 bar (100m)/145 psi (328ft)",
+        "Anti Reflection": "Yes",
+        "Super Luminova": "Yes",
+        "Strap reference": "H6053841041",
+        "Strap type": "Stainless steel",
+        "Buckle type": "Folding clasp",
+        "Buckle width": "20mm"
+      }
+    }
+  ],
+  "images": [
+    {
+      "i": 0,
+      "image": "https://shucktheoyster.b-cdn.net/wp-content/uploads/2025/05/4_024-1.jpg",
+      "file": "0.jpg",
+      "status": 200,
+      "bytes": 303538,
+      "sha256": "149793fb1b71a06729bd932ab43bd7c4394e8431d5ac8b5abcbfde60133250ee",
+      "width": 1385,
+      "height": 2061
+    },
+    {
+      "i": 6,
+      "image": "https://shucktheoyster.b-cdn.net/wp-content/uploads/2025/05/4_040.jpg",
+      "file": "6.jpg",
+      "status": 200,
+      "bytes": 168782,
+      "sha256": "4c4404facd189713db76153ef0dcf410a51bf4870abbf0fe2cd715e927ada827",
+      "width": 1431,
+      "height": 954
+    },
+    {
+      "i": 8,
+      "image": "https://shucktheoyster.b-cdn.net/wp-content/uploads/2025/05/4_038.jpg",
+      "file": "8.jpg",
+      "status": 200,
+      "bytes": 193273,
+      "sha256": "88e47fc0857f7f6d83ac9cdbcb487cdbaf6416c07a848dc901802d717a6be0d5",
+      "width": 1431,
+      "height": 954
+    },
+    {
+      "i": 10,
+      "image": "https://shucktheoyster.b-cdn.net/wp-content/uploads/2025/05/4_037.jpg",
+      "file": "10.jpg",
+      "status": 200,
+      "bytes": 199510,
+      "sha256": "c044b24e1086fd8cf92de7b1e0fa48a446a7a7f9fadac07e0d51a814aeaaf168",
+      "width": 1431,
+      "height": 954
+    }
+  ],
+  "galleryEntries": 4,
+  "distinctFiles": 4,
+  "evidence": "Original ShucktheOyster H384290 source describes cream/black-subdial40mm manual chronograph on black leather.16original gallery files contact-inspected;full0/6/7/8/10 inspected. Closedback8 physicallyH384290,Hamilton and10bar legends;opened6/7 Hamilton decorated manual chronograph with25JEWELS/TWENTY-FIVE/SWISS markings. No readableA05291 orH-51 marking established. Signedpinbuckle10. Original manufacturer H38429710 white/leather andH38429130 black/bracelet product fields supportH-51/40mm/60h for those separate retailreferences,not inferredaliases or accepted supplier equivalence for thiscasecode. Card14 is seller-associated handwritten retailreference,not independent factory identity/date/originality proof. Seller2021 assertion andnominalresistance notspecimen dating/performance/authentication. No neighbouringreference/retailsuffix/calibre inference.",
+  "gaps": [
+    "Physical A05291/H-51 designation",
+    "Full retail reference/variant identity",
+    "Individual manufacture date and complete production interval",
+    "Hardware/component originality"
+  ],
+  "queueStatus": "Keep open: recordedA05291 execution unverified"
+}
