@@ -9802,6 +9802,32 @@
           "finding": "No exact full-suffix actual specimen photograph evidence accepted."
         }
       }
+    },
+    {
+      "brand": "OMEGA",
+      "reference": "Seamaster Diver",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-14T12:08:07.624Z",
+          "evidence": "Original Omega regional collection and two exact product pages inspected/archived with hashes. Collection contains multiple calibres,date/no-date and chronograph executions;older exact212.30.36.20.01.001 specifies36.25mm/2500 whileexact210.32.42.20.04.002 specifies42mm/8806. Broad SeamasterDiver name and recorded8800 do not establish exact case reference,calibre,size,generation,period,material or originality. No family-name photo inheritance;no new actual photographs accepted. Existing exact-reference photographs/rules remain separate. All four photo categories unsupported for the unidentified broad request;further exact identity/physical execution research remains open.",
+          "finding": "No exact case reference for broad family request; photograph category unsupported. Further identity/physical research open."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-14T12:08:07.624Z",
+          "evidence": "Original Omega regional collection and two exact product pages inspected/archived with hashes. Collection contains multiple calibres,date/no-date and chronograph executions;older exact212.30.36.20.01.001 specifies36.25mm/2500 whileexact210.32.42.20.04.002 specifies42mm/8806. Broad SeamasterDiver name and recorded8800 do not establish exact case reference,calibre,size,generation,period,material or originality. No family-name photo inheritance;no new actual photographs accepted. Existing exact-reference photographs/rules remain separate. All four photo categories unsupported for the unidentified broad request;further exact identity/physical execution research remains open.",
+          "finding": "No exact case reference for broad family request; photograph category unsupported. Further identity/physical research open."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-14T12:08:07.624Z",
+          "evidence": "Original Omega regional collection and two exact product pages inspected/archived with hashes. Collection contains multiple calibres,date/no-date and chronograph executions;older exact212.30.36.20.01.001 specifies36.25mm/2500 whileexact210.32.42.20.04.002 specifies42mm/8806. Broad SeamasterDiver name and recorded8800 do not establish exact case reference,calibre,size,generation,period,material or originality. No family-name photo inheritance;no new actual photographs accepted. Existing exact-reference photographs/rules remain separate. All four photo categories unsupported for the unidentified broad request;further exact identity/physical execution research remains open.",
+          "finding": "No exact case reference for broad family request; photograph category unsupported. Further identity/physical research open."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-14T12:08:07.624Z",
+          "evidence": "Original Omega regional collection and two exact product pages inspected/archived with hashes. Collection contains multiple calibres,date/no-date and chronograph executions;older exact212.30.36.20.01.001 specifies36.25mm/2500 whileexact210.32.42.20.04.002 specifies42mm/8806. Broad SeamasterDiver name and recorded8800 do not establish exact case reference,calibre,size,generation,period,material or originality. No family-name photo inheritance;no new actual photographs accepted. Existing exact-reference photographs/rules remain separate. All four photo categories unsupported for the unidentified broad request;further exact identity/physical execution research remains open.",
+          "finding": "No exact case reference for broad family request; photograph category unsupported. Further identity/physical research open."
+        }
+      }
     }
   ],
   "sourceRecordReviews": [
@@ -11240,6 +11266,11 @@
       "id": "UPDATE:TAGHEUER|WBP5A8ABF0619",
       "reviewedAt": "2026-10-14T09:54:20.223Z",
       "evidence": "Original Watches by TimepieceTH380 identifies actual WBP5A8A black titanium45mm bracelet specimen. Twelve original images contact-inspected; full front1,closed back5/7 and clasp6 inspected. Selected1,7,6. Back7 partly obscured by plastic holder/bracelet and out of focus; full reference/suffix/serial not reliably legible. Manufacturer exactWBP5A8A.BF0619 page independently read through web tool2026-10-14 attributesTH30-00 automatic70h,45mm titanium case,steel closed back and titanium bracelet/pushbutton clasp. Shell2755byte response lacks reference/specs and is not accepted primary content. Manufacturer product image provenance uncertain; generic movement.svg excluded. Dealer suffixBF0619 not proven; photographs representativeForWBP5A8A only, never inherited by full suffix. Seller2024/box/papers not manufacture or originality proof; no opened movement or physicalTH30-00 stamp. Factory rating/certification not current specimen performance/authenticity. No other Aquaracer or common-calibre equivalence."
+    },
+    {
+      "id": "RULE:0010",
+      "reviewedAt": "2026-10-14T12:08:07.624Z",
+      "evidence": "Original Omega regional collection and two exact product pages inspected/archived with hashes. Collection contains multiple calibres,date/no-date and chronograph executions;older exact212.30.36.20.01.001 specifies36.25mm/2500 whileexact210.32.42.20.04.002 specifies42mm/8806. Broad SeamasterDiver name and recorded8800 do not establish exact case reference,calibre,size,generation,period,material or originality. No family-name photo inheritance;no new actual photographs accepted. Existing exact-reference photographs/rules remain separate. All four photo categories unsupported for the unidentified broad request;further exact identity/physical execution research remains open."
     }
   ]
 }

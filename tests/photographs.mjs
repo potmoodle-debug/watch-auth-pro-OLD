@@ -776,6 +776,13 @@ test('Legend Diver green bracelet photos do not supply other dial, strap or size
  assert.equal(matchingPhotographs(photos,'Omega','L3.764.4.06.6').filter(p=>p.id.startsWith('queue-longines-l37644-grand-')).length,0);
 });
 
+test('Broad Seamaster Diver never inherits exact-reference photographs',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ assert.equal(matchingPhotographs(photos,'Omega','Seamaster Diver').length,0);
+ assert.equal(matchingPhotographs(photos,'Omega','SeamasterDiver',{externalOnly:true}).length,0);
+ assert.equal(matchingPhotographs(photos,'Omega','22525000').filter(p=>p.id.startsWith('queue-omega-22525000-swe-')).length,3);
+});
+
 test('WBP5A8A base photographs exclude full-suffix and neighbouring Aquaracers',()=>{
  const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
  const get=(ref,externalOnly=false)=>matchingPhotographs(photos,'TAG Heuer',ref,{externalOnly}).filter(p=>p.id.startsWith('queue-tag-wbp5a8a-timepiece-'));

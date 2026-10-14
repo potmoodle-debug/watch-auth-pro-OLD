@@ -106,3 +106,6 @@ const queuedOmega2252=matchingRule(rules,'Omega','22525000');assert.ok(queuedOme
 for(const ref of ['WBP5A8A','WBP5A8A.BF0619']){const r=matchingRule(rules,'TAG Heuer',ref);assert.ok(r.manualReview);assert.equal(movementResult(r,'TH30-00').level,'match');for(const calibre of ['MT5612','SW300-1','ETA2824-2'])assert.equal(movementResult(r,calibre).level,'caution');}
 assert.ok(matchingRule(rules,'TAG Heuer','WBP5A8A').collectionOnly);assert.equal(matchingRule(rules,'TAG Heuer','WBP5A8A.FT0000'),null);assert.equal(matchingRule(rules,'Omega','WBP5A8A'),null);
 assert.match(matchingRule(rules,'TAG Heuer','WBP5A8A.BF0619').technicalDetail.imageCoverage,/intentionally excluded/);
+
+const broadDiver=matchingRule(rules,'Omega','Seamaster Diver');assert.ok(broadDiver.collectionOnly&&broadDiver.manualReview);assert.deepEqual(broadDiver.calibre,[]);assert.equal(movementResult(broadDiver,'8800'),null);assert.equal(movementResult(broadDiver,'2500'),null);assert.equal(movementResult(broadDiver,'8806'),null);assert.match(broadDiver.size,/Exact reference required/);assert.match(broadDiver.production,/exact reference required/);assert.match(broadDiver.family,/exact reference required/);
+assert.equal(movementResult(matchingRule(rules,'Omega','22525000'),'1120').level,'match');assert.equal(movementResult(matchingRule(rules,'Omega','21092422001001'),'8806').level,'match');
