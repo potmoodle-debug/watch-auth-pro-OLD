@@ -4,30 +4,30 @@
   "counting": "Stored identifier keys deduplicate punctuation/case only; documented M-prefixed aliases and base/catalogue identifiers remain separate lookup keys. Patterns are source records, never claimed as enumerated exact references. Textual model research is not photograph verification. verifiedAssets counts category/gallery entries; verifiedImageUrls counts distinct stored URLs; verifiedImageFiles deduplicates inspected file hashes (falling back to URL when unavailable).",
   "counts": {
     "repositoryRuleRecords": 937,
-    "repositoryResearchUpdates": 92,
-    "sourceRuleRecords": 1029,
+    "repositoryResearchUpdates": 93,
+    "sourceRuleRecords": 1030,
     "sharedReferenceFactRows": 982,
     "sharedVerifiedTextRows": 47,
     "importedCatalogueVariantRecords": 1465,
-    "sourceInventoryRecords": 2494,
-    "storedIdentifierKeys": 2284,
+    "sourceInventoryRecords": 2495,
+    "storedIdentifierKeys": 2285,
     "sourceRecordsUnreviewed": 2218,
     "identifierKeysUnreviewed": 1936,
-    "identifierKeysReviewed": 348,
-    "sourceRecordsReviewed": 276,
-    "reviewedIdentifierCategoryPairs": 1392,
-    "catalogueAssets": 953,
+    "identifierKeysReviewed": 349,
+    "sourceRecordsReviewed": 277,
+    "reviewedIdentifierCategoryPairs": 1396,
+    "catalogueAssets": 957,
     "legacyAssets": 31,
-    "verifiedAssets": 918,
-    "verifiedImageUrls": 869,
-    "verifiedImageFiles": 868,
+    "verifiedAssets": 922,
+    "verifiedImageUrls": 872,
+    "verifiedImageFiles": 871,
     "pendingAssets": 26,
     "rejectedAssets": 9,
     "verifiedIdentifierKeysByCategory": {
-      "front": 283,
-      "movement": 108,
-      "caseback": 250,
-      "braceletClasp": 244
+      "front": 284,
+      "movement": 109,
+      "caseback": 251,
+      "braceletClasp": 245
     },
     "byBrand": {
       "TUDOR": {
@@ -251,13 +251,13 @@
         }
       },
       "HUBLOT": {
-        "storedIdentifierKeys": 5,
+        "storedIdentifierKeys": 6,
         "unreviewed": 5,
         "verifiedByCategory": {
-          "front": 0,
-          "movement": 0,
-          "caseback": 0,
-          "braceletClasp": 0
+          "front": 1,
+          "movement": 1,
+          "caseback": 1,
+          "braceletClasp": 1
         }
       },
       "IWC": {
@@ -1452,6 +1452,7 @@
     {"id":"UPDATE:RAYMONDWEIL|2761STC50001","brand":"RAYMONDWEIL","key":"2761-STC-50001","scope":"reference rule","status":"reviewed for photographs"},
     {"id":"UPDATE:CARTIER|W2SA0028","brand":"CARTIER","key":"W2SA0028","scope":"reference rule","status":"reviewed for photographs"},
     {"id":"UPDATE:OMEGA|21022445101001","brand":"OMEGA","key":"210.22.44.51.01.001","scope":"reference rule","status":"reviewed for photographs"},
+    {"id":"UPDATE:HUBLOT|542NX1171RX","brand":"HUBLOT","key":"542.NX.1171.RX","scope":"reference rule","status":"reviewed for photographs"},
     {"id":"CATALOGUE:M52506-0003","brand":"ROLEX","key":"m52506-0003","scope":"catalogue variant","status":"unreviewed for photographs"},
     {"id":"CATALOGUE:M52508-0002","brand":"ROLEX","key":"m52508-0002","scope":"catalogue variant","status":"unreviewed for photographs"},
     {"id":"CATALOGUE:M52508-0005","brand":"ROLEX","key":"m52508-0005","scope":"catalogue variant","status":"unreviewed for photographs"},
@@ -5056,6 +5057,7 @@
     {"brand":"Hublot","reference":"521.CM.1771.RX","aliases":["521.CM.1771.RX"],"origins":["rules"],"sources":[],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
     {"brand":"Hublot","reference":"542.NX.1171.LR","aliases":["542.NX.1171.LR"],"origins":["rules"],"sources":[],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
     {"brand":"Hublot","reference":"561.ZP.1180.RX","aliases":["561.ZP.1180.RX"],"origins":["rules"],"sources":[],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
+    {"brand":"HUBLOT","reference":"542.NX.1171.RX","aliases":["542.NX.1171.RX"],"origins":["research updates"],"sources":["https://www.hublot.com/en-int/watches/classic-fusion/classic-fusion-titanium-rubber-42-mm"],"reviewStatus":"reviewed","categories":{"front":{"status":"verified","photographIds":["queue-hublot542-ewc-front"],"candidateIds":["queue-hublot542-ewc-front"],"review":{"reviewedAt":"2026-10-14T13:51:04.315Z","evidence":"Exact official Hublot page attributes 42 mm titanium, matte black dial, black rubber, stainless steel deployant and HUB1110 self-winding/approx48 hours. Original EWC62252 page identifies same full reference; eight original gallery files contact-inspected and full0/5/6 inspected. Front0, exhibition movement/shared back6 and opened deployant5 selected. Signed Hublot rotor and movement through sealed glass visible; supplier SW300-1 marking/execution not independently established. No opened movement, complete individual identity, manufacture date, assay or parts originality proof. Clasp5 includes blurred background movement and must be externally suppressed. Manufacturer source attribution does not accept SW300-1 or HUB1112 equivalence. No leather LR, ceramic CM,45mm511,blue7170,diamond/WOS24 suffix inheritance. EWC seller warranty/condition is not authentication of the user specimen. Other retailer42h and9/11mm thickness discrepancies are not used as specimen tests.","finding":"Exact source-identified execution; physical supplier/date/originality evidence remains open."}},"movement":{"status":"verified","photographIds":["queue-hublot542-ewc-movement"],"candidateIds":["queue-hublot542-ewc-movement"],"review":{"reviewedAt":"2026-10-14T13:51:04.315Z","evidence":"Exact official Hublot page attributes 42 mm titanium, matte black dial, black rubber, stainless steel deployant and HUB1110 self-winding/approx48 hours. Original EWC62252 page identifies same full reference; eight original gallery files contact-inspected and full0/5/6 inspected. Front0, exhibition movement/shared back6 and opened deployant5 selected. Signed Hublot rotor and movement through sealed glass visible; supplier SW300-1 marking/execution not independently established. No opened movement, complete individual identity, manufacture date, assay or parts originality proof. Clasp5 includes blurred background movement and must be externally suppressed. Manufacturer source attribution does not accept SW300-1 or HUB1112 equivalence. No leather LR, ceramic CM,45mm511,blue7170,diamond/WOS24 suffix inheritance. EWC seller warranty/condition is not authentication of the user specimen. Other retailer42h and9/11mm thickness discrepancies are not used as specimen tests.","finding":"Exact source-identified execution; physical supplier/date/originality evidence remains open."}},"caseback":{"status":"verified","photographIds":["queue-hublot542-ewc-caseback"],"candidateIds":["queue-hublot542-ewc-caseback"],"review":{"reviewedAt":"2026-10-14T13:51:04.315Z","evidence":"Exact official Hublot page attributes 42 mm titanium, matte black dial, black rubber, stainless steel deployant and HUB1110 self-winding/approx48 hours. Original EWC62252 page identifies same full reference; eight original gallery files contact-inspected and full0/5/6 inspected. Front0, exhibition movement/shared back6 and opened deployant5 selected. Signed Hublot rotor and movement through sealed glass visible; supplier SW300-1 marking/execution not independently established. No opened movement, complete individual identity, manufacture date, assay or parts originality proof. Clasp5 includes blurred background movement and must be externally suppressed. Manufacturer source attribution does not accept SW300-1 or HUB1112 equivalence. No leather LR, ceramic CM,45mm511,blue7170,diamond/WOS24 suffix inheritance. EWC seller warranty/condition is not authentication of the user specimen. Other retailer42h and9/11mm thickness discrepancies are not used as specimen tests.","finding":"Exact source-identified execution; physical supplier/date/originality evidence remains open."}},"braceletClasp":{"status":"verified","photographIds":["queue-hublot542-ewc-braceletClasp"],"candidateIds":["queue-hublot542-ewc-braceletClasp"],"review":{"reviewedAt":"2026-10-14T13:51:04.315Z","evidence":"Exact official Hublot page attributes 42 mm titanium, matte black dial, black rubber, stainless steel deployant and HUB1110 self-winding/approx48 hours. Original EWC62252 page identifies same full reference; eight original gallery files contact-inspected and full0/5/6 inspected. Front0, exhibition movement/shared back6 and opened deployant5 selected. Signed Hublot rotor and movement through sealed glass visible; supplier SW300-1 marking/execution not independently established. No opened movement, complete individual identity, manufacture date, assay or parts originality proof. Clasp5 includes blurred background movement and must be externally suppressed. Manufacturer source attribution does not accept SW300-1 or HUB1112 equivalence. No leather LR, ceramic CM,45mm511,blue7170,diamond/WOS24 suffix inheritance. EWC seller warranty/condition is not authentication of the user specimen. Other retailer42h and9/11mm thickness discrepancies are not used as specimen tests.","finding":"Exact source-identified execution; physical supplier/date/originality evidence remains open."}}}},
     {"brand":"IWC","reference":"IW323906","aliases":["IW323906"],"origins":["rules"],"sources":[],"reviewStatus":"reviewed","categories":{"front":{"status":"verified","photographIds":["bukowskis-archive-iw323906-663-1075-front-0"],"candidateIds":["bukowskis-archive-iw323906-663-1075-front-0"],"review":{"reviewedAt":"2026-10-08T16:32:56.090986+00:00","evidence":"Inspected https://www.bukowskis.com/en/auctions/663/1075-iwc-ingenieur-ca-2018, exact lot identification and all 17 actual gallery images. Exact IW323906. Auction notes the model was discontinued in 2017 but sold circa 2018; an accompanying manual for reference 3570 is not this watch’s identification. Compare closed anti-magnetic back and outer bracelet clasp; interior clasp codes are not shown. Selected image 0 with period/variant boundaries. ","finding":"verified representative specimen"}},"movement":{"status":"verified","photographIds":["bukowskis-archive-iw323906-663-1075-movement-15"],"candidateIds":["bukowskis-archive-iw323906-663-1075-movement-15"],"review":{"reviewedAt":"2026-10-08T16:32:56.090986+00:00","evidence":"Inspected https://www.bukowskis.com/en/auctions/663/1075-iwc-ingenieur-ca-2018, exact lot identification and all 17 actual gallery images. Exact IW323906. Auction notes the model was discontinued in 2017 but sold circa 2018; an accompanying manual for reference 3570 is not this watch’s identification. Compare closed anti-magnetic back and outer bracelet clasp; interior clasp codes are not shown. Selected image 15 with period/variant boundaries. The opened specimen shows C.30110 and 21 JEWELS, a gilt-lettered IWC rotor and striped execution. Caseback serial 6010527 matches the lot; the inner shielding cap is also documented in the gallery.","finding":"verified representative specimen"}},"caseback":{"status":"verified","photographIds":["bukowskis-archive-iw323906-663-1075-caseback-5"],"candidateIds":["bukowskis-archive-iw323906-663-1075-caseback-5"],"review":{"reviewedAt":"2026-10-08T16:32:56.090986+00:00","evidence":"Inspected https://www.bukowskis.com/en/auctions/663/1075-iwc-ingenieur-ca-2018, exact lot identification and all 17 actual gallery images. Exact IW323906. Auction notes the model was discontinued in 2017 but sold circa 2018; an accompanying manual for reference 3570 is not this watch’s identification. Compare closed anti-magnetic back and outer bracelet clasp; interior clasp codes are not shown. Selected image 5 with period/variant boundaries. ","finding":"verified representative specimen"}},"braceletClasp":{"status":"verified","photographIds":["bukowskis-archive-iw323906-663-1075-braceletClasp-4"],"candidateIds":["bukowskis-archive-iw323906-663-1075-braceletClasp-4"],"review":{"reviewedAt":"2026-10-08T16:32:56.090986+00:00","evidence":"Inspected https://www.bukowskis.com/en/auctions/663/1075-iwc-ingenieur-ca-2018, exact lot identification and all 17 actual gallery images. Exact IW323906. Auction notes the model was discontinued in 2017 but sold circa 2018; an accompanying manual for reference 3570 is not this watch’s identification. Compare closed anti-magnetic back and outer bracelet clasp; interior clasp codes are not shown. Selected image 4 with period/variant boundaries. ","finding":"verified representative specimen"}}}},
     {"brand":"IWC","reference":"IW327004","aliases":["IW327004"],"origins":["rules"],"sources":[],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
     {"brand":"IWC","reference":"IW328106","aliases":["IW328106"],"origins":["research updates"],"sources":["https://www.iwc.com/gb-en/watches/pilot-watches/iw328106-pilots-watch-automatic-41-top-gun-mojave-desert"],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
