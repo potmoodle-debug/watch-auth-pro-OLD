@@ -776,6 +776,16 @@ test('Legend Diver green bracelet photos do not supply other dial, strap or size
  assert.equal(matchingPhotographs(photos,'Omega','L3.764.4.06.6').filter(p=>p.id.startsWith('queue-longines-l37644-grand-')).length,0);
 });
 
+test('WBP5A8A base photographs exclude full-suffix and neighbouring Aquaracers',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,externalOnly=false)=>matchingPhotographs(photos,'TAG Heuer',ref,{externalOnly}).filter(p=>p.id.startsWith('queue-tag-wbp5a8a-timepiece-'));
+ assert.deepEqual(get('WBP5A8A').map(p=>p.category).sort(),['braceletClasp','caseback','front']);assert.equal(get('WBP5A8A',true).length,3);
+ assert.ok(get('WBP5A8A').every(p=>p.matchScope==='representative variant'));
+ for(const ref of ['WBP5A8A.BF0619','WBP5A8ABF0619','WBP5A8A.FT0000','WBP5183','WBP201A0','WBP5A8'])assert.equal(get(ref).length,0,ref);
+ assert.equal(matchingPhotographs(photos,'Omega','WBP5A8A').filter(p=>p.id.startsWith('queue-tag-wbp5a8a-timepiece-')).length,0);
+ assert.match(get('WBP5A8A').find(p=>p.category==='caseback').caption,/partly obscured/);
+});
+
 test('Omega007 NATO specimen does not supply mesh or neighbouring suffix coverage',()=>{
  const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
  const get=(ref,externalOnly=false)=>matchingPhotographs(photos,'Omega',ref,{externalOnly}).filter(p=>p.id.startsWith('queue-omega-21092422001001-'));
