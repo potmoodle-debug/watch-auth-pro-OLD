@@ -10114,6 +10114,32 @@
           "finding": "No accepted actual specimen photos for this suffix; further original-source research remains open."
         }
       }
+    },
+    {
+      "brand": "HAMILTON",
+      "reference": "H384290",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-14T14:25:19.615Z",
+          "evidence": "Original ShucktheOyster H384290 source describes cream/black-subdial40mm manual chronograph on black leather.16original gallery files contact-inspected;full0/6/7/8/10 inspected. Closedback8 physicallyH384290,Hamilton and10bar legends;opened6/7 Hamilton decorated manual chronograph with25JEWELS/TWENTY-FIVE/SWISS markings. No readableA05291 orH-51 marking established. Signedpinbuckle10. Original manufacturer H38429710 white/leather andH38429130 black/bracelet product fields supportH-51/40mm/60h for those separate retailreferences,not inferredaliases or accepted supplier equivalence for thiscasecode. Card14 is seller-associated handwritten retailreference,not independent factory identity/date/originality proof. Seller2021 assertion andnominalresistance notspecimen dating/performance/authentication. No neighbouringreference/retailsuffix/calibre inference.",
+          "finding": "Actual source specimen inspected; precisecalibre/fullretailidentity/date/componentoriginality remain gaps."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-14T14:25:19.615Z",
+          "evidence": "Original ShucktheOyster H384290 source describes cream/black-subdial40mm manual chronograph on black leather.16original gallery files contact-inspected;full0/6/7/8/10 inspected. Closedback8 physicallyH384290,Hamilton and10bar legends;opened6/7 Hamilton decorated manual chronograph with25JEWELS/TWENTY-FIVE/SWISS markings. No readableA05291 orH-51 marking established. Signedpinbuckle10. Original manufacturer H38429710 white/leather andH38429130 black/bracelet product fields supportH-51/40mm/60h for those separate retailreferences,not inferredaliases or accepted supplier equivalence for thiscasecode. Card14 is seller-associated handwritten retailreference,not independent factory identity/date/originality proof. Seller2021 assertion andnominalresistance notspecimen dating/performance/authentication. No neighbouringreference/retailsuffix/calibre inference.",
+          "finding": "Actual source specimen inspected; precisecalibre/fullretailidentity/date/componentoriginality remain gaps."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-14T14:25:19.615Z",
+          "evidence": "Original ShucktheOyster H384290 source describes cream/black-subdial40mm manual chronograph on black leather.16original gallery files contact-inspected;full0/6/7/8/10 inspected. Closedback8 physicallyH384290,Hamilton and10bar legends;opened6/7 Hamilton decorated manual chronograph with25JEWELS/TWENTY-FIVE/SWISS markings. No readableA05291 orH-51 marking established. Signedpinbuckle10. Original manufacturer H38429710 white/leather andH38429130 black/bracelet product fields supportH-51/40mm/60h for those separate retailreferences,not inferredaliases or accepted supplier equivalence for thiscasecode. Card14 is seller-associated handwritten retailreference,not independent factory identity/date/originality proof. Seller2021 assertion andnominalresistance notspecimen dating/performance/authentication. No neighbouringreference/retailsuffix/calibre inference.",
+          "finding": "Actual source specimen inspected; precisecalibre/fullretailidentity/date/componentoriginality remain gaps."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-14T14:25:19.615Z",
+          "evidence": "Original ShucktheOyster H384290 source describes cream/black-subdial40mm manual chronograph on black leather.16original gallery files contact-inspected;full0/6/7/8/10 inspected. Closedback8 physicallyH384290,Hamilton and10bar legends;opened6/7 Hamilton decorated manual chronograph with25JEWELS/TWENTY-FIVE/SWISS markings. No readableA05291 orH-51 marking established. Signedpinbuckle10. Original manufacturer H38429710 white/leather andH38429130 black/bracelet product fields supportH-51/40mm/60h for those separate retailreferences,not inferredaliases or accepted supplier equivalence for thiscasecode. Card14 is seller-associated handwritten retailreference,not independent factory identity/date/originality proof. Seller2021 assertion andnominalresistance notspecimen dating/performance/authentication. No neighbouringreference/retailsuffix/calibre inference.",
+          "finding": "Actual source specimen inspected; precisecalibre/fullretailidentity/date/componentoriginality remain gaps."
+        }
+      }
     }
   ],
   "sourceRecordReviews": [
@@ -11612,6 +11638,11 @@
       "id": "UPDATE:LONGINES|L37794906",
       "reviewedAt": "2026-10-14T14:13:24.875Z",
       "evidence": "Original exact Longines .56.6 and .90.6 product pages archived; per-product additional technical JSON explicitly attributes L888.5,39mm,11.70mm thickness,20mm lugs,48.10mm lug-to-lug. Generic multi-calibre manual/image not physical execution proof. Manufacturer26March2026 release establishes collection introduction,not individual manufacture date. Original LeSabre155146 identifies full .56.6;10gallery files contact-inspected,full0/2/3 inspected. Front0 black dial/date3/black bezel/H-link bracelet;closedback2 physicallyL3.779.4 withLongines/anti-magnetic/stainless-steel legends andsigned deployant blade;clasp3sharp logo with blurred closedback. No movement visible;L888.5 manufacturer attribution not physically verified. Source screenshot/box excluded. Seller date/warranty,nominal300m/weight anddifferent individual source serial not user authenticity/date proof. PartialL37794 remains manual representative black/H-link .56.6 only;no .90.6/blue/green/42mm/older-generation photo inheritance."
+    },
+    {
+      "id": "UPDATE:HAMILTON|H384290",
+      "reviewedAt": "2026-10-14T14:25:19.615Z",
+      "evidence": "Original ShucktheOyster H384290 source describes cream/black-subdial40mm manual chronograph on black leather.16original gallery files contact-inspected;full0/6/7/8/10 inspected. Closedback8 physicallyH384290,Hamilton and10bar legends;opened6/7 Hamilton decorated manual chronograph with25JEWELS/TWENTY-FIVE/SWISS markings. No readableA05291 orH-51 marking established. Signedpinbuckle10. Original manufacturer H38429710 white/leather andH38429130 black/bracelet product fields supportH-51/40mm/60h for those separate retailreferences,not inferredaliases or accepted supplier equivalence for thiscasecode. Card14 is seller-associated handwritten retailreference,not independent factory identity/date/originality proof. Seller2021 assertion andnominalresistance notspecimen dating/performance/authentication. No neighbouringreference/retailsuffix/calibre inference."
     }
   ]
 }
