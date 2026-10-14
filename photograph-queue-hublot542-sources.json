@@ -1,0 +1,51 @@
+{
+  "reviewedAt": "2026-10-14T13:51:04.315Z",
+  "completion": "IN PROGRESS",
+  "reference": "542.NX.1171.RX",
+  "manufacturer": {
+    "url": "https://www.hublot.com/en-int/watches/classic-fusion/classic-fusion-titanium-rubber-42-mm",
+    "finalUrl": "https://www.hublot.com/en-int/watches/classic-fusion/classic-fusion-titanium-rubber-42-mm",
+    "status": 200,
+    "bytes": 635532,
+    "sha256": "d99acff1616c3db69a0f848efe41a4e93d93f6bfec274c41eeb2e11c99c34435",
+    "containsExactReference": true,
+    "containsCalibre": true,
+    "at": "2026-10-14T13:44:07.291Z"
+  },
+  "source": "https://www.europeanwatch.com/watch/hublot-542nx1171rx-classic-fusion-titanium-black-dial-62252",
+  "sourceHtmlSha256": "c5055505a0b189e3c877df684fc23a3644181c728e6b328b25307e3e55e950f0",
+  "images": [
+    {
+      "i": 0,
+      "image": "https://images.europeanwatch.com/images/62/62252-1.jpg",
+      "sha256": "5a66898547020a0f461e9f054758ced7d168c0c063a968197722ae2c00ae783c",
+      "width": 1080,
+      "height": 864
+    },
+    {
+      "i": 5,
+      "image": "https://images.europeanwatch.com/images/62/62252-6.jpg",
+      "sha256": "cc32511687a1e562b14b7e22f8e30d428eb6662e71cdfb67bc6c5a9a07431a5b",
+      "width": 1080,
+      "height": 864
+    },
+    {
+      "i": 6,
+      "image": "https://images.europeanwatch.com/images/62/62252-7.jpg",
+      "sha256": "a1c3e01d221abbad4e3a78598f4dedc2f3c7791f689519caf0aea7c0df284c09",
+      "width": 1080,
+      "height": 864
+    }
+  ],
+  "galleryEntries": 4,
+  "distinctFiles": 3,
+  "evidence": "Exact official Hublot page attributes 42 mm titanium, matte black dial, black rubber, stainless steel deployant and HUB1110 self-winding/approx48 hours. Original EWC62252 page identifies same full reference; eight original gallery files contact-inspected and full0/5/6 inspected. Front0, exhibition movement/shared back6 and opened deployant5 selected. Signed Hublot rotor and movement through sealed glass visible; supplier SW300-1 marking/execution not independently established. No opened movement, complete individual identity, manufacture date, assay or parts originality proof. Clasp5 includes blurred background movement and must be externally suppressed. Manufacturer source attribution does not accept SW300-1 or HUB1112 equivalence. No leather LR, ceramic CM,45mm511,blue7170,diamond/WOS24 suffix inheritance. EWC seller warranty/condition is not authentication of the user specimen. Other retailer42h and9/11mm thickness discrepancies are not used as specimen tests.",
+  "gaps": [
+    "Physical supplier SW300-1 execution",
+    "Opened component originality",
+    "Complete individual identity/manufacture date",
+    "Material assay/hardware codes/originality",
+    "Full production interval"
+  ],
+  "queueStatus": "Keep open: recorded SW300-1 is not established equivalent to manufacturer HUB1110"
+}

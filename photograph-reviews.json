@@ -9932,6 +9932,32 @@
           "finding": "Exact source-identified execution; visible9900 marking corroborates attribution,individual originality/date remains open."
         }
       }
+    },
+    {
+      "brand": "HUBLOT",
+      "reference": "542.NX.1171.RX",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-14T13:51:04.315Z",
+          "evidence": "Exact official Hublot page attributes 42 mm titanium, matte black dial, black rubber, stainless steel deployant and HUB1110 self-winding/approx48 hours. Original EWC62252 page identifies same full reference; eight original gallery files contact-inspected and full0/5/6 inspected. Front0, exhibition movement/shared back6 and opened deployant5 selected. Signed Hublot rotor and movement through sealed glass visible; supplier SW300-1 marking/execution not independently established. No opened movement, complete individual identity, manufacture date, assay or parts originality proof. Clasp5 includes blurred background movement and must be externally suppressed. Manufacturer source attribution does not accept SW300-1 or HUB1112 equivalence. No leather LR, ceramic CM,45mm511,blue7170,diamond/WOS24 suffix inheritance. EWC seller warranty/condition is not authentication of the user specimen. Other retailer42h and9/11mm thickness discrepancies are not used as specimen tests.",
+          "finding": "Exact source-identified execution; physical supplier/date/originality evidence remains open."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-14T13:51:04.315Z",
+          "evidence": "Exact official Hublot page attributes 42 mm titanium, matte black dial, black rubber, stainless steel deployant and HUB1110 self-winding/approx48 hours. Original EWC62252 page identifies same full reference; eight original gallery files contact-inspected and full0/5/6 inspected. Front0, exhibition movement/shared back6 and opened deployant5 selected. Signed Hublot rotor and movement through sealed glass visible; supplier SW300-1 marking/execution not independently established. No opened movement, complete individual identity, manufacture date, assay or parts originality proof. Clasp5 includes blurred background movement and must be externally suppressed. Manufacturer source attribution does not accept SW300-1 or HUB1112 equivalence. No leather LR, ceramic CM,45mm511,blue7170,diamond/WOS24 suffix inheritance. EWC seller warranty/condition is not authentication of the user specimen. Other retailer42h and9/11mm thickness discrepancies are not used as specimen tests.",
+          "finding": "Exact source-identified execution; physical supplier/date/originality evidence remains open."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-14T13:51:04.315Z",
+          "evidence": "Exact official Hublot page attributes 42 mm titanium, matte black dial, black rubber, stainless steel deployant and HUB1110 self-winding/approx48 hours. Original EWC62252 page identifies same full reference; eight original gallery files contact-inspected and full0/5/6 inspected. Front0, exhibition movement/shared back6 and opened deployant5 selected. Signed Hublot rotor and movement through sealed glass visible; supplier SW300-1 marking/execution not independently established. No opened movement, complete individual identity, manufacture date, assay or parts originality proof. Clasp5 includes blurred background movement and must be externally suppressed. Manufacturer source attribution does not accept SW300-1 or HUB1112 equivalence. No leather LR, ceramic CM,45mm511,blue7170,diamond/WOS24 suffix inheritance. EWC seller warranty/condition is not authentication of the user specimen. Other retailer42h and9/11mm thickness discrepancies are not used as specimen tests.",
+          "finding": "Exact source-identified execution; physical supplier/date/originality evidence remains open."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-14T13:51:04.315Z",
+          "evidence": "Exact official Hublot page attributes 42 mm titanium, matte black dial, black rubber, stainless steel deployant and HUB1110 self-winding/approx48 hours. Original EWC62252 page identifies same full reference; eight original gallery files contact-inspected and full0/5/6 inspected. Front0, exhibition movement/shared back6 and opened deployant5 selected. Signed Hublot rotor and movement through sealed glass visible; supplier SW300-1 marking/execution not independently established. No opened movement, complete individual identity, manufacture date, assay or parts originality proof. Clasp5 includes blurred background movement and must be externally suppressed. Manufacturer source attribution does not accept SW300-1 or HUB1112 equivalence. No leather LR, ceramic CM,45mm511,blue7170,diamond/WOS24 suffix inheritance. EWC seller warranty/condition is not authentication of the user specimen. Other retailer42h and9/11mm thickness discrepancies are not used as specimen tests.",
+          "finding": "Exact source-identified execution; physical supplier/date/originality evidence remains open."
+        }
+      }
     }
   ],
   "sourceRecordReviews": [
@@ -11395,6 +11421,11 @@
       "id": "UPDATE:OMEGA|21022445101001",
       "reviewedAt": "2026-10-14T13:26:54.257Z",
       "evidence": "Original exact Omega technical page attributes44mm steel/Sedna gold,black dial/rubber,9900 automatic60h andsteel pin buckle. BQ original page read through web tool identifies exact full reference/stock49422; direct HTML request403,public source-associated CDNfiles retrieved via observed image links. Ten BQfiles contact-inspected;full0/8/9 inspected andselected. Rotor through sealed exhibition back visibly markedOMEGA MASTER CO-AXIAL9900,with column-wheel/barrel markings. No opened movement,complete individual identity/date/material assay/originality proof. Source narrative incorrectly saysmanual while specifications sayautomatic;exclude manual and seller manufacture2023 assertion. Extra bracelet in box photos is not inherited by rubber reference. Bloombar8files inspected;rear images softer/holder-obscured andexcluded;PO600M filenames contradicted by actual300m dial and exact source,not adopted. Nobracelet/yellowgold/allgold/otherSeamaster/9901calibre inheritance. Movement andcaseback shareBQ8;clasp9 has peripheral movement andis suppressed externally."
+    },
+    {
+      "id": "UPDATE:HUBLOT|542NX1171RX",
+      "reviewedAt": "2026-10-14T13:51:04.315Z",
+      "evidence": "Exact official Hublot page attributes 42 mm titanium, matte black dial, black rubber, stainless steel deployant and HUB1110 self-winding/approx48 hours. Original EWC62252 page identifies same full reference; eight original gallery files contact-inspected and full0/5/6 inspected. Front0, exhibition movement/shared back6 and opened deployant5 selected. Signed Hublot rotor and movement through sealed glass visible; supplier SW300-1 marking/execution not independently established. No opened movement, complete individual identity, manufacture date, assay or parts originality proof. Clasp5 includes blurred background movement and must be externally suppressed. Manufacturer source attribution does not accept SW300-1 or HUB1112 equivalence. No leather LR, ceramic CM,45mm511,blue7170,diamond/WOS24 suffix inheritance. EWC seller warranty/condition is not authentication of the user specimen. Other retailer42h and9/11mm thickness discrepancies are not used as specimen tests."
     }
   ]
 }
