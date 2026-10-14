@@ -31824,6 +31824,99 @@
         },
         "imageSha256": "b2b3612542042b16939cb51c4b5f140e8c4640767c720576d21afb003d5db18d"
       }
+    },
+    {
+      "id": "queue-cartier-w2sa0028-swe-front",
+      "brand": "CARTIER",
+      "references": [
+        "W2SA0028"
+      ],
+      "representativeFor": [],
+      "variant": "SWE81236 exact W2SA0028 / grey Roman, steel-yellow-gold, leather / individual movement unverified",
+      "category": "front",
+      "title": "W2SA0028 specimen — front",
+      "caption": "Actual grey sunray Roman dial, gold-coloured sword hands and bezel, blue crown stone and dark leather strap. Source identifies W2SA0028; individual date and originality remain unverified.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/7/16/cartier-santos-dumont-large-steel-yellow-gold-mens-watch-w2sa0028-81236_123b4.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/cartier-santos-dumont-large-steel-yellow-gold-mens-watch-w2sa0028-81236/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-14",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-14T13:05:55.825Z",
+        "loadedAt": "2026-10-14T13:05:55.825Z",
+        "evidence": "Exact original SWE81236 detail page obtained through its own catalogue link. Ten original files contact-inspected; full2/6/7 inspected and accepted for front,closed back and pin buckle/strap. Grey sunray Roman dial,gold-coloured hands/bezel,steel-coloured case,blue crown stone and dark leather strap. Closed four-screw back shows Cartier/Santos marks,4240 case code,source-redacted partial serial and small Au750 plate. No whole-case assay,complete serial,manufacture date,current resistance or originality conclusion. Strap underside signed Cartier/BDC; exposed buckle face has no clear Cartier signature. Regional exact Cartier page supports quartz,43.5x31.4mm/7.3mm,steel/yellow-gold bezel and grey strap,but no precise157. No opened movement or physical calibre stamp. Duplicate front crops excluded; replica mirrors and aggregator430MC/manual contradictions excluded. No4240/other-reference/suffix/calibre equivalence.",
+        "imageDimensions": {
+          "width": 4354,
+          "height": 4354
+        },
+        "imageSha256": "00623f511bdc6ecdbd0d8fb9157b7d9ea25f16d9df7b36cd3e6c7c6ffa921da2"
+      }
+    },
+    {
+      "id": "queue-cartier-w2sa0028-swe-caseback",
+      "brand": "CARTIER",
+      "references": [
+        "W2SA0028"
+      ],
+      "representativeFor": [],
+      "variant": "SWE81236 exact W2SA0028 / grey Roman, steel-yellow-gold, leather / individual movement unverified",
+      "category": "caseback",
+      "title": "W2SA0028 specimen — caseback",
+      "caption": "Actual closed four-screw Cartier/Santos back, with case code 4240 and source-redacted partial serial. Au750 plate does not prove whole-case assay or originality. No movement shown.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/7/16/cartier-santos-dumont-large-steel-yellow-gold-mens-watch-w2sa0028-81236_bea51.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/cartier-santos-dumont-large-steel-yellow-gold-mens-watch-w2sa0028-81236/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-14",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-14T13:05:55.825Z",
+        "loadedAt": "2026-10-14T13:05:55.825Z",
+        "evidence": "Exact original SWE81236 detail page obtained through its own catalogue link. Ten original files contact-inspected; full2/6/7 inspected and accepted for front,closed back and pin buckle/strap. Grey sunray Roman dial,gold-coloured hands/bezel,steel-coloured case,blue crown stone and dark leather strap. Closed four-screw back shows Cartier/Santos marks,4240 case code,source-redacted partial serial and small Au750 plate. No whole-case assay,complete serial,manufacture date,current resistance or originality conclusion. Strap underside signed Cartier/BDC; exposed buckle face has no clear Cartier signature. Regional exact Cartier page supports quartz,43.5x31.4mm/7.3mm,steel/yellow-gold bezel and grey strap,but no precise157. No opened movement or physical calibre stamp. Duplicate front crops excluded; replica mirrors and aggregator430MC/manual contradictions excluded. No4240/other-reference/suffix/calibre equivalence.",
+        "imageDimensions": {
+          "width": 1912,
+          "height": 1912
+        },
+        "imageSha256": "ca97f4c19db3d671e3d2b44c91846602bd57c85d9629f467580d042c5b9c9363"
+      }
+    },
+    {
+      "id": "queue-cartier-w2sa0028-swe-braceletClasp",
+      "brand": "CARTIER",
+      "references": [
+        "W2SA0028"
+      ],
+      "representativeFor": [],
+      "variant": "SWE81236 exact W2SA0028 / grey Roman, steel-yellow-gold, leather / individual movement unverified",
+      "category": "braceletClasp",
+      "title": "W2SA0028 specimen — braceletClasp",
+      "caption": "Actual pin buckle and leather strap. Strap underside is signed Cartier/BDC; no clear Cartier signature on the exposed buckle face. Parts, date and factory originality remain unverified.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/7/16/cartier-santos-dumont-large-steel-yellow-gold-mens-watch-w2sa0028-81236_a694d.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/cartier-santos-dumont-large-steel-yellow-gold-mens-watch-w2sa0028-81236/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-14",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-14T13:05:55.825Z",
+        "loadedAt": "2026-10-14T13:05:55.825Z",
+        "evidence": "Exact original SWE81236 detail page obtained through its own catalogue link. Ten original files contact-inspected; full2/6/7 inspected and accepted for front,closed back and pin buckle/strap. Grey sunray Roman dial,gold-coloured hands/bezel,steel-coloured case,blue crown stone and dark leather strap. Closed four-screw back shows Cartier/Santos marks,4240 case code,source-redacted partial serial and small Au750 plate. No whole-case assay,complete serial,manufacture date,current resistance or originality conclusion. Strap underside signed Cartier/BDC; exposed buckle face has no clear Cartier signature. Regional exact Cartier page supports quartz,43.5x31.4mm/7.3mm,steel/yellow-gold bezel and grey strap,but no precise157. No opened movement or physical calibre stamp. Duplicate front crops excluded; replica mirrors and aggregator430MC/manual contradictions excluded. No4240/other-reference/suffix/calibre equivalence.",
+        "imageDimensions": {
+          "width": 3749,
+          "height": 3749
+        },
+        "imageSha256": "64a11df43355ce3e4c395282abf28c4fa3b875b7ff3f729f770e97b98584c9c4"
+      }
     }
   ]
 }
