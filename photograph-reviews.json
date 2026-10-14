@@ -9828,6 +9828,32 @@
           "finding": "No exact case reference for broad family request; photograph category unsupported. Further identity/physical research open."
         }
       }
+    },
+    {
+      "brand": "FEARS",
+      "reference": "The Gimlet",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-14T12:36:22.292Z",
+          "evidence": "Original partner02GIG product page identifies TheGimlet38mm/manual200piece2025event edition but conflicts internally:Calibre accordionSW200-2M Power+,storySW210-1/42h. Original Kibble product15430474989948 identifies photographedTheGimlet and attributesSW210-1 without opened movement. Two12image dealer galleries contact-inspected,first0/8/9 full-pixel inspected and selected. Pale lime dial,Fears/StudioUnderd0g branding,skeleton hands,no date,cushion case;closed sunburst lime-wheel back and co-signed pin buckle/quick-release leather strap. No physical calibre stamp or complete individual identity/date/originality proof. Newer16095026020732 page has unrelated Habring points text,excluded as specimen evidence. No02GIG/cocktail/Brunswick/Manhattan/Mimosa aliases or common-calibre equivalence. Manufacturer conflict retained;precise calibre unknown.",
+          "finding": "Source-identified representative exterior specimen;individual originality unverified."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-14T12:36:22.292Z",
+          "evidence": "Original partner02GIG product page identifies TheGimlet38mm/manual200piece2025event edition but conflicts internally:Calibre accordionSW200-2M Power+,storySW210-1/42h. Original Kibble product15430474989948 identifies photographedTheGimlet and attributesSW210-1 without opened movement. Two12image dealer galleries contact-inspected,first0/8/9 full-pixel inspected and selected. Pale lime dial,Fears/StudioUnderd0g branding,skeleton hands,no date,cushion case;closed sunburst lime-wheel back and co-signed pin buckle/quick-release leather strap. No physical calibre stamp or complete individual identity/date/originality proof. Newer16095026020732 page has unrelated Habring points text,excluded as specimen evidence. No02GIG/cocktail/Brunswick/Manhattan/Mimosa aliases or common-calibre equivalence. Manufacturer conflict retained;precise calibre unknown.",
+          "finding": "No opened physical movement;precise calibre source conflict remains."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-14T12:36:22.292Z",
+          "evidence": "Original partner02GIG product page identifies TheGimlet38mm/manual200piece2025event edition but conflicts internally:Calibre accordionSW200-2M Power+,storySW210-1/42h. Original Kibble product15430474989948 identifies photographedTheGimlet and attributesSW210-1 without opened movement. Two12image dealer galleries contact-inspected,first0/8/9 full-pixel inspected and selected. Pale lime dial,Fears/StudioUnderd0g branding,skeleton hands,no date,cushion case;closed sunburst lime-wheel back and co-signed pin buckle/quick-release leather strap. No physical calibre stamp or complete individual identity/date/originality proof. Newer16095026020732 page has unrelated Habring points text,excluded as specimen evidence. No02GIG/cocktail/Brunswick/Manhattan/Mimosa aliases or common-calibre equivalence. Manufacturer conflict retained;precise calibre unknown.",
+          "finding": "Source-identified representative exterior specimen;individual originality unverified."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-14T12:36:22.292Z",
+          "evidence": "Original partner02GIG product page identifies TheGimlet38mm/manual200piece2025event edition but conflicts internally:Calibre accordionSW200-2M Power+,storySW210-1/42h. Original Kibble product15430474989948 identifies photographedTheGimlet and attributesSW210-1 without opened movement. Two12image dealer galleries contact-inspected,first0/8/9 full-pixel inspected and selected. Pale lime dial,Fears/StudioUnderd0g branding,skeleton hands,no date,cushion case;closed sunburst lime-wheel back and co-signed pin buckle/quick-release leather strap. No physical calibre stamp or complete individual identity/date/originality proof. Newer16095026020732 page has unrelated Habring points text,excluded as specimen evidence. No02GIG/cocktail/Brunswick/Manhattan/Mimosa aliases or common-calibre equivalence. Manufacturer conflict retained;precise calibre unknown.",
+          "finding": "Source-identified representative exterior specimen;individual originality unverified."
+        }
+      }
     }
   ],
   "sourceRecordReviews": [
@@ -11271,6 +11297,11 @@
       "id": "RULE:0010",
       "reviewedAt": "2026-10-14T12:08:07.624Z",
       "evidence": "Original Omega regional collection and two exact product pages inspected/archived with hashes. Collection contains multiple calibres,date/no-date and chronograph executions;older exact212.30.36.20.01.001 specifies36.25mm/2500 whileexact210.32.42.20.04.002 specifies42mm/8806. Broad SeamasterDiver name and recorded8800 do not establish exact case reference,calibre,size,generation,period,material or originality. No family-name photo inheritance;no new actual photographs accepted. Existing exact-reference photographs/rules remain separate. All four photo categories unsupported for the unidentified broad request;further exact identity/physical execution research remains open."
+    },
+    {
+      "id": "UPDATE:FEARS|THEGIMLET",
+      "reviewedAt": "2026-10-14T12:36:22.292Z",
+      "evidence": "Original partner02GIG product page identifies TheGimlet38mm/manual200piece2025event edition but conflicts internally:Calibre accordionSW200-2M Power+,storySW210-1/42h. Original Kibble product15430474989948 identifies photographedTheGimlet and attributesSW210-1 without opened movement. Two12image dealer galleries contact-inspected,first0/8/9 full-pixel inspected and selected. Pale lime dial,Fears/StudioUnderd0g branding,skeleton hands,no date,cushion case;closed sunburst lime-wheel back and co-signed pin buckle/quick-release leather strap. No physical calibre stamp or complete individual identity/date/originality proof. Newer16095026020732 page has unrelated Habring points text,excluded as specimen evidence. No02GIG/cocktail/Brunswick/Manhattan/Mimosa aliases or common-calibre equivalence. Manufacturer conflict retained;precise calibre unknown."
     }
   ]
 }

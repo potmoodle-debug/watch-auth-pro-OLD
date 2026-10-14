@@ -31597,6 +31597,105 @@
         },
         "imageSha256": "6936dbdb93396e8b1058b614be40773ec3a8d3fe26876109371aa99484abdc44"
       }
+    },
+    {
+      "id": "queue-fears-gimlet-kibble-front",
+      "brand": "FEARS",
+      "references": [
+        "The Gimlet"
+      ],
+      "representativeFor": [
+        "The Gimlet"
+      ],
+      "variant": "Kibble15430474989948 TheGimlet pale-lime dial,leather strap / physical calibre unresolved",
+      "category": "front",
+      "title": "TheGimlet collaboration specimen — front",
+      "caption": "Actual pale-lime Gimlet dial with dual branding,skeleton hands and no date,cushion case/leather strap. Individual movement,date and originality unverified.",
+      "image": "https://cdn.shopify.com/s/files/1/0270/0771/3366/files/1_09c31dfe-374e-455d-87cd-9fd999af1abf.jpg?v=1751994894",
+      "source": "https://kibblewatches.co.uk/products/2025-fears-x-studio-underd0g-the-gimlet-limited-edition-38mm",
+      "credit": "Kibble Watches",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research2026-10-14",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-14T12:36:22.292Z",
+        "loadedAt": "2026-10-14T12:36:22.292Z",
+        "evidence": "Original partner02GIG product page identifies TheGimlet38mm/manual200piece2025event edition but conflicts internally:Calibre accordionSW200-2M Power+,storySW210-1/42h. Original Kibble product15430474989948 identifies photographedTheGimlet and attributesSW210-1 without opened movement. Two12image dealer galleries contact-inspected,first0/8/9 full-pixel inspected and selected. Pale lime dial,Fears/StudioUnderd0g branding,skeleton hands,no date,cushion case;closed sunburst lime-wheel back and co-signed pin buckle/quick-release leather strap. No physical calibre stamp or complete individual identity/date/originality proof. Newer16095026020732 page has unrelated Habring points text,excluded as specimen evidence. No02GIG/cocktail/Brunswick/Manhattan/Mimosa aliases or common-calibre equivalence. Manufacturer conflict retained;precise calibre unknown.",
+        "imageDimensions": {
+          "width": 1000,
+          "height": 1000
+        },
+        "imageSha256": "a5fc76af6d146973ce512a84f3bb429dd12581573393d2ad7beadbefcb81a814"
+      }
+    },
+    {
+      "id": "queue-fears-gimlet-kibble-caseback",
+      "brand": "FEARS",
+      "references": [
+        "The Gimlet"
+      ],
+      "representativeFor": [
+        "The Gimlet"
+      ],
+      "variant": "Kibble15430474989948 TheGimlet pale-lime dial,leather strap / physical calibre unresolved",
+      "category": "caseback",
+      "title": "TheGimlet collaboration specimen — caseback",
+      "caption": "Actual closed sunburst back with lime-wheel motif and quick-release strap. No movement or complete individual identifier/date proof visible.",
+      "image": "https://cdn.shopify.com/s/files/1/0270/0771/3366/files/9_292e38f7-74f1-4e13-abcc-1874750559d8.jpg?v=1751994894",
+      "source": "https://kibblewatches.co.uk/products/2025-fears-x-studio-underd0g-the-gimlet-limited-edition-38mm",
+      "credit": "Kibble Watches",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research2026-10-14",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-14T12:36:22.292Z",
+        "loadedAt": "2026-10-14T12:36:22.292Z",
+        "evidence": "Original partner02GIG product page identifies TheGimlet38mm/manual200piece2025event edition but conflicts internally:Calibre accordionSW200-2M Power+,storySW210-1/42h. Original Kibble product15430474989948 identifies photographedTheGimlet and attributesSW210-1 without opened movement. Two12image dealer galleries contact-inspected,first0/8/9 full-pixel inspected and selected. Pale lime dial,Fears/StudioUnderd0g branding,skeleton hands,no date,cushion case;closed sunburst lime-wheel back and co-signed pin buckle/quick-release leather strap. No physical calibre stamp or complete individual identity/date/originality proof. Newer16095026020732 page has unrelated Habring points text,excluded as specimen evidence. No02GIG/cocktail/Brunswick/Manhattan/Mimosa aliases or common-calibre equivalence. Manufacturer conflict retained;precise calibre unknown.",
+        "imageDimensions": {
+          "width": 1000,
+          "height": 1000
+        },
+        "imageSha256": "eba6394ab3e008cec0369a8a0f3d7e61d7fef8575a0dbd0bae95ef8fcdfcea6d"
+      }
+    },
+    {
+      "id": "queue-fears-gimlet-kibble-braceletClasp",
+      "brand": "FEARS",
+      "references": [
+        "The Gimlet"
+      ],
+      "representativeFor": [
+        "The Gimlet"
+      ],
+      "variant": "Kibble15430474989948 TheGimlet pale-lime dial,leather strap / physical calibre unresolved",
+      "category": "braceletClasp",
+      "title": "TheGimlet collaboration specimen — braceletClasp",
+      "caption": "Actual pin buckle with StudioUnderd0g/Fears marks and stitched leather strap. Hardware/strap factory originality and individual date unproven.",
+      "image": "https://cdn.shopify.com/s/files/1/0270/0771/3366/files/10_edb94044-d79a-4edf-b8a3-de70db8fc6d9.jpg?v=1751994895",
+      "source": "https://kibblewatches.co.uk/products/2025-fears-x-studio-underd0g-the-gimlet-limited-edition-38mm",
+      "credit": "Kibble Watches",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research2026-10-14",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-14T12:36:22.292Z",
+        "loadedAt": "2026-10-14T12:36:22.292Z",
+        "evidence": "Original partner02GIG product page identifies TheGimlet38mm/manual200piece2025event edition but conflicts internally:Calibre accordionSW200-2M Power+,storySW210-1/42h. Original Kibble product15430474989948 identifies photographedTheGimlet and attributesSW210-1 without opened movement. Two12image dealer galleries contact-inspected,first0/8/9 full-pixel inspected and selected. Pale lime dial,Fears/StudioUnderd0g branding,skeleton hands,no date,cushion case;closed sunburst lime-wheel back and co-signed pin buckle/quick-release leather strap. No physical calibre stamp or complete individual identity/date/originality proof. Newer16095026020732 page has unrelated Habring points text,excluded as specimen evidence. No02GIG/cocktail/Brunswick/Manhattan/Mimosa aliases or common-calibre equivalence. Manufacturer conflict retained;precise calibre unknown.",
+        "imageDimensions": {
+          "width": 1000,
+          "height": 1000
+        },
+        "imageSha256": "1ac85251c4ee940459c959be416f630e926a05622736170ab7ca86a25df16274"
+      }
     }
   ]
 }

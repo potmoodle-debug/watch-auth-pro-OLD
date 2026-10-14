@@ -4,30 +4,30 @@
   "counting": "Stored identifier keys deduplicate punctuation/case only; documented M-prefixed aliases and base/catalogue identifiers remain separate lookup keys. Patterns are source records, never claimed as enumerated exact references. Textual model research is not photograph verification. verifiedAssets counts category/gallery entries; verifiedImageUrls counts distinct stored URLs; verifiedImageFiles deduplicates inspected file hashes (falling back to URL when unavailable).",
   "counts": {
     "repositoryRuleRecords": 937,
-    "repositoryResearchUpdates": 88,
-    "sourceRuleRecords": 1025,
+    "repositoryResearchUpdates": 89,
+    "sourceRuleRecords": 1026,
     "sharedReferenceFactRows": 982,
     "sharedVerifiedTextRows": 47,
     "importedCatalogueVariantRecords": 1465,
-    "sourceInventoryRecords": 2490,
-    "storedIdentifierKeys": 2280,
+    "sourceInventoryRecords": 2491,
+    "storedIdentifierKeys": 2281,
     "sourceRecordsUnreviewed": 2218,
     "identifierKeysUnreviewed": 1936,
-    "identifierKeysReviewed": 344,
-    "sourceRecordsReviewed": 272,
-    "reviewedIdentifierCategoryPairs": 1376,
-    "catalogueAssets": 939,
+    "identifierKeysReviewed": 345,
+    "sourceRecordsReviewed": 273,
+    "reviewedIdentifierCategoryPairs": 1380,
+    "catalogueAssets": 942,
     "legacyAssets": 31,
-    "verifiedAssets": 904,
-    "verifiedImageUrls": 857,
-    "verifiedImageFiles": 856,
+    "verifiedAssets": 907,
+    "verifiedImageUrls": 860,
+    "verifiedImageFiles": 859,
     "pendingAssets": 26,
     "rejectedAssets": 9,
     "verifiedIdentifierKeysByCategory": {
-      "front": 279,
+      "front": 280,
       "movement": 106,
-      "caseback": 246,
-      "braceletClasp": 240
+      "caseback": 247,
+      "braceletClasp": 241
     },
     "byBrand": {
       "TUDOR": {
@@ -201,13 +201,13 @@
         }
       },
       "FEARS": {
-        "storedIdentifierKeys": 2,
+        "storedIdentifierKeys": 3,
         "unreviewed": 2,
         "verifiedByCategory": {
-          "front": 0,
+          "front": 1,
           "movement": 0,
-          "caseback": 0,
-          "braceletClasp": 0
+          "caseback": 1,
+          "braceletClasp": 1
         }
       },
       "GENERIC": {
@@ -1448,6 +1448,7 @@
     {"id":"UPDATE:OMEGA|22525000","brand":"OMEGA","key":"2252.50.00","scope":"reference rule","status":"reviewed for photographs"},
     {"id":"UPDATE:TAGHEUER|WBP5A8A","brand":"TAGHEUER","key":"WBP5A8A","scope":"reference rule","status":"reviewed for photographs"},
     {"id":"UPDATE:TAGHEUER|WBP5A8ABF0619","brand":"TAGHEUER","key":"WBP5A8A.BF0619","scope":"reference rule","status":"reviewed for photographs"},
+    {"id":"UPDATE:FEARS|THEGIMLET","brand":"FEARS","key":"The Gimlet","scope":"reference rule","status":"reviewed for photographs"},
     {"id":"CATALOGUE:M52506-0003","brand":"ROLEX","key":"m52506-0003","scope":"catalogue variant","status":"unreviewed for photographs"},
     {"id":"CATALOGUE:M52508-0002","brand":"ROLEX","key":"m52508-0002","scope":"catalogue variant","status":"unreviewed for photographs"},
     {"id":"CATALOGUE:M52508-0005","brand":"ROLEX","key":"m52508-0005","scope":"catalogue variant","status":"unreviewed for photographs"},
@@ -5020,6 +5021,7 @@
     {"brand":"DOXA","reference":"820.10","aliases":["820.10"],"origins":["rules"],"sources":[],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
     {"brand":"Fears","reference":"BS23800B","aliases":["BS23800B"],"origins":["rules"],"sources":[],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
     {"brand":"Fears","reference":"BS240.500A","aliases":["BS240.500A"],"origins":["rules"],"sources":[],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
+    {"brand":"FEARS","reference":"The Gimlet","aliases":["The Gimlet"],"origins":["research updates"],"sources":["https://underd0g.com/products/02GIG"],"reviewStatus":"reviewed","categories":{"front":{"status":"verified","photographIds":["queue-fears-gimlet-kibble-front"],"candidateIds":["queue-fears-gimlet-kibble-front"],"review":{"reviewedAt":"2026-10-14T12:36:22.292Z","evidence":"Original partner02GIG product page identifies TheGimlet38mm/manual200piece2025event edition but conflicts internally:Calibre accordionSW200-2M Power+,storySW210-1/42h. Original Kibble product15430474989948 identifies photographedTheGimlet and attributesSW210-1 without opened movement. Two12image dealer galleries contact-inspected,first0/8/9 full-pixel inspected and selected. Pale lime dial,Fears/StudioUnderd0g branding,skeleton hands,no date,cushion case;closed sunburst lime-wheel back and co-signed pin buckle/quick-release leather strap. No physical calibre stamp or complete individual identity/date/originality proof. Newer16095026020732 page has unrelated Habring points text,excluded as specimen evidence. No02GIG/cocktail/Brunswick/Manhattan/Mimosa aliases or common-calibre equivalence. Manufacturer conflict retained;precise calibre unknown.","finding":"Source-identified representative exterior specimen;individual originality unverified."}},"movement":{"status":"reviewed gap — No opened physical movement;precise calibre source conflict remains.","photographIds":[],"candidateIds":[],"review":{"reviewedAt":"2026-10-14T12:36:22.292Z","evidence":"Original partner02GIG product page identifies TheGimlet38mm/manual200piece2025event edition but conflicts internally:Calibre accordionSW200-2M Power+,storySW210-1/42h. Original Kibble product15430474989948 identifies photographedTheGimlet and attributesSW210-1 without opened movement. Two12image dealer galleries contact-inspected,first0/8/9 full-pixel inspected and selected. Pale lime dial,Fears/StudioUnderd0g branding,skeleton hands,no date,cushion case;closed sunburst lime-wheel back and co-signed pin buckle/quick-release leather strap. No physical calibre stamp or complete individual identity/date/originality proof. Newer16095026020732 page has unrelated Habring points text,excluded as specimen evidence. No02GIG/cocktail/Brunswick/Manhattan/Mimosa aliases or common-calibre equivalence. Manufacturer conflict retained;precise calibre unknown.","finding":"No opened physical movement;precise calibre source conflict remains."}},"caseback":{"status":"verified","photographIds":["queue-fears-gimlet-kibble-caseback"],"candidateIds":["queue-fears-gimlet-kibble-caseback"],"review":{"reviewedAt":"2026-10-14T12:36:22.292Z","evidence":"Original partner02GIG product page identifies TheGimlet38mm/manual200piece2025event edition but conflicts internally:Calibre accordionSW200-2M Power+,storySW210-1/42h. Original Kibble product15430474989948 identifies photographedTheGimlet and attributesSW210-1 without opened movement. Two12image dealer galleries contact-inspected,first0/8/9 full-pixel inspected and selected. Pale lime dial,Fears/StudioUnderd0g branding,skeleton hands,no date,cushion case;closed sunburst lime-wheel back and co-signed pin buckle/quick-release leather strap. No physical calibre stamp or complete individual identity/date/originality proof. Newer16095026020732 page has unrelated Habring points text,excluded as specimen evidence. No02GIG/cocktail/Brunswick/Manhattan/Mimosa aliases or common-calibre equivalence. Manufacturer conflict retained;precise calibre unknown.","finding":"Source-identified representative exterior specimen;individual originality unverified."}},"braceletClasp":{"status":"verified","photographIds":["queue-fears-gimlet-kibble-braceletClasp"],"candidateIds":["queue-fears-gimlet-kibble-braceletClasp"],"review":{"reviewedAt":"2026-10-14T12:36:22.292Z","evidence":"Original partner02GIG product page identifies TheGimlet38mm/manual200piece2025event edition but conflicts internally:Calibre accordionSW200-2M Power+,storySW210-1/42h. Original Kibble product15430474989948 identifies photographedTheGimlet and attributesSW210-1 without opened movement. Two12image dealer galleries contact-inspected,first0/8/9 full-pixel inspected and selected. Pale lime dial,Fears/StudioUnderd0g branding,skeleton hands,no date,cushion case;closed sunburst lime-wheel back and co-signed pin buckle/quick-release leather strap. No physical calibre stamp or complete individual identity/date/originality proof. Newer16095026020732 page has unrelated Habring points text,excluded as specimen evidence. No02GIG/cocktail/Brunswick/Manhattan/Mimosa aliases or common-calibre equivalence. Manufacturer conflict retained;precise calibre unknown.","finding":"Source-identified representative exterior specimen;individual originality unverified."}}}},
     {"brand":"Generic","reference":"02 0500 420","aliases":["02 0500 420"],"origins":["rules"],"sources":[],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
     {"brand":"Generic","reference":"292X4P4/5/6","aliases":["292X4P4/5/6"],"origins":["rules"],"sources":[],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
     {"brand":"Generic","reference":"30 0040 680","aliases":["30 0040 680"],"origins":["rules"],"sources":[],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
