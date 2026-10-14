@@ -1,0 +1,46 @@
+{
+  "reviewedAt": "2026-10-14T12:36:22.292Z",
+  "completion": "IN PROGRESS",
+  "manufacturer": {
+    "url": "https://underd0g.com/products/02GIG",
+    "finalUrl": "https://underd0g.com/products/02GIG",
+    "status": 200,
+    "bytes": 378701,
+    "sha256": "b0e301a08b80c24faf4e810e7eff406ebc94996a1a27f3333bdf0c77e0bfbacf",
+    "checkedAt": "2026-10-14T12:28:08.786Z",
+    "containsGimlet": true
+  },
+  "receipt": {
+    "url": "https://kibblewatches.co.uk/products/2025-fears-x-studio-underd0g-the-gimlet-limited-edition-38mm",
+    "status": 200,
+    "sha256": "c6a2f629361d9a2640ec0d40dbde0e1109fd92343efc3b2392057be88f63dd01",
+    "checkedAt": "2026-10-14T12:33:59.779Z",
+    "productId": 15430474989948,
+    "title": "2025 Fears x Studio Underd0g The Gimlet Limited Edition 38mm",
+    "imageCount": 12
+  },
+  "images": [
+    {
+      "i": 0,
+      "image": "https://cdn.shopify.com/s/files/1/0270/0771/3366/files/1_09c31dfe-374e-455d-87cd-9fd999af1abf.jpg?v=1751994894",
+      "sha256": "a5fc76af6d146973ce512a84f3bb429dd12581573393d2ad7beadbefcb81a814"
+    },
+    {
+      "i": 8,
+      "image": "https://cdn.shopify.com/s/files/1/0270/0771/3366/files/9_292e38f7-74f1-4e13-abcc-1874750559d8.jpg?v=1751994894",
+      "sha256": "eba6394ab3e008cec0369a8a0f3d7e61d7fef8575a0dbd0bae95ef8fcdfcea6d"
+    },
+    {
+      "i": 9,
+      "image": "https://cdn.shopify.com/s/files/1/0270/0771/3366/files/10_edb94044-d79a-4edf-b8a3-de70db8fc6d9.jpg?v=1751994895",
+      "sha256": "1ac85251c4ee940459c959be416f630e926a05622736170ab7ca86a25df16274"
+    }
+  ],
+  "evidence": "Original partner02GIG product page identifies TheGimlet38mm/manual200piece2025event edition but conflicts internally:Calibre accordionSW200-2M Power+,storySW210-1/42h. Original Kibble product15430474989948 identifies photographedTheGimlet and attributesSW210-1 without opened movement. Two12image dealer galleries contact-inspected,first0/8/9 full-pixel inspected and selected. Pale lime dial,Fears/StudioUnderd0g branding,skeleton hands,no date,cushion case;closed sunburst lime-wheel back and co-signed pin buckle/quick-release leather strap. No physical calibre stamp or complete individual identity/date/originality proof. Newer16095026020732 page has unrelated Habring points text,excluded as specimen evidence. No02GIG/cocktail/Brunswick/Manhattan/Mimosa aliases or common-calibre equivalence. Manufacturer conflict retained;precise calibre unknown.",
+  "gaps": [
+    "Physical movement/calibre and conflicting primary fields",
+    "Individual identity/manufacture date/originality",
+    "Strap/hardware originality and complete parts evidence"
+  ],
+  "queueStatus": "Unchanged;precise recordedSW210-1 not independently resolved"
+}

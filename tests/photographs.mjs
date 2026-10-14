@@ -776,6 +776,14 @@ test('Legend Diver green bracelet photos do not supply other dial, strap or size
  assert.equal(matchingPhotographs(photos,'Omega','L3.764.4.06.6').filter(p=>p.id.startsWith('queue-longines-l37644-grand-')).length,0);
 });
 
+test('Gimlet exterior photographs do not imply movement or cocktail/code aliases',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,externalOnly=false)=>matchingPhotographs(photos,'Fears',ref,{externalOnly}).filter(p=>p.id.startsWith('queue-fears-gimlet-kibble-'));
+ assert.deepEqual(get('TheGimlet').map(p=>p.category).sort(),['braceletClasp','caseback','front']);assert.equal(get('The Gimlet',true).length,3);assert.ok(get('TheGimlet').every(p=>p.matchScope==='representative variant'));
+ for(const ref of ['Gimlet','02GIG','Manhattan','Mimosa','Brunswick38','TheGimlet02GIG'])assert.equal(get(ref).length,0,ref);
+ assert.equal(matchingPhotographs(photos,'Studio Underd0g','The Gimlet').filter(p=>p.id.startsWith('queue-fears-gimlet-kibble-')).length,0);
+});
+
 test('Broad Seamaster Diver never inherits exact-reference photographs',()=>{
  const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
  assert.equal(matchingPhotographs(photos,'Omega','Seamaster Diver').length,0);
