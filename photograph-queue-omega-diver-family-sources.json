@@ -1,0 +1,43 @@
+{
+  "reviewedAt": "2026-10-14T12:08:07.624Z",
+  "completion": "IN PROGRESS",
+  "request": "OMEGA|SEAMASTERDIVER",
+  "sources": [
+    {
+      "name": "collection",
+      "url": "https://www.omegawatches.com.hk/en-hk/watches/seamaster/diver-300-m/catalog",
+      "status": 200,
+      "bytes": 671905,
+      "sha256": "bd397563856df409a2ea602d83a8f9d2b27a8c446c72918a20b3a58f77e4f79f",
+      "containsExpected": true,
+      "checkedAt": "2026-10-14T11:54:23.387Z"
+    },
+    {
+      "name": "midsize2500",
+      "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-diver-300m-co-axial-chronometer-36-25-mm-21230362001001",
+      "status": 200,
+      "bytes": 450555,
+      "sha256": "86437808761c752adea82ee0961e57c07f2cf846409d91702f7544f4e85c57ef",
+      "containsExpected": true,
+      "checkedAt": "2026-10-14T11:54:23.408Z"
+    },
+    {
+      "name": "americascup8806",
+      "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-diver-300m-co-axial-master-chronometer-42-mm-21032422004002",
+      "status": 200,
+      "bytes": 1205622,
+      "sha256": "c6cf0f8fef78039d89a4126dffde606d9295ed3fcffaa23d77809e127a7410fa",
+      "containsExpected": true,
+      "checkedAt": "2026-10-14T11:54:23.577Z"
+    }
+  ],
+  "evidence": "Original Omega regional collection and two exact product pages inspected/archived with hashes. Collection contains multiple calibres,date/no-date and chronograph executions;older exact212.30.36.20.01.001 specifies36.25mm/2500 whileexact210.32.42.20.04.002 specifies42mm/8806. Broad SeamasterDiver name and recorded8800 do not establish exact case reference,calibre,size,generation,period,material or originality. No family-name photo inheritance;no new actual photographs accepted. Existing exact-reference photographs/rules remain separate. All four photo categories unsupported for the unidentified broad request;further exact identity/physical execution research remains open.",
+  "acceptedNewPhotos": 0,
+  "gaps": [
+    "Exact case reference and suffix",
+    "Physical calibre/execution",
+    "Individual period/material/originality",
+    "All four actual photo categories for unidentified request"
+  ],
+  "queueStatus": "Unchanged; exact identity required"
+}
