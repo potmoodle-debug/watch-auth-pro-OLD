@@ -31917,6 +31917,134 @@
         },
         "imageSha256": "64a11df43355ce3e4c395282abf28c4fa3b875b7ff3f729f770e97b98584c9c4"
       }
+    },
+    {
+      "id": "queue-omega210224-bq-front",
+      "brand": "OMEGA",
+      "references": [
+        "210.22.44.51.01.001"
+      ],
+      "representativeFor": [],
+      "variant": "BQ49422 exact 210.22.44.51.01.001 / black wave, steel-Sedna attribution, rubber / individual originality unverified",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "210.22.44.51.01.001 specimen — front",
+      "caption": "Actual black wave chronograph dial, date at 6, rose-gold-coloured details and black rubber strap. BQ49422 full reference; individual manufacture date and originality unverified.",
+      "image": "https://cdn.bqwatches.com/images/b14d970d-8a2c-47e5-a79f-5f22ed30f553.jpg",
+      "source": "https://www.bqwatches.com/product/22511",
+      "credit": "BQ Watches",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-14",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-14T13:26:54.257Z",
+        "loadedAt": "2026-10-14T13:26:54.257Z",
+        "evidence": "Original exact Omega technical page attributes44mm steel/Sedna gold,black dial/rubber,9900 automatic60h andsteel pin buckle. BQ original page read through web tool identifies exact full reference/stock49422; direct HTML request403,public source-associated CDNfiles retrieved via observed image links. Ten BQfiles contact-inspected;full0/8/9 inspected andselected. Rotor through sealed exhibition back visibly markedOMEGA MASTER CO-AXIAL9900,with column-wheel/barrel markings. No opened movement,complete individual identity/date/material assay/originality proof. Source narrative incorrectly saysmanual while specifications sayautomatic;exclude manual and seller manufacture2023 assertion. Extra bracelet in box photos is not inherited by rubber reference. Bloombar8files inspected;rear images softer/holder-obscured andexcluded;PO600M filenames contradicted by actual300m dial and exact source,not adopted. Nobracelet/yellowgold/allgold/otherSeamaster/9901calibre inheritance. Movement andcaseback shareBQ8;clasp9 has peripheral movement andis suppressed externally.",
+        "imageDimensions": {
+          "width": 1024,
+          "height": 1024
+        },
+        "imageSha256": "e167bd786a8bea37b5a520aa89cc4c9e58f5450908b14806754eb950a29c9ef8"
+      }
+    },
+    {
+      "id": "queue-omega210224-bq-movement",
+      "brand": "OMEGA",
+      "references": [
+        "210.22.44.51.01.001"
+      ],
+      "representativeFor": [],
+      "variant": "BQ49422 exact 210.22.44.51.01.001 / black wave, steel-Sedna attribution, rubber / individual originality unverified",
+      "category": "movement",
+      "depictsMovement": true,
+      "title": "210.22.44.51.01.001 specimen — movement",
+      "caption": "Actual rotor marked OMEGA MASTER CO-AXIAL 9900 through the sealed exhibition back. Column-wheel and barrel markings visible. Not an opened-movement or parts-originality proof.",
+      "image": "https://cdn.bqwatches.com/images/e0b08b4d-721a-4cb1-9d11-2c6a0e84725c.jpg",
+      "source": "https://www.bqwatches.com/product/22511",
+      "credit": "BQ Watches",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-14",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-14T13:26:54.257Z",
+        "loadedAt": "2026-10-14T13:26:54.257Z",
+        "evidence": "Original exact Omega technical page attributes44mm steel/Sedna gold,black dial/rubber,9900 automatic60h andsteel pin buckle. BQ original page read through web tool identifies exact full reference/stock49422; direct HTML request403,public source-associated CDNfiles retrieved via observed image links. Ten BQfiles contact-inspected;full0/8/9 inspected andselected. Rotor through sealed exhibition back visibly markedOMEGA MASTER CO-AXIAL9900,with column-wheel/barrel markings. No opened movement,complete individual identity/date/material assay/originality proof. Source narrative incorrectly saysmanual while specifications sayautomatic;exclude manual and seller manufacture2023 assertion. Extra bracelet in box photos is not inherited by rubber reference. Bloombar8files inspected;rear images softer/holder-obscured andexcluded;PO600M filenames contradicted by actual300m dial and exact source,not adopted. Nobracelet/yellowgold/allgold/otherSeamaster/9901calibre inheritance. Movement andcaseback shareBQ8;clasp9 has peripheral movement andis suppressed externally.",
+        "imageDimensions": {
+          "width": 1024,
+          "height": 1024
+        },
+        "imageSha256": "2d77862198c3952bb1ddc890e6f7921f1bd224d806334211c7d6e1e205b56468"
+      }
+    },
+    {
+      "id": "queue-omega210224-bq-caseback",
+      "brand": "OMEGA",
+      "references": [
+        "210.22.44.51.01.001"
+      ],
+      "representativeFor": [],
+      "variant": "BQ49422 exact 210.22.44.51.01.001 / black wave, steel-Sedna attribution, rubber / individual originality unverified",
+      "category": "caseback",
+      "depictsMovement": true,
+      "title": "210.22.44.51.01.001 specimen — caseback",
+      "caption": "Actual exhibition back with rotor marked 9900 and Diver 300M legends. Same original file as movement view. Complete individual identity, current resistance and originality unverified.",
+      "image": "https://cdn.bqwatches.com/images/e0b08b4d-721a-4cb1-9d11-2c6a0e84725c.jpg",
+      "source": "https://www.bqwatches.com/product/22511",
+      "credit": "BQ Watches",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-14",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-14T13:26:54.257Z",
+        "loadedAt": "2026-10-14T13:26:54.257Z",
+        "evidence": "Original exact Omega technical page attributes44mm steel/Sedna gold,black dial/rubber,9900 automatic60h andsteel pin buckle. BQ original page read through web tool identifies exact full reference/stock49422; direct HTML request403,public source-associated CDNfiles retrieved via observed image links. Ten BQfiles contact-inspected;full0/8/9 inspected andselected. Rotor through sealed exhibition back visibly markedOMEGA MASTER CO-AXIAL9900,with column-wheel/barrel markings. No opened movement,complete individual identity/date/material assay/originality proof. Source narrative incorrectly saysmanual while specifications sayautomatic;exclude manual and seller manufacture2023 assertion. Extra bracelet in box photos is not inherited by rubber reference. Bloombar8files inspected;rear images softer/holder-obscured andexcluded;PO600M filenames contradicted by actual300m dial and exact source,not adopted. Nobracelet/yellowgold/allgold/otherSeamaster/9901calibre inheritance. Movement andcaseback shareBQ8;clasp9 has peripheral movement andis suppressed externally.",
+        "imageDimensions": {
+          "width": 1024,
+          "height": 1024
+        },
+        "imageSha256": "2d77862198c3952bb1ddc890e6f7921f1bd224d806334211c7d6e1e205b56468"
+      }
+    },
+    {
+      "id": "queue-omega210224-bq-braceletClasp",
+      "brand": "OMEGA",
+      "references": [
+        "210.22.44.51.01.001"
+      ],
+      "representativeFor": [],
+      "variant": "BQ49422 exact 210.22.44.51.01.001 / black wave, steel-Sedna attribution, rubber / individual originality unverified",
+      "category": "braceletClasp",
+      "depictsMovement": true,
+      "title": "210.22.44.51.01.001 specimen — braceletClasp",
+      "caption": "Actual Omega-signed steel-coloured pin buckle and Omega/Seamaster rubber keepers. Peripheral exhibition-back movement is visible; External only hides this frame. Factory parts/originality unverified.",
+      "image": "https://cdn.bqwatches.com/images/186fdad9-b675-4c96-8a74-67f6725b900d.jpg",
+      "source": "https://www.bqwatches.com/product/22511",
+      "credit": "BQ Watches",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-14",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-14T13:26:54.257Z",
+        "loadedAt": "2026-10-14T13:26:54.257Z",
+        "evidence": "Original exact Omega technical page attributes44mm steel/Sedna gold,black dial/rubber,9900 automatic60h andsteel pin buckle. BQ original page read through web tool identifies exact full reference/stock49422; direct HTML request403,public source-associated CDNfiles retrieved via observed image links. Ten BQfiles contact-inspected;full0/8/9 inspected andselected. Rotor through sealed exhibition back visibly markedOMEGA MASTER CO-AXIAL9900,with column-wheel/barrel markings. No opened movement,complete individual identity/date/material assay/originality proof. Source narrative incorrectly saysmanual while specifications sayautomatic;exclude manual and seller manufacture2023 assertion. Extra bracelet in box photos is not inherited by rubber reference. Bloombar8files inspected;rear images softer/holder-obscured andexcluded;PO600M filenames contradicted by actual300m dial and exact source,not adopted. Nobracelet/yellowgold/allgold/otherSeamaster/9901calibre inheritance. Movement andcaseback shareBQ8;clasp9 has peripheral movement andis suppressed externally.",
+        "imageDimensions": {
+          "width": 1023,
+          "height": 1024
+        },
+        "imageSha256": "847b406f470d5465d58c9a180260d129e4cc0d9e298e4e5f5b44f6376b6d8e78"
+      }
     }
   ]
 }
