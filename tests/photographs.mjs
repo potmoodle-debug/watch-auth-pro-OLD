@@ -776,6 +776,15 @@ test('Legend Diver green bracelet photos do not supply other dial, strap or size
  assert.equal(matchingPhotographs(photos,'Omega','L3.764.4.06.6').filter(p=>p.id.startsWith('queue-longines-l37644-grand-')).length,0);
 });
 
+test('Exact blue2761 photos exclude neighbouring variants and suppress movement-bearing views',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,externalOnly=false)=>matchingPhotographs(photos,'Raymond Weil',ref,{externalOnly}).filter(p=>p.id.startsWith('queue-raymond2761-birmingham-'));
+ assert.deepEqual(get('2761STC50001').map(p=>p.category).sort(),['braceletClasp','caseback','front','movement']);assert.equal(new Set(get('2761STC50001').map(p=>p.review.imageSha256)).size,3);assert.deepEqual(get('2761-STC-50001',true).map(p=>p.category),['front']);
+ for(const ref of ['2761','2761-STC-50002','2765-SBC-52001','2765-BKC-20001','FreelancerGMT'])assert.equal(get(ref).length,0,ref);
+ assert.equal(matchingPhotographs(photos,'Omega','2761STC50001').filter(p=>p.id.startsWith('queue-raymond2761-birmingham-')).length,0);
+ assert.match(get('2761STC50001').find(p=>p.category==='movement').caption,/Not an opened movement/);
+});
+
 test('Gimlet exterior photographs do not imply movement or cocktail/code aliases',()=>{
  const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
  const get=(ref,externalOnly=false)=>matchingPhotographs(photos,'Fears',ref,{externalOnly}).filter(p=>p.id.startsWith('queue-fears-gimlet-kibble-'));
