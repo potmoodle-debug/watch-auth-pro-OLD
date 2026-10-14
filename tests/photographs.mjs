@@ -776,6 +776,15 @@ test('Legend Diver green bracelet photos do not supply other dial, strap or size
  assert.equal(matchingPhotographs(photos,'Omega','L3.764.4.06.6').filter(p=>p.id.startsWith('queue-longines-l37644-grand-')).length,0);
 });
 
+test('Omega Sedna chronograph rubber photos exclude other executions and suppress movement-bearing views',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,externalOnly=false)=>matchingPhotographs(photos,'Omega',ref,{externalOnly}).filter(p=>p.id.startsWith('queue-omega210224-bq-'));
+ assert.deepEqual(get('21022445101001').map(p=>p.category).sort(),['braceletClasp','caseback','front','movement']);assert.equal(new Set(get('21022445101001').map(p=>p.review.imageSha256)).size,3);assert.deepEqual(get('210.22.44.51.01.001',true).map(p=>p.category),['front']);
+ for(const ref of ['21020445101001','21022445103001','21062445101001','21032445101001','SeamasterDiver'])assert.equal(get(ref).length,0,ref);
+ assert.equal(matchingPhotographs(photos,'Cartier','21022445101001').filter(p=>p.id.startsWith('queue-omega210224-bq-')).length,0);
+ assert.match(get('21022445101001').find(p=>p.category==='movement').caption,/9900/);assert.match(get('21022445101001').find(p=>p.category==='movement').caption,/Not an opened/);
+});
+
 test('W2SA0028 exterior photos do not create case-code or neighbouring aliases',()=>{
  const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
  const get=(ref,externalOnly=false)=>matchingPhotographs(photos,'Cartier',ref,{externalOnly}).filter(p=>p.id.startsWith('queue-cartier-w2sa0028-swe-'));

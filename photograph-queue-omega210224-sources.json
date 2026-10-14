@@ -1,0 +1,55 @@
+{
+  "reviewedAt": "2026-10-14T13:26:54.257Z",
+  "completion": "IN PROGRESS",
+  "reference": "210.22.44.51.01.001",
+  "manufacturer": {
+    "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-diver-300m-co-axial-master-chronometer-chronograph-44-mm-21022445101001",
+    "finalUrl": "https://www.omegawatches.com/en-gb/watch-omega-seamaster-diver-300m-co-axial-master-chronometer-chronograph-44-mm-21022445101001",
+    "status": 200,
+    "bytes": 780269,
+    "sha256": "9d72faf89f98fe93b15dc417047a5d15c8bbb4afe344e0848e666603d44fae81",
+    "containsReference": true,
+    "checkedAt": "2026-10-14T13:12:58.466Z"
+  },
+  "source": "https://www.bqwatches.com/product/22511",
+  "sourceAccess": "Original page read via web tool; direct HTML403. Public original-source-associated CDN files retrieved from observed gallery links; native image path retained alongside observed rendition URL.",
+  "images": [
+    {
+      "i": 0,
+      "observed": "https://cdn.bqwatches.com/cdn-cgi/image/width%3D550%2Cformat%3Dauto/images/b14d970d-8a2c-47e5-a79f-5f22ed30f553.jpg",
+      "image": "https://cdn.bqwatches.com/images/b14d970d-8a2c-47e5-a79f-5f22ed30f553.jpg",
+      "bytes": 141118,
+      "sha256": "e167bd786a8bea37b5a520aa89cc4c9e58f5450908b14806754eb950a29c9ef8",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "i": 8,
+      "observed": "https://cdn.bqwatches.com/cdn-cgi/image/width%3D550%2Cformat%3Dauto/images/e0b08b4d-721a-4cb1-9d11-2c6a0e84725c.jpg",
+      "image": "https://cdn.bqwatches.com/images/e0b08b4d-721a-4cb1-9d11-2c6a0e84725c.jpg",
+      "bytes": 277605,
+      "sha256": "2d77862198c3952bb1ddc890e6f7921f1bd224d806334211c7d6e1e205b56468",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "i": 9,
+      "observed": "https://cdn.bqwatches.com/cdn-cgi/image/width%3D550%2Cformat%3Dauto/images/186fdad9-b675-4c96-8a74-67f6725b900d.jpg",
+      "image": "https://cdn.bqwatches.com/images/186fdad9-b675-4c96-8a74-67f6725b900d.jpg",
+      "bytes": 266715,
+      "sha256": "847b406f470d5465d58c9a180260d129e4cc0d9e298e4e5f5b44f6376b6d8e78",
+      "width": 1023,
+      "height": 1024
+    }
+  ],
+  "galleryEntries": 4,
+  "distinctFiles": 3,
+  "evidence": "Original exact Omega technical page attributes44mm steel/Sedna gold,black dial/rubber,9900 automatic60h andsteel pin buckle. BQ original page read through web tool identifies exact full reference/stock49422; direct HTML request403,public source-associated CDNfiles retrieved via observed image links. Ten BQfiles contact-inspected;full0/8/9 inspected andselected. Rotor through sealed exhibition back visibly markedOMEGA MASTER CO-AXIAL9900,with column-wheel/barrel markings. No opened movement,complete individual identity/date/material assay/originality proof. Source narrative incorrectly saysmanual while specifications sayautomatic;exclude manual and seller manufacture2023 assertion. Extra bracelet in box photos is not inherited by rubber reference. Bloombar8files inspected;rear images softer/holder-obscured andexcluded;PO600M filenames contradicted by actual300m dial and exact source,not adopted. Nobracelet/yellowgold/allgold/otherSeamaster/9901calibre inheritance. Movement andcaseback shareBQ8;clasp9 has peripheral movement andis suppressed externally.",
+  "gaps": [
+    "Opened physical execution/component originality",
+    "Complete individual identity/manufacture date",
+    "Material assay/hardware originality",
+    "Full production interval"
+  ],
+  "queueStatus": "Unchanged pending verified publication;specimen gaps remain separately tracked"
+}
