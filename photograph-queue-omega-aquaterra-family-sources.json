@@ -1,0 +1,48 @@
+{
+  "reviewedAt": "2026-10-14T14:01:01.518Z",
+  "completion": "IN PROGRESS",
+  "request": "OMEGA|SEAMASTERAQUATERRA",
+  "sources": [
+    {
+      "id": "quartz25178000",
+      "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-aqua-terra-quartz-25178000",
+      "finalUrl": "https://www.omegawatches.com/en-gb/watch-omega-seamaster-aqua-terra-quartz-25178000",
+      "status": 200,
+      "bytes": 437785,
+      "sha256": "b2a67affc20e89e808a6e0b1e4e8bc25819f874f322e00f3d2f669b64e880a1a",
+      "at": "2026-10-14T13:57:22.894Z"
+    },
+    {
+      "id": "chronograph23113445006001",
+      "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-aqua-terra-150m-co-axial-chronometer-chronograph-44-mm-23113445006001",
+      "finalUrl": "https://www.omegawatches.com/en-gb/watch-omega-seamaster-aqua-terra-150m-co-axial-chronometer-chronograph-44-mm-23113445006001",
+      "status": 200,
+      "bytes": 418215,
+      "sha256": "87bfac9e3e89d641713bd3e8516748a038ff072556ce312595ff933b3f16f817",
+      "at": "2026-10-14T13:57:24.609Z"
+    },
+    {
+      "id": "modern-black-collection",
+      "url": "https://press.omegawatches.com/a-classic-in-three-sizes-introducing-the-seamaster-aqua-terra-black-dial/",
+      "finalUrl": "https://press.omegawatches.com/a-classic-in-three-sizes-introducing-the-seamaster-aqua-terra-black-dial/",
+      "status": 200,
+      "bytes": 78353,
+      "sha256": "1d40a8111f36e479b5434e1d7f3624a288a13bf0d2280f2296fbe9efd1e16924",
+      "at": "2026-10-14T13:58:06.505Z"
+    }
+  ],
+  "evidence": "Three original Omega pages read and archived with hashes: exact2517.80.00 quartz1538/39.2mm steel/blue; exact231.13.44.50.06.001 automatic chronograph3313/44mm steel/grey/leather;21June2024 black-collection press record distinguishes41mm8900 from38/34mm8800. These demonstrate collection-name ambiguity,not aliases for the unidentified queue specimen. Recorded1538 alone does not establish case reference/variant/period/material/execution. No actual photographs accepted or inherited by family name;all four categories unsupported pending exact identity. Other stored exact-reference rules remain unchanged.",
+  "reviewedSourceRecords": [
+    "RULE:0009",
+    "RULE:0794",
+    "RULE:0096"
+  ],
+  "acceptedNewPhotos": 0,
+  "gaps": [
+    "Exact case reference and suffix",
+    "Physical movement and execution",
+    "Individual date/material/parts originality",
+    "All four actual photo categories for unidentified request"
+  ],
+  "queueStatus": "Keep open: observed1538 does not resolve exact identity"
+}
