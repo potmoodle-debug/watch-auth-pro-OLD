@@ -32173,6 +32173,108 @@
         },
         "imageSha256": "cc32511687a1e562b14b7e22f8e30d428eb6662e71cdfb67bc6c5a9a07431a5b"
       }
+    },
+    {
+      "id": "queue-longines-l37794-lesabre-front",
+      "brand": "LONGINES",
+      "references": [
+        "L3.779.4.56.6"
+      ],
+      "representativeFor": [
+        "L3.779.4"
+      ],
+      "variant": "LeSabre155146 exact black dial / black bezel / H-link .56.6; base-reference representative only",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "L3.779.4.56.6 specimen — front",
+      "caption": "Actual black dial, date at 3, black bezel and H-link bracelet. LeSabre155146 identifies full L3.779.4.56.6. For base input this is a representative variant, not the individual watch.",
+      "image": "https://lesabre.pl/wp-content/uploads/2026/04/IMG_0110-Edytuj-2.jpg",
+      "source": "https://lesabre.pl/sklep/longines-hydroconquest-l3-779-4-56-6-03-2026-39-mm/",
+      "credit": "LeSabre",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-14",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-14T14:13:24.875Z",
+        "loadedAt": "2026-10-14T14:13:24.875Z",
+        "evidence": "Original exact Longines .56.6 and .90.6 product pages archived; per-product additional technical JSON explicitly attributes L888.5,39mm,11.70mm thickness,20mm lugs,48.10mm lug-to-lug. Generic multi-calibre manual/image not physical execution proof. Manufacturer26March2026 release establishes collection introduction,not individual manufacture date. Original LeSabre155146 identifies full .56.6;10gallery files contact-inspected,full0/2/3 inspected. Front0 black dial/date3/black bezel/H-link bracelet;closedback2 physicallyL3.779.4 withLongines/anti-magnetic/stainless-steel legends andsigned deployant blade;clasp3sharp logo with blurred closedback. No movement visible;L888.5 manufacturer attribution not physically verified. Source screenshot/box excluded. Seller date/warranty,nominal300m/weight anddifferent individual source serial not user authenticity/date proof. PartialL37794 remains manual representative black/H-link .56.6 only;no .90.6/blue/green/42mm/older-generation photo inheritance.",
+        "imageDimensions": {
+          "width": 1600,
+          "height": 1800
+        },
+        "imageSha256": "be77ee6e90bde34cbed93c05283f37455838ff7f94528592e44c3239d347590c"
+      }
+    },
+    {
+      "id": "queue-longines-l37794-lesabre-caseback",
+      "brand": "LONGINES",
+      "references": [
+        "L3.779.4.56.6"
+      ],
+      "representativeFor": [
+        "L3.779.4"
+      ],
+      "variant": "LeSabre155146 exact black dial / black bezel / H-link .56.6; base-reference representative only",
+      "category": "caseback",
+      "depictsMovement": false,
+      "title": "L3.779.4.56.6 specimen — caseback",
+      "caption": "Actual closed Longines globe back with L3.779.4 and anti-magnetic/stainless steel legends; signed opened deployant blade visible. No movement exposure or manufacture-date proof.",
+      "image": "https://lesabre.pl/wp-content/uploads/2026/04/IMG_0121.jpg",
+      "source": "https://lesabre.pl/sklep/longines-hydroconquest-l3-779-4-56-6-03-2026-39-mm/",
+      "credit": "LeSabre",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-14",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-14T14:13:24.875Z",
+        "loadedAt": "2026-10-14T14:13:24.875Z",
+        "evidence": "Original exact Longines .56.6 and .90.6 product pages archived; per-product additional technical JSON explicitly attributes L888.5,39mm,11.70mm thickness,20mm lugs,48.10mm lug-to-lug. Generic multi-calibre manual/image not physical execution proof. Manufacturer26March2026 release establishes collection introduction,not individual manufacture date. Original LeSabre155146 identifies full .56.6;10gallery files contact-inspected,full0/2/3 inspected. Front0 black dial/date3/black bezel/H-link bracelet;closedback2 physicallyL3.779.4 withLongines/anti-magnetic/stainless-steel legends andsigned deployant blade;clasp3sharp logo with blurred closedback. No movement visible;L888.5 manufacturer attribution not physically verified. Source screenshot/box excluded. Seller date/warranty,nominal300m/weight anddifferent individual source serial not user authenticity/date proof. PartialL37794 remains manual representative black/H-link .56.6 only;no .90.6/blue/green/42mm/older-generation photo inheritance.",
+        "imageDimensions": {
+          "width": 1600,
+          "height": 1067
+        },
+        "imageSha256": "aec95653e84f26876016cde2c5e6343cb5591b1c471d6abea358d2a3bcc9313d"
+      }
+    },
+    {
+      "id": "queue-longines-l37794-lesabre-braceletClasp",
+      "brand": "LONGINES",
+      "references": [
+        "L3.779.4.56.6"
+      ],
+      "representativeFor": [
+        "L3.779.4"
+      ],
+      "variant": "LeSabre155146 exact black dial / black bezel / H-link .56.6; base-reference representative only",
+      "category": "braceletClasp",
+      "depictsMovement": false,
+      "title": "L3.779.4.56.6 specimen — braceletClasp",
+      "caption": "Actual signed clasp cover and H-link bracelet; closed back is blurred in the background. Micro-adjust internals, complete hardware codes and factory parts originality remain unverified.",
+      "image": "https://lesabre.pl/wp-content/uploads/2026/04/IMG_0117.jpg",
+      "source": "https://lesabre.pl/sklep/longines-hydroconquest-l3-779-4-56-6-03-2026-39-mm/",
+      "credit": "LeSabre",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-14",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-14T14:13:24.875Z",
+        "loadedAt": "2026-10-14T14:13:24.875Z",
+        "evidence": "Original exact Longines .56.6 and .90.6 product pages archived; per-product additional technical JSON explicitly attributes L888.5,39mm,11.70mm thickness,20mm lugs,48.10mm lug-to-lug. Generic multi-calibre manual/image not physical execution proof. Manufacturer26March2026 release establishes collection introduction,not individual manufacture date. Original LeSabre155146 identifies full .56.6;10gallery files contact-inspected,full0/2/3 inspected. Front0 black dial/date3/black bezel/H-link bracelet;closedback2 physicallyL3.779.4 withLongines/anti-magnetic/stainless-steel legends andsigned deployant blade;clasp3sharp logo with blurred closedback. No movement visible;L888.5 manufacturer attribution not physically verified. Source screenshot/box excluded. Seller date/warranty,nominal300m/weight anddifferent individual source serial not user authenticity/date proof. PartialL37794 remains manual representative black/H-link .56.6 only;no .90.6/blue/green/42mm/older-generation photo inheritance.",
+        "imageDimensions": {
+          "width": 1600,
+          "height": 1067
+        },
+        "imageSha256": "4c84dcbd59a3cc7e9c1c16d2129ee5dacb128a296819eeb90e68faee4487b91c"
+      }
     }
   ]
 }

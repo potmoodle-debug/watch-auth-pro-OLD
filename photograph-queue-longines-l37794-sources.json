@@ -1,0 +1,139 @@
+{
+  "reviewedAt": "2026-10-14T14:13:24.875Z",
+  "completion": "IN PROGRESS",
+  "reference": "L3.779.4.56.6",
+  "sources": [
+    {
+      "id": "l37794566",
+      "url": "https://www.longines.com/en-gb/p/watch-hydroconquest-l3-779-4-56-6",
+      "finalUrl": "https://www.longines.com/en-gb/p/watch-hydroconquest-l3-779-4-56-6",
+      "status": 200,
+      "bytes": 1396947,
+      "sha256": "1ee386933dd5e880c9f57518e2b1e434efa2b0331236fb2bde17ffbba0424846",
+      "at": "2026-10-14T14:05:29.725Z"
+    },
+    {
+      "id": "l37794906",
+      "url": "https://www.longines.com/en-us/p/watch-hydroconquest-l3-779-4-90-6",
+      "finalUrl": "https://www.longines.com/en-us/p/watch-hydroconquest-l3-779-4-90-6",
+      "status": 200,
+      "bytes": 1412628,
+      "sha256": "7f89637389ef03b824c3dfde8a1952d3c39a72cd84af59df56e029e5ebfe38aa",
+      "at": "2026-10-14T14:05:39.170Z"
+    },
+    {
+      "id": "release2026",
+      "url": "https://mediacenter.longines.com/hydroconquest-88397/",
+      "finalUrl": "https://mediacenter.longines.com/hydroconquest-88397/",
+      "status": 200,
+      "bytes": 127034,
+      "sha256": "9a428f1fba6f08ad4cb2fb7783d1fc29cccafb4d5bf40948b09752ad53863151",
+      "at": "2026-10-14T14:05:40.550Z"
+    }
+  ],
+  "technical": [
+    {
+      "id": "l37794566",
+      "path": "NEXT_DATA.props.pageProps.fallback.@\"ProductPageAdditionalDocument\",\"en-gb\",\"watch-hydroconquest-l3-779-4-56-6\",.products.items.0",
+      "technical": {
+        "case_shape": 16,
+        "case_material": 280,
+        "case_glass": 281,
+        "case_case_back": 42,
+        "case_dimension": "Ø 39.00 mm",
+        "case_lug_distance": "20 mm",
+        "case_thickness": "11.70 mm",
+        "case_water_resistance": 47,
+        "case_specificities": "54,55",
+        "case_lug_to_lug": "48.10 mm",
+        "case_weight": "167.0 g",
+        "dial_color": 60,
+        "dial_hour_markers": 92,
+        "dial_hands": 105,
+        "dial_specificities": "301",
+        "mvt_fct_type": 112,
+        "mvt_fct_calibre_name": "L888.5",
+        "mvt_fct_calibre": 6091,
+        "mvt_fct_functions": 129,
+        "mvt_fct_special_evo": "8168",
+        "bracelet_label": 180,
+        "bracelet_material": 188,
+        "bracelet_buckle": 7588
+      }
+    },
+    {
+      "id": "l37794906",
+      "path": "NEXT_DATA.props.pageProps.fallback.@\"ProductPageAdditionalDocument\",\"en-us\",\"watch-hydroconquest-l3-779-4-90-6\",.products.items.0",
+      "technical": {
+        "case_shape": 16,
+        "case_material": 280,
+        "case_glass": 281,
+        "case_case_back": 42,
+        "case_dimension": "Ø 39.00 mm",
+        "case_lug_distance": "20 mm",
+        "case_thickness": "11.70 mm",
+        "case_water_resistance": 47,
+        "case_specificities": "54,55",
+        "case_lug_to_lug": "48.10 mm",
+        "case_weight": "155.0 g",
+        "dial_color": 60,
+        "dial_hour_markers": 92,
+        "dial_hands": 105,
+        "dial_specificities": "301",
+        "mvt_fct_type": 112,
+        "mvt_fct_calibre_name": "L888.5",
+        "mvt_fct_calibre": 6091,
+        "mvt_fct_functions": 129,
+        "mvt_fct_special_evo": "8168",
+        "bracelet_label": 181,
+        "bracelet_material": 0,
+        "bracelet_buckle": 7588
+      }
+    }
+  ],
+  "source": "https://lesabre.pl/sklep/longines-hydroconquest-l3-779-4-56-6-03-2026-39-mm/",
+  "sourceHtmlSha256": "33112f71bbac34ccbdd378d66ea443d04fe1a75e4999e9583641f577540c22b4",
+  "images": [
+    {
+      "i": 0,
+      "image": "https://lesabre.pl/wp-content/uploads/2026/04/IMG_0110-Edytuj-2.jpg",
+      "file": "0.jpg",
+      "status": 200,
+      "bytes": 916470,
+      "sha256": "be77ee6e90bde34cbed93c05283f37455838ff7f94528592e44c3239d347590c",
+      "width": 1600,
+      "height": 1800
+    },
+    {
+      "i": 2,
+      "image": "https://lesabre.pl/wp-content/uploads/2026/04/IMG_0121.jpg",
+      "file": "2.jpg",
+      "status": 200,
+      "bytes": 438086,
+      "sha256": "aec95653e84f26876016cde2c5e6343cb5591b1c471d6abea358d2a3bcc9313d",
+      "width": 1600,
+      "height": 1067
+    },
+    {
+      "i": 3,
+      "image": "https://lesabre.pl/wp-content/uploads/2026/04/IMG_0117.jpg",
+      "file": "3.jpg",
+      "status": 200,
+      "bytes": 410822,
+      "sha256": "4c84dcbd59a3cc7e9c1c16d2129ee5dacb128a296819eeb90e68faee4487b91c",
+      "width": 1600,
+      "height": 1067
+    }
+  ],
+  "galleryEntries": 3,
+  "distinctFiles": 3,
+  "evidence": "Original exact Longines .56.6 and .90.6 product pages archived; per-product additional technical JSON explicitly attributes L888.5,39mm,11.70mm thickness,20mm lugs,48.10mm lug-to-lug. Generic multi-calibre manual/image not physical execution proof. Manufacturer26March2026 release establishes collection introduction,not individual manufacture date. Original LeSabre155146 identifies full .56.6;10gallery files contact-inspected,full0/2/3 inspected. Front0 black dial/date3/black bezel/H-link bracelet;closedback2 physicallyL3.779.4 withLongines/anti-magnetic/stainless-steel legends andsigned deployant blade;clasp3sharp logo with blurred closedback. No movement visible;L888.5 manufacturer attribution not physically verified. Source screenshot/box excluded. Seller date/warranty,nominal300m/weight anddifferent individual source serial not user authenticity/date proof. PartialL37794 remains manual representative black/H-link .56.6 only;no .90.6/blue/green/42mm/older-generation photo inheritance.",
+  "gaps": [
+    "Physical L888.5 movement/execution",
+    "Full queue suffix and individual identity/date",
+    "Micro-adjust internals and hardware originality",
+    "Actual .90.6 specimen photos",
+    "Full production interval"
+  ],
+  "queueStatus": "Unchanged pending verified publication;full specimen gaps remain"
+}
