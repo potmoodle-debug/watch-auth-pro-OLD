@@ -9880,6 +9880,32 @@
           "finding": "Source-identified exact photographed variant;physical supplier calibre/date/originality gaps remain."
         }
       }
+    },
+    {
+      "brand": "CARTIER",
+      "reference": "W2SA0028",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-14T13:05:55.825Z",
+          "evidence": "Exact original SWE81236 detail page obtained through its own catalogue link. Ten original files contact-inspected; full2/6/7 inspected and accepted for front,closed back and pin buckle/strap. Grey sunray Roman dial,gold-coloured hands/bezel,steel-coloured case,blue crown stone and dark leather strap. Closed four-screw back shows Cartier/Santos marks,4240 case code,source-redacted partial serial and small Au750 plate. No whole-case assay,complete serial,manufacture date,current resistance or originality conclusion. Strap underside signed Cartier/BDC; exposed buckle face has no clear Cartier signature. Regional exact Cartier page supports quartz,43.5x31.4mm/7.3mm,steel/yellow-gold bezel and grey strap,but no precise157. No opened movement or physical calibre stamp. Duplicate front crops excluded; replica mirrors and aggregator430MC/manual contradictions excluded. No4240/other-reference/suffix/calibre equivalence.",
+          "finding": "Exact seller-identified exterior execution;individual originality unverified."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-14T13:05:55.825Z",
+          "evidence": "Exact original SWE81236 detail page obtained through its own catalogue link. Ten original files contact-inspected; full2/6/7 inspected and accepted for front,closed back and pin buckle/strap. Grey sunray Roman dial,gold-coloured hands/bezel,steel-coloured case,blue crown stone and dark leather strap. Closed four-screw back shows Cartier/Santos marks,4240 case code,source-redacted partial serial and small Au750 plate. No whole-case assay,complete serial,manufacture date,current resistance or originality conclusion. Strap underside signed Cartier/BDC; exposed buckle face has no clear Cartier signature. Regional exact Cartier page supports quartz,43.5x31.4mm/7.3mm,steel/yellow-gold bezel and grey strap,but no precise157. No opened movement or physical calibre stamp. Duplicate front crops excluded; replica mirrors and aggregator430MC/manual contradictions excluded. No4240/other-reference/suffix/calibre equivalence.",
+          "finding": "No opened movement or independent precise157 evidence; category unsupported."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-14T13:05:55.825Z",
+          "evidence": "Exact original SWE81236 detail page obtained through its own catalogue link. Ten original files contact-inspected; full2/6/7 inspected and accepted for front,closed back and pin buckle/strap. Grey sunray Roman dial,gold-coloured hands/bezel,steel-coloured case,blue crown stone and dark leather strap. Closed four-screw back shows Cartier/Santos marks,4240 case code,source-redacted partial serial and small Au750 plate. No whole-case assay,complete serial,manufacture date,current resistance or originality conclusion. Strap underside signed Cartier/BDC; exposed buckle face has no clear Cartier signature. Regional exact Cartier page supports quartz,43.5x31.4mm/7.3mm,steel/yellow-gold bezel and grey strap,but no precise157. No opened movement or physical calibre stamp. Duplicate front crops excluded; replica mirrors and aggregator430MC/manual contradictions excluded. No4240/other-reference/suffix/calibre equivalence.",
+          "finding": "Exact seller-identified exterior execution;individual originality unverified."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-14T13:05:55.825Z",
+          "evidence": "Exact original SWE81236 detail page obtained through its own catalogue link. Ten original files contact-inspected; full2/6/7 inspected and accepted for front,closed back and pin buckle/strap. Grey sunray Roman dial,gold-coloured hands/bezel,steel-coloured case,blue crown stone and dark leather strap. Closed four-screw back shows Cartier/Santos marks,4240 case code,source-redacted partial serial and small Au750 plate. No whole-case assay,complete serial,manufacture date,current resistance or originality conclusion. Strap underside signed Cartier/BDC; exposed buckle face has no clear Cartier signature. Regional exact Cartier page supports quartz,43.5x31.4mm/7.3mm,steel/yellow-gold bezel and grey strap,but no precise157. No opened movement or physical calibre stamp. Duplicate front crops excluded; replica mirrors and aggregator430MC/manual contradictions excluded. No4240/other-reference/suffix/calibre equivalence.",
+          "finding": "Exact seller-identified exterior execution;individual originality unverified."
+        }
+      }
     }
   ],
   "sourceRecordReviews": [
@@ -11333,6 +11359,11 @@
       "id": "UPDATE:RAYMONDWEIL|2761STC50001",
       "reviewedAt": "2026-10-14T12:50:12.951Z",
       "evidence": "Original regional exact2761-STC-50001 record attributes40.5mm steel,9.7mm,RW3230 automatic/~56h andblue dial/leatherGMT. Original Birmingham product7314587025479 identifies full reference and macro specimen photography. Ten original1600square images contact-inspected;full1,6,7,8 inspected;selectedfront1,shared movement/back6,clasp7. Actual blue-gradient dial,date6/red-tipGMT,24hour ring,two crowns;sealed exhibition back shows RW-signed rotor and bridges through protective film/reflections,no reliably legible supplier calibre stamp or complete reference/serial. Clasp7 includes peripheral movement window and is conservatively movement-bearing. No opened movement or generic SW330-2/RW3230 equivalence;recordedSW330-2 unresolved. Seller2025warrantycard not manufacture date;strap/hardware originality unproven. SeriousWatches copy50h/chronograph excluded,regional primary56h/GMT retained as attribution. No2761base/2765Worldtimer/greenblack/other-suffix inheritance."
+    },
+    {
+      "id": "UPDATE:CARTIER|W2SA0028",
+      "reviewedAt": "2026-10-14T13:05:55.825Z",
+      "evidence": "Exact original SWE81236 detail page obtained through its own catalogue link. Ten original files contact-inspected; full2/6/7 inspected and accepted for front,closed back and pin buckle/strap. Grey sunray Roman dial,gold-coloured hands/bezel,steel-coloured case,blue crown stone and dark leather strap. Closed four-screw back shows Cartier/Santos marks,4240 case code,source-redacted partial serial and small Au750 plate. No whole-case assay,complete serial,manufacture date,current resistance or originality conclusion. Strap underside signed Cartier/BDC; exposed buckle face has no clear Cartier signature. Regional exact Cartier page supports quartz,43.5x31.4mm/7.3mm,steel/yellow-gold bezel and grey strap,but no precise157. No opened movement or physical calibre stamp. Duplicate front crops excluded; replica mirrors and aggregator430MC/manual contradictions excluded. No4240/other-reference/suffix/calibre equivalence."
     }
   ]
 }

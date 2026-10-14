@@ -1,0 +1,49 @@
+{
+  "reviewedAt": "2026-10-14T13:05:55.825Z",
+  "completion": "IN PROGRESS",
+  "reference": "W2SA0028",
+  "receipt": {
+    "url": "https://www.swisswatchexpo.com/watches/cartier-santos-dumont-large-steel-yellow-gold-mens-watch-w2sa0028-81236/",
+    "status": 200,
+    "sha256": "a5f273d6a225f57a96843f479af25d7c91d9f07f68fe1e7eb4d88b9946188247",
+    "checkedAt": "2026-10-14T13:02:16.196Z"
+  },
+  "manufacturer": {
+    "url": "https://www.cartier.mx/w2sa0028-reloj-santos-dumont/p",
+    "finalUrl": "https://www.cartier.mx/w2sa0028-reloj-santos-dumont/p",
+    "status": 200,
+    "bytes": 1487551,
+    "sha256": "baa468e69eddb3abda1600d4f219a6db9cf131d97f34f7c0b4a557bff8fd10f0",
+    "checkedAt": "2026-10-14T12:57:47.616Z"
+  },
+  "images": [
+    {
+      "i": 2,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/7/16/cartier-santos-dumont-large-steel-yellow-gold-mens-watch-w2sa0028-81236_123b4.jpg",
+      "sha256": "00623f511bdc6ecdbd0d8fb9157b7d9ea25f16d9df7b36cd3e6c7c6ffa921da2",
+      "width": 4354,
+      "height": 4354
+    },
+    {
+      "i": 6,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/7/16/cartier-santos-dumont-large-steel-yellow-gold-mens-watch-w2sa0028-81236_bea51.jpg",
+      "sha256": "ca97f4c19db3d671e3d2b44c91846602bd57c85d9629f467580d042c5b9c9363",
+      "width": 1912,
+      "height": 1912
+    },
+    {
+      "i": 7,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/7/16/cartier-santos-dumont-large-steel-yellow-gold-mens-watch-w2sa0028-81236_a694d.jpg",
+      "sha256": "64a11df43355ce3e4c395282abf28c4fa3b875b7ff3f729f770e97b98584c9c4",
+      "width": 3749,
+      "height": 3749
+    }
+  ],
+  "evidence": "Exact original SWE81236 detail page obtained through its own catalogue link. Ten original files contact-inspected; full2/6/7 inspected and accepted for front,closed back and pin buckle/strap. Grey sunray Roman dial,gold-coloured hands/bezel,steel-coloured case,blue crown stone and dark leather strap. Closed four-screw back shows Cartier/Santos marks,4240 case code,source-redacted partial serial and small Au750 plate. No whole-case assay,complete serial,manufacture date,current resistance or originality conclusion. Strap underside signed Cartier/BDC; exposed buckle face has no clear Cartier signature. Regional exact Cartier page supports quartz,43.5x31.4mm/7.3mm,steel/yellow-gold bezel and grey strap,but no precise157. No opened movement or physical calibre stamp. Duplicate front crops excluded; replica mirrors and aggregator430MC/manual contradictions excluded. No4240/other-reference/suffix/calibre equivalence.",
+  "gaps": [
+    "Opened physical calibre and independent157 attribution",
+    "Complete identity/individual date",
+    "Parts/factory originality and material assay"
+  ],
+  "queueStatus": "Unchanged; recorded157 remains unverified"
+}

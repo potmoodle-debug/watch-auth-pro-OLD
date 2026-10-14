@@ -776,6 +776,15 @@ test('Legend Diver green bracelet photos do not supply other dial, strap or size
  assert.equal(matchingPhotographs(photos,'Omega','L3.764.4.06.6').filter(p=>p.id.startsWith('queue-longines-l37644-grand-')).length,0);
 });
 
+test('W2SA0028 exterior photos do not create case-code or neighbouring aliases',()=>{
+ const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
+ const get=(ref,externalOnly=false)=>matchingPhotographs(photos,'Cartier',ref,{externalOnly}).filter(p=>p.id.startsWith('queue-cartier-w2sa0028-swe-'));
+ assert.deepEqual(get('W2SA0028').map(p=>p.category).sort(),['braceletClasp','caseback','front']);assert.equal(get('W2SA0028',true).length,3);
+ for(const ref of ['4240','W2SA0028-001','W2SA0011','W2SA0015','W2SA0017','SantosDumont'])assert.equal(get(ref).length,0,ref);
+ assert.equal(matchingPhotographs(photos,'Omega','W2SA0028').filter(p=>p.id.startsWith('queue-cartier-w2sa0028-swe-')).length,0);
+ assert.match(get('W2SA0028').find(p=>p.category==='braceletClasp').caption,/no clear Cartier signature/);
+});
+
 test('Exact blue2761 photos exclude neighbouring variants and suppress movement-bearing views',()=>{
  const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
  const get=(ref,externalOnly=false)=>matchingPhotographs(photos,'Raymond Weil',ref,{externalOnly}).filter(p=>p.id.startsWith('queue-raymond2761-birmingham-'));
