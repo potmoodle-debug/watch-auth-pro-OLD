@@ -31498,6 +31498,105 @@
         },
         "imageSha256": "94004e32c17d3e72cb429274f7aaa855290fbf83da94822b317526bffd98d256"
       }
+    },
+    {
+      "id": "queue-tag-wbp5a8a-timepiece-front",
+      "brand": "TAGHEUER",
+      "references": [
+        "WBP5A8A"
+      ],
+      "representativeFor": [
+        "WBP5A8A"
+      ],
+      "variant": "TH380 WBP5A8A black dial,titanium bracelet / full suffix and physical movement unverified",
+      "category": "front",
+      "title": "WBP5A8A Superdiver specimen — front",
+      "caption": "Actual TH380 black grooved dial,orange minute/seconds hands,date6 and orange bezel sector. Seller reports crystal scratches; date/originality unproven. Full suffix not verified.",
+      "image": "https://www.watchesbytimepiece.com/uploads/shop/large/TH380m.jpg",
+      "source": "https://www.watchesbytimepiece.com/prestigious-watches/gents-tag-heuer-aquaracer-superdiver-wbp5a8a-black-dial-th380",
+      "credit": "Watches by Timepiece",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research2026-10-14",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-14T09:54:20.223Z",
+        "loadedAt": "2026-10-14T09:54:20.223Z",
+        "evidence": "Original Watches by TimepieceTH380 identifies actual WBP5A8A black titanium45mm bracelet specimen. Twelve original images contact-inspected; full front1,closed back5/7 and clasp6 inspected. Selected1,7,6. Back7 partly obscured by plastic holder/bracelet and out of focus; full reference/suffix/serial not reliably legible. Manufacturer exactWBP5A8A.BF0619 page independently read through web tool2026-10-14 attributesTH30-00 automatic70h,45mm titanium case,steel closed back and titanium bracelet/pushbutton clasp. Shell2755byte response lacks reference/specs and is not accepted primary content. Manufacturer product image provenance uncertain; generic movement.svg excluded. Dealer suffixBF0619 not proven; photographs representativeForWBP5A8A only, never inherited by full suffix. Seller2024/box/papers not manufacture or originality proof; no opened movement or physicalTH30-00 stamp. Factory rating/certification not current specimen performance/authenticity. No other Aquaracer or common-calibre equivalence.",
+        "imageDimensions": {
+          "width": 1000,
+          "height": 1000
+        },
+        "imageSha256": "d61ecf376bc578b0b7b7b18d6a62ecaebfb4f2ff7c304f11ebc6004752456615"
+      }
+    },
+    {
+      "id": "queue-tag-wbp5a8a-timepiece-caseback",
+      "brand": "TAGHEUER",
+      "references": [
+        "WBP5A8A"
+      ],
+      "representativeFor": [
+        "WBP5A8A"
+      ],
+      "variant": "TH380 WBP5A8A black dial,titanium bracelet / full suffix and physical movement unverified",
+      "category": "caseback",
+      "title": "WBP5A8A Superdiver specimen — caseback",
+      "caption": "Actual closed diver-helmet/honeycomb back,partly obscured by holder and bracelet and out of focus. No reliably legible complete reference/suffix/serial and no movement visible.",
+      "image": "https://www.watchesbytimepiece.com/uploads/shop/large/TH380g.jpg",
+      "source": "https://www.watchesbytimepiece.com/prestigious-watches/gents-tag-heuer-aquaracer-superdiver-wbp5a8a-black-dial-th380",
+      "credit": "Watches by Timepiece",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research2026-10-14",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-14T09:54:20.223Z",
+        "loadedAt": "2026-10-14T09:54:20.223Z",
+        "evidence": "Original Watches by TimepieceTH380 identifies actual WBP5A8A black titanium45mm bracelet specimen. Twelve original images contact-inspected; full front1,closed back5/7 and clasp6 inspected. Selected1,7,6. Back7 partly obscured by plastic holder/bracelet and out of focus; full reference/suffix/serial not reliably legible. Manufacturer exactWBP5A8A.BF0619 page independently read through web tool2026-10-14 attributesTH30-00 automatic70h,45mm titanium case,steel closed back and titanium bracelet/pushbutton clasp. Shell2755byte response lacks reference/specs and is not accepted primary content. Manufacturer product image provenance uncertain; generic movement.svg excluded. Dealer suffixBF0619 not proven; photographs representativeForWBP5A8A only, never inherited by full suffix. Seller2024/box/papers not manufacture or originality proof; no opened movement or physicalTH30-00 stamp. Factory rating/certification not current specimen performance/authenticity. No other Aquaracer or common-calibre equivalence.",
+        "imageDimensions": {
+          "width": 1000,
+          "height": 1000
+        },
+        "imageSha256": "d1f7185582abe91c30da4fd712b2a8042aaf2c540b188ed060d174347676bf16"
+      }
+    },
+    {
+      "id": "queue-tag-wbp5a8a-timepiece-braceletClasp",
+      "brand": "TAGHEUER",
+      "references": [
+        "WBP5A8A"
+      ],
+      "representativeFor": [
+        "WBP5A8A"
+      ],
+      "variant": "TH380 WBP5A8A black dial,titanium bracelet / full suffix and physical movement unverified",
+      "category": "braceletClasp",
+      "title": "WBP5A8A Superdiver specimen — braceletClasp",
+      "caption": "Actual closed shield-signed pushbutton clasp and bracelet. Internal hardware code,extension and originality not independently verified; back partly covered.",
+      "image": "https://www.watchesbytimepiece.com/uploads/shop/large/TH380f.jpg",
+      "source": "https://www.watchesbytimepiece.com/prestigious-watches/gents-tag-heuer-aquaracer-superdiver-wbp5a8a-black-dial-th380",
+      "credit": "Watches by Timepiece",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research2026-10-14",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-14T09:54:20.223Z",
+        "loadedAt": "2026-10-14T09:54:20.223Z",
+        "evidence": "Original Watches by TimepieceTH380 identifies actual WBP5A8A black titanium45mm bracelet specimen. Twelve original images contact-inspected; full front1,closed back5/7 and clasp6 inspected. Selected1,7,6. Back7 partly obscured by plastic holder/bracelet and out of focus; full reference/suffix/serial not reliably legible. Manufacturer exactWBP5A8A.BF0619 page independently read through web tool2026-10-14 attributesTH30-00 automatic70h,45mm titanium case,steel closed back and titanium bracelet/pushbutton clasp. Shell2755byte response lacks reference/specs and is not accepted primary content. Manufacturer product image provenance uncertain; generic movement.svg excluded. Dealer suffixBF0619 not proven; photographs representativeForWBP5A8A only, never inherited by full suffix. Seller2024/box/papers not manufacture or originality proof; no opened movement or physicalTH30-00 stamp. Factory rating/certification not current specimen performance/authenticity. No other Aquaracer or common-calibre equivalence.",
+        "imageDimensions": {
+          "width": 1000,
+          "height": 1000
+        },
+        "imageSha256": "6936dbdb93396e8b1058b614be40773ec3a8d3fe26876109371aa99484abdc44"
+      }
     }
   ]
 }

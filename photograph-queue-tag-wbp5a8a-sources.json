@@ -1,0 +1,79 @@
+{
+  "reviewedAt": "2026-10-14T09:54:20.223Z",
+  "completion": "IN PROGRESS",
+  "source": {
+    "url": "https://www.watchesbytimepiece.com/prestigious-watches/gents-tag-heuer-aquaracer-superdiver-wbp5a8a-black-dial-th380",
+    "checkedAt": "2026-10-14T09:51:02.793Z",
+    "sha256": "5c534de5914d8d8c6c48c557924091f35eca8648859b094d10a3f6e07c0fd267",
+    "candidateImages": [
+      "https://www.watchesbytimepiece.com/images/watches_by_timepiece.png",
+      "https://www.watchesbytimepiece.com/uploads/shop/large/TH380_copy.jpg",
+      "https://www.watchesbytimepiece.com/uploads/shop/small/TH380_copy.jpg",
+      "https://www.watchesbytimepiece.com/uploads/shop/large/TH380m.jpg",
+      "https://www.watchesbytimepiece.com/uploads/shop/small/TH380m.jpg",
+      "https://www.watchesbytimepiece.com/uploads/shop/large/TH380b.jpg",
+      "https://www.watchesbytimepiece.com/uploads/shop/small/TH380b.jpg",
+      "https://www.watchesbytimepiece.com/uploads/shop/large/TH380c.jpg",
+      "https://www.watchesbytimepiece.com/uploads/shop/small/TH380c.jpg",
+      "https://www.watchesbytimepiece.com/uploads/shop/large/TH380d.jpg",
+      "https://www.watchesbytimepiece.com/uploads/shop/small/TH380d.jpg",
+      "https://www.watchesbytimepiece.com/uploads/shop/large/TH380e.jpg",
+      "https://www.watchesbytimepiece.com/uploads/shop/small/TH380e.jpg",
+      "https://www.watchesbytimepiece.com/uploads/shop/large/TH380f.jpg",
+      "https://www.watchesbytimepiece.com/uploads/shop/small/TH380f.jpg",
+      "https://www.watchesbytimepiece.com/uploads/shop/large/TH380g.jpg",
+      "https://www.watchesbytimepiece.com/uploads/shop/small/TH380g.jpg",
+      "https://www.watchesbytimepiece.com/uploads/shop/large/TH380h.jpg",
+      "https://www.watchesbytimepiece.com/uploads/shop/small/TH380h.jpg",
+      "https://www.watchesbytimepiece.com/uploads/shop/large/TH380i.jpg",
+      "https://www.watchesbytimepiece.com/uploads/shop/small/TH380i.jpg",
+      "https://www.watchesbytimepiece.com/uploads/shop/large/TH380k.jpg",
+      "https://www.watchesbytimepiece.com/uploads/shop/small/TH380k.jpg",
+      "https://www.watchesbytimepiece.com/uploads/shop/large/TH380l.jpg",
+      "https://www.watchesbytimepiece.com/uploads/shop/small/TH380l.jpg",
+      "https://www.watchesbytimepiece.com/images/googlereviews.png",
+      "https://www.watchesbytimepiece.com/images/googlereviews-stars.png",
+      "https://www.watchesbytimepiece.com/images/whats-app-mini.jpg",
+      "https://www.watchesbytimepiece.com/images/watch-register.png",
+      "https://www.watchesbytimepiece.com/uploads/shop/medium/2302TH423_copy.jpg",
+      "https://www.watchesbytimepiece.com/images/logo_white_sm.png"
+    ]
+  },
+  "manufacturer": {
+    "url": "https://www.tagheuer.com/us/en/timepieces/collections/tag-heuer-aquaracer/45-mm-th30-00-cosc/WBP5A8A.BF0619.html",
+    "access": "Original rendered page read via web tool2026-10-14; raw shell response incomplete and not accepted as technical content",
+    "reference": "WBP5A8A.BF0619",
+    "calibre": "TH30-00",
+    "reserve": "70hours",
+    "scope": "Manufacturer attribution; no physical movement photo or specimen originality conclusion"
+  },
+  "images": [
+    {
+      "index": 1,
+      "url": "https://www.watchesbytimepiece.com/uploads/shop/large/TH380m.jpg",
+      "sha256": "d61ecf376bc578b0b7b7b18d6a62ecaebfb4f2ff7c304f11ebc6004752456615",
+      "bytes": 104148
+    },
+    {
+      "index": 6,
+      "url": "https://www.watchesbytimepiece.com/uploads/shop/large/TH380f.jpg",
+      "sha256": "6936dbdb93396e8b1058b614be40773ec3a8d3fe26876109371aa99484abdc44",
+      "bytes": 48557
+    },
+    {
+      "index": 7,
+      "url": "https://www.watchesbytimepiece.com/uploads/shop/large/TH380g.jpg",
+      "sha256": "d1f7185582abe91c30da4fd712b2a8042aaf2c540b188ed060d174347676bf16",
+      "bytes": 61939
+    }
+  ],
+  "evidence": "Original Watches by TimepieceTH380 identifies actual WBP5A8A black titanium45mm bracelet specimen. Twelve original images contact-inspected; full front1,closed back5/7 and clasp6 inspected. Selected1,7,6. Back7 partly obscured by plastic holder/bracelet and out of focus; full reference/suffix/serial not reliably legible. Manufacturer exactWBP5A8A.BF0619 page independently read through web tool2026-10-14 attributesTH30-00 automatic70h,45mm titanium case,steel closed back and titanium bracelet/pushbutton clasp. Shell2755byte response lacks reference/specs and is not accepted primary content. Manufacturer product image provenance uncertain; generic movement.svg excluded. Dealer suffixBF0619 not proven; photographs representativeForWBP5A8A only, never inherited by full suffix. Seller2024/box/papers not manufacture or originality proof; no opened movement or physicalTH30-00 stamp. Factory rating/certification not current specimen performance/authenticity. No other Aquaracer or common-calibre equivalence.",
+  "gaps": [
+    "Opened physicalTH30-00",
+    "Dealer full suffix/complete back marks",
+    "Clasp internals/extension/parts code",
+    "Individual period/originality evidence",
+    "Exact fullWBP5A8A.BF0619 actual specimen photograph coverage"
+  ],
+  "queueStatus": "Unchanged pending verified publication"
+}

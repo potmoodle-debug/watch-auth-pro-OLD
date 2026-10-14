@@ -102,3 +102,7 @@ const queuedRolex179174=matchingRule(rules,'Rolex','179174');assert.ok(queuedRol
 for(const ref of ['Bremont Solo','SOLO32-AJ-WH-R-S']){const r=matchingRule(rules,'Bremont',ref);assert.ok(r.manualReview);assert.deepEqual(r.calibre,[]);assert.equal(movementResult(r,'SW1000'),null);assert.equal(movementResult(r,'SW220-1'),null);}assert.ok(matchingRule(rules,'Bremont','Bremont Solo').collectionOnly);assert.notEqual(matchingRule(rules,'Bremont','Bremont Solo').size,'43 mm');
 
 const queuedOmega2252=matchingRule(rules,'Omega','22525000');assert.ok(queuedOmega2252.manualReview);assert.equal(movementResult(queuedOmega2252,'1120').level,'match');assert.equal(movementResult(queuedOmega2252,'ETA2892').level,'caution');assert.equal(movementResult(queuedOmega2252,'2500').level,'caution');assert.match(queuedOmega2252.caseDetails,/36.25mm/);assert.match(queuedOmega2252.notes,/not a pass\/fail threshold/);assert.equal(matchingRule(rules,'Rolex','22525000'),null);
+
+for(const ref of ['WBP5A8A','WBP5A8A.BF0619']){const r=matchingRule(rules,'TAG Heuer',ref);assert.ok(r.manualReview);assert.equal(movementResult(r,'TH30-00').level,'match');for(const calibre of ['MT5612','SW300-1','ETA2824-2'])assert.equal(movementResult(r,calibre).level,'caution');}
+assert.ok(matchingRule(rules,'TAG Heuer','WBP5A8A').collectionOnly);assert.equal(matchingRule(rules,'TAG Heuer','WBP5A8A.FT0000'),null);assert.equal(matchingRule(rules,'Omega','WBP5A8A'),null);
+assert.match(matchingRule(rules,'TAG Heuer','WBP5A8A.BF0619').technicalDetail.imageCoverage,/intentionally excluded/);
