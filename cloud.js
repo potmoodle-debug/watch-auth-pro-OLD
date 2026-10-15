@@ -3,9 +3,9 @@ let session=null;try{session=JSON.parse(localStorage.getItem('benchauth.session'
 let refreshPromise=null;
 export const getSession=()=>session;
 export function setSession(s){session=s?.access_token?s:null;if(session)localStorage.setItem('benchauth.session',JSON.stringify(session));else localStorage.removeItem('benchauth.session');}
-async function request(path,{method='GET',body,headers={},auth=true}={}){
+async function request(path,{method='GET',body,rawBody,headers={},auth=true}={}){
  if(auth){if(!session)throw new Error('Sign in to use shared records.');if(session.expires_at<Date.now()/1000+60){if(!refreshPromise)refreshPromise=refresh().finally(()=>refreshPromise=null);await refreshPromise;}}
- const response=await fetch(PROJECT_URL+path,{method,headers:{apikey:PUBLISHABLE_KEY,...(auth?{Authorization:'Bearer '+session.access_token}:{}),...(body?{'Content-Type':'application/json'}:{}),...headers},...(body?{body:JSON.stringify(body)}:{})});
+ const response=await fetch(PROJECT_URL+path,{method,headers:{apikey:PUBLISHABLE_KEY,...(auth?{Authorization:'Bearer '+session.access_token}:{}),...(body?{'Content-Type':'application/json'}:{}),...headers},...(rawBody?{body:rawBody}:body?{body:JSON.stringify(body)}:{})});
  const data=await response.json().catch(()=>null);
  if(!response.ok)throw new Error(data?.msg||data?.message||data?.error_description||data?.error||'Request failed ('+response.status+').');
  return data;
@@ -21,3 +21,11 @@ export const insert=(table,body,options={})=>request('/rest/v1/'+table+(options.
 export const rpc=(name,body)=>request('/rest/v1/rpc/'+name,{method:'POST',body});
 export const update=(table,id,body)=>request('/rest/v1/'+table+'?id=eq.'+encodeURIComponent(id),{method:'PATCH',body,headers:{Prefer:'return=representation'}});
 export const user=()=>request('/auth/v1/user');
+const objectPath=path=>path.split('/').map(encodeURIComponent).join('/');
+export const uploadReplica=(path,file)=>request('/storage/v1/object/replica-evidence/'+objectPath(path),{method:'POST',rawBody:file,headers:{'Content-Type':'image/jpeg','x-upsert':'false'}});
+export async function replicaPhotoUrl(path){
+ const data=await request('/storage/v1/object/sign/replica-evidence/'+objectPath(path),{method:'POST',body:{expiresIn:300}});
+ const url=new URL(PROJECT_URL+'/storage/v1'+data.signedURL);
+ if(url.origin!==new URL(PROJECT_URL).origin||!url.pathname.startsWith('/storage/v1/object/sign/replica-evidence/'))throw new Error('Unexpected evidence image address.');
+ return url.href;
+}
