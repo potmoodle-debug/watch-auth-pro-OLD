@@ -5,7 +5,7 @@ import {performanceStats,resetCorrections,defaultWorkday,workdayBlocks} from './
 import {technologyReminder} from './movement-reminders.js?v=photos01';
 import {claspMatches,serialHints,needsResearch,replicaSignals} from './qol.js?v=photos01';
 import * as cloud from './cloud.js?v=photos01';
-import {normalize,londonDay,matchingRule,safetyRule,movementResult,finalNote,pace} from './core.js?v=photos01';
+import {normalize,londonDay,matchingRule,safetyRule,movementResult,finalNote,pace} from './core.js?v=strictcase01';
 const $=id=>document.getElementById(id),esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const safeUrl=v=>{try{const u=new URL(v);return ['https:','http:'].includes(u.protocol)?u.href:'';}catch{return '';}};
 const link=(url,label)=>safeUrl(url)?'<a target="_blank" rel="noopener" href="'+esc(safeUrl(url))+'">'+esc(label)+'</a>':esc(label);
