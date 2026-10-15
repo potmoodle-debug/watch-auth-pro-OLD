@@ -65,3 +65,12 @@
 .photo-search-dialog{max-height:92vh;overflow:auto}.photo-search-dialog .fields input{min-width:0}.photo-search-dialog form{margin:18px 0}#photoSearchResults{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px}#photoSearchStatus{margin:18px 0;color:var(--muted)}#morePhotoSearch{margin-top:20px}@media(max-width:800px){#photoSearchResults{grid-template-columns:1fr}}
 
 #workdayDialog{width:min(640px,calc(100vw - 32px));max-height:90vh;overflow:auto}#workdayBreaks .workday-break{grid-template-columns:1fr 1fr auto;align-items:end;margin-bottom:12px}#workdayButton{font-size:.85rem;margin-top:8px} @media(max-width:600px){#workdayBreaks .workday-break{grid-template-columns:1fr 1fr}#workdayBreaks .workday-break button{grid-column:1/-1}}
+
+.replica-label{display:inline-block;color:#ffcf8a;border:1px solid #a77b42;border-radius:6px;padding:6px 10px;font-weight:700}
+.replica-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr));gap:16px;margin:12px 0}
+.replica-grid figure{margin:0;padding:10px;background:#111923;border:1px solid #a77b42;border-radius:8px;min-width:0;overflow-wrap:anywhere}
+.replica-grid img{width:100%;height:200px;object-fit:contain;display:block}
+.replica-photo-open{width:100%;padding:4px;background:#090f16}
+.replica-grid figure>.secondary{margin:4px 4px 0 0}
+#replicaUploadDialog input[type=file]{max-width:100%}
+#replicaPhotoDialog img{max-width:100%;height:auto}
