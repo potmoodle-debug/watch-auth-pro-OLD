@@ -4,30 +4,30 @@
   "counting": "Stored identifier keys deduplicate punctuation/case only; documented M-prefixed aliases and base/catalogue identifiers remain separate lookup keys. Patterns are source records, never claimed as enumerated exact references. Textual model research is not photograph verification. verifiedAssets counts category/gallery entries; verifiedImageUrls counts distinct stored URLs; verifiedImageFiles deduplicates inspected file hashes (falling back to URL when unavailable).",
   "counts": {
     "repositoryRuleRecords": 937,
-    "repositoryResearchUpdates": 103,
-    "sourceRuleRecords": 1040,
+    "repositoryResearchUpdates": 104,
+    "sourceRuleRecords": 1041,
     "sharedReferenceFactRows": 982,
     "sharedVerifiedTextRows": 47,
     "importedCatalogueVariantRecords": 1465,
-    "sourceInventoryRecords": 2505,
-    "storedIdentifierKeys": 2295,
+    "sourceInventoryRecords": 2506,
+    "storedIdentifierKeys": 2296,
     "sourceRecordsUnreviewed": 2216,
     "identifierKeysUnreviewed": 1936,
-    "identifierKeysReviewed": 359,
-    "sourceRecordsReviewed": 289,
-    "reviewedIdentifierCategoryPairs": 1436,
-    "catalogueAssets": 982,
+    "identifierKeysReviewed": 360,
+    "sourceRecordsReviewed": 290,
+    "reviewedIdentifierCategoryPairs": 1440,
+    "catalogueAssets": 985,
     "legacyAssets": 31,
-    "verifiedAssets": 947,
-    "verifiedImageUrls": 897,
-    "verifiedImageFiles": 896,
+    "verifiedAssets": 950,
+    "verifiedImageUrls": 900,
+    "verifiedImageFiles": 899,
     "pendingAssets": 26,
     "rejectedAssets": 9,
     "verifiedIdentifierKeysByCategory": {
-      "front": 293,
+      "front": 294,
       "movement": 112,
-      "caseback": 260,
-      "braceletClasp": 253
+      "caseback": 261,
+      "braceletClasp": 254
     },
     "byBrand": {
       "TUDOR": {
@@ -271,13 +271,13 @@
         }
       },
       "IWC": {
-        "storedIdentifierKeys": 17,
+        "storedIdentifierKeys": 18,
         "unreviewed": 12,
         "verifiedByCategory": {
-          "front": 5,
+          "front": 6,
           "movement": 2,
-          "caseback": 5,
-          "braceletClasp": 5
+          "caseback": 6,
+          "braceletClasp": 6
         }
       },
       "JAEGERLECOULTRE": {
@@ -1493,6 +1493,7 @@
     {"id":"UPDATE:UNIVERSAL|2046102","brand":"UNIVERSAL","key":"204610-2","scope":"reference rule","status":"unreviewed for photographs"},
     {"id":"UPDATE:IWC|IW324010","brand":"IWC","key":"IW324010","scope":"reference rule","status":"reviewed for photographs"},
     {"id":"UPDATE:CARTIER|WSTA0071","brand":"CARTIER","key":"WSTA0071","scope":"reference rule","status":"reviewed for photographs"},
+    {"id":"UPDATE:IWC|IW500401","brand":"IWC","key":"IW500401","scope":"reference rule","status":"reviewed for photographs"},
     {"id":"CATALOGUE:M52506-0003","brand":"ROLEX","key":"m52506-0003","scope":"catalogue variant","status":"unreviewed for photographs"},
     {"id":"CATALOGUE:M52508-0002","brand":"ROLEX","key":"m52508-0002","scope":"catalogue variant","status":"unreviewed for photographs"},
     {"id":"CATALOGUE:M52508-0005","brand":"ROLEX","key":"m52508-0005","scope":"catalogue variant","status":"unreviewed for photographs"},
@@ -5117,6 +5118,7 @@
     {"brand":"IWC","reference":"IW376806","aliases":["IW376806"],"origins":["rules"],"sources":[],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
     {"brand":"IWC","reference":"IW388108","aliases":["IW388108"],"origins":["research updates"],"sources":["https://www.iwc.com/ae-en/watches/pilot-watches/iw388108-pilots-watch-chronograph-41-edition-mercedes-amg-petronas"],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
     {"brand":"IWC","reference":"IW388113","aliases":["IW388113"],"origins":["rules","research updates"],"sources":["https://www.iwc.com/us-en/watches/pilot-watches/iw388113-pilots-watch-chronograph-41"],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
+    {"brand":"IWC","reference":"IW500401","aliases":["IW500401"],"origins":["research updates"],"sources":["https://www.gregsteer.net/IWC/Catalogue/PDF/IWC_Catalogue_2010-11_GB.pdf"],"reviewStatus":"reviewed","categories":{"front":{"status":"verified","photographIds":["queue-iw500401-ewc-front"],"candidateIds":["queue-iw500401-ewc-front"],"review":{"reviewedAt":"2026-10-15T09:09:03.575Z","evidence":"Original EWC35540 source identifies IW500401. Eight original files contact-inspected; full0front/5openeddeployant/6closedback inspected. Actual black Arabic dial/date6/power-reserve3, brown contrasting-stitched leather, signed IWC deployant and closed FLIEGERUHR back. No opened movement or readable physical calibre code. Original IWC2010/11 catalogue archived: cover and PDF11/99 rendered and visually inspected. Printed18-19 table51111:42jewels,21600vph,7days,reference5004. Printed194-195 explicitlyIW500401 steel/blackalligator,51111 context,Pellaton,7day mechanical stop,46.2mm/15.8mm/6bar. Brown specimen strap differs from maker blackalligator; do not claim period factory hardware. Maker specifications do not prove installed execution,individual date,material,current performance/resistance or component originality. Dealer46/16 rounded dimensions not adopted over attributed maker figures. C51111/51110/51113 equivalence not inferred. 2002 family introduction not fullIW500401productioninterval.","finding":"Actual exterior inspected; installed execution/date/material/strap and component originality remain gaps."}},"movement":{"status":"reviewed gap — No actual opened specimen movement in eight-file original gallery; unsupported.","photographIds":[],"candidateIds":[],"review":{"reviewedAt":"2026-10-15T09:09:03.575Z","evidence":"Original EWC35540 source identifies IW500401. Eight original files contact-inspected; full0front/5openeddeployant/6closedback inspected. Actual black Arabic dial/date6/power-reserve3, brown contrasting-stitched leather, signed IWC deployant and closed FLIEGERUHR back. No opened movement or readable physical calibre code. Original IWC2010/11 catalogue archived: cover and PDF11/99 rendered and visually inspected. Printed18-19 table51111:42jewels,21600vph,7days,reference5004. Printed194-195 explicitlyIW500401 steel/blackalligator,51111 context,Pellaton,7day mechanical stop,46.2mm/15.8mm/6bar. Brown specimen strap differs from maker blackalligator; do not claim period factory hardware. Maker specifications do not prove installed execution,individual date,material,current performance/resistance or component originality. Dealer46/16 rounded dimensions not adopted over attributed maker figures. C51111/51110/51113 equivalence not inferred. 2002 family introduction not fullIW500401productioninterval.","finding":"No actual opened specimen movement in eight-file original gallery; unsupported."}},"caseback":{"status":"verified","photographIds":["queue-iw500401-ewc-caseback"],"candidateIds":["queue-iw500401-ewc-caseback"],"review":{"reviewedAt":"2026-10-15T09:09:03.575Z","evidence":"Original EWC35540 source identifies IW500401. Eight original files contact-inspected; full0front/5openeddeployant/6closedback inspected. Actual black Arabic dial/date6/power-reserve3, brown contrasting-stitched leather, signed IWC deployant and closed FLIEGERUHR back. No opened movement or readable physical calibre code. Original IWC2010/11 catalogue archived: cover and PDF11/99 rendered and visually inspected. Printed18-19 table51111:42jewels,21600vph,7days,reference5004. Printed194-195 explicitlyIW500401 steel/blackalligator,51111 context,Pellaton,7day mechanical stop,46.2mm/15.8mm/6bar. Brown specimen strap differs from maker blackalligator; do not claim period factory hardware. Maker specifications do not prove installed execution,individual date,material,current performance/resistance or component originality. Dealer46/16 rounded dimensions not adopted over attributed maker figures. C51111/51110/51113 equivalence not inferred. 2002 family introduction not fullIW500401productioninterval.","finding":"Actual exterior inspected; installed execution/date/material/strap and component originality remain gaps."}},"braceletClasp":{"status":"verified","photographIds":["queue-iw500401-ewc-braceletClasp"],"candidateIds":["queue-iw500401-ewc-braceletClasp"],"review":{"reviewedAt":"2026-10-15T09:09:03.575Z","evidence":"Original EWC35540 source identifies IW500401. Eight original files contact-inspected; full0front/5openeddeployant/6closedback inspected. Actual black Arabic dial/date6/power-reserve3, brown contrasting-stitched leather, signed IWC deployant and closed FLIEGERUHR back. No opened movement or readable physical calibre code. Original IWC2010/11 catalogue archived: cover and PDF11/99 rendered and visually inspected. Printed18-19 table51111:42jewels,21600vph,7days,reference5004. Printed194-195 explicitlyIW500401 steel/blackalligator,51111 context,Pellaton,7day mechanical stop,46.2mm/15.8mm/6bar. Brown specimen strap differs from maker blackalligator; do not claim period factory hardware. Maker specifications do not prove installed execution,individual date,material,current performance/resistance or component originality. Dealer46/16 rounded dimensions not adopted over attributed maker figures. C51111/51110/51113 equivalence not inferred. 2002 family introduction not fullIW500401productioninterval.","finding":"Actual exterior inspected; installed execution/date/material/strap and component originality remain gaps."}}}},
     {"brand":"IWC","reference":"IW544501","aliases":["IW544501"],"origins":["rules"],"sources":[],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
     {"brand":"Jaeger-LeCoultre","reference":"109.2.37.S","aliases":["109.2.37.S"],"origins":["rules"],"sources":[],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
     {"brand":"Jaeger-LeCoultre","reference":"140.8.80.S","aliases":["140.8.80.S"],"origins":["rules"],"sources":[],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},

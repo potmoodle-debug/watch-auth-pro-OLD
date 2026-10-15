@@ -10296,6 +10296,32 @@
           "finding": "Actual exterior inspected; precise calibre, date, material and component originality remain gaps."
         }
       }
+    },
+    {
+      "brand": "IWC",
+      "reference": "IW500401",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-15T09:09:03.575Z",
+          "evidence": "Original EWC35540 source identifies IW500401. Eight original files contact-inspected; full0front/5openeddeployant/6closedback inspected. Actual black Arabic dial/date6/power-reserve3, brown contrasting-stitched leather, signed IWC deployant and closed FLIEGERUHR back. No opened movement or readable physical calibre code. Original IWC2010/11 catalogue archived: cover and PDF11/99 rendered and visually inspected. Printed18-19 table51111:42jewels,21600vph,7days,reference5004. Printed194-195 explicitlyIW500401 steel/blackalligator,51111 context,Pellaton,7day mechanical stop,46.2mm/15.8mm/6bar. Brown specimen strap differs from maker blackalligator; do not claim period factory hardware. Maker specifications do not prove installed execution,individual date,material,current performance/resistance or component originality. Dealer46/16 rounded dimensions not adopted over attributed maker figures. C51111/51110/51113 equivalence not inferred. 2002 family introduction not fullIW500401productioninterval.",
+          "finding": "Actual exterior inspected; installed execution/date/material/strap and component originality remain gaps."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-15T09:09:03.575Z",
+          "evidence": "Original EWC35540 source identifies IW500401. Eight original files contact-inspected; full0front/5openeddeployant/6closedback inspected. Actual black Arabic dial/date6/power-reserve3, brown contrasting-stitched leather, signed IWC deployant and closed FLIEGERUHR back. No opened movement or readable physical calibre code. Original IWC2010/11 catalogue archived: cover and PDF11/99 rendered and visually inspected. Printed18-19 table51111:42jewels,21600vph,7days,reference5004. Printed194-195 explicitlyIW500401 steel/blackalligator,51111 context,Pellaton,7day mechanical stop,46.2mm/15.8mm/6bar. Brown specimen strap differs from maker blackalligator; do not claim period factory hardware. Maker specifications do not prove installed execution,individual date,material,current performance/resistance or component originality. Dealer46/16 rounded dimensions not adopted over attributed maker figures. C51111/51110/51113 equivalence not inferred. 2002 family introduction not fullIW500401productioninterval.",
+          "finding": "No actual opened specimen movement in eight-file original gallery; unsupported."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-15T09:09:03.575Z",
+          "evidence": "Original EWC35540 source identifies IW500401. Eight original files contact-inspected; full0front/5openeddeployant/6closedback inspected. Actual black Arabic dial/date6/power-reserve3, brown contrasting-stitched leather, signed IWC deployant and closed FLIEGERUHR back. No opened movement or readable physical calibre code. Original IWC2010/11 catalogue archived: cover and PDF11/99 rendered and visually inspected. Printed18-19 table51111:42jewels,21600vph,7days,reference5004. Printed194-195 explicitlyIW500401 steel/blackalligator,51111 context,Pellaton,7day mechanical stop,46.2mm/15.8mm/6bar. Brown specimen strap differs from maker blackalligator; do not claim period factory hardware. Maker specifications do not prove installed execution,individual date,material,current performance/resistance or component originality. Dealer46/16 rounded dimensions not adopted over attributed maker figures. C51111/51110/51113 equivalence not inferred. 2002 family introduction not fullIW500401productioninterval.",
+          "finding": "Actual exterior inspected; installed execution/date/material/strap and component originality remain gaps."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-15T09:09:03.575Z",
+          "evidence": "Original EWC35540 source identifies IW500401. Eight original files contact-inspected; full0front/5openeddeployant/6closedback inspected. Actual black Arabic dial/date6/power-reserve3, brown contrasting-stitched leather, signed IWC deployant and closed FLIEGERUHR back. No opened movement or readable physical calibre code. Original IWC2010/11 catalogue archived: cover and PDF11/99 rendered and visually inspected. Printed18-19 table51111:42jewels,21600vph,7days,reference5004. Printed194-195 explicitlyIW500401 steel/blackalligator,51111 context,Pellaton,7day mechanical stop,46.2mm/15.8mm/6bar. Brown specimen strap differs from maker blackalligator; do not claim period factory hardware. Maker specifications do not prove installed execution,individual date,material,current performance/resistance or component originality. Dealer46/16 rounded dimensions not adopted over attributed maker figures. C51111/51110/51113 equivalence not inferred. 2002 family introduction not fullIW500401productioninterval.",
+          "finding": "Actual exterior inspected; installed execution/date/material/strap and component originality remain gaps."
+        }
+      }
     }
   ],
   "sourceRecordReviews": [
@@ -11829,6 +11855,11 @@
       "id": "UPDATE:CARTIER|WSTA0071",
       "reviewedAt": "2026-10-15T09:00:42.784Z",
       "evidence": "Original Towerwatch SKU6625d7025200f70001294bd6 identifies WSTA0071. Seven original files contact-inspected; full1 front/3 closed back/4 buckle inspected. Actual plain black dial, two sword hands, blue cabochon crown, black patterned leather and polished pin buckle. Back physically4322 with Cartier/steel/water-resistant legends and individual serial; no unrestricted4322 retail alias inferred. No opened movement. Exact Cartier China WSTA0071 specifies high-autonomy quartz,29.5x22mm,6.6mm,black lacquer,synthetic spinel,black alligator and steel pin buckle,3bar; specifications attributed,not individual chemistry/material/current resistance proof. Maker prose supplies no precise157/616 designation. Seller157/616 unresolved; do not select one or infer Ronda equivalence. Buckle signature not reliably readable. Strap stamps/pattern do not prove species or factory originality. Seller2022/card/warranty not individual manufacture-date or full production-interval proof."
+    },
+    {
+      "id": "UPDATE:IWC|IW500401",
+      "reviewedAt": "2026-10-15T09:09:03.575Z",
+      "evidence": "Original EWC35540 source identifies IW500401. Eight original files contact-inspected; full0front/5openeddeployant/6closedback inspected. Actual black Arabic dial/date6/power-reserve3, brown contrasting-stitched leather, signed IWC deployant and closed FLIEGERUHR back. No opened movement or readable physical calibre code. Original IWC2010/11 catalogue archived: cover and PDF11/99 rendered and visually inspected. Printed18-19 table51111:42jewels,21600vph,7days,reference5004. Printed194-195 explicitlyIW500401 steel/blackalligator,51111 context,Pellaton,7day mechanical stop,46.2mm/15.8mm/6bar. Brown specimen strap differs from maker blackalligator; do not claim period factory hardware. Maker specifications do not prove installed execution,individual date,material,current performance/resistance or component originality. Dealer46/16 rounded dimensions not adopted over attributed maker figures. C51111/51110/51113 equivalence not inferred. 2002 family introduction not fullIW500401productioninterval."
     }
   ]
 }
