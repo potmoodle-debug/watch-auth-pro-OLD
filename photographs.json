@@ -32641,6 +32641,176 @@
         },
         "imageSha256": "7bc3108e3f9f637fc6c44848c78a4c142f61eac1bc61535583d0fd1ab64f2c45"
       }
+    },
+    {
+      "id": "queue-ug2046102-tokibank-front",
+      "brand": "UNIVERSAL",
+      "references": [
+        "204610-2"
+      ],
+      "representativeFor": [
+        "204610-2"
+      ],
+      "variant": "B003-589 brown patinated crosshair dial / black replacement leather; source-attributed case reference",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "Polerouter Date 204610-2 — Tokibank front",
+      "caption": "Brown patinated crosshair dial and date at 3; black replacement leather. Age, lume chemistry and dial/hand originality are not independently established.",
+      "image": "https://cdn.shopify.com/s/files/1/0635/1290/3740/files/JE1sly3g92jAoi42C28ngZsr7uXvRUgfHoddyzC3.jpg?v=1774514752",
+      "source": "https://tokibank.jp/products/universal-geneve-polerouter-date-204610-2-589",
+      "credit": "Tokibank",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-15",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-15T08:22:06.217Z",
+        "loadedAt": "2026-10-15T08:22:06.217Z",
+        "evidence": "Two original dealer HTML/public-product-JSON records archived with16 original images contact-inspected. Full Tokibank1front/6externalback/7opened/9innerback and Huntington1front/2back inspected. Tokibank bridge physically218-2/MICROTOR/28JEWELS; its externalback lacks legible reference. Huntington back physically204610-2 withzero; different patinated dial/individual andno opened movement. Do not combine specimens into one authentication record. Dealer34mm/18mm/circa1950s-1960s,service,tritium,unpolished/originality claims are attributions,not independent measurements/date/chemistry/performance proof. Both straps replacements; Huntington explicitlygenericbuckle. No usable buckle photograph. Exclude20461-2/20461/2,215-2/generic218 equivalence and fullproductioninterval inferences.",
+        "imageDimensions": {
+          "width": 1900,
+          "height": 1900
+        },
+        "imageSha256": "abaf311a8630d3937b60524da7ec148714aff77b6a409d7b7f00500e37c37575"
+      }
+    },
+    {
+      "id": "queue-ug2046102-tokibank-movement",
+      "brand": "UNIVERSAL",
+      "references": [
+        "204610-2"
+      ],
+      "representativeFor": [
+        "204610-2"
+      ],
+      "variant": "B003-589 brown patinated crosshair dial / black replacement leather; source-attributed case reference",
+      "category": "movement",
+      "depictsMovement": true,
+      "title": "Polerouter Date 204610-2 — Tokibank movement",
+      "caption": "Actual opened micro-rotor movement with readable UNIVERSAL GENEVE 218-2 / MICROTOR and 28 jewels markings. Corrosion visible around case edge; signatures do not authenticate all components.",
+      "image": "https://cdn.shopify.com/s/files/1/0635/1290/3740/files/yztAmF2M6RKCrOp9PvLRhoQWa5e0ECGxhdf8lxDb.jpg?v=1774514752",
+      "source": "https://tokibank.jp/products/universal-geneve-polerouter-date-204610-2-589",
+      "credit": "Tokibank",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-15",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-15T08:22:06.217Z",
+        "loadedAt": "2026-10-15T08:22:06.217Z",
+        "evidence": "Two original dealer HTML/public-product-JSON records archived with16 original images contact-inspected. Full Tokibank1front/6externalback/7opened/9innerback and Huntington1front/2back inspected. Tokibank bridge physically218-2/MICROTOR/28JEWELS; its externalback lacks legible reference. Huntington back physically204610-2 withzero; different patinated dial/individual andno opened movement. Do not combine specimens into one authentication record. Dealer34mm/18mm/circa1950s-1960s,service,tritium,unpolished/originality claims are attributions,not independent measurements/date/chemistry/performance proof. Both straps replacements; Huntington explicitlygenericbuckle. No usable buckle photograph. Exclude20461-2/20461/2,215-2/generic218 equivalence and fullproductioninterval inferences.",
+        "imageDimensions": {
+          "width": 1900,
+          "height": 1900
+        },
+        "imageSha256": "79644d29bb23f668f49501d5ce6f811f9ef03fc94211ec9afa3e71752d8e2cd5"
+      }
+    },
+    {
+      "id": "queue-ug2046102-tokibank-caseback",
+      "brand": "UNIVERSAL",
+      "references": [
+        "204610-2"
+      ],
+      "representativeFor": [
+        "204610-2"
+      ],
+      "variant": "B003-589 brown patinated crosshair dial / black replacement leather; source-attributed case reference",
+      "category": "caseback",
+      "depictsMovement": false,
+      "title": "Polerouter Date 204610-2 — Tokibank caseback",
+      "caption": "Actual worn closed back; no legible case-reference engraving established in this image. Reference attribution relies on original Tokibank listing; do not substitute this for a marked individual back.",
+      "image": "https://cdn.shopify.com/s/files/1/0635/1290/3740/files/XjrZotusVs4l5ij6b1aXJyWsTre73CUJy0Z6BV4H.jpg?v=1774514752",
+      "source": "https://tokibank.jp/products/universal-geneve-polerouter-date-204610-2-589",
+      "credit": "Tokibank",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-15",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-15T08:22:06.217Z",
+        "loadedAt": "2026-10-15T08:22:06.217Z",
+        "evidence": "Two original dealer HTML/public-product-JSON records archived with16 original images contact-inspected. Full Tokibank1front/6externalback/7opened/9innerback and Huntington1front/2back inspected. Tokibank bridge physically218-2/MICROTOR/28JEWELS; its externalback lacks legible reference. Huntington back physically204610-2 withzero; different patinated dial/individual andno opened movement. Do not combine specimens into one authentication record. Dealer34mm/18mm/circa1950s-1960s,service,tritium,unpolished/originality claims are attributions,not independent measurements/date/chemistry/performance proof. Both straps replacements; Huntington explicitlygenericbuckle. No usable buckle photograph. Exclude20461-2/20461/2,215-2/generic218 equivalence and fullproductioninterval inferences.",
+        "imageDimensions": {
+          "width": 1900,
+          "height": 1900
+        },
+        "imageSha256": "e33bcf76ef4aae58f8403efa1480b5e36fcc852e79d5efee60abcfacfb93d71f"
+      }
+    },
+    {
+      "id": "queue-ug2046102-huntington-front",
+      "brand": "UNIVERSAL",
+      "references": [
+        "204610-2"
+      ],
+      "representativeFor": [
+        "204610-2"
+      ],
+      "variant": "Separate Huntington specimen: stone-like patinated crosshair dial / new tan leather / generic buckle",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "Polerouter Date 204610-2 — Huntington Company front",
+      "caption": "Distinct specimen with mottled dark crosshair dial, gold-coloured text and new tan leather. Dealer originality and natural-aging claims remain unverified.",
+      "image": "https://cdn.shopify.com/s/files/1/0553/8391/6727/files/DSF0851.jpg?v=1764979605",
+      "source": "https://huntingtoncompany.com/products/1960s-universal-geneve-polerouter-date-tropical-gilt-dial-ref-204610-2",
+      "credit": "Huntington Company",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-15",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-15T08:22:06.217Z",
+        "loadedAt": "2026-10-15T08:22:06.217Z",
+        "evidence": "Two original dealer HTML/public-product-JSON records archived with16 original images contact-inspected. Full Tokibank1front/6externalback/7opened/9innerback and Huntington1front/2back inspected. Tokibank bridge physically218-2/MICROTOR/28JEWELS; its externalback lacks legible reference. Huntington back physically204610-2 withzero; different patinated dial/individual andno opened movement. Do not combine specimens into one authentication record. Dealer34mm/18mm/circa1950s-1960s,service,tritium,unpolished/originality claims are attributions,not independent measurements/date/chemistry/performance proof. Both straps replacements; Huntington explicitlygenericbuckle. No usable buckle photograph. Exclude20461-2/20461/2,215-2/generic218 equivalence and fullproductioninterval inferences.",
+        "imageDimensions": {
+          "width": 2048,
+          "height": 2048
+        },
+        "imageSha256": "bea6b7136dfd9b42af14be1fe189bd916fb782416f322e86c516e5d205f962cd"
+      }
+    },
+    {
+      "id": "queue-ug2046102-huntington-caseback",
+      "brand": "UNIVERSAL",
+      "references": [
+        "204610-2"
+      ],
+      "representativeFor": [
+        "204610-2"
+      ],
+      "variant": "Separate Huntington specimen: stone-like patinated crosshair dial / new tan leather / generic buckle",
+      "category": "caseback",
+      "depictsMovement": false,
+      "title": "Polerouter Date 204610-2 — Huntington Company caseback",
+      "caption": "Actual closed back legibly engraved 204610-2 and individual serial, with Polerouter globe. This is a different watch from the opened Tokibank movement; no Huntington calibre code is independently visible.",
+      "image": "https://cdn.shopify.com/s/files/1/0553/8391/6727/files/DSF0885.jpg?v=1764979626",
+      "source": "https://huntingtoncompany.com/products/1960s-universal-geneve-polerouter-date-tropical-gilt-dial-ref-204610-2",
+      "credit": "Huntington Company",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-15",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-15T08:22:06.217Z",
+        "loadedAt": "2026-10-15T08:22:06.217Z",
+        "evidence": "Two original dealer HTML/public-product-JSON records archived with16 original images contact-inspected. Full Tokibank1front/6externalback/7opened/9innerback and Huntington1front/2back inspected. Tokibank bridge physically218-2/MICROTOR/28JEWELS; its externalback lacks legible reference. Huntington back physically204610-2 withzero; different patinated dial/individual andno opened movement. Do not combine specimens into one authentication record. Dealer34mm/18mm/circa1950s-1960s,service,tritium,unpolished/originality claims are attributions,not independent measurements/date/chemistry/performance proof. Both straps replacements; Huntington explicitlygenericbuckle. No usable buckle photograph. Exclude20461-2/20461/2,215-2/generic218 equivalence and fullproductioninterval inferences.",
+        "imageDimensions": {
+          "width": 2048,
+          "height": 2048
+        },
+        "imageSha256": "0fe6d19feed1d32dab38f254d6f6dd7c68e22c13423564af23bcd91b34ccbe89"
+      }
     }
   ]
 }

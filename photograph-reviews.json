@@ -10218,6 +10218,32 @@
           "finding": "Actualbrownrepresentative source inspected;fullretailidentity/date/assay/componentoriginality remainsresearchgap."
         }
       }
+    },
+    {
+      "brand": "UNIVERSAL",
+      "reference": "204610-2",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-15T08:22:06.217Z",
+          "evidence": "Two original dealer HTML/public-product-JSON records archived with16 original images contact-inspected. Full Tokibank1front/6externalback/7opened/9innerback and Huntington1front/2back inspected. Tokibank bridge physically218-2/MICROTOR/28JEWELS; its externalback lacks legible reference. Huntington back physically204610-2 withzero; different patinated dial/individual andno opened movement. Do not combine specimens into one authentication record. Dealer34mm/18mm/circa1950s-1960s,service,tritium,unpolished/originality claims are attributions,not independent measurements/date/chemistry/performance proof. Both straps replacements; Huntington explicitlygenericbuckle. No usable buckle photograph. Exclude20461-2/20461/2,215-2/generic218 equivalence and fullproductioninterval inferences.",
+          "finding": "Actual separately labelled specimen photos; individual identity/date/originality remain unverified."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-15T08:22:06.217Z",
+          "evidence": "Two original dealer HTML/public-product-JSON records archived with16 original images contact-inspected. Full Tokibank1front/6externalback/7opened/9innerback and Huntington1front/2back inspected. Tokibank bridge physically218-2/MICROTOR/28JEWELS; its externalback lacks legible reference. Huntington back physically204610-2 withzero; different patinated dial/individual andno opened movement. Do not combine specimens into one authentication record. Dealer34mm/18mm/circa1950s-1960s,service,tritium,unpolished/originality claims are attributions,not independent measurements/date/chemistry/performance proof. Both straps replacements; Huntington explicitlygenericbuckle. No usable buckle photograph. Exclude20461-2/20461/2,215-2/generic218 equivalence and fullproductioninterval inferences.",
+          "finding": "Actual separately labelled specimen photos; individual identity/date/originality remain unverified."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-15T08:22:06.217Z",
+          "evidence": "Two original dealer HTML/public-product-JSON records archived with16 original images contact-inspected. Full Tokibank1front/6externalback/7opened/9innerback and Huntington1front/2back inspected. Tokibank bridge physically218-2/MICROTOR/28JEWELS; its externalback lacks legible reference. Huntington back physically204610-2 withzero; different patinated dial/individual andno opened movement. Do not combine specimens into one authentication record. Dealer34mm/18mm/circa1950s-1960s,service,tritium,unpolished/originality claims are attributions,not independent measurements/date/chemistry/performance proof. Both straps replacements; Huntington explicitlygenericbuckle. No usable buckle photograph. Exclude20461-2/20461/2,215-2/generic218 equivalence and fullproductioninterval inferences.",
+          "finding": "Actual separately labelled specimen photos; individual identity/date/originality remain unverified."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-15T08:22:06.217Z",
+          "evidence": "Two original dealer HTML/public-product-JSON records archived with16 original images contact-inspected. Full Tokibank1front/6externalback/7opened/9innerback and Huntington1front/2back inspected. Tokibank bridge physically218-2/MICROTOR/28JEWELS; its externalback lacks legible reference. Huntington back physically204610-2 withzero; different patinated dial/individual andno opened movement. Do not combine specimens into one authentication record. Dealer34mm/18mm/circa1950s-1960s,service,tritium,unpolished/originality claims are attributions,not independent measurements/date/chemistry/performance proof. Both straps replacements; Huntington explicitlygenericbuckle. No usable buckle photograph. Exclude20461-2/20461/2,215-2/generic218 equivalence and fullproductioninterval inferences.",
+          "finding": "No usable buckle photo in either original gallery; unsupported."
+        }
+      }
     }
   ],
   "sourceRecordReviews": [
@@ -11736,6 +11762,11 @@
       "id": "UPDATE:TUDOR|79250B",
       "reviewedAt": "2026-10-14T14:55:56.525Z",
       "evidence": "Original SWE34117 identifies79250B,brown Arabic3/6/9dial,brownminute/divingbezel,43mmbronze attribution andbrownleather.14source-associatedfiles contact-inspected;full2/6/7/8 inspected. Back6legiblyTUDORMANUFACTURECALIBREMT5601;casebody79250B/partialindividualserial markings. Opened7showsTudor-signedrotor andvisiblebalance/traversingbridge architecture;no readablemovementcalibredesignation established. Pinbuckle8signedTUDOR withclosedblurredback,no movement exposure. Currentmakerfamily/press pages establishMT5601calibre technical context/firstbronze introduction2016,whiledepictingcurrentgreyBA;not exactolderbrownretailalias/period/thicknessproof. Excludeotherstock41mm,SWEtachymeterwording,seller2018/warranty/timing/authenticity assertions asindependentproof. Relatedgray13,duplicatefront0/1 andbox/card11/12excluded. Casecodephotoexplicitlyrepresentativebrownvariant only;noBM/BA/M-retail alias/calibre equivalence inferred. Patina/signatures/backlegendalone notassay/date/componentauthenticityproof."
+    },
+    {
+      "id": "UPDATE:UNIVERSAL|204610-2",
+      "reviewedAt": "2026-10-15T08:22:06.217Z",
+      "evidence": "Two original dealer HTML/public-product-JSON records archived with16 original images contact-inspected. Full Tokibank1front/6externalback/7opened/9innerback and Huntington1front/2back inspected. Tokibank bridge physically218-2/MICROTOR/28JEWELS; its externalback lacks legible reference. Huntington back physically204610-2 withzero; different patinated dial/individual andno opened movement. Do not combine specimens into one authentication record. Dealer34mm/18mm/circa1950s-1960s,service,tritium,unpolished/originality claims are attributions,not independent measurements/date/chemistry/performance proof. Both straps replacements; Huntington explicitlygenericbuckle. No usable buckle photograph. Exclude20461-2/20461/2,215-2/generic218 equivalence and fullproductioninterval inferences."
     }
   ]
 }
