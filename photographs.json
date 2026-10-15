@@ -33235,6 +33235,102 @@
         },
         "imageSha256": "5f9028871e028c1da8106135870fb170614defef3994cbaea8069db3617cd3b8"
       }
+    },
+    {
+      "id": "queue-omega321051-watchsource-front",
+      "brand": "OMEGA",
+      "references": [
+        "3210.51"
+      ],
+      "representativeFor": [],
+      "variant": "TheWatchSource65044 reverse-panda dial / steel bracelet / signed deployant; seller-disclosed polishing and non-factory service",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "Speedmaster Date3210.51 — front",
+      "caption": "Actual black dial, silver subdials, red chronograph hands, black tachymeter bezel and steel-coloured bracelet. Source65044 identifies3210.51 and discloses polishing; original finish and components remain unverified.",
+      "image": "https://www.thewatchsource.co.uk/preowned/images/watches/2025/01/103998/Omega_3210-51_65044_01.jpg",
+      "source": "https://www.thewatchsource.co.uk/preowned/Omega-Speedmaster-Date-40mm-3210.51-65044",
+      "credit": "TheWatchSource",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-15",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-15T09:25:59.071Z",
+        "loadedAt": "2026-10-15T09:25:59.071Z",
+        "evidence": "Original TheWatchSource65044 HTML/receipt and10actualgalleryfiles archived;all10contact/full0front/1closedback/5signeddeployant inspected. Actualblackdial/silversubdials/redchronohands,blacktachymeterbezel,bracelet,endlink975,closed100m/333ftSpeedmasterback,signedOmegaSpeedmasterclasp. Noopenedmovement/physicalcalibrecode. Dealer explicitly3210.51 and1164,polishedcase,and2019nonfactoryservice;these are attributedhistory,notverifiedparts/currentperformance. Dealer2013 andtemporarywarrantypaper notmanufacture-date/fullperiodproof. Dealer1164base7750 notacceptedcommon-calibreequivalence. WatchSource42h vsPrestige44h conflict,no universalreserve threshold. ExactOmegaURLs/productPDF404 recorded. Windsor separate3210.51 specimen6files contact/full2/4/5inspected,not adopted as sameunit. No32105100 or1780055 alias inferred;precisephysicalexecution,fullperiod/material/partsoriginality unresolved.",
+        "imageDimensions": {
+          "width": 1200,
+          "height": 1200
+        },
+        "imageSha256": "28f082452d58ae2737f268444a302b7b963baaad84a0ba4e5fc5185413845018"
+      }
+    },
+    {
+      "id": "queue-omega321051-watchsource-caseback",
+      "brand": "OMEGA",
+      "references": [
+        "3210.51"
+      ],
+      "representativeFor": [],
+      "variant": "TheWatchSource65044 reverse-panda dial / steel bracelet / signed deployant; seller-disclosed polishing and non-factory service",
+      "category": "caseback",
+      "depictsMovement": false,
+      "title": "Speedmaster Date3210.51 — caseback",
+      "caption": "Actual closed Speedmaster hippocampus back marked100m/333ft, with endlink975. No movement or physical calibre marking is visible. Markings do not establish current water resistance or factory parts originality.",
+      "image": "https://www.thewatchsource.co.uk/preowned/images/watches/2025/01/103998/Omega_3210-51_65044_02.jpg",
+      "source": "https://www.thewatchsource.co.uk/preowned/Omega-Speedmaster-Date-40mm-3210.51-65044",
+      "credit": "TheWatchSource",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-15",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-15T09:25:59.071Z",
+        "loadedAt": "2026-10-15T09:25:59.071Z",
+        "evidence": "Original TheWatchSource65044 HTML/receipt and10actualgalleryfiles archived;all10contact/full0front/1closedback/5signeddeployant inspected. Actualblackdial/silversubdials/redchronohands,blacktachymeterbezel,bracelet,endlink975,closed100m/333ftSpeedmasterback,signedOmegaSpeedmasterclasp. Noopenedmovement/physicalcalibrecode. Dealer explicitly3210.51 and1164,polishedcase,and2019nonfactoryservice;these are attributedhistory,notverifiedparts/currentperformance. Dealer2013 andtemporarywarrantypaper notmanufacture-date/fullperiodproof. Dealer1164base7750 notacceptedcommon-calibreequivalence. WatchSource42h vsPrestige44h conflict,no universalreserve threshold. ExactOmegaURLs/productPDF404 recorded. Windsor separate3210.51 specimen6files contact/full2/4/5inspected,not adopted as sameunit. No32105100 or1780055 alias inferred;precisephysicalexecution,fullperiod/material/partsoriginality unresolved.",
+        "imageDimensions": {
+          "width": 1200,
+          "height": 1200
+        },
+        "imageSha256": "e8431d164a95068dc284dc88286a03bee31263a2f43551f125fbdad072eacbda"
+      }
+    },
+    {
+      "id": "queue-omega321051-watchsource-braceletClasp",
+      "brand": "OMEGA",
+      "references": [
+        "3210.51"
+      ],
+      "representativeFor": [],
+      "variant": "TheWatchSource65044 reverse-panda dial / steel bracelet / signed deployant; seller-disclosed polishing and non-factory service",
+      "category": "braceletClasp",
+      "depictsMovement": false,
+      "title": "Speedmaster Date3210.51 — braceletClasp",
+      "caption": "Actual opened OMEGA Speedmaster-signed folding clasp and bracelet. Closed back is blurred behind it; no exposed movement. Hardware originality, service and replacement history require independent checks.",
+      "image": "https://www.thewatchsource.co.uk/preowned/images/watches/2025/01/103998/Omega_3210-51_65044_06.jpg",
+      "source": "https://www.thewatchsource.co.uk/preowned/Omega-Speedmaster-Date-40mm-3210.51-65044",
+      "credit": "TheWatchSource",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-15",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-15T09:25:59.071Z",
+        "loadedAt": "2026-10-15T09:25:59.071Z",
+        "evidence": "Original TheWatchSource65044 HTML/receipt and10actualgalleryfiles archived;all10contact/full0front/1closedback/5signeddeployant inspected. Actualblackdial/silversubdials/redchronohands,blacktachymeterbezel,bracelet,endlink975,closed100m/333ftSpeedmasterback,signedOmegaSpeedmasterclasp. Noopenedmovement/physicalcalibrecode. Dealer explicitly3210.51 and1164,polishedcase,and2019nonfactoryservice;these are attributedhistory,notverifiedparts/currentperformance. Dealer2013 andtemporarywarrantypaper notmanufacture-date/fullperiodproof. Dealer1164base7750 notacceptedcommon-calibreequivalence. WatchSource42h vsPrestige44h conflict,no universalreserve threshold. ExactOmegaURLs/productPDF404 recorded. Windsor separate3210.51 specimen6files contact/full2/4/5inspected,not adopted as sameunit. No32105100 or1780055 alias inferred;precisephysicalexecution,fullperiod/material/partsoriginality unresolved.",
+        "imageDimensions": {
+          "width": 1200,
+          "height": 1200
+        },
+        "imageSha256": "0253f053ad5813f900901790924fa59aa378df95330fd280cb752068ee2a1268"
+      }
     }
   ]
 }
