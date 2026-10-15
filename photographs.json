@@ -32505,6 +32505,142 @@
         },
         "imageSha256": "4a46c0e3586f139a426c0cb6f93d9e540781f33e7bbda963e2728f11bedda494"
       }
+    },
+    {
+      "id": "queue-tudor79250b-swe34117-front",
+      "brand": "TUDOR",
+      "references": [
+        "79250B"
+      ],
+      "representativeFor": [
+        "79250B"
+      ],
+      "variant": "SWE34117 brown dial / brown diving bezel / leather;79250B case-code representative,full retail identity/originality unverified",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "79250B brown specimen — front",
+      "caption": "Actual brown 3/6/9 dial, brown minute-graduated diving bezel and worn brown leather. SWE34117 case-code attribution; representative brown variant for 79250B, not grey or full retail suffix evidence.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/6/23/tudor-heritage-black-bay-bronze-dial-mens-watch-79250-box-card-34117_9d8ad9054d.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/tudor-heritage-black-bay-bronze-dial-mens-watch-79250-box-card-34117/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-14",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-14T14:55:56.525Z",
+        "loadedAt": "2026-10-14T14:55:56.525Z",
+        "evidence": "Original SWE34117 identifies79250B,brown Arabic3/6/9dial,brownminute/divingbezel,43mmbronze attribution andbrownleather.14source-associatedfiles contact-inspected;full2/6/7/8 inspected. Back6legiblyTUDORMANUFACTURECALIBREMT5601;casebody79250B/partialindividualserial markings. Opened7showsTudor-signedrotor andvisiblebalance/traversingbridge architecture;no readablemovementcalibredesignation established. Pinbuckle8signedTUDOR withclosedblurredback,no movement exposure. Currentmakerfamily/press pages establishMT5601calibre technical context/firstbronze introduction2016,whiledepictingcurrentgreyBA;not exactolderbrownretailalias/period/thicknessproof. Excludeotherstock41mm,SWEtachymeterwording,seller2018/warranty/timing/authenticity assertions asindependentproof. Relatedgray13,duplicatefront0/1 andbox/card11/12excluded. Casecodephotoexplicitlyrepresentativebrownvariant only;noBM/BA/M-retail alias/calibre equivalence inferred. Patina/signatures/backlegendalone notassay/date/componentauthenticityproof.",
+        "imageDimensions": {
+          "width": 3602,
+          "height": 3602
+        },
+        "imageSha256": "aa2581fdb6393ee348b1ef866e6032023d6a4170c5a27d6cafac813631e41abd"
+      }
+    },
+    {
+      "id": "queue-tudor79250b-swe34117-movement",
+      "brand": "TUDOR",
+      "references": [
+        "79250B"
+      ],
+      "representativeFor": [
+        "79250B"
+      ],
+      "variant": "SWE34117 brown dial / brown diving bezel / leather;79250B case-code representative,full retail identity/originality unverified",
+      "category": "movement",
+      "depictsMovement": true,
+      "title": "79250B brown specimen — movement",
+      "caption": "Actual opened Tudor-signed rotor and balance/bridge architecture. MT5601 attribution comes from the back legend and manufacturer calibre context; no readable movement calibre marking established. Component authenticity remains unverified.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/6/23/tudor-heritage-black-bay-bronze-dial-mens-watch-79250-box-card-34117_fbb69.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/tudor-heritage-black-bay-bronze-dial-mens-watch-79250-box-card-34117/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-14",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-14T14:55:56.525Z",
+        "loadedAt": "2026-10-14T14:55:56.525Z",
+        "evidence": "Original SWE34117 identifies79250B,brown Arabic3/6/9dial,brownminute/divingbezel,43mmbronze attribution andbrownleather.14source-associatedfiles contact-inspected;full2/6/7/8 inspected. Back6legiblyTUDORMANUFACTURECALIBREMT5601;casebody79250B/partialindividualserial markings. Opened7showsTudor-signedrotor andvisiblebalance/traversingbridge architecture;no readablemovementcalibredesignation established. Pinbuckle8signedTUDOR withclosedblurredback,no movement exposure. Currentmakerfamily/press pages establishMT5601calibre technical context/firstbronze introduction2016,whiledepictingcurrentgreyBA;not exactolderbrownretailalias/period/thicknessproof. Excludeotherstock41mm,SWEtachymeterwording,seller2018/warranty/timing/authenticity assertions asindependentproof. Relatedgray13,duplicatefront0/1 andbox/card11/12excluded. Casecodephotoexplicitlyrepresentativebrownvariant only;noBM/BA/M-retail alias/calibre equivalence inferred. Patina/signatures/backlegendalone notassay/date/componentauthenticityproof.",
+        "imageDimensions": {
+          "width": 2254,
+          "height": 2255
+        },
+        "imageSha256": "dd89e4fb7982b2028f6504e904b95dd6702762ce963e74fcbcd8b7a7c6e35fbc"
+      }
+    },
+    {
+      "id": "queue-tudor79250b-swe34117-caseback",
+      "brand": "TUDOR",
+      "references": [
+        "79250B"
+      ],
+      "representativeFor": [
+        "79250B"
+      ],
+      "variant": "SWE34117 brown dial / brown diving bezel / leather;79250B case-code representative,full retail identity/originality unverified",
+      "category": "caseback",
+      "depictsMovement": false,
+      "title": "79250B brown specimen — caseback",
+      "caption": "Actual closed back marked TUDOR MANUFACTURE CALIBRE MT5601 with case-body reference/partial serial details. Legend and patina do not prove individual date, assay or originality.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/6/23/tudor-heritage-black-bay-bronze-dial-mens-watch-79250-box-card-34117_4caf8.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/tudor-heritage-black-bay-bronze-dial-mens-watch-79250-box-card-34117/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-14",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-14T14:55:56.525Z",
+        "loadedAt": "2026-10-14T14:55:56.525Z",
+        "evidence": "Original SWE34117 identifies79250B,brown Arabic3/6/9dial,brownminute/divingbezel,43mmbronze attribution andbrownleather.14source-associatedfiles contact-inspected;full2/6/7/8 inspected. Back6legiblyTUDORMANUFACTURECALIBREMT5601;casebody79250B/partialindividualserial markings. Opened7showsTudor-signedrotor andvisiblebalance/traversingbridge architecture;no readablemovementcalibredesignation established. Pinbuckle8signedTUDOR withclosedblurredback,no movement exposure. Currentmakerfamily/press pages establishMT5601calibre technical context/firstbronze introduction2016,whiledepictingcurrentgreyBA;not exactolderbrownretailalias/period/thicknessproof. Excludeotherstock41mm,SWEtachymeterwording,seller2018/warranty/timing/authenticity assertions asindependentproof. Relatedgray13,duplicatefront0/1 andbox/card11/12excluded. Casecodephotoexplicitlyrepresentativebrownvariant only;noBM/BA/M-retail alias/calibre equivalence inferred. Patina/signatures/backlegendalone notassay/date/componentauthenticityproof.",
+        "imageDimensions": {
+          "width": 2406,
+          "height": 2406
+        },
+        "imageSha256": "305b66fa6bf4280745c0e2ccf4b8741c4691a611ccf6b106ef32bd0c2f129002"
+      }
+    },
+    {
+      "id": "queue-tudor79250b-swe34117-braceletClasp",
+      "brand": "TUDOR",
+      "references": [
+        "79250B"
+      ],
+      "representativeFor": [
+        "79250B"
+      ],
+      "variant": "SWE34117 brown dial / brown diving bezel / leather;79250B case-code representative,full retail identity/originality unverified",
+      "category": "braceletClasp",
+      "depictsMovement": false,
+      "title": "79250B brown specimen — braceletClasp",
+      "caption": "Actual TUDOR-signed bronze-coloured pin buckle and worn leather strap. Closed back is blurred in the background; no exposed movement. Factory hardware/strap originality remains unverified.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/6/23/tudor-heritage-black-bay-bronze-dial-mens-watch-79250-box-card-34117_35edc.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/tudor-heritage-black-bay-bronze-dial-mens-watch-79250-box-card-34117/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-14",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-14T14:55:56.525Z",
+        "loadedAt": "2026-10-14T14:55:56.525Z",
+        "evidence": "Original SWE34117 identifies79250B,brown Arabic3/6/9dial,brownminute/divingbezel,43mmbronze attribution andbrownleather.14source-associatedfiles contact-inspected;full2/6/7/8 inspected. Back6legiblyTUDORMANUFACTURECALIBREMT5601;casebody79250B/partialindividualserial markings. Opened7showsTudor-signedrotor andvisiblebalance/traversingbridge architecture;no readablemovementcalibredesignation established. Pinbuckle8signedTUDOR withclosedblurredback,no movement exposure. Currentmakerfamily/press pages establishMT5601calibre technical context/firstbronze introduction2016,whiledepictingcurrentgreyBA;not exactolderbrownretailalias/period/thicknessproof. Excludeotherstock41mm,SWEtachymeterwording,seller2018/warranty/timing/authenticity assertions asindependentproof. Relatedgray13,duplicatefront0/1 andbox/card11/12excluded. Casecodephotoexplicitlyrepresentativebrownvariant only;noBM/BA/M-retail alias/calibre equivalence inferred. Patina/signatures/backlegendalone notassay/date/componentauthenticityproof.",
+        "imageDimensions": {
+          "width": 3568,
+          "height": 3568
+        },
+        "imageSha256": "7bc3108e3f9f637fc6c44848c78a4c142f61eac1bc61535583d0fd1ab64f2c45"
+      }
     }
   ]
 }

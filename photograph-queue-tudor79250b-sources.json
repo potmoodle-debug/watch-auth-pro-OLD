@@ -1,0 +1,73 @@
+{
+  "reviewedAt": "2026-10-14T14:55:56.525Z",
+  "completion": "IN PROGRESS",
+  "reference": "79250B",
+  "sources": [
+    {
+      "id": "currentFamily",
+      "url": "https://www.tudorwatch.com/en/watch-family/black-bay-bronze",
+      "finalUrl": "https://www.tudorwatch.com/en/watch-family/black-bay-bronze",
+      "status": 200,
+      "bytes": 1186814,
+      "sha256": "56aa4d9c654520e2145905474ceceb109314fd96bba797aaf39fcfc60e58a637",
+      "at": "2026-10-14T14:52:26.148Z",
+      "scope": "Current slate-grey collection/MT5601 calibre and2016introduction context;not exact brownBM retailalias proof"
+    },
+    {
+      "id": "currentPress",
+      "url": "https://www.tudorwatch.com/en/pressroom/products/black-bay-bronze",
+      "finalUrl": "https://www.tudorwatch.com/en/pressroom/products/black-bay-bronze",
+      "status": 200,
+      "bytes": 942966,
+      "sha256": "e8ef8dd62910435eb3984a6407f852d91d23211fdb435bdee06a872027f7b220",
+      "at": "2026-10-14T14:52:26.718Z",
+      "scope": "Current slate-grey collection/MT5601 calibre and2016introduction context;not exact brownBM retailalias proof"
+    }
+  ],
+  "source": "https://www.swisswatchexpo.com/watches/tudor-heritage-black-bay-bronze-dial-mens-watch-79250-box-card-34117/",
+  "sourceHtmlSha256": "cbb009607cceab0482c5de181d20c41cd43c42922d87133cbcc43b320c230f30",
+  "images": [
+    {
+      "i": 2,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/6/23/tudor-heritage-black-bay-bronze-dial-mens-watch-79250-box-card-34117_9d8ad9054d.jpg",
+      "file": "2.jpg",
+      "sha256": "aa2581fdb6393ee348b1ef866e6032023d6a4170c5a27d6cafac813631e41abd",
+      "width": 3602,
+      "height": 3602
+    },
+    {
+      "i": 6,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/6/23/tudor-heritage-black-bay-bronze-dial-mens-watch-79250-box-card-34117_4caf8.jpg",
+      "file": "6.jpg",
+      "sha256": "305b66fa6bf4280745c0e2ccf4b8741c4691a611ccf6b106ef32bd0c2f129002",
+      "width": 2406,
+      "height": 2406
+    },
+    {
+      "i": 7,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/6/23/tudor-heritage-black-bay-bronze-dial-mens-watch-79250-box-card-34117_fbb69.jpg",
+      "file": "7.jpg",
+      "sha256": "dd89e4fb7982b2028f6504e904b95dd6702762ce963e74fcbcd8b7a7c6e35fbc",
+      "width": 2254,
+      "height": 2255
+    },
+    {
+      "i": 8,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/6/23/tudor-heritage-black-bay-bronze-dial-mens-watch-79250-box-card-34117_35edc.jpg",
+      "file": "8.jpg",
+      "sha256": "7bc3108e3f9f637fc6c44848c78a4c142f61eac1bc61535583d0fd1ab64f2c45",
+      "width": 3568,
+      "height": 3568
+    }
+  ],
+  "galleryEntries": 4,
+  "distinctFiles": 4,
+  "evidence": "Original SWE34117 identifies79250B,brown Arabic3/6/9dial,brownminute/divingbezel,43mmbronze attribution andbrownleather.14source-associatedfiles contact-inspected;full2/6/7/8 inspected. Back6legiblyTUDORMANUFACTURECALIBREMT5601;casebody79250B/partialindividualserial markings. Opened7showsTudor-signedrotor andvisiblebalance/traversingbridge architecture;no readablemovementcalibredesignation established. Pinbuckle8signedTUDOR withclosedblurredback,no movement exposure. Currentmakerfamily/press pages establishMT5601calibre technical context/firstbronze introduction2016,whiledepictingcurrentgreyBA;not exactolderbrownretailalias/period/thicknessproof. Excludeotherstock41mm,SWEtachymeterwording,seller2018/warranty/timing/authenticity assertions asindependentproof. Relatedgray13,duplicatefront0/1 andbox/card11/12excluded. Casecodephotoexplicitlyrepresentativebrownvariant only;noBM/BA/M-retail alias/calibre equivalence inferred. Patina/signatures/backlegendalone notassay/date/componentauthenticityproof.",
+  "gaps": [
+    "Exact olderbrownretailreference/queued individualvariant",
+    "Readablemovementcalibre marking/componentoriginality",
+    "Individualdating/fullhistoricalproductioninterval",
+    "Casealloyassay/strap/buckleoriginality"
+  ],
+  "queueStatus": "Unchanged pendingpublication;fullspecimen gaps remain"
+}

@@ -9,7 +9,7 @@ export function matchingRule(rules,brand,reference){
  const patternMatch=candidates.find(r=>{if(!r.pattern)return false;const re=new RegExp(r.pattern.source,r.pattern.flags.replace('g',''));return [raw,n].some(x=>re.test(x));});
  if(patternMatch)return patternMatch;
  const base=b==='TUDOR'?raw.replace(/^M/,'').replace(/-\d{4}$/,''):b==='ROLEX'?raw.replace(/^([0-9]{4,6})[A-Z]{1,6}$/,'$1'):null;
- if(base&&base!==raw){const found=matchingRule(rules,brand,base);if(found)return {...found,manualReview:true,lookupScope:'Base-reference / family guidance; full variant remains unassessed'};}
+ if(base&&base!==raw){const found=matchingRule(rules,brand,base);if(found&&!found.exactReferenceOnly)return {...found,manualReview:true,lookupScope:'Base-reference / family guidance; full variant remains unassessed'};}
  return null;
 }
 export function safetyRule(rules,brand,reference,model=''){
