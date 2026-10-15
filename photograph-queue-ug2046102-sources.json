@@ -1,0 +1,60 @@
+{
+  "reviewedAt": "2026-10-15T08:22:06.217Z",
+  "completion": "IN PROGRESS",
+  "reference": "204610-2",
+  "evidence": "Two original dealer HTML/public-product-JSON records archived with16 original images contact-inspected. Full Tokibank1front/6externalback/7opened/9innerback and Huntington1front/2back inspected. Tokibank bridge physically218-2/MICROTOR/28JEWELS; its externalback lacks legible reference. Huntington back physically204610-2 withzero; different patinated dial/individual andno opened movement. Do not combine specimens into one authentication record. Dealer34mm/18mm/circa1950s-1960s,service,tritium,unpolished/originality claims are attributions,not independent measurements/date/chemistry/performance proof. Both straps replacements; Huntington explicitlygenericbuckle. No usable buckle photograph. Exclude20461-2/20461/2,215-2/generic218 equivalence and fullproductioninterval inferences.",
+  "sources": [
+    {
+      "id": "tokibank",
+      "url": "https://tokibank.jp/products/universal-geneve-polerouter-date-204610-2-589",
+      "credit": "Tokibank",
+      "variant": "B003-589 brown patinated crosshair dial / black replacement leather; source-attributed case reference",
+      "views": [
+        [
+          "front",
+          1,
+          "Brown patinated crosshair dial and date at 3; black replacement leather. Age, lume chemistry and dial/hand originality are not independently established."
+        ],
+        [
+          "movement",
+          7,
+          "Actual opened micro-rotor movement with readable UNIVERSAL GENEVE 218-2 / MICROTOR and 28 jewels markings. Corrosion visible around case edge; signatures do not authenticate all components."
+        ],
+        [
+          "caseback",
+          6,
+          "Actual worn closed back; no legible case-reference engraving established in this image. Reference attribution relies on original Tokibank listing; do not substitute this for a marked individual back."
+        ]
+      ],
+      "htmlSha256": "0996cd10968b74bf709cedcff87bba90f09cd93184fb5e8e66357cdc9ef7e30b"
+    },
+    {
+      "id": "huntington",
+      "url": "https://huntingtoncompany.com/products/1960s-universal-geneve-polerouter-date-tropical-gilt-dial-ref-204610-2",
+      "credit": "Huntington Company",
+      "variant": "Separate Huntington specimen: stone-like patinated crosshair dial / new tan leather / generic buckle",
+      "views": [
+        [
+          "front",
+          1,
+          "Distinct specimen with mottled dark crosshair dial, gold-coloured text and new tan leather. Dealer originality and natural-aging claims remain unverified."
+        ],
+        [
+          "caseback",
+          2,
+          "Actual closed back legibly engraved 204610-2 and individual serial, with Polerouter globe. This is a different watch from the opened Tokibank movement; no Huntington calibre code is independently visible."
+        ]
+      ],
+      "htmlSha256": "2025c44216dea812d051359b0845838beadf8e213a3a1ba1255938cf922b78e8"
+    }
+  ],
+  "galleryEntries": 5,
+  "distinctFiles": 5,
+  "gaps": [
+    "Usable buckle image/factory strap and hardware",
+    "Proven historical production interval and individual date",
+    "Dimensions/material assay/lume chemistry",
+    "Complete component originality and Huntington physical calibre code"
+  ],
+  "queueStatus": "Unchanged pending tested publication; full specimen gaps remain"
+}
