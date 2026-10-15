@@ -1,0 +1,47 @@
+{
+  "reviewedAt": "2026-10-15T08:50:01.844Z",
+  "completion": "IN PROGRESS",
+  "reference": "IW324010",
+  "source": "https://kibblewatches.co.uk/products/2023-iwc-pilots-watch-36mm-automatic-on-bracelet-iw324010",
+  "maker": {
+    "url": "https://www.iwc.com/eu-de/past-collections/pilot-watches/iw324010-pilots-watch-automatic-36",
+    "status": 200,
+    "bytes": 704465,
+    "sha256": "fe53be55411d5697c1463233b45d5b7733dfefe8f9d1cb94e87fb34c8a07a316",
+    "at": "2026-10-15T08:48:47.024Z"
+  },
+  "images": [
+    {
+      "i": 0,
+      "image": "https://cdn.shopify.com/s/files/1/0270/0771/3366/files/1_7d57cfe2-7e8a-42d0-847b-694b85de88b3.jpg?v=1702562073",
+      "file": "0.jpg",
+      "width": 1000,
+      "height": 1000,
+      "sha256": "482ccab2742fd729660224cd7bcdf648b7504d9741a41a6589d055b651d861d0"
+    },
+    {
+      "i": 5,
+      "image": "https://cdn.shopify.com/s/files/1/0270/0771/3366/files/6_8417f6a2-5eea-494d-8525-62c28ad615f9.jpg?v=1702562074",
+      "file": "5.jpg",
+      "width": 1000,
+      "height": 1000,
+      "sha256": "6fe222e98665881401cca4bc154f8ebd625cb2285796521ae31cbf7587bbf872"
+    },
+    {
+      "i": 6,
+      "image": "https://cdn.shopify.com/s/files/1/0270/0771/3366/files/7_996bafec-1dd4-4082-8e2e-81f483f530c8.jpg?v=1702562072",
+      "file": "6.jpg",
+      "width": 1000,
+      "height": 1000,
+      "sha256": "afe3cef2e7beda5e3d37c219c0284e335ed16c3356c5b1c594456345c056348a"
+    }
+  ],
+  "evidence": "Original Kibble8954107625778 identifies exactIW324010.9originalfiles contact-inspected;full0front/5closedback/6openedclasp inspected. ActualblackArabic/date3,steelfivelinkbracelet,aircraftclosedback andIWC-signedfoldingclasp. Noactualopenedmovement. Backgroundbookcalibreillustrations2/3excluded,box/unsignedpapers4notfactoryidentity/dateproof. MakerexactpastcollectionIW324010 explicitly35111/36mm/10.6mm/50h/28800/25jewels/6bar/softironinnercase; specs attributednotmeasurement/currentperformance/resistanceproof. Seller10.5mm conflicts;prefermaker10.6mm attribution. SellerSW300-1A/163componentclaimnotadoptedassupplierexecution/partsequivalence. RecordedC35111 notautomaticallyequatedwith35111;checkactualmarking. Dealer2021/2023/warranty/model2016claimsnotindividualmanufacture/fullproductionintervalproof. Physicalbackserialnotretailreferenceproof;hardware/material/componentoriginality unresolved.",
+  "gaps": [
+    "Actual opened movement and installedexecution",
+    "C35111 nomenclature/physicalmarking",
+    "Historicalproductioninterval/individualdate",
+    "Material/lume/hardware/componentoriginality andcurrentresistance"
+  ],
+  "queueStatus": "Unchanged;recordedC35111 remains unverified"
+}

@@ -10244,6 +10244,32 @@
           "finding": "No usable buckle photo in either original gallery; unsupported."
         }
       }
+    },
+    {
+      "brand": "IWC",
+      "reference": "IW324010",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-15T08:50:01.844Z",
+          "evidence": "Original Kibble8954107625778 identifies exactIW324010.9originalfiles contact-inspected;full0front/5closedback/6openedclasp inspected. ActualblackArabic/date3,steelfivelinkbracelet,aircraftclosedback andIWC-signedfoldingclasp. Noactualopenedmovement. Backgroundbookcalibreillustrations2/3excluded,box/unsignedpapers4notfactoryidentity/dateproof. MakerexactpastcollectionIW324010 explicitly35111/36mm/10.6mm/50h/28800/25jewels/6bar/softironinnercase; specs attributednotmeasurement/currentperformance/resistanceproof. Seller10.5mm conflicts;prefermaker10.6mm attribution. SellerSW300-1A/163componentclaimnotadoptedassupplierexecution/partsequivalence. RecordedC35111 notautomaticallyequatedwith35111;checkactualmarking. Dealer2021/2023/warranty/model2016claimsnotindividualmanufacture/fullproductionintervalproof. Physicalbackserialnotretailreferenceproof;hardware/material/componentoriginality unresolved.",
+          "finding": "Actual source exterior inspected; installed calibre/date/material/componentoriginality remain gaps."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-15T08:50:01.844Z",
+          "evidence": "Original Kibble8954107625778 identifies exactIW324010.9originalfiles contact-inspected;full0front/5closedback/6openedclasp inspected. ActualblackArabic/date3,steelfivelinkbracelet,aircraftclosedback andIWC-signedfoldingclasp. Noactualopenedmovement. Backgroundbookcalibreillustrations2/3excluded,box/unsignedpapers4notfactoryidentity/dateproof. MakerexactpastcollectionIW324010 explicitly35111/36mm/10.6mm/50h/28800/25jewels/6bar/softironinnercase; specs attributednotmeasurement/currentperformance/resistanceproof. Seller10.5mm conflicts;prefermaker10.6mm attribution. SellerSW300-1A/163componentclaimnotadoptedassupplierexecution/partsequivalence. RecordedC35111 notautomaticallyequatedwith35111;checkactualmarking. Dealer2021/2023/warranty/model2016claimsnotindividualmanufacture/fullproductionintervalproof. Physicalbackserialnotretailreferenceproof;hardware/material/componentoriginality unresolved.",
+          "finding": "No actual opened movement in nine-file original gallery; unsupported."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-15T08:50:01.844Z",
+          "evidence": "Original Kibble8954107625778 identifies exactIW324010.9originalfiles contact-inspected;full0front/5closedback/6openedclasp inspected. ActualblackArabic/date3,steelfivelinkbracelet,aircraftclosedback andIWC-signedfoldingclasp. Noactualopenedmovement. Backgroundbookcalibreillustrations2/3excluded,box/unsignedpapers4notfactoryidentity/dateproof. MakerexactpastcollectionIW324010 explicitly35111/36mm/10.6mm/50h/28800/25jewels/6bar/softironinnercase; specs attributednotmeasurement/currentperformance/resistanceproof. Seller10.5mm conflicts;prefermaker10.6mm attribution. SellerSW300-1A/163componentclaimnotadoptedassupplierexecution/partsequivalence. RecordedC35111 notautomaticallyequatedwith35111;checkactualmarking. Dealer2021/2023/warranty/model2016claimsnotindividualmanufacture/fullproductionintervalproof. Physicalbackserialnotretailreferenceproof;hardware/material/componentoriginality unresolved.",
+          "finding": "Actual source exterior inspected; installed calibre/date/material/componentoriginality remain gaps."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-15T08:50:01.844Z",
+          "evidence": "Original Kibble8954107625778 identifies exactIW324010.9originalfiles contact-inspected;full0front/5closedback/6openedclasp inspected. ActualblackArabic/date3,steelfivelinkbracelet,aircraftclosedback andIWC-signedfoldingclasp. Noactualopenedmovement. Backgroundbookcalibreillustrations2/3excluded,box/unsignedpapers4notfactoryidentity/dateproof. MakerexactpastcollectionIW324010 explicitly35111/36mm/10.6mm/50h/28800/25jewels/6bar/softironinnercase; specs attributednotmeasurement/currentperformance/resistanceproof. Seller10.5mm conflicts;prefermaker10.6mm attribution. SellerSW300-1A/163componentclaimnotadoptedassupplierexecution/partsequivalence. RecordedC35111 notautomaticallyequatedwith35111;checkactualmarking. Dealer2021/2023/warranty/model2016claimsnotindividualmanufacture/fullproductionintervalproof. Physicalbackserialnotretailreferenceproof;hardware/material/componentoriginality unresolved.",
+          "finding": "Actual source exterior inspected; installed calibre/date/material/componentoriginality remain gaps."
+        }
+      }
     }
   ],
   "sourceRecordReviews": [
@@ -11767,6 +11793,11 @@
       "id": "UPDATE:UNIVERSAL|204610-2",
       "reviewedAt": "2026-10-15T08:22:06.217Z",
       "evidence": "Two original dealer HTML/public-product-JSON records archived with16 original images contact-inspected. Full Tokibank1front/6externalback/7opened/9innerback and Huntington1front/2back inspected. Tokibank bridge physically218-2/MICROTOR/28JEWELS; its externalback lacks legible reference. Huntington back physically204610-2 withzero; different patinated dial/individual andno opened movement. Do not combine specimens into one authentication record. Dealer34mm/18mm/circa1950s-1960s,service,tritium,unpolished/originality claims are attributions,not independent measurements/date/chemistry/performance proof. Both straps replacements; Huntington explicitlygenericbuckle. No usable buckle photograph. Exclude20461-2/20461/2,215-2/generic218 equivalence and fullproductioninterval inferences."
+    },
+    {
+      "id": "UPDATE:IWC|IW324010",
+      "reviewedAt": "2026-10-15T08:50:01.844Z",
+      "evidence": "Original Kibble8954107625778 identifies exactIW324010.9originalfiles contact-inspected;full0front/5closedback/6openedclasp inspected. ActualblackArabic/date3,steelfivelinkbracelet,aircraftclosedback andIWC-signedfoldingclasp. Noactualopenedmovement. Backgroundbookcalibreillustrations2/3excluded,box/unsignedpapers4notfactoryidentity/dateproof. MakerexactpastcollectionIW324010 explicitly35111/36mm/10.6mm/50h/28800/25jewels/6bar/softironinnercase; specs attributednotmeasurement/currentperformance/resistanceproof. Seller10.5mm conflicts;prefermaker10.6mm attribution. SellerSW300-1A/163componentclaimnotadoptedassupplierexecution/partsequivalence. RecordedC35111 notautomaticallyequatedwith35111;checkactualmarking. Dealer2021/2023/warranty/model2016claimsnotindividualmanufacture/fullproductionintervalproof. Physicalbackserialnotretailreferenceproof;hardware/material/componentoriginality unresolved."
     }
   ]
 }
