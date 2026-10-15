@@ -1,0 +1,54 @@
+{
+  "reviewedAt": "2026-10-15T09:09:03.575Z",
+  "completion": "IN PROGRESS",
+  "reference": "IW500401",
+  "source": "https://www.europeanwatch.com/watch/iwc-iw500401-big-pilot-7-day-ss-35540",
+  "sourceHtmlSha256": "0bb4770be7dae1190ef02de627c0a2decc0d8884c0e5f0ffa9fc113fd220747e",
+  "maker": {
+    "url": "https://www.gregsteer.net/IWC/Catalogue/PDF/IWC_Catalogue_2010-11_GB.pdf",
+    "status": 200,
+    "bytes": 32648711,
+    "sha256": "cc61ab3823de870433c420b627bfed3296697e033bdc78c1963e92535af67e5b",
+    "at": "2026-10-15T09:07:16.840Z",
+    "scope": "Manufacturer catalogue hosted in independent archive; publication pages inspected separately"
+  },
+  "inspectedPdfPages": [
+    1,
+    11,
+    99
+  ],
+  "printedSpecificationPages": [
+    "18–19",
+    "194–195"
+  ],
+  "images": [
+    {
+      "i": 0,
+      "image": "https://images.europeanwatch.com/images/35/35540-1.jpg",
+      "sha256": "ce37a7566ae91d854315ba4d358bd8829ed22ec19acb3acab468293eb2c27af7",
+      "width": 800,
+      "height": 640
+    },
+    {
+      "i": 5,
+      "image": "https://images.europeanwatch.com/images/35/35540-6.jpg",
+      "sha256": "36e7f40bac7ab44de992ba6c4cc06250a45c71dba6632723454fba7f2d2da4b9",
+      "width": 800,
+      "height": 640
+    },
+    {
+      "i": 6,
+      "image": "https://images.europeanwatch.com/images/35/35540-7.jpg",
+      "sha256": "cdbe1f0ec09d9ff169153c82261169dfbd68eac1d1c7b61bc02cac3193890653",
+      "width": 800,
+      "height": 640
+    }
+  ],
+  "evidence": "Original EWC35540 source identifies IW500401. Eight original files contact-inspected; full0front/5openeddeployant/6closedback inspected. Actual black Arabic dial/date6/power-reserve3, brown contrasting-stitched leather, signed IWC deployant and closed FLIEGERUHR back. No opened movement or readable physical calibre code. Original IWC2010/11 catalogue archived: cover and PDF11/99 rendered and visually inspected. Printed18-19 table51111:42jewels,21600vph,7days,reference5004. Printed194-195 explicitlyIW500401 steel/blackalligator,51111 context,Pellaton,7day mechanical stop,46.2mm/15.8mm/6bar. Brown specimen strap differs from maker blackalligator; do not claim period factory hardware. Maker specifications do not prove installed execution,individual date,material,current performance/resistance or component originality. Dealer46/16 rounded dimensions not adopted over attributed maker figures. C51111/51110/51113 equivalence not inferred. 2002 family introduction not fullIW500401productioninterval.",
+  "gaps": [
+    "Actual installed calibre andC51111 marking",
+    "Complete production interval/individual manufacture date",
+    "Factory period strap/hardware/material/component originality"
+  ],
+  "queueStatus": "Unchanged;C51111 physical marking unresolved"
+}
