@@ -10374,6 +10374,32 @@
           "finding": "Actual dealer specimen exterior inspected; physical execution/date/material/parts originality unresolved."
         }
       }
+    },
+    {
+      "brand": "OMEGA",
+      "reference": "Omega Constellation",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-15T09:32:40.544Z",
+          "evidence": "Original Omega26March2026 Constellation Observatory press record archivedHTTP200 andread:39.4mm,nine references,two8914/8915 executions. This disproves universal561 from collectionname,without assigning modern execution to unknown queuewatch. Recorded255411 does not establish exact case identity. Separate36mm8800 cachedwebtext readable butlocal404;notclaimedarchived. Noactualphotos accepted/inherited by broadname. Preserveall exactsource rules.",
+          "finding": "Unidentified collection request; no supported actual photo category until exact case identity established."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-15T09:32:40.544Z",
+          "evidence": "Original Omega26March2026 Constellation Observatory press record archivedHTTP200 andread:39.4mm,nine references,two8914/8915 executions. This disproves universal561 from collectionname,without assigning modern execution to unknown queuewatch. Recorded255411 does not establish exact case identity. Separate36mm8800 cachedwebtext readable butlocal404;notclaimedarchived. Noactualphotos accepted/inherited by broadname. Preserveall exactsource rules.",
+          "finding": "Unidentified collection request; no supported actual photo category until exact case identity established."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-15T09:32:40.544Z",
+          "evidence": "Original Omega26March2026 Constellation Observatory press record archivedHTTP200 andread:39.4mm,nine references,two8914/8915 executions. This disproves universal561 from collectionname,without assigning modern execution to unknown queuewatch. Recorded255411 does not establish exact case identity. Separate36mm8800 cachedwebtext readable butlocal404;notclaimedarchived. Noactualphotos accepted/inherited by broadname. Preserveall exactsource rules.",
+          "finding": "Unidentified collection request; no supported actual photo category until exact case identity established."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-15T09:32:40.544Z",
+          "evidence": "Original Omega26March2026 Constellation Observatory press record archivedHTTP200 andread:39.4mm,nine references,two8914/8915 executions. This disproves universal561 from collectionname,without assigning modern execution to unknown queuewatch. Recorded255411 does not establish exact case identity. Separate36mm8800 cachedwebtext readable butlocal404;notclaimedarchived. Noactualphotos accepted/inherited by broadname. Preserveall exactsource rules.",
+          "finding": "Unidentified collection request; no supported actual photo category until exact case identity established."
+        }
+      }
     }
   ],
   "sourceRecordReviews": [
@@ -11922,6 +11948,11 @@
       "id": "UPDATE:OMEGA|3210.51",
       "reviewedAt": "2026-10-15T09:25:59.071Z",
       "evidence": "Original TheWatchSource65044 HTML/receipt and10actualgalleryfiles archived;all10contact/full0front/1closedback/5signeddeployant inspected. Actualblackdial/silversubdials/redchronohands,blacktachymeterbezel,bracelet,endlink975,closed100m/333ftSpeedmasterback,signedOmegaSpeedmasterclasp. Noopenedmovement/physicalcalibrecode. Dealer explicitly3210.51 and1164,polishedcase,and2019nonfactoryservice;these are attributedhistory,notverifiedparts/currentperformance. Dealer2013 andtemporarywarrantypaper notmanufacture-date/fullperiodproof. Dealer1164base7750 notacceptedcommon-calibreequivalence. WatchSource42h vsPrestige44h conflict,no universalreserve threshold. ExactOmegaURLs/productPDF404 recorded. Windsor separate3210.51 specimen6files contact/full2/4/5inspected,not adopted as sameunit. No32105100 or1780055 alias inferred;precisephysicalexecution,fullperiod/material/partsoriginality unresolved."
+    },
+    {
+      "id": "RULE:0005",
+      "reviewedAt": "2026-10-15T09:32:40.544Z",
+      "evidence": "Original Omega26March2026 Constellation Observatory press record archivedHTTP200 andread:39.4mm,nine references,two8914/8915 executions. This disproves universal561 from collectionname,without assigning modern execution to unknown queuewatch. Recorded255411 does not establish exact case identity. Separate36mm8800 cachedwebtext readable butlocal404;notclaimedarchived. Noactualphotos accepted/inherited by broadname. Preserveall exactsource rules."
     }
   ]
 }
