@@ -1,0 +1,59 @@
+{
+  "reviewedAt": "2026-10-15T09:16:06.229Z",
+  "completion": "IN PROGRESS",
+  "reference": "1002",
+  "source": "https://www.swisswatchexpo.com/watches/rolex-oyster-perpetual-white-dial-vintage-steel-mens-watch-1002-73449/",
+  "sourceHtmlSha256": "a0c897b080da61e2fc311a4de31cefacf6f13eb6e1f31266ce73536638633b9c",
+  "images": [
+    {
+      "i": 2,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/10/6/rolex-oyster-perpetual-white-dial-vintage-steel-mens-watch-1002-73449_1801a.jpg",
+      "file": "2.jpg",
+      "sha256": "f1a31eb73177005c517834d0b149c3dbf479a6f1f9ca7f7cc7b5282ce8af0859",
+      "width": 4220,
+      "height": 4220
+    },
+    {
+      "i": 6,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/10/6/rolex-oyster-perpetual-white-dial-vintage-steel-mens-watch-1002-73449_35fdc.jpg",
+      "file": "6.jpg",
+      "sha256": "e53a86722942270cdce4659bc16b9baa9ec23100d63c7dae7fbee03db7198f75",
+      "width": 942,
+      "height": 942
+    },
+    {
+      "i": 8,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/10/6/rolex-oyster-perpetual-white-dial-vintage-steel-mens-watch-1002-73449_09ec3.jpg",
+      "file": "8.jpg",
+      "sha256": "c816bd50312131a2c94a49809fd3b37d0951cd02bc7955eac95fb014d13ca929",
+      "width": 2042,
+      "height": 2042
+    },
+    {
+      "i": 9,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/10/6/rolex-oyster-perpetual-white-dial-vintage-steel-mens-watch-1002-73449_044a6.jpg",
+      "file": "9.jpg",
+      "sha256": "2ef7f2a7015c321888b4a79138b4ee6742a03cd9b76aee14dcdf7ee5f1dae5e9",
+      "width": 3257,
+      "height": 3257
+    },
+    {
+      "i": 10,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/10/6/rolex-oyster-perpetual-white-dial-vintage-steel-mens-watch-1002-73449_1ecfb.jpg",
+      "file": "10.jpg",
+      "sha256": "5f9028871e028c1da8106135870fb170614defef3994cbaea8069db3617cd3b8",
+      "width": 3546,
+      "height": 3546
+    }
+  ],
+  "galleryEntries": 4,
+  "distinctFiles": 4,
+  "evidence": "Original SWE73449 page and11source-associated files archived. All11contact-inspected;full2front/6case-reference/8openedmovement/9closedback-clasp/10bracelet inspected. Physicalcase1002;actualmovement gold-bordered1570 stamp/Rolex-signedrotor andbridge. White Roman dial with T SWISS T printing,steelindices,batonhands,smoothbezel,Oysterbracelet. No readable bracelet/endlink/clasp/date codes established. Labels/signatures do not prove lume chemistry,period,material or component originality. Seller1964-65 estimate/26jewels/34mm/timing/authenticity assertions not independent dating/measurement/performance proof; do not infer chronology or factory configuration from serial estimate. Physical1570 supports this specimen,not all historical1002 executions. No1560/1530/1520 equivalence. No silver/brick/black/otherdial inheritance. Fullproductioninterval,individualdate,service/replacement/refinishing history and factory hardware remain gaps.",
+  "gaps": [
+    "Full production interval and individual manufacture date",
+    "Other historical1002 executions and dial variants",
+    "Factory dial/lume chemistry/bracelet/endlink/clasp/date codes",
+    "Material/refinishing/replacement and component originality"
+  ],
+  "queueStatus": "Unchanged pendingpublication;fullspecimen gaps remain"
+}
