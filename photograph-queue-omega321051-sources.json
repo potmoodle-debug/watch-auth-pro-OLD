@@ -1,0 +1,41 @@
+{
+  "reviewedAt": "2026-10-15T09:25:59.071Z",
+  "completion": "IN PROGRESS",
+  "reference": "3210.51",
+  "source": "https://www.thewatchsource.co.uk/preowned/Omega-Speedmaster-Date-40mm-3210.51-65044",
+  "sourceHtmlSha256": "74a0ba42d274284aa26aac62a4c76bb79f81f8cea588dc1d4a2795cbbe548ebe",
+  "images": [
+    {
+      "i": 0,
+      "image": "https://www.thewatchsource.co.uk/preowned/images/watches/2025/01/103998/Omega_3210-51_65044_01.jpg",
+      "file": "0.jpg",
+      "sha256": "28f082452d58ae2737f268444a302b7b963baaad84a0ba4e5fc5185413845018",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "i": 1,
+      "image": "https://www.thewatchsource.co.uk/preowned/images/watches/2025/01/103998/Omega_3210-51_65044_02.jpg",
+      "file": "1.jpg",
+      "sha256": "e8431d164a95068dc284dc88286a03bee31263a2f43551f125fbdad072eacbda",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "i": 5,
+      "image": "https://www.thewatchsource.co.uk/preowned/images/watches/2025/01/103998/Omega_3210-51_65044_06.jpg",
+      "file": "5.jpg",
+      "sha256": "0253f053ad5813f900901790924fa59aa378df95330fd280cb752068ee2a1268",
+      "width": 1200,
+      "height": 1200
+    }
+  ],
+  "evidence": "Original TheWatchSource65044 HTML/receipt and10actualgalleryfiles archived;all10contact/full0front/1closedback/5signeddeployant inspected. Actualblackdial/silversubdials/redchronohands,blacktachymeterbezel,bracelet,endlink975,closed100m/333ftSpeedmasterback,signedOmegaSpeedmasterclasp. Noopenedmovement/physicalcalibrecode. Dealer explicitly3210.51 and1164,polishedcase,and2019nonfactoryservice;these are attributedhistory,notverifiedparts/currentperformance. Dealer2013 andtemporarywarrantypaper notmanufacture-date/fullperiodproof. Dealer1164base7750 notacceptedcommon-calibreequivalence. WatchSource42h vsPrestige44h conflict,no universalreserve threshold. ExactOmegaURLs/productPDF404 recorded. Windsor separate3210.51 specimen6files contact/full2/4/5inspected,not adopted as sameunit. No32105100 or1780055 alias inferred;precisephysicalexecution,fullperiod/material/partsoriginality unresolved.",
+  "gaps": [
+    "Actual opened movement and physical1164 execution",
+    "Exact manufacturer historical record/full period",
+    "Individual date and documented service/replacement history",
+    "Conflicting reserve/material/hardware/component originality"
+  ],
+  "queueStatus": "Unchanged pendingpublication;physicalexecutiongaps remain"
+}
