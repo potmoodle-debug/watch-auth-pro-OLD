@@ -32811,6 +32811,102 @@
         },
         "imageSha256": "0fe6d19feed1d32dab38f254d6f6dd7c68e22c13423564af23bcd91b34ccbe89"
       }
+    },
+    {
+      "id": "queue-iw324010-kibble-front",
+      "brand": "IWC",
+      "references": [
+        "IW324010"
+      ],
+      "representativeFor": [],
+      "variant": "Kibble8954107625778 black dial / steel five-link bracelet; source-attributed IW324010 specimen",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "IW324010 Pilot Automatic36 — front",
+      "caption": "Actual black Arabic dial, date at3 and steel five-link bracelet. Original dealer source identifies IW324010; dial, lume, material and component originality remain unverified.",
+      "image": "https://cdn.shopify.com/s/files/1/0270/0771/3366/files/1_7d57cfe2-7e8a-42d0-847b-694b85de88b3.jpg?v=1702562073",
+      "source": "https://kibblewatches.co.uk/products/2023-iwc-pilots-watch-36mm-automatic-on-bracelet-iw324010",
+      "credit": "Kibble Watches",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-15",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-15T08:50:01.844Z",
+        "loadedAt": "2026-10-15T08:50:01.844Z",
+        "evidence": "Original Kibble8954107625778 identifies exactIW324010.9originalfiles contact-inspected;full0front/5closedback/6openedclasp inspected. ActualblackArabic/date3,steelfivelinkbracelet,aircraftclosedback andIWC-signedfoldingclasp. Noactualopenedmovement. Backgroundbookcalibreillustrations2/3excluded,box/unsignedpapers4notfactoryidentity/dateproof. MakerexactpastcollectionIW324010 explicitly35111/36mm/10.6mm/50h/28800/25jewels/6bar/softironinnercase; specs attributednotmeasurement/currentperformance/resistanceproof. Seller10.5mm conflicts;prefermaker10.6mm attribution. SellerSW300-1A/163componentclaimnotadoptedassupplierexecution/partsequivalence. RecordedC35111 notautomaticallyequatedwith35111;checkactualmarking. Dealer2021/2023/warranty/model2016claimsnotindividualmanufacture/fullproductionintervalproof. Physicalbackserialnotretailreferenceproof;hardware/material/componentoriginality unresolved.",
+        "imageDimensions": {
+          "width": 1000,
+          "height": 1000
+        },
+        "imageSha256": "482ccab2742fd729660224cd7bcdf648b7504d9741a41a6589d055b651d861d0"
+      }
+    },
+    {
+      "id": "queue-iw324010-kibble-caseback",
+      "brand": "IWC",
+      "references": [
+        "IW324010"
+      ],
+      "representativeFor": [],
+      "variant": "Kibble8954107625778 black dial / steel five-link bracelet; source-attributed IW324010 specimen",
+      "category": "caseback",
+      "depictsMovement": false,
+      "title": "IW324010 Pilot Automatic36 — caseback",
+      "caption": "Actual closed back with aircraft motif, IWC wording,6BAR marking and individual serial. No exposed movement; source reference and maker35111 attribution do not prove the installed calibre or current resistance.",
+      "image": "https://cdn.shopify.com/s/files/1/0270/0771/3366/files/6_8417f6a2-5eea-494d-8525-62c28ad615f9.jpg?v=1702562074",
+      "source": "https://kibblewatches.co.uk/products/2023-iwc-pilots-watch-36mm-automatic-on-bracelet-iw324010",
+      "credit": "Kibble Watches",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-15",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-15T08:50:01.844Z",
+        "loadedAt": "2026-10-15T08:50:01.844Z",
+        "evidence": "Original Kibble8954107625778 identifies exactIW324010.9originalfiles contact-inspected;full0front/5closedback/6openedclasp inspected. ActualblackArabic/date3,steelfivelinkbracelet,aircraftclosedback andIWC-signedfoldingclasp. Noactualopenedmovement. Backgroundbookcalibreillustrations2/3excluded,box/unsignedpapers4notfactoryidentity/dateproof. MakerexactpastcollectionIW324010 explicitly35111/36mm/10.6mm/50h/28800/25jewels/6bar/softironinnercase; specs attributednotmeasurement/currentperformance/resistanceproof. Seller10.5mm conflicts;prefermaker10.6mm attribution. SellerSW300-1A/163componentclaimnotadoptedassupplierexecution/partsequivalence. RecordedC35111 notautomaticallyequatedwith35111;checkactualmarking. Dealer2021/2023/warranty/model2016claimsnotindividualmanufacture/fullproductionintervalproof. Physicalbackserialnotretailreferenceproof;hardware/material/componentoriginality unresolved.",
+        "imageDimensions": {
+          "width": 1000,
+          "height": 1000
+        },
+        "imageSha256": "6fe222e98665881401cca4bc154f8ebd625cb2285796521ae31cbf7587bbf872"
+      }
+    },
+    {
+      "id": "queue-iw324010-kibble-braceletClasp",
+      "brand": "IWC",
+      "references": [
+        "IW324010"
+      ],
+      "representativeFor": [],
+      "variant": "Kibble8954107625778 black dial / steel five-link bracelet; source-attributed IW324010 specimen",
+      "category": "braceletClasp",
+      "depictsMovement": false,
+      "title": "IW324010 Pilot Automatic36 — braceletClasp",
+      "caption": "Actual IWC-signed folding clasp and five-link bracelet. Hardware material, factory originality and replacement history remain unverified.",
+      "image": "https://cdn.shopify.com/s/files/1/0270/0771/3366/files/7_996bafec-1dd4-4082-8e2e-81f483f530c8.jpg?v=1702562072",
+      "source": "https://kibblewatches.co.uk/products/2023-iwc-pilots-watch-36mm-automatic-on-bracelet-iw324010",
+      "credit": "Kibble Watches",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-15",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-15T08:50:01.844Z",
+        "loadedAt": "2026-10-15T08:50:01.844Z",
+        "evidence": "Original Kibble8954107625778 identifies exactIW324010.9originalfiles contact-inspected;full0front/5closedback/6openedclasp inspected. ActualblackArabic/date3,steelfivelinkbracelet,aircraftclosedback andIWC-signedfoldingclasp. Noactualopenedmovement. Backgroundbookcalibreillustrations2/3excluded,box/unsignedpapers4notfactoryidentity/dateproof. MakerexactpastcollectionIW324010 explicitly35111/36mm/10.6mm/50h/28800/25jewels/6bar/softironinnercase; specs attributednotmeasurement/currentperformance/resistanceproof. Seller10.5mm conflicts;prefermaker10.6mm attribution. SellerSW300-1A/163componentclaimnotadoptedassupplierexecution/partsequivalence. RecordedC35111 notautomaticallyequatedwith35111;checkactualmarking. Dealer2021/2023/warranty/model2016claimsnotindividualmanufacture/fullproductionintervalproof. Physicalbackserialnotretailreferenceproof;hardware/material/componentoriginality unresolved.",
+        "imageDimensions": {
+          "width": 1000,
+          "height": 1000
+        },
+        "imageSha256": "afe3cef2e7beda5e3d37c219c0284e335ed16c3356c5b1c594456345c056348a"
+      }
     }
   ]
 }
