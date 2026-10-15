@@ -1,0 +1,27 @@
+{
+  "reviewedAt": "2026-10-15T09:32:40.544Z",
+  "completion": "IN PROGRESS",
+  "request": "OMEGA|OMEGACONSTELLATION",
+  "sources": [
+    {
+      "id": "observatory2026",
+      "url": "https://press.omegawatches.com/the-constellation-observatory-the-first-two-hand-watch-to-achieve-master-chronometer-certification-fully-tested-at-the-laboratoire-de-precision/",
+      "status": 200,
+      "bytes": 91627,
+      "sha256": "34a3a224a60b6fb7baa31dce47f8798b88bffc3b2f712451e493138308306281",
+      "at": "2026-10-15T09:31:21.298Z"
+    }
+  ],
+  "evidence": "Original Omega26March2026 Constellation Observatory press record archivedHTTP200 andread:39.4mm,nine references,two8914/8915 executions. This disproves universal561 from collectionname,without assigning modern execution to unknown queuewatch. Recorded255411 does not establish exact case identity. Separate36mm8800 cachedwebtext readable butlocal404;notclaimedarchived. Noactualphotos accepted/inherited by broadname. Preserveall exactsource rules.",
+  "reviewedSourceRecords": [
+    "RULE:0005"
+  ],
+  "acceptedNewPhotos": 0,
+  "gaps": [
+    "Exact case reference and variant",
+    "Physical movement and precise execution",
+    "Individual date/material/component originality",
+    "All four photo categories for unknown individual"
+  ],
+  "queueStatus": "Keep open;observed255411 is not exact identity"
+}
