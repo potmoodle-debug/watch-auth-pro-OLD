@@ -33099,6 +33099,142 @@
         },
         "imageSha256": "36e7f40bac7ab44de992ba6c4cc06250a45c71dba6632723454fba7f2d2da4b9"
       }
+    },
+    {
+      "id": "queue-rolex1002-swe73449-front",
+      "brand": "ROLEX",
+      "references": [
+        "1002"
+      ],
+      "representativeFor": [
+        "1002"
+      ],
+      "variant": "SWE73449 white Roman dial / steel-index markers / Oyster bracelet; representative specimen, period originality unresolved",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "Oyster Perpetual1002 white Roman specimen — front",
+      "caption": "Actual white Roman dial with steel index markers, baton hands, smooth bezel and Oyster bracelet. Explicitly representative of SWE73449 only; factory dial, lume chemistry and period originality remain unverified.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/10/6/rolex-oyster-perpetual-white-dial-vintage-steel-mens-watch-1002-73449_1801a.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex-oyster-perpetual-white-dial-vintage-steel-mens-watch-1002-73449/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-15",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-15T09:16:06.229Z",
+        "loadedAt": "2026-10-15T09:16:06.229Z",
+        "evidence": "Original SWE73449 page and11source-associated files archived. All11contact-inspected;full2front/6case-reference/8openedmovement/9closedback-clasp/10bracelet inspected. Physicalcase1002;actualmovement gold-bordered1570 stamp/Rolex-signedrotor andbridge. White Roman dial with T SWISS T printing,steelindices,batonhands,smoothbezel,Oysterbracelet. No readable bracelet/endlink/clasp/date codes established. Labels/signatures do not prove lume chemistry,period,material or component originality. Seller1964-65 estimate/26jewels/34mm/timing/authenticity assertions not independent dating/measurement/performance proof; do not infer chronology or factory configuration from serial estimate. Physical1570 supports this specimen,not all historical1002 executions. No1560/1530/1520 equivalence. No silver/brick/black/otherdial inheritance. Fullproductioninterval,individualdate,service/replacement/refinishing history and factory hardware remain gaps.",
+        "imageDimensions": {
+          "width": 4220,
+          "height": 4220
+        },
+        "imageSha256": "f1a31eb73177005c517834d0b149c3dbf479a6f1f9ca7f7cc7b5282ce8af0859"
+      }
+    },
+    {
+      "id": "queue-rolex1002-swe73449-movement",
+      "brand": "ROLEX",
+      "references": [
+        "1002"
+      ],
+      "representativeFor": [
+        "1002"
+      ],
+      "variant": "SWE73449 white Roman dial / steel-index markers / Oyster bracelet; representative specimen, period originality unresolved",
+      "category": "movement",
+      "depictsMovement": true,
+      "title": "Oyster Perpetual1002 white Roman specimen — movement",
+      "caption": "Actual opened movement with readable1570 stamp and Rolex-signed rotor/bridge. This supports the photographed specimen’s calibre marking, not the authenticity or originality of every component or all historical1002 executions.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/10/6/rolex-oyster-perpetual-white-dial-vintage-steel-mens-watch-1002-73449_09ec3.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex-oyster-perpetual-white-dial-vintage-steel-mens-watch-1002-73449/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-15",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-15T09:16:06.229Z",
+        "loadedAt": "2026-10-15T09:16:06.229Z",
+        "evidence": "Original SWE73449 page and11source-associated files archived. All11contact-inspected;full2front/6case-reference/8openedmovement/9closedback-clasp/10bracelet inspected. Physicalcase1002;actualmovement gold-bordered1570 stamp/Rolex-signedrotor andbridge. White Roman dial with T SWISS T printing,steelindices,batonhands,smoothbezel,Oysterbracelet. No readable bracelet/endlink/clasp/date codes established. Labels/signatures do not prove lume chemistry,period,material or component originality. Seller1964-65 estimate/26jewels/34mm/timing/authenticity assertions not independent dating/measurement/performance proof; do not infer chronology or factory configuration from serial estimate. Physical1570 supports this specimen,not all historical1002 executions. No1560/1530/1520 equivalence. No silver/brick/black/otherdial inheritance. Fullproductioninterval,individualdate,service/replacement/refinishing history and factory hardware remain gaps.",
+        "imageDimensions": {
+          "width": 2042,
+          "height": 2042
+        },
+        "imageSha256": "c816bd50312131a2c94a49809fd3b37d0951cd02bc7955eac95fb014d13ca929"
+      }
+    },
+    {
+      "id": "queue-rolex1002-swe73449-caseback",
+      "brand": "ROLEX",
+      "references": [
+        "1002"
+      ],
+      "representativeFor": [
+        "1002"
+      ],
+      "variant": "SWE73449 white Roman dial / steel-index markers / Oyster bracelet; representative specimen, period originality unresolved",
+      "category": "caseback",
+      "depictsMovement": false,
+      "title": "Oyster Perpetual1002 white Roman specimen — caseback",
+      "caption": "Actual closed unengraved-looking exterior back and closed folding clasp. No readable bracelet or date codes established. Exterior appearance does not establish factory configuration or individual manufacture date.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/10/6/rolex-oyster-perpetual-white-dial-vintage-steel-mens-watch-1002-73449_044a6.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex-oyster-perpetual-white-dial-vintage-steel-mens-watch-1002-73449/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-15",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-15T09:16:06.229Z",
+        "loadedAt": "2026-10-15T09:16:06.229Z",
+        "evidence": "Original SWE73449 page and11source-associated files archived. All11contact-inspected;full2front/6case-reference/8openedmovement/9closedback-clasp/10bracelet inspected. Physicalcase1002;actualmovement gold-bordered1570 stamp/Rolex-signedrotor andbridge. White Roman dial with T SWISS T printing,steelindices,batonhands,smoothbezel,Oysterbracelet. No readable bracelet/endlink/clasp/date codes established. Labels/signatures do not prove lume chemistry,period,material or component originality. Seller1964-65 estimate/26jewels/34mm/timing/authenticity assertions not independent dating/measurement/performance proof; do not infer chronology or factory configuration from serial estimate. Physical1570 supports this specimen,not all historical1002 executions. No1560/1530/1520 equivalence. No silver/brick/black/otherdial inheritance. Fullproductioninterval,individualdate,service/replacement/refinishing history and factory hardware remain gaps.",
+        "imageDimensions": {
+          "width": 3257,
+          "height": 3257
+        },
+        "imageSha256": "2ef7f2a7015c321888b4a79138b4ee6742a03cd9b76aee14dcdf7ee5f1dae5e9"
+      }
+    },
+    {
+      "id": "queue-rolex1002-swe73449-braceletClasp",
+      "brand": "ROLEX",
+      "references": [
+        "1002"
+      ],
+      "representativeFor": [
+        "1002"
+      ],
+      "variant": "SWE73449 white Roman dial / steel-index markers / Oyster bracelet; representative specimen, period originality unresolved",
+      "category": "braceletClasp",
+      "depictsMovement": false,
+      "title": "Oyster Perpetual1002 white Roman specimen — braceletClasp",
+      "caption": "Actual Oyster-style bracelet and coronet-marked folding clasp, shown with ruler. Bracelet/endlink/clasp codes, material and factory period correctness remain unverified.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/10/6/rolex-oyster-perpetual-white-dial-vintage-steel-mens-watch-1002-73449_1ecfb.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex-oyster-perpetual-white-dial-vintage-steel-mens-watch-1002-73449/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-15",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-15T09:16:06.229Z",
+        "loadedAt": "2026-10-15T09:16:06.229Z",
+        "evidence": "Original SWE73449 page and11source-associated files archived. All11contact-inspected;full2front/6case-reference/8openedmovement/9closedback-clasp/10bracelet inspected. Physicalcase1002;actualmovement gold-bordered1570 stamp/Rolex-signedrotor andbridge. White Roman dial with T SWISS T printing,steelindices,batonhands,smoothbezel,Oysterbracelet. No readable bracelet/endlink/clasp/date codes established. Labels/signatures do not prove lume chemistry,period,material or component originality. Seller1964-65 estimate/26jewels/34mm/timing/authenticity assertions not independent dating/measurement/performance proof; do not infer chronology or factory configuration from serial estimate. Physical1570 supports this specimen,not all historical1002 executions. No1560/1530/1520 equivalence. No silver/brick/black/otherdial inheritance. Fullproductioninterval,individualdate,service/replacement/refinishing history and factory hardware remain gaps.",
+        "imageDimensions": {
+          "width": 3546,
+          "height": 3546
+        },
+        "imageSha256": "5f9028871e028c1da8106135870fb170614defef3994cbaea8069db3617cd3b8"
+      }
     }
   ]
 }
