@@ -1,0 +1,37 @@
+{
+  "reviewedAt": "2026-10-19T11:09:41.213Z",
+  "completion": "IN PROGRESS",
+  "reference": "W69012Z4",
+  "source": "https://davidsw.com/shop/watch/cartier/cartier-w69012z4-ballon-bleu-de-cartier-automatic/",
+  "sourceHtmlSha256": "22d8a2e61a942c1c0f2f2ed4be7a08f9845335fd762983566dfa9ba586a80cf4",
+  "images": [
+    {
+      "i": 0,
+      "image": "https://davidsw.com/wp-content/uploads/2022/03/IMG_2631.jpg",
+      "file": "0.jpg",
+      "sha256": "618b1e80c54f8e93ac6704a137840fb1a095396c657fb7c975ab204ac33ce5ad",
+      "width": 900,
+      "height": 900
+    },
+    {
+      "i": 3,
+      "image": "https://davidsw.com/wp-content/uploads/2022/03/IMG_2638.jpg",
+      "file": "3.jpg",
+      "sha256": "2687ba1ef8de05f9078d7027bbc95773e2f2af1afa59eddf4f8723da9206b0da",
+      "width": 900,
+      "height": 900
+    },
+    {
+      "i": 8,
+      "image": "https://davidsw.com/wp-content/uploads/2022/03/IMG_2634.jpg",
+      "file": "8.jpg",
+      "sha256": "c74c3c4cf3aed86be8b0dcaa43dd8bec88af00cffc042e7d292c1e9a03627b9f",
+      "width": 900,
+      "height": 900
+    }
+  ],
+  "galleryEntries": 3,
+  "distinctFiles": 3,
+  "evidence": "Original DavidSW SKU40994 exact W69012Z4 listing and nine product-gallery data-large_image files archived; unrelated recommendation and marketing images excluded. All nine contact-inspected, full0front/3closedback/8bracelet-clasp inspected. Silver guilloche Roman dial, blue-looking sword hands, date at three, protected blue cabochon and steel-looking bracelet visible. Dealer attributes049 automatic,42mm,42hourreserve,September2011 and30m. No opened movement, physical049 stamp or independently readable retail reference established. Cartier exact India URL returns404; no manufacturer movement specification claimed. Back inscriptions support observed markings only; no3001/3765 or other case-code alias inferred. Material,stoneidentity,manufacturedate,fullperiod,waterresistance,service and component originality unverified; no1847MC/076/ETA2892/SW300 equivalence.",
+  "queueStatus": "Pending publication/liveverification before resolving lookup-only request; physical execution remains unconfirmed."
+}
