@@ -33569,6 +33569,142 @@
         },
         "imageSha256": "18ebca815d32af2c49836c54bbdf7ec2d90d945409baf7bc0afe98369cc8f9bb"
       }
+    },
+    {
+      "id": "queue-rolex169622-swe23835-front",
+      "brand": "ROLEX",
+      "references": [
+        "169622"
+      ],
+      "representativeFor": [
+        "169622"
+      ],
+      "variant": "SWE URL23835/stock23749 silver textured dial / red seconds / Oyster bracelet; representative specimen",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "Yacht-Master169622 source specimen — front",
+      "caption": "Actual silver textured Yacht-Master dial with red seconds,Mercedes-style hour hand,date magnifier and raised-numeral bezel. Dealer platinum/luminova attributes do not establish metal assay,lume chemistry or original factory parts.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/169/23835/rolex-yachtmaster-29-red-hand-steel-platinum-ladies-watch-169622-box-269904_b.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex/ladies-rolex/yachtmaster/yachtmaster-29-red-hand-steel-platinum-ladies-169622-box-23835/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-19",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-19T10:50:33.289Z",
+        "loadedAt": "2026-10-19T10:50:33.289Z",
+        "evidence": "Original SWE URL23835 page actually lists stock23749. Archived page and11source-associated productphotos from/169/23835/;3recommendation thumbnails for otherstock excluded. All11contact-inspected, full0front/5physicalcase/7openedmovement/8closedback-clasp/9bracelet inspected. Readable169622case and2235movement stamps. Silver textured dial,redseconds,raisednumeral timingbezel,Oysterbracelet andcoronetclasp. Dealer2000-01 estimate/29mm/31jewels/platinumdial-bezel/luminova/timing/authentication claims attributed,not independentdate/assay/lume/performanceproof. Dealerunidirectional-bezel wording not adopted without primary confirmation. No establishedclaspdate/endlinkcode,factorypartsoriginality or fullproductioninterval. No168622/16622/116622/268622/2230/2236/3135 equivalence.",
+        "imageDimensions": {
+          "width": 1024,
+          "height": 1024
+        },
+        "imageSha256": "3e1e4f36ef90e5f7f39a4bd3346c00950a6d1b7cb1bb7bba28109d2fa975bcea"
+      }
+    },
+    {
+      "id": "queue-rolex169622-swe23835-movement",
+      "brand": "ROLEX",
+      "references": [
+        "169622"
+      ],
+      "representativeFor": [
+        "169622"
+      ],
+      "variant": "SWE URL23835/stock23749 silver textured dial / red seconds / Oyster bracelet; representative specimen",
+      "category": "movement",
+      "depictsMovement": true,
+      "title": "Yacht-Master169622 source specimen — movement",
+      "caption": "Actual opened Rolex-signed automatic movement with readable2235 calibre stamp. Supports this specimen marking only; service history and component originality remain unverified.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/169/23835/rolex-yachtmaster-29-red-hand-steel-platinum-ladies-watch-169622-box-269907_b.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex/ladies-rolex/yachtmaster/yachtmaster-29-red-hand-steel-platinum-ladies-169622-box-23835/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-19",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-19T10:50:33.289Z",
+        "loadedAt": "2026-10-19T10:50:33.289Z",
+        "evidence": "Original SWE URL23835 page actually lists stock23749. Archived page and11source-associated productphotos from/169/23835/;3recommendation thumbnails for otherstock excluded. All11contact-inspected, full0front/5physicalcase/7openedmovement/8closedback-clasp/9bracelet inspected. Readable169622case and2235movement stamps. Silver textured dial,redseconds,raisednumeral timingbezel,Oysterbracelet andcoronetclasp. Dealer2000-01 estimate/29mm/31jewels/platinumdial-bezel/luminova/timing/authentication claims attributed,not independentdate/assay/lume/performanceproof. Dealerunidirectional-bezel wording not adopted without primary confirmation. No establishedclaspdate/endlinkcode,factorypartsoriginality or fullproductioninterval. No168622/16622/116622/268622/2230/2236/3135 equivalence.",
+        "imageDimensions": {
+          "width": 1024,
+          "height": 1024
+        },
+        "imageSha256": "43c75eab69ac88c01489e6a02b3e9c919e7cd520fbbb226c81a05458347619c4"
+      }
+    },
+    {
+      "id": "queue-rolex169622-swe23835-caseback",
+      "brand": "ROLEX",
+      "references": [
+        "169622"
+      ],
+      "representativeFor": [
+        "169622"
+      ],
+      "variant": "SWE URL23835/stock23749 silver textured dial / red seconds / Oyster bracelet; representative specimen",
+      "category": "caseback",
+      "depictsMovement": false,
+      "title": "Yacht-Master169622 source specimen — caseback",
+      "caption": "Actual closed unengraved-looking caseback with Oyster bracelet and coronet-marked folding clasp. Partly visible bracelet stamp is not adopted as a confirmed bracelet/endlink/date code.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/169/23835/rolex-yachtmaster-29-red-hand-steel-platinum-ladies-watch-169622-box-269903_b.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex/ladies-rolex/yachtmaster/yachtmaster-29-red-hand-steel-platinum-ladies-169622-box-23835/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-19",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-19T10:50:33.289Z",
+        "loadedAt": "2026-10-19T10:50:33.289Z",
+        "evidence": "Original SWE URL23835 page actually lists stock23749. Archived page and11source-associated productphotos from/169/23835/;3recommendation thumbnails for otherstock excluded. All11contact-inspected, full0front/5physicalcase/7openedmovement/8closedback-clasp/9bracelet inspected. Readable169622case and2235movement stamps. Silver textured dial,redseconds,raisednumeral timingbezel,Oysterbracelet andcoronetclasp. Dealer2000-01 estimate/29mm/31jewels/platinumdial-bezel/luminova/timing/authentication claims attributed,not independentdate/assay/lume/performanceproof. Dealerunidirectional-bezel wording not adopted without primary confirmation. No establishedclaspdate/endlinkcode,factorypartsoriginality or fullproductioninterval. No168622/16622/116622/268622/2230/2236/3135 equivalence.",
+        "imageDimensions": {
+          "width": 1024,
+          "height": 1024
+        },
+        "imageSha256": "1a36008bcfda38ce919ef00997fbaf9671845dcec12595fc972b5a51d7bd438a"
+      }
+    },
+    {
+      "id": "queue-rolex169622-swe23835-braceletClasp",
+      "brand": "ROLEX",
+      "references": [
+        "169622"
+      ],
+      "representativeFor": [
+        "169622"
+      ],
+      "variant": "SWE URL23835/stock23749 silver textured dial / red seconds / Oyster bracelet; representative specimen",
+      "category": "braceletClasp",
+      "depictsMovement": false,
+      "title": "Yacht-Master169622 source specimen — braceletClasp",
+      "caption": "Actual Oyster bracelet and folding clasp laid beside ruler. This is the photographed specimen configuration,not independent measurement or proof of correct factory hardware for every169622.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/169/23835/rolex-yachtmaster-29-red-hand-steel-platinum-ladies-watch-169622-box-269908_b.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex/ladies-rolex/yachtmaster/yachtmaster-29-red-hand-steel-platinum-ladies-169622-box-23835/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-19",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-19T10:50:33.289Z",
+        "loadedAt": "2026-10-19T10:50:33.289Z",
+        "evidence": "Original SWE URL23835 page actually lists stock23749. Archived page and11source-associated productphotos from/169/23835/;3recommendation thumbnails for otherstock excluded. All11contact-inspected, full0front/5physicalcase/7openedmovement/8closedback-clasp/9bracelet inspected. Readable169622case and2235movement stamps. Silver textured dial,redseconds,raisednumeral timingbezel,Oysterbracelet andcoronetclasp. Dealer2000-01 estimate/29mm/31jewels/platinumdial-bezel/luminova/timing/authentication claims attributed,not independentdate/assay/lume/performanceproof. Dealerunidirectional-bezel wording not adopted without primary confirmation. No establishedclaspdate/endlinkcode,factorypartsoriginality or fullproductioninterval. No168622/16622/116622/268622/2230/2236/3135 equivalence.",
+        "imageDimensions": {
+          "width": 1024,
+          "height": 1024
+        },
+        "imageSha256": "a30d049d4dcb3ac6ead78e10427e5eff4d10335ef40b46d97c67363e6261528e"
+      }
     }
   ]
 }

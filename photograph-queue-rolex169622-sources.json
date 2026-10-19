@@ -1,0 +1,54 @@
+{
+  "reviewedAt": "2026-10-19T10:50:33.289Z",
+  "completion": "IN PROGRESS",
+  "reference": "169622",
+  "source": "https://www.swisswatchexpo.com/watches/rolex/ladies-rolex/yachtmaster/yachtmaster-29-red-hand-steel-platinum-ladies-169622-box-23835/",
+  "actualPageStock": "23749",
+  "sourceHtmlSha256": "21743b700f49adc9ad9ea87d278214ed959dc093f1b8ba449b68d956ebf392ef",
+  "images": [
+    {
+      "i": 0,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/169/23835/rolex-yachtmaster-29-red-hand-steel-platinum-ladies-watch-169622-box-269904_b.jpg",
+      "file": "0.jpg",
+      "sha256": "3e1e4f36ef90e5f7f39a4bd3346c00950a6d1b7cb1bb7bba28109d2fa975bcea",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "i": 5,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/169/23835/rolex-yachtmaster-29-red-hand-steel-platinum-ladies-watch-169622-box-269899_b.jpg",
+      "file": "5.jpg",
+      "sha256": "221cdcf801c4bcff6575410af3f2ce274b511f4de8510f4711c478be9c6e03b9",
+      "width": 889,
+      "height": 889
+    },
+    {
+      "i": 7,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/169/23835/rolex-yachtmaster-29-red-hand-steel-platinum-ladies-watch-169622-box-269907_b.jpg",
+      "file": "7.jpg",
+      "sha256": "43c75eab69ac88c01489e6a02b3e9c919e7cd520fbbb226c81a05458347619c4",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "i": 8,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/169/23835/rolex-yachtmaster-29-red-hand-steel-platinum-ladies-watch-169622-box-269903_b.jpg",
+      "file": "8.jpg",
+      "sha256": "1a36008bcfda38ce919ef00997fbaf9671845dcec12595fc972b5a51d7bd438a",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "i": 9,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/169/23835/rolex-yachtmaster-29-red-hand-steel-platinum-ladies-watch-169622-box-269908_b.jpg",
+      "file": "9.jpg",
+      "sha256": "a30d049d4dcb3ac6ead78e10427e5eff4d10335ef40b46d97c67363e6261528e",
+      "width": 1024,
+      "height": 1024
+    }
+  ],
+  "galleryEntries": 4,
+  "distinctFiles": 4,
+  "evidence": "Original SWE URL23835 page actually lists stock23749. Archived page and11source-associated productphotos from/169/23835/;3recommendation thumbnails for otherstock excluded. All11contact-inspected, full0front/5physicalcase/7openedmovement/8closedback-clasp/9bracelet inspected. Readable169622case and2235movement stamps. Silver textured dial,redseconds,raisednumeral timingbezel,Oysterbracelet andcoronetclasp. Dealer2000-01 estimate/29mm/31jewels/platinumdial-bezel/luminova/timing/authentication claims attributed,not independentdate/assay/lume/performanceproof. Dealerunidirectional-bezel wording not adopted without primary confirmation. No establishedclaspdate/endlinkcode,factorypartsoriginality or fullproductioninterval. No168622/16622/116622/268622/2230/2236/3135 equivalence.",
+  "queueStatus": "Pending publication/liveverification before resolving lookup-only request; individual watch limits remain."
+}
