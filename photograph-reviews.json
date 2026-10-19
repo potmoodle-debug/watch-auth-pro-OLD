@@ -10400,6 +10400,32 @@
           "finding": "Unidentified collection request; no supported actual photo category until exact case identity established."
         }
       }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "1003",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-19T10:33:39.896Z",
+          "evidence": "Original SWE32940 source page archived. All12source-associated files contact-inspected (0/1 duplicate); full0front,6case-reference,8openedmovement,9closedback/buckle,11strap/back inspected. Physical case1003 and movement1570 markings readable. Silver baton dial, T SWISS T printing, engine-turned-looking bezel, brown stitched strap and unsigned-looking tang buckle. No independent manufacture date, lume chemistry, material assay, factory strap/buckle originality or service history established. Seller1967-68 estimate/34mm/26jewels/timing/authentication claims are attributed, not independent proof. No1560/1530/1520 equivalence or universal1003 production-period assertion.",
+          "finding": "Representative source specimen inspected; period/date/material/parts originality remain research gaps."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-19T10:33:39.896Z",
+          "evidence": "Original SWE32940 source page archived. All12source-associated files contact-inspected (0/1 duplicate); full0front,6case-reference,8openedmovement,9closedback/buckle,11strap/back inspected. Physical case1003 and movement1570 markings readable. Silver baton dial, T SWISS T printing, engine-turned-looking bezel, brown stitched strap and unsigned-looking tang buckle. No independent manufacture date, lume chemistry, material assay, factory strap/buckle originality or service history established. Seller1967-68 estimate/34mm/26jewels/timing/authentication claims are attributed, not independent proof. No1560/1530/1520 equivalence or universal1003 production-period assertion.",
+          "finding": "Representative source specimen inspected; period/date/material/parts originality remain research gaps."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-19T10:33:39.896Z",
+          "evidence": "Original SWE32940 source page archived. All12source-associated files contact-inspected (0/1 duplicate); full0front,6case-reference,8openedmovement,9closedback/buckle,11strap/back inspected. Physical case1003 and movement1570 markings readable. Silver baton dial, T SWISS T printing, engine-turned-looking bezel, brown stitched strap and unsigned-looking tang buckle. No independent manufacture date, lume chemistry, material assay, factory strap/buckle originality or service history established. Seller1967-68 estimate/34mm/26jewels/timing/authentication claims are attributed, not independent proof. No1560/1530/1520 equivalence or universal1003 production-period assertion.",
+          "finding": "Representative source specimen inspected; period/date/material/parts originality remain research gaps."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-19T10:33:39.896Z",
+          "evidence": "Original SWE32940 source page archived. All12source-associated files contact-inspected (0/1 duplicate); full0front,6case-reference,8openedmovement,9closedback/buckle,11strap/back inspected. Physical case1003 and movement1570 markings readable. Silver baton dial, T SWISS T printing, engine-turned-looking bezel, brown stitched strap and unsigned-looking tang buckle. No independent manufacture date, lume chemistry, material assay, factory strap/buckle originality or service history established. Seller1967-68 estimate/34mm/26jewels/timing/authentication claims are attributed, not independent proof. No1560/1530/1520 equivalence or universal1003 production-period assertion.",
+          "finding": "Representative source specimen inspected; period/date/material/parts originality remain research gaps."
+        }
+      }
     }
   ],
   "sourceRecordReviews": [
@@ -11953,6 +11979,11 @@
       "id": "RULE:0005",
       "reviewedAt": "2026-10-15T09:32:40.544Z",
       "evidence": "Original Omega26March2026 Constellation Observatory press record archivedHTTP200 andread:39.4mm,nine references,two8914/8915 executions. This disproves universal561 from collectionname,without assigning modern execution to unknown queuewatch. Recorded255411 does not establish exact case identity. Separate36mm8800 cachedwebtext readable butlocal404;notclaimedarchived. Noactualphotos accepted/inherited by broadname. Preserveall exactsource rules."
+    },
+    {
+      "id": "UPDATE:ROLEX|1003",
+      "reviewedAt": "2026-10-19T10:33:39.896Z",
+      "evidence": "Original SWE32940 source page archived. All12source-associated files contact-inspected (0/1 duplicate); full0front,6case-reference,8openedmovement,9closedback/buckle,11strap/back inspected. Physical case1003 and movement1570 markings readable. Silver baton dial, T SWISS T printing, engine-turned-looking bezel, brown stitched strap and unsigned-looking tang buckle. No independent manufacture date, lume chemistry, material assay, factory strap/buckle originality or service history established. Seller1967-68 estimate/34mm/26jewels/timing/authentication claims are attributed, not independent proof. No1560/1530/1520 equivalence or universal1003 production-period assertion."
     }
   ]
 }

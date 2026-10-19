@@ -1,0 +1,53 @@
+{
+  "reviewedAt": "2026-10-19T10:33:39.896Z",
+  "completion": "IN PROGRESS",
+  "reference": "1003",
+  "source": "https://www.swisswatchexpo.com/watches/rolex-oyster-perpetual-silver-dial-vintage-steel-mens-watch-1003-32940/",
+  "sourceHtmlSha256": "28a7f3518433910df5ea3207e6a9803f2e4408aa8b846ad62b0609fefd29037d",
+  "images": [
+    {
+      "i": 0,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/8/3/rolex-oyster-perpetual-silver-dial-vintage-steel-mens-watch-1003-32940_a535a.jpg",
+      "file": "0.jpg",
+      "sha256": "80ba0dbc55a62b06d64601f20d1e8ce051c6acff306cfd9255cbe1f87f388085",
+      "width": 2459,
+      "height": 2459
+    },
+    {
+      "i": 6,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/8/3/rolex-oyster-perpetual-silver-dial-vintage-steel-mens-watch-1003-32940_cf965.jpg",
+      "file": "6.jpg",
+      "sha256": "503780a8a8e4a2160790f0353ff34394929e29b79c9d34ee0a809a4d5616cd98",
+      "width": 1053,
+      "height": 1053
+    },
+    {
+      "i": 8,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/8/3/rolex-oyster-perpetual-silver-dial-vintage-steel-mens-watch-1003-32940_3ee5d.jpg",
+      "file": "8.jpg",
+      "sha256": "d089d071499213ff9d5087e758d7f4443804701a3ed906867452cc505c93f33b",
+      "width": 2241,
+      "height": 2241
+    },
+    {
+      "i": 9,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/8/3/rolex-oyster-perpetual-silver-dial-vintage-steel-mens-watch-1003-32940_d777c.jpg",
+      "file": "9.jpg",
+      "sha256": "3eefd92ffd0739204ffe983f64d8d850e61e431410637a283993e79245cbeca3",
+      "width": 2925,
+      "height": 2925
+    },
+    {
+      "i": 11,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/8/3/rolex-oyster-perpetual-silver-dial-vintage-steel-mens-watch-1003-32940_593da.jpg",
+      "file": "11.jpg",
+      "sha256": "546352156a7aa0eff3035bdf01749643352a8b212a1d872878b0e17113bb0778",
+      "width": 4837,
+      "height": 4837
+    }
+  ],
+  "galleryEntries": 4,
+  "distinctFiles": 4,
+  "evidence": "Original SWE32940 source page archived. All12source-associated files contact-inspected (0/1 duplicate); full0front,6case-reference,8openedmovement,9closedback/buckle,11strap/back inspected. Physical case1003 and movement1570 markings readable. Silver baton dial, T SWISS T printing, engine-turned-looking bezel, brown stitched strap and unsigned-looking tang buckle. No independent manufacture date, lume chemistry, material assay, factory strap/buckle originality or service history established. Seller1967-68 estimate/34mm/26jewels/timing/authentication claims are attributed, not independent proof. No1560/1530/1520 equivalence or universal1003 production-period assertion.",
+  "queueStatus": "Do not resolve until published and live verified; then resolve lookup-only request, keeping original question."
+}
