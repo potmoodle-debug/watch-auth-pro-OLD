@@ -1,0 +1,36 @@
+{
+  "reviewedAt": "2026-10-19T11:29:45.434Z",
+  "completion": "IN PROGRESS",
+  "reference": "L3.812.4",
+  "source": "https://delraywatch.com/longines-spirit-zulu-time-l3-812-4-inventory-7154/",
+  "maker": "https://www.longines.com/en-us/p/watch-longines-spirit-zulu-time-l3-812-4-53-2",
+  "evidence": "Original DelrayWatch inventory7154 identifies L3.812.4; eight source-associated gallery files contact-inspected and full-size0/5/6 inspected. Closed caseback physically reads L3.812.4, ALL STAINLESS STEEL,10bar(100meter),SPIRIT/ZULU TIME with globe motif and six screws. Serial source-pixelated. Black Arabic dial, blue GMT arrow, date6, black24h bezel, brown contrast-stitched strap and signed folding clasp. Dealer specifies automatic,42mm,used calf strap but no full suffix or precise calibre. Original Longines .53.2 and .53.6 per-product technical payloads explicitly name L844.4; this is manufacturer attribution, not physical execution proof. Exact source specimen full suffix and factory strap originality remain unknown. No opened movement view; no neighbouring reference or calibre equivalence.",
+  "images": [
+    {
+      "i": 0,
+      "url": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/8546/58367/7154_1__31667.1746044982.jpg?c=2",
+      "status": 200,
+      "bytes": 499629
+    },
+    {
+      "i": 5,
+      "url": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/8546/58369/7154_7__66448.1746044982.jpg?c=2",
+      "status": 200,
+      "bytes": 433237
+    },
+    {
+      "i": 6,
+      "url": "https://cdn11.bigcommerce.com/s-bpf02c8y86/images/stencil/4000x4000/products/8546/58371/7154_6__53341.1746044982.jpg?c=2",
+      "status": 200,
+      "bytes": 356993
+    }
+  ],
+  "gaps": [
+    "Opened movement and physical L844.4 execution",
+    "Full specimen suffix",
+    "Factory strap and clasp originality",
+    "Individual manufacture date and full production interval",
+    "Actual photos for exact .53.2/.53.6"
+  ],
+  "queueStatus": "Open pending tested publication and live verification"
+}
