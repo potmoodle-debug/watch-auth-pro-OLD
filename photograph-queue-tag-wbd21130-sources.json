@@ -1,0 +1,59 @@
+{
+  "reviewedAt": "2026-10-19T15:26:36.767Z",
+  "completion": "IN PROGRESS",
+  "source": "https://www.grayandsons.com/w529323-tag-heuer-calibre-41mm-wbd2113-0/",
+  "maker": "https://www.tagheuer.com/au/en/timepieces/collections/tag-heuer-aquaracer/41-mm-calibre-5-automatic/WBD2113.BA0928.html",
+  "evidence": "Original Gray&Sons W529323 explicitly identifies WBD2113-0,grey horizontal dial,automatic41mm steel/bracelet. Four actual watch gallery frames and generic box contact-inspected; original front and full clasp2/closedback3 inspected. Dealer attribution links exact -0; no readable independent case-reference engraving claimed. Front yellow CALIBRE5 print/seconds tip,date3/cyclops,steel minute bezel. Back diver helmet,automatic300m legends; no opened movement. Clasp underside TAGHeuer/STAINLESS STEEL/FAA084/MK-E3 specimen markings only,not factory dating. Official exact WBD2113.BA0928 web-reader technical record attributes Calibre5,38h,28800vph,41mm,11.97mm,20.50mm lugs,300m,steel/grey. Shell makerHTTP200 is challenge only,not technical evidence archive. Dealer20mm vs maker20.50mm lugs discrepancy retained. Full BA0928 hardware,physical movement execution,individual date/material assay/originality unverified. No suffix dropping or ETA2824/SW200 equivalence.",
+  "sources": [
+    {
+      "id": "gray529323",
+      "url": "https://www.grayandsons.com/w529323-tag-heuer-calibre-41mm-wbd2113-0/",
+      "finalUrl": "https://www.grayandsons.com/w529323-tag-heuer-calibre-41mm-wbd2113-0/",
+      "status": 200,
+      "sha256": "97bfd8820f996cfa3267b684e47009ec9bf9c9d9e512cb0d259426acf2a6a3b2"
+    },
+    {
+      "id": "maker",
+      "url": "https://www.tagheuer.com/au/en/timepieces/collections/tag-heuer-aquaracer/41-mm-calibre-5-automatic/WBD2113.BA0928.html",
+      "finalUrl": "https://www.tagheuer.com/au/en/timepieces/collections/tag-heuer-aquaracer/41-mm-calibre-5-automatic/WBD2113.BA0928.html",
+      "status": 200,
+      "sha256": "a886b7f0b0b6545d782611f0fb024bbcf3e343581ced320c6d6f016d8af51100"
+    }
+  ],
+  "makerArchiveLimitation": "Raw maker HTTP200 is2497-byte challenge,not technical product record. Technical attribution obtained separately from official-page web reader.",
+  "images": [
+    {
+      "i": 0,
+      "url": "https://cdn.grayandsons.com/o/tag_heuer_calibre_41mm_wbd2113_0_w529323_ae759cb262.jpg",
+      "status": 200,
+      "bytes": 1236157,
+      "sha256": "d67d5e6b271a6dbb392ad69770920ae098bc6e9fe3a31245ce653becb61dcb8d"
+    },
+    {
+      "i": 2,
+      "url": "https://cdn.grayandsons.com/s/tag_heuer_calibre_41mm_wbd2113_0_w529323b_0acec8b1d8-w1280.jpg.auto",
+      "status": 200,
+      "bytes": 160405,
+      "sha256": "ad858292da09d80178a286ad1239961aacc23ea7992bac87dc66f67ff4d54083",
+      "width": 1147,
+      "height": 1280
+    },
+    {
+      "i": 3,
+      "url": "https://cdn.grayandsons.com/s/tag_heuer_calibre_41mm_wbd2113_0_w529323c_205f58cddf-w1280.jpg.auto",
+      "status": 200,
+      "bytes": 104769,
+      "sha256": "688c3cffd05feb42b7e282961614bb4da67897c72d6d6e8e65d9726f301e4ace",
+      "width": 1280,
+      "height": 1145
+    }
+  ],
+  "gaps": [
+    "Opened movement/underlying execution",
+    "Full hardware suffix",
+    "Independent readable case reference",
+    "Lug measurement discrepancy",
+    "Individual manufacture/full interval/originality"
+  ],
+  "queueStatus": "Open pending tested publication/live verification"
+}

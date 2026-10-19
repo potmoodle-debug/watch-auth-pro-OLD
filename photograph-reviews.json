@@ -10634,6 +10634,32 @@
           "finding": "No actual specimen photo proven for this exact full suffix."
         }
       }
+    },
+    {
+      "brand": "TAGHEUER",
+      "reference": "WBD2113-0",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-19T15:26:36.767Z",
+          "evidence": "Original Gray&Sons W529323 explicitly identifies WBD2113-0,grey horizontal dial,automatic41mm steel/bracelet. Four actual watch gallery frames and generic box contact-inspected; original front and full clasp2/closedback3 inspected. Dealer attribution links exact -0; no readable independent case-reference engraving claimed. Front yellow CALIBRE5 print/seconds tip,date3/cyclops,steel minute bezel. Back diver helmet,automatic300m legends; no opened movement. Clasp underside TAGHeuer/STAINLESS STEEL/FAA084/MK-E3 specimen markings only,not factory dating. Official exact WBD2113.BA0928 web-reader technical record attributes Calibre5,38h,28800vph,41mm,11.97mm,20.50mm lugs,300m,steel/grey. Shell makerHTTP200 is challenge only,not technical evidence archive. Dealer20mm vs maker20.50mm lugs discrepancy retained. Full BA0928 hardware,physical movement execution,individual date/material assay/originality unverified. No suffix dropping or ETA2824/SW200 equivalence.",
+          "finding": "Actual dealer-attributed -0 specimen; full hardware suffix/date/originality unverified."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-19T15:26:36.767Z",
+          "evidence": "Original Gray&Sons W529323 explicitly identifies WBD2113-0,grey horizontal dial,automatic41mm steel/bracelet. Four actual watch gallery frames and generic box contact-inspected; original front and full clasp2/closedback3 inspected. Dealer attribution links exact -0; no readable independent case-reference engraving claimed. Front yellow CALIBRE5 print/seconds tip,date3/cyclops,steel minute bezel. Back diver helmet,automatic300m legends; no opened movement. Clasp underside TAGHeuer/STAINLESS STEEL/FAA084/MK-E3 specimen markings only,not factory dating. Official exact WBD2113.BA0928 web-reader technical record attributes Calibre5,38h,28800vph,41mm,11.97mm,20.50mm lugs,300m,steel/grey. Shell makerHTTP200 is challenge only,not technical evidence archive. Dealer20mm vs maker20.50mm lugs discrepancy retained. Full BA0928 hardware,physical movement execution,individual date/material assay/originality unverified. No suffix dropping or ETA2824/SW200 equivalence.",
+          "finding": "No actual opened movement; execution gap remains."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-19T15:26:36.767Z",
+          "evidence": "Original Gray&Sons W529323 explicitly identifies WBD2113-0,grey horizontal dial,automatic41mm steel/bracelet. Four actual watch gallery frames and generic box contact-inspected; original front and full clasp2/closedback3 inspected. Dealer attribution links exact -0; no readable independent case-reference engraving claimed. Front yellow CALIBRE5 print/seconds tip,date3/cyclops,steel minute bezel. Back diver helmet,automatic300m legends; no opened movement. Clasp underside TAGHeuer/STAINLESS STEEL/FAA084/MK-E3 specimen markings only,not factory dating. Official exact WBD2113.BA0928 web-reader technical record attributes Calibre5,38h,28800vph,41mm,11.97mm,20.50mm lugs,300m,steel/grey. Shell makerHTTP200 is challenge only,not technical evidence archive. Dealer20mm vs maker20.50mm lugs discrepancy retained. Full BA0928 hardware,physical movement execution,individual date/material assay/originality unverified. No suffix dropping or ETA2824/SW200 equivalence.",
+          "finding": "Actual dealer-attributed -0 specimen; full hardware suffix/date/originality unverified."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-19T15:26:36.767Z",
+          "evidence": "Original Gray&Sons W529323 explicitly identifies WBD2113-0,grey horizontal dial,automatic41mm steel/bracelet. Four actual watch gallery frames and generic box contact-inspected; original front and full clasp2/closedback3 inspected. Dealer attribution links exact -0; no readable independent case-reference engraving claimed. Front yellow CALIBRE5 print/seconds tip,date3/cyclops,steel minute bezel. Back diver helmet,automatic300m legends; no opened movement. Clasp underside TAGHeuer/STAINLESS STEEL/FAA084/MK-E3 specimen markings only,not factory dating. Official exact WBD2113.BA0928 web-reader technical record attributes Calibre5,38h,28800vph,41mm,11.97mm,20.50mm lugs,300m,steel/grey. Shell makerHTTP200 is challenge only,not technical evidence archive. Dealer20mm vs maker20.50mm lugs discrepancy retained. Full BA0928 hardware,physical movement execution,individual date/material assay/originality unverified. No suffix dropping or ETA2824/SW200 equivalence.",
+          "finding": "Actual dealer-attributed -0 specimen; full hardware suffix/date/originality unverified."
+        }
+      }
     }
   ],
   "sourceRecordReviews": [
@@ -12232,6 +12258,11 @@
       "id": "UPDATE:LONGINES|L38124536",
       "reviewedAt": "2026-10-19T11:29:45.434Z",
       "evidence": "Original DelrayWatch inventory7154 identifies L3.812.4; eight source-associated gallery files contact-inspected and full-size0/5/6 inspected. Closed caseback physically reads L3.812.4, ALL STAINLESS STEEL,10bar(100meter),SPIRIT/ZULU TIME with globe motif and six screws. Serial source-pixelated. Black Arabic dial, blue GMT arrow, date6, black24h bezel, brown contrast-stitched strap and signed folding clasp. Dealer specifies automatic,42mm,used calf strap but no full suffix or precise calibre. Original Longines .53.2 and .53.6 per-product technical payloads explicitly name L844.4; this is manufacturer attribution, not physical execution proof. Exact source specimen full suffix and factory strap originality remain unknown. No opened movement view; no neighbouring reference or calibre equivalence."
+    },
+    {
+      "id": "UPDATE:TAGHEUER|WBD21130",
+      "reviewedAt": "2026-10-19T15:26:36.767Z",
+      "evidence": "Original Gray&Sons W529323 explicitly identifies WBD2113-0,grey horizontal dial,automatic41mm steel/bracelet. Four actual watch gallery frames and generic box contact-inspected; original front and full clasp2/closedback3 inspected. Dealer attribution links exact -0; no readable independent case-reference engraving claimed. Front yellow CALIBRE5 print/seconds tip,date3/cyclops,steel minute bezel. Back diver helmet,automatic300m legends; no opened movement. Clasp underside TAGHeuer/STAINLESS STEEL/FAA084/MK-E3 specimen markings only,not factory dating. Official exact WBD2113.BA0928 web-reader technical record attributes Calibre5,38h,28800vph,41mm,11.97mm,20.50mm lugs,300m,steel/grey. Shell makerHTTP200 is challenge only,not technical evidence archive. Dealer20mm vs maker20.50mm lugs discrepancy retained. Full BA0928 hardware,physical movement execution,individual date/material assay/originality unverified. No suffix dropping or ETA2824/SW200 equivalence."
     }
   ]
 }
