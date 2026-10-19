@@ -33331,6 +33331,142 @@
         },
         "imageSha256": "0253f053ad5813f900901790924fa59aa378df95330fd280cb752068ee2a1268"
       }
+    },
+    {
+      "id": "queue-rolex1003-swe32940-front",
+      "brand": "ROLEX",
+      "references": [
+        "1003"
+      ],
+      "representativeFor": [
+        "1003"
+      ],
+      "variant": "SWE32940 silver baton dial / brown strap / plain tang buckle; representative specimen, factory configuration unresolved",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "Oyster Perpetual1003 silver baton specimen — front",
+      "caption": "Actual silver baton dial with T SWISS T printing, baton hands and engine-turned-looking bezel. Printing does not establish lume chemistry or period originality. Brown strap is this source specimen configuration only.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/8/3/rolex-oyster-perpetual-silver-dial-vintage-steel-mens-watch-1003-32940_a535a.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex-oyster-perpetual-silver-dial-vintage-steel-mens-watch-1003-32940/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-19",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-19T10:33:39.896Z",
+        "loadedAt": "2026-10-19T10:33:39.896Z",
+        "evidence": "Original SWE32940 source page archived. All12source-associated files contact-inspected (0/1 duplicate); full0front,6case-reference,8openedmovement,9closedback/buckle,11strap/back inspected. Physical case1003 and movement1570 markings readable. Silver baton dial, T SWISS T printing, engine-turned-looking bezel, brown stitched strap and unsigned-looking tang buckle. No independent manufacture date, lume chemistry, material assay, factory strap/buckle originality or service history established. Seller1967-68 estimate/34mm/26jewels/timing/authentication claims are attributed, not independent proof. No1560/1530/1520 equivalence or universal1003 production-period assertion.",
+        "imageDimensions": {
+          "width": 2459,
+          "height": 2459
+        },
+        "imageSha256": "80ba0dbc55a62b06d64601f20d1e8ce051c6acff306cfd9255cbe1f87f388085"
+      }
+    },
+    {
+      "id": "queue-rolex1003-swe32940-movement",
+      "brand": "ROLEX",
+      "references": [
+        "1003"
+      ],
+      "representativeFor": [
+        "1003"
+      ],
+      "variant": "SWE32940 silver baton dial / brown strap / plain tang buckle; representative specimen, factory configuration unresolved",
+      "category": "movement",
+      "depictsMovement": true,
+      "title": "Oyster Perpetual1003 silver baton specimen — movement",
+      "caption": "Actual opened movement with readable1570 marking and Rolex-signed rotor/bridge. Specimen marking supports comparison, not individual authentication or all historical1003 executions.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/8/3/rolex-oyster-perpetual-silver-dial-vintage-steel-mens-watch-1003-32940_3ee5d.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex-oyster-perpetual-silver-dial-vintage-steel-mens-watch-1003-32940/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-19",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-19T10:33:39.896Z",
+        "loadedAt": "2026-10-19T10:33:39.896Z",
+        "evidence": "Original SWE32940 source page archived. All12source-associated files contact-inspected (0/1 duplicate); full0front,6case-reference,8openedmovement,9closedback/buckle,11strap/back inspected. Physical case1003 and movement1570 markings readable. Silver baton dial, T SWISS T printing, engine-turned-looking bezel, brown stitched strap and unsigned-looking tang buckle. No independent manufacture date, lume chemistry, material assay, factory strap/buckle originality or service history established. Seller1967-68 estimate/34mm/26jewels/timing/authentication claims are attributed, not independent proof. No1560/1530/1520 equivalence or universal1003 production-period assertion.",
+        "imageDimensions": {
+          "width": 2241,
+          "height": 2241
+        },
+        "imageSha256": "d089d071499213ff9d5087e758d7f4443804701a3ed906867452cc505c93f33b"
+      }
+    },
+    {
+      "id": "queue-rolex1003-swe32940-caseback",
+      "brand": "ROLEX",
+      "references": [
+        "1003"
+      ],
+      "representativeFor": [
+        "1003"
+      ],
+      "variant": "SWE32940 silver baton dial / brown strap / plain tang buckle; representative specimen, factory configuration unresolved",
+      "category": "caseback",
+      "depictsMovement": false,
+      "title": "Oyster Perpetual1003 silver baton specimen — caseback",
+      "caption": "Actual closed unengraved-looking back, brown strap underside and tang buckle. GENUINE LEATHER/18 markings do not establish factory origin, species, age or originality.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/8/3/rolex-oyster-perpetual-silver-dial-vintage-steel-mens-watch-1003-32940_593da.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex-oyster-perpetual-silver-dial-vintage-steel-mens-watch-1003-32940/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-19",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-19T10:33:39.896Z",
+        "loadedAt": "2026-10-19T10:33:39.896Z",
+        "evidence": "Original SWE32940 source page archived. All12source-associated files contact-inspected (0/1 duplicate); full0front,6case-reference,8openedmovement,9closedback/buckle,11strap/back inspected. Physical case1003 and movement1570 markings readable. Silver baton dial, T SWISS T printing, engine-turned-looking bezel, brown stitched strap and unsigned-looking tang buckle. No independent manufacture date, lume chemistry, material assay, factory strap/buckle originality or service history established. Seller1967-68 estimate/34mm/26jewels/timing/authentication claims are attributed, not independent proof. No1560/1530/1520 equivalence or universal1003 production-period assertion.",
+        "imageDimensions": {
+          "width": 4837,
+          "height": 4837
+        },
+        "imageSha256": "546352156a7aa0eff3035bdf01749643352a8b212a1d872878b0e17113bb0778"
+      }
+    },
+    {
+      "id": "queue-rolex1003-swe32940-braceletClasp",
+      "brand": "ROLEX",
+      "references": [
+        "1003"
+      ],
+      "representativeFor": [
+        "1003"
+      ],
+      "variant": "SWE32940 silver baton dial / brown strap / plain tang buckle; representative specimen, factory configuration unresolved",
+      "category": "braceletClasp",
+      "depictsMovement": false,
+      "title": "Oyster Perpetual1003 silver baton specimen — braceletClasp",
+      "caption": "Actual brown stitched leather strap and plain unsigned-looking tang buckle beside closed back. No Rolex buckle signature or original factory hardware established; no bracelet configuration inferred.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/8/3/rolex-oyster-perpetual-silver-dial-vintage-steel-mens-watch-1003-32940_d777c.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex-oyster-perpetual-silver-dial-vintage-steel-mens-watch-1003-32940/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-19",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-19T10:33:39.896Z",
+        "loadedAt": "2026-10-19T10:33:39.896Z",
+        "evidence": "Original SWE32940 source page archived. All12source-associated files contact-inspected (0/1 duplicate); full0front,6case-reference,8openedmovement,9closedback/buckle,11strap/back inspected. Physical case1003 and movement1570 markings readable. Silver baton dial, T SWISS T printing, engine-turned-looking bezel, brown stitched strap and unsigned-looking tang buckle. No independent manufacture date, lume chemistry, material assay, factory strap/buckle originality or service history established. Seller1967-68 estimate/34mm/26jewels/timing/authentication claims are attributed, not independent proof. No1560/1530/1520 equivalence or universal1003 production-period assertion.",
+        "imageDimensions": {
+          "width": 2925,
+          "height": 2925
+        },
+        "imageSha256": "3eefd92ffd0739204ffe983f64d8d850e61e431410637a283993e79245cbeca3"
+      }
     }
   ]
 }
