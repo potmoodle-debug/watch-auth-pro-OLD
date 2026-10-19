@@ -10426,6 +10426,32 @@
           "finding": "Representative source specimen inspected; period/date/material/parts originality remain research gaps."
         }
       }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "6020",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-19T10:43:04.458Z",
+          "evidence": "Original Shellman D9177 page identifies reference6020 Speedking and calibre710, hand-wound,30mm steel/17mm strap width and seller1953first-quarter attribution. These are dealer claims,not independent measurement,material or dating proof. Nine source-associated photographs contact-inspected; full4front/7closedback/8openedmovement inspected. Patinated cream dial, applied elongated markers,double12,bar hands,blue-looking central seconds,smooth bezel,textured tan strap visible. Opened manual movement has Rolex signatures and no rotor; precise710 stamp and physical6020 case marking not established. No buckle/endlink/datecode,fullproductionperiod,service/parts originality or current performance proof. Do not infer700/710A/720/1210 or generic10.5Hunter execution equivalence.",
+          "finding": "Actual source specimen inspected; dealer identity/710 attribution with individual marking/date/originality limits."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-19T10:43:04.458Z",
+          "evidence": "Original Shellman D9177 page identifies reference6020 Speedking and calibre710, hand-wound,30mm steel/17mm strap width and seller1953first-quarter attribution. These are dealer claims,not independent measurement,material or dating proof. Nine source-associated photographs contact-inspected; full4front/7closedback/8openedmovement inspected. Patinated cream dial, applied elongated markers,double12,bar hands,blue-looking central seconds,smooth bezel,textured tan strap visible. Opened manual movement has Rolex signatures and no rotor; precise710 stamp and physical6020 case marking not established. No buckle/endlink/datecode,fullproductionperiod,service/parts originality or current performance proof. Do not infer700/710A/720/1210 or generic10.5Hunter execution equivalence.",
+          "finding": "Actual source specimen inspected; dealer identity/710 attribution with individual marking/date/originality limits."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-19T10:43:04.458Z",
+          "evidence": "Original Shellman D9177 page identifies reference6020 Speedking and calibre710, hand-wound,30mm steel/17mm strap width and seller1953first-quarter attribution. These are dealer claims,not independent measurement,material or dating proof. Nine source-associated photographs contact-inspected; full4front/7closedback/8openedmovement inspected. Patinated cream dial, applied elongated markers,double12,bar hands,blue-looking central seconds,smooth bezel,textured tan strap visible. Opened manual movement has Rolex signatures and no rotor; precise710 stamp and physical6020 case marking not established. No buckle/endlink/datecode,fullproductionperiod,service/parts originality or current performance proof. Do not infer700/710A/720/1210 or generic10.5Hunter execution equivalence.",
+          "finding": "Actual source specimen inspected; dealer identity/710 attribution with individual marking/date/originality limits."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-19T10:43:04.458Z",
+          "evidence": "Original Shellman D9177 page identifies reference6020 Speedking and calibre710, hand-wound,30mm steel/17mm strap width and seller1953first-quarter attribution. These are dealer claims,not independent measurement,material or dating proof. Nine source-associated photographs contact-inspected; full4front/7closedback/8openedmovement inspected. Patinated cream dial, applied elongated markers,double12,bar hands,blue-looking central seconds,smooth bezel,textured tan strap visible. Opened manual movement has Rolex signatures and no rotor; precise710 stamp and physical6020 case marking not established. No buckle/endlink/datecode,fullproductionperiod,service/parts originality or current performance proof. Do not infer700/710A/720/1210 or generic10.5Hunter execution equivalence.",
+          "finding": "No usable buckle/bracelet photograph; remains empty."
+        }
+      }
     }
   ],
   "sourceRecordReviews": [
@@ -11984,6 +12010,11 @@
       "id": "UPDATE:ROLEX|1003",
       "reviewedAt": "2026-10-19T10:33:39.896Z",
       "evidence": "Original SWE32940 source page archived. All12source-associated files contact-inspected (0/1 duplicate); full0front,6case-reference,8openedmovement,9closedback/buckle,11strap/back inspected. Physical case1003 and movement1570 markings readable. Silver baton dial, T SWISS T printing, engine-turned-looking bezel, brown stitched strap and unsigned-looking tang buckle. No independent manufacture date, lume chemistry, material assay, factory strap/buckle originality or service history established. Seller1967-68 estimate/34mm/26jewels/timing/authentication claims are attributed, not independent proof. No1560/1530/1520 equivalence or universal1003 production-period assertion."
+    },
+    {
+      "id": "UPDATE:ROLEX|6020",
+      "reviewedAt": "2026-10-19T10:43:04.458Z",
+      "evidence": "Original Shellman D9177 page identifies reference6020 Speedking and calibre710, hand-wound,30mm steel/17mm strap width and seller1953first-quarter attribution. These are dealer claims,not independent measurement,material or dating proof. Nine source-associated photographs contact-inspected; full4front/7closedback/8openedmovement inspected. Patinated cream dial, applied elongated markers,double12,bar hands,blue-looking central seconds,smooth bezel,textured tan strap visible. Opened manual movement has Rolex signatures and no rotor; precise710 stamp and physical6020 case marking not established. No buckle/endlink/datecode,fullproductionperiod,service/parts originality or current performance proof. Do not infer700/710A/720/1210 or generic10.5Hunter execution equivalence."
     }
   ]
 }
