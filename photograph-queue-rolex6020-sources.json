@@ -1,0 +1,37 @@
+{
+  "reviewedAt": "2026-10-19T10:43:04.458Z",
+  "completion": "IN PROGRESS",
+  "reference": "6020",
+  "source": "https://shellman-online.jp/view/item/000000003254",
+  "sourceHtmlSha256": "cd0acb61d29940ec8f6f860df6d23b697189d4c1ffbe0e500c3ef0a72f65360b",
+  "images": [
+    {
+      "i": 4,
+      "image": "https://makeshop-multi-images.akamaized.net/shellmanshop/shopimages/54/32/5_000000003254.jpg?1713608488",
+      "file": "4.jpg",
+      "sha256": "52cb947d586ec3cd2b328817a6abe7ba91a5d3eef5ce271909b015dcf0a8e742",
+      "width": 396,
+      "height": 570
+    },
+    {
+      "i": 7,
+      "image": "https://makeshop-multi-images.akamaized.net/shellmanshop/shopimages/54/32/8_000000003254.jpg?1713608488",
+      "file": "7.jpg",
+      "sha256": "035fa6a2a01620a9445362ce49b3f272b655ee5f33d79516ef3db998e36a3b5f",
+      "width": 396,
+      "height": 570
+    },
+    {
+      "i": 8,
+      "image": "https://makeshop-multi-images.akamaized.net/shellmanshop/shopimages/54/32/9_000000003254.jpg?1713608488",
+      "file": "8.jpg",
+      "sha256": "18ebca815d32af2c49836c54bbdf7ec2d90d945409baf7bc0afe98369cc8f9bb",
+      "width": 396,
+      "height": 570
+    }
+  ],
+  "galleryEntries": 3,
+  "distinctFiles": 3,
+  "evidence": "Original Shellman D9177 page identifies reference6020 Speedking and calibre710, hand-wound,30mm steel/17mm strap width and seller1953first-quarter attribution. These are dealer claims,not independent measurement,material or dating proof. Nine source-associated photographs contact-inspected; full4front/7closedback/8openedmovement inspected. Patinated cream dial, applied elongated markers,double12,bar hands,blue-looking central seconds,smooth bezel,textured tan strap visible. Opened manual movement has Rolex signatures and no rotor; precise710 stamp and physical6020 case marking not established. No buckle/endlink/datecode,fullproductionperiod,service/parts originality or current performance proof. Do not infer700/710A/720/1210 or generic10.5Hunter execution equivalence.",
+  "queueStatus": "Pending publication/liveverification before resolving lookup-only request; physical execution gaps remain."
+}
