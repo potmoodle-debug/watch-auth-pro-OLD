@@ -201,6 +201,8 @@ async function updatePerformance(){
 }
 async function complete(){
  requireTeam();if(saved)return;if(!pending){
+  const missingBrand=!normalize($('brand').value),missingReference=!normalize($('reference').value);
+  if(missingBrand||missingReference){alert(missingBrand&&missingReference?'Select a watch brand and enter the case reference / model before saving.':missingBrand?'Select a watch brand before saving.':'Enter the case reference / model before saving.');const field=$(missingBrand?'brand':'reference');field.scrollIntoView({block:'center'});field.focus({preventScroll:true});return;}
   if(!(await confirmMissingClasp('save')))return;
   enforceSafety();const record=collect();if(!record.brand||!record.reference)throw new Error('Enter the watch brand and reference before completing an inspection. For an unrecorded RMA use + RMA.');
   generate();const referenceRule=matchingRule(intelligence.rules,record.brand,record.reference);pending={...record,note:$('note').value};pendingResearch=needsResearch(referenceRule,record.workflow)?{brand:record.brand,reference:record.reference,question:'Automatically captured when completing an inspection. '+(referenceRule?'Partial/family mapping requires review.':'No researched mapping found.')+' Serial: '+(record.serial||'not recorded')+'. Observed calibre: '+(record.details.calibre||'not recorded')+'. '+(record.details.issue||''),author:user.id}:null;lockBench(true);autosave();

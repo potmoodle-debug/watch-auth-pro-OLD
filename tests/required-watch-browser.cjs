@@ -1,0 +1,20 @@
+const {chromium}=require('playwright'),assert=require('node:assert/strict'),path=require('node:path');
+(async()=>{const browser=await chromium.launch({headless:true,executablePath:process.env.BENCHAUTH_CHROMIUM||'C:/Program Files/Google/Chrome/Application/chrome.exe'});try{
+ const page=await browser.newPage({viewport:{width:390,height:844}}),messages=[],writes=[];
+ page.on('dialog',async d=>{messages.push(d.message());await d.accept();});
+ await page.route('http://127.0.0.1:8765/**',r=>{const u=new URL(r.request().url());return r.fulfill({path:path.join(__dirname,'..',u.pathname==='/'?'index.html':decodeURIComponent(u.pathname))});});
+ await page.route('https://lkxqqntexxwdqfljtvri.supabase.co/**',r=>{const u=new URL(r.request().url());let json=[];
+ if(u.pathname==='/auth/v1/token')json={access_token:'fixture',refresh_token:'fixture',expires_in:3600};
+ else if(u.pathname==='/auth/v1/user')json={id:'fixture-member',email:'member@example.invalid'};
+ else if(u.pathname==='/rest/v1/team_members')json=[{role:'member'}];
+ else if(u.pathname==='/rest/v1/rpc/daily_metrics')json={completed:0,target:50,rmas:0};
+ else if(r.request().method()!=='GET')writes.push(u.pathname);
+ return r.fulfill({json});});
+ await page.goto(process.env.BENCHAUTH_TEST_URL||'http://127.0.0.1:8765');await page.locator('#accountButton').click();await page.locator('#email').fill('member@example.invalid');await page.locator('#password').fill('fixture-password');await page.locator('#authForm button[type=submit]').click();await page.waitForFunction(()=>!document.querySelector('#accountDialog').open);
+ await page.locator('#comments').fill('Keep my findings');
+ await page.locator('#complete').click();assert.match(messages.at(-1),/brand and enter/);await page.waitForFunction(()=>document.activeElement.id==='brand');
+ await page.locator('#reference').fill('123');await page.locator('#complete').click();assert.equal(messages.at(-1),'Select a watch brand before saving.');await page.waitForFunction(()=>document.activeElement.id==='brand');
+ await page.locator('#brand').fill('Rolex');await page.locator('#reference').fill('');await page.locator('#complete').click();assert.equal(messages.at(-1),'Enter the case reference / model before saving.');await page.waitForFunction(()=>document.activeElement.id==='reference');
+ assert.equal(await page.locator('#claspReminder').isVisible(),false);assert.equal(await page.locator('#comments').inputValue(),'Keep my findings');assert.equal(await page.locator('#complete').isEnabled(),true);assert.deepEqual(writes,[]);
+ console.log('PASS missing brand/reference popup, focus, retained draft, no save or clasp prompt, member/mobile.');
+ }finally{await browser.close();}})().catch(e=>{console.error(e);process.exit(1)});
