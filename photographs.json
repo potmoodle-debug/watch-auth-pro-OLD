@@ -33897,6 +33897,142 @@
         },
         "imageSha256": "c74c3c4cf3aed86be8b0dcaa43dd8bec88af00cffc042e7d292c1e9a03627b9f"
       }
+    },
+    {
+      "id": "queue-rolex15223-swe54381-front",
+      "brand": "ROLEX",
+      "references": [
+        "15223"
+      ],
+      "representativeFor": [
+        "15223"
+      ],
+      "variant": "SWE54381 white Roman dial / two-tone Oyster bracelet; representative source specimen",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "Oyster Perpetual Date15223 source specimen — front",
+      "caption": "Actual white Roman dial with gold-tone baton markers,hands and engine-turned-looking bezel. T SWISS MADE T printing does not independently establish lume chemistry,period originality or service history.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/9/13/rolex-date-steel-yellow-gold-engine-turned-bezel-mens-watch-15223-box-papers-54381_74eee.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex-date-steel-yellow-gold-engine-turned-bezel-mens-watch-15223-box-papers-54381/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-19",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-19T11:17:59.409Z",
+        "loadedAt": "2026-10-19T11:17:59.409Z",
+        "evidence": "Original SwissWatchExpo54381 page and13associated files archived. All13contact-inspected; full0front,6case reference,8opened movement,9closed back/clasp and10bracelet inspected. Readable15223case and3135movement marks. White Roman dial with gold-tone baton markers and T SWISS MADE T printing,engine-turned-looking gold-tone bezel,two-tone Oyster bracelet andcoronet clasp visible. Seller1991,34mm,18K gold,31jewels,timing/authenticity claims attributed,not independent date/measurement/assay/performance proof. No confirmed bracelet/endlink/claspdate codes. Printing does not establish lume chemistry; documents do not prove manufacture date. No neighbouring reference,otherdial/Jubilee/hardware or3035/3130/3235 equivalence.",
+        "imageDimensions": {
+          "width": 2517,
+          "height": 2517
+        },
+        "imageSha256": "9c3a5fb79d393425d1bf435496333c2a4cbc86c28e5ef61004ecacfa873f8d8f"
+      }
+    },
+    {
+      "id": "queue-rolex15223-swe54381-movement",
+      "brand": "ROLEX",
+      "references": [
+        "15223"
+      ],
+      "representativeFor": [
+        "15223"
+      ],
+      "variant": "SWE54381 white Roman dial / two-tone Oyster bracelet; representative source specimen",
+      "category": "movement",
+      "depictsMovement": true,
+      "title": "Oyster Perpetual Date15223 source specimen — movement",
+      "caption": "Actual opened Rolex-signed automatic movement with readable3135 stamp. This supports the pictured specimen marking,not authenticity or originality of every component.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/9/13/rolex-date-steel-yellow-gold-engine-turned-bezel-mens-watch-15223-box-papers-54381_33523.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex-date-steel-yellow-gold-engine-turned-bezel-mens-watch-15223-box-papers-54381/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-19",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-19T11:17:59.409Z",
+        "loadedAt": "2026-10-19T11:17:59.409Z",
+        "evidence": "Original SwissWatchExpo54381 page and13associated files archived. All13contact-inspected; full0front,6case reference,8opened movement,9closed back/clasp and10bracelet inspected. Readable15223case and3135movement marks. White Roman dial with gold-tone baton markers and T SWISS MADE T printing,engine-turned-looking gold-tone bezel,two-tone Oyster bracelet andcoronet clasp visible. Seller1991,34mm,18K gold,31jewels,timing/authenticity claims attributed,not independent date/measurement/assay/performance proof. No confirmed bracelet/endlink/claspdate codes. Printing does not establish lume chemistry; documents do not prove manufacture date. No neighbouring reference,otherdial/Jubilee/hardware or3035/3130/3235 equivalence.",
+        "imageDimensions": {
+          "width": 1826,
+          "height": 1826
+        },
+        "imageSha256": "e902c726224b231be80084f39885eb1897b24742f36a39eb3459c9239189f17d"
+      }
+    },
+    {
+      "id": "queue-rolex15223-swe54381-caseback",
+      "brand": "ROLEX",
+      "references": [
+        "15223"
+      ],
+      "representativeFor": [
+        "15223"
+      ],
+      "variant": "SWE54381 white Roman dial / two-tone Oyster bracelet; representative source specimen",
+      "category": "caseback",
+      "depictsMovement": false,
+      "title": "Oyster Perpetual Date15223 source specimen — caseback",
+      "caption": "Actual plain-looking closed back with two-tone Oyster bracelet and coronet folding clasp. No readable bracelet/endlink/clasp date codes established.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/9/13/rolex-date-steel-yellow-gold-engine-turned-bezel-mens-watch-15223-box-papers-54381_8d699.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex-date-steel-yellow-gold-engine-turned-bezel-mens-watch-15223-box-papers-54381/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-19",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-19T11:17:59.409Z",
+        "loadedAt": "2026-10-19T11:17:59.409Z",
+        "evidence": "Original SwissWatchExpo54381 page and13associated files archived. All13contact-inspected; full0front,6case reference,8opened movement,9closed back/clasp and10bracelet inspected. Readable15223case and3135movement marks. White Roman dial with gold-tone baton markers and T SWISS MADE T printing,engine-turned-looking gold-tone bezel,two-tone Oyster bracelet andcoronet clasp visible. Seller1991,34mm,18K gold,31jewels,timing/authenticity claims attributed,not independent date/measurement/assay/performance proof. No confirmed bracelet/endlink/claspdate codes. Printing does not establish lume chemistry; documents do not prove manufacture date. No neighbouring reference,otherdial/Jubilee/hardware or3035/3130/3235 equivalence.",
+        "imageDimensions": {
+          "width": 3681,
+          "height": 3681
+        },
+        "imageSha256": "3a11d69ac076bbfa1d0b41890338c74476f898fb9126840a2d26867301dcab78"
+      }
+    },
+    {
+      "id": "queue-rolex15223-swe54381-braceletClasp",
+      "brand": "ROLEX",
+      "references": [
+        "15223"
+      ],
+      "representativeFor": [
+        "15223"
+      ],
+      "variant": "SWE54381 white Roman dial / two-tone Oyster bracelet; representative source specimen",
+      "category": "braceletClasp",
+      "depictsMovement": false,
+      "title": "Oyster Perpetual Date15223 source specimen — braceletClasp",
+      "caption": "Actual two-tone Oyster bracelet and coronet clasp shown beside ruler. Metal content,measurements,part codes and original factory configuration remain unverified.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/9/13/rolex-date-steel-yellow-gold-engine-turned-bezel-mens-watch-15223-box-papers-54381_e7634.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex-date-steel-yellow-gold-engine-turned-bezel-mens-watch-15223-box-papers-54381/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research 2026-10-19",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-19T11:17:59.409Z",
+        "loadedAt": "2026-10-19T11:17:59.409Z",
+        "evidence": "Original SwissWatchExpo54381 page and13associated files archived. All13contact-inspected; full0front,6case reference,8opened movement,9closed back/clasp and10bracelet inspected. Readable15223case and3135movement marks. White Roman dial with gold-tone baton markers and T SWISS MADE T printing,engine-turned-looking gold-tone bezel,two-tone Oyster bracelet andcoronet clasp visible. Seller1991,34mm,18K gold,31jewels,timing/authenticity claims attributed,not independent date/measurement/assay/performance proof. No confirmed bracelet/endlink/claspdate codes. Printing does not establish lume chemistry; documents do not prove manufacture date. No neighbouring reference,otherdial/Jubilee/hardware or3035/3130/3235 equivalence.",
+        "imageDimensions": {
+          "width": 3134,
+          "height": 3134
+        },
+        "imageSha256": "a5dbeb5027329163233ac1104e80ef35835b4cf94ddca24dc8eb073c9a445f15"
+      }
     }
   ]
 }
