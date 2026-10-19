@@ -10478,6 +10478,32 @@
           "finding": "Actual representative specimen inspected; full date/period/material/lume/hardware/component originality gaps remain."
         }
       }
+    },
+    {
+      "brand": "CARTIER",
+      "reference": "WSTA0053",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-19T11:01:21.445Z",
+          "evidence": "Original EWC54417 exact WSTA0053 record with eight associated images; all contact-inspected, full 0 front, 5 open clasp and 6 closed back inspected. Silvered flinque Roman dial, date at six, blue-looking sword hands, blue cabochon and steel-looking bracelet visible. No opened movement photo; precise physical1847MC marking unobserved. Original Cartier Brazil web-reader product text explicitly identifies1847MC, synthetic spinel,41x31mm,8.4mm and3bar. Archived raw Brazil HTML lacks1847 text; web-reader content is separately documented and not falsely claimed present in raw archive. Current redirected Cartier international product archive confirms other exact specifications but leaves calibre number blank. EWC sapphire-cabochon wording conflicts with Cartier synthetic spinel and is not adopted. Blurred back code/serial not read or used as aliases. Dealer2023 papers not manufacture-date or complete production-interval proof; material, water resistance, service and component originality not independently tested.",
+          "finding": "Actual exact-source exterior inspected; material/date/originality remain individual checks."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-19T11:01:21.445Z",
+          "evidence": "Original EWC54417 exact WSTA0053 record with eight associated images; all contact-inspected, full 0 front, 5 open clasp and 6 closed back inspected. Silvered flinque Roman dial, date at six, blue-looking sword hands, blue cabochon and steel-looking bracelet visible. No opened movement photo; precise physical1847MC marking unobserved. Original Cartier Brazil web-reader product text explicitly identifies1847MC, synthetic spinel,41x31mm,8.4mm and3bar. Archived raw Brazil HTML lacks1847 text; web-reader content is separately documented and not falsely claimed present in raw archive. Current redirected Cartier international product archive confirms other exact specifications but leaves calibre number blank. EWC sapphire-cabochon wording conflicts with Cartier synthetic spinel and is not adopted. Blurred back code/serial not read or used as aliases. Dealer2023 papers not manufacture-date or complete production-interval proof; material, water resistance, service and component originality not independently tested.",
+          "finding": "No actual opened movement photo; remains empty."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-19T11:01:21.445Z",
+          "evidence": "Original EWC54417 exact WSTA0053 record with eight associated images; all contact-inspected, full 0 front, 5 open clasp and 6 closed back inspected. Silvered flinque Roman dial, date at six, blue-looking sword hands, blue cabochon and steel-looking bracelet visible. No opened movement photo; precise physical1847MC marking unobserved. Original Cartier Brazil web-reader product text explicitly identifies1847MC, synthetic spinel,41x31mm,8.4mm and3bar. Archived raw Brazil HTML lacks1847 text; web-reader content is separately documented and not falsely claimed present in raw archive. Current redirected Cartier international product archive confirms other exact specifications but leaves calibre number blank. EWC sapphire-cabochon wording conflicts with Cartier synthetic spinel and is not adopted. Blurred back code/serial not read or used as aliases. Dealer2023 papers not manufacture-date or complete production-interval proof; material, water resistance, service and component originality not independently tested.",
+          "finding": "Actual exact-source exterior inspected; material/date/originality remain individual checks."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-19T11:01:21.445Z",
+          "evidence": "Original EWC54417 exact WSTA0053 record with eight associated images; all contact-inspected, full 0 front, 5 open clasp and 6 closed back inspected. Silvered flinque Roman dial, date at six, blue-looking sword hands, blue cabochon and steel-looking bracelet visible. No opened movement photo; precise physical1847MC marking unobserved. Original Cartier Brazil web-reader product text explicitly identifies1847MC, synthetic spinel,41x31mm,8.4mm and3bar. Archived raw Brazil HTML lacks1847 text; web-reader content is separately documented and not falsely claimed present in raw archive. Current redirected Cartier international product archive confirms other exact specifications but leaves calibre number blank. EWC sapphire-cabochon wording conflicts with Cartier synthetic spinel and is not adopted. Blurred back code/serial not read or used as aliases. Dealer2023 papers not manufacture-date or complete production-interval proof; material, water resistance, service and component originality not independently tested.",
+          "finding": "Actual exact-source exterior inspected; material/date/originality remain individual checks."
+        }
+      }
     }
   ],
   "sourceRecordReviews": [
@@ -12046,6 +12072,11 @@
       "id": "UPDATE:ROLEX|169622",
       "reviewedAt": "2026-10-19T10:50:33.289Z",
       "evidence": "Original SWE URL23835 page actually lists stock23749. Archived page and11source-associated productphotos from/169/23835/;3recommendation thumbnails for otherstock excluded. All11contact-inspected, full0front/5physicalcase/7openedmovement/8closedback-clasp/9bracelet inspected. Readable169622case and2235movement stamps. Silver textured dial,redseconds,raisednumeral timingbezel,Oysterbracelet andcoronetclasp. Dealer2000-01 estimate/29mm/31jewels/platinumdial-bezel/luminova/timing/authentication claims attributed,not independentdate/assay/lume/performanceproof. Dealerunidirectional-bezel wording not adopted without primary confirmation. No establishedclaspdate/endlinkcode,factorypartsoriginality or fullproductioninterval. No168622/16622/116622/268622/2230/2236/3135 equivalence."
+    },
+    {
+      "id": "UPDATE:CARTIER|WSTA0053",
+      "reviewedAt": "2026-10-19T11:01:21.445Z",
+      "evidence": "Original EWC54417 exact WSTA0053 record with eight associated images; all contact-inspected, full 0 front, 5 open clasp and 6 closed back inspected. Silvered flinque Roman dial, date at six, blue-looking sword hands, blue cabochon and steel-looking bracelet visible. No opened movement photo; precise physical1847MC marking unobserved. Original Cartier Brazil web-reader product text explicitly identifies1847MC, synthetic spinel,41x31mm,8.4mm and3bar. Archived raw Brazil HTML lacks1847 text; web-reader content is separately documented and not falsely claimed present in raw archive. Current redirected Cartier international product archive confirms other exact specifications but leaves calibre number blank. EWC sapphire-cabochon wording conflicts with Cartier synthetic spinel and is not adopted. Blurred back code/serial not read or used as aliases. Dealer2023 papers not manufacture-date or complete production-interval proof; material, water resistance, service and component originality not independently tested."
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "reviewedAt": "2026-10-19T11:01:21.445Z",
+  "completion": "IN PROGRESS",
+  "reference": "WSTA0053",
+  "source": "https://www.europeanwatch.com/watch/cartier-wsta0053-tank-must-xl-automatic-ss-2023-54417",
+  "maker": "https://www.cartier.com.br/wsta0053-relogio-tank-must/p",
+  "sourceHtmlSha256": "a46083f7e475cf3e27c5bcce66307185e02a690f2aff92c78b01139577d5f70a",
+  "images": [
+    {
+      "i": 0,
+      "image": "https://images.europeanwatch.com/images/54/54417-1.jpg",
+      "sha256": "3430d56c3a99dfb0b89d33048fd1555ebbe72ad2a9f103a4cbbd7addbc5f8ec4",
+      "width": 1080,
+      "height": 864
+    },
+    {
+      "i": 5,
+      "image": "https://images.europeanwatch.com/images/54/54417-6.jpg",
+      "sha256": "bdc2e0bcb0218854468d33d7e33d0d9d1c0fb5878b187fb41f3b2653cb8f25d2",
+      "width": 1080,
+      "height": 864
+    },
+    {
+      "i": 6,
+      "image": "https://images.europeanwatch.com/images/54/54417-7.jpg",
+      "sha256": "1afc534a2983af8265ab8683982c66df07476dff68c5760312533ec3e7e88de8",
+      "width": 1080,
+      "height": 864
+    }
+  ],
+  "galleryEntries": 3,
+  "distinctFiles": 3,
+  "evidence": "Original EWC54417 exact WSTA0053 record with eight associated images; all contact-inspected, full 0 front, 5 open clasp and 6 closed back inspected. Silvered flinque Roman dial, date at six, blue-looking sword hands, blue cabochon and steel-looking bracelet visible. No opened movement photo; precise physical1847MC marking unobserved. Original Cartier Brazil web-reader product text explicitly identifies1847MC, synthetic spinel,41x31mm,8.4mm and3bar. Archived raw Brazil HTML lacks1847 text; web-reader content is separately documented and not falsely claimed present in raw archive. Current redirected Cartier international product archive confirms other exact specifications but leaves calibre number blank. EWC sapphire-cabochon wording conflicts with Cartier synthetic spinel and is not adopted. Blurred back code/serial not read or used as aliases. Dealer2023 papers not manufacture-date or complete production-interval proof; material, water resistance, service and component originality not independently tested.",
+  "makerWebReaderEvidence": {
+    "url": "https://www.cartier.com.br/wsta0053-relogio-tank-must/p",
+    "readAt": "2026-10-19T11:01:21.445Z",
+    "calibre": "1847 MC",
+    "case": "41x31mm/8.4mm/steel",
+    "crown": "synthetic spinel",
+    "rating": "3bar",
+    "rawArchiveIncludesCalibre": false
+  },
+  "queueStatus": "Pending publication/liveverification before resolving lookup-only request; physical execution remains unconfirmed."
+}
