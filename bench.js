@@ -1,3 +1,4 @@
+import {brandChoices,splitResearchRecords,researchOutcomeHTML} from './research-review.js?v=queue20261020';
 import {researchPack,showResearchPack,clearResearchExport} from './research-export.js?v=queueexport01';
 import {createResearchDetails} from './research-details.js?v=queueinspect01';
 import {matchingPhotographs,mergeReferenceRules} from './photographs.js?v=photos01';
@@ -13,7 +14,7 @@ const $=id=>document.getElementById(id),esc=v=>String(v??'').replace(/[&<>"']/g,
 const safeUrl=v=>{try{const u=new URL(v);return ['https:','http:'].includes(u.protocol)?u.href:'';}catch{return '';}};
 const link=(url,label)=>safeUrl(url)?'<a target="_blank" rel="noopener" href="'+esc(safeUrl(url))+'">'+esc(label)+'</a>':esc(label);
 let localRules=[],photographs=[],intelligence={rules:[],safety:[],serial:{}},samples={},identity=null,rule=null,user=null,member=null,lookupVersion=0;
-let inspectionId=crypto.randomUUID(),pending=null,saved=false,noteDirty=false,logs=[],counterfeits=[],researchRequests=[],entryAction=null,entryId=null,lastDay=londonDay(),daily=null,serialTimer=null,pendingResearch=null;
+let inspectionId=crypto.randomUUID(),pending=null,saved=false,noteDirty=false,logs=[],counterfeits=[],researchRequests=[],researchReviews=[],entryAction=null,entryId=null,lastDay=londonDay(),daily=null,serialTimer=null,pendingResearch=null;
 const inputIds=['brand','reference','serial','movementType','calibre','clasp','overall','comments','issue','battery'];
 const conditionNames=['Clean','Dirty','Rusted','Damaged','Modified','Aged','External only'];
 setupPhotoSearch({getPhotographs:()=>photographs,getContext:()=>({brand:$('brand').value.trim(),reference:$('reference').value.trim(),externalOnly:selectedConditions().includes('External only')||!!safetyRule(intelligence.safety,$('brand').value,$('reference').value,rule?.family||rule?.model||'')})});
@@ -176,11 +177,12 @@ async function connect(){
  $('accountButton').textContent=user?'Account':'Team sign in';$('accountState').textContent=user?(member?'Signed in as '+user.email:'Account signed in, but team access has not been granted.'):'Sign in to share knowledge and save inspections.';
  $('authFields').hidden=!!user;$('signedInFields').hidden=!user;$('adminFields').hidden=member?.role!=='admin';$('reviewReference').hidden=member?.role!=='admin';
  if(member){await loadSharedRules();await updatePerformance();if(identity)await lookup();}
- else{clearResearchExport();researchDetails.clear();replicaGallery.clear();counterfeits=[];$('counterfeitRows').replaceChildren();intelligence.rules=localRules.slice();renderReferences();if(identity){rule=matchingRule(intelligence.rules,$('brand').value,$('reference').value);renderInfo();}daily=null;renderDailyCard();}
+ else{researchReviews=[];researchRequests=[];$('researchRows').replaceChildren();$('researchSummary').textContent='';clearResearchExport();researchDetails.clear();replicaGallery.clear();counterfeits=[];$('counterfeitRows').replaceChildren();intelligence.rules=localRules.slice();renderReferences();renderBrandChoices();if(identity){rule=matchingRule(intelligence.rules,$('brand').value,$('reference').value);renderInfo();}daily=null;renderDailyCard();}
 }
 async function loadSharedRules(){
+ const account=user?.id;
  let rows=[];for(let offset=0;;offset+=500){const batch=await cloud.select('reference_facts','select=data,status,source,verified_at&order=id&limit=500&offset='+offset);rows.push(...batch);if(batch.length<500)break;}
- intelligence.rules=mergeReferenceRules(localRules,rows);renderReferences();if(identity){rule=matchingRule(intelligence.rules,$('brand').value,$('reference').value);renderInfo();}
+ if(!member||user?.id!==account)return;const parts=splitResearchRecords(rows);researchReviews=parts.reviews;intelligence.rules=mergeReferenceRules(localRules,parts.rules);renderReferences();renderBrandChoices();if(identity){rule=matchingRule(intelligence.rules,$('brand').value,$('reference').value);renderInfo();}
 }
 function renderDailyCard(){
  const plan=getWorkday(),stats=daily?performanceStats(daily.completed,daily.target,new Date(),plan):null;
@@ -234,14 +236,14 @@ document.getElementById('researchRows').addEventListener('click',e=>{const b=e.t
 function renderResearchQueue(){
  const resolved=researchRequests.filter(x=>x.status==='resolved').length,active=researchRequests.length-resolved,showResolved=$('showResolvedResearch').checked;
  $('researchSummary').textContent=active+' active · '+resolved+' resolved';
- $('researchRows').innerHTML=researchRequests.filter(x=>showResolved||x.status!=='resolved').map(x=>'<article class="row"><div class="heading"><strong>'+esc(x.brand)+' · '+esc(x.reference)+'</strong><span class="pill">'+esc(x.status)+'</span></div><p>'+esc(x.question)+'</p><button type="button" class="secondary" data-research-details="'+esc(x.id)+'">View entered details</button><small>'+esc(new Date(x.created_at).toLocaleString('en-GB'))+'</small>'+(member?.role==='admin'?'<div class="actions">'+(x.status==='resolved'?'<button class="secondary" data-review-table="research_queue" data-id="'+esc(x.id)+'" data-value="open">Reopen</button>':'<button class="secondary" data-review-table="research_queue" data-id="'+esc(x.id)+'" data-value="researching">Researching</button><button class="secondary" data-review-table="research_queue" data-id="'+esc(x.id)+'" data-value="resolved">Mark resolved</button>')+'</div>':'')+'</article>').join('')||'<p class="muted">'+(showResolved?'No reference research requests yet.':'No active reference research requests.')+'</p>';
+ $('researchRows').innerHTML=researchRequests.filter(x=>showResolved||x.status!=='resolved').map(x=>'<article class="row"><div class="heading"><strong>'+esc(x.brand)+' · '+esc(x.reference)+'</strong><span class="pill">'+esc(x.status)+'</span></div><p>'+esc(x.question)+'</p>'+researchOutcomeHTML(researchReviews,x)+'<button type="button" class="secondary" data-research-details="'+esc(x.id)+'">View entered details</button><small>'+esc(new Date(x.created_at).toLocaleString('en-GB'))+'</small>'+(member?.role==='admin'?'<div class="actions">'+(x.status==='resolved'?'<button class="secondary" data-review-table="research_queue" data-id="'+esc(x.id)+'" data-value="open">Reopen</button>':'<button class="secondary" data-review-table="research_queue" data-id="'+esc(x.id)+'" data-value="researching">Researching</button><button class="secondary" data-review-table="research_queue" data-id="'+esc(x.id)+'" data-value="resolved">Mark resolved</button>')+'</div>':'')+'</article>').join('')||'<p class="muted">'+(showResolved?'No reference research requests yet.':'No active reference research requests.')+'</p>';
 }
 async function allRows(table){let rows=[];for(let offset=0;;offset+=500){const batch=await cloud.select(table,'order=created_at.desc,id&limit=500&offset='+offset);rows.push(...batch);if(batch.length<500)break;}return rows;}
 async function refreshTab(tab,more=false){
  if(tab==='references'){renderReferences();return;}if(tab==='bench')return;requireTeam();
  if(tab==='performance'){await updatePerformance();return;}
  if(tab==='inspections'){if(!more)logs=[];const batch=await cloud.select('inspections','order=created_at.desc,id&limit=100&offset='+logs.length);logs.push(...batch);$('moreInspections').hidden=batch.length<100;renderLogs();}
- if(tab==='research'){researchRequests=await allRows('research_queue');renderResearchQueue();}
+ if(tab==='research'){const account=user.id;await loadSharedRules();const rows=await allRows('research_queue');if(!member||user?.id!==account)return;researchRequests=rows;renderResearchQueue();}
  if(tab==='counterfeit'){counterfeits=await allRows('counterfeit_register');renderCounterfeits();}
 }
 function downloadCsv(rows){const keys=['id','work_date','workflow','brand','reference','serial','outcome','note'];const cell=v=>'"'+String(v??'').replace(/^[=+@-]/,"'$&").replace(/"/g,'""')+'"';const text=[keys,...rows.map(r=>keys.map(k=>r[k]))].map(r=>r.map(cell).join(',')).join('\r\n');const url=URL.createObjectURL(new Blob([text],{type:'text/csv;charset=utf-8'}));const a=document.createElement('a');a.href=url;a.download='benchauth-inspections-'+londonDay()+'.csv';a.click();URL.revokeObjectURL(url);}
@@ -292,9 +294,10 @@ $('entryForm').addEventListener('submit',async e=>{e.preventDefault();const btn=
 window.addEventListener('beforeunload',()=>autosave());
 document.addEventListener('visibilitychange',()=>{if(!document.hidden&&member)updatePerformance().catch(e=>status(e.message,true));});
 setInterval(()=>{if(member){if(lastDay!==londonDay())updatePerformance().catch(e=>status(e.message,true));else if(daily)renderDailyCard();}},60000);
+function renderBrandChoices(){const brands=brandChoices(intelligence.rules.concat(intelligence.safety,researchReviews),['TUDOR','ROLEX','OMEGA','BREITLING','CARTIER','TAGHEUER']);$('otherBrandButtons').innerHTML=brands.map(x=>'<button type="button" data-brand-choice="'+esc(x)+'" aria-pressed="false">'+esc(x)+'</button>').join('');syncBrandButtons();}
 async function init(){
  try{const [data,pictures,types]=await Promise.all([fetch('intelligence.json?v=photos01').then(r=>{if(!r.ok)throw new Error('Reference database unavailable.');return r.json();}),fetch('samples.json?v=photos01').then(r=>r.json()),fetch('movement-types.json?v=photos01').then(r=>r.json())]);intelligence=data;const researched=await fetch('rolex-126505.json?v=photos01').then(r=>{if(!r.ok)throw new Error('Daytona research unavailable.');return r.json();});intelligence.rules=intelligence.rules.filter(r=>!(r.brand==='ROLEX'&&(r.refs||[]).includes('126505'))).concat([{...researched,benchStatus:'verified'}]);const updates=await fetch('research-updates-20261008.json?v=photos01').then(r=>{if(!r.ok)throw new Error('Reviewed research unavailable.');return r.json();});intelligence.rules=updates.concat(intelligence.rules);localRules=intelligence.rules.slice();const catalogue=await fetch('photographs.json?v=photos01').then(r=>{if(!r.ok)throw new Error('Photograph catalogue unavailable.');return r.json();});photographs=catalogue.photographs;samples=pictures;types.forEach(x=>{const opt=document.createElement('option');opt.value=x;opt.textContent=x;$('movementType').appendChild(opt);});
- const brands=[...new Set(intelligence.rules.map(r=>r.brand).concat(intelligence.safety.map(r=>r.brand)))].sort();$('otherBrandButtons').innerHTML=brands.filter(x=>!['TUDOR','ROLEX','OMEGA','BREITLING','CARTIER','TAGHEUER'].includes(normalize(x))).map(x=>'<button type="button" data-brand-choice="'+esc(x)+'" aria-pressed="false">'+esc(x)+'</button>').join('');renderReferences();
+ renderBrandChoices();renderReferences();
  let draft;try{draft=JSON.parse(localStorage.getItem('benchauth.draft'));}catch{}
  if(draft){inspectionId=draft.inspectionId||inspectionId;for(const [k,v]of Object.entries(draft.values||{}))if($(k))$(k).value=v;document.querySelectorAll('#conditions input').forEach(x=>x.checked=draft.conditions?.includes(x.value));(draft.components||[]).forEach((v,i)=>$('component'+i).value=v);$('note').value=draft.note||'';noteDirty=!!draft.noteDirty;pending=draft.pending||null;pendingResearch=draft.pendingResearch||null;enforceSafety();if(pending){lockBench(true);$('complete').textContent='Retry saving this inspection';}status('Previous unsaved inspection draft restored.');}
  syncBrandButtons();cloud.callback();await connect();if($('brand').value&&$('reference').value)await lookup();

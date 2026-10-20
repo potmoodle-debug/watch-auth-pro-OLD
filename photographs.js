@@ -42,6 +42,6 @@ export function mergeReferenceRules(localRules,sharedRows){
  const shared=sharedRows.map(x=>({...x.data,benchStatus:x.status,benchSource:x.source,benchVerifiedAt:x.verified_at}));
  shared.sort((a,b)=>(a.benchStatus==='verified'?-1:0)-(b.benchStatus==='verified'?-1:0)||(a.importOrder||0)-(b.importOrder||0));
  const key=r=>JSON.stringify([normalize(r.brand),(r.refs||[]).map(normalize).sort(),normalize(r.baseReference),r.pattern?.source||'',r.pattern?.flags||'']);
- const sharedKeys=new Set(shared.map(key));
- return shared.concat(localRules.filter(r=>!sharedKeys.has(key(r))));
+ const ordered=shared.filter(r=>r.benchStatus==='verified').concat(localRules.filter(r=>r.researchReviewedAt),shared.filter(r=>r.benchStatus!=='verified'),localRules.filter(r=>!r.researchReviewedAt));
+ const seen=new Set();return ordered.filter(r=>{const k=key(r);if(seen.has(k))return false;seen.add(k);return true;});
 }
