@@ -10686,6 +10686,32 @@
           "finding": "Actual exact-source specimen view;date/hardware originality unverified."
         }
       }
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "16700",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-20T08:02:34.139Z",
+          "evidence": "Original SwissWatchExpo URL26265,actual page stock25999,exact16700/3175/31jewels/40mm/black bezel/Oyster; archived page and12successful URL files,11distinct bytes,allcontact inspected. Full0front,14physicalcase,16movement,18closedback/clasp,20bracelet inspected. Readable16700case and3175movement marks. Black dial SWISS-T<25,red GMTarrow,Mercedes hands,date3/cyclops,black24h bezel,Oyster/coronet safety clasp. Dealer1997–1998/U30xxxx,dimensions/material/performance/authenticity attributed not independent proof. No confirmed bracelet/endlink/claspdate codes,manufacture/fullinterval/originality/lumechemistry. No neighbouring reference,Pepsi/Coke/Jubilee/Swiss-only dial or3075/3185/3186/3285 equivalence. Comma-suffixed extraction artifact404s excluded from actual media inventory.",
+          "finding": "Actual representative specimen inspected;period/date/material/lume/hardware/originality gaps remain."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-20T08:02:34.139Z",
+          "evidence": "Original SwissWatchExpo URL26265,actual page stock25999,exact16700/3175/31jewels/40mm/black bezel/Oyster; archived page and12successful URL files,11distinct bytes,allcontact inspected. Full0front,14physicalcase,16movement,18closedback/clasp,20bracelet inspected. Readable16700case and3175movement marks. Black dial SWISS-T<25,red GMTarrow,Mercedes hands,date3/cyclops,black24h bezel,Oyster/coronet safety clasp. Dealer1997–1998/U30xxxx,dimensions/material/performance/authenticity attributed not independent proof. No confirmed bracelet/endlink/claspdate codes,manufacture/fullinterval/originality/lumechemistry. No neighbouring reference,Pepsi/Coke/Jubilee/Swiss-only dial or3075/3185/3186/3285 equivalence. Comma-suffixed extraction artifact404s excluded from actual media inventory.",
+          "finding": "Actual representative specimen inspected;period/date/material/lume/hardware/originality gaps remain."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-20T08:02:34.139Z",
+          "evidence": "Original SwissWatchExpo URL26265,actual page stock25999,exact16700/3175/31jewels/40mm/black bezel/Oyster; archived page and12successful URL files,11distinct bytes,allcontact inspected. Full0front,14physicalcase,16movement,18closedback/clasp,20bracelet inspected. Readable16700case and3175movement marks. Black dial SWISS-T<25,red GMTarrow,Mercedes hands,date3/cyclops,black24h bezel,Oyster/coronet safety clasp. Dealer1997–1998/U30xxxx,dimensions/material/performance/authenticity attributed not independent proof. No confirmed bracelet/endlink/claspdate codes,manufacture/fullinterval/originality/lumechemistry. No neighbouring reference,Pepsi/Coke/Jubilee/Swiss-only dial or3075/3185/3186/3285 equivalence. Comma-suffixed extraction artifact404s excluded from actual media inventory.",
+          "finding": "Actual representative specimen inspected;period/date/material/lume/hardware/originality gaps remain."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-20T08:02:34.139Z",
+          "evidence": "Original SwissWatchExpo URL26265,actual page stock25999,exact16700/3175/31jewels/40mm/black bezel/Oyster; archived page and12successful URL files,11distinct bytes,allcontact inspected. Full0front,14physicalcase,16movement,18closedback/clasp,20bracelet inspected. Readable16700case and3175movement marks. Black dial SWISS-T<25,red GMTarrow,Mercedes hands,date3/cyclops,black24h bezel,Oyster/coronet safety clasp. Dealer1997–1998/U30xxxx,dimensions/material/performance/authenticity attributed not independent proof. No confirmed bracelet/endlink/claspdate codes,manufacture/fullinterval/originality/lumechemistry. No neighbouring reference,Pepsi/Coke/Jubilee/Swiss-only dial or3075/3185/3186/3285 equivalence. Comma-suffixed extraction artifact404s excluded from actual media inventory.",
+          "finding": "Actual representative specimen inspected;period/date/material/lume/hardware/originality gaps remain."
+        }
+      }
     }
   ],
   "sourceRecordReviews": [
@@ -12294,6 +12320,11 @@
       "id": "UPDATE:CARTIER|WSSA0096",
       "reviewedAt": "2026-10-20T07:51:24.636Z",
       "evidence": "Original Cartier exact WSSA0096 HTML explicitly names1847MC,39.8mmwidth/9.38mmthickness/10bar,steel,synthetic spinel,black dial,SmartLink/QuickSwitch andsecond nubuck alligator strap. Original Noahs stock0008-7155 exact WSSA0096 gallery eight files contact-inspected,full1front/4clasp/6accessories inspected. Black textured central dial,Roman indices,date6,steel screw bezel/bracelet,doubleC closedclasp. No back or movement visible. Dealer05/2026 is not manufacture date;42h reserve is seller attribution. Loose straps not factory originality evidence. Generic NewYork Santos images rejected. No neighbouring reference/calibre equivalence."
+    },
+    {
+      "id": "UPDATE:ROLEX|16700",
+      "reviewedAt": "2026-10-20T08:02:34.139Z",
+      "evidence": "Original SwissWatchExpo URL26265,actual page stock25999,exact16700/3175/31jewels/40mm/black bezel/Oyster; archived page and12successful URL files,11distinct bytes,allcontact inspected. Full0front,14physicalcase,16movement,18closedback/clasp,20bracelet inspected. Readable16700case and3175movement marks. Black dial SWISS-T<25,red GMTarrow,Mercedes hands,date3/cyclops,black24h bezel,Oyster/coronet safety clasp. Dealer1997–1998/U30xxxx,dimensions/material/performance/authenticity attributed not independent proof. No confirmed bracelet/endlink/claspdate codes,manufacture/fullinterval/originality/lumechemistry. No neighbouring reference,Pepsi/Coke/Jubilee/Swiss-only dial or3075/3185/3186/3285 equivalence. Comma-suffixed extraction artifact404s excluded from actual media inventory."
     }
   ]
 }
