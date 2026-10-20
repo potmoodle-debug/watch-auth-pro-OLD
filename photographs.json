@@ -34645,6 +34645,134 @@
         },
         "imageSha256": "35b598866f62a7050911f2195e5242f50f224bd9fdbbcc2e4aee470742523d55"
       }
+    },
+    {
+      "id": "queue-cartier-w20122u2-zeit-front",
+      "brand": "CARTIER",
+      "references": [
+        "W20122U2"
+      ],
+      "representativeFor": [],
+      "variant": "Zeitauktion W20122U2 white/silver Roman dial, white strap/bezel specimen; exact individual period and component originality unverified",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "W20122U2 — Watch front",
+      "caption": "Actual white/silver Roman dial, three hands, exposed bezel screws and white strap. This source specimen represents the documented W20122U2 execution; do not transfer other dial or strap configurations.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2304646_02_2k.jpg?v=1747351710",
+      "source": "https://www.zeitauktion.com/de/products/cartier-santos-100-all-white-automatik-edelstahl-medium-ref-2878-w20122u2-2304646",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Pixel-inspected source research2026-10-20",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-20T14:16:09.858Z",
+        "loadedAt": "2026-10-20T14:16:09.858Z",
+        "evidence": "Original Zeitauktion item2304646 explicitly identifies W20122U2/2878 and automatic076. All15 original gallery images contact-inspected; full1/11/14/15 inspected. Opened15 has readable Cartier076 rotor, SWISS and METALMD retaining-plate stamp; no ETA supplier-equivalence inference. Front1 shows white/silver Roman dial, three hands and white strap/bezel execution. Closedback11 shows Santos 100 / Cartier / AUTOMATIC / STAINLESS STEEL / WATER RESISTANT 100 m 330 ft / SWISS MADE, not a newly established independent retail alias. Strap underside has MSMD; pinbuckle14 is Cartier-signed. Seller approx2010 is an estimate, not independent manufacture date or complete period. Refurbishment/service/originality claims, material assay, exact strap/hardware codes and current water resistance require independent inspection; source paperwork/test-ticket is not a user-watch test. No bare2878 alias, otherSantos100 sizes/dials/straps, retailsuffix or common-calibre inheritance. Selected images are actual photographs, not renders. Source-listed dimensions are not authenticity thresholds.",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        },
+        "imageSha256": "9d177a068cd812259b4b1b02e617387c12c8c5e6a3fbf65fd0d084cd4c3c3081"
+      }
+    },
+    {
+      "id": "queue-cartier-w20122u2-zeit-movement",
+      "brand": "CARTIER",
+      "references": [
+        "W20122U2"
+      ],
+      "representativeFor": [],
+      "variant": "Zeitauktion W20122U2 white/silver Roman dial, white strap/bezel specimen; exact individual period and component originality unverified",
+      "category": "movement",
+      "depictsMovement": true,
+      "title": "W20122U2 — Opened movement",
+      "caption": "Case opened: Cartier076 is readable on the rotor. SWISS and the retaining-plate METALMD stamp are visible. No ETA supplier calibre is independently established or accepted as an equivalent.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2304646_15_2k.jpg?v=1747351710",
+      "source": "https://www.zeitauktion.com/de/products/cartier-santos-100-all-white-automatik-edelstahl-medium-ref-2878-w20122u2-2304646",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Pixel-inspected source research2026-10-20",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-20T14:16:09.858Z",
+        "loadedAt": "2026-10-20T14:16:09.858Z",
+        "evidence": "Original Zeitauktion item2304646 explicitly identifies W20122U2/2878 and automatic076. All15 original gallery images contact-inspected; full1/11/14/15 inspected. Opened15 has readable Cartier076 rotor, SWISS and METALMD retaining-plate stamp; no ETA supplier-equivalence inference. Front1 shows white/silver Roman dial, three hands and white strap/bezel execution. Closedback11 shows Santos 100 / Cartier / AUTOMATIC / STAINLESS STEEL / WATER RESISTANT 100 m 330 ft / SWISS MADE, not a newly established independent retail alias. Strap underside has MSMD; pinbuckle14 is Cartier-signed. Seller approx2010 is an estimate, not independent manufacture date or complete period. Refurbishment/service/originality claims, material assay, exact strap/hardware codes and current water resistance require independent inspection; source paperwork/test-ticket is not a user-watch test. No bare2878 alias, otherSantos100 sizes/dials/straps, retailsuffix or common-calibre inheritance. Selected images are actual photographs, not renders. Source-listed dimensions are not authenticity thresholds.",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        },
+        "imageSha256": "7b25a80c848a6829dfa699a42317dae3a99b9fcd24a7eb91e8506c97cf3827b5"
+      }
+    },
+    {
+      "id": "queue-cartier-w20122u2-zeit-caseback",
+      "brand": "CARTIER",
+      "references": [
+        "W20122U2"
+      ],
+      "representativeFor": [],
+      "variant": "Zeitauktion W20122U2 white/silver Roman dial, white strap/bezel specimen; exact individual period and component originality unverified",
+      "category": "caseback",
+      "depictsMovement": false,
+      "title": "W20122U2 — Closed caseback",
+      "caption": "Actual screw-fastened closed back with Santos100, Cartier, AUTOMATIC, STAINLESSSTEEL and100m330ft legends. Legends do not establish present water resistance or an individual manufacture date. No universal2878 alias is created.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2304646_11_2k.jpg?v=1747351710",
+      "source": "https://www.zeitauktion.com/de/products/cartier-santos-100-all-white-automatik-edelstahl-medium-ref-2878-w20122u2-2304646",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Pixel-inspected source research2026-10-20",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-20T14:16:09.858Z",
+        "loadedAt": "2026-10-20T14:16:09.858Z",
+        "evidence": "Original Zeitauktion item2304646 explicitly identifies W20122U2/2878 and automatic076. All15 original gallery images contact-inspected; full1/11/14/15 inspected. Opened15 has readable Cartier076 rotor, SWISS and METALMD retaining-plate stamp; no ETA supplier-equivalence inference. Front1 shows white/silver Roman dial, three hands and white strap/bezel execution. Closedback11 shows Santos 100 / Cartier / AUTOMATIC / STAINLESS STEEL / WATER RESISTANT 100 m 330 ft / SWISS MADE, not a newly established independent retail alias. Strap underside has MSMD; pinbuckle14 is Cartier-signed. Seller approx2010 is an estimate, not independent manufacture date or complete period. Refurbishment/service/originality claims, material assay, exact strap/hardware codes and current water resistance require independent inspection; source paperwork/test-ticket is not a user-watch test. No bare2878 alias, otherSantos100 sizes/dials/straps, retailsuffix or common-calibre inheritance. Selected images are actual photographs, not renders. Source-listed dimensions are not authenticity thresholds.",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        },
+        "imageSha256": "30f3e1dc1c5115e2aacc80e6d6cec8ab7ba733fe2481e978620d9dc908c2abb3"
+      }
+    },
+    {
+      "id": "queue-cartier-w20122u2-zeit-braceletClasp",
+      "brand": "CARTIER",
+      "references": [
+        "W20122U2"
+      ],
+      "representativeFor": [],
+      "variant": "Zeitauktion W20122U2 white/silver Roman dial, white strap/bezel specimen; exact individual period and component originality unverified",
+      "category": "braceletClasp",
+      "depictsMovement": false,
+      "title": "W20122U2 — Strap and pin buckle",
+      "caption": "Actual white strap with Cartier-signed pin buckle. Signing alone does not establish factory originality, full hardware part codes or the condition of the user watch.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2304646_14_2k.jpg?v=1747351710",
+      "source": "https://www.zeitauktion.com/de/products/cartier-santos-100-all-white-automatik-edelstahl-medium-ref-2878-w20122u2-2304646",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Pixel-inspected source research2026-10-20",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-20T14:16:09.858Z",
+        "loadedAt": "2026-10-20T14:16:09.858Z",
+        "evidence": "Original Zeitauktion item2304646 explicitly identifies W20122U2/2878 and automatic076. All15 original gallery images contact-inspected; full1/11/14/15 inspected. Opened15 has readable Cartier076 rotor, SWISS and METALMD retaining-plate stamp; no ETA supplier-equivalence inference. Front1 shows white/silver Roman dial, three hands and white strap/bezel execution. Closedback11 shows Santos 100 / Cartier / AUTOMATIC / STAINLESS STEEL / WATER RESISTANT 100 m 330 ft / SWISS MADE, not a newly established independent retail alias. Strap underside has MSMD; pinbuckle14 is Cartier-signed. Seller approx2010 is an estimate, not independent manufacture date or complete period. Refurbishment/service/originality claims, material assay, exact strap/hardware codes and current water resistance require independent inspection; source paperwork/test-ticket is not a user-watch test. No bare2878 alias, otherSantos100 sizes/dials/straps, retailsuffix or common-calibre inheritance. Selected images are actual photographs, not renders. Source-listed dimensions are not authenticity thresholds.",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        },
+        "imageSha256": "fa776d6173e8f8a97cf8cc118df2e1530398931411ffe142fa20a3a7616c36c7"
+      }
     }
   ]
 }
