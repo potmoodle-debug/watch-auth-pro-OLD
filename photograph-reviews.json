@@ -10738,6 +10738,58 @@
           "finding": "Actual representative specimen;movement exposed in rear/clasp views. Date/hardware/originality gaps remain."
         }
       }
+    },
+    {
+      "brand": "PRECISTA",
+      "reference": "664599",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-20T09:08:16.170Z",
+          "evidence": "Original Patina Nationale gallery physically shows 6645-99 / 757-3314 / 215/93. Original Vintage Watch Specialist vws3997 back photo physically shows the same full stock number with 086/93; that dealer attributes ISA 1198 quartz. All 12 Patina and 14 VWS images contact inspected; full Patina0/7/9 and VWS1 inspected. No opened movement. Different specimens, not individual identity proof. Broadarrow collector explicitly converted quartz to ETA automatic: excluded as factory movement evidence.",
+          "finding": "Incomplete identifier: no photograph inheritance."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-20T09:08:16.170Z",
+          "evidence": "Original Patina Nationale gallery physically shows 6645-99 / 757-3314 / 215/93. Original Vintage Watch Specialist vws3997 back photo physically shows the same full stock number with 086/93; that dealer attributes ISA 1198 quartz. All 12 Patina and 14 VWS images contact inspected; full Patina0/7/9 and VWS1 inspected. No opened movement. Different specimens, not individual identity proof. Broadarrow collector explicitly converted quartz to ETA automatic: excluded as factory movement evidence.",
+          "finding": "Incomplete identifier: no photograph inheritance."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-20T09:08:16.170Z",
+          "evidence": "Original Patina Nationale gallery physically shows 6645-99 / 757-3314 / 215/93. Original Vintage Watch Specialist vws3997 back photo physically shows the same full stock number with 086/93; that dealer attributes ISA 1198 quartz. All 12 Patina and 14 VWS images contact inspected; full Patina0/7/9 and VWS1 inspected. No opened movement. Different specimens, not individual identity proof. Broadarrow collector explicitly converted quartz to ETA automatic: excluded as factory movement evidence.",
+          "finding": "Incomplete identifier: no photograph inheritance."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-20T09:08:16.170Z",
+          "evidence": "Original Patina Nationale gallery physically shows 6645-99 / 757-3314 / 215/93. Original Vintage Watch Specialist vws3997 back photo physically shows the same full stock number with 086/93; that dealer attributes ISA 1198 quartz. All 12 Patina and 14 VWS images contact inspected; full Patina0/7/9 and VWS1 inspected. No opened movement. Different specimens, not individual identity proof. Broadarrow collector explicitly converted quartz to ETA automatic: excluded as factory movement evidence.",
+          "finding": "Incomplete identifier: no photograph inheritance."
+        }
+      }
+    },
+    {
+      "brand": "PRECISTA",
+      "reference": "6645-99-757-3314",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-20T09:08:16.170Z",
+          "evidence": "Original Patina Nationale gallery physically shows 6645-99 / 757-3314 / 215/93. Original Vintage Watch Specialist vws3997 back photo physically shows the same full stock number with 086/93; that dealer attributes ISA 1198 quartz. All 12 Patina and 14 VWS images contact inspected; full Patina0/7/9 and VWS1 inspected. No opened movement. Different specimens, not individual identity proof. Broadarrow collector explicitly converted quartz to ETA automatic: excluded as factory movement evidence.",
+          "finding": "Representative full-number specimen."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-20T09:08:16.170Z",
+          "evidence": "Original Patina Nationale gallery physically shows 6645-99 / 757-3314 / 215/93. Original Vintage Watch Specialist vws3997 back photo physically shows the same full stock number with 086/93; that dealer attributes ISA 1198 quartz. All 12 Patina and 14 VWS images contact inspected; full Patina0/7/9 and VWS1 inspected. No opened movement. Different specimens, not individual identity proof. Broadarrow collector explicitly converted quartz to ETA automatic: excluded as factory movement evidence.",
+          "finding": "No verified photograph; remains empty."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-20T09:08:16.170Z",
+          "evidence": "Original Patina Nationale gallery physically shows 6645-99 / 757-3314 / 215/93. Original Vintage Watch Specialist vws3997 back photo physically shows the same full stock number with 086/93; that dealer attributes ISA 1198 quartz. All 12 Patina and 14 VWS images contact inspected; full Patina0/7/9 and VWS1 inspected. No opened movement. Different specimens, not individual identity proof. Broadarrow collector explicitly converted quartz to ETA automatic: excluded as factory movement evidence.",
+          "finding": "Representative full-number specimen."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-20T09:08:16.170Z",
+          "evidence": "Original Patina Nationale gallery physically shows 6645-99 / 757-3314 / 215/93. Original Vintage Watch Specialist vws3997 back photo physically shows the same full stock number with 086/93; that dealer attributes ISA 1198 quartz. All 12 Patina and 14 VWS images contact inspected; full Patina0/7/9 and VWS1 inspected. No opened movement. Different specimens, not individual identity proof. Broadarrow collector explicitly converted quartz to ETA automatic: excluded as factory movement evidence.",
+          "finding": "No verified photograph; remains empty."
+        }
+      }
     }
   ],
   "sourceRecordReviews": [
@@ -12356,6 +12408,16 @@
       "id": "UPDATE:CARTIER|W5330003",
       "reviewedAt": "2026-10-20T08:14:29.753Z",
       "evidence": "Original CartierChina exact W5330003 visible product description names1904-PSMC,steel,43.9x34.3mm/9.5mm/3bar,silver dial,synthetic spinel,blackalligator/doubledeployant. Original SWE74303 dealer34.3x44mm/27jewels/blue strap;8sourcefiles7distinctbytes contact-inspected,full0/6/7 inspected. Actual1904-PSMC/27JEWELS rotor markings through sapphire back;3589case marking not lookup alias. Silver patterned dial/blue hands/date3/smallseconds6. Blue smooth strap/signed deployant differs from makerblackalligator;factoryfitment unverified. No manufacture/fullinterval/performance/assay/originality proof. Photos6and7 expose movement,including blurred backdrop7;all associated category entries suppressed External-only. No neighbour/calibre equivalence."
+    },
+    {
+      "id": "UPDATE:PRECISTA|664599",
+      "reviewedAt": "2026-10-20T09:08:16.170Z",
+      "evidence": "Original Patina Nationale gallery physically shows 6645-99 / 757-3314 / 215/93. Original Vintage Watch Specialist vws3997 back photo physically shows the same full stock number with 086/93; that dealer attributes ISA 1198 quartz. All 12 Patina and 14 VWS images contact inspected; full Patina0/7/9 and VWS1 inspected. No opened movement. Different specimens, not individual identity proof. Broadarrow collector explicitly converted quartz to ETA automatic: excluded as factory movement evidence."
+    },
+    {
+      "id": "UPDATE:PRECISTA|6645997573314",
+      "reviewedAt": "2026-10-20T09:08:16.170Z",
+      "evidence": "Original Patina Nationale gallery physically shows 6645-99 / 757-3314 / 215/93. Original Vintage Watch Specialist vws3997 back photo physically shows the same full stock number with 086/93; that dealer attributes ISA 1198 quartz. All 12 Patina and 14 VWS images contact inspected; full Patina0/7/9 and VWS1 inspected. No opened movement. Different specimens, not individual identity proof. Broadarrow collector explicitly converted quartz to ETA automatic: excluded as factory movement evidence."
     }
   ]
 }

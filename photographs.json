@@ -34577,6 +34577,74 @@
         },
         "imageSha256": "fa63479aa22b3de59a69fab915ac1a093d6b3c6e52b5ebee0e00d52b238742ad"
       }
+    },
+    {
+      "id": "queue-precista-fullnsn-patina-front",
+      "brand": "PRECISTA",
+      "references": [
+        "6645-99-757-3314"
+      ],
+      "representativeFor": [
+        "6645-99-757-3314"
+      ],
+      "variant": "Patina Nationale representative 215/93 specimen; individual identity and originality unverified",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "Precista 6645-99-757-3314 — front",
+      "caption": "Representative black Big Triangle / circled T dial and textile strap. Dial marking does not establish lume chemistry.",
+      "image": "https://b2945677.assetcdn.net/2.0/2945677/wp-content/uploads/2025/06/IMG_4779-768x1024.jpg?lossy=0&strip=1&webp=1",
+      "source": "https://patinanationale.com/shop/watches/divers/precista-93-royal-navy-issued-diver-1993-big-triangle/",
+      "credit": "Patina Nationale",
+      "mediaKind": "photograph",
+      "origin": "Inspected missing-reference research 2026-10-20",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-20T09:08:16.170Z",
+        "loadedAt": "2026-10-20T09:08:16.170Z",
+        "evidence": "Original Patina Nationale gallery physically shows 6645-99 / 757-3314 / 215/93. Original Vintage Watch Specialist vws3997 back photo physically shows the same full stock number with 086/93; that dealer attributes ISA 1198 quartz. All 12 Patina and 14 VWS images contact inspected; full Patina0/7/9 and VWS1 inspected. No opened movement. Different specimens, not individual identity proof. Broadarrow collector explicitly converted quartz to ETA automatic: excluded as factory movement evidence.",
+        "imageDimensions": {
+          "width": 768,
+          "height": 1024
+        },
+        "imageSha256": "7b10a1949434682f213d274b71cee1d3b7ab9083feb07a849e608fe8a4646671"
+      }
+    },
+    {
+      "id": "queue-precista-fullnsn-patina-caseback",
+      "brand": "PRECISTA",
+      "references": [
+        "6645-99-757-3314"
+      ],
+      "representativeFor": [
+        "6645-99-757-3314"
+      ],
+      "variant": "Patina Nationale representative 215/93 specimen; individual identity and originality unverified",
+      "category": "caseback",
+      "depictsMovement": false,
+      "title": "Precista 6645-99-757-3314 — caseback",
+      "caption": "Closed caseback reads 6645-99 / 757-3314 / 215/93. Another specimen; issue-style marking is not individual manufacture proof.",
+      "image": "https://b2945677.assetcdn.net/2.0/2945677/wp-content/uploads/2025/06/IMG_4780-768x1024.jpg?lossy=0&strip=1&webp=1",
+      "source": "https://patinanationale.com/shop/watches/divers/precista-93-royal-navy-issued-diver-1993-big-triangle/",
+      "credit": "Patina Nationale",
+      "mediaKind": "photograph",
+      "origin": "Inspected missing-reference research 2026-10-20",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-20T09:08:16.170Z",
+        "loadedAt": "2026-10-20T09:08:16.170Z",
+        "evidence": "Original Patina Nationale gallery physically shows 6645-99 / 757-3314 / 215/93. Original Vintage Watch Specialist vws3997 back photo physically shows the same full stock number with 086/93; that dealer attributes ISA 1198 quartz. All 12 Patina and 14 VWS images contact inspected; full Patina0/7/9 and VWS1 inspected. No opened movement. Different specimens, not individual identity proof. Broadarrow collector explicitly converted quartz to ETA automatic: excluded as factory movement evidence.",
+        "imageDimensions": {
+          "width": 768,
+          "height": 1024
+        },
+        "imageSha256": "35b598866f62a7050911f2195e5242f50f224bd9fdbbcc2e4aee470742523d55"
+      }
     }
   ]
 }

@@ -1,0 +1,29 @@
+{
+  "reviewedAt": "2026-10-20T09:08:16.170Z",
+  "evidence": "Original Patina Nationale gallery physically shows 6645-99 / 757-3314 / 215/93. Original Vintage Watch Specialist vws3997 back photo physically shows the same full stock number with 086/93; that dealer attributes ISA 1198 quartz. All 12 Patina and 14 VWS images contact inspected; full Patina0/7/9 and VWS1 inspected. No opened movement. Different specimens, not individual identity proof. Broadarrow collector explicitly converted quartz to ETA automatic: excluded as factory movement evidence.",
+  "sources": [
+    "https://patinanationale.com/shop/watches/divers/precista-93-royal-navy-issued-diver-1993-big-triangle/",
+    "https://vintagewatchspecialist.com/products/precista-royal-navy-diver-quartz-asymmetric-case-original-military-markings-1993",
+    "https://broadarrow.net/precista.htm"
+  ],
+  "reference": "6645-99-757-3314",
+  "images": [
+    {
+      "i": 0,
+      "image": "https://b2945677.assetcdn.net/2.0/2945677/wp-content/uploads/2025/06/IMG_4779-768x1024.jpg?lossy=0&strip=1&webp=1",
+      "file": "0.jpg",
+      "sha256": "7b10a1949434682f213d274b71cee1d3b7ab9083feb07a849e608fe8a4646671",
+      "width": 768,
+      "height": 1024
+    },
+    {
+      "i": 7,
+      "image": "https://b2945677.assetcdn.net/2.0/2945677/wp-content/uploads/2025/06/IMG_4780-768x1024.jpg?lossy=0&strip=1&webp=1",
+      "file": "7.jpg",
+      "sha256": "35b598866f62a7050911f2195e5242f50f224bd9fdbbcc2e4aee470742523d55",
+      "width": 768,
+      "height": 1024
+    }
+  ],
+  "limits": "Incomplete prefix never inherits photos/calibre. No opened movement or clasp. Full inventory and authenticated checks remain incomplete."
+}
