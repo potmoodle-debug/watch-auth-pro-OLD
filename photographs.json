@@ -34237,6 +34237,74 @@
         },
         "imageSha256": "ad858292da09d80178a286ad1239961aacc23ea7992bac87dc66f67ff4d54083"
       }
+    },
+    {
+      "id": "queue-cartierwssa0096-noahs7155-front",
+      "brand": "CARTIER",
+      "references": [
+        "WSSA0096"
+      ],
+      "representativeFor": [
+        "WSSA0096"
+      ],
+      "variant": "Noahs0008-7155 black dial / steel bracelet specimen",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "WSSA0096 specimen — front",
+      "caption": "Actual black textured dial, Roman numerals, date at6 and steel screw bezel/bracelet. Glass reflection retained. Exact WSSA0096 is dealer/maker source attribution.",
+      "image": "https://noahsfinejewelry.com/cdn/shop/files/cartier-santos-wssa0096-angled-view.jpg?v=1785437766&width=1562",
+      "source": "https://noahsfinejewelry.com/products/cartier-santos-de-cartier-black-dial-wssa0096-2026",
+      "credit": "Noah's Fine Watches & Jewelry",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research2026-10-20",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-20T07:51:24.636Z",
+        "loadedAt": "2026-10-20T07:51:24.636Z",
+        "evidence": "Original Cartier exact WSSA0096 HTML explicitly names1847MC,39.8mmwidth/9.38mmthickness/10bar,steel,synthetic spinel,black dial,SmartLink/QuickSwitch andsecond nubuck alligator strap. Original Noahs stock0008-7155 exact WSSA0096 gallery eight files contact-inspected,full1front/4clasp/6accessories inspected. Black textured central dial,Roman indices,date6,steel screw bezel/bracelet,doubleC closedclasp. No back or movement visible. Dealer05/2026 is not manufacture date;42h reserve is seller attribution. Loose straps not factory originality evidence. Generic NewYork Santos images rejected. No neighbouring reference/calibre equivalence.",
+        "imageDimensions": {
+          "width": 1562,
+          "height": 1954
+        },
+        "imageSha256": "2c2616eca15968253b89bf0c831472a75db4ec7700c10de7caca0d1adab9f0b3"
+      }
+    },
+    {
+      "id": "queue-cartierwssa0096-noahs7155-braceletClasp",
+      "brand": "CARTIER",
+      "references": [
+        "WSSA0096"
+      ],
+      "representativeFor": [
+        "WSSA0096"
+      ],
+      "variant": "Noahs0008-7155 black dial / steel bracelet specimen",
+      "category": "braceletClasp",
+      "depictsMovement": false,
+      "title": "WSSA0096 specimen — braceletClasp",
+      "caption": "Actual closed steel bracelet clasp with doubleC logo and pushbuttons. Underside codes,adjustment internals and factory hardware originality remain unverified.",
+      "image": "https://noahsfinejewelry.com/cdn/shop/files/cartier-santos-wssa0096-steel-clasp.jpg?v=1785437791&width=1562",
+      "source": "https://noahsfinejewelry.com/products/cartier-santos-de-cartier-black-dial-wssa0096-2026",
+      "credit": "Noah's Fine Watches & Jewelry",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research2026-10-20",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-20T07:51:24.636Z",
+        "loadedAt": "2026-10-20T07:51:24.636Z",
+        "evidence": "Original Cartier exact WSSA0096 HTML explicitly names1847MC,39.8mmwidth/9.38mmthickness/10bar,steel,synthetic spinel,black dial,SmartLink/QuickSwitch andsecond nubuck alligator strap. Original Noahs stock0008-7155 exact WSSA0096 gallery eight files contact-inspected,full1front/4clasp/6accessories inspected. Black textured central dial,Roman indices,date6,steel screw bezel/bracelet,doubleC closedclasp. No back or movement visible. Dealer05/2026 is not manufacture date;42h reserve is seller attribution. Loose straps not factory originality evidence. Generic NewYork Santos images rejected. No neighbouring reference/calibre equivalence.",
+        "imageDimensions": {
+          "width": 1562,
+          "height": 1954
+        },
+        "imageSha256": "e59928f82e37c8c48146a48a2b8d1dbca44faa3c419af47ff28732935bc6cae4"
+      }
     }
   ]
 }

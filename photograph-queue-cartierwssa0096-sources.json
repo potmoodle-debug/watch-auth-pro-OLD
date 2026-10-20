@@ -1,0 +1,58 @@
+{
+  "reviewedAt": "2026-10-20T07:51:24.636Z",
+  "completion": "IN PROGRESS",
+  "source": "https://noahsfinejewelry.com/products/cartier-santos-de-cartier-black-dial-wssa0096-2026",
+  "maker": "https://int.cartier.com/en/collections/watches/all-watches/santos-de-cartier-all/wssa0096-santos-de-cartier-watch.html",
+  "evidence": "Original Cartier exact WSSA0096 HTML explicitly names1847MC,39.8mmwidth/9.38mmthickness/10bar,steel,synthetic spinel,black dial,SmartLink/QuickSwitch andsecond nubuck alligator strap. Original Noahs stock0008-7155 exact WSSA0096 gallery eight files contact-inspected,full1front/4clasp/6accessories inspected. Black textured central dial,Roman indices,date6,steel screw bezel/bracelet,doubleC closedclasp. No back or movement visible. Dealer05/2026 is not manufacture date;42h reserve is seller attribution. Loose straps not factory originality evidence. Generic NewYork Santos images rejected. No neighbouring reference/calibre equivalence.",
+  "sources": [
+    {
+      "id": "maker",
+      "url": "https://int.cartier.com/en/collections/watches/all-watches/santos-de-cartier-all/wssa0096-santos-de-cartier-watch.html",
+      "finalUrl": "https://int.cartier.com/en/collections/watches/all-watches/santos-de-cartier-all/wssa0096-santos-de-cartier-watch.html",
+      "status": 200,
+      "bytes": 444245,
+      "sha256": "3a707f21e97222b0090c5213e25664871f629de8f0548cbcf803f7c7500eae3e"
+    },
+    {
+      "id": "newyork",
+      "url": "https://newyork.tw/watch/cartier-wssa0096",
+      "finalUrl": "https://newyork.tw/watch/cartier-wssa0096",
+      "status": 200,
+      "bytes": 29564,
+      "sha256": "f8d50f136ee68e0645ed00653716754166900c15b096ff4541f524ad8c71b415"
+    }
+  ],
+  "specimenReceipt": {
+    "url": "https://noahsfinejewelry.com/products/cartier-santos-de-cartier-black-dial-wssa0096-2026",
+    "finalUrl": "https://noahsfinejewelry.com/products/cartier-santos-de-cartier-black-dial-wssa0096-2026",
+    "status": 200,
+    "sha256": "e5f4341c96438087b4a4de11ca5b5bf820f30ab32ed0c2c084d9a61e8f877c71"
+  },
+  "images": [
+    {
+      "i": 1,
+      "url": "https://noahsfinejewelry.com/cdn/shop/files/cartier-santos-wssa0096-angled-view.jpg?v=1785437766&width=1562",
+      "status": 200,
+      "bytes": 335909,
+      "sha256": "2c2616eca15968253b89bf0c831472a75db4ec7700c10de7caca0d1adab9f0b3",
+      "width": 1562,
+      "height": 1954
+    },
+    {
+      "i": 4,
+      "url": "https://noahsfinejewelry.com/cdn/shop/files/cartier-santos-wssa0096-steel-clasp.jpg?v=1785437791&width=1562",
+      "status": 200,
+      "bytes": 285161,
+      "sha256": "e59928f82e37c8c48146a48a2b8d1dbca44faa3c419af47ff28732935bc6cae4",
+      "width": 1562,
+      "height": 1954
+    }
+  ],
+  "gaps": [
+    "Actual caseback",
+    "Opened movement and execution",
+    "Individual manufacture/full production interval",
+    "Hardware and strap originality/operation"
+  ],
+  "queueStatus": "Open pending tested publication and live verification"
+}
