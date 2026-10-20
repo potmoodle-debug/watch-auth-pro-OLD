@@ -1,0 +1,63 @@
+{
+  "reviewedAt": "2026-10-20T08:02:34.139Z",
+  "completion": "IN PROGRESS",
+  "reference": "16700",
+  "source": "https://www.swisswatchexpo.com/watches/rolex/mens-rolex/gmt-master/gmt-master-black-bezel-automatic-steel-mens-16700-26265/",
+  "sourceReceipt": {
+    "url": "https://www.swisswatchexpo.com/watches/rolex/mens-rolex/gmt-master/gmt-master-black-bezel-automatic-steel-mens-16700-26265/",
+    "finalUrl": "https://www.swisswatchexpo.com/watches/rolex/mens-rolex/gmt-master/gmt-master-black-bezel-automatic-steel-mens-16700-26265/",
+    "status": 200,
+    "sha256": "3ccaa8553e697a24d62173610803b8dbaea074db7cf7142256f095768bc7bbdf"
+  },
+  "evidence": "Original SwissWatchExpo URL26265,actual page stock25999,exact16700/3175/31jewels/40mm/black bezel/Oyster; archived page and12successful URL files,11distinct bytes,allcontact inspected. Full0front,14physicalcase,16movement,18closedback/clasp,20bracelet inspected. Readable16700case and3175movement marks. Black dial SWISS-T<25,red GMTarrow,Mercedes hands,date3/cyclops,black24h bezel,Oyster/coronet safety clasp. Dealer1997–1998/U30xxxx,dimensions/material/performance/authenticity attributed not independent proof. No confirmed bracelet/endlink/claspdate codes,manufacture/fullinterval/originality/lumechemistry. No neighbouring reference,Pepsi/Coke/Jubilee/Swiss-only dial or3075/3185/3186/3285 equivalence. Comma-suffixed extraction artifact404s excluded from actual media inventory.",
+  "images": [
+    {
+      "i": 0,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/35/26265/rolex-gmt-master-black-bezel-automatic-steel-mens-watch-16700_26265_f.jpg",
+      "status": 200,
+      "file": "0.jpg",
+      "sha256": "d1889900c22a5c1d5b0ed940e0829b7d0752984d010157a8699a4c686bf1297a",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "i": 14,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/35/26265/rolex-gmt-master-black-bezel-automatic-steel-mens-watch-16700-297537_b.jpg",
+      "status": 200,
+      "file": "14.jpg",
+      "sha256": "7648e4d3c2a2809570e2b7d3a8b4b82b24b5a57d705e122c7ce35109c4cc588d",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "i": 16,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/35/26265/rolex-gmt-master-black-bezel-automatic-steel-mens-watch-16700-297529_b.jpg",
+      "status": 200,
+      "file": "16.jpg",
+      "sha256": "6323a2a2e5b913edf0001fdea571e1ba7d68c060e73e3661f2927b2fdc19f8d5",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "i": 18,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/35/26265/rolex-gmt-master-black-bezel-automatic-steel-mens-watch-16700-297536_b.jpg",
+      "status": 200,
+      "file": "18.jpg",
+      "sha256": "207485b95268c8733d39c8440662f72c38972ff0069b9f378463ea814bf8bdcd",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "i": 20,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/35/26265/rolex-gmt-master-black-bezel-automatic-steel-mens-watch-16700-297527_b.jpg",
+      "status": 200,
+      "file": "20.jpg",
+      "sha256": "8689be0f696ed4ffb2d9e1ac3c8265989a2406c4f0037bad8983d973fc623970",
+      "width": 1024,
+      "height": 1024
+    }
+  ],
+  "galleryEntries": 4,
+  "distinctFiles": 4,
+  "queueStatus": "Open pending tested publication/live verification"
+}

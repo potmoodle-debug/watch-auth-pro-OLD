@@ -34305,6 +34305,142 @@
         },
         "imageSha256": "e59928f82e37c8c48146a48a2b8d1dbca44faa3c419af47ff28732935bc6cae4"
       }
+    },
+    {
+      "id": "queue-rolex16700-swe25999-front",
+      "brand": "ROLEX",
+      "references": [
+        "16700"
+      ],
+      "representativeFor": [
+        "16700"
+      ],
+      "variant": "SWE25999 / URL26265 black dial and bezel / Oyster specimen",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "GMT-Master16700 specimen — front",
+      "caption": "Actual black dial with SWISS-T<25 printing,red24h arrow,Mercedes hands,date3/cyclops and black24h bezel. Printing is not lume chemistry or originality proof.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/35/26265/rolex-gmt-master-black-bezel-automatic-steel-mens-watch-16700_26265_f.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex/mens-rolex/gmt-master/gmt-master-black-bezel-automatic-steel-mens-16700-26265/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research2026-10-20",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-20T08:02:34.139Z",
+        "loadedAt": "2026-10-20T08:02:34.139Z",
+        "evidence": "Original SwissWatchExpo URL26265,actual page stock25999,exact16700/3175/31jewels/40mm/black bezel/Oyster; archived page and12successful URL files,11distinct bytes,allcontact inspected. Full0front,14physicalcase,16movement,18closedback/clasp,20bracelet inspected. Readable16700case and3175movement marks. Black dial SWISS-T<25,red GMTarrow,Mercedes hands,date3/cyclops,black24h bezel,Oyster/coronet safety clasp. Dealer1997–1998/U30xxxx,dimensions/material/performance/authenticity attributed not independent proof. No confirmed bracelet/endlink/claspdate codes,manufacture/fullinterval/originality/lumechemistry. No neighbouring reference,Pepsi/Coke/Jubilee/Swiss-only dial or3075/3185/3186/3285 equivalence. Comma-suffixed extraction artifact404s excluded from actual media inventory.",
+        "imageDimensions": {
+          "width": 1024,
+          "height": 1024
+        },
+        "imageSha256": "d1889900c22a5c1d5b0ed940e0829b7d0752984d010157a8699a4c686bf1297a"
+      }
+    },
+    {
+      "id": "queue-rolex16700-swe25999-movement",
+      "brand": "ROLEX",
+      "references": [
+        "16700"
+      ],
+      "representativeFor": [
+        "16700"
+      ],
+      "variant": "SWE25999 / URL26265 black dial and bezel / Oyster specimen",
+      "category": "movement",
+      "depictsMovement": true,
+      "title": "GMT-Master16700 specimen — movement",
+      "caption": "Actual opened Rolex-signed automatic movement with readable3175 stamp. This supports this specimen marking,not universal authenticity or component originality.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/35/26265/rolex-gmt-master-black-bezel-automatic-steel-mens-watch-16700-297529_b.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex/mens-rolex/gmt-master/gmt-master-black-bezel-automatic-steel-mens-16700-26265/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research2026-10-20",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-20T08:02:34.139Z",
+        "loadedAt": "2026-10-20T08:02:34.139Z",
+        "evidence": "Original SwissWatchExpo URL26265,actual page stock25999,exact16700/3175/31jewels/40mm/black bezel/Oyster; archived page and12successful URL files,11distinct bytes,allcontact inspected. Full0front,14physicalcase,16movement,18closedback/clasp,20bracelet inspected. Readable16700case and3175movement marks. Black dial SWISS-T<25,red GMTarrow,Mercedes hands,date3/cyclops,black24h bezel,Oyster/coronet safety clasp. Dealer1997–1998/U30xxxx,dimensions/material/performance/authenticity attributed not independent proof. No confirmed bracelet/endlink/claspdate codes,manufacture/fullinterval/originality/lumechemistry. No neighbouring reference,Pepsi/Coke/Jubilee/Swiss-only dial or3075/3185/3186/3285 equivalence. Comma-suffixed extraction artifact404s excluded from actual media inventory.",
+        "imageDimensions": {
+          "width": 1024,
+          "height": 1024
+        },
+        "imageSha256": "6323a2a2e5b913edf0001fdea571e1ba7d68c060e73e3661f2927b2fdc19f8d5"
+      }
+    },
+    {
+      "id": "queue-rolex16700-swe25999-caseback",
+      "brand": "ROLEX",
+      "references": [
+        "16700"
+      ],
+      "representativeFor": [
+        "16700"
+      ],
+      "variant": "SWE25999 / URL26265 black dial and bezel / Oyster specimen",
+      "category": "caseback",
+      "depictsMovement": false,
+      "title": "GMT-Master16700 specimen — caseback",
+      "caption": "Actual plain closed back,Oyster bracelet,coronet folding clasp,safety catch and adjustment holes. No confirmed bracelet/endlink/claspdate codes.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/35/26265/rolex-gmt-master-black-bezel-automatic-steel-mens-watch-16700-297536_b.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex/mens-rolex/gmt-master/gmt-master-black-bezel-automatic-steel-mens-16700-26265/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research2026-10-20",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-20T08:02:34.139Z",
+        "loadedAt": "2026-10-20T08:02:34.139Z",
+        "evidence": "Original SwissWatchExpo URL26265,actual page stock25999,exact16700/3175/31jewels/40mm/black bezel/Oyster; archived page and12successful URL files,11distinct bytes,allcontact inspected. Full0front,14physicalcase,16movement,18closedback/clasp,20bracelet inspected. Readable16700case and3175movement marks. Black dial SWISS-T<25,red GMTarrow,Mercedes hands,date3/cyclops,black24h bezel,Oyster/coronet safety clasp. Dealer1997–1998/U30xxxx,dimensions/material/performance/authenticity attributed not independent proof. No confirmed bracelet/endlink/claspdate codes,manufacture/fullinterval/originality/lumechemistry. No neighbouring reference,Pepsi/Coke/Jubilee/Swiss-only dial or3075/3185/3186/3285 equivalence. Comma-suffixed extraction artifact404s excluded from actual media inventory.",
+        "imageDimensions": {
+          "width": 1024,
+          "height": 1024
+        },
+        "imageSha256": "207485b95268c8733d39c8440662f72c38972ff0069b9f378463ea814bf8bdcd"
+      }
+    },
+    {
+      "id": "queue-rolex16700-swe25999-braceletClasp",
+      "brand": "ROLEX",
+      "references": [
+        "16700"
+      ],
+      "representativeFor": [
+        "16700"
+      ],
+      "variant": "SWE25999 / URL26265 black dial and bezel / Oyster specimen",
+      "category": "braceletClasp",
+      "depictsMovement": false,
+      "title": "GMT-Master16700 specimen — braceletClasp",
+      "caption": "Actual full Oyster bracelet and coronet clasp beside ruler. Hardware originality,partcodes and measurements remain unverified.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/35/26265/rolex-gmt-master-black-bezel-automatic-steel-mens-watch-16700-297527_b.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex/mens-rolex/gmt-master/gmt-master-black-bezel-automatic-steel-mens-16700-26265/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research2026-10-20",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-20T08:02:34.139Z",
+        "loadedAt": "2026-10-20T08:02:34.139Z",
+        "evidence": "Original SwissWatchExpo URL26265,actual page stock25999,exact16700/3175/31jewels/40mm/black bezel/Oyster; archived page and12successful URL files,11distinct bytes,allcontact inspected. Full0front,14physicalcase,16movement,18closedback/clasp,20bracelet inspected. Readable16700case and3175movement marks. Black dial SWISS-T<25,red GMTarrow,Mercedes hands,date3/cyclops,black24h bezel,Oyster/coronet safety clasp. Dealer1997–1998/U30xxxx,dimensions/material/performance/authenticity attributed not independent proof. No confirmed bracelet/endlink/claspdate codes,manufacture/fullinterval/originality/lumechemistry. No neighbouring reference,Pepsi/Coke/Jubilee/Swiss-only dial or3075/3185/3186/3285 equivalence. Comma-suffixed extraction artifact404s excluded from actual media inventory.",
+        "imageDimensions": {
+          "width": 1024,
+          "height": 1024
+        },
+        "imageSha256": "8689be0f696ed4ffb2d9e1ac3c8265989a2406c4f0037bad8983d973fc623970"
+      }
     }
   ]
 }
