@@ -1,0 +1,53 @@
+{
+  "reviewedAt": "2026-10-20T08:14:29.753Z",
+  "completion": "IN PROGRESS",
+  "reference": "W5330003",
+  "sources": [
+    {
+      "id": "source",
+      "url": "https://www.swisswatchexpo.com/watches/cartier-tank-mc-steel-silver-dial-mens-watch-w5330003-74303/",
+      "finalUrl": "https://www.swisswatchexpo.com/watches/cartier-tank-mc-steel-silver-dial-mens-watch-w5330003-74303/",
+      "status": 200,
+      "bytes": 169665,
+      "sha256": "c7d157b635167e939b0e3f78d4d1d04f0892e8012642a064685d8f221e04e032"
+    },
+    {
+      "id": "maker",
+      "url": "https://www.cartier.cn/creation/W5330003",
+      "finalUrl": "https://www.cartier.cn/creation/W5330003",
+      "status": 200,
+      "bytes": 734847,
+      "sha256": "cde82624879d2f637144c8a89618f9a2109b6ffb644fbf164ae25ff458dcabb2"
+    }
+  ],
+  "evidence": "Original CartierChina exact W5330003 visible product description names1904-PSMC,steel,43.9x34.3mm/9.5mm/3bar,silver dial,synthetic spinel,blackalligator/doubledeployant. Original SWE74303 dealer34.3x44mm/27jewels/blue strap;8sourcefiles7distinctbytes contact-inspected,full0/6/7 inspected. Actual1904-PSMC/27JEWELS rotor markings through sapphire back;3589case marking not lookup alias. Silver patterned dial/blue hands/date3/smallseconds6. Blue smooth strap/signed deployant differs from makerblackalligator;factoryfitment unverified. No manufacture/fullinterval/performance/assay/originality proof. Photos6and7 expose movement,including blurred backdrop7;all associated category entries suppressed External-only. No neighbour/calibre equivalence.",
+  "images": [
+    {
+      "i": 0,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/5/6/cartier-tank-mc-steel-silver-dial-mens-watch-w5330003-74303_26797.jpg",
+      "file": "0.jpg",
+      "sha256": "7dbae0904fb74c4e5d68563d71f26cca285324bcf32c682e91b96b697f9313bf",
+      "width": 2376,
+      "height": 2376
+    },
+    {
+      "i": 6,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/5/6/cartier-tank-mc-steel-silver-dial-mens-watch-w5330003-74303_51a4d.jpg",
+      "file": "6.jpg",
+      "sha256": "ca5ff83c64e824a7dafca4db5a01f994230f4db84c25a1733894d262dc282ab1",
+      "width": 2388,
+      "height": 2388
+    },
+    {
+      "i": 7,
+      "image": "https://cdn.swisswatchexpo.com/productphotos/5/6/cartier-tank-mc-steel-silver-dial-mens-watch-w5330003-74303_792ba.jpg",
+      "file": "7.jpg",
+      "sha256": "fa63479aa22b3de59a69fab915ac1a093d6b3c6e52b5ebee0e00d52b238742ad",
+      "width": 3642,
+      "height": 3642
+    }
+  ],
+  "galleryEntries": 4,
+  "distinctFiles": 3,
+  "queueStatus": "Open pending tested publication and live checks"
+}
