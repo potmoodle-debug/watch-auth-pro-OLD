@@ -10712,6 +10712,32 @@
           "finding": "Actual representative specimen inspected;period/date/material/lume/hardware/originality gaps remain."
         }
       }
+    },
+    {
+      "brand": "CARTIER",
+      "reference": "W5330003",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-20T08:14:29.753Z",
+          "evidence": "Original CartierChina exact W5330003 visible product description names1904-PSMC,steel,43.9x34.3mm/9.5mm/3bar,silver dial,synthetic spinel,blackalligator/doubledeployant. Original SWE74303 dealer34.3x44mm/27jewels/blue strap;8sourcefiles7distinctbytes contact-inspected,full0/6/7 inspected. Actual1904-PSMC/27JEWELS rotor markings through sapphire back;3589case marking not lookup alias. Silver patterned dial/blue hands/date3/smallseconds6. Blue smooth strap/signed deployant differs from makerblackalligator;factoryfitment unverified. No manufacture/fullinterval/performance/assay/originality proof. Photos6and7 expose movement,including blurred backdrop7;all associated category entries suppressed External-only. No neighbour/calibre equivalence.",
+          "finding": "Actual representative specimen;movement exposed in rear/clasp views. Date/hardware/originality gaps remain."
+        },
+        "movement": {
+          "reviewedAt": "2026-10-20T08:14:29.753Z",
+          "evidence": "Original CartierChina exact W5330003 visible product description names1904-PSMC,steel,43.9x34.3mm/9.5mm/3bar,silver dial,synthetic spinel,blackalligator/doubledeployant. Original SWE74303 dealer34.3x44mm/27jewels/blue strap;8sourcefiles7distinctbytes contact-inspected,full0/6/7 inspected. Actual1904-PSMC/27JEWELS rotor markings through sapphire back;3589case marking not lookup alias. Silver patterned dial/blue hands/date3/smallseconds6. Blue smooth strap/signed deployant differs from makerblackalligator;factoryfitment unverified. No manufacture/fullinterval/performance/assay/originality proof. Photos6and7 expose movement,including blurred backdrop7;all associated category entries suppressed External-only. No neighbour/calibre equivalence.",
+          "finding": "Actual representative specimen;movement exposed in rear/clasp views. Date/hardware/originality gaps remain."
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-20T08:14:29.753Z",
+          "evidence": "Original CartierChina exact W5330003 visible product description names1904-PSMC,steel,43.9x34.3mm/9.5mm/3bar,silver dial,synthetic spinel,blackalligator/doubledeployant. Original SWE74303 dealer34.3x44mm/27jewels/blue strap;8sourcefiles7distinctbytes contact-inspected,full0/6/7 inspected. Actual1904-PSMC/27JEWELS rotor markings through sapphire back;3589case marking not lookup alias. Silver patterned dial/blue hands/date3/smallseconds6. Blue smooth strap/signed deployant differs from makerblackalligator;factoryfitment unverified. No manufacture/fullinterval/performance/assay/originality proof. Photos6and7 expose movement,including blurred backdrop7;all associated category entries suppressed External-only. No neighbour/calibre equivalence.",
+          "finding": "Actual representative specimen;movement exposed in rear/clasp views. Date/hardware/originality gaps remain."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-20T08:14:29.753Z",
+          "evidence": "Original CartierChina exact W5330003 visible product description names1904-PSMC,steel,43.9x34.3mm/9.5mm/3bar,silver dial,synthetic spinel,blackalligator/doubledeployant. Original SWE74303 dealer34.3x44mm/27jewels/blue strap;8sourcefiles7distinctbytes contact-inspected,full0/6/7 inspected. Actual1904-PSMC/27JEWELS rotor markings through sapphire back;3589case marking not lookup alias. Silver patterned dial/blue hands/date3/smallseconds6. Blue smooth strap/signed deployant differs from makerblackalligator;factoryfitment unverified. No manufacture/fullinterval/performance/assay/originality proof. Photos6and7 expose movement,including blurred backdrop7;all associated category entries suppressed External-only. No neighbour/calibre equivalence.",
+          "finding": "Actual representative specimen;movement exposed in rear/clasp views. Date/hardware/originality gaps remain."
+        }
+      }
     }
   ],
   "sourceRecordReviews": [
@@ -12325,6 +12351,11 @@
       "id": "UPDATE:ROLEX|16700",
       "reviewedAt": "2026-10-20T08:02:34.139Z",
       "evidence": "Original SwissWatchExpo URL26265,actual page stock25999,exact16700/3175/31jewels/40mm/black bezel/Oyster; archived page and12successful URL files,11distinct bytes,allcontact inspected. Full0front,14physicalcase,16movement,18closedback/clasp,20bracelet inspected. Readable16700case and3175movement marks. Black dial SWISS-T<25,red GMTarrow,Mercedes hands,date3/cyclops,black24h bezel,Oyster/coronet safety clasp. Dealer1997–1998/U30xxxx,dimensions/material/performance/authenticity attributed not independent proof. No confirmed bracelet/endlink/claspdate codes,manufacture/fullinterval/originality/lumechemistry. No neighbouring reference,Pepsi/Coke/Jubilee/Swiss-only dial or3075/3185/3186/3285 equivalence. Comma-suffixed extraction artifact404s excluded from actual media inventory."
+    },
+    {
+      "id": "UPDATE:CARTIER|W5330003",
+      "reviewedAt": "2026-10-20T08:14:29.753Z",
+      "evidence": "Original CartierChina exact W5330003 visible product description names1904-PSMC,steel,43.9x34.3mm/9.5mm/3bar,silver dial,synthetic spinel,blackalligator/doubledeployant. Original SWE74303 dealer34.3x44mm/27jewels/blue strap;8sourcefiles7distinctbytes contact-inspected,full0/6/7 inspected. Actual1904-PSMC/27JEWELS rotor markings through sapphire back;3589case marking not lookup alias. Silver patterned dial/blue hands/date3/smallseconds6. Blue smooth strap/signed deployant differs from makerblackalligator;factoryfitment unverified. No manufacture/fullinterval/performance/assay/originality proof. Photos6and7 expose movement,including blurred backdrop7;all associated category entries suppressed External-only. No neighbour/calibre equivalence."
     }
   ]
 }

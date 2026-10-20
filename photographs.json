@@ -34441,6 +34441,142 @@
         },
         "imageSha256": "8689be0f696ed4ffb2d9e1ac3c8265989a2406c4f0037bad8983d973fc623970"
       }
+    },
+    {
+      "id": "queue-cartierw5330003-swe74303-front",
+      "brand": "CARTIER",
+      "references": [
+        "W5330003"
+      ],
+      "representativeFor": [
+        "W5330003"
+      ],
+      "variant": "SWE74303 silver dial / blue smooth strap specimen; factory fitment unverified",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "Tank MC W5330003 specimen — front",
+      "caption": "Actual silver patterned Roman dial,blue hands,date3 and smallseconds6 with blue smooth strap. Factory strap species and original fitment unverified.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/5/6/cartier-tank-mc-steel-silver-dial-mens-watch-w5330003-74303_26797.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/cartier-tank-mc-steel-silver-dial-mens-watch-w5330003-74303/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research2026-10-20",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-20T08:14:29.753Z",
+        "loadedAt": "2026-10-20T08:14:29.753Z",
+        "evidence": "Original CartierChina exact W5330003 visible product description names1904-PSMC,steel,43.9x34.3mm/9.5mm/3bar,silver dial,synthetic spinel,blackalligator/doubledeployant. Original SWE74303 dealer34.3x44mm/27jewels/blue strap;8sourcefiles7distinctbytes contact-inspected,full0/6/7 inspected. Actual1904-PSMC/27JEWELS rotor markings through sapphire back;3589case marking not lookup alias. Silver patterned dial/blue hands/date3/smallseconds6. Blue smooth strap/signed deployant differs from makerblackalligator;factoryfitment unverified. No manufacture/fullinterval/performance/assay/originality proof. Photos6and7 expose movement,including blurred backdrop7;all associated category entries suppressed External-only. No neighbour/calibre equivalence.",
+        "imageDimensions": {
+          "width": 2376,
+          "height": 2376
+        },
+        "imageSha256": "7dbae0904fb74c4e5d68563d71f26cca285324bcf32c682e91b96b697f9313bf"
+      }
+    },
+    {
+      "id": "queue-cartierw5330003-swe74303-movement",
+      "brand": "CARTIER",
+      "references": [
+        "W5330003"
+      ],
+      "representativeFor": [
+        "W5330003"
+      ],
+      "variant": "SWE74303 silver dial / blue smooth strap specimen; factory fitment unverified",
+      "category": "movement",
+      "depictsMovement": true,
+      "title": "Tank MC W5330003 specimen — movement",
+      "caption": "Actual1904-PS MC/27JEWELS rotor markings visible through display crystal. Shared source file with Caseback entry; not a disassembled movement view.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/5/6/cartier-tank-mc-steel-silver-dial-mens-watch-w5330003-74303_51a4d.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/cartier-tank-mc-steel-silver-dial-mens-watch-w5330003-74303/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research2026-10-20",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-20T08:14:29.753Z",
+        "loadedAt": "2026-10-20T08:14:29.753Z",
+        "evidence": "Original CartierChina exact W5330003 visible product description names1904-PSMC,steel,43.9x34.3mm/9.5mm/3bar,silver dial,synthetic spinel,blackalligator/doubledeployant. Original SWE74303 dealer34.3x44mm/27jewels/blue strap;8sourcefiles7distinctbytes contact-inspected,full0/6/7 inspected. Actual1904-PSMC/27JEWELS rotor markings through sapphire back;3589case marking not lookup alias. Silver patterned dial/blue hands/date3/smallseconds6. Blue smooth strap/signed deployant differs from makerblackalligator;factoryfitment unverified. No manufacture/fullinterval/performance/assay/originality proof. Photos6and7 expose movement,including blurred backdrop7;all associated category entries suppressed External-only. No neighbour/calibre equivalence.",
+        "imageDimensions": {
+          "width": 2388,
+          "height": 2388
+        },
+        "imageSha256": "ca5ff83c64e824a7dafca4db5a01f994230f4db84c25a1733894d262dc282ab1"
+      }
+    },
+    {
+      "id": "queue-cartierw5330003-swe74303-caseback",
+      "brand": "CARTIER",
+      "references": [
+        "W5330003"
+      ],
+      "representativeFor": [
+        "W5330003"
+      ],
+      "variant": "SWE74303 silver dial / blue smooth strap specimen; factory fitment unverified",
+      "category": "caseback",
+      "depictsMovement": true,
+      "title": "Tank MC W5330003 specimen — caseback",
+      "caption": "Actual sapphire displayback and3589 case marking. Same source file as Movement entry; case code is not an added lookup alias. This exposes movement and is hidden in External-only.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/5/6/cartier-tank-mc-steel-silver-dial-mens-watch-w5330003-74303_51a4d.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/cartier-tank-mc-steel-silver-dial-mens-watch-w5330003-74303/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research2026-10-20",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-20T08:14:29.753Z",
+        "loadedAt": "2026-10-20T08:14:29.753Z",
+        "evidence": "Original CartierChina exact W5330003 visible product description names1904-PSMC,steel,43.9x34.3mm/9.5mm/3bar,silver dial,synthetic spinel,blackalligator/doubledeployant. Original SWE74303 dealer34.3x44mm/27jewels/blue strap;8sourcefiles7distinctbytes contact-inspected,full0/6/7 inspected. Actual1904-PSMC/27JEWELS rotor markings through sapphire back;3589case marking not lookup alias. Silver patterned dial/blue hands/date3/smallseconds6. Blue smooth strap/signed deployant differs from makerblackalligator;factoryfitment unverified. No manufacture/fullinterval/performance/assay/originality proof. Photos6and7 expose movement,including blurred backdrop7;all associated category entries suppressed External-only. No neighbour/calibre equivalence.",
+        "imageDimensions": {
+          "width": 2388,
+          "height": 2388
+        },
+        "imageSha256": "ca5ff83c64e824a7dafca4db5a01f994230f4db84c25a1733894d262dc282ab1"
+      }
+    },
+    {
+      "id": "queue-cartierw5330003-swe74303-braceletClasp",
+      "brand": "CARTIER",
+      "references": [
+        "W5330003"
+      ],
+      "representativeFor": [
+        "W5330003"
+      ],
+      "variant": "SWE74303 silver dial / blue smooth strap specimen; factory fitment unverified",
+      "category": "braceletClasp",
+      "depictsMovement": true,
+      "title": "Tank MC W5330003 specimen — braceletClasp",
+      "caption": "Actual blue smooth strap and folding clasp; CARTIER/MADE INFRANCE/AEX underside marks are specimen observations. Blurred movement remains visible behind clasp; hidden in External-only.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/5/6/cartier-tank-mc-steel-silver-dial-mens-watch-w5330003-74303_792ba.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/cartier-tank-mc-steel-silver-dial-mens-watch-w5330003-74303/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "inspected missing-reference research2026-10-20",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-20T08:14:29.753Z",
+        "loadedAt": "2026-10-20T08:14:29.753Z",
+        "evidence": "Original CartierChina exact W5330003 visible product description names1904-PSMC,steel,43.9x34.3mm/9.5mm/3bar,silver dial,synthetic spinel,blackalligator/doubledeployant. Original SWE74303 dealer34.3x44mm/27jewels/blue strap;8sourcefiles7distinctbytes contact-inspected,full0/6/7 inspected. Actual1904-PSMC/27JEWELS rotor markings through sapphire back;3589case marking not lookup alias. Silver patterned dial/blue hands/date3/smallseconds6. Blue smooth strap/signed deployant differs from makerblackalligator;factoryfitment unverified. No manufacture/fullinterval/performance/assay/originality proof. Photos6and7 expose movement,including blurred backdrop7;all associated category entries suppressed External-only. No neighbour/calibre equivalence.",
+        "imageDimensions": {
+          "width": 3642,
+          "height": 3642
+        },
+        "imageSha256": "fa63479aa22b3de59a69fab915ac1a093d6b3c6e52b5ebee0e00d52b238742ad"
+      }
     }
   ]
 }
