@@ -1,0 +1,473 @@
+{
+  "reviewedAt": "2026-10-21T14:44:16.578Z",
+  "scope": "Three original source records;9 browser-verified category entries/8distinct actual files. Unsupported1120 movement views and obscured2255caseback stay empty.",
+  "records": [
+    {
+      "sourceRecordId": "RULE:0017",
+      "reference": "215.30.44.21.01.002",
+      "representativeBase": [],
+      "source": "https://www.zeitauktion.com/products/omega-seamaster-steel-automatic-men-s-watch-215-30-44-21-01-002-2505192",
+      "sources": [
+        {
+          "title": "Original photographed source specimen",
+          "url": "https://www.zeitauktion.com/products/omega-seamaster-steel-automatic-men-s-watch-215-30-44-21-01-002-2505192"
+        },
+        {
+          "title": "Additional original reference/notation source",
+          "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-planet-ocean-600m-co-axial-master-chronometer-43-5-mm-21530442101002"
+        },
+        {
+          "title": "Additional original reference/notation source",
+          "url": "https://www.uhren2000.de/en/products/omega-seamaster-planet-ocean-600m-master-chronometer-43-5-mm-215-30-44-21-01-002"
+        }
+      ],
+      "evidence": "Original Zeitauktion2505192 explicitly identifies215.30.44.21.01.002 and attributes actual images to Zeitauktion. All15 gallery files contact-inspected; full1/12/13 inspected. Black dial has orange12/9/6, date3 and orange initial bezel sector. Full fitted display back12 visibly reads OmegaMasterCoAxial8900; PlanetOcean/600m2000ft rim and stainless-steel legend visible. Through-glass image is not an opened inner-caseback examination or proof of individual originality. Omega-signed steel clasp13 has visible movement in background; movement/back/clasp images are suppressed in external-only work. Movement/back share one original file, distinct from category counts. Earlier Uhren2000 exact gallery8images contact-inspected/full2/6/8: actual plastic-stand photographs, but back/calibre substantially obscured, so not used instead of clearer source. Manufacturer/retailer exact-reference evidence supports43.5mm steel/8900/60h. Direct manufacturer PDF retrieval returned503 and was not read. Seller purchase5February2019 is not manufacture date. Source10bar test ticket is not a600m test or a user-watch pressure test. No adjacent215suffix/232reference, supplier equivalence, hardware-originality or complete production-period inference.",
+      "accepted": [
+        {
+          "id": "omega-following-2153044-20261021-front",
+          "category": "front",
+          "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2505192_01_nowm.jpg?v=1757932946",
+          "sha256": "1526458657b5e85c5f9faa75909222556efaea23b5d7a74c9ba3b1229b827d0d"
+        },
+        {
+          "id": "omega-following-2153044-20261021-movement",
+          "category": "movement",
+          "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2505192_11_2k.jpg?v=1757932960",
+          "sha256": "b886ace5202aebf10ba72670266bf136bf43040f1bb38a88a45fd3ee803e5016"
+        },
+        {
+          "id": "omega-following-2153044-20261021-caseback",
+          "category": "caseback",
+          "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2505192_11_2k.jpg?v=1757932960",
+          "sha256": "b886ace5202aebf10ba72670266bf136bf43040f1bb38a88a45fd3ee803e5016"
+        },
+        {
+          "id": "omega-following-2153044-20261021-braceletClasp",
+          "category": "braceletClasp",
+          "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2505192_12_2k.jpg?v=1757932961",
+          "sha256": "5910c88de257b908ef6b8f42bd26f61d8ee3ecb0c6783e5c44e202ff855e0fde"
+        }
+      ]
+    },
+    {
+      "sourceRecordId": "RULE:0018",
+      "reference": "2255.80.00",
+      "representativeBase": [
+        "2255.80"
+      ],
+      "source": "https://www.bobswatches.com/omega/preowned-omega-seamaster-300-blue-wave-dial.html",
+      "sources": [
+        {
+          "title": "Original photographed source specimen",
+          "url": "https://www.bobswatches.com/omega/preowned-omega-seamaster-300-blue-wave-dial.html"
+        },
+        {
+          "title": "Additional original reference/notation source",
+          "url": "https://www.prestigetime.com/Omega-Seamaster-300m-2255-80.html"
+        }
+      ],
+      "evidence": "Original BobsWatches SKU170837 identifies2255.80.00. All6 gallery files contact-inspected; full1/3 inspected. Actual front has electric-blue wave dial, sword hands, date3 and polished metal numbered dive bezel. Bracelet/clasp3 shows OmegaSeamasterProfessional signing. The closedback is substantially obscured by clasp/stand; it is not accepted as a caseback overview. No opened movement photograph or fitted1120 marking is supplied; movement remains a reviewed gap. Original PrestigeTime page explicitly lists model2255.80 and alternate2255.80.00/225580/22558000; only this recorded shortened/full pair is supported, with shortened photos representative. Bobs lists1120 automatic and41mm for this reference; this is attributed specification, not actual movement-image evidence. Its2003 dating is a dealer claim, not complete manufacture period. Prior44h reserve not verified in inspected exact-reference sources and is not asserted. No2265quartz/2254black-dial/nearby suffix, ETA/common-calibre equivalence, universal hardware code, current pressure resistance or individual authenticity inference.",
+      "accepted": [
+        {
+          "id": "omega-following-225580-20261021-front",
+          "category": "front",
+          "image": "https://www.bobswatches.com/omega/images/zUsed-OMEGA-Seamaster-300-2255.80.00-Blue-Wave-Dial-SKU170837.jpg",
+          "sha256": "bd81c42110ab92bccadb9ea5361aac96c37f21bc28595cef9dd81d218c496dfc"
+        },
+        {
+          "id": "omega-following-225580-20261021-braceletClasp",
+          "category": "braceletClasp",
+          "image": "https://www.bobswatches.com/omega/images/zUsed-OMEGA-Seamaster-300-2255.80.00-Stainless-Steel-Case-SKU170837.jpg",
+          "sha256": "43ed1f3f2dc80449fe14136a4960cb53a175afe1f22341b7b420b99b8283986a"
+        }
+      ]
+    },
+    {
+      "sourceRecordId": "RULE:0019",
+      "reference": "2551.80.00",
+      "representativeBase": [],
+      "source": "https://www.zeitauktion.com/products/omega-seamaster-steel-automatic-men-s-watch-2551-80-00-2507264",
+      "sources": [
+        {
+          "title": "Original photographed source specimen",
+          "url": "https://www.zeitauktion.com/products/omega-seamaster-steel-automatic-men-s-watch-2551-80-00-2507264"
+        }
+      ],
+      "evidence": "Original Zeitauktion2507264 exact2551.80.00 page attributes its actual images to Zeitauktion. All14 files contact-inspected; full1/11/13 inspected. Blue wave dial, skeleton hands/red-tip seconds, date3 and blue dive bezel visible. Full closedback11 has Seamaster hippocampus and wave relief; bracelet/clasp13 is OmegaSeamasterProfessional-signed. No opened movement or readable fitted1120 stamp in this gallery; movement remains a researched photograph gap. Dealer lists1120 automatic and approximately36mm, with unspecified purchase date. Direct manufacturer25518000 Korean product-sheet retrieval returned503 and was not read;36.25mm and prior44h reserve are not newly verified from that failed resource. No full production start/end,53xx/full-size2531,quartz2561,2551.80short alias, adjacentsuffix, supplier/common-calibre or generic1120 photograph inheritance. Source condition/pressure/refurbishment claims do not establish the user watch condition, current water resistance, material assay or component originality. Ignore dealer template Rolex footer.",
+      "accepted": [
+        {
+          "id": "omega-following-255180-20261021-front",
+          "category": "front",
+          "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2507264_01_nowm.jpg?v=1768921639",
+          "sha256": "c4c6340a73755a864ce6b3e120bf243774822214b83d3e2c2c4f2a619cb05da3"
+        },
+        {
+          "id": "omega-following-255180-20261021-caseback",
+          "category": "caseback",
+          "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2507264_10_2k.jpg?v=1768921652",
+          "sha256": "56c801d1c610b8d1488a6c1db83634f93c5d1d72cda22b7c07a7f34080bb9d14"
+        },
+        {
+          "id": "omega-following-255180-20261021-braceletClasp",
+          "category": "braceletClasp",
+          "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2507264_12_2k.jpg?v=1768921655",
+          "sha256": "330594f8c565249985e46bef78e2c97acd2b81c3c1107cd52fa13e878f2c27a9"
+        }
+      ]
+    }
+  ],
+  "inspectedGalleries": {
+    "225580": {
+      "source": "https://www.bobswatches.com/omega/preowned-omega-seamaster-300-blue-wave-dial.html",
+      "at": "2026-10-21T14:38:07.123Z",
+      "images": [
+        {
+          "index": 1,
+          "url": "https://www.bobswatches.com/omega/images/zUsed-OMEGA-Seamaster-300-2255.80.00-Blue-Wave-Dial-SKU170837.jpg",
+          "file": "image-01.jpg",
+          "sha256": "bd81c42110ab92bccadb9ea5361aac96c37f21bc28595cef9dd81d218c496dfc",
+          "bytes": 517422
+        },
+        {
+          "index": 2,
+          "url": "https://www.bobswatches.com/omega/images/zUsed-OMEGA-Seamaster-300-2255.80.00-Timing-Bezel-SKU170837.jpg",
+          "file": "image-02.jpg",
+          "sha256": "fe73e6037c44abf050a57d00ed00be78ea25f00e1ad58d0bd1d9ae5eb0ff4384",
+          "bytes": 71055
+        },
+        {
+          "index": 3,
+          "url": "https://www.bobswatches.com/omega/images/zUsed-OMEGA-Seamaster-300-2255.80.00-Stainless-Steel-Case-SKU170837.jpg",
+          "file": "image-03.jpg",
+          "sha256": "43ed1f3f2dc80449fe14136a4960cb53a175afe1f22341b7b420b99b8283986a",
+          "bytes": 54647
+        },
+        {
+          "index": 4,
+          "url": "https://www.bobswatches.com/omega/images/zy-170837-11-04-2003.jpg",
+          "file": "image-04.jpg",
+          "sha256": "09da8d0c896383d271e2fb8f81cd7580bf7c5c9bfdf07b8652f960e0c1af9e42",
+          "bytes": 57992
+        },
+        {
+          "index": 5,
+          "url": "https://www.bobswatches.com/omega/images/zUsed-OMEGA-Seamaster-300-2255.80.00-Blue-Wave-Dial-170837w.jpg",
+          "file": "image-05.jpg",
+          "sha256": "becdce5357f9e092d629c1e099803e777c7e6125db5d2723376caf633cbec0eb",
+          "bytes": 91819
+        },
+        {
+          "index": 6,
+          "url": "https://www.bobswatches.com/omega/images/zUsed-OMEGA-Seamaster-300-2255.80.00-Timing-Bezel-170837s.jpg",
+          "file": "image-06.jpg",
+          "sha256": "60ce3b96ecdc4fb9b8ac6cc71e5e5dee7fe0b4947195a99a8d3521b560561e29",
+          "bytes": 87771
+        }
+      ]
+    },
+    "255180": {
+      "source": "https://www.zeitauktion.com/products/omega-seamaster-steel-automatic-men-s-watch-2551-80-00-2507264",
+      "at": "2026-10-21T14:38:08.730Z",
+      "images": [
+        {
+          "index": 1,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2507264_01_nowm.jpg?v=1768921639",
+          "file": "image-01.jpg",
+          "sha256": "c4c6340a73755a864ce6b3e120bf243774822214b83d3e2c2c4f2a619cb05da3",
+          "bytes": 157333
+        },
+        {
+          "index": 2,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2507264_02_2k.jpg?v=1768921640",
+          "file": "image-02.jpg",
+          "sha256": "294745ba2a0701581ba30518924638e588bdaec4c870006d4e9e054c35377ffd",
+          "bytes": 263288
+        },
+        {
+          "index": 3,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2507264_03_2k.jpg?v=1768921642",
+          "file": "image-03.jpg",
+          "sha256": "af2af772c9d3f979570eb4e053d765c312ffdbf1157fb3db64caed89f8827740",
+          "bytes": 378029
+        },
+        {
+          "index": 4,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2507264_04_2k.jpg?v=1768921643",
+          "file": "image-04.jpg",
+          "sha256": "256d0228d6b3bb20a4fc9d772fac5b86bd72f4a9d31ecbdd014ab71d9d306b26",
+          "bytes": 342774
+        },
+        {
+          "index": 5,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2507264_01_2k.jpg?v=1768921637",
+          "file": "image-05.jpg",
+          "sha256": "93a697695683187e9d4483e028a945ea0d411921e158d48db9f6bd19b574323a",
+          "bytes": 134898
+        },
+        {
+          "index": 6,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2507264_05_2k.jpg?v=1768921645",
+          "file": "image-06.jpg",
+          "sha256": "0f0f4721a5422f580947ff8200632445707260c05d501fba54444b5ace93afc4",
+          "bytes": 139210
+        },
+        {
+          "index": 7,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2507264_06_2k.jpg?v=1768921646",
+          "file": "image-07.jpg",
+          "sha256": "01fae6472ea49dce3cf489fa93ac9b269c0e6a9f6c26ae6d71dfd2931119e121",
+          "bytes": 158124
+        },
+        {
+          "index": 8,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2507264_07_2k.jpg?v=1768921647",
+          "file": "image-08.jpg",
+          "sha256": "44684a2bb6d49716f2ae52f101f66bd68a2aa6ec53aba52d246032f917600685",
+          "bytes": 148267
+        },
+        {
+          "index": 9,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2507264_08_2k.jpg?v=1768921649",
+          "file": "image-09.jpg",
+          "sha256": "c10ba16b3560eb6d868c0efdf1c57f2bb85a336b98b174ce738b0b92ae6d8a80",
+          "bytes": 253938
+        },
+        {
+          "index": 10,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2507264_09_2k.jpg?v=1768921650",
+          "file": "image-10.jpg",
+          "sha256": "542bc26a9c191cf8a80b84a524172f4c3f1324a4a2537f118fcdb56dc169abd1",
+          "bytes": 153610
+        },
+        {
+          "index": 11,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2507264_10_2k.jpg?v=1768921652",
+          "file": "image-11.jpg",
+          "sha256": "56c801d1c610b8d1488a6c1db83634f93c5d1d72cda22b7c07a7f34080bb9d14",
+          "bytes": 260801
+        },
+        {
+          "index": 12,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2507264_11_2k.jpg?v=1768921653",
+          "file": "image-12.jpg",
+          "sha256": "11d9e0d5a08a9d6a81e23994b644b95c03d4845bae1bda3e1fc2435b4d434d54",
+          "bytes": 151616
+        },
+        {
+          "index": 13,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2507264_12_2k.jpg?v=1768921655",
+          "file": "image-13.jpg",
+          "sha256": "330594f8c565249985e46bef78e2c97acd2b81c3c1107cd52fa13e878f2c27a9",
+          "bytes": 166276
+        },
+        {
+          "index": 14,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/photoSet_workshop_2k_20260629.jpg?v=1782732100",
+          "file": "image-14.jpg",
+          "sha256": "d7c47c925b681c85c0e05dd124e9a56a9bb373adf9bfc020bad94fe8e2408ebb",
+          "bytes": 257861
+        }
+      ]
+    },
+    "2153044": {
+      "source": "https://www.uhren2000.de/en/products/omega-seamaster-planet-ocean-600m-master-chronometer-43-5-mm-215-30-44-21-01-002",
+      "at": "2026-10-21T14:38:03.868Z",
+      "images": [
+        {
+          "index": 1,
+          "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/21530442101002.jpg?v=1723464962",
+          "file": "image-01.jpg",
+          "sha256": "bddc93b7bc3277c073f4f3d6e9a8e12183fbaab1d4fd57323d530ae8bd7070fd",
+          "bytes": 32666
+        },
+        {
+          "index": 2,
+          "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/21530442101002-1.jpg?v=1723464967",
+          "file": "image-02.jpg",
+          "sha256": "20923dc1fcefae88db26cb441bc0e8fec54b1f0e54b373d73d8d9e87d600189d",
+          "bytes": 125045
+        },
+        {
+          "index": 3,
+          "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/21530442101002-2.jpg?v=1723464971",
+          "file": "image-03.jpg",
+          "sha256": "8dcd3d87fd320c67073ac2356cb5faf68dbb35da32681a5abc44c2b56537df30",
+          "bytes": 61560
+        },
+        {
+          "index": 4,
+          "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/21530442101002-3.jpg?v=1723464973",
+          "file": "image-04.jpg",
+          "sha256": "1288b75d4fa38dffda82c45bb88306e1e25771241940bb8ae19460c5b6ef9389",
+          "bytes": 64754
+        },
+        {
+          "index": 5,
+          "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/21530442101002-4.jpg?v=1723464977",
+          "file": "image-05.jpg",
+          "sha256": "47d69bcf389238f78105036907cff5741e61e9530f05aa76c7e9469e54049b9e",
+          "bytes": 51647
+        },
+        {
+          "index": 6,
+          "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/21530442101002-5.jpg?v=1723464981",
+          "file": "image-06.jpg",
+          "sha256": "fff96c4fc8434d93cfebf20170d4b0ee0da078b6759936b8ac5accf9009f0c6a",
+          "bytes": 56173
+        },
+        {
+          "index": 7,
+          "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/21530442101002-6.jpg?v=1723464983",
+          "file": "image-07.jpg",
+          "sha256": "5385fd16cdefd13ed03ba2de5a8ad2e3fad5daa8561771193048e4e7da4e3815",
+          "bytes": 58797
+        },
+        {
+          "index": 8,
+          "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/21530442101002-7.jpg?v=1723464988",
+          "file": "image-08.jpg",
+          "sha256": "8ea2c1cdfaa4c045b7bbb67c5897a0323e4522d3997e4d4471f9c25f4e9aba48",
+          "bytes": 111761
+        }
+      ]
+    },
+    "215zeit": {
+      "source": "https://www.zeitauktion.com/products/omega-seamaster-steel-automatic-men-s-watch-215-30-44-21-01-002-2505192",
+      "title": "Omega Seamaster steel automatic men's watch 215.30.44.21.01.002 LP: 7700EUR  [2505192]",
+      "description": "Watch of a famous Swiss luxury watch manufacturer · beautiful steel case · sporty black dial · striking design · high recognition value · including box & papers from 2019 · sporty stainless steel bracelet · world's first black ceramic bezel with orange rubber · Original price (MSRP): 7700,- Euro</strong><br /><small>(evaluation below)</small>",
+      "at": "2026-10-21T14:40:17.399Z",
+      "images": [
+        {
+          "index": 1,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2505192_01_nowm.jpg?v=1757932946",
+          "file": "image-01.jpg",
+          "sha256": "1526458657b5e85c5f9faa75909222556efaea23b5d7a74c9ba3b1229b827d0d",
+          "bytes": 172078
+        },
+        {
+          "index": 2,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2505192_02_2k.jpg?v=1757932947",
+          "file": "image-02.jpg",
+          "sha256": "ca505bf9dfb5930df5b89d78f184ddde0e0b7c9189a2ce2562fb9f6e797ce84a",
+          "bytes": 228450
+        },
+        {
+          "index": 3,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2505192_03_2k.jpg?v=1757932949",
+          "file": "image-03.jpg",
+          "sha256": "5c9a784115f5e52825701208dd80b4100ec6eb01c32aadd7d15a50e5d410365a",
+          "bytes": 324430
+        },
+        {
+          "index": 4,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2505192_04_2k.jpg?v=1757932950",
+          "file": "image-04.jpg",
+          "sha256": "48797db26c4f8b83a619a5ef2016bdcc093bf99e001551bae77c424314bcbcc1",
+          "bytes": 247310
+        },
+        {
+          "index": 5,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2505192_01_2k.jpg?v=1757932944",
+          "file": "image-05.jpg",
+          "sha256": "8e2af9bd996222333074a6f14abcb8786390fe7e46bd2f63cd323118a62797ca",
+          "bytes": 150295
+        },
+        {
+          "index": 6,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2505192_05_2k.jpg?v=1757932951",
+          "file": "image-06.jpg",
+          "sha256": "0f0f4721a5422f580947ff8200632445707260c05d501fba54444b5ace93afc4",
+          "bytes": 139210
+        },
+        {
+          "index": 7,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2505192_06_2k.jpg?v=1757932954",
+          "file": "image-07.jpg",
+          "sha256": "16dd750e317b90f889e2933fad5e3183b7c766399c3245f8c718fef149957b62",
+          "bytes": 159913
+        },
+        {
+          "index": 8,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2505192_07_2k.jpg?v=1757932954",
+          "file": "image-08.jpg",
+          "sha256": "4a2e3cde7d7ab2deb6fa3187b94f4ed32aebd69edbe2107a81323e356551305d",
+          "bytes": 171348
+        },
+        {
+          "index": 9,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2505192_08_2k.jpg?v=1757932956",
+          "file": "image-09.jpg",
+          "sha256": "cb92a5ffe4cb0ec9465eb91e3c29fef2ac3507dd1b49f288abff8185b74e6727",
+          "bytes": 139956
+        },
+        {
+          "index": 10,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2505192_09_2k.jpg?v=1757932957",
+          "file": "image-10.jpg",
+          "sha256": "542bc26a9c191cf8a80b84a524172f4c3f1324a4a2537f118fcdb56dc169abd1",
+          "bytes": 153610
+        },
+        {
+          "index": 11,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2505192_10_2k.jpg?v=1757932958",
+          "file": "image-11.jpg",
+          "sha256": "aaecda64ccacccbc3642534a0e646e23cf089301d6a49ad9454646fde7847f0a",
+          "bytes": 165956
+        },
+        {
+          "index": 12,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2505192_11_2k.jpg?v=1757932960",
+          "file": "image-12.jpg",
+          "sha256": "b886ace5202aebf10ba72670266bf136bf43040f1bb38a88a45fd3ee803e5016",
+          "bytes": 317749
+        },
+        {
+          "index": 13,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2505192_12_2k.jpg?v=1757932961",
+          "file": "image-13.jpg",
+          "sha256": "5910c88de257b908ef6b8f42bd26f61d8ee3ecb0c6783e5c44e202ff855e0fde",
+          "bytes": 172533
+        },
+        {
+          "index": 14,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2505192_13_2k.jpg?v=1757932963",
+          "file": "image-14.jpg",
+          "sha256": "c278e115661f090623c8e491352f1049adbede03550ecb151de01e2ab3f0fef6",
+          "bytes": 118652
+        },
+        {
+          "index": 15,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/photoSet_workshop_2k_20260629.jpg?v=1782732100",
+          "file": "image-15.jpg",
+          "sha256": "d7c47c925b681c85c0e05dd124e9a56a9bb373adf9bfc020bad94fe8e2408ebb",
+          "bytes": 257861
+        }
+      ]
+    }
+  },
+  "manufacturerRetrieval": [
+    {
+      "reference": "2551.80.00",
+      "url": "https://www.omegawatches.co.kr/media/pdf/watches/product-sheet/kr/ko-kr/25518000-ko-kr.pdf",
+      "status": 503,
+      "usedAsEvidence": false
+    },
+    {
+      "reference": "215.30.44.21.01.002",
+      "url": "https://www.omegawatches.com.hk/media/pdf/watches/product-sheet/hk/en-gb/21530442101002-en-gb.pdf",
+      "status": 503,
+      "usedAsEvidence": false
+    }
+  ],
+  "browserValidation": {
+    "at": "2026-10-21T14:45:49.038Z",
+    "actualOriginalImages": true,
+    "calibreSuggestions": true,
+    "sourceCredits": true,
+    "enlargement": true,
+    "exactReferenceBoundaries": true,
+    "externalOnly": true,
+    "mobileWidth": 390,
+    "realAuthenticatedSession": false
+  }
+}

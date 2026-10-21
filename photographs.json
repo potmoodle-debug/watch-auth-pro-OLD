@@ -35380,6 +35380,316 @@
         },
         "imageSha256": "93bd56cbcc3fc0abdc19b636137f9502579f0c6f12b890e8925e478869f269ae"
       }
+    },
+    {
+      "id": "omega-following-2153044-20261021-front",
+      "brand": "OMEGA",
+      "references": [
+        "215.30.44.21.01.002"
+      ],
+      "representativeFor": [],
+      "variant": "Original 215.30.44.21.01.002 source specimen; reference/execution-specific, individual manufacture period and component originality unverified",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "215.30.44.21.01.002 — Black and orange dial",
+      "caption": "Actual black dial, orange Arabic numerals/initial bezel sector and steel bracelet exact source specimen.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2505192_01_nowm.jpg?v=1757932946",
+      "source": "https://www.zeitauktion.com/products/omega-seamaster-steel-automatic-men-s-watch-215-30-44-21-01-002-2505192",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected2026-10-21",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-21T14:44:16.578Z",
+        "loadedAt": "2026-10-21T14:44:16.578Z",
+        "evidence": "Original Zeitauktion2505192 explicitly identifies215.30.44.21.01.002 and attributes actual images to Zeitauktion. All15 gallery files contact-inspected; full1/12/13 inspected. Black dial has orange12/9/6, date3 and orange initial bezel sector. Full fitted display back12 visibly reads OmegaMasterCoAxial8900; PlanetOcean/600m2000ft rim and stainless-steel legend visible. Through-glass image is not an opened inner-caseback examination or proof of individual originality. Omega-signed steel clasp13 has visible movement in background; movement/back/clasp images are suppressed in external-only work. Movement/back share one original file, distinct from category counts. Earlier Uhren2000 exact gallery8images contact-inspected/full2/6/8: actual plastic-stand photographs, but back/calibre substantially obscured, so not used instead of clearer source. Manufacturer/retailer exact-reference evidence supports43.5mm steel/8900/60h. Direct manufacturer PDF retrieval returned503 and was not read. Seller purchase5February2019 is not manufacture date. Source10bar test ticket is not a600m test or a user-watch pressure test. No adjacent215suffix/232reference, supplier equivalence, hardware-originality or complete production-period inference.",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        },
+        "imageSha256": "1526458657b5e85c5f9faa75909222556efaea23b5d7a74c9ba3b1229b827d0d",
+        "browserDeliveryVerified": true,
+        "lastBrowserDeliveryCheck": "2026-10-21T14:45:49.038Z"
+      }
+    },
+    {
+      "id": "omega-following-2153044-20261021-movement",
+      "brand": "OMEGA",
+      "references": [
+        "215.30.44.21.01.002"
+      ],
+      "representativeFor": [],
+      "variant": "Original 215.30.44.21.01.002 source specimen; reference/execution-specific, individual manufacture period and component originality unverified",
+      "category": "movement",
+      "depictsMovement": true,
+      "title": "215.30.44.21.01.002 — 8900 through fitted back",
+      "caption": "Omega Master Co-Axial8900 is readable through the display back. No opened inner-caseback or supplier-equivalence inference.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2505192_11_2k.jpg?v=1757932960",
+      "source": "https://www.zeitauktion.com/products/omega-seamaster-steel-automatic-men-s-watch-215-30-44-21-01-002-2505192",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected2026-10-21",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-21T14:44:16.578Z",
+        "loadedAt": "2026-10-21T14:44:16.578Z",
+        "evidence": "Original Zeitauktion2505192 explicitly identifies215.30.44.21.01.002 and attributes actual images to Zeitauktion. All15 gallery files contact-inspected; full1/12/13 inspected. Black dial has orange12/9/6, date3 and orange initial bezel sector. Full fitted display back12 visibly reads OmegaMasterCoAxial8900; PlanetOcean/600m2000ft rim and stainless-steel legend visible. Through-glass image is not an opened inner-caseback examination or proof of individual originality. Omega-signed steel clasp13 has visible movement in background; movement/back/clasp images are suppressed in external-only work. Movement/back share one original file, distinct from category counts. Earlier Uhren2000 exact gallery8images contact-inspected/full2/6/8: actual plastic-stand photographs, but back/calibre substantially obscured, so not used instead of clearer source. Manufacturer/retailer exact-reference evidence supports43.5mm steel/8900/60h. Direct manufacturer PDF retrieval returned503 and was not read. Seller purchase5February2019 is not manufacture date. Source10bar test ticket is not a600m test or a user-watch pressure test. No adjacent215suffix/232reference, supplier equivalence, hardware-originality or complete production-period inference.",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        },
+        "imageSha256": "b886ace5202aebf10ba72670266bf136bf43040f1bb38a88a45fd3ee803e5016",
+        "browserDeliveryVerified": true,
+        "lastBrowserDeliveryCheck": "2026-10-21T14:45:49.038Z"
+      }
+    },
+    {
+      "id": "omega-following-2153044-20261021-caseback",
+      "brand": "OMEGA",
+      "references": [
+        "215.30.44.21.01.002"
+      ],
+      "representativeFor": [],
+      "variant": "Original 215.30.44.21.01.002 source specimen; reference/execution-specific, individual manufacture period and component originality unverified",
+      "category": "caseback",
+      "depictsMovement": true,
+      "title": "215.30.44.21.01.002 — Full display caseback",
+      "caption": "PlanetOcean and600m2000ft rim with visible fitted movement; external-only suppresses this image. Legends do not establish current pressure resistance.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2505192_11_2k.jpg?v=1757932960",
+      "source": "https://www.zeitauktion.com/products/omega-seamaster-steel-automatic-men-s-watch-215-30-44-21-01-002-2505192",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected2026-10-21",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-21T14:44:16.578Z",
+        "loadedAt": "2026-10-21T14:44:16.578Z",
+        "evidence": "Original Zeitauktion2505192 explicitly identifies215.30.44.21.01.002 and attributes actual images to Zeitauktion. All15 gallery files contact-inspected; full1/12/13 inspected. Black dial has orange12/9/6, date3 and orange initial bezel sector. Full fitted display back12 visibly reads OmegaMasterCoAxial8900; PlanetOcean/600m2000ft rim and stainless-steel legend visible. Through-glass image is not an opened inner-caseback examination or proof of individual originality. Omega-signed steel clasp13 has visible movement in background; movement/back/clasp images are suppressed in external-only work. Movement/back share one original file, distinct from category counts. Earlier Uhren2000 exact gallery8images contact-inspected/full2/6/8: actual plastic-stand photographs, but back/calibre substantially obscured, so not used instead of clearer source. Manufacturer/retailer exact-reference evidence supports43.5mm steel/8900/60h. Direct manufacturer PDF retrieval returned503 and was not read. Seller purchase5February2019 is not manufacture date. Source10bar test ticket is not a600m test or a user-watch pressure test. No adjacent215suffix/232reference, supplier equivalence, hardware-originality or complete production-period inference.",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        },
+        "imageSha256": "b886ace5202aebf10ba72670266bf136bf43040f1bb38a88a45fd3ee803e5016",
+        "browserDeliveryVerified": true,
+        "lastBrowserDeliveryCheck": "2026-10-21T14:45:49.038Z"
+      }
+    },
+    {
+      "id": "omega-following-2153044-20261021-braceletClasp",
+      "brand": "OMEGA",
+      "references": [
+        "215.30.44.21.01.002"
+      ],
+      "representativeFor": [],
+      "variant": "Original 215.30.44.21.01.002 source specimen; reference/execution-specific, individual manufacture period and component originality unverified",
+      "category": "braceletClasp",
+      "depictsMovement": true,
+      "title": "215.30.44.21.01.002 — Omega-signed steel clasp",
+      "caption": "Actual steel bracelet and signed clasp; full hardware codes/originality unverified. Visible movement in background requires external-only suppression.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2505192_12_2k.jpg?v=1757932961",
+      "source": "https://www.zeitauktion.com/products/omega-seamaster-steel-automatic-men-s-watch-215-30-44-21-01-002-2505192",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected2026-10-21",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-21T14:44:16.578Z",
+        "loadedAt": "2026-10-21T14:44:16.578Z",
+        "evidence": "Original Zeitauktion2505192 explicitly identifies215.30.44.21.01.002 and attributes actual images to Zeitauktion. All15 gallery files contact-inspected; full1/12/13 inspected. Black dial has orange12/9/6, date3 and orange initial bezel sector. Full fitted display back12 visibly reads OmegaMasterCoAxial8900; PlanetOcean/600m2000ft rim and stainless-steel legend visible. Through-glass image is not an opened inner-caseback examination or proof of individual originality. Omega-signed steel clasp13 has visible movement in background; movement/back/clasp images are suppressed in external-only work. Movement/back share one original file, distinct from category counts. Earlier Uhren2000 exact gallery8images contact-inspected/full2/6/8: actual plastic-stand photographs, but back/calibre substantially obscured, so not used instead of clearer source. Manufacturer/retailer exact-reference evidence supports43.5mm steel/8900/60h. Direct manufacturer PDF retrieval returned503 and was not read. Seller purchase5February2019 is not manufacture date. Source10bar test ticket is not a600m test or a user-watch pressure test. No adjacent215suffix/232reference, supplier equivalence, hardware-originality or complete production-period inference.",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        },
+        "imageSha256": "5910c88de257b908ef6b8f42bd26f61d8ee3ecb0c6783e5c44e202ff855e0fde",
+        "browserDeliveryVerified": true,
+        "lastBrowserDeliveryCheck": "2026-10-21T14:45:49.038Z"
+      }
+    },
+    {
+      "id": "omega-following-225580-20261021-front",
+      "brand": "OMEGA",
+      "references": [
+        "2255.80.00"
+      ],
+      "representativeFor": [
+        "2255.80"
+      ],
+      "variant": "Original 2255.80.00 source specimen; reference/execution-specific, individual manufacture period and component originality unverified",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "2255.80.00 — Electric-blue wave dial",
+      "caption": "Actual2255.80.00 source specimen: blue wave dial, sword hands, date3 and polished numbered metal bezel. Shortened2255.80 is representative only.",
+      "image": "https://www.bobswatches.com/omega/images/zUsed-OMEGA-Seamaster-300-2255.80.00-Blue-Wave-Dial-SKU170837.jpg",
+      "source": "https://www.bobswatches.com/omega/preowned-omega-seamaster-300-blue-wave-dial.html",
+      "credit": "Bob's Watches — original listing specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected2026-10-21",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-21T14:44:16.578Z",
+        "loadedAt": "2026-10-21T14:44:16.578Z",
+        "evidence": "Original BobsWatches SKU170837 identifies2255.80.00. All6 gallery files contact-inspected; full1/3 inspected. Actual front has electric-blue wave dial, sword hands, date3 and polished metal numbered dive bezel. Bracelet/clasp3 shows OmegaSeamasterProfessional signing. The closedback is substantially obscured by clasp/stand; it is not accepted as a caseback overview. No opened movement photograph or fitted1120 marking is supplied; movement remains a reviewed gap. Original PrestigeTime page explicitly lists model2255.80 and alternate2255.80.00/225580/22558000; only this recorded shortened/full pair is supported, with shortened photos representative. Bobs lists1120 automatic and41mm for this reference; this is attributed specification, not actual movement-image evidence. Its2003 dating is a dealer claim, not complete manufacture period. Prior44h reserve not verified in inspected exact-reference sources and is not asserted. No2265quartz/2254black-dial/nearby suffix, ETA/common-calibre equivalence, universal hardware code, current pressure resistance or individual authenticity inference.",
+        "imageDimensions": {
+          "width": 1412,
+          "height": 2160
+        },
+        "imageSha256": "bd81c42110ab92bccadb9ea5361aac96c37f21bc28595cef9dd81d218c496dfc",
+        "browserDeliveryVerified": true,
+        "lastBrowserDeliveryCheck": "2026-10-21T14:45:49.038Z"
+      }
+    },
+    {
+      "id": "omega-following-225580-20261021-braceletClasp",
+      "brand": "OMEGA",
+      "references": [
+        "2255.80.00"
+      ],
+      "representativeFor": [
+        "2255.80"
+      ],
+      "variant": "Original 2255.80.00 source specimen; reference/execution-specific, individual manufacture period and component originality unverified",
+      "category": "braceletClasp",
+      "depictsMovement": false,
+      "title": "2255.80.00 — Signed steel bracelet clasp",
+      "caption": "Actual OmegaSeamasterProfessional-signed steel clasp. The caseback behind it is substantially obscured and is not claimed as a caseback overview.",
+      "image": "https://www.bobswatches.com/omega/images/zUsed-OMEGA-Seamaster-300-2255.80.00-Stainless-Steel-Case-SKU170837.jpg",
+      "source": "https://www.bobswatches.com/omega/preowned-omega-seamaster-300-blue-wave-dial.html",
+      "credit": "Bob's Watches — original listing specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected2026-10-21",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-21T14:44:16.578Z",
+        "loadedAt": "2026-10-21T14:44:16.578Z",
+        "evidence": "Original BobsWatches SKU170837 identifies2255.80.00. All6 gallery files contact-inspected; full1/3 inspected. Actual front has electric-blue wave dial, sword hands, date3 and polished metal numbered dive bezel. Bracelet/clasp3 shows OmegaSeamasterProfessional signing. The closedback is substantially obscured by clasp/stand; it is not accepted as a caseback overview. No opened movement photograph or fitted1120 marking is supplied; movement remains a reviewed gap. Original PrestigeTime page explicitly lists model2255.80 and alternate2255.80.00/225580/22558000; only this recorded shortened/full pair is supported, with shortened photos representative. Bobs lists1120 automatic and41mm for this reference; this is attributed specification, not actual movement-image evidence. Its2003 dating is a dealer claim, not complete manufacture period. Prior44h reserve not verified in inspected exact-reference sources and is not asserted. No2265quartz/2254black-dial/nearby suffix, ETA/common-calibre equivalence, universal hardware code, current pressure resistance or individual authenticity inference.",
+        "imageDimensions": {
+          "width": 800,
+          "height": 800
+        },
+        "imageSha256": "43ed1f3f2dc80449fe14136a4960cb53a175afe1f22341b7b420b99b8283986a",
+        "browserDeliveryVerified": true,
+        "lastBrowserDeliveryCheck": "2026-10-21T14:45:49.038Z"
+      }
+    },
+    {
+      "id": "omega-following-255180-20261021-front",
+      "brand": "OMEGA",
+      "references": [
+        "2551.80.00"
+      ],
+      "representativeFor": [],
+      "variant": "Original 2551.80.00 source specimen; reference/execution-specific, individual manufacture period and component originality unverified",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "2551.80.00 — Blue wave dial midsize",
+      "caption": "Actual source-listed2551.80.00 blue wave dial, skeleton hands and blue bezel. Not full-size2531 or quartz2561.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2507264_01_nowm.jpg?v=1768921639",
+      "source": "https://www.zeitauktion.com/products/omega-seamaster-steel-automatic-men-s-watch-2551-80-00-2507264",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected2026-10-21",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-21T14:44:16.578Z",
+        "loadedAt": "2026-10-21T14:44:16.578Z",
+        "evidence": "Original Zeitauktion2507264 exact2551.80.00 page attributes its actual images to Zeitauktion. All14 files contact-inspected; full1/11/13 inspected. Blue wave dial, skeleton hands/red-tip seconds, date3 and blue dive bezel visible. Full closedback11 has Seamaster hippocampus and wave relief; bracelet/clasp13 is OmegaSeamasterProfessional-signed. No opened movement or readable fitted1120 stamp in this gallery; movement remains a researched photograph gap. Dealer lists1120 automatic and approximately36mm, with unspecified purchase date. Direct manufacturer25518000 Korean product-sheet retrieval returned503 and was not read;36.25mm and prior44h reserve are not newly verified from that failed resource. No full production start/end,53xx/full-size2531,quartz2561,2551.80short alias, adjacentsuffix, supplier/common-calibre or generic1120 photograph inheritance. Source condition/pressure/refurbishment claims do not establish the user watch condition, current water resistance, material assay or component originality. Ignore dealer template Rolex footer.",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        },
+        "imageSha256": "c4c6340a73755a864ce6b3e120bf243774822214b83d3e2c2c4f2a619cb05da3",
+        "browserDeliveryVerified": true,
+        "lastBrowserDeliveryCheck": "2026-10-21T14:45:49.038Z"
+      }
+    },
+    {
+      "id": "omega-following-255180-20261021-caseback",
+      "brand": "OMEGA",
+      "references": [
+        "2551.80.00"
+      ],
+      "representativeFor": [],
+      "variant": "Original 2551.80.00 source specimen; reference/execution-specific, individual manufacture period and component originality unverified",
+      "category": "caseback",
+      "depictsMovement": false,
+      "title": "2551.80.00 — Closed hippocampus back",
+      "caption": "Full actual closedback with Seamaster hippocampus/wave relief; no movement is visible or inferred.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2507264_10_2k.jpg?v=1768921652",
+      "source": "https://www.zeitauktion.com/products/omega-seamaster-steel-automatic-men-s-watch-2551-80-00-2507264",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected2026-10-21",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-21T14:44:16.578Z",
+        "loadedAt": "2026-10-21T14:44:16.578Z",
+        "evidence": "Original Zeitauktion2507264 exact2551.80.00 page attributes its actual images to Zeitauktion. All14 files contact-inspected; full1/11/13 inspected. Blue wave dial, skeleton hands/red-tip seconds, date3 and blue dive bezel visible. Full closedback11 has Seamaster hippocampus and wave relief; bracelet/clasp13 is OmegaSeamasterProfessional-signed. No opened movement or readable fitted1120 stamp in this gallery; movement remains a researched photograph gap. Dealer lists1120 automatic and approximately36mm, with unspecified purchase date. Direct manufacturer25518000 Korean product-sheet retrieval returned503 and was not read;36.25mm and prior44h reserve are not newly verified from that failed resource. No full production start/end,53xx/full-size2531,quartz2561,2551.80short alias, adjacentsuffix, supplier/common-calibre or generic1120 photograph inheritance. Source condition/pressure/refurbishment claims do not establish the user watch condition, current water resistance, material assay or component originality. Ignore dealer template Rolex footer.",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        },
+        "imageSha256": "56c801d1c610b8d1488a6c1db83634f93c5d1d72cda22b7c07a7f34080bb9d14",
+        "browserDeliveryVerified": true,
+        "lastBrowserDeliveryCheck": "2026-10-21T14:45:49.038Z"
+      }
+    },
+    {
+      "id": "omega-following-255180-20261021-braceletClasp",
+      "brand": "OMEGA",
+      "references": [
+        "2551.80.00"
+      ],
+      "representativeFor": [],
+      "variant": "Original 2551.80.00 source specimen; reference/execution-specific, individual manufacture period and component originality unverified",
+      "category": "braceletClasp",
+      "depictsMovement": false,
+      "title": "2551.80.00 — Signed bracelet and clasp",
+      "caption": "Actual multi-link steel bracelet and OmegaSeamasterProfessional-signed clasp. Full hardware codes and individual originality remain unverified.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2507264_12_2k.jpg?v=1768921655",
+      "source": "https://www.zeitauktion.com/products/omega-seamaster-steel-automatic-men-s-watch-2551-80-00-2507264",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected2026-10-21",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-21T14:44:16.578Z",
+        "loadedAt": "2026-10-21T14:44:16.578Z",
+        "evidence": "Original Zeitauktion2507264 exact2551.80.00 page attributes its actual images to Zeitauktion. All14 files contact-inspected; full1/11/13 inspected. Blue wave dial, skeleton hands/red-tip seconds, date3 and blue dive bezel visible. Full closedback11 has Seamaster hippocampus and wave relief; bracelet/clasp13 is OmegaSeamasterProfessional-signed. No opened movement or readable fitted1120 stamp in this gallery; movement remains a researched photograph gap. Dealer lists1120 automatic and approximately36mm, with unspecified purchase date. Direct manufacturer25518000 Korean product-sheet retrieval returned503 and was not read;36.25mm and prior44h reserve are not newly verified from that failed resource. No full production start/end,53xx/full-size2531,quartz2561,2551.80short alias, adjacentsuffix, supplier/common-calibre or generic1120 photograph inheritance. Source condition/pressure/refurbishment claims do not establish the user watch condition, current water resistance, material assay or component originality. Ignore dealer template Rolex footer.",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        },
+        "imageSha256": "330594f8c565249985e46bef78e2c97acd2b81c3c1107cd52fa13e878f2c27a9",
+        "browserDeliveryVerified": true,
+        "lastBrowserDeliveryCheck": "2026-10-21T14:45:49.038Z"
+      }
     }
   ]
 }
