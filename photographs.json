@@ -35115,6 +35115,271 @@
         },
         "imageSha256": "3a7f77486c12c9c2a311f07861c9b73b7687d0466946395aea1b8fe2bda58f33"
       }
+    },
+    {
+      "id": "omega-next-snoopy-20261021-front",
+      "brand": "OMEGA",
+      "references": [
+        "3578.51.00"
+      ],
+      "representativeFor": [
+        "3578.51"
+      ],
+      "variant": "First Snoopy Award black dial/blue Snoopy3578.51.00 source examples; shortened3578.51 is representative only; individual component originality unverified",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "3578.51.00 — First Snoopy Award dial",
+      "caption": "Actual Bob's Watches black three-register dial, blue Snoopy at9 and black tachymeter bezel. This is not a later Snoopy edition.",
+      "image": "https://www.bobswatches.com/omega/images/zUsed-Omega-Speedmaster-3578.51.00-Snoopy-SKU167370.jpg",
+      "source": "https://www.bobswatches.com/omega/omega-speedmaster-moonwatch-snoopy-eyes-on-the-stars.html",
+      "credit": "Bob's Watches — original listing specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels reviewed2026-10-21",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-21T14:21:11.669Z",
+        "loadedAt": "2026-10-21T14:21:11.669Z",
+        "evidence": "Original BobsWatches SKU167370 identifies3578.51.00; all5 gallery images contact-inspected, full1/3 inspected. Front has black three-register dial with blue Snoopy at9, baton markers and black tachymeter bezel. Clasp in3 is Omega/SpeedmasterProfessional-signed, but the back is obscured. Original Christies lot6177371 supplies full closedback photograph2: blue Snoopy medallion, MoonWatch/SnoopyAward/LimitedEdition rim and numbered2829/5441; endlinks marked849. Both auction photographs pixel-inspected; no neighbouring lots used. These are different individual source specimens, not proof of user-watch originality or universal hardware codes. Auction lists signed manual1861 for its exact reference but no movement photograph; movement remains a reviewed gap. Dealer shortened3578.51 heading at Lecrin and full3578.51.00 descriptions support only this recorded shortened/full pair, not arbitrary suffixes. Base3578.51 photos are explicitly representative. Auction circa2006/warranty date and dealer2003 release are attributed specimen/history information, not a complete production period. No later Snoopy3861 inheritance, supplier equivalence, pressure-test transfer or individual authenticity verdict.",
+        "imageDimensions": {
+          "width": 1412,
+          "height": 2160
+        },
+        "imageSha256": "f43c99b66c80ce5396ee357b55ddc0d9d2f1f7a71b3b61a67acb9c38e141d21d"
+      }
+    },
+    {
+      "id": "omega-next-snoopy-20261021-caseback",
+      "brand": "OMEGA",
+      "references": [
+        "3578.51.00"
+      ],
+      "representativeFor": [
+        "3578.51"
+      ],
+      "variant": "First Snoopy Award black dial/blue Snoopy3578.51.00 source examples; shortened3578.51 is representative only; individual component originality unverified",
+      "category": "caseback",
+      "depictsMovement": false,
+      "title": "3578.51.00 — Closed Snoopy medallion back",
+      "caption": "Original Christie's auction specimen, distinct from Bob's Watches example: blue Snoopy medallion and numbered2829/5441. No fitted movement is visible.",
+      "image": "https://www.christies.com/img/LotImages/2018/HGK/2018_HGK_16129_2438_001(omega_a_fine_and_rare_stainless_steel_limited_edition_chronograph_wris065258).jpg",
+      "source": "https://www.christies.com/en/lot/lot-6177371",
+      "credit": "Christie's — original lot6177371 photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels reviewed2026-10-21",
+      "review": {
+        "status": "pending",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-21T14:21:11.669Z",
+        "loadedAt": "2026-10-21T14:21:11.669Z",
+        "evidence": "Original BobsWatches SKU167370 identifies3578.51.00; all5 gallery images contact-inspected, full1/3 inspected. Front has black three-register dial with blue Snoopy at9, baton markers and black tachymeter bezel. Clasp in3 is Omega/SpeedmasterProfessional-signed, but the back is obscured. Original Christies lot6177371 supplies full closedback photograph2: blue Snoopy medallion, MoonWatch/SnoopyAward/LimitedEdition rim and numbered2829/5441; endlinks marked849. Both auction photographs pixel-inspected; no neighbouring lots used. These are different individual source specimens, not proof of user-watch originality or universal hardware codes. Auction lists signed manual1861 for its exact reference but no movement photograph; movement remains a reviewed gap. Dealer shortened3578.51 heading at Lecrin and full3578.51.00 descriptions support only this recorded shortened/full pair, not arbitrary suffixes. Base3578.51 photos are explicitly representative. Auction circa2006/warranty date and dealer2003 release are attributed specimen/history information, not a complete production period. No later Snoopy3861 inheritance, supplier equivalence, pressure-test transfer or individual authenticity verdict.",
+        "imageDimensions": {
+          "width": 3200,
+          "height": 3200
+        },
+        "imageSha256": "9395221da835d02632933aa51b27b0e46154a5ff74555a5bb68b4242be358d0b",
+        "browserDeliveryVerified": false,
+        "lastBrowserDeliveryCheck": "2026-10-21T14:25:54.138Z",
+        "deliveryFinding": "Actual downloaded pixels inspected, but Chrome timed out20s with naturalWidth0 for both unparameterized and source-supplied mode=max URLs. Withheld until reliable browser delivery or an original-source alternative is verified."
+      }
+    },
+    {
+      "id": "omega-next-snoopy-20261021-braceletClasp",
+      "brand": "OMEGA",
+      "references": [
+        "3578.51.00"
+      ],
+      "representativeFor": [
+        "3578.51"
+      ],
+      "variant": "First Snoopy Award black dial/blue Snoopy3578.51.00 source examples; shortened3578.51 is representative only; individual component originality unverified",
+      "category": "braceletClasp",
+      "depictsMovement": false,
+      "title": "3578.51.00 — Steel bracelet and clasp",
+      "caption": "Bob's Watches source specimen with Omega/Speedmaster Professional signing; full hardware codes and component originality are not established.",
+      "image": "https://www.bobswatches.com/omega/images/zUsed-Omega-Speedmaster-3578.51.00-Stainless-Steel-Snoopy-SKU167370.jpg",
+      "source": "https://www.bobswatches.com/omega/omega-speedmaster-moonwatch-snoopy-eyes-on-the-stars.html",
+      "credit": "Bob's Watches — original listing specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels reviewed2026-10-21",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-21T14:21:11.669Z",
+        "loadedAt": "2026-10-21T14:21:11.669Z",
+        "evidence": "Original BobsWatches SKU167370 identifies3578.51.00; all5 gallery images contact-inspected, full1/3 inspected. Front has black three-register dial with blue Snoopy at9, baton markers and black tachymeter bezel. Clasp in3 is Omega/SpeedmasterProfessional-signed, but the back is obscured. Original Christies lot6177371 supplies full closedback photograph2: blue Snoopy medallion, MoonWatch/SnoopyAward/LimitedEdition rim and numbered2829/5441; endlinks marked849. Both auction photographs pixel-inspected; no neighbouring lots used. These are different individual source specimens, not proof of user-watch originality or universal hardware codes. Auction lists signed manual1861 for its exact reference but no movement photograph; movement remains a reviewed gap. Dealer shortened3578.51 heading at Lecrin and full3578.51.00 descriptions support only this recorded shortened/full pair, not arbitrary suffixes. Base3578.51 photos are explicitly representative. Auction circa2006/warranty date and dealer2003 release are attributed specimen/history information, not a complete production period. No later Snoopy3861 inheritance, supplier equivalence, pressure-test transfer or individual authenticity verdict.",
+        "imageDimensions": {
+          "width": 800,
+          "height": 800
+        },
+        "imageSha256": "0cfd6d6a569c14378f710f5422f3dc174c549f5a07f9a85775e98bda0ddf0ab1"
+      }
+    },
+    {
+      "id": "omega-next-aqua-20261021-front",
+      "brand": "OMEGA",
+      "references": [
+        "220.10.41.21.02.001"
+      ],
+      "representativeFor": [],
+      "variant": "Grailzee exact220.10.41.21.02.001 silver teak dial/orange accents source specimen; only front supported",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "220.10.41.21.02.001 — Silver teak dial",
+      "caption": "Original Grailzee auction listing photograph: silver horizontal teak dial, orange accents and date6. Only front is supported; no movement or complete bracelet view.",
+      "image": "https://cdn.shopify.com/s/files/1/0574/3175/2836/files/main-media-image-1008249.webp?v=1757270252",
+      "source": "https://grailzee.com/products/omega-seamaster-aqua-terra-220-10-41-21-02-2",
+      "credit": "Grailzee — original auction listing photograph; photographer not separately identified",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels reviewed2026-10-21",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-21T14:21:11.669Z",
+        "loadedAt": "2026-10-21T14:21:11.669Z",
+        "evidence": "Original Grailzee auction page and product JSON explicitly identify220.10.41.21.02.001. Its one source-listed600x750 photograph was fully inspected: silver horizontal teak dial, blackened hands/indexes, orange seconds/Seamaster accents and date6. Reflections and use marks support an actual specimen image, not an accepted manufacturer render. Credit identifies the auction listing; photographer is not separately identified. No movement, back or complete bracelet/clasp photograph in this retrieved gallery; those categories remain reviewed gaps. Manufacturer exact product specifies41mm steel,8900 automatic MasterChronometer and60h; this is specification evidence, not a readable fitted-calibre observation. Auction papers2022 are seller-attributed and not manufacture proof or user warranty validation. No alternate dial,38mm size, neighbouring suffix, supplier calibre or generic8900 image inheritance. Current condition, pressure resistance, material assay, strap/hardware originality and full manufacture period remain unverified.",
+        "imageDimensions": {
+          "width": 600,
+          "height": 750
+        },
+        "imageSha256": "30e01da01aefd6438855b432fa876736ec763b5aa8a581d2b700737c9c4c79d0"
+      }
+    },
+    {
+      "id": "omega-next-titanium-20261021-front",
+      "brand": "OMEGA",
+      "references": [
+        "232.92.38.20.03.001"
+      ],
+      "representativeFor": [],
+      "variant": "Zeitauktion2601501 blue titanium Planet Ocean on source-described original blue rubber/Omega clasp; individual originality and manufacture period unverified",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "232.92.38.20.03.001 — Blue dial and rubber strap",
+      "caption": "Actual blue dial/bezel, date3 and blue rubber strap source execution. The separately researched replacement-leather specimen is not used.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601501_01_nowm.jpg?v=1774443620",
+      "source": "https://www.zeitauktion.com/it/products/omega-seamaster-titanio-automatismo-orologio-da-uomo-232-92-38-20-03-001-2601501",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels reviewed2026-10-21",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-21T14:21:11.669Z",
+        "loadedAt": "2026-10-21T14:21:11.669Z",
+        "evidence": "Original Zeitauktion2601501 exact-reference page explicitly attributes its specimen images to Zeitauktion and describes blue rubber with Omega folding clasp. All14 gallery files contact-inspected; full1/11/13 inspected. Blue dial/bezel, date3, white stitching on rubber and Omega-logo clasp visible. Through-glass image11 reads OmegaCoAxial8520, with Liquidmetal/Professional/PlanetOcean/600m2000ft rim legends and patterned strap underside. This is fitted through-glass evidence, not an opened inner-caseback inspection, universal strap code or individual originality proof. Movement and caseback share one original file; clasp13 also depicts movement and is suppressed in external-only work. Earlier exact-source2601599 was also inspected: replacement leather/no-name buckle, contradictory prose8200 and failed pressure test; its hardware/photos are not accepted here. The2601501 prose MasterChronometer claim is not accepted as METAS certification: documented8520 CoAxial chronometer remains distinct from later MasterChronometer calibres. Manufacturer titanium37.5mm execution retained; no neighbouring chronograph9300, supplier equivalence or full period inference. Seller purchase date unknown and specimen pressure claims do not transfer to the user watch. Ignore dealer template Rolex footer.",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        },
+        "imageSha256": "11f8d6bc672c040b6379bf9699ba0c14eec8b9bda0816065986d30e541eaf23d"
+      }
+    },
+    {
+      "id": "omega-next-titanium-20261021-movement",
+      "brand": "OMEGA",
+      "references": [
+        "232.92.38.20.03.001"
+      ],
+      "representativeFor": [],
+      "variant": "Zeitauktion2601501 blue titanium Planet Ocean on source-described original blue rubber/Omega clasp; individual originality and manufacture period unverified",
+      "category": "movement",
+      "depictsMovement": true,
+      "title": "232.92.38.20.03.001 — 8520 through display back",
+      "caption": "Omega Co-Axial8520 is readable through the fitted glass back. No opened inner-caseback or later MasterChronometer equivalence.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601501_10_2k.jpg?v=1774443634",
+      "source": "https://www.zeitauktion.com/it/products/omega-seamaster-titanio-automatismo-orologio-da-uomo-232-92-38-20-03-001-2601501",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels reviewed2026-10-21",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-21T14:21:11.669Z",
+        "loadedAt": "2026-10-21T14:21:11.669Z",
+        "evidence": "Original Zeitauktion2601501 exact-reference page explicitly attributes its specimen images to Zeitauktion and describes blue rubber with Omega folding clasp. All14 gallery files contact-inspected; full1/11/13 inspected. Blue dial/bezel, date3, white stitching on rubber and Omega-logo clasp visible. Through-glass image11 reads OmegaCoAxial8520, with Liquidmetal/Professional/PlanetOcean/600m2000ft rim legends and patterned strap underside. This is fitted through-glass evidence, not an opened inner-caseback inspection, universal strap code or individual originality proof. Movement and caseback share one original file; clasp13 also depicts movement and is suppressed in external-only work. Earlier exact-source2601599 was also inspected: replacement leather/no-name buckle, contradictory prose8200 and failed pressure test; its hardware/photos are not accepted here. The2601501 prose MasterChronometer claim is not accepted as METAS certification: documented8520 CoAxial chronometer remains distinct from later MasterChronometer calibres. Manufacturer titanium37.5mm execution retained; no neighbouring chronograph9300, supplier equivalence or full period inference. Seller purchase date unknown and specimen pressure claims do not transfer to the user watch. Ignore dealer template Rolex footer.",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        },
+        "imageSha256": "d953c156594ba23317ab1e10c948dc8f1cf2d0e7b6fbd5c292604e0984eed97d"
+      }
+    },
+    {
+      "id": "omega-next-titanium-20261021-caseback",
+      "brand": "OMEGA",
+      "references": [
+        "232.92.38.20.03.001"
+      ],
+      "representativeFor": [],
+      "variant": "Zeitauktion2601501 blue titanium Planet Ocean on source-described original blue rubber/Omega clasp; individual originality and manufacture period unverified",
+      "category": "caseback",
+      "depictsMovement": true,
+      "title": "232.92.38.20.03.001 — Fitted display caseback",
+      "caption": "Full display back with Liquidmetal/PlanetOcean/Professional/600m2000ft legends and visible movement; suppressed for external-only work.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601501_10_2k.jpg?v=1774443634",
+      "source": "https://www.zeitauktion.com/it/products/omega-seamaster-titanio-automatismo-orologio-da-uomo-232-92-38-20-03-001-2601501",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels reviewed2026-10-21",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-21T14:21:11.669Z",
+        "loadedAt": "2026-10-21T14:21:11.669Z",
+        "evidence": "Original Zeitauktion2601501 exact-reference page explicitly attributes its specimen images to Zeitauktion and describes blue rubber with Omega folding clasp. All14 gallery files contact-inspected; full1/11/13 inspected. Blue dial/bezel, date3, white stitching on rubber and Omega-logo clasp visible. Through-glass image11 reads OmegaCoAxial8520, with Liquidmetal/Professional/PlanetOcean/600m2000ft rim legends and patterned strap underside. This is fitted through-glass evidence, not an opened inner-caseback inspection, universal strap code or individual originality proof. Movement and caseback share one original file; clasp13 also depicts movement and is suppressed in external-only work. Earlier exact-source2601599 was also inspected: replacement leather/no-name buckle, contradictory prose8200 and failed pressure test; its hardware/photos are not accepted here. The2601501 prose MasterChronometer claim is not accepted as METAS certification: documented8520 CoAxial chronometer remains distinct from later MasterChronometer calibres. Manufacturer titanium37.5mm execution retained; no neighbouring chronograph9300, supplier equivalence or full period inference. Seller purchase date unknown and specimen pressure claims do not transfer to the user watch. Ignore dealer template Rolex footer.",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        },
+        "imageSha256": "d953c156594ba23317ab1e10c948dc8f1cf2d0e7b6fbd5c292604e0984eed97d"
+      }
+    },
+    {
+      "id": "omega-next-titanium-20261021-braceletClasp",
+      "brand": "OMEGA",
+      "references": [
+        "232.92.38.20.03.001"
+      ],
+      "representativeFor": [],
+      "variant": "Zeitauktion2601501 blue titanium Planet Ocean on source-described original blue rubber/Omega clasp; individual originality and manufacture period unverified",
+      "category": "braceletClasp",
+      "depictsMovement": true,
+      "title": "232.92.38.20.03.001 — Blue rubber and Omega clasp",
+      "caption": "Actual source-described blue rubber/Omega folding clasp; individual originality and full hardware codes remain unverified. Background movement makes this unsuitable for external-only work.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601501_12_2k.jpg?v=1774443637",
+      "source": "https://www.zeitauktion.com/it/products/omega-seamaster-titanio-automatismo-orologio-da-uomo-232-92-38-20-03-001-2601501",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels reviewed2026-10-21",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-21T14:21:11.669Z",
+        "loadedAt": "2026-10-21T14:21:11.669Z",
+        "evidence": "Original Zeitauktion2601501 exact-reference page explicitly attributes its specimen images to Zeitauktion and describes blue rubber with Omega folding clasp. All14 gallery files contact-inspected; full1/11/13 inspected. Blue dial/bezel, date3, white stitching on rubber and Omega-logo clasp visible. Through-glass image11 reads OmegaCoAxial8520, with Liquidmetal/Professional/PlanetOcean/600m2000ft rim legends and patterned strap underside. This is fitted through-glass evidence, not an opened inner-caseback inspection, universal strap code or individual originality proof. Movement and caseback share one original file; clasp13 also depicts movement and is suppressed in external-only work. Earlier exact-source2601599 was also inspected: replacement leather/no-name buckle, contradictory prose8200 and failed pressure test; its hardware/photos are not accepted here. The2601501 prose MasterChronometer claim is not accepted as METAS certification: documented8520 CoAxial chronometer remains distinct from later MasterChronometer calibres. Manufacturer titanium37.5mm execution retained; no neighbouring chronograph9300, supplier equivalence or full period inference. Seller purchase date unknown and specimen pressure claims do not transfer to the user watch. Ignore dealer template Rolex footer.",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        },
+        "imageSha256": "93bd56cbcc3fc0abdc19b636137f9502579f0c6f12b890e8925e478869f269ae"
+      }
     }
   ]
 }

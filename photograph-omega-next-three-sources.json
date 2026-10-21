@@ -1,0 +1,548 @@
+{
+  "reviewedAt": "2026-10-21T14:21:11.669Z",
+  "scope": "Three original exact-reference records;7 verified category entries from6distinct files,1 pending original caseback image withheld for unreliable browser delivery. Unsupported categories stay empty.",
+  "records": [
+    {
+      "sourceRecordId": "RULE:0014",
+      "reference": "3578.51.00",
+      "representativeBase": [
+        "3578.51"
+      ],
+      "source": "https://www.bobswatches.com/omega/omega-speedmaster-moonwatch-snoopy-eyes-on-the-stars.html",
+      "sources": [
+        {
+          "title": "Original exact-reference specification / auction evidence",
+          "url": "https://www.christies.com/en/lot/lot-6177371"
+        },
+        {
+          "title": "Original photographed source specimen",
+          "url": "https://www.bobswatches.com/omega/omega-speedmaster-moonwatch-snoopy-eyes-on-the-stars.html"
+        },
+        {
+          "title": "Additional original source / execution limits",
+          "url": "https://www.lecrin.ch/en-ch/nos-montres/product/omega-speedmaster-professionnel-moonwatch-snoopy-award-3578-51"
+        }
+      ],
+      "evidence": "Original BobsWatches SKU167370 identifies3578.51.00; all5 gallery images contact-inspected, full1/3 inspected. Front has black three-register dial with blue Snoopy at9, baton markers and black tachymeter bezel. Clasp in3 is Omega/SpeedmasterProfessional-signed, but the back is obscured. Original Christies lot6177371 supplies full closedback photograph2: blue Snoopy medallion, MoonWatch/SnoopyAward/LimitedEdition rim and numbered2829/5441; endlinks marked849. Both auction photographs pixel-inspected; no neighbouring lots used. These are different individual source specimens, not proof of user-watch originality or universal hardware codes. Auction lists signed manual1861 for its exact reference but no movement photograph; movement remains a reviewed gap. Dealer shortened3578.51 heading at Lecrin and full3578.51.00 descriptions support only this recorded shortened/full pair, not arbitrary suffixes. Base3578.51 photos are explicitly representative. Auction circa2006/warranty date and dealer2003 release are attributed specimen/history information, not a complete production period. No later Snoopy3861 inheritance, supplier equivalence, pressure-test transfer or individual authenticity verdict.",
+      "accepted": [
+        {
+          "id": "omega-next-snoopy-20261021-front",
+          "category": "front",
+          "image": "https://www.bobswatches.com/omega/images/zUsed-Omega-Speedmaster-3578.51.00-Snoopy-SKU167370.jpg",
+          "source": "https://www.bobswatches.com/omega/omega-speedmaster-moonwatch-snoopy-eyes-on-the-stars.html",
+          "sha256": "f43c99b66c80ce5396ee357b55ddc0d9d2f1f7a71b3b61a67acb9c38e141d21d"
+        },
+        {
+          "id": "omega-next-snoopy-20261021-braceletClasp",
+          "category": "braceletClasp",
+          "image": "https://www.bobswatches.com/omega/images/zUsed-Omega-Speedmaster-3578.51.00-Stainless-Steel-Snoopy-SKU167370.jpg",
+          "source": "https://www.bobswatches.com/omega/omega-speedmaster-moonwatch-snoopy-eyes-on-the-stars.html",
+          "sha256": "0cfd6d6a569c14378f710f5422f3dc174c549f5a07f9a85775e98bda0ddf0ab1"
+        }
+      ],
+      "withheld": [
+        {
+          "id": "omega-next-snoopy-20261021-caseback",
+          "category": "caseback",
+          "image": "https://www.christies.com/img/LotImages/2018/HGK/2018_HGK_16129_2438_001(omega_a_fine_and_rare_stainless_steel_limited_edition_chronograph_wris065258).jpg",
+          "source": "https://www.christies.com/en/lot/lot-6177371",
+          "sha256": "9395221da835d02632933aa51b27b0e46154a5ff74555a5bb68b4242be358d0b",
+          "reason": "Actual downloaded pixels inspected, but Chrome timed out20s with naturalWidth0 for both unparameterized and source-supplied mode=max URLs. Withheld until reliable browser delivery or an original-source alternative is verified."
+        }
+      ]
+    },
+    {
+      "sourceRecordId": "RULE:0015",
+      "reference": "220.10.41.21.02.001",
+      "representativeBase": [],
+      "source": "https://grailzee.com/products/omega-seamaster-aqua-terra-220-10-41-21-02-2",
+      "sources": [
+        {
+          "title": "Original exact-reference specification / auction evidence",
+          "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-aqua-terra-150m-co-axial-master-chronometer-41-mm-22010412102001"
+        },
+        {
+          "title": "Original photographed source specimen",
+          "url": "https://grailzee.com/products/omega-seamaster-aqua-terra-220-10-41-21-02-2"
+        }
+      ],
+      "evidence": "Original Grailzee auction page and product JSON explicitly identify220.10.41.21.02.001. Its one source-listed600x750 photograph was fully inspected: silver horizontal teak dial, blackened hands/indexes, orange seconds/Seamaster accents and date6. Reflections and use marks support an actual specimen image, not an accepted manufacturer render. Credit identifies the auction listing; photographer is not separately identified. No movement, back or complete bracelet/clasp photograph in this retrieved gallery; those categories remain reviewed gaps. Manufacturer exact product specifies41mm steel,8900 automatic MasterChronometer and60h; this is specification evidence, not a readable fitted-calibre observation. Auction papers2022 are seller-attributed and not manufacture proof or user warranty validation. No alternate dial,38mm size, neighbouring suffix, supplier calibre or generic8900 image inheritance. Current condition, pressure resistance, material assay, strap/hardware originality and full manufacture period remain unverified.",
+      "accepted": [
+        {
+          "id": "omega-next-aqua-20261021-front",
+          "category": "front",
+          "image": "https://cdn.shopify.com/s/files/1/0574/3175/2836/files/main-media-image-1008249.webp?v=1757270252",
+          "source": "https://grailzee.com/products/omega-seamaster-aqua-terra-220-10-41-21-02-2",
+          "sha256": "30e01da01aefd6438855b432fa876736ec763b5aa8a581d2b700737c9c4c79d0"
+        }
+      ]
+    },
+    {
+      "sourceRecordId": "RULE:0016",
+      "reference": "232.92.38.20.03.001",
+      "representativeBase": [],
+      "source": "https://www.zeitauktion.com/it/products/omega-seamaster-titanio-automatismo-orologio-da-uomo-232-92-38-20-03-001-2601501",
+      "sources": [
+        {
+          "title": "Original exact-reference specification / auction evidence",
+          "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-planet-ocean-600m-co-axial-chronometer-37-5-mm-23292382003001"
+        },
+        {
+          "title": "Original photographed source specimen",
+          "url": "https://www.zeitauktion.com/it/products/omega-seamaster-titanio-automatismo-orologio-da-uomo-232-92-38-20-03-001-2601501"
+        },
+        {
+          "title": "Additional original source / execution limits",
+          "url": "https://www.zeitauktion.com/products/omega-seamaster-titanium-automatic-unisex-232-92-38-20-03-001-2601599"
+        }
+      ],
+      "evidence": "Original Zeitauktion2601501 exact-reference page explicitly attributes its specimen images to Zeitauktion and describes blue rubber with Omega folding clasp. All14 gallery files contact-inspected; full1/11/13 inspected. Blue dial/bezel, date3, white stitching on rubber and Omega-logo clasp visible. Through-glass image11 reads OmegaCoAxial8520, with Liquidmetal/Professional/PlanetOcean/600m2000ft rim legends and patterned strap underside. This is fitted through-glass evidence, not an opened inner-caseback inspection, universal strap code or individual originality proof. Movement and caseback share one original file; clasp13 also depicts movement and is suppressed in external-only work. Earlier exact-source2601599 was also inspected: replacement leather/no-name buckle, contradictory prose8200 and failed pressure test; its hardware/photos are not accepted here. The2601501 prose MasterChronometer claim is not accepted as METAS certification: documented8520 CoAxial chronometer remains distinct from later MasterChronometer calibres. Manufacturer titanium37.5mm execution retained; no neighbouring chronograph9300, supplier equivalence or full period inference. Seller purchase date unknown and specimen pressure claims do not transfer to the user watch. Ignore dealer template Rolex footer.",
+      "accepted": [
+        {
+          "id": "omega-next-titanium-20261021-front",
+          "category": "front",
+          "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601501_01_nowm.jpg?v=1774443620",
+          "source": "https://www.zeitauktion.com/it/products/omega-seamaster-titanio-automatismo-orologio-da-uomo-232-92-38-20-03-001-2601501",
+          "sha256": "11f8d6bc672c040b6379bf9699ba0c14eec8b9bda0816065986d30e541eaf23d"
+        },
+        {
+          "id": "omega-next-titanium-20261021-movement",
+          "category": "movement",
+          "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601501_10_2k.jpg?v=1774443634",
+          "source": "https://www.zeitauktion.com/it/products/omega-seamaster-titanio-automatismo-orologio-da-uomo-232-92-38-20-03-001-2601501",
+          "sha256": "d953c156594ba23317ab1e10c948dc8f1cf2d0e7b6fbd5c292604e0984eed97d"
+        },
+        {
+          "id": "omega-next-titanium-20261021-caseback",
+          "category": "caseback",
+          "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601501_10_2k.jpg?v=1774443634",
+          "source": "https://www.zeitauktion.com/it/products/omega-seamaster-titanio-automatismo-orologio-da-uomo-232-92-38-20-03-001-2601501",
+          "sha256": "d953c156594ba23317ab1e10c948dc8f1cf2d0e7b6fbd5c292604e0984eed97d"
+        },
+        {
+          "id": "omega-next-titanium-20261021-braceletClasp",
+          "category": "braceletClasp",
+          "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601501_12_2k.jpg?v=1774443637",
+          "source": "https://www.zeitauktion.com/it/products/omega-seamaster-titanio-automatismo-orologio-da-uomo-232-92-38-20-03-001-2601501",
+          "sha256": "93bd56cbcc3fc0abdc19b636137f9502579f0c6f12b890e8925e478869f269ae"
+        }
+      ]
+    }
+  ],
+  "inspectedGalleries": {
+    "snoopy": {
+      "source": "https://www.bobswatches.com/omega/omega-speedmaster-moonwatch-snoopy-eyes-on-the-stars.html",
+      "at": "2026-10-21T09:57:50.512Z",
+      "images": [
+        {
+          "index": 1,
+          "url": "https://www.bobswatches.com/omega/images/zUsed-Omega-Speedmaster-3578.51.00-Snoopy-SKU167370.jpg",
+          "file": "image-01.jpg",
+          "sha256": "f43c99b66c80ce5396ee357b55ddc0d9d2f1f7a71b3b61a67acb9c38e141d21d",
+          "bytes": 377377
+        },
+        {
+          "index": 2,
+          "url": "https://www.bobswatches.com/omega/images/zUsed-Omega-Speedmaster-3578.51.00-Stainless-Steel-SKU167370.jpg",
+          "file": "image-02.jpg",
+          "sha256": "4d0acee6633fef651135a23ebab61301bdd401b7a19cdb0838ca019e929de8fc",
+          "bytes": 64380
+        },
+        {
+          "index": 3,
+          "url": "https://www.bobswatches.com/omega/images/zUsed-Omega-Speedmaster-3578.51.00-Stainless-Steel-Snoopy-SKU167370.jpg",
+          "file": "image-03.jpg",
+          "sha256": "0cfd6d6a569c14378f710f5422f3dc174c549f5a07f9a85775e98bda0ddf0ab1",
+          "bytes": 49347
+        },
+        {
+          "index": 4,
+          "url": "https://www.bobswatches.com/omega/images/zy-167370.jpg",
+          "file": "image-04.jpg",
+          "sha256": "4f9c3d306561e923070ba0c84f450e4efb94cd34e5e881d58f2465a5f19777ac",
+          "bytes": 65460
+        },
+        {
+          "index": 5,
+          "url": "https://www.bobswatches.com/omega/images/zUsed-Omega-Speedmaster-3578.51.00-Snoopy-SKU167370w.jpg",
+          "file": "image-05.jpg",
+          "sha256": "5fd7f6a532c4d8a92fe24025bfc4c914b444d8f69271d11b29aa8035bec64f58",
+          "bytes": 116500
+        }
+      ]
+    },
+    "snoopy-christies": {
+      "source": "https://www.christies.com/en/lot/lot-6177371",
+      "images": [
+        {
+          "index": 1,
+          "url": "https://www.christies.com/img/LotImages/2018/HGK/2018_HGK_16129_2438_000(omega_a_fine_and_rare_stainless_steel_limited_edition_chronograph_wris065250).jpg",
+          "file": "image-01.jpg",
+          "sha256": "8c9c3ecad748275bb1de35845fb49b690b110dbca23e803339ccbdfab147d8b9"
+        },
+        {
+          "index": 2,
+          "url": "https://www.christies.com/img/LotImages/2018/HGK/2018_HGK_16129_2438_001(omega_a_fine_and_rare_stainless_steel_limited_edition_chronograph_wris065258).jpg",
+          "file": "image-02.jpg",
+          "sha256": "9395221da835d02632933aa51b27b0e46154a5ff74555a5bb68b4242be358d0b"
+        }
+      ],
+      "at": "2026-10-21T09:59:21.017Z"
+    },
+    "aqua": {
+      "source": "https://grailzee.com/products/omega-seamaster-aqua-terra-220-10-41-21-02-2",
+      "at": "2026-10-21T09:57:58.520Z",
+      "images": [
+        {
+          "index": 1,
+          "url": "https://cdn.shopify.com/s/files/1/0574/3175/2836/files/main-media-image-1008249.webp?v=1757270252",
+          "file": "image-01.jpg",
+          "sha256": "30e01da01aefd6438855b432fa876736ec763b5aa8a581d2b700737c9c4c79d0",
+          "bytes": 122574
+        }
+      ]
+    },
+    "titanium-oem": {
+      "source": "https://www.zeitauktion.com/it/products/omega-seamaster-titanio-automatismo-orologio-da-uomo-232-92-38-20-03-001-2601501",
+      "at": "2026-10-21T10:00:22.398Z",
+      "images": [
+        {
+          "index": 1,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601501_01_nowm.jpg?v=1774443620",
+          "file": "image-01.jpg",
+          "sha256": "11f8d6bc672c040b6379bf9699ba0c14eec8b9bda0816065986d30e541eaf23d",
+          "bytes": 154247
+        },
+        {
+          "index": 2,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601501_02_2k.jpg?v=1774443622",
+          "file": "image-02.jpg",
+          "sha256": "b527e38660abc1029b0371131a41e039db08bbdf2be8818dc630320440f6e01f",
+          "bytes": 284219
+        },
+        {
+          "index": 3,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601501_03_2k.jpg?v=1774443624",
+          "file": "image-03.jpg",
+          "sha256": "12d470c1ed27d32a7b56dd38a1526868c6fa9fffb15d283c06dccdd1705fab1d",
+          "bytes": 453767
+        },
+        {
+          "index": 4,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601501_04_2k.jpg?v=1774443625",
+          "file": "image-04.jpg",
+          "sha256": "6ca8164399355880ef0b37d71f5dcdf4c8c6bde2abfce1c3d4a8b1e533abf32e",
+          "bytes": 324754
+        },
+        {
+          "index": 5,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601501_01_2k.jpg?v=1774443618",
+          "file": "image-05.jpg",
+          "sha256": "3554b3797d96d3f537b9ca5cc89260a5a186ccd7aae9ffe8b5cda101ba9f44e1",
+          "bytes": 132870
+        },
+        {
+          "index": 6,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601501_05_2k.jpg?v=1774443627",
+          "file": "image-06.jpg",
+          "sha256": "0f0f4721a5422f580947ff8200632445707260c05d501fba54444b5ace93afc4",
+          "bytes": 139210
+        },
+        {
+          "index": 7,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601501_06_2k.jpg?v=1774443628",
+          "file": "image-07.jpg",
+          "sha256": "2f366c19ae47f51351fab456c02ffccf5e862d80566c9ef1944a1ec770f680df",
+          "bytes": 167940
+        },
+        {
+          "index": 8,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601501_07_2k.jpg?v=1774443630",
+          "file": "image-08.jpg",
+          "sha256": "56fd009c475d26f6a5aa904ffaafb3eaaf05c99b706d8b07fbd814f04f138356",
+          "bytes": 149520
+        },
+        {
+          "index": 9,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601501_08_2k.jpg?v=1774443631",
+          "file": "image-09.jpg",
+          "sha256": "0667e766d87a6d6a9cad9030d880308ea7f66b3425eead09afa2bf0766347b68",
+          "bytes": 121935
+        },
+        {
+          "index": 10,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601501_09_2k.jpg?v=1774443632",
+          "file": "image-10.jpg",
+          "sha256": "542bc26a9c191cf8a80b84a524172f4c3f1324a4a2537f118fcdb56dc169abd1",
+          "bytes": 153610
+        },
+        {
+          "index": 11,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601501_10_2k.jpg?v=1774443634",
+          "file": "image-11.jpg",
+          "sha256": "d953c156594ba23317ab1e10c948dc8f1cf2d0e7b6fbd5c292604e0984eed97d",
+          "bytes": 203802
+        },
+        {
+          "index": 12,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601501_11_2k.jpg?v=1774443636",
+          "file": "image-12.jpg",
+          "sha256": "b3e05a2dcf9e158369db53262492503f80985c0977a16fb9f6b95d7b097c9eb0",
+          "bytes": 163089
+        },
+        {
+          "index": 13,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601501_12_2k.jpg?v=1774443637",
+          "file": "image-13.jpg",
+          "sha256": "93bd56cbcc3fc0abdc19b636137f9502579f0c6f12b890e8925e478869f269ae",
+          "bytes": 124969
+        },
+        {
+          "index": 14,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/photoSet_workshop_2k_20260629.jpg?v=1782732100",
+          "file": "image-14.jpg",
+          "sha256": "d7c47c925b681c85c0e05dd124e9a56a9bb373adf9bfc020bad94fe8e2408ebb",
+          "bytes": 257861
+        }
+      ]
+    },
+    "titanium": {
+      "source": "https://www.zeitauktion.com/products/omega-seamaster-titanium-automatic-unisex-232-92-38-20-03-001-2601599",
+      "at": "2026-10-21T09:57:51.526Z",
+      "images": [
+        {
+          "index": 1,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601599_01_nowm.jpg?v=1774875627",
+          "file": "image-01.jpg",
+          "sha256": "1760f19c47f1f136587dd5e94ba85643d699abbc2f1802e132abdbaf8f317303",
+          "bytes": 156886
+        },
+        {
+          "index": 2,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601599_02_2k.jpg?v=1774875629",
+          "file": "image-02.jpg",
+          "sha256": "3a7c3e7969f35566150e97827ba137473fba0bfc3759b5c087da274a954d1df1",
+          "bytes": 307854
+        },
+        {
+          "index": 3,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601599_03_2k.jpg?v=1774875631",
+          "file": "image-03.jpg",
+          "sha256": "a3b1cf9686a9c78e97f308b09a25e005e907aa8419105bc87d6d8cfc24d51e0d",
+          "bytes": 384333
+        },
+        {
+          "index": 4,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601599_04_2k.jpg?v=1774875633",
+          "file": "image-04.jpg",
+          "sha256": "5cdcec48deffeaa2d0e7b8b93dbf71da85f8f149c1505a7c971b6e002cb5d41b",
+          "bytes": 320606
+        },
+        {
+          "index": 5,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601599_01_2k.jpg?v=1774875624",
+          "file": "image-05.jpg",
+          "sha256": "86cd17961a27e135ac2a6b49d86bb580da18f91d83827fdd7b900f8e1cabdaa6",
+          "bytes": 131300
+        },
+        {
+          "index": 6,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601599_05_2k.jpg?v=1774875634",
+          "file": "image-06.jpg",
+          "sha256": "0f0f4721a5422f580947ff8200632445707260c05d501fba54444b5ace93afc4",
+          "bytes": 139210
+        },
+        {
+          "index": 7,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601599_06_2k.jpg?v=1774875636",
+          "file": "image-07.jpg",
+          "sha256": "4dbcbfd6ca3ad0d0c06680061203012e3a9e9d8868c84507eb6de6f2912e3239",
+          "bytes": 160050
+        },
+        {
+          "index": 8,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601599_07_2k.jpg?v=1774875637",
+          "file": "image-08.jpg",
+          "sha256": "cb49c8cc3cef6a3d9df3cf68900523f1b91924b507152716cd0a12849a72127e",
+          "bytes": 142811
+        },
+        {
+          "index": 9,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601599_08_2k.jpg?v=1774875639",
+          "file": "image-09.jpg",
+          "sha256": "9d33ef7cd2276a981433c21c96dc967ebcae44287676451245cb264621e68ed6",
+          "bytes": 125612
+        },
+        {
+          "index": 10,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601599_09_2k.jpg?v=1774875640",
+          "file": "image-10.jpg",
+          "sha256": "542bc26a9c191cf8a80b84a524172f4c3f1324a4a2537f118fcdb56dc169abd1",
+          "bytes": 153610
+        },
+        {
+          "index": 11,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601599_10_2k.jpg?v=1774875643",
+          "file": "image-11.jpg",
+          "sha256": "5d76a1abb9d4d8003bb7c2d7c0839b9e5e74aa657a69c4c76e6b411865078dfc",
+          "bytes": 324529
+        },
+        {
+          "index": 12,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601599_11_2k.jpg?v=1774875643",
+          "file": "image-12.jpg",
+          "sha256": "c72b3c37472f1b7e2a508e18fcfe5538ddd6e4e2fa44377d75154bb9852aa5c4",
+          "bytes": 178379
+        },
+        {
+          "index": 13,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601599_12_2k.jpg?v=1774875645",
+          "file": "image-13.jpg",
+          "sha256": "622e1f5865cfbb75fb2f005d5e0e9ac5a235cbb41b4e4eafe2c7fff4bb00ffec",
+          "bytes": 165458
+        },
+        {
+          "index": 14,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/photoSet_workshop_2k.jpg?v=1789468094",
+          "file": "image-14.jpg",
+          "sha256": "7fc16e9bc4000e8b193333a5a2a697e3228a179be79c1a0e3a5a560a48b97429",
+          "bytes": 323410
+        }
+      ]
+    }
+  },
+  "excluded": "Packaging/papers/generic workshop images; obscured Snoopy back; replacement-leather/no-name hardware from2601599. Reused caseback/movement file is counted once as distinct image.",
+  "browserDelivery": {
+    "original": [
+      {
+        "id": "omega-next-snoopy-20261021-front",
+        "url": "https://www.bobswatches.com/omega/images/zUsed-Omega-Speedmaster-3578.51.00-Snoopy-SKU167370.jpg",
+        "state": "loaded",
+        "width": 1412,
+        "height": 2160,
+        "ms": 213,
+        "status": 200
+      },
+      {
+        "id": "omega-next-snoopy-20261021-caseback",
+        "url": "https://www.christies.com/img/LotImages/2018/HGK/2018_HGK_16129_2438_001(omega_a_fine_and_rare_stainless_steel_limited_edition_chronograph_wris065258).jpg",
+        "state": "timeout",
+        "width": 0,
+        "height": 0,
+        "ms": 20004,
+        "status": null
+      },
+      {
+        "id": "omega-next-snoopy-20261021-braceletClasp",
+        "url": "https://www.bobswatches.com/omega/images/zUsed-Omega-Speedmaster-3578.51.00-Stainless-Steel-Snoopy-SKU167370.jpg",
+        "state": "loaded",
+        "width": 800,
+        "height": 800,
+        "ms": 215,
+        "status": 200
+      },
+      {
+        "id": "omega-next-aqua-20261021-front",
+        "url": "https://cdn.shopify.com/s/files/1/0574/3175/2836/files/main-media-image-1008249.webp?v=1757270252",
+        "state": "loaded",
+        "width": 600,
+        "height": 750,
+        "ms": 700,
+        "status": 200
+      },
+      {
+        "id": "omega-next-titanium-20261021-front",
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601501_01_nowm.jpg?v=1774443620",
+        "state": "loaded",
+        "width": 2400,
+        "height": 1600,
+        "ms": 875,
+        "status": 200
+      },
+      {
+        "id": "omega-next-titanium-20261021-movement",
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601501_10_2k.jpg?v=1774443634",
+        "state": "loaded",
+        "width": 2400,
+        "height": 1600,
+        "ms": 866,
+        "status": 200
+      },
+      {
+        "id": "omega-next-titanium-20261021-braceletClasp",
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601501_12_2k.jpg?v=1774443637",
+        "state": "loaded",
+        "width": 2400,
+        "height": 1600,
+        "ms": 756,
+        "status": 200
+      }
+    ],
+    "sourceMax": [
+      {
+        "id": "omega-next-snoopy-20261021-front",
+        "url": "https://www.bobswatches.com/omega/images/zUsed-Omega-Speedmaster-3578.51.00-Snoopy-SKU167370.jpg",
+        "state": "loaded",
+        "width": 1412,
+        "height": 2160,
+        "ms": 232,
+        "status": 200
+      },
+      {
+        "id": "omega-next-snoopy-20261021-caseback",
+        "url": "https://www.christies.com/img/LotImages/2018/HGK/2018_HGK_16129_2438_001(omega_a_fine_and_rare_stainless_steel_limited_edition_chronograph_wris065258).jpg?mode=max",
+        "state": "timeout",
+        "width": 0,
+        "height": 0,
+        "ms": 20004,
+        "status": null
+      },
+      {
+        "id": "omega-next-snoopy-20261021-braceletClasp",
+        "url": "https://www.bobswatches.com/omega/images/zUsed-Omega-Speedmaster-3578.51.00-Stainless-Steel-Snoopy-SKU167370.jpg",
+        "state": "loaded",
+        "width": 800,
+        "height": 800,
+        "ms": 235,
+        "status": 200
+      },
+      {
+        "id": "omega-next-aqua-20261021-front",
+        "url": "https://cdn.shopify.com/s/files/1/0574/3175/2836/files/main-media-image-1008249.webp?v=1757270252",
+        "state": "loaded",
+        "width": 600,
+        "height": 750,
+        "ms": 240,
+        "status": 200
+      },
+      {
+        "id": "omega-next-titanium-20261021-front",
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601501_01_nowm.jpg?v=1774443620",
+        "state": "loaded",
+        "width": 2400,
+        "height": 1600,
+        "ms": 850,
+        "status": 200
+      },
+      {
+        "id": "omega-next-titanium-20261021-movement",
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601501_10_2k.jpg?v=1774443634",
+        "state": "loaded",
+        "width": 2400,
+        "height": 1600,
+        "ms": 689,
+        "status": 200
+      },
+      {
+        "id": "omega-next-titanium-20261021-braceletClasp",
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601501_12_2k.jpg?v=1774443637",
+        "state": "loaded",
+        "width": 2400,
+        "height": 1600,
+        "ms": 622,
+        "status": 200
+      }
+    ],
+    "alternative": "Watchfinder exact-reference page returned403; no gallery assets guessed."
+  }
+}
