@@ -1,0 +1,161 @@
+{
+  "reviewedAt": "2026-10-21T15:13:23.930Z",
+  "scope": "One original source record;4browser-verified category entries/4distinct original files.",
+  "sourceRecordId": "RULE:0023",
+  "reference": "2209.50.00",
+  "evidence": "Original Zeitauktion2601675 explicitly identifies2209.50.00 and attributes actual specimen photography to Zeitauktion. All15original gallery files contact-inspected; full1/11/13/14 inspected. Black dial with orange12/9/6, orange dive bezel, date3 and steel bracelet visible. Fitted closed hippocampus Seamaster/PlanetOcean caseback11 is separate from actual opened movement14; movement rotor visibly reads OMEGA2500 and bridge27JEWELS. This establishes the pictured configuration, not C/D execution, universal2500 compatibility, service history or user-watch originality. Clasp13 shows OmegaSeamasterPlanetOcean signing; rear endlinks show952, without proving every internal hardware code or component originality. Manufacturer exact-reference page confirms42mm steel/2500automatic/48h/20mm lugs and steel bracelet with folding dive-extension clasp; dimensions/reserve are specifications, not measured user-watch tests. Seller circa2005 is an estimate, not a complete production period. Source condition table explicitly says water-resistance test failed; dial600m/2000ft and manufacturer rating do not prove current water resistance. Exclude literature/pouch/register images6/9/10 and generic workshop collage15. No nearby orange PlanetOcean size, shortened alias, adjacent retail suffix, supplier/calibre-equivalence or material-assay/authenticity inference. Ignore dealer Rolex-template footer and manufacturer generic current-warranty banners as specimen evidence.",
+  "sources": [
+    {
+      "title": "Original Zeitauktion2601675 photographed specimen",
+      "url": "https://www.zeitauktion.com/products/omega-seamaster-steel-automatic-men-s-watch-2209-50-00-2601675"
+    },
+    {
+      "title": "Omega exact2209.50.00 technical specification",
+      "url": "https://www.omegawatches.com.hk/zh-hk/watch-omega-seamaster-planet-ocean-22095000"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "omega-220950-20261021-front",
+      "category": "front",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601675_01_nowm.jpg?v=1775548570",
+      "sha256": "f6b0954a435387ac36beb2c84ce796749f2a8f4ed65845edf6ea7c794beaeb1b"
+    },
+    {
+      "id": "omega-220950-20261021-movement",
+      "category": "movement",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601675_13_2k.jpg?v=1775548586",
+      "sha256": "8fa2b6cfd52ca2662ffa666747385fc8a066d42e952abca92dc559a25f15aad2"
+    },
+    {
+      "id": "omega-220950-20261021-caseback",
+      "category": "caseback",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601675_10_2k.jpg?v=1775548582",
+      "sha256": "073e5d291ae8250effe1422ab548080f307320af0f4b512d9172acb1eb2cd307"
+    },
+    {
+      "id": "omega-220950-20261021-braceletClasp",
+      "category": "braceletClasp",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601675_12_2k.jpg?v=1775548584",
+      "sha256": "8aeb3b75541349d0782d4c9e5215cf46be133419871cd3b4f4f8038815c37f24"
+    }
+  ],
+  "inspectedGallery": {
+    "source": "https://www.zeitauktion.com/products/omega-seamaster-steel-automatic-men-s-watch-2209-50-00-2601675",
+    "at": "2026-10-21T15:06:11.415Z",
+    "images": [
+      {
+        "index": 1,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601675_01_nowm.jpg?v=1775548570",
+        "file": "image-01.jpg",
+        "sha256": "f6b0954a435387ac36beb2c84ce796749f2a8f4ed65845edf6ea7c794beaeb1b",
+        "bytes": 178357
+      },
+      {
+        "index": 2,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601675_02_2k.jpg?v=1775548571",
+        "file": "image-02.jpg",
+        "sha256": "af755eb1b18acee26e6bcc2260b8a28799787a299377eb4a523f7460934bf0a2",
+        "bytes": 283227
+      },
+      {
+        "index": 3,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601675_03_2k.jpg?v=1775548572",
+        "file": "image-03.jpg",
+        "sha256": "d4b9e5fdf1be73d848cde1de7793aed0da6df1ee770a1137ac2102f566caf93c",
+        "bytes": 408390
+      },
+      {
+        "index": 4,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601675_04_2k.jpg?v=1775548574",
+        "file": "image-04.jpg",
+        "sha256": "c13d4d3d682ec435f568b8be7dd79a616fda8cba4f683187063b11590a67e75a",
+        "bytes": 349428
+      },
+      {
+        "index": 5,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601675_01_2k.jpg?v=1775548568",
+        "file": "image-05.jpg",
+        "sha256": "c40d0b460b95008bfd609dc95c78a489df3bb93486d959cd56d38d05d74538fc",
+        "bytes": 147451
+      },
+      {
+        "index": 6,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601675_05_2k.jpg?v=1775548575",
+        "file": "image-06.jpg",
+        "sha256": "0f0f4721a5422f580947ff8200632445707260c05d501fba54444b5ace93afc4",
+        "bytes": 139210
+      },
+      {
+        "index": 7,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601675_06_2k.jpg?v=1775548577",
+        "file": "image-07.jpg",
+        "sha256": "26eca15f69f1b2b51b03a2b587c2d085928d277b6ef9f906ee81564e6c2ba3a8",
+        "bytes": 119062
+      },
+      {
+        "index": 8,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601675_07_2k.jpg?v=1775548578",
+        "file": "image-08.jpg",
+        "sha256": "a01782de0837a89282040ccbbe2d20ea093d543484df465350f9617ed87a5d56",
+        "bytes": 121404
+      },
+      {
+        "index": 9,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601675_08_2k.jpg?v=1775548579",
+        "file": "image-09.jpg",
+        "sha256": "c10ba16b3560eb6d868c0efdf1c57f2bb85a336b98b174ce738b0b92ae6d8a80",
+        "bytes": 253938
+      },
+      {
+        "index": 10,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601675_09_2k.jpg?v=1775548580",
+        "file": "image-10.jpg",
+        "sha256": "542bc26a9c191cf8a80b84a524172f4c3f1324a4a2537f118fcdb56dc169abd1",
+        "bytes": 153610
+      },
+      {
+        "index": 11,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601675_10_2k.jpg?v=1775548582",
+        "file": "image-11.jpg",
+        "sha256": "073e5d291ae8250effe1422ab548080f307320af0f4b512d9172acb1eb2cd307",
+        "bytes": 258790
+      },
+      {
+        "index": 12,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601675_11_2k.jpg?v=1775548583",
+        "file": "image-12.jpg",
+        "sha256": "d01a1c5968c8d724d84f60b9a279fab7b50f33135769576207fbf70dacf354d9",
+        "bytes": 153655
+      },
+      {
+        "index": 13,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601675_12_2k.jpg?v=1775548584",
+        "file": "image-13.jpg",
+        "sha256": "8aeb3b75541349d0782d4c9e5215cf46be133419871cd3b4f4f8038815c37f24",
+        "bytes": 152915
+      },
+      {
+        "index": 14,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601675_13_2k.jpg?v=1775548586",
+        "file": "image-14.jpg",
+        "sha256": "8fa2b6cfd52ca2662ffa666747385fc8a066d42e952abca92dc559a25f15aad2",
+        "bytes": 366040
+      },
+      {
+        "index": 15,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/photoSet_workshop_2k_20260629.jpg?v=1782732100",
+        "file": "image-15.jpg",
+        "sha256": "d7c47c925b681c85c0e05dd124e9a56a9bb373adf9bfc020bad94fe8e2408ebb",
+        "bytes": 257861
+      }
+    ]
+  },
+  "validation": {
+    "nodeTests": 170,
+    "workflowFixtures": "Passed; fixture authentication only",
+    "actualChrome": "All4remote images load/enlarge/credit; external-only3/restored4; exact reference/calibre2500;390px; no page errors",
+    "realAuthenticatedSession": "Outstanding; no authorized session available",
+    "publication": "Pending"
+  }
+}

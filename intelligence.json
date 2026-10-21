@@ -836,12 +836,24 @@
       "calibreDisplay": "2500",
       "technology": "Automatic Co-Axial chronometer",
       "reserve": "48 hours",
-      "production": "2000s–2010s",
-      "notes": "600 m water resistance.",
+      "production": "Complete manufacture period not established; seller circa2005 remains attributed",
+      "notes": "Original Zeitauktion2601675 explicitly identifies2209.50.00 and attributes actual specimen photography to Zeitauktion. All15original gallery files contact-inspected; full1/11/13/14 inspected. Black dial with orange12/9/6, orange dive bezel, date3 and steel bracelet visible. Fitted closed hippocampus Seamaster/PlanetOcean caseback11 is separate from actual opened movement14; movement rotor visibly reads OMEGA2500 and bridge27JEWELS. This establishes the pictured configuration, not C/D execution, universal2500 compatibility, service history or user-watch originality. Clasp13 shows OmegaSeamasterPlanetOcean signing; rear endlinks show952, without proving every internal hardware code or component originality. Manufacturer exact-reference page confirms42mm steel/2500automatic/48h/20mm lugs and steel bracelet with folding dive-extension clasp; dimensions/reserve are specifications, not measured user-watch tests. Seller circa2005 is an estimate, not a complete production period. Source condition table explicitly says water-resistance test failed; dial600m/2000ft and manufacturer rating do not prove current water resistance. Exclude literature/pouch/register images6/9/10 and generic workshop collage15. No nearby orange PlanetOcean size, shortened alias, adjacent retail suffix, supplier/calibre-equivalence or material-assay/authenticity inference. Ignore dealer Rolex-template footer and manufacturer generic current-warranty banners as specimen evidence.",
       "source": "Omega official/reference records",
-      "confidence": "High",
+      "confidence": "Exact manufacturer specification and original source photographs inspected; execution/service/originality limits apply",
       "brand": "Omega",
-      "importOrder": 22
+      "importOrder": 22,
+      "sourceUrl": "https://www.zeitauktion.com/products/omega-seamaster-steel-automatic-men-s-watch-2209-50-00-2601675",
+      "sources": [
+        {
+          "title": "Original Zeitauktion2601675 photographed specimen",
+          "url": "https://www.zeitauktion.com/products/omega-seamaster-steel-automatic-men-s-watch-2209-50-00-2601675"
+        },
+        {
+          "title": "Omega exact2209.50.00 technical specification",
+          "url": "https://www.omegawatches.com.hk/zh-hk/watch-omega-seamaster-planet-ocean-22095000"
+        }
+      ],
+      "researchReviewedAt": "2026-10-21"
     },
     {
       "pattern": {
@@ -850,20 +862,37 @@
       },
       "baseReference": "145.012-67",
       "family": "Speedmaster Professional Moonwatch",
-      "size": "42 mm",
+      "size": "42mm in Antiquorum exact-reference listing; Sothebys specimen listed40mm — verify measurement",
       "calibre": [
         "321",
         "CAL321"
       ],
       "calibreDisplay": "321",
       "technology": "Manual-wind chronograph",
-      "reserve": "reference-specific",
-      "production": "1967–1968",
-      "notes": "Vintage Speedmaster Professional case reference.",
+      "reserve": "Not established for photographed specimen",
+      "production": "Complete manufacture period not established; auction specimens circa1967/circa1968 are attributed estimates",
+      "notes": "Original Sothebys2022FineWatches lot124 explicitly identifies145.012-67, steel black-dial manual chronograph, attributed321/17jewels and circa1968. Seven original c4fyb lot images identified in actual source HTML, contact-inspected; full1/2/6 inspected. Front1 shows black three-register SpeedmasterProfessional, applied Omega logo, aged-colour baton plots, TSWISSMADET and black tachymetre bezel. Closed rear6 shows hippocampus/Speedmaster engraving and516 endlink stamps. Source appearance is representative of this specimen only: original lume/hands/bezel/service history and hardware originality are not independently established. No actual opened321, inner-caseback suffix stamp or usable clasp overview exists among seven views; a partially obscured clasp behind front2 is not substituted. Movement number and321 remain catalogue text, not freshly read movement stamps. Source lists40mm diameter; original Antiquorum372lot546 exact145.012-67 lists42mm,321/17jewels,circa1967 and1039/516bracelet dated68. Measurement discrepancy is retained, not an authenticity threshold; no complete production period or universal bracelet code inferred. Antiquorum condition grade recommends overhaul, not current user-watch fitness. Sothebys condition report requires login and was not read. SP/Ultraman/orange-hand suffix variants and neighbouring145.012/145.022/105references are not inherited. No supplier/common321 movement photograph, material-assay, pressure resistance or individual authenticity inference. Exact refs list fixes compact punctuation-only lookup without adding a semantic alias. HTML-wide related/editorial images outside the seven c4fyb lot files are excluded.",
       "source": "Omega historical/reference specialist records",
-      "confidence": "High",
+      "confidence": "Original auction sources and actual pixels inspected; vintage variant/service and measurement limits require review",
       "brand": "Omega",
-      "importOrder": 23
+      "importOrder": 23,
+      "refs": [
+        "145.012-67"
+      ],
+      "manualReview": true,
+      "exactReferenceOnly": true,
+      "sourceUrl": "https://www.sothebys.com/en/buy/auction/2022/fine-watches-2/reference-145-012-67-speedmaster-a-stainless-steel",
+      "sources": [
+        {
+          "title": "Sothebys2022 FineWatches lot124 original photographed specimen",
+          "url": "https://www.sothebys.com/en/buy/auction/2022/fine-watches-2/reference-145-012-67-speedmaster-a-stainless-steel"
+        },
+        {
+          "title": "Antiquorum372lot546 exact-reference specification and condition",
+          "url": "https://catalog.antiquorum.swiss/en/lots/omega-ref-145-012-67-speedmaster-lot-372-546"
+        }
+      ],
+      "researchReviewedAt": "2026-10-21"
     },
     {
       "pattern": {
