@@ -1,0 +1,112 @@
+{
+  "reviewedAt": "2026-10-20T14:35:40.688Z",
+  "source": "https://www.cashconverters.co.uk/shop/jewellery--fashion/fashion-accessories/watches/watch/052700082882",
+  "evidence": "Original Cash Converters item 052700082882 explicitly identifies A32360 and describes a white-dial, steel-bracelet specimen as edition 90/100. All six gallery files contact-inspected; full 2/3/4/6 inspected. Front 2 shows a white dial with LIMITED EDITION, inner 24-hour scale, red arrow GMT hand and date at 3. Closed back 3 shows winged Breitling logo, chronometer/Swiss/1000M and limited-edition inscriptions, but small/obscured reference and edition digits are not independently transcribed. Bracelet/clasp 6 shows Breitling 1884 signing and microadjustment holes; underside hardware marks in 3/4 are not reliably read. No opened movement or physical calibre stamp is present. Seller Breitling32, 41mm, 1000m and January2016 purchase claims are not measurements, present water-resistance tests, manufacture date, universal edition totals or individual originality proof. No white-to-blue full-suffix transfer, Wempe attribution, A32350/A32370 inheritance or ETA2893-2 equivalence.",
+  "inspectedGallery": [
+    {
+      "index": 1,
+      "url": "https://www.cashconverters.co.uk/globalassets/catalogs/7add603c-5f8b-40e5-9b27-b0d500fd6be6.jpg",
+      "file": "image-01.jpg",
+      "bytes": 49745,
+      "sha256": "b55ebc2494ddd95ca4958513d910c36a921c2d128f0b8b9eadb7fd957ba7d6f0",
+      "width": 475,
+      "height": 500
+    },
+    {
+      "index": 2,
+      "url": "https://www.cashconverters.co.uk/globalassets/catalogs/cca80b49-f50b-4c0d-9282-b42101074c67.jpg",
+      "file": "image-02.jpg",
+      "bytes": 85298,
+      "sha256": "a20e4e1a0fff3ee0b297ac81cee5c2a398a83020f6281e4d21032296a26d5989",
+      "width": 800,
+      "height": 667
+    },
+    {
+      "index": 3,
+      "url": "https://www.cashconverters.co.uk/globalassets/catalogs/6d5c143f-70a2-4011-ad03-b42101074c67.jpg",
+      "file": "image-03.jpg",
+      "bytes": 74369,
+      "sha256": "339e34d142aef486fb626b121b27fcf64a200bb9882176561fc6395d7c62936e",
+      "width": 800,
+      "height": 589
+    },
+    {
+      "index": 4,
+      "url": "https://www.cashconverters.co.uk/globalassets/catalogs/1ba8b96e-8994-4030-a7a7-b42101074c67.jpg",
+      "file": "image-04.jpg",
+      "bytes": 81394,
+      "sha256": "39d587208872bc89bc57cdb4f56c89c6362e8cb20a899fa15335522571dd11a8",
+      "width": 800,
+      "height": 756
+    },
+    {
+      "index": 5,
+      "url": "https://www.cashconverters.co.uk/globalassets/catalogs/e8d594fa-dbd6-4752-9fc3-b42101074c67.jpg",
+      "file": "image-05.jpg",
+      "bytes": 73959,
+      "sha256": "02e3e7ec6db92f2bec492c924720ba1f9fef70945534772df5d27f8a54dfe1da",
+      "width": 800,
+      "height": 589
+    },
+    {
+      "index": 6,
+      "url": "https://www.cashconverters.co.uk/globalassets/catalogs/dcbe9282-d5ba-43e8-879b-b42101074c67.jpg",
+      "file": "image-06.jpg",
+      "bytes": 38483,
+      "sha256": "ba26b4a89f2a709301ca831355535178bda92ce1b93eefe534cdf596c70f8da3",
+      "width": 800,
+      "height": 533
+    }
+  ],
+  "rejectedLegacy": {
+    "id": "legacy-001",
+    "reason": "Packaging group view unsuitable for the assigned front category"
+  },
+  "accepted": [
+    {
+      "id": "cash-a32360-20261020-front",
+      "category": "front",
+      "image": "https://www.cashconverters.co.uk/globalassets/catalogs/cca80b49-f50b-4c0d-9282-b42101074c67.jpg",
+      "sha256": "a20e4e1a0fff3ee0b297ac81cee5c2a398a83020f6281e4d21032296a26d5989"
+    },
+    {
+      "id": "cash-a32360-20261020-caseback",
+      "category": "caseback",
+      "image": "https://www.cashconverters.co.uk/globalassets/catalogs/6d5c143f-70a2-4011-ad03-b42101074c67.jpg",
+      "sha256": "339e34d142aef486fb626b121b27fcf64a200bb9882176561fc6395d7c62936e"
+    },
+    {
+      "id": "cash-a32360-20261020-braceletClasp",
+      "category": "braceletClasp",
+      "image": "https://www.cashconverters.co.uk/globalassets/catalogs/dcbe9282-d5ba-43e8-879b-b42101074c67.jpg",
+      "sha256": "ba26b4a89f2a709301ca831355535178bda92ce1b93eefe534cdf596c70f8da3"
+    }
+  ],
+  "paneraiDeliveryRecheck": {
+    "checkedAt": "2026-10-20T14:30:07.024Z",
+    "rows": [
+      {
+        "url": "https://www.christies.com/img/LotImages/2018/NYR/2018_NYR_16361_0030_000(panerai_radiomir_black_seal_8_days_ref_pam00609043152).jpg",
+        "loaded": false,
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "complete": false
+        },
+        "error": "page.waitForFunction: Timeout 20000ms exceeded.",
+        "failed": []
+      },
+      {
+        "url": "https://www.christies.com/img/LotImages/2018/NYR/2018_NYR_16361_0030_001(panerai_radiomir_black_seal_8_days_ref_pam00609043152).jpg",
+        "loaded": false,
+        "dimensions": {
+          "width": 0,
+          "height": 0,
+          "complete": false
+        },
+        "error": "page.waitForFunction: Timeout 20000ms exceeded.",
+        "failed": []
+      }
+    ]
+  }
+}

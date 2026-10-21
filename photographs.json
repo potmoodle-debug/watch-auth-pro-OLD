@@ -19,8 +19,8 @@
       "mediaKind": "unverified",
       "origin": "intelligence.json",
       "review": {
-        "status": "pending",
-        "reason": "Existing asset: source identity, real-photograph status, visual contents and live loading await inspection.",
+        "status": "rejected",
+        "reason": "Packaging group view unsuitable for the assigned front category",
         "accessCheckedAt": "2026-10-08T15:36:49.743742+00:00",
         "access": [
           {
@@ -33,7 +33,17 @@
             "url": "https://www.cashconverters.co.uk/globalassets/catalogs/7add603c-5f8b-40e5-9b27-b0d500fd6be6.jpg",
             "error": "HTTP Error 403: Forbidden"
           }
-        ]
+        ],
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": false,
+        "inspectedAt": "2026-10-20T14:35:40.688Z",
+        "evidence": "Original linked image is a packaging-and-paperwork group view with the watch small inside its box; it is not a useful Watch Front category photograph. Source gallery now supplies distinct actual watch close-ups. Original Cash Converters item 052700082882 explicitly identifies A32360 and describes a white-dial, steel-bracelet specimen as edition 90/100. All six gallery files contact-inspected; full 2/3/4/6 inspected. Front 2 shows a white dial with LIMITED EDITION, inner 24-hour scale, red arrow GMT hand and date at 3. Closed back 3 shows winged Breitling logo, chronometer/Swiss/1000M and limited-edition inscriptions, but small/obscured reference and edition digits are not independently transcribed. Bracelet/clasp 6 shows Breitling 1884 signing and microadjustment holes; underside hardware marks in 3/4 are not reliably read. No opened movement or physical calibre stamp is present. Seller Breitling32, 41mm, 1000m and January2016 purchase claims are not measurements, present water-resistance tests, manufacture date, universal edition totals or individual originality proof. No white-to-blue full-suffix transfer, Wempe attribution, A32350/A32370 inheritance or ETA2893-2 equivalence.",
+        "imageDimensions": {
+          "width": 475,
+          "height": 500
+        },
+        "imageSha256": "b55ebc2494ddd95ca4958513d910c36a921c2d128f0b8b9eadb7fd957ba7d6f0"
       }
     },
     {
@@ -26949,7 +26959,9 @@
           3200
         ],
         "imageSha256": "82bbb57ca58fcddf9d2f61a7e8fb29a0d8e1a97451ac5aecb20114cfa342fb89",
-        "deliveryFinding": "Original source photographs downloaded and visually inspected, but direct Chrome loading repeatedly times out, including source resizing endpoint. Withheld pending reliable browser delivery."
+        "deliveryFinding": "Rechecked2026-10-20: both original image URLs still timed out after20 seconds in real Chrome with naturalWidth0. Prior source/pixel evidence remains; continue withholding until reliable browser delivery is established.",
+        "lastBrowserDeliveryCheck": "2026-10-20T14:30:07.024Z",
+        "browserDeliveryVerified": false
       }
     },
     {
@@ -26982,7 +26994,9 @@
           2476
         ],
         "imageSha256": "ae4b9a38552cefb8abc4cd06fb4ec3ed20a2db83d34e159bd65798c4490905cd",
-        "deliveryFinding": "Original source photographs downloaded and visually inspected, but direct Chrome loading repeatedly times out, including source resizing endpoint. Withheld pending reliable browser delivery."
+        "deliveryFinding": "Rechecked2026-10-20: both original image URLs still timed out after20 seconds in real Chrome with naturalWidth0. Prior source/pixel evidence remains; continue withholding until reliable browser delivery is established.",
+        "lastBrowserDeliveryCheck": "2026-10-20T14:30:07.024Z",
+        "browserDeliveryVerified": false
       }
     },
     {
@@ -27015,7 +27029,9 @@
           2476
         ],
         "imageSha256": "ae4b9a38552cefb8abc4cd06fb4ec3ed20a2db83d34e159bd65798c4490905cd",
-        "deliveryFinding": "Original source photographs downloaded and visually inspected, but direct Chrome loading repeatedly times out, including source resizing endpoint. Withheld pending reliable browser delivery."
+        "deliveryFinding": "Rechecked2026-10-20: both original image URLs still timed out after20 seconds in real Chrome with naturalWidth0. Prior source/pixel evidence remains; continue withholding until reliable browser delivery is established.",
+        "lastBrowserDeliveryCheck": "2026-10-20T14:30:07.024Z",
+        "browserDeliveryVerified": false
       }
     },
     {
@@ -34772,6 +34788,108 @@
           "height": 1600
         },
         "imageSha256": "fa776d6173e8f8a97cf8cc118df2e1530398931411ffe142fa20a3a7616c36c7"
+      }
+    },
+    {
+      "id": "cash-a32360-20261020-front",
+      "brand": "BREITLING",
+      "references": [
+        "A32360"
+      ],
+      "representativeFor": [
+        "A32360"
+      ],
+      "variant": "Cash Converters white-dial A32360 / steel bracelet / seller-described90-of-100 specimen; manufacture date and individual originality unverified",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "A32360 — White-dial specimen — front",
+      "caption": "Actual white dial, GMT/date layout and steel bezel. Seller describes this specimen as edition90/100; the base reference does not identify every dial/edition or establish individual originality.",
+      "image": "https://www.cashconverters.co.uk/globalassets/catalogs/cca80b49-f50b-4c0d-9282-b42101074c67.jpg",
+      "source": "https://www.cashconverters.co.uk/shop/jewellery--fashion/fashion-accessories/watches/watch/052700082882",
+      "credit": "Cash Converters UK — original seller specimen gallery",
+      "mediaKind": "photograph",
+      "origin": "Pending-media source review2026-10-20",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-20T14:35:40.688Z",
+        "loadedAt": "2026-10-20T14:35:40.688Z",
+        "evidence": "Original Cash Converters item 052700082882 explicitly identifies A32360 and describes a white-dial, steel-bracelet specimen as edition 90/100. All six gallery files contact-inspected; full 2/3/4/6 inspected. Front 2 shows a white dial with LIMITED EDITION, inner 24-hour scale, red arrow GMT hand and date at 3. Closed back 3 shows winged Breitling logo, chronometer/Swiss/1000M and limited-edition inscriptions, but small/obscured reference and edition digits are not independently transcribed. Bracelet/clasp 6 shows Breitling 1884 signing and microadjustment holes; underside hardware marks in 3/4 are not reliably read. No opened movement or physical calibre stamp is present. Seller Breitling32, 41mm, 1000m and January2016 purchase claims are not measurements, present water-resistance tests, manufacture date, universal edition totals or individual originality proof. No white-to-blue full-suffix transfer, Wempe attribution, A32350/A32370 inheritance or ETA2893-2 equivalence.",
+        "imageDimensions": {
+          "width": 800,
+          "height": 667
+        },
+        "imageSha256": "a20e4e1a0fff3ee0b297ac81cee5c2a398a83020f6281e4d21032296a26d5989"
+      }
+    },
+    {
+      "id": "cash-a32360-20261020-caseback",
+      "brand": "BREITLING",
+      "references": [
+        "A32360"
+      ],
+      "representativeFor": [
+        "A32360"
+      ],
+      "variant": "Cash Converters white-dial A32360 / steel bracelet / seller-described90-of-100 specimen; manufacture date and individual originality unverified",
+      "category": "caseback",
+      "depictsMovement": false,
+      "title": "A32360 — White-dial specimen — closed back",
+      "caption": "Actual closed caseback and bracelet underside. Small reference/edition digits and hardware codes remain partly obscured; no opened movement or readable calibre is shown. Nominal1000M engraving is not a current pressure test.",
+      "image": "https://www.cashconverters.co.uk/globalassets/catalogs/6d5c143f-70a2-4011-ad03-b42101074c67.jpg",
+      "source": "https://www.cashconverters.co.uk/shop/jewellery--fashion/fashion-accessories/watches/watch/052700082882",
+      "credit": "Cash Converters UK — original seller specimen gallery",
+      "mediaKind": "photograph",
+      "origin": "Pending-media source review2026-10-20",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-20T14:35:40.688Z",
+        "loadedAt": "2026-10-20T14:35:40.688Z",
+        "evidence": "Original Cash Converters item 052700082882 explicitly identifies A32360 and describes a white-dial, steel-bracelet specimen as edition 90/100. All six gallery files contact-inspected; full 2/3/4/6 inspected. Front 2 shows a white dial with LIMITED EDITION, inner 24-hour scale, red arrow GMT hand and date at 3. Closed back 3 shows winged Breitling logo, chronometer/Swiss/1000M and limited-edition inscriptions, but small/obscured reference and edition digits are not independently transcribed. Bracelet/clasp 6 shows Breitling 1884 signing and microadjustment holes; underside hardware marks in 3/4 are not reliably read. No opened movement or physical calibre stamp is present. Seller Breitling32, 41mm, 1000m and January2016 purchase claims are not measurements, present water-resistance tests, manufacture date, universal edition totals or individual originality proof. No white-to-blue full-suffix transfer, Wempe attribution, A32350/A32370 inheritance or ETA2893-2 equivalence.",
+        "imageDimensions": {
+          "width": 800,
+          "height": 589
+        },
+        "imageSha256": "339e34d142aef486fb626b121b27fcf64a200bb9882176561fc6395d7c62936e"
+      }
+    },
+    {
+      "id": "cash-a32360-20261020-braceletClasp",
+      "brand": "BREITLING",
+      "references": [
+        "A32360"
+      ],
+      "representativeFor": [
+        "A32360"
+      ],
+      "variant": "Cash Converters white-dial A32360 / steel bracelet / seller-described90-of-100 specimen; manufacture date and individual originality unverified",
+      "category": "braceletClasp",
+      "depictsMovement": false,
+      "title": "A32360 — White-dial specimen — clasp",
+      "caption": "Actual steel folding clasp with Breitling1884 signing and adjustment holes. Signing does not establish factory originality, exact hardware codes or condition of the inspected user watch.",
+      "image": "https://www.cashconverters.co.uk/globalassets/catalogs/dcbe9282-d5ba-43e8-879b-b42101074c67.jpg",
+      "source": "https://www.cashconverters.co.uk/shop/jewellery--fashion/fashion-accessories/watches/watch/052700082882",
+      "credit": "Cash Converters UK — original seller specimen gallery",
+      "mediaKind": "photograph",
+      "origin": "Pending-media source review2026-10-20",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-20T14:35:40.688Z",
+        "loadedAt": "2026-10-20T14:35:40.688Z",
+        "evidence": "Original Cash Converters item 052700082882 explicitly identifies A32360 and describes a white-dial, steel-bracelet specimen as edition 90/100. All six gallery files contact-inspected; full 2/3/4/6 inspected. Front 2 shows a white dial with LIMITED EDITION, inner 24-hour scale, red arrow GMT hand and date at 3. Closed back 3 shows winged Breitling logo, chronometer/Swiss/1000M and limited-edition inscriptions, but small/obscured reference and edition digits are not independently transcribed. Bracelet/clasp 6 shows Breitling 1884 signing and microadjustment holes; underside hardware marks in 3/4 are not reliably read. No opened movement or physical calibre stamp is present. Seller Breitling32, 41mm, 1000m and January2016 purchase claims are not measurements, present water-resistance tests, manufacture date, universal edition totals or individual originality proof. No white-to-blue full-suffix transfer, Wempe attribution, A32350/A32370 inheritance or ETA2893-2 equivalence.",
+        "imageDimensions": {
+          "width": 800,
+          "height": 533
+        },
+        "imageSha256": "ba26b4a89f2a709301ca831355535178bda92ce1b93eefe534cdf596c70f8da3"
       }
     }
   ]
