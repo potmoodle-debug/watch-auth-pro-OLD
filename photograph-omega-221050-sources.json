@@ -1,0 +1,284 @@
+{
+  "reviewedAt": "2026-10-21T15:28:32.263Z",
+  "scope": "One original source record;3browser-verified entries/3distinct actual files. Factory clasp remains researched gap; actual Chrome delivery passed.",
+  "sourceRecordId": "RULE:0025",
+  "reference": "2210.50.00",
+  "evidence": "Original Uhren2000 exact2210.50.00 aus2010 page supplies actual2016x1512 dealer-watermarked steel-bracelet front, full pixels inspected. Black dial, white12/9/6, three registers, datebetween4and5 and black dive bezel visible. Its separate aus2009 gallery has one480x640front only, not a clasp view. Zeitauktion2405199 explicitly identifies2210.50.00 and attributes actual specimen photographs to Zeitauktion; all14files contact-inspected, full4/9/13 inspected. Actual opened movement13 has readable3313bridge and Omega rotor; this supports pictured3313 configuration, not C execution, service history or universal supplier equivalence. Closed hippocampus Seamaster/PlanetOceanProfessional600m2000ft rear9 is visible with replacement leather strap; rear photograph is representative of that specimen only, not factory bracelet evidence. Source explicitly lists German-made calf leather/no-name buckle. Exclude that buckle/strap as genuine reference hardware and do not use generic workshop collage. Another exact Zeitauktion2503566 gallery14files contact-inspected: dealer3313Ctext but no opened movement, replacement leather/no-name buckle. Do not transfer its C claim to the photographed2405199 movement. Manufacturer exact product page confirms45.5mmsteel/steel bracelet/3313automaticCoAxial/52h. Collection introduction2005 and seller circa2010/circa2008 claims do not establish full reference production period; prior2007–2016 range not asserted. Manufacturer600m rating and seller60bar claim do not establish current user-watch water resistance, authenticity, material assay or component originality. No shortened2210.50alias, neighbouring2218/232chrono, orange-bezel suffix, common-calibre photograph or universal hardware-code inheritance. Grailzee candidate .js404 supplied no accepted asset; no guessed filenames. Factory clasp remains a researched photograph gap.",
+  "sources": [
+    {
+      "title": "Uhren2000 original steel-bracelet front",
+      "url": "https://www.uhren2000.de/products/omega-seamaster-planet-ocean-chronograph-2210-50-00-aus-2010"
+    },
+    {
+      "title": "Zeitauktion2405199 original opened3313 and closed back",
+      "url": "https://www.zeitauktion.com/products/omega-seamaster-chronograph-steel-automatic-men-s-watch-2210-50-00-2405199"
+    },
+    {
+      "title": "Omega exact2210.50.00 technical specification",
+      "url": "https://www.omegawatches.jp/watch-omega-seamaster-planet-ocean-600m-co-axial-chronograph-45-5-mm-22105000"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "omega-221050-20261021-front",
+      "category": "front",
+      "image": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/22105000.jpg?v=1741001922",
+      "sha256": "1ad5573729b0d1518efbea70a1efb87af2a9145168de0ac97350e286d784b867"
+    },
+    {
+      "id": "omega-221050-20261021-movement",
+      "category": "movement",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2405199_13_2k.jpg?v=1747387698",
+      "sha256": "eddb41f007886cc76afc97fa330e810cbaa79bd8dc6cdd00200102372d7fc218"
+    },
+    {
+      "id": "omega-221050-20261021-caseback",
+      "category": "caseback",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2405199_09_2k.jpg?v=1747387697",
+      "sha256": "5e12edf979dc7e79a24e3cf30263042e73542ed06e18e1fe2c0a3d67eea189ca"
+    }
+  ],
+  "inspectedGalleries": {
+    "steelFront": {
+      "source": "https://www.uhren2000.de/products/omega-seamaster-planet-ocean-chronograph-2210-50-00-aus-2010",
+      "at": "2026-10-21T15:27:12.387Z",
+      "images": [
+        {
+          "index": 1,
+          "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/22105000.jpg?v=1741001922",
+          "file": "image-01.jpg",
+          "sha256": "1ad5573729b0d1518efbea70a1efb87af2a9145168de0ac97350e286d784b867",
+          "bytes": 130637
+        }
+      ]
+    },
+    "openedMovementAndRear": {
+      "source": "https://www.zeitauktion.com/products/omega-seamaster-chronograph-steel-automatic-men-s-watch-2210-50-00-2405199",
+      "at": "2026-10-21T15:22:20.400Z",
+      "images": [
+        {
+          "index": 1,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2405199_02_2k.jpg?v=1747387697",
+          "file": "image-01.jpg",
+          "sha256": "ee8b77844000032510f435b4dc2862f1655cf85c0daa55e555c0b5b78e328908",
+          "bytes": 317474
+        },
+        {
+          "index": 2,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2405199_03_2k.jpg?v=1747387697",
+          "file": "image-02.jpg",
+          "sha256": "962952a59c3f8306fedcd067c027e1bc7520dc92b94745b9811c21582bb0ec29",
+          "bytes": 321821
+        },
+        {
+          "index": 3,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2405199_04_2k.jpg?v=1747387697",
+          "file": "image-03.jpg",
+          "sha256": "e89913dbd83c982cf057525f9e71dcac759463994384e7d06b32316c02baea71",
+          "bytes": 285794
+        },
+        {
+          "index": 4,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2405199_01_2k.jpg?v=1747387697",
+          "file": "image-04.jpg",
+          "sha256": "7ade43005835c4aeaa499c5b9d9782c642592a9f43764ef4bdbe1d2ea0f6d5cc",
+          "bytes": 139612
+        },
+        {
+          "index": 5,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2405199_05_2k.jpg?v=1747387698",
+          "file": "image-05.jpg",
+          "sha256": "eb0c558210a4a5d20cb204abc5c747bdcda52348d54be544c1764e7d0104c1e4",
+          "bytes": 111339
+        },
+        {
+          "index": 6,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2405199_06_2k.jpg?v=1747387697",
+          "file": "image-06.jpg",
+          "sha256": "16977ffa54316453d7b0b8f6d1e926a09444d9f034e9ccfa7e092c13d9ad878f",
+          "bytes": 135680
+        },
+        {
+          "index": 7,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2405199_07_2k.jpg?v=1747387697",
+          "file": "image-07.jpg",
+          "sha256": "8496b671f178a88e1cc84778f17d40f90c60d731e2bf6dddf8150b4c457f0cc5",
+          "bytes": 133107
+        },
+        {
+          "index": 8,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2405199_08_2k.jpg?v=1747387697",
+          "file": "image-08.jpg",
+          "sha256": "55387d2a848739c92e9ed0e5b16847be984b2746d21435d7acbe00f9ac539195",
+          "bytes": 67684
+        },
+        {
+          "index": 9,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2405199_09_2k.jpg?v=1747387697",
+          "file": "image-09.jpg",
+          "sha256": "5e12edf979dc7e79a24e3cf30263042e73542ed06e18e1fe2c0a3d67eea189ca",
+          "bytes": 235757
+        },
+        {
+          "index": 10,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2405199_10_2k.jpg?v=1747387697",
+          "file": "image-10.jpg",
+          "sha256": "4996486e5f3ba03b6d90944f2ce18a1f9c1cfffab75d73c8bcd6da8ca5e29217",
+          "bytes": 131936
+        },
+        {
+          "index": 11,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2405199_11_2k.jpg?v=1747387697",
+          "file": "image-11.jpg",
+          "sha256": "53d08647f0ed409817e4f481d2b9db4e571eb372d2afe37543b5b3aba4476714",
+          "bytes": 152287
+        },
+        {
+          "index": 12,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2405199_12_2k.jpg?v=1747387697",
+          "file": "image-12.jpg",
+          "sha256": "d1d53fa777c92396d7c55c607b3869ae1fe9799a28600902f4589f5f6bf928ca",
+          "bytes": 121845
+        },
+        {
+          "index": 13,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2405199_13_2k.jpg?v=1747387698",
+          "file": "image-13.jpg",
+          "sha256": "eddb41f007886cc76afc97fa330e810cbaa79bd8dc6cdd00200102372d7fc218",
+          "bytes": 214612
+        },
+        {
+          "index": 14,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/photoSet_workshop_2k_20260629.jpg?v=1782732100",
+          "file": "image-14.jpg",
+          "sha256": "d7c47c925b681c85c0e05dd124e9a56a9bb373adf9bfc020bad94fe8e2408ebb",
+          "bytes": 257861
+        }
+      ]
+    },
+    "excludedReplacementHardware": {
+      "source": "https://www.zeitauktion.com/products/omega-seamaster-chronograph-steel-automatic-men-s-watch-2210-50-00-2503566",
+      "at": "2026-10-21T15:21:46.113Z",
+      "images": [
+        {
+          "index": 1,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503566_01_nowm.jpg?v=1754552947",
+          "file": "image-01.jpg",
+          "sha256": "73913b2e5b7fc6d7b6581920b3c2964e87007508eabd2c5290ee35f43f6081a8",
+          "bytes": 218579
+        },
+        {
+          "index": 2,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503566_02_2k.jpg?v=1754552949",
+          "file": "image-02.jpg",
+          "sha256": "2ad3ba0f77571390fddb8bc171a85b22b932bab25d049dbd9423dbe983483c96",
+          "bytes": 294170
+        },
+        {
+          "index": 3,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503566_03_2k.jpg?v=1754552950",
+          "file": "image-03.jpg",
+          "sha256": "81f880d418296033d9fcf83ae0d3664b4a326177a668c59801b47623a8aa7d47",
+          "bytes": 450762
+        },
+        {
+          "index": 4,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503566_04_2k.jpg?v=1754552952",
+          "file": "image-04.jpg",
+          "sha256": "ab008b8ca8660372153b25f469aa32c9a66c257668cbd131e7346f62c9a158d3",
+          "bytes": 296416
+        },
+        {
+          "index": 5,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503566_01_2k.jpg?v=1754552945",
+          "file": "image-05.jpg",
+          "sha256": "52034a146be3645369286da00531f2a26b53d6c08144c18441597930fdc75bdc",
+          "bytes": 186051
+        },
+        {
+          "index": 6,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503566_05_2k.jpg?v=1754552953",
+          "file": "image-06.jpg",
+          "sha256": "0f0f4721a5422f580947ff8200632445707260c05d501fba54444b5ace93afc4",
+          "bytes": 139210
+        },
+        {
+          "index": 7,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503566_06_2k.jpg?v=1754552954",
+          "file": "image-07.jpg",
+          "sha256": "33870178891209c520d438aad813229b470f78e83dbd237fc3b8c443ca2a91b0",
+          "bytes": 140962
+        },
+        {
+          "index": 8,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503566_07_2k.jpg?v=1754552956",
+          "file": "image-08.jpg",
+          "sha256": "8b823d636855e57c0039f9a9d720a0e0df5635da7ce4ce41f030d946fcc4a2f3",
+          "bytes": 180284
+        },
+        {
+          "index": 9,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503566_08_2k.jpg?v=1754552957",
+          "file": "image-09.jpg",
+          "sha256": "c10ba16b3560eb6d868c0efdf1c57f2bb85a336b98b174ce738b0b92ae6d8a80",
+          "bytes": 253938
+        },
+        {
+          "index": 10,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503566_09_2k.jpg?v=1754552958",
+          "file": "image-10.jpg",
+          "sha256": "542bc26a9c191cf8a80b84a524172f4c3f1324a4a2537f118fcdb56dc169abd1",
+          "bytes": 153610
+        },
+        {
+          "index": 11,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503566_10_2k.jpg?v=1754552960",
+          "file": "image-11.jpg",
+          "sha256": "07ce011e86101fc3727b99a2c1d4371e5aed69549977734b34c06bf548bb7b7e",
+          "bytes": 188757
+        },
+        {
+          "index": 12,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503566_11_2k.jpg?v=1754552961",
+          "file": "image-12.jpg",
+          "sha256": "06658bfbe969a3e187479aa9e303d6671009e757d4d54a561730211efee25afa",
+          "bytes": 309379
+        },
+        {
+          "index": 13,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503566_12_2k.jpg?v=1754552963",
+          "file": "image-13.jpg",
+          "sha256": "e5b30b0f983d972b79970af19bec43fddb86237af48654b96ee2b86bc610349d",
+          "bytes": 208492
+        },
+        {
+          "index": 14,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/photoSet_workshop_2k_20260629.jpg?v=1782732100",
+          "file": "image-14.jpg",
+          "sha256": "d7c47c925b681c85c0e05dd124e9a56a9bb373adf9bfc020bad94fe8e2408ebb",
+          "bytes": 257861
+        }
+      ]
+    },
+    "alternativeSmallFront": {
+      "source": "https://www.uhren2000.de/products/omega-seamaster-planet-ocean-chronograph-2210-50-00-aus-2009",
+      "at": "2026-10-21T15:27:34.952Z",
+      "images": [
+        {
+          "index": 1,
+          "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/2210-50-00-G.jpg?v=1741006247",
+          "file": "image-01.jpg",
+          "sha256": "88e2f60a88d60db07a87ec8d9d8479917b9c89aa81405b85fcc90942ce43e0fb",
+          "bytes": 37392
+        }
+      ]
+    }
+  },
+  "validation": {
+    "nodeTests": 173,
+    "workflowFixtures": "Passed; fixture authentication only",
+    "actualChrome": "All3remote images load/enlarge/credit;3313suggestion; external-only2/restored3; exact isolation;390px; no page errors",
+    "realAuthenticatedSession": "Outstanding; no authorized session available",
+    "publication": "Pending"
+  }
+}

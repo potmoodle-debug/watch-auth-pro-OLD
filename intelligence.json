@@ -909,12 +909,28 @@
       "calibreDisplay": "3313",
       "technology": "Automatic Co-Axial chronograph",
       "reserve": "52 hours",
-      "production": "c. 2007–2016",
-      "notes": "600 m water resistance.",
+      "production": "Complete manufacture period not established; seller dating remains attributed",
+      "notes": "Original Uhren2000 exact2210.50.00 aus2010 page supplies actual2016x1512 dealer-watermarked steel-bracelet front, full pixels inspected. Black dial, white12/9/6, three registers, datebetween4and5 and black dive bezel visible. Its separate aus2009 gallery has one480x640front only, not a clasp view. Zeitauktion2405199 explicitly identifies2210.50.00 and attributes actual specimen photographs to Zeitauktion; all14files contact-inspected, full4/9/13 inspected. Actual opened movement13 has readable3313bridge and Omega rotor; this supports pictured3313 configuration, not C execution, service history or universal supplier equivalence. Closed hippocampus Seamaster/PlanetOceanProfessional600m2000ft rear9 is visible with replacement leather strap; rear photograph is representative of that specimen only, not factory bracelet evidence. Source explicitly lists German-made calf leather/no-name buckle. Exclude that buckle/strap as genuine reference hardware and do not use generic workshop collage. Another exact Zeitauktion2503566 gallery14files contact-inspected: dealer3313Ctext but no opened movement, replacement leather/no-name buckle. Do not transfer its C claim to the photographed2405199 movement. Manufacturer exact product page confirms45.5mmsteel/steel bracelet/3313automaticCoAxial/52h. Collection introduction2005 and seller circa2010/circa2008 claims do not establish full reference production period; prior2007–2016 range not asserted. Manufacturer600m rating and seller60bar claim do not establish current user-watch water resistance, authenticity, material assay or component originality. No shortened2210.50alias, neighbouring2218/232chrono, orange-bezel suffix, common-calibre photograph or universal hardware-code inheritance. Grailzee candidate .js404 supplied no accepted asset; no guessed filenames. Factory clasp remains a researched photograph gap.",
       "source": "Omega official/reference records",
-      "confidence": "High",
+      "confidence": "Exact manufacturer specification and original source pixels inspected; execution/service/hardware limits apply",
       "brand": "Omega",
-      "importOrder": 24
+      "importOrder": 24,
+      "sourceUrl": "https://www.uhren2000.de/products/omega-seamaster-planet-ocean-chronograph-2210-50-00-aus-2010",
+      "sources": [
+        {
+          "title": "Uhren2000 original steel-bracelet front",
+          "url": "https://www.uhren2000.de/products/omega-seamaster-planet-ocean-chronograph-2210-50-00-aus-2010"
+        },
+        {
+          "title": "Zeitauktion2405199 original opened3313 and closed back",
+          "url": "https://www.zeitauktion.com/products/omega-seamaster-chronograph-steel-automatic-men-s-watch-2210-50-00-2405199"
+        },
+        {
+          "title": "Omega exact2210.50.00 technical specification",
+          "url": "https://www.omegawatches.jp/watch-omega-seamaster-planet-ocean-600m-co-axial-chronograph-45-5-mm-22105000"
+        }
+      ],
+      "researchReviewedAt": "2026-10-21"
     },
     {
       "pattern": {
@@ -931,12 +947,28 @@
       "calibreDisplay": "1538",
       "technology": "Quartz analogue",
       "reserve": "battery powered",
-      "production": "2000s",
-      "notes": "300 m water resistance.",
+      "production": "Complete manufacture period not established; source specimen dating not a full range",
+      "notes": "Original Zeitauktion2502403 exact2221.80.00 page supplies15actual specimen photographs; all contact-inspected, full1/11/13 inspected. Front has dark-blue wave dial, red Seamaster script, skeleton hands, red-tip seconds, date3, blue dive bezel and steel bracelet. Closed back11 shows Seamaster hippocampus and visible825 endlink marking. Clasp13 reads OmegaSeamasterProfessional; this does not establish full inner hardware codes or individual originality. Original Zeitauktion2302638 exact2221.80.00/196.1504 source supplies14actual files, all contact-inspected and full innerback13 inspected: detached back visibly reads196.1504 with OmegaWatchCo/FabSuisse/SwissMade/AcierInoxydable/HAD/GX marks. This documents the shown source specimen only; no196.1504lookup alias or universal case/retail interchangeability added. Neither gallery contains an actual movement view; quartz1538 remains manufacturer/source specification, not a freshly read fitted calibre or battery-health observation. Manufacturer exact product specifies41mmsteel/blue/1538quartz,20mm lugs, foldover dive-extension clasp and42month nominal battery life. Battery life is not measured remaining charge, actual battery replacement interval or mechanical power reserve. Source10bar ticket is not a300m test; manufacturer rating and dealer condition/warranty/originality claims do not verify user-watch pressure resistance, authenticity, assay or component originality. No full manufacture period established, shortened2221.80alias, automatic2220/2531, quartz2541 or common1538/ETA photograph equivalence. Generic workshop/literature/packaging/ticket images excluded; dealerRolexfooter ignored.",
       "source": "Omega official product sheet",
-      "confidence": "High",
+      "confidence": "Exact manufacturer specification and original source pixels inspected; actual movement remains unverified",
       "brand": "Omega",
-      "importOrder": 25
+      "importOrder": 25,
+      "sourceUrl": "https://www.zeitauktion.com/de/products/omega-seamaster-red-professional-diver-300m-edelstahl-herrenuhr-ref-2221-80-00-2502403",
+      "sources": [
+        {
+          "title": "Zeitauktion2502403 original exact specimen photographs",
+          "url": "https://www.zeitauktion.com/de/products/omega-seamaster-red-professional-diver-300m-edelstahl-herrenuhr-ref-2221-80-00-2502403"
+        },
+        {
+          "title": "Zeitauktion2302638 exact specimen and inner-back stamp",
+          "url": "https://www.zeitauktion.com/it/products/omega-seamaster-acciaio-quarzo-orologio-da-uomo-2221-80-00-196-1504-2302638"
+        },
+        {
+          "title": "Omega exact2221.80.00 quartz specification",
+          "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-300-m-quartz-22218000"
+        }
+      ],
+      "researchReviewedAt": "2026-10-21"
     },
     {
       "pattern": {
