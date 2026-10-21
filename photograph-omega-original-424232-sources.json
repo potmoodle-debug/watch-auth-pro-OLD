@@ -1,0 +1,274 @@
+{
+  "reviewedAt": "2026-10-21T09:47:22.571Z",
+  "credit": "Zeitauktion GmbH",
+  "scope": "Two original exact-reference source records;7 category entries from6 distinct files. Unsupported424 movement remains empty. No new aliases.",
+  "records": [
+    {
+      "sourceRecordId": "RULE:0003",
+      "reference": "424.10.40.20.03.001",
+      "source": "https://www.zeitauktion.com/products/omega-de-ville-steel-automatic-men-s-watch-424-10-40-20-03-001-2502004",
+      "official": "https://www.omegawatches.com.hk/en-hk/watch-omega-de-ville-prestige-co-axial-chronometer-39-5-mm-42410402003001",
+      "evidence": "Exact-reference Zeitauktion2502004 page attributes its actual specimen photographs to Zeitauktion. All15 contact-inspected; full1/10/12 inspected. Blue Roman/baton dial has date at3 and three hands. Closedback has Omega signing; underside bracelet stamps STZ00593 and STZ00584, HJC and11 are visible but do not establish universal hardware codes. Clasp bears Omega logo. No opened movement appears:2500 is a manufacturer/dealer specification, not an observed calibre stamp in this gallery. Seller purchase15April2019 is not manufacture date. Manufacturer documents39.5mm steel/blue execution and2500; no neighbouring suffix, alternate dial/strap, supplier equivalence, complete production period or component-originality inference. Source test-ticket applies only to its specimen; current user-watch pressure resistance requires testing. Ignore the dealer template Rolex manufacturer footer.",
+      "inspectedGallery": [
+        {
+          "index": 1,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2502004_01_nowm.jpg?v=1751059779",
+          "file": "image-01.jpg",
+          "sha256": "e42d82987ff71dd48f12e837b5986230af600870787c09c564aeb1c52bc5eee0",
+          "bytes": 134763
+        },
+        {
+          "index": 2,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2502004_02_2k.jpg?v=1747383676",
+          "file": "image-02.jpg",
+          "sha256": "96876d95de1ffd898eff8a39a370bd63528e583b75c647118135ae7ae7e42e4b",
+          "bytes": 269605
+        },
+        {
+          "index": 3,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2502004_03_2k.jpg?v=1747383677",
+          "file": "image-03.jpg",
+          "sha256": "f85e2b88e1ebd1d5aa37f7f0c7fde28ed6f11a579984df91ef9c7c439f37208d",
+          "bytes": 346178
+        },
+        {
+          "index": 4,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2502004_04_2k.jpg?v=1747383677",
+          "file": "image-04.jpg",
+          "sha256": "8d8c3e8e6676d693e2835b8e684fce6c0ddd4e62154599715393f65b47d2cd83",
+          "bytes": 419179
+        },
+        {
+          "index": 5,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2502004_01_2k.jpg?v=1747383677",
+          "file": "image-05.jpg",
+          "sha256": "fb74cc19efa8af2ee5d55e8074faef163149a46302c7be444e2d8b582c49b5d0",
+          "bytes": 94434
+        },
+        {
+          "index": 6,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2502004_05_2k.jpg?v=1747383677",
+          "file": "image-06.jpg",
+          "sha256": "eb0c558210a4a5d20cb204abc5c747bdcda52348d54be544c1764e7d0104c1e4",
+          "bytes": 111339
+        },
+        {
+          "index": 7,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2502004_06_2k.jpg?v=1747383677",
+          "file": "image-07.jpg",
+          "sha256": "a4fc426632d89f2228cf84092d6a8350a98613cebdefd3c5f5ecb91e1d6fd1b1",
+          "bytes": 117232
+        },
+        {
+          "index": 8,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2502004_07_2k.jpg?v=1747383677",
+          "file": "image-08.jpg",
+          "sha256": "2a159e78d75045a1a5122195208c2ceddee41b0cb46255c8446693a858bfa294",
+          "bytes": 97636
+        },
+        {
+          "index": 9,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2502004_08_2k.jpg?v=1747383677",
+          "file": "image-09.jpg",
+          "sha256": "76d3e5ab8f72acf404941e56d23ac099410aa6352c8de32fe526179484dcf9f9",
+          "bytes": 101455
+        },
+        {
+          "index": 10,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2502004_09_2k.jpg?v=1747383677",
+          "file": "image-10.jpg",
+          "sha256": "c30c30503a3aebca2ec77aa39aa3f0c30cd61b5c660f520841d88ab6d6b657bb",
+          "bytes": 149648
+        },
+        {
+          "index": 11,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2502004_10_2k.jpg?v=1747383677",
+          "file": "image-11.jpg",
+          "sha256": "a93587a4e10119ee6163c2b9c94296406b11858c4af5b311aad3c93891a68fcc",
+          "bytes": 97943
+        },
+        {
+          "index": 12,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2502004_11_2k.jpg?v=1747383677",
+          "file": "image-12.jpg",
+          "sha256": "e7727c0100b44783130e943a07c356dacd9dcfcdfce67614d2e408fd4606f135",
+          "bytes": 118599
+        },
+        {
+          "index": 13,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2502004_12_2k.jpg?v=1747383677",
+          "file": "image-13.jpg",
+          "sha256": "d1d53fa777c92396d7c55c607b3869ae1fe9799a28600902f4589f5f6bf928ca",
+          "bytes": 121845
+        },
+        {
+          "index": 14,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2502004_13_2k.jpg?v=1747383677",
+          "file": "image-14.jpg",
+          "sha256": "23de1162ed8be77ec3f95ab608820dd24511e7b3f8b26cd221c32a2b59b145a1",
+          "bytes": 82662
+        },
+        {
+          "index": 15,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/photoSet_workshop_2k_20260629.jpg?v=1782732100",
+          "file": "image-15.jpg",
+          "sha256": "d7c47c925b681c85c0e05dd124e9a56a9bb373adf9bfc020bad94fe8e2408ebb",
+          "bytes": 257861
+        }
+      ],
+      "accepted": [
+        {
+          "id": "omega-original-424-20261021-front",
+          "category": "front",
+          "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2502004_01_nowm.jpg?v=1751059779",
+          "sha256": "e42d82987ff71dd48f12e837b5986230af600870787c09c564aeb1c52bc5eee0"
+        },
+        {
+          "id": "omega-original-424-20261021-caseback",
+          "category": "caseback",
+          "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2502004_09_2k.jpg?v=1747383677",
+          "sha256": "c30c30503a3aebca2ec77aa39aa3f0c30cd61b5c660f520841d88ab6d6b657bb"
+        },
+        {
+          "id": "omega-original-424-20261021-braceletClasp",
+          "category": "braceletClasp",
+          "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2502004_11_2k.jpg?v=1747383677",
+          "sha256": "e7727c0100b44783130e943a07c356dacd9dcfcdfce67614d2e408fd4606f135"
+        }
+      ]
+    },
+    {
+      "sourceRecordId": "RULE:0004",
+      "reference": "232.30.46.51.01.001",
+      "source": "https://www.zeitauktion.com/products/omega-seamaster-chronograph-steel-automatic-men-s-watch-232-30-46-51-01-001-2503509",
+      "official": "https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-planet-ocean-600m-co-axial-chronometer-chronograph-45-5-mm-23230465101001",
+      "evidence": "Exact-reference Zeitauktion2503509 page attributes its actual specimen photographs to Zeitauktion. All14 contact-inspected; full1/11/12/13 inspected. Black two-register chronograph dial has date6, orange central chronograph/recorder accents and black dive bezel. Image11 visibly reads Omega Co-Axial9300 on the rotor through the fitted display back; column-wheel and two-barrel legends visible. This is through-glass fitted movement evidence, not an opened inner-caseback inspection or proof of individual authenticity. Case rim bears Professional/PlanetOcean/600m2000ft; legends do not establish current pressure resistance. Image13 clasp is Omega-signed and also contains visible movement in background, so external-only suppresses it. Image11 serves both movement and full caseback categories; one file is counted distinctly from category entries. Seller purchase12January2018 is not manufacture date. Manufacturer documents steel45.5mm black chronograph with9300/60h. No adjacent232/215 suffix, non-chronograph calibre, supplier equivalence, production start/end or hardware-originality inference. Ignore dealer template Rolex footer.",
+      "inspectedGallery": [
+        {
+          "index": 1,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503509_01_nowm.jpg?v=1755174088",
+          "file": "image-01.jpg",
+          "sha256": "84d3ca1d6e502a475a7a1fd9c7a20b31f35a389328e12271b596e2caf78bb679",
+          "bytes": 196162
+        },
+        {
+          "index": 2,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503509_02_2k.jpg?v=1755174090",
+          "file": "image-02.jpg",
+          "sha256": "28622966da9979b3acb58ce3e717dafaab2605a6b0eb17e899d0972c3d3f71c8",
+          "bytes": 278770
+        },
+        {
+          "index": 3,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503509_03_2k.jpg?v=1755174091",
+          "file": "image-03.jpg",
+          "sha256": "e7e39f417ab76d504e68cf5c4552cb298da4f72fefe8abd8a321b925e5508e4f",
+          "bytes": 282896
+        },
+        {
+          "index": 4,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503509_04_2k.jpg?v=1755174093",
+          "file": "image-04.jpg",
+          "sha256": "2bc975c3ce705cb861f648074d7d4cc35be103b3eab0d149ab9e20f09ddb3298",
+          "bytes": 259643
+        },
+        {
+          "index": 5,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503509_01_2k.jpg?v=1755174087",
+          "file": "image-05.jpg",
+          "sha256": "19dedda12c7dfce55990c0fc2a01ccc785be9fcd55fc90f9139de3522da30e32",
+          "bytes": 171109
+        },
+        {
+          "index": 6,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503509_05_2k.jpg?v=1755174094",
+          "file": "image-06.jpg",
+          "sha256": "0f0f4721a5422f580947ff8200632445707260c05d501fba54444b5ace93afc4",
+          "bytes": 139210
+        },
+        {
+          "index": 7,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503509_06_2k.jpg?v=1755174096",
+          "file": "image-07.jpg",
+          "sha256": "96795b36b6449cb935bb71b15b603c1f788fd05b0a088a9107bcada19c72c3a4",
+          "bytes": 172620
+        },
+        {
+          "index": 8,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503509_07_2k.jpg?v=1755174097",
+          "file": "image-08.jpg",
+          "sha256": "92c0fc50e0cfe73f855e58540079e6f929dff3d55d214de45b9ea6032ccdb9d7",
+          "bytes": 144275
+        },
+        {
+          "index": 9,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503509_08_2k.jpg?v=1755174098",
+          "file": "image-09.jpg",
+          "sha256": "0cba5a537990caa26ed1dc5b2fd718ac19a1316a9d9045fbed5055a251c7145e",
+          "bytes": 112070
+        },
+        {
+          "index": 10,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503509_09_2k.jpg?v=1755174100",
+          "file": "image-10.jpg",
+          "sha256": "542bc26a9c191cf8a80b84a524172f4c3f1324a4a2537f118fcdb56dc169abd1",
+          "bytes": 153610
+        },
+        {
+          "index": 11,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503509_10_2k.jpg?v=1755174102",
+          "file": "image-11.jpg",
+          "sha256": "21b1ce38efc1b6ccf9ebc4d1841be29852f0a245de8d817d069b419e9a67c739",
+          "bytes": 258776
+        },
+        {
+          "index": 12,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503509_11_2k.jpg?v=1755174103",
+          "file": "image-12.jpg",
+          "sha256": "8fd85646bb2852aa4d029e5bb5b4c74b808b9a24261c901c160edba764d9a5ab",
+          "bytes": 173244
+        },
+        {
+          "index": 13,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503509_12_2k.jpg?v=1755174105",
+          "file": "image-13.jpg",
+          "sha256": "3a7f77486c12c9c2a311f07861c9b73b7687d0466946395aea1b8fe2bda58f33",
+          "bytes": 155962
+        },
+        {
+          "index": 14,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/photoSet_workshop_2k_20260629.jpg?v=1782732100",
+          "file": "image-14.jpg",
+          "sha256": "d7c47c925b681c85c0e05dd124e9a56a9bb373adf9bfc020bad94fe8e2408ebb",
+          "bytes": 257861
+        }
+      ],
+      "accepted": [
+        {
+          "id": "omega-original-232-20261021-front",
+          "category": "front",
+          "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503509_01_nowm.jpg?v=1755174088",
+          "sha256": "84d3ca1d6e502a475a7a1fd9c7a20b31f35a389328e12271b596e2caf78bb679"
+        },
+        {
+          "id": "omega-original-232-20261021-movement",
+          "category": "movement",
+          "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503509_10_2k.jpg?v=1755174102",
+          "sha256": "21b1ce38efc1b6ccf9ebc4d1841be29852f0a245de8d817d069b419e9a67c739"
+        },
+        {
+          "id": "omega-original-232-20261021-caseback",
+          "category": "caseback",
+          "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503509_10_2k.jpg?v=1755174102",
+          "sha256": "21b1ce38efc1b6ccf9ebc4d1841be29852f0a245de8d817d069b419e9a67c739"
+        },
+        {
+          "id": "omega-original-232-20261021-braceletClasp",
+          "category": "braceletClasp",
+          "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503509_12_2k.jpg?v=1755174105",
+          "sha256": "3a7f77486c12c9c2a311f07861c9b73b7687d0466946395aea1b8fe2bda58f33"
+        }
+      ]
+    }
+  ]
+}
