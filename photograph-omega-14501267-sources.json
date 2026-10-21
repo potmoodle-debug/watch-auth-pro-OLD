@@ -1,0 +1,93 @@
+{
+  "reviewedAt": "2026-10-21T15:19:08.878Z",
+  "scope": "One original source record;2browser-verified representative category entries/2distinct original files; movement/clasp researched gaps.",
+  "sourceRecordId": "RULE:0024",
+  "reference": "145.012-67",
+  "evidence": "Original Sothebys2022FineWatches lot124 explicitly identifies145.012-67, steel black-dial manual chronograph, attributed321/17jewels and circa1968. Seven original c4fyb lot images identified in actual source HTML, contact-inspected; full1/2/6 inspected. Front1 shows black three-register SpeedmasterProfessional, applied Omega logo, aged-colour baton plots, TSWISSMADET and black tachymetre bezel. Closed rear6 shows hippocampus/Speedmaster engraving and516 endlink stamps. Source appearance is representative of this specimen only: original lume/hands/bezel/service history and hardware originality are not independently established. No actual opened321, inner-caseback suffix stamp or usable clasp overview exists among seven views; a partially obscured clasp behind front2 is not substituted. Movement number and321 remain catalogue text, not freshly read movement stamps. Source lists40mm diameter; original Antiquorum372lot546 exact145.012-67 lists42mm,321/17jewels,circa1967 and1039/516bracelet dated68. Measurement discrepancy is retained, not an authenticity threshold; no complete production period or universal bracelet code inferred. Antiquorum condition grade recommends overhaul, not current user-watch fitness. Sothebys condition report requires login and was not read. SP/Ultraman/orange-hand suffix variants and neighbouring145.012/145.022/105references are not inherited. No supplier/common321 movement photograph, material-assay, pressure resistance or individual authenticity inference. Exact refs list fixes compact punctuation-only lookup without adding a semantic alias. HTML-wide related/editorial images outside the seven c4fyb lot files are excluded.",
+  "sources": [
+    {
+      "title": "Sothebys2022 FineWatches lot124 original photographed specimen",
+      "url": "https://www.sothebys.com/en/buy/auction/2022/fine-watches-2/reference-145-012-67-speedmaster-a-stainless-steel"
+    },
+    {
+      "title": "Antiquorum372lot546 exact-reference specification and condition",
+      "url": "https://catalog.antiquorum.swiss/en/lots/omega-ref-145-012-67-speedmaster-lot-372-546"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "omega-14501267-20261021-front",
+      "category": "front",
+      "image": "https://sothebys-brightspot.s3.amazonaws.com/media-desk/64/1d/eb0cc3b64df1866903b8847af018/006n11057-c4fyb-01.jpg",
+      "sha256": "89ca7900306f75a8aac80d770269d24b2fc9de417e7fa35f67f0cdf38cda1bba"
+    },
+    {
+      "id": "omega-14501267-20261021-caseback",
+      "category": "caseback",
+      "image": "https://sothebys-brightspot.s3.amazonaws.com/media-desk/3d/ac/1ccccca54ddf9dc73b05812cd4fe/006n11057-c4fyb-01-4.jpg",
+      "sha256": "8b99958ebc0dccbea114deca454e54290585b8f0c563b8c7a85a5c638079e15f"
+    }
+  ],
+  "inspectedGallery": {
+    "source": "https://www.sothebys.com/en/buy/auction/2022/fine-watches-2/reference-145-012-67-speedmaster-a-stainless-steel",
+    "at": "2026-10-21T15:16:40.308Z",
+    "images": [
+      {
+        "index": 1,
+        "url": "https://sothebys-brightspot.s3.amazonaws.com/media-desk/64/1d/eb0cc3b64df1866903b8847af018/006n11057-c4fyb-01.jpg",
+        "file": "image-01.jpg",
+        "sha256": "89ca7900306f75a8aac80d770269d24b2fc9de417e7fa35f67f0cdf38cda1bba",
+        "bytes": 300024
+      },
+      {
+        "index": 2,
+        "url": "https://sothebys-brightspot.s3.amazonaws.com/media-desk/8b/51/92c94ed4484b91f49123908b7ce6/n11057-c4fyb-glam-2.jpg",
+        "file": "image-02.jpg",
+        "sha256": "e5c359f4fcfa2b7306d6b7979f94a48a13414dbc1c25f0a2ad6088d6c83c10cf",
+        "bytes": 387447
+      },
+      {
+        "index": 3,
+        "url": "https://sothebys-brightspot.s3.amazonaws.com/media-desk/1f/da/2acf4ac24b6a9dabfd0ff41a29fe/006n11057-c4fyb-01-1.jpg",
+        "file": "image-03.jpg",
+        "sha256": "bb3d0979f8afafa770d1f026f837048d05dbd1c253cf7185035e0bdc12824c89",
+        "bytes": 329606
+      },
+      {
+        "index": 4,
+        "url": "https://sothebys-brightspot.s3.amazonaws.com/media-desk/d1/64/3b7667924df799db501108787dd1/006n11057-c4fyb-01-2.jpg",
+        "file": "image-04.jpg",
+        "sha256": "cc730f585a69c322960593b2b59c94c36c4439a09042625d788fdd9dd253cafb",
+        "bytes": 339919
+      },
+      {
+        "index": 5,
+        "url": "https://sothebys-brightspot.s3.amazonaws.com/media-desk/40/c4/0572628f4ab292838de7b0c570ab/006n11057-c4fyb-01-3.jpg",
+        "file": "image-05.jpg",
+        "sha256": "cc8d81b3a3ab5ce6fb5a2043aa9ddadf84fb5bcc8cd33dcc854caf8408c90eeb",
+        "bytes": 138098
+      },
+      {
+        "index": 6,
+        "url": "https://sothebys-brightspot.s3.amazonaws.com/media-desk/3d/ac/1ccccca54ddf9dc73b05812cd4fe/006n11057-c4fyb-01-4.jpg",
+        "file": "image-06.jpg",
+        "sha256": "8b99958ebc0dccbea114deca454e54290585b8f0c563b8c7a85a5c638079e15f",
+        "bytes": 249480
+      },
+      {
+        "index": 7,
+        "url": "https://sothebys-brightspot.s3.amazonaws.com/media-desk/b6/4a/ca4b454a48a8af1a1585c7ee2eea/n11057-c4fyb-glam-1.jpg",
+        "file": "image-07.jpg",
+        "sha256": "3d4645f5223cf3e8ff56b2ed9b9dfeaedc4bcadeefe35f68a8c4d99454564fe3",
+        "bytes": 259001
+      }
+    ]
+  },
+  "validation": {
+    "nodeTests": 171,
+    "workflowFixtures": "Passed; fixture authentication only",
+    "actualChrome": "Both remote images load/enlarge/credit; compact-reference321suggestion; external-only2/restored2; exact suffix isolation;390px; no page errors",
+    "realAuthenticatedSession": "Outstanding; no authorized session available",
+    "publication": "Pending"
+  }
+}

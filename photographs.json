@@ -35998,6 +35998,214 @@
         "browserDeliveryVerified": true,
         "lastBrowserDeliveryCheck": "2026-10-21T14:59:30.479Z"
       }
+    },
+    {
+      "id": "omega-220950-20261021-front",
+      "brand": "OMEGA",
+      "references": [
+        "2209.50.00"
+      ],
+      "representativeFor": [],
+      "variant": "Zeitauktion2601675 exact2209.50.00 steel/orange-bezel source specimen; pictured2500 configuration only",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "2209.50.00 — Black dial and orange bezel",
+      "caption": "Actual exact-reference specimen: orange bezel/numerals, black dial/date3 and steel bracelet. No adjacent-size or suffix inheritance.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601675_01_nowm.jpg?v=1775548570",
+      "source": "https://www.zeitauktion.com/products/omega-seamaster-steel-automatic-men-s-watch-2209-50-00-2601675",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected2026-10-21",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-21T15:13:23.930Z",
+        "loadedAt": "2026-10-21T15:13:23.930Z",
+        "evidence": "Original Zeitauktion2601675 explicitly identifies2209.50.00 and attributes actual specimen photography to Zeitauktion. All15original gallery files contact-inspected; full1/11/13/14 inspected. Black dial with orange12/9/6, orange dive bezel, date3 and steel bracelet visible. Fitted closed hippocampus Seamaster/PlanetOcean caseback11 is separate from actual opened movement14; movement rotor visibly reads OMEGA2500 and bridge27JEWELS. This establishes the pictured configuration, not C/D execution, universal2500 compatibility, service history or user-watch originality. Clasp13 shows OmegaSeamasterPlanetOcean signing; rear endlinks show952, without proving every internal hardware code or component originality. Manufacturer exact-reference page confirms42mm steel/2500automatic/48h/20mm lugs and steel bracelet with folding dive-extension clasp; dimensions/reserve are specifications, not measured user-watch tests. Seller circa2005 is an estimate, not a complete production period. Source condition table explicitly says water-resistance test failed; dial600m/2000ft and manufacturer rating do not prove current water resistance. Exclude literature/pouch/register images6/9/10 and generic workshop collage15. No nearby orange PlanetOcean size, shortened alias, adjacent retail suffix, supplier/calibre-equivalence or material-assay/authenticity inference. Ignore dealer Rolex-template footer and manufacturer generic current-warranty banners as specimen evidence.",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        },
+        "imageSha256": "f6b0954a435387ac36beb2c84ce796749f2a8f4ed65845edf6ea7c794beaeb1b",
+        "browserDeliveryVerified": true,
+        "browserDeliveryVerifiedAt": "2026-10-21T15:15:15.954Z"
+      }
+    },
+    {
+      "id": "omega-220950-20261021-movement",
+      "brand": "OMEGA",
+      "references": [
+        "2209.50.00"
+      ],
+      "representativeFor": [],
+      "variant": "Zeitauktion2601675 exact2209.50.00 steel/orange-bezel source specimen; pictured2500 configuration only",
+      "category": "movement",
+      "depictsMovement": true,
+      "title": "2209.50.00 — Opened Omega2500 movement",
+      "caption": "Actual opened movement with OMEGA2500 rotor and27JEWELS bridge. C/D execution and service history are not established; suppressed in external-only work.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601675_13_2k.jpg?v=1775548586",
+      "source": "https://www.zeitauktion.com/products/omega-seamaster-steel-automatic-men-s-watch-2209-50-00-2601675",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected2026-10-21",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-21T15:13:23.930Z",
+        "loadedAt": "2026-10-21T15:13:23.930Z",
+        "evidence": "Original Zeitauktion2601675 explicitly identifies2209.50.00 and attributes actual specimen photography to Zeitauktion. All15original gallery files contact-inspected; full1/11/13/14 inspected. Black dial with orange12/9/6, orange dive bezel, date3 and steel bracelet visible. Fitted closed hippocampus Seamaster/PlanetOcean caseback11 is separate from actual opened movement14; movement rotor visibly reads OMEGA2500 and bridge27JEWELS. This establishes the pictured configuration, not C/D execution, universal2500 compatibility, service history or user-watch originality. Clasp13 shows OmegaSeamasterPlanetOcean signing; rear endlinks show952, without proving every internal hardware code or component originality. Manufacturer exact-reference page confirms42mm steel/2500automatic/48h/20mm lugs and steel bracelet with folding dive-extension clasp; dimensions/reserve are specifications, not measured user-watch tests. Seller circa2005 is an estimate, not a complete production period. Source condition table explicitly says water-resistance test failed; dial600m/2000ft and manufacturer rating do not prove current water resistance. Exclude literature/pouch/register images6/9/10 and generic workshop collage15. No nearby orange PlanetOcean size, shortened alias, adjacent retail suffix, supplier/calibre-equivalence or material-assay/authenticity inference. Ignore dealer Rolex-template footer and manufacturer generic current-warranty banners as specimen evidence.",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        },
+        "imageSha256": "8fa2b6cfd52ca2662ffa666747385fc8a066d42e952abca92dc559a25f15aad2",
+        "browserDeliveryVerified": true,
+        "browserDeliveryVerifiedAt": "2026-10-21T15:15:15.956Z"
+      }
+    },
+    {
+      "id": "omega-220950-20261021-caseback",
+      "brand": "OMEGA",
+      "references": [
+        "2209.50.00"
+      ],
+      "representativeFor": [],
+      "variant": "Zeitauktion2601675 exact2209.50.00 steel/orange-bezel source specimen; pictured2500 configuration only",
+      "category": "caseback",
+      "depictsMovement": false,
+      "title": "2209.50.00 — Closed hippocampus caseback",
+      "caption": "Actual fitted closed Seamaster/PlanetOcean back and952 endlink markings. No inner-back stamp view or user-watch originality/pressure claim.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601675_10_2k.jpg?v=1775548582",
+      "source": "https://www.zeitauktion.com/products/omega-seamaster-steel-automatic-men-s-watch-2209-50-00-2601675",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected2026-10-21",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-21T15:13:23.930Z",
+        "loadedAt": "2026-10-21T15:13:23.930Z",
+        "evidence": "Original Zeitauktion2601675 explicitly identifies2209.50.00 and attributes actual specimen photography to Zeitauktion. All15original gallery files contact-inspected; full1/11/13/14 inspected. Black dial with orange12/9/6, orange dive bezel, date3 and steel bracelet visible. Fitted closed hippocampus Seamaster/PlanetOcean caseback11 is separate from actual opened movement14; movement rotor visibly reads OMEGA2500 and bridge27JEWELS. This establishes the pictured configuration, not C/D execution, universal2500 compatibility, service history or user-watch originality. Clasp13 shows OmegaSeamasterPlanetOcean signing; rear endlinks show952, without proving every internal hardware code or component originality. Manufacturer exact-reference page confirms42mm steel/2500automatic/48h/20mm lugs and steel bracelet with folding dive-extension clasp; dimensions/reserve are specifications, not measured user-watch tests. Seller circa2005 is an estimate, not a complete production period. Source condition table explicitly says water-resistance test failed; dial600m/2000ft and manufacturer rating do not prove current water resistance. Exclude literature/pouch/register images6/9/10 and generic workshop collage15. No nearby orange PlanetOcean size, shortened alias, adjacent retail suffix, supplier/calibre-equivalence or material-assay/authenticity inference. Ignore dealer Rolex-template footer and manufacturer generic current-warranty banners as specimen evidence.",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        },
+        "imageSha256": "073e5d291ae8250effe1422ab548080f307320af0f4b512d9172acb1eb2cd307",
+        "browserDeliveryVerified": true,
+        "browserDeliveryVerifiedAt": "2026-10-21T15:15:15.956Z"
+      }
+    },
+    {
+      "id": "omega-220950-20261021-braceletClasp",
+      "brand": "OMEGA",
+      "references": [
+        "2209.50.00"
+      ],
+      "representativeFor": [],
+      "variant": "Zeitauktion2601675 exact2209.50.00 steel/orange-bezel source specimen; pictured2500 configuration only",
+      "category": "braceletClasp",
+      "depictsMovement": false,
+      "title": "2209.50.00 — Signed steel bracelet clasp",
+      "caption": "Actual OmegaSeamasterPlanetOcean-signed steel clasp with closed back behind. Internal codes and individual component originality remain unverified.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601675_12_2k.jpg?v=1775548584",
+      "source": "https://www.zeitauktion.com/products/omega-seamaster-steel-automatic-men-s-watch-2209-50-00-2601675",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected2026-10-21",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-21T15:13:23.930Z",
+        "loadedAt": "2026-10-21T15:13:23.930Z",
+        "evidence": "Original Zeitauktion2601675 explicitly identifies2209.50.00 and attributes actual specimen photography to Zeitauktion. All15original gallery files contact-inspected; full1/11/13/14 inspected. Black dial with orange12/9/6, orange dive bezel, date3 and steel bracelet visible. Fitted closed hippocampus Seamaster/PlanetOcean caseback11 is separate from actual opened movement14; movement rotor visibly reads OMEGA2500 and bridge27JEWELS. This establishes the pictured configuration, not C/D execution, universal2500 compatibility, service history or user-watch originality. Clasp13 shows OmegaSeamasterPlanetOcean signing; rear endlinks show952, without proving every internal hardware code or component originality. Manufacturer exact-reference page confirms42mm steel/2500automatic/48h/20mm lugs and steel bracelet with folding dive-extension clasp; dimensions/reserve are specifications, not measured user-watch tests. Seller circa2005 is an estimate, not a complete production period. Source condition table explicitly says water-resistance test failed; dial600m/2000ft and manufacturer rating do not prove current water resistance. Exclude literature/pouch/register images6/9/10 and generic workshop collage15. No nearby orange PlanetOcean size, shortened alias, adjacent retail suffix, supplier/calibre-equivalence or material-assay/authenticity inference. Ignore dealer Rolex-template footer and manufacturer generic current-warranty banners as specimen evidence.",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        },
+        "imageSha256": "8aeb3b75541349d0782d4c9e5215cf46be133419871cd3b4f4f8038815c37f24",
+        "browserDeliveryVerified": true,
+        "browserDeliveryVerifiedAt": "2026-10-21T15:15:15.956Z"
+      }
+    },
+    {
+      "id": "omega-14501267-20261021-front",
+      "brand": "OMEGA",
+      "references": [
+        "145.012-67"
+      ],
+      "representativeFor": [
+        "145.012-67"
+      ],
+      "variant": "Sothebys2022lot124 representative145.012-67 steel/black-dial specimen; no SP/Ultraman or universal vintage execution inference",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "145.012-67 — Representative vintage black dial",
+      "caption": "Sothebys lot124 actual black-dial steel specimen. Representative execution only; aged appearance does not establish original lume, hands, bezel or service history.",
+      "image": "https://sothebys-brightspot.s3.amazonaws.com/media-desk/64/1d/eb0cc3b64df1866903b8847af018/006n11057-c4fyb-01.jpg",
+      "source": "https://www.sothebys.com/en/buy/auction/2022/fine-watches-2/reference-145-012-67-speedmaster-a-stainless-steel",
+      "credit": "Sotheby’s — original Fine Watches2022 lot124 specimen photograph",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected2026-10-21",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-21T15:19:08.878Z",
+        "loadedAt": "2026-10-21T15:19:08.878Z",
+        "evidence": "Original Sothebys2022FineWatches lot124 explicitly identifies145.012-67, steel black-dial manual chronograph, attributed321/17jewels and circa1968. Seven original c4fyb lot images identified in actual source HTML, contact-inspected; full1/2/6 inspected. Front1 shows black three-register SpeedmasterProfessional, applied Omega logo, aged-colour baton plots, TSWISSMADET and black tachymetre bezel. Closed rear6 shows hippocampus/Speedmaster engraving and516 endlink stamps. Source appearance is representative of this specimen only: original lume/hands/bezel/service history and hardware originality are not independently established. No actual opened321, inner-caseback suffix stamp or usable clasp overview exists among seven views; a partially obscured clasp behind front2 is not substituted. Movement number and321 remain catalogue text, not freshly read movement stamps. Source lists40mm diameter; original Antiquorum372lot546 exact145.012-67 lists42mm,321/17jewels,circa1967 and1039/516bracelet dated68. Measurement discrepancy is retained, not an authenticity threshold; no complete production period or universal bracelet code inferred. Antiquorum condition grade recommends overhaul, not current user-watch fitness. Sothebys condition report requires login and was not read. SP/Ultraman/orange-hand suffix variants and neighbouring145.012/145.022/105references are not inherited. No supplier/common321 movement photograph, material-assay, pressure resistance or individual authenticity inference. Exact refs list fixes compact punctuation-only lookup without adding a semantic alias. HTML-wide related/editorial images outside the seven c4fyb lot files are excluded.",
+        "imageDimensions": {
+          "width": 2000,
+          "height": 2000
+        },
+        "imageSha256": "89ca7900306f75a8aac80d770269d24b2fc9de417e7fa35f67f0cdf38cda1bba",
+        "browserDeliveryVerified": true,
+        "browserDeliveryVerifiedAt": "2026-10-21T15:20:33.521Z"
+      }
+    },
+    {
+      "id": "omega-14501267-20261021-caseback",
+      "brand": "OMEGA",
+      "references": [
+        "145.012-67"
+      ],
+      "representativeFor": [
+        "145.012-67"
+      ],
+      "variant": "Sothebys2022lot124 representative145.012-67 steel/black-dial specimen; no SP/Ultraman or universal vintage execution inference",
+      "category": "caseback",
+      "depictsMovement": false,
+      "title": "145.012-67 — Closed hippocampus caseback",
+      "caption": "Actual fitted closed back with Speedmaster/hippocampus engraving and516 endlinks. No opened inner-reference stamp, movement or hardware-originality proof.",
+      "image": "https://sothebys-brightspot.s3.amazonaws.com/media-desk/3d/ac/1ccccca54ddf9dc73b05812cd4fe/006n11057-c4fyb-01-4.jpg",
+      "source": "https://www.sothebys.com/en/buy/auction/2022/fine-watches-2/reference-145-012-67-speedmaster-a-stainless-steel",
+      "credit": "Sotheby’s — original Fine Watches2022 lot124 specimen photograph",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected2026-10-21",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-21T15:19:08.878Z",
+        "loadedAt": "2026-10-21T15:19:08.878Z",
+        "evidence": "Original Sothebys2022FineWatches lot124 explicitly identifies145.012-67, steel black-dial manual chronograph, attributed321/17jewels and circa1968. Seven original c4fyb lot images identified in actual source HTML, contact-inspected; full1/2/6 inspected. Front1 shows black three-register SpeedmasterProfessional, applied Omega logo, aged-colour baton plots, TSWISSMADET and black tachymetre bezel. Closed rear6 shows hippocampus/Speedmaster engraving and516 endlink stamps. Source appearance is representative of this specimen only: original lume/hands/bezel/service history and hardware originality are not independently established. No actual opened321, inner-caseback suffix stamp or usable clasp overview exists among seven views; a partially obscured clasp behind front2 is not substituted. Movement number and321 remain catalogue text, not freshly read movement stamps. Source lists40mm diameter; original Antiquorum372lot546 exact145.012-67 lists42mm,321/17jewels,circa1967 and1039/516bracelet dated68. Measurement discrepancy is retained, not an authenticity threshold; no complete production period or universal bracelet code inferred. Antiquorum condition grade recommends overhaul, not current user-watch fitness. Sothebys condition report requires login and was not read. SP/Ultraman/orange-hand suffix variants and neighbouring145.012/145.022/105references are not inherited. No supplier/common321 movement photograph, material-assay, pressure resistance or individual authenticity inference. Exact refs list fixes compact punctuation-only lookup without adding a semantic alias. HTML-wide related/editorial images outside the seven c4fyb lot files are excluded.",
+        "imageDimensions": {
+          "width": 2000,
+          "height": 1099
+        },
+        "imageSha256": "8b99958ebc0dccbea114deca454e54290585b8f0c563b8c7a85a5c638079e15f",
+        "browserDeliveryVerified": true,
+        "browserDeliveryVerifiedAt": "2026-10-21T15:20:33.523Z"
+      }
     }
   ]
 }
