@@ -1,0 +1,359 @@
+{
+  "reviewedAt": "2026-10-21T14:57:28.321Z",
+  "scope": "Three original source records;9 browser-verified category entries/7distinct actual files. Vintage unsupported categories stay empty; no zero/prefix/material alias.",
+  "records": [
+    {
+      "sourceRecordId": "RULE:0020",
+      "reference": "176.007",
+      "representativeBase": [
+        "176.007"
+      ],
+      "sources": [
+        {
+          "title": "Original photographed source specimen",
+          "url": "https://catalog.antiquorum.swiss/en/lots/omega-ref-176-007-seamaster-lot-344-218"
+        }
+      ],
+      "evidence": "Original Antiquorum344 lot218 explicitly identifies176.007 as steel Seamaster chronograph with1040/22jewels and source-listed38mm. Its one original2048-square photograph fully inspected: actual steel tonneau case, blue dial, white tachymeter ring, contrasting lower register, date3, yellow central chronograph hand and steel bracelet, with fitted box behind. This is a readable watch-front view, not a tiny packaging substitute. It supports one representative steel/blue-dial specimen only; no plated/gold/dial-variant or universal1117/549 hardware inference. No opened movement, rear or clasp view exists in this gallery;1040 and bracelet codes remain attributed auction text, not newly read stamps or individual originality proof. Auction circa1970 is an estimate and does not establish manufacture date; prior1972–1976 full period is not asserted. Manufacturer ST176.0007 archive retrieval returned503 and was not read; no added zero/prefix alias or borrowed archive photograph. No adjacent176case/MarkIV, supplier/Lemania equivalence or user authenticity/pressure/condition verdict.",
+      "accepted": [
+        {
+          "id": "omega-current-176007-20261021-front",
+          "category": "front",
+          "image": "https://images-catalog.antiquorum.swiss/images/344/lots/218/218.jpg",
+          "sha256": "677f96bc8ed14f96d0a9a9c1da4f20b47299894196d94618931cb4a1effc1cb1"
+        }
+      ]
+    },
+    {
+      "sourceRecordId": "RULE:0021",
+      "reference": "231.10.42.21.03.003",
+      "representativeBase": [],
+      "sources": [
+        {
+          "title": "Original photographed source specimen",
+          "url": "https://www.zeitauktion.com/products/omega-seamaster-steel-automatic-men-s-watch-231-10-42-21-03-003-2602528"
+        },
+        {
+          "title": "Additional original exact-reference specification",
+          "url": "https://www.uhren2000.de/en/products/omega-seamaster-aqua-terra-231-10-42-21-03-003-aus-2017"
+        }
+      ],
+      "evidence": "Original Zeitauktion2602528 exact-reference page attributes its actual photographs to Zeitauktion. All14 gallery files contact-inspected; full1/11/13 inspected. Front shows blue vertical teak dial, applied triangular markers, date3 and steel bracelet, with MasterCoAxialChronometer dial text. Fitted display back11 visibly reads OmegaCoAxial8500; AquaTerra/ANTI-MAGNETIC/>15000GAUSS/150m500ft rim visible. This is through-glass movement evidence, not an opened inner-caseback inspection, measured magnetism/pressure test or individual authenticity proof. Original Uhren2000 exact-reference listing specifies41.5mm/8500/approximately60h; dealer42mm rounded measurement is not a new authenticity threshold. MasterCoAxial wording is not treated as later METAS MasterChronometer certification or8900/8800 equivalence. Back and movement share one source file; clasp13 also exposes movement and is suppressed in external-only work. Source purchase23December2014 is not manufacture date or complete production period. Signing, material labels and dealer originality claims do not establish user-watch hardware originality/assay/condition. No neighbouring suffix, other AquaTerra size, supplier equivalence or generic8500 photograph inheritance. Ignore dealer Rolex template footer.",
+      "accepted": [
+        {
+          "id": "omega-current-2311042-20261021-front",
+          "category": "front",
+          "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2602528_01_nowm.jpg?v=1779363328",
+          "sha256": "041ce9e3272bbe7f98770a314b000aaee574fcc77f967aa346c6f5954376dd0b"
+        },
+        {
+          "id": "omega-current-2311042-20261021-movement",
+          "category": "movement",
+          "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2602528_10_2k.jpg?v=1779363343",
+          "sha256": "5b30196fe64b47c08d2724e876d03f96c55236b83556b7d69b1febac3cecf527"
+        },
+        {
+          "id": "omega-current-2311042-20261021-caseback",
+          "category": "caseback",
+          "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2602528_10_2k.jpg?v=1779363343",
+          "sha256": "5b30196fe64b47c08d2724e876d03f96c55236b83556b7d69b1febac3cecf527"
+        },
+        {
+          "id": "omega-current-2311042-20261021-braceletClasp",
+          "category": "braceletClasp",
+          "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2602528_12_2k.jpg?v=1779363346",
+          "sha256": "93ac8e6aa427e13ae5812c3523b60ee4428502a365c1f1753cc567354ffbf3e9"
+        }
+      ]
+    },
+    {
+      "sourceRecordId": "RULE:0022",
+      "reference": "210.32.42.20.04.001",
+      "representativeBase": [],
+      "sources": [
+        {
+          "title": "Original photographed source specimen",
+          "url": "https://www.zeitauktion.com/de/products/omega-seamaster-diver-300m-stahl-automatik-ref-210-32-42-20-04-001-b-p-2026-2606335"
+        },
+        {
+          "title": "Additional original exact-reference specification",
+          "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-diver-300m-co-axial-master-chronometer-42-mm-21032422004001"
+        }
+      ],
+      "evidence": "Original Zeitauktion2606335 exact-reference page/gallery identified directly from a verified original product link; no guessed adjacent filename. All15 files contact-inspected; full1/12/14 inspected. White wave dial, black bezel, black rubber and date6 visible. Full fitted display back12 visibly reads OmegaMasterCoAxial8800, with Diver300M/300m1000ft rim legends; this is through-glass evidence, not an opened case or physical authenticity verdict. Manufacturer exact product lists42mm/8800/55h and black rubber. Strap14 bears Omega/Seamaster signing and an Omega-logo pin buckle; full hardware codes/material assay/originality remain unverified. Movement/back share one original file; strap/buckle view also reveals movement and is suppressed for external-only work. Source purchase24September2026 and claimed warrantySeptember2031 are seller claims, not a manufacture date, complete period or validated user warranty. Source10bar pressure-ticket claim is not a300m test or user-watch test. No steel-bracelet retail suffix, adjacent210variant, non-date8806, supplier equivalence or generic8800 image inheritance. Ignore dealer template Rolex footer.",
+      "accepted": [
+        {
+          "id": "omega-current-2103242-20261021-front",
+          "category": "front",
+          "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2606335_01_nowm.jpg?v=1792044445",
+          "sha256": "254c381dd52e6bd974679b19f70a393e6116a2cd19cc09913001b9e2c19d4816"
+        },
+        {
+          "id": "omega-current-2103242-20261021-movement",
+          "category": "movement",
+          "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2606335_11_2k.jpg?v=1792044461",
+          "sha256": "f2a66100e4577d8788a9b02b839723de9f8412a2c705457e65af8b0aa3763d97"
+        },
+        {
+          "id": "omega-current-2103242-20261021-caseback",
+          "category": "caseback",
+          "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2606335_11_2k.jpg?v=1792044461",
+          "sha256": "f2a66100e4577d8788a9b02b839723de9f8412a2c705457e65af8b0aa3763d97"
+        },
+        {
+          "id": "omega-current-2103242-20261021-braceletClasp",
+          "category": "braceletClasp",
+          "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2606335_13_2k.jpg?v=1792044464",
+          "sha256": "5896f1453ac6a8eae68d71dc38d63562aa8def502a4625b4f2e19d46f1901d13"
+        }
+      ]
+    }
+  ],
+  "inspectedGalleries": {
+    "176007": {
+      "source": "https://catalog.antiquorum.swiss/en/lots/omega-ref-176-007-seamaster-lot-344-218",
+      "at": "2026-10-21T14:54:47.850Z",
+      "images": [
+        {
+          "index": 1,
+          "url": "https://images-catalog.antiquorum.swiss/images/344/lots/218/218.jpg",
+          "file": "image-01.jpg",
+          "sha256": "677f96bc8ed14f96d0a9a9c1da4f20b47299894196d94618931cb4a1effc1cb1",
+          "bytes": 520064
+        }
+      ]
+    },
+    "2103242": {
+      "source": "https://www.zeitauktion.com/de/products/omega-seamaster-diver-300m-stahl-automatik-ref-210-32-42-20-04-001-b-p-2026-2606335",
+      "at": "2026-10-21T14:54:54.323Z",
+      "images": [
+        {
+          "index": 1,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2606335_01_nowm.jpg?v=1792044445",
+          "file": "image-01.jpg",
+          "sha256": "254c381dd52e6bd974679b19f70a393e6116a2cd19cc09913001b9e2c19d4816",
+          "bytes": 142724
+        },
+        {
+          "index": 2,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2606335_02_2k.jpg?v=1792044447",
+          "file": "image-02.jpg",
+          "sha256": "8d3bf8adb7505ed9dcec735f20b533703bbe87d4cace1e08f4502c18810d2011",
+          "bytes": 298610
+        },
+        {
+          "index": 3,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2606335_03_2k.jpg?v=1792044449",
+          "file": "image-03.jpg",
+          "sha256": "5fdccf1b7b2f93894c49bda93c6205d401677c13f495816988d368ae4bbf18d4",
+          "bytes": 436588
+        },
+        {
+          "index": 4,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2606335_04_2k.jpg?v=1792044451",
+          "file": "image-04.jpg",
+          "sha256": "9f2064870e8ae50f10733d81d530b2ede7fb6b687bf64b4b7b550280f2973ee3",
+          "bytes": 400270
+        },
+        {
+          "index": 5,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2606335_01_2k.jpg?v=1792044443",
+          "file": "image-05.jpg",
+          "sha256": "ed9062bf306b46da2bdb88b7c5d291c94730c7317cda2ff1073c0b7877e64f4b",
+          "bytes": 122568
+        },
+        {
+          "index": 6,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2606335_05_2k.jpg?v=1792044452",
+          "file": "image-06.jpg",
+          "sha256": "0f0f4721a5422f580947ff8200632445707260c05d501fba54444b5ace93afc4",
+          "bytes": 139210
+        },
+        {
+          "index": 7,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2606335_06_2k.jpg?v=1792044453",
+          "file": "image-07.jpg",
+          "sha256": "f85dce1e9d924e3333fc3784393c15604c7fceb6dda302165bb4fa9bd76d353f",
+          "bytes": 132451
+        },
+        {
+          "index": 8,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2606335_07_2k.jpg?v=1792044455",
+          "file": "image-08.jpg",
+          "sha256": "bcac429d0604874ed8bd8556c7920f686efdf80f433a19c639ea3ef520afafdf",
+          "bytes": 121225
+        },
+        {
+          "index": 9,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2606335_08_2k.jpg?v=1792044457",
+          "file": "image-09.jpg",
+          "sha256": "b005063bf2335d2cf7664d8574258c09be239f859d4554eb73fd676333211e3f",
+          "bytes": 130579
+        },
+        {
+          "index": 10,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2606335_09_2k.jpg?v=1792044458",
+          "file": "image-10.jpg",
+          "sha256": "ac31ac4a8dabf06b77242c6727d93c783c9a80a498fddbd9df7d7adbfc96696c",
+          "bytes": 97143
+        },
+        {
+          "index": 11,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2606335_10_2k.jpg?v=1792044460",
+          "file": "image-11.jpg",
+          "sha256": "d81af7be8b7f1df133da357e00b78f924687952ec218ebacdcf6f4738abdceb6",
+          "bytes": 154553
+        },
+        {
+          "index": 12,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2606335_11_2k.jpg?v=1792044461",
+          "file": "image-12.jpg",
+          "sha256": "f2a66100e4577d8788a9b02b839723de9f8412a2c705457e65af8b0aa3763d97",
+          "bytes": 259433
+        },
+        {
+          "index": 13,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2606335_12_2k.jpg?v=1792044463",
+          "file": "image-13.jpg",
+          "sha256": "7447fa12fe20d653794a7c15ba9f53ce6ff749ab3a4ad5187af70014f2b89248",
+          "bytes": 143563
+        },
+        {
+          "index": 14,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2606335_13_2k.jpg?v=1792044464",
+          "file": "image-14.jpg",
+          "sha256": "5896f1453ac6a8eae68d71dc38d63562aa8def502a4625b4f2e19d46f1901d13",
+          "bytes": 195841
+        },
+        {
+          "index": 15,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/photoSet_workshop_2k.jpg?v=1789468094",
+          "file": "image-15.jpg",
+          "sha256": "7fc16e9bc4000e8b193333a5a2a697e3228a179be79c1a0e3a5a560a48b97429",
+          "bytes": 323410
+        }
+      ]
+    },
+    "2311042": {
+      "source": "https://www.zeitauktion.com/products/omega-seamaster-steel-automatic-men-s-watch-231-10-42-21-03-003-2602528",
+      "at": "2026-10-21T14:54:48.954Z",
+      "images": [
+        {
+          "index": 1,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2602528_01_nowm.jpg?v=1779363328",
+          "file": "image-01.jpg",
+          "sha256": "041ce9e3272bbe7f98770a314b000aaee574fcc77f967aa346c6f5954376dd0b",
+          "bytes": 154024
+        },
+        {
+          "index": 2,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2602528_02_2k.jpg?v=1779363327",
+          "file": "image-02.jpg",
+          "sha256": "598942bfedb1ea949043364f6996d58f3b9a73fa9eb09a5fae13d6474430931c",
+          "bytes": 308982
+        },
+        {
+          "index": 3,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2602528_03_2k.jpg?v=1779363329",
+          "file": "image-03.jpg",
+          "sha256": "facd0d6f159d255f8478fe887a44402d35adb9ab602298c2e558a291bb8c3c45",
+          "bytes": 460094
+        },
+        {
+          "index": 4,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2602528_04_2k.jpg?v=1779363331",
+          "file": "image-04.jpg",
+          "sha256": "a760f18375221ba5d78e129792911a10f75d2206e5d6f0503ef46774bfceab3a",
+          "bytes": 414289
+        },
+        {
+          "index": 5,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2602528_01_2k.jpg?v=1779363324",
+          "file": "image-05.jpg",
+          "sha256": "0e3df7462dee07b8eec62f0d1138288d5b23d315e8cccc83df2cba67454c4d4b",
+          "bytes": 130580
+        },
+        {
+          "index": 6,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2602528_05_2k.jpg?v=1779363333",
+          "file": "image-06.jpg",
+          "sha256": "0f0f4721a5422f580947ff8200632445707260c05d501fba54444b5ace93afc4",
+          "bytes": 139210
+        },
+        {
+          "index": 7,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2602528_06_2k.jpg?v=1779363334",
+          "file": "image-07.jpg",
+          "sha256": "064946c33bf412d9a04837c5d0fba896af1afb46771c83a08566da2d61ef058e",
+          "bytes": 127757
+        },
+        {
+          "index": 8,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2602528_07_2k.jpg?v=1779363338",
+          "file": "image-08.jpg",
+          "sha256": "851d8dc3e637bc326c3731a8e9d7d7a6ff6050dc891769ef800f3de1039f34c3",
+          "bytes": 126049
+        },
+        {
+          "index": 9,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2602528_08_2k.jpg?v=1779363337",
+          "file": "image-09.jpg",
+          "sha256": "b8447970f8c34cf117b84db07fe3efeb03deb74cba20817800150d02773b45ab",
+          "bytes": 98096
+        },
+        {
+          "index": 10,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2602528_09_2k.jpg?v=1779363339",
+          "file": "image-10.jpg",
+          "sha256": "542bc26a9c191cf8a80b84a524172f4c3f1324a4a2537f118fcdb56dc169abd1",
+          "bytes": 153610
+        },
+        {
+          "index": 11,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2602528_10_2k.jpg?v=1779363343",
+          "file": "image-11.jpg",
+          "sha256": "5b30196fe64b47c08d2724e876d03f96c55236b83556b7d69b1febac3cecf527",
+          "bytes": 255442
+        },
+        {
+          "index": 12,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2602528_11_2k.jpg?v=1779363344",
+          "file": "image-12.jpg",
+          "sha256": "351175a195b3f5d3b14cd3f4186e52043189a52abbd666045d41df7e5a7909c3",
+          "bytes": 130378
+        },
+        {
+          "index": 13,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2602528_12_2k.jpg?v=1779363346",
+          "file": "image-13.jpg",
+          "sha256": "93ac8e6aa427e13ae5812c3523b60ee4428502a365c1f1753cc567354ffbf3e9",
+          "bytes": 151886
+        },
+        {
+          "index": 14,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/photoSet_workshop_2k_20260629.jpg?v=1782732100",
+          "file": "image-14.jpg",
+          "sha256": "d7c47c925b681c85c0e05dd124e9a56a9bb373adf9bfc020bad94fe8e2408ebb",
+          "bytes": 257861
+        }
+      ]
+    }
+  },
+  "unavailableManufacturer": {
+    "reference": "ST176.0007",
+    "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-omega-st-176-0007",
+    "status": 503,
+    "usedAsEvidence": false
+  },
+  "browserValidation": {
+    "at": "2026-10-21T14:59:30.479Z",
+    "actualOriginalImages": true,
+    "calibreSuggestions": true,
+    "sourceCredits": true,
+    "enlargement": true,
+    "exactReferenceBoundaries": true,
+    "externalOnly": true,
+    "mobileWidth": 390,
+    "realAuthenticatedSession": false
+  }
+}

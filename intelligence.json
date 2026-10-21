@@ -728,20 +728,30 @@
       },
       "baseReference": "176.007",
       "family": "Seamaster Chronograph",
-      "size": "reference-specific",
+      "size": "38mm — attributed steel auction specimen only",
       "calibre": [
         "1040",
         "CAL1040"
       ],
       "calibreDisplay": "1040",
       "technology": "Automatic chronograph",
-      "reserve": "reference-specific",
-      "production": "1972–1976",
-      "notes": "Vintage automatic chronograph family.",
+      "reserve": "Not established for the physical specimen",
+      "production": "Complete manufacture period not established; source dating remains attributed",
+      "notes": "Original Antiquorum344 lot218 explicitly identifies176.007 as steel Seamaster chronograph with1040/22jewels and source-listed38mm. Its one original2048-square photograph fully inspected: actual steel tonneau case, blue dial, white tachymeter ring, contrasting lower register, date3, yellow central chronograph hand and steel bracelet, with fitted box behind. This is a readable watch-front view, not a tiny packaging substitute. It supports one representative steel/blue-dial specimen only; no plated/gold/dial-variant or universal1117/549 hardware inference. No opened movement, rear or clasp view exists in this gallery;1040 and bracelet codes remain attributed auction text, not newly read stamps or individual originality proof. Auction circa1970 is an estimate and does not establish manufacture date; prior1972–1976 full period is not asserted. Manufacturer ST176.0007 archive retrieval returned503 and was not read; no added zero/prefix alias or borrowed archive photograph. No adjacent176case/MarkIV, supplier/Lemania equivalence or user authenticity/pressure/condition verdict.",
       "source": "Omega historical/reference records",
-      "confidence": "High",
+      "confidence": "Original sources and actual pixels inspected; unsupported execution and individual authenticity remain unverified",
       "brand": "Omega",
-      "importOrder": 19
+      "importOrder": 19,
+      "manualReview": true,
+      "exactReferenceOnly": true,
+      "sourceUrl": "https://catalog.antiquorum.swiss/en/lots/omega-ref-176-007-seamaster-lot-344-218",
+      "sources": [
+        {
+          "title": "Original photographed source specimen",
+          "url": "https://catalog.antiquorum.swiss/en/lots/omega-ref-176-007-seamaster-lot-344-218"
+        }
+      ],
+      "researchReviewedAt": "2026-10-21"
     },
     {
       "pattern": {
@@ -758,12 +768,24 @@
       "calibreDisplay": "8500",
       "technology": "Automatic Co-Axial",
       "reserve": "60 hours",
-      "production": "2010s",
-      "notes": "150 m water resistance.",
+      "production": "Complete manufacture period not established; source dating remains attributed",
+      "notes": "Original Zeitauktion2602528 exact-reference page attributes its actual photographs to Zeitauktion. All14 gallery files contact-inspected; full1/11/13 inspected. Front shows blue vertical teak dial, applied triangular markers, date3 and steel bracelet, with MasterCoAxialChronometer dial text. Fitted display back11 visibly reads OmegaCoAxial8500; AquaTerra/ANTI-MAGNETIC/>15000GAUSS/150m500ft rim visible. This is through-glass movement evidence, not an opened inner-caseback inspection, measured magnetism/pressure test or individual authenticity proof. Original Uhren2000 exact-reference listing specifies41.5mm/8500/approximately60h; dealer42mm rounded measurement is not a new authenticity threshold. MasterCoAxial wording is not treated as later METAS MasterChronometer certification or8900/8800 equivalence. Back and movement share one source file; clasp13 also exposes movement and is suppressed in external-only work. Source purchase23December2014 is not manufacture date or complete production period. Signing, material labels and dealer originality claims do not establish user-watch hardware originality/assay/condition. No neighbouring suffix, other AquaTerra size, supplier equivalence or generic8500 photograph inheritance. Ignore dealer Rolex template footer.",
       "source": "Omega/reference records",
-      "confidence": "High",
+      "confidence": "Original sources and actual pixels inspected; unsupported execution and individual authenticity remain unverified",
       "brand": "Omega",
-      "importOrder": 20
+      "importOrder": 20,
+      "sourceUrl": "https://www.zeitauktion.com/products/omega-seamaster-steel-automatic-men-s-watch-231-10-42-21-03-003-2602528",
+      "sources": [
+        {
+          "title": "Original photographed source specimen",
+          "url": "https://www.zeitauktion.com/products/omega-seamaster-steel-automatic-men-s-watch-231-10-42-21-03-003-2602528"
+        },
+        {
+          "title": "Additional original exact-reference specification",
+          "url": "https://www.uhren2000.de/en/products/omega-seamaster-aqua-terra-231-10-42-21-03-003-aus-2017"
+        }
+      ],
+      "researchReviewedAt": "2026-10-21"
     },
     {
       "pattern": {
@@ -780,12 +802,24 @@
       "calibreDisplay": "8800",
       "technology": "Automatic Co-Axial Master Chronometer",
       "reserve": "55 hours",
-      "production": "2010s–present",
-      "notes": "300 m water resistance.",
+      "production": "Complete manufacture period not established; source dating remains attributed",
+      "notes": "Original Zeitauktion2606335 exact-reference page/gallery identified directly from a verified original product link; no guessed adjacent filename. All15 files contact-inspected; full1/12/14 inspected. White wave dial, black bezel, black rubber and date6 visible. Full fitted display back12 visibly reads OmegaMasterCoAxial8800, with Diver300M/300m1000ft rim legends; this is through-glass evidence, not an opened case or physical authenticity verdict. Manufacturer exact product lists42mm/8800/55h and black rubber. Strap14 bears Omega/Seamaster signing and an Omega-logo pin buckle; full hardware codes/material assay/originality remain unverified. Movement/back share one original file; strap/buckle view also reveals movement and is suppressed for external-only work. Source purchase24September2026 and claimed warrantySeptember2031 are seller claims, not a manufacture date, complete period or validated user warranty. Source10bar pressure-ticket claim is not a300m test or user-watch test. No steel-bracelet retail suffix, adjacent210variant, non-date8806, supplier equivalence or generic8800 image inheritance. Ignore dealer template Rolex footer.",
       "source": "Omega official product records",
-      "confidence": "High",
+      "confidence": "Original sources and actual pixels inspected; unsupported execution and individual authenticity remain unverified",
       "brand": "Omega",
-      "importOrder": 21
+      "importOrder": 21,
+      "sourceUrl": "https://www.zeitauktion.com/de/products/omega-seamaster-diver-300m-stahl-automatik-ref-210-32-42-20-04-001-b-p-2026-2606335",
+      "sources": [
+        {
+          "title": "Original photographed source specimen",
+          "url": "https://www.zeitauktion.com/de/products/omega-seamaster-diver-300m-stahl-automatik-ref-210-32-42-20-04-001-b-p-2026-2606335"
+        },
+        {
+          "title": "Additional original exact-reference specification",
+          "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-diver-300m-co-axial-master-chronometer-42-mm-21032422004001"
+        }
+      ],
+      "researchReviewedAt": "2026-10-21"
     },
     {
       "pattern": {
