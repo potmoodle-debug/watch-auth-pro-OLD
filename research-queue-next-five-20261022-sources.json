@@ -1,0 +1,106 @@
+{
+  "reviewedAt": "2026-10-22",
+  "scope": "Next five live missing requests. Three textual mappings ready for validation; two Seiko requests retain revision/identity evidence gaps. No new photograph verification.",
+  "records": [
+    {
+      "brand": "IWC",
+      "reference": "IW325501",
+      "family": "Pilot’s Watch Mark XVI",
+      "calibre": [
+        "30110"
+      ],
+      "technology": "Mechanical — automatic",
+      "reserve": "Approximately 42 hours nominal",
+      "caseDetails": "39 mm steel; black dial; black strap per exact auction specimen",
+      "sources": [
+        {
+          "title": "Heritage Auctions original exact lot54220",
+          "url": "https://jewelry.ha.com/c/fact-sheet.zx?ic3=ViewItem-Auction-Open-Action-PrintFactSheet-071515&lotNo=54220&saleNo=5583"
+        }
+      ],
+      "decision": "ready_for_validation",
+      "conclusion": "Original Heritage exact IW325501 auction record specifies automatic 30110, 21 jewels and approximately 42-hour reserve. Saved C.30110 spelling remains unchanged; the source prints 30110, so the engine must not silently strip C. prefix or certify the fitted marking. Case number and condition belong to that separate specimen. No manufacture date, present pressure resistance, originality, movement supplier equivalence or new image verification inferred."
+    },
+    {
+      "brand": "TAGHEUER",
+      "reference": "WBN2111",
+      "documentedReference": "WBN2111.BA0639",
+      "family": "Carrera Date39 — base-reference guidance",
+      "calibre": [
+        "Calibre 5"
+      ],
+      "technology": "Mechanical — automatic",
+      "reserve": "38 hours nominal per manufacturer",
+      "caseDetails": "39 mm steel; silver dial in the documented BA0639 execution",
+      "sources": [
+        {
+          "title": "TAG Heuer original WBN2111.BA0639 specification",
+          "url": "https://www.tagheuer.com/es/es/relojes/colecciones/tag-heuer-carrera/39-mm-calibre-5-autom%C3%A1tico/WBN2111.BA0639.html"
+        }
+      ],
+      "decision": "ready_for_validation",
+      "manualReview": true,
+      "collectionOnly": true,
+      "conclusion": "Manufacturer exact WBN2111.BA0639 specifies automatic Calibre 5. Saved CAL 5 is the catalogue calibre designation; no ETA/Sellita or fitted revision equivalence is inferred. Original request omits the bracelet/strap suffix: bare WBN2111 receives explicitly limited base-reference text only. The BA0639 steel-bracelet execution is documented, not imposed on the saved watch; unlisted suffixes do not inherit the mapping or photographs. Description mentions a sapphire movement view while the technical back field says steel; no opening method inferred. No new photo acceptance or physical authentication."
+    },
+    {
+      "brand": "TAGHEUER",
+      "reference": "WBP1114",
+      "documentedReference": "WBP1114.BA0000",
+      "family": "Aquaracer Professional200 Solargraph — base-reference guidance",
+      "calibre": [
+        "TH50-00"
+      ],
+      "technology": "Quartz — solar powered",
+      "reserve": "Up to 10 months in darkness when fully charged, manufacturer nominal",
+      "caseDetails": "40 mm steel; black dial in the documented BA0000 execution",
+      "sources": [
+        {
+          "title": "TAG Heuer original WBP1114.BA0000 specification",
+          "url": "https://www.tagheuer.com/gb/en/timepieces/collections/tag-heuer-aquaracer/40-mm-th50-00/WBP1114.BA0000.html"
+        }
+      ],
+      "decision": "ready_for_validation",
+      "manualReview": true,
+      "collectionOnly": true,
+      "conclusion": "Manufacturer exact WBP1114.BA0000 identifies light-powered quartz TH50-00, matching the saved solar technology observation. No calibre was recorded in that inspection, so this supplies model guidance, not physical movement verification. Bare request lacks the bracelet suffix and receives explicitly limited base-reference text. No TH50-01 equivalence, ordinary battery-service assumption, unlisted suffix or generic movement photograph inheritance. Nominal 200m and autonomy are not tests of the saved watch. No new photographs accepted."
+    },
+    {
+      "brand": "SEIKO",
+      "reference": "SPB435J1",
+      "family": "Prospex Alpinist Bamboo Grove — source conflict retained",
+      "calibre": [
+        "6R35"
+      ],
+      "sources": [
+        {
+          "title": "Original Shopping in Japan exact product listing",
+          "url": "https://www.shoppinginjapan.net/bamboo-grove-spb435j"
+        },
+        {
+          "title": "Seiko service primary parts comparison",
+          "url": "https://www.seikoserviceusa.com/uploads/datasheets/6R31A_38A.pdf"
+        }
+      ],
+      "decision": "needs_evidence",
+      "conclusion": "Original retailer exact SPB435J1 listing attributes automatic 6R35 and 70h nominal reserve, but its specification table says 38mm whereas narrative says 39.5mm; withhold a settled case size. Saved fitted marking is 6R35A. Primary Seiko service search lead names 6R35A as a distinct parts-list designation but does not establish factory execution in SPB435J1; full guide/pixels not yet read. Do not silently equate the A revision or accept common 6R35 photographs. Keep request active pending original manufacturer/technical or exact fitted-specimen evidence."
+    },
+    {
+      "brand": "SEIKO",
+      "reference": "SBGW321G",
+      "sourceBrand": "GRANDSEIKO",
+      "family": "Heritage Nishikigoi European limited edition",
+      "calibre": [
+        "9S64"
+      ],
+      "sources": [
+        {
+          "title": "Grand Seiko original exact SBGW321G product page",
+          "url": "https://www.grand-seiko.com/uk-en/collections/sbgw321g"
+        }
+      ],
+      "decision": "needs_evidence",
+      "conclusion": "Manufacturer exact SBGW321G page identifies Grand Seiko, manual 9S64, 36.5mm steel, red dial, black crocodile strap and 300-piece edition. Original request is stored under SEIKO and records 9S64A. Preserve those observations; do not silently rebrand the inspection, strip the A revision, infer manufacture date or accept common 9S64 imagery. Model attribution is known but brand/fitted-execution confirmation remains outstanding; keep active. No new photograph verification."
+    }
+  ]
+}
