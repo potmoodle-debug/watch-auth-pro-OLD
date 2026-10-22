@@ -1,0 +1,158 @@
+{
+  "reviewedAt": "2026-10-22T08:57:17.066Z",
+  "sourceRecordId": "RULE:0034",
+  "scope": "4verified category entries /3distinct actual files; local Chrome verified; publication pending",
+  "evidence": "Original Omega exact329.30.44.51.04.001 page specifies44.25mmsteel/steel, white racing dial, black ceramic tachymeter bezel, date6,9900automaticchronograph and60h nominal reserve. Original Zeitauktion2601133 identifies that exact reference and supplies15original gallery files; all contact-inspected, full1/12/14 inspected. Front1 shows white racing track, two black-ring subdials, date6, orange Speedmaster and chronograph-hand tip. Rear12 shows fitted movement through sapphire with OMEGA MASTER CO-AXIAL9900 rotor, COLUMN WHEEL and FIFTY-FOUR(54)JEWELS bridge lettering, twin-barrel layout and steel case/bracelet. Seller990054 appears to concatenate9900 and54jewels; it is not accepted as a separate calibre or alias. No opened inner-caseback examination or universal originality conclusion. The same rear12 file serves movement and caseback categories, counted once as a distinct file. Clasp14 shows actual Omega-logo steel clasp but also the exposed movement behind; movement, caseback and clasp must all be suppressed in external-only work. Seller purchase3August2018 is not manufacture date or complete production period; old late2010s–2020s range withheld. Manufacturer ratings and seller5bar ticket do not verify current user-watch pressure resistance, assay, magnetic resistance, service history or component originality. Packaging, register, literature, test ticket and workshop images excluded. No329.33strap, grey/black dial suffix, smaller326, generic Speedmaster, supplier/common9900 or unverified short-reference inheritance. Manufacturer generic calibre image not substituted; dealerRolexfooter ignored.",
+  "sources": [
+    {
+      "title": "Omega exact reference specification",
+      "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-speedmaster-racing-co-axial-master-chronometer-chronograph-44-25-mm-32930445104001"
+    },
+    {
+      "title": "Zeitauktion2601133 original specimen gallery",
+      "url": "https://www.zeitauktion.com/products/omega-speedmaster-racing-chronograph-steel-automatic-men-s-watch-329-30-44-51-04-001-2601133"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "omega-3293044-20261022-front",
+      "category": "front",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601133_01_nowm.jpg?v=1774342568",
+      "sha256": "7f83864f82f6d66f0ec1ac78184789eb30cce2d47109f19b08f3b773cb10f7d8"
+    },
+    {
+      "id": "omega-3293044-20261022-movement",
+      "category": "movement",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601133_11_2k.jpg?v=1774342826",
+      "sha256": "0d45dd35e001f29a829bb932e8f7518c2e411836a2d6d306f3b4b331e39a8a08"
+    },
+    {
+      "id": "omega-3293044-20261022-caseback",
+      "category": "caseback",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601133_11_2k.jpg?v=1774342826",
+      "sha256": "0d45dd35e001f29a829bb932e8f7518c2e411836a2d6d306f3b4b331e39a8a08"
+    },
+    {
+      "id": "omega-3293044-20261022-braceletClasp",
+      "category": "braceletClasp",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601133_13_2k.jpg?v=1774342829",
+      "sha256": "cadfdd290502dc1cef1182536d4e104e40c4426e5cba14ecaec9bc4d6f3b39da"
+    }
+  ],
+  "inspectedGallery": {
+    "source": "https://www.zeitauktion.com/products/omega-speedmaster-racing-chronograph-steel-automatic-men-s-watch-329-30-44-51-04-001-2601133",
+    "at": "2026-10-22T08:55:33.992Z",
+    "images": [
+      {
+        "index": 1,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601133_01_nowm.jpg?v=1774342568",
+        "file": "image-01.jpg",
+        "sha256": "7f83864f82f6d66f0ec1ac78184789eb30cce2d47109f19b08f3b773cb10f7d8",
+        "bytes": 188508
+      },
+      {
+        "index": 2,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601133_02_2k.jpg?v=1774342814",
+        "file": "image-02.jpg",
+        "sha256": "3eab3731805f278f2dcff4922c2c0366351ea0cf1465b6961843c65f5089bed8",
+        "bytes": 334352
+      },
+      {
+        "index": 3,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601133_03_2k.jpg?v=1774342815",
+        "file": "image-03.jpg",
+        "sha256": "c02e6b2ee701f180894670bb45c4a9a7aece75d7d335f6c4b2fe83f142aaa54a",
+        "bytes": 507602
+      },
+      {
+        "index": 4,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601133_04_2k.jpg?v=1774342817",
+        "file": "image-04.jpg",
+        "sha256": "aa9194f45a9953e706c82dd0b9c7733a9d8bf6eef780481bcdfb6d84d0448639",
+        "bytes": 426334
+      },
+      {
+        "index": 5,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601133_01_2k.jpg?v=1774342566",
+        "file": "image-05.jpg",
+        "sha256": "e485580752e0450956f6beb0fb020f3065546294fa2ef656a1c04d914433c7f9",
+        "bytes": 161698
+      },
+      {
+        "index": 6,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601133_05_2k.jpg?v=1774342569",
+        "file": "image-06.jpg",
+        "sha256": "0f0f4721a5422f580947ff8200632445707260c05d501fba54444b5ace93afc4",
+        "bytes": 139210
+      },
+      {
+        "index": 7,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601133_06_2k.jpg?v=1774342818",
+        "file": "image-07.jpg",
+        "sha256": "b70fdea3d5c363f4a1ca883f6a02292542f18ff6f5b1b2bb736d8c3ce4a9db50",
+        "bytes": 153247
+      },
+      {
+        "index": 8,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601133_07_2k.jpg?v=1774342820",
+        "file": "image-08.jpg",
+        "sha256": "9fa762c1003848ee3a01e41ff4fb3673da3712b8481eed6fb57f16b82ca3aabb",
+        "bytes": 151664
+      },
+      {
+        "index": 9,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601133_08_2k.jpg?v=1774342821",
+        "file": "image-09.jpg",
+        "sha256": "415c887242d41eef1bd7fafb22e55c493e75c3e4182083e37a70a48c6278833d",
+        "bytes": 131854
+      },
+      {
+        "index": 10,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601133_09_2k.jpg?v=1774342823",
+        "file": "image-10.jpg",
+        "sha256": "449af9938b0c21c02ef16b2001ad1542fe1fe32fd774c97330565279547823c4",
+        "bytes": 102762
+      },
+      {
+        "index": 11,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601133_10_2k.jpg?v=1774342824",
+        "file": "image-11.jpg",
+        "sha256": "542bc26a9c191cf8a80b84a524172f4c3f1324a4a2537f118fcdb56dc169abd1",
+        "bytes": 153610
+      },
+      {
+        "index": 12,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601133_11_2k.jpg?v=1774342826",
+        "file": "image-12.jpg",
+        "sha256": "0d45dd35e001f29a829bb932e8f7518c2e411836a2d6d306f3b4b331e39a8a08",
+        "bytes": 248023
+      },
+      {
+        "index": 13,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601133_12_2k.jpg?v=1774342827",
+        "file": "image-13.jpg",
+        "sha256": "c9f399e15fd865bb361372c7a7d13ca4adf7de3b18a8f71a0af1bfa0bf753fdd",
+        "bytes": 185231
+      },
+      {
+        "index": 14,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601133_13_2k.jpg?v=1774342829",
+        "file": "image-14.jpg",
+        "sha256": "cadfdd290502dc1cef1182536d4e104e40c4426e5cba14ecaec9bc4d6f3b39da",
+        "bytes": 185614
+      },
+      {
+        "index": 15,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/photoSet_workshop_2k_20260629.jpg?v=1782732100",
+        "file": "image-15.jpg",
+        "sha256": "d7c47c925b681c85c0e05dd124e9a56a9bb373adf9bfc020bad94fe8e2408ebb",
+        "bytes": 257861
+      }
+    ]
+  },
+  "validation": {
+    "actualChrome": "All4entries load/enlarge/credit; external-only1/restored4;390px;exact-reference isolation;no page errors",
+    "authenticatedRefreshRLS": "outstanding",
+    "publication": "pending"
+  }
+}

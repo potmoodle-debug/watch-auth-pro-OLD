@@ -36814,6 +36814,134 @@
         },
         "imageSha256": "bbc50c1237d68258a94d0933e200dca8d481bed6b5bb7250fb9c200c47021ff7"
       }
+    },
+    {
+      "id": "omega-3293044-20261022-front",
+      "brand": "OMEGA",
+      "references": [
+        "329.30.44.51.04.001"
+      ],
+      "representativeFor": [],
+      "variant": "Zeitauktion2601133 exact white-dial steel/steel specimen; seller purchase dating only",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "329.30.44.51.04.001 — White racing dial and steel bracelet",
+      "caption": "Actual exact-reference white racing dial/date6/steel execution. No adjacent suffix or strap inheritance.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601133_01_nowm.jpg?v=1774342568",
+      "source": "https://www.zeitauktion.com/products/omega-speedmaster-racing-chronograph-steel-automatic-men-s-watch-329-30-44-51-04-001-2601133",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original page and actual pixels inspected2026-10-22",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-22T08:57:17.066Z",
+        "loadedAt": "2026-10-22T08:57:17.066Z",
+        "evidence": "Original Omega exact329.30.44.51.04.001 page specifies44.25mmsteel/steel, white racing dial, black ceramic tachymeter bezel, date6,9900automaticchronograph and60h nominal reserve. Original Zeitauktion2601133 identifies that exact reference and supplies15original gallery files; all contact-inspected, full1/12/14 inspected. Front1 shows white racing track, two black-ring subdials, date6, orange Speedmaster and chronograph-hand tip. Rear12 shows fitted movement through sapphire with OMEGA MASTER CO-AXIAL9900 rotor, COLUMN WHEEL and FIFTY-FOUR(54)JEWELS bridge lettering, twin-barrel layout and steel case/bracelet. Seller990054 appears to concatenate9900 and54jewels; it is not accepted as a separate calibre or alias. No opened inner-caseback examination or universal originality conclusion. The same rear12 file serves movement and caseback categories, counted once as a distinct file. Clasp14 shows actual Omega-logo steel clasp but also the exposed movement behind; movement, caseback and clasp must all be suppressed in external-only work. Seller purchase3August2018 is not manufacture date or complete production period; old late2010s–2020s range withheld. Manufacturer ratings and seller5bar ticket do not verify current user-watch pressure resistance, assay, magnetic resistance, service history or component originality. Packaging, register, literature, test ticket and workshop images excluded. No329.33strap, grey/black dial suffix, smaller326, generic Speedmaster, supplier/common9900 or unverified short-reference inheritance. Manufacturer generic calibre image not substituted; dealerRolexfooter ignored.",
+        "imageSha256": "7f83864f82f6d66f0ec1ac78184789eb30cce2d47109f19b08f3b773cb10f7d8",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "id": "omega-3293044-20261022-movement",
+      "brand": "OMEGA",
+      "references": [
+        "329.30.44.51.04.001"
+      ],
+      "representativeFor": [],
+      "variant": "Zeitauktion2601133 exact white-dial steel/steel specimen; seller purchase dating only",
+      "category": "movement",
+      "depictsMovement": true,
+      "title": "329.30.44.51.04.001 — Fitted9900 through sapphire back",
+      "caption": "Actual fitted execution; through-glass movement is exposed. No opened inner stamp, universal hardware originality or interchangeability inferred. Suppressed during external-only inspection.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601133_11_2k.jpg?v=1774342826",
+      "source": "https://www.zeitauktion.com/products/omega-speedmaster-racing-chronograph-steel-automatic-men-s-watch-329-30-44-51-04-001-2601133",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original page and actual pixels inspected2026-10-22",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-22T08:57:17.066Z",
+        "loadedAt": "2026-10-22T08:57:17.066Z",
+        "evidence": "Original Omega exact329.30.44.51.04.001 page specifies44.25mmsteel/steel, white racing dial, black ceramic tachymeter bezel, date6,9900automaticchronograph and60h nominal reserve. Original Zeitauktion2601133 identifies that exact reference and supplies15original gallery files; all contact-inspected, full1/12/14 inspected. Front1 shows white racing track, two black-ring subdials, date6, orange Speedmaster and chronograph-hand tip. Rear12 shows fitted movement through sapphire with OMEGA MASTER CO-AXIAL9900 rotor, COLUMN WHEEL and FIFTY-FOUR(54)JEWELS bridge lettering, twin-barrel layout and steel case/bracelet. Seller990054 appears to concatenate9900 and54jewels; it is not accepted as a separate calibre or alias. No opened inner-caseback examination or universal originality conclusion. The same rear12 file serves movement and caseback categories, counted once as a distinct file. Clasp14 shows actual Omega-logo steel clasp but also the exposed movement behind; movement, caseback and clasp must all be suppressed in external-only work. Seller purchase3August2018 is not manufacture date or complete production period; old late2010s–2020s range withheld. Manufacturer ratings and seller5bar ticket do not verify current user-watch pressure resistance, assay, magnetic resistance, service history or component originality. Packaging, register, literature, test ticket and workshop images excluded. No329.33strap, grey/black dial suffix, smaller326, generic Speedmaster, supplier/common9900 or unverified short-reference inheritance. Manufacturer generic calibre image not substituted; dealerRolexfooter ignored.",
+        "imageSha256": "0d45dd35e001f29a829bb932e8f7518c2e411836a2d6d306f3b4b331e39a8a08",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "id": "omega-3293044-20261022-caseback",
+      "brand": "OMEGA",
+      "references": [
+        "329.30.44.51.04.001"
+      ],
+      "representativeFor": [],
+      "variant": "Zeitauktion2601133 exact white-dial steel/steel specimen; seller purchase dating only",
+      "category": "caseback",
+      "depictsMovement": true,
+      "title": "329.30.44.51.04.001 — Fitted display back and steel case",
+      "caption": "Actual fitted execution; through-glass movement is exposed. No opened inner stamp, universal hardware originality or interchangeability inferred. Suppressed during external-only inspection.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601133_11_2k.jpg?v=1774342826",
+      "source": "https://www.zeitauktion.com/products/omega-speedmaster-racing-chronograph-steel-automatic-men-s-watch-329-30-44-51-04-001-2601133",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original page and actual pixels inspected2026-10-22",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-22T08:57:17.066Z",
+        "loadedAt": "2026-10-22T08:57:17.066Z",
+        "evidence": "Original Omega exact329.30.44.51.04.001 page specifies44.25mmsteel/steel, white racing dial, black ceramic tachymeter bezel, date6,9900automaticchronograph and60h nominal reserve. Original Zeitauktion2601133 identifies that exact reference and supplies15original gallery files; all contact-inspected, full1/12/14 inspected. Front1 shows white racing track, two black-ring subdials, date6, orange Speedmaster and chronograph-hand tip. Rear12 shows fitted movement through sapphire with OMEGA MASTER CO-AXIAL9900 rotor, COLUMN WHEEL and FIFTY-FOUR(54)JEWELS bridge lettering, twin-barrel layout and steel case/bracelet. Seller990054 appears to concatenate9900 and54jewels; it is not accepted as a separate calibre or alias. No opened inner-caseback examination or universal originality conclusion. The same rear12 file serves movement and caseback categories, counted once as a distinct file. Clasp14 shows actual Omega-logo steel clasp but also the exposed movement behind; movement, caseback and clasp must all be suppressed in external-only work. Seller purchase3August2018 is not manufacture date or complete production period; old late2010s–2020s range withheld. Manufacturer ratings and seller5bar ticket do not verify current user-watch pressure resistance, assay, magnetic resistance, service history or component originality. Packaging, register, literature, test ticket and workshop images excluded. No329.33strap, grey/black dial suffix, smaller326, generic Speedmaster, supplier/common9900 or unverified short-reference inheritance. Manufacturer generic calibre image not substituted; dealerRolexfooter ignored.",
+        "imageSha256": "0d45dd35e001f29a829bb932e8f7518c2e411836a2d6d306f3b4b331e39a8a08",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "id": "omega-3293044-20261022-braceletClasp",
+      "brand": "OMEGA",
+      "references": [
+        "329.30.44.51.04.001"
+      ],
+      "representativeFor": [],
+      "variant": "Zeitauktion2601133 exact white-dial steel/steel specimen; seller purchase dating only",
+      "category": "braceletClasp",
+      "depictsMovement": true,
+      "title": "329.30.44.51.04.001 — Omega-logo steel clasp; movement exposed behind",
+      "caption": "Actual fitted execution; through-glass movement is exposed. No opened inner stamp, universal hardware originality or interchangeability inferred. Suppressed during external-only inspection.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601133_13_2k.jpg?v=1774342829",
+      "source": "https://www.zeitauktion.com/products/omega-speedmaster-racing-chronograph-steel-automatic-men-s-watch-329-30-44-51-04-001-2601133",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original page and actual pixels inspected2026-10-22",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-22T08:57:17.066Z",
+        "loadedAt": "2026-10-22T08:57:17.066Z",
+        "evidence": "Original Omega exact329.30.44.51.04.001 page specifies44.25mmsteel/steel, white racing dial, black ceramic tachymeter bezel, date6,9900automaticchronograph and60h nominal reserve. Original Zeitauktion2601133 identifies that exact reference and supplies15original gallery files; all contact-inspected, full1/12/14 inspected. Front1 shows white racing track, two black-ring subdials, date6, orange Speedmaster and chronograph-hand tip. Rear12 shows fitted movement through sapphire with OMEGA MASTER CO-AXIAL9900 rotor, COLUMN WHEEL and FIFTY-FOUR(54)JEWELS bridge lettering, twin-barrel layout and steel case/bracelet. Seller990054 appears to concatenate9900 and54jewels; it is not accepted as a separate calibre or alias. No opened inner-caseback examination or universal originality conclusion. The same rear12 file serves movement and caseback categories, counted once as a distinct file. Clasp14 shows actual Omega-logo steel clasp but also the exposed movement behind; movement, caseback and clasp must all be suppressed in external-only work. Seller purchase3August2018 is not manufacture date or complete production period; old late2010s–2020s range withheld. Manufacturer ratings and seller5bar ticket do not verify current user-watch pressure resistance, assay, magnetic resistance, service history or component originality. Packaging, register, literature, test ticket and workshop images excluded. No329.33strap, grey/black dial suffix, smaller326, generic Speedmaster, supplier/common9900 or unverified short-reference inheritance. Manufacturer generic calibre image not substituted; dealerRolexfooter ignored.",
+        "imageSha256": "cadfdd290502dc1cef1182536d4e104e40c4426e5cba14ecaec9bc4d6f3b39da",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        }
+      }
     }
   ]
 }
