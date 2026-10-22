@@ -1,0 +1,73 @@
+{
+  "reviewedAt": "2026-10-22T13:18:10.479Z",
+  "scope": "Two original source records; eight identification gaps; zero photographs added",
+  "records": [
+    {
+      "sourceRecordId": "RULE:0038",
+      "reference": "COSMIC 2000",
+      "evidence": "Original Omega archive pages were read directly and archived successfully after the web connector timed out. ST 166.0132 is a 1972 collection entry with a steel press-in case, date function, automatic 1012 and Corfam strap. ST 366.0826 is a separate 1972 collection entry with a steel press-in case, day-date function, automatic 1022 and integrated steel bracelet. These examples establish why Cosmic 2000 alone cannot choose 1012, 1022, 1010, a case, strap or exact photograph. The previously offered generic calibre choices are withheld pending the complete case reference and physical movement identification. The archive collection year is not a complete production period. Original case construction is reference-specific; this family label does not authorize opening a watch. No new image pixels were inspected or photographs accepted in this identification review. All four family categories remain identification gaps, with no borrowed archive image or common-calibre photograph. Manufacturer materials and historic ratings do not authenticate a user watch or establish its current pressure resistance.",
+      "sources": [
+        {
+          "title": "Original Omega cosmic1012 page",
+          "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-cosmic-2000-st-166-0132"
+        },
+        {
+          "title": "Original Omega cosmic1022 page",
+          "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-cosmic-2000-st-366-0826"
+        }
+      ],
+      "originalPageReceipts": [
+        {
+          "key": "cosmic1012",
+          "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-cosmic-2000-st-166-0132",
+          "status": 200,
+          "bytes": 412323,
+          "sha256": "d33276a4275b4b3f68f0c29f777c02295324bff59bbca333848e99704bd0d842",
+          "at": "2026-10-22T13:17:12.114Z"
+        },
+        {
+          "key": "cosmic1022",
+          "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-cosmic-2000-st-366-0826",
+          "status": 200,
+          "bytes": 407267,
+          "sha256": "68b115d4b3055a6b2b84d80e3614630fe85dacaf3285aeffb20b999dd78ffe70",
+          "at": "2026-10-22T13:17:13.179Z"
+        }
+      ]
+    },
+    {
+      "sourceRecordId": "RULE:0040",
+      "reference": "SPEEDMASTER MKII",
+      "evidence": "Original Omega pages were read directly and archived successfully after web connector failures. The 1969 Mark II historical entry identifies ST 145.014, steel, 41.5 mm, mineral glass, bracelet 1162/173 and calibre 861; its account also describes other material and dial executions. The separate exact 327.10.43.50.01.001 product page identifies a later Mark II with automatic Co-Axial 3330, 52-hour nominal reserve and a different case specification. Thus Speedmaster MKII alone cannot establish the stored universal 861, manual winding, approximately 41.7 mm, 48 hours or 1969–1970s period. These specifications are withheld until the complete reference and actual execution are identified. The historical entry is not a universal hardware or production rule. No new image pixels inspected or photographs accepted by this family review; all four categories remain identification gaps. No old/new Mark II, dial, material, case or common-calibre photo inheritance. Historic and current catalogue specifications do not authenticate a user watch or prove its service state.",
+      "sources": [
+        {
+          "title": "Original Omega markii861 page",
+          "url": "https://www.omegawatches.com.hk/en-hk/speedmaster-iconic-since-1957/watch/1969-mark-2"
+        },
+        {
+          "title": "Original Omega markii3330 page",
+          "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-speedmaster-mark-ii-co-axial-chronometer-chronograph-42-4-x-46-2-mm-32710435001001"
+        }
+      ],
+      "originalPageReceipts": [
+        {
+          "key": "markii861",
+          "url": "https://www.omegawatches.com.hk/en-hk/speedmaster-iconic-since-1957/watch/1969-mark-2",
+          "status": 200,
+          "bytes": 46812,
+          "sha256": "cd4c2dd505de494ca12349e9bfaa085d552b62d9c32705c2e067feaab80d0693",
+          "at": "2026-10-22T13:17:11.917Z"
+        },
+        {
+          "key": "markii3330",
+          "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-speedmaster-mark-ii-co-axial-chronometer-chronograph-42-4-x-46-2-mm-32710435001001",
+          "status": 200,
+          "bytes": 476174,
+          "sha256": "6562e67f30c1c0487c3ee470d17b3548f03fbd71a7e4ea8518e0cb3f0242b2dd",
+          "at": "2026-10-22T13:17:12.063Z"
+        }
+      ]
+    }
+  ],
+  "accepted": []
+}
