@@ -1,0 +1,48 @@
+{
+  "reviewedAt": "2026-10-22",
+  "scope": "Three live queue requests; original manufacturer text and saved inspection details reviewed; no new photo verification.",
+  "records": [
+    {
+      "reference": "IW327006",
+      "requestId": "d6a62033-2849-42b0-a1e9-cf592dc13b5a",
+      "family": "Pilot’s Watch Mark XVIII Heritage",
+      "calibre": [
+        "35111"
+      ],
+      "reserve": "42 hours nominal",
+      "caseDetails": "40 mm titanium; 10.8 mm high; 20 mm strap",
+      "url": "https://www.iwc.com/ww-en/past-collections/pilot-watches/iw327006-pilots-watch-mark-xviii-heritage",
+      "conclusion": "IWC exact-reference specification identifies automatic35111, black dial, titanium case and brown calfskin strap. Recorded35111 agrees with the catalogue number. Nominal6bar is not a current pressure test. No complete production interval or component originality established. This answers the missing textual reference mapping, not physical authentication. No newly inspected photograph is added; unsupported image categories remain empty.",
+      "brand": "IWC",
+      "technology": "Mechanical — automatic"
+    },
+    {
+      "reference": "IW388111",
+      "requestId": "dfb8874d-122a-4b27-8421-667015272441",
+      "family": "Pilot’s Watch Chronograph41 — black calfskin",
+      "calibre": [
+        "69385"
+      ],
+      "reserve": "46 hours nominal",
+      "caseDetails": "41 mm stainless steel; black dial and calfskin strap; sapphire back",
+      "url": "https://press.iwc.com/iwc-launches-black-dial-versions-of-the-pilots-watch-chronograph-41/",
+      "conclusion": "IWC27January2023 launch identifies exactIW388111 as black-dial steel chronograph with black calfskin strap and automatic column-wheel69385. Recorded69385 agrees with catalogue number. BraceletIW388113 is separately identified and does not inherit this reference. Nominal10bar is not a current pressure test; launch date does not date the inspected watch. This answers the missing textual reference mapping, not physical authentication. No newly inspected photograph is added; unsupported image categories remain empty.",
+      "brand": "IWC",
+      "technology": "Mechanical — automatic chronograph"
+    },
+    {
+      "reference": "IW371605",
+      "requestId": "6be4e1db-9262-428d-bc45-68d6135296cd",
+      "family": "Portugieser Chronograph — silver-plated dial",
+      "calibre": [
+        "69355"
+      ],
+      "reserve": "46 hours nominal",
+      "caseDetails": "41 mm stainless steel; 13 mm high; 20 mm strap",
+      "url": "https://www.iwc.com/tw-en/watches/portugieser/iw371605-portugieser-chronograph",
+      "conclusion": "IWC exact-reference specification identifies automatic69355, silver-plated dial, blue alligator strap and sapphire back. SavedC.69355 retains its original spelling; catalogue prints69355 and the extra prefix is not silently normalized by the matching engine. Confirm the fitted inscription separately. ClaspC21F remains an unverified observation. Nominal3bar is not a current pressure test; full production interval remains unestablished. This answers the missing textual reference mapping, not physical authentication. No newly inspected photograph is added; unsupported image categories remain empty.",
+      "brand": "IWC",
+      "technology": "Mechanical — automatic chronograph"
+    }
+  ]
+}

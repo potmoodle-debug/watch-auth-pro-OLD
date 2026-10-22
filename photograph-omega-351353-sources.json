@@ -1,0 +1,166 @@
+{
+  "reviewedAt": "2026-10-22T13:29:49.402Z",
+  "sourceRecordId": "RULE:0042",
+  "scope": "5verified category entries/5distinct original files;actual local Chrome verified;publication pending",
+  "evidence": "Original Zeitauktion2304125 page and product JSON identify3513.53.00 alongside175.0083/375.0083,39mmsteel,1152automatic chronograph and attributed circa1995. All15original files contact-inspected; full4/9/11/13/14 inspected. Front4 shows textured black dial,large white Arabic numerals,red central chronograph hand/red counter accents,date3 and steel bracelet. Opened13 shows fitted OMEGA1152 rotor,striped automatic assembly,visible balance/regulator,jewels and gear configuration. Closed9 shows Speedmaster hippocampus medallion and850endlink marks. Separate inner11 visibly reads1750083/3750083 with Omega/acier inoxydable branding and service scratches; these photographed case marks do not establish new semantic aliases or applicability to every case with those numbers. Clasp14 has Omega-symbol folding steel clasp with closed back behind. Five category entries use five distinct original files,including two caseback views; only actual movement13 is suppressed in external-only work. Original Sothebys2018lot8029 independently catalogues exact3513.53.00,1152automatic/25jewels,39mmsteel and circa1998,with working-order-at-cataloguing condition but reserve/accuracy untested. Its screw-down closure wording is attributed catalogue text,not a confirmed opening method from this gallery. No universal opening instruction inferred. Dealer circa1995/circa1998 dates do not establish a full production period; old1990s–early2000s range withheld. No inspected source establishes a tested44h reserve,so the previous approximate reserve is not asserted. Source5bar result and seller hardware/originality/condition claims do not establish user-watch pressure resistance,service history,assay or interchangeability. No triple-calendar1151,modularReduced3220,other3513dial/suffix,genericSpeedmaster/common1152 photo or shortened semantic alias inheritance. Packaging/register/workshop media excluded. Web connector could not open Zeitauktion page; original HTML and product JSON were directly read and archived successfully.",
+  "sources": [
+    {
+      "title": "Zeitauktion2304125 original actual opened specimen",
+      "url": "https://www.zeitauktion.com/es/products/omega-speedmaster-cronografo-acero-automatico-reloj-para-caballeros-175-0083-375-0083-3513-53-00-2304125"
+    },
+    {
+      "title": "Sothebys2018 lot8029 original exact-reference catalogue",
+      "url": "https://www.sothebys.com/en/auctions/ecatalogue/2018/watches-online-hk0828/lot.8029.html"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "omega-351353-20261022-front",
+      "category": "front",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2304125_01_2k.jpg?v=1747350484",
+      "sha256": "7c5d612a2248f601a7330243d57e16775c606155d34a748f7fe12234db7cee7f"
+    },
+    {
+      "id": "omega-351353-20261022-movement",
+      "category": "movement",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2304125_13_2k.jpg?v=1747350484",
+      "sha256": "69ad0812281688c23bbfe0b31fab4add88c96441e03cb8fb7dbd2ae3dcc9484f"
+    },
+    {
+      "id": "omega-351353-20261022-caseback",
+      "category": "caseback",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2304125_09_2k.jpg?v=1747350484",
+      "sha256": "15409b83eae5209c7b332b60d204302dd3c6277ec660a5e26843644cab8d8bfc"
+    },
+    {
+      "id": "omega-351353-20261022-inner-back",
+      "category": "caseback",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2304125_11_2k.jpg?v=1747350484",
+      "sha256": "23d6b00c4a4ea1f80279da1325664f8cca3e8c114ee03676ce47dabc2eed56f9"
+    },
+    {
+      "id": "omega-351353-20261022-braceletClasp",
+      "category": "braceletClasp",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2304125_14_2k.jpg?v=1747350484",
+      "sha256": "313a1eb59e597f43556715e1b512aaf75875caaf480dd19d89ef00029e6072f5"
+    }
+  ],
+  "inspectedGallery": {
+    "source": "https://www.zeitauktion.com/es/products/omega-speedmaster-cronografo-acero-automatico-reloj-para-caballeros-175-0083-375-0083-3513-53-00-2304125",
+    "at": "2026-10-22T13:27:28.602Z",
+    "images": [
+      {
+        "index": 1,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2304125_02_2k.jpg?v=1747350484",
+        "file": "image-01.jpg",
+        "sha256": "2f82bc53932ddbacff1f427693a380fe12017e06bce9363b239b3f18611f3220",
+        "bytes": 347993
+      },
+      {
+        "index": 2,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2304125_03_2k.jpg?v=1747350484",
+        "file": "image-02.jpg",
+        "sha256": "160cb4915e7ff15a2e524965c9538a28d5fef4ba08fa8859884cc4799fb629fb",
+        "bytes": 449363
+      },
+      {
+        "index": 3,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2304125_04_2k.jpg?v=1747350484",
+        "file": "image-03.jpg",
+        "sha256": "29f1f1b54328d6df9777134047016b2fa34ac6335c99b24f9e49bc02ef5ffc2d",
+        "bytes": 493232
+      },
+      {
+        "index": 4,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2304125_01_2k.jpg?v=1747350484",
+        "file": "image-04.jpg",
+        "sha256": "7c5d612a2248f601a7330243d57e16775c606155d34a748f7fe12234db7cee7f",
+        "bytes": 191906
+      },
+      {
+        "index": 5,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2304125_05_2k.jpg?v=1747350484",
+        "file": "image-05.jpg",
+        "sha256": "468396b343ddd00d986a8243980b7a53fad728c26a11a13230d89a23ca55eae3",
+        "bytes": 139544
+      },
+      {
+        "index": 6,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2304125_06_2k.jpg?v=1747350484",
+        "file": "image-06.jpg",
+        "sha256": "ea38c95bea956df7cd4f42c8b3751de35031b259607fa93b2ce81b1625b05893",
+        "bytes": 189514
+      },
+      {
+        "index": 7,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2304125_07_2k.jpg?v=1747350484",
+        "file": "image-07.jpg",
+        "sha256": "18301ce5d53554d40a65401df2a9f77dfaaf39fa8c72d0d20cf6919c2286e4af",
+        "bytes": 159878
+      },
+      {
+        "index": 8,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2304125_08_2k.jpg?v=1747350484",
+        "file": "image-08.jpg",
+        "sha256": "eb9d8b590fa08cb28ed7a9c2bf10152ed8ec739ef0fedb9ed0d663dd40edac44",
+        "bytes": 270599
+      },
+      {
+        "index": 9,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2304125_09_2k.jpg?v=1747350484",
+        "file": "image-09.jpg",
+        "sha256": "15409b83eae5209c7b332b60d204302dd3c6277ec660a5e26843644cab8d8bfc",
+        "bytes": 221808
+      },
+      {
+        "index": 10,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2304125_10_2k.jpg?v=1747350484",
+        "file": "image-10.jpg",
+        "sha256": "8077a96ca54a927ba402bc4b9774a67b6138ad97af93f6be22c72ba4b73c11ad",
+        "bytes": 141716
+      },
+      {
+        "index": 11,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2304125_11_2k.jpg?v=1747350484",
+        "file": "image-11.jpg",
+        "sha256": "23d6b00c4a4ea1f80279da1325664f8cca3e8c114ee03676ce47dabc2eed56f9",
+        "bytes": 159993
+      },
+      {
+        "index": 12,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2304125_12_2k.jpg?v=1747350484",
+        "file": "image-12.jpg",
+        "sha256": "d4a644c669dc9b1f332b818ee6eaeb527de212d6e29b1cdbe1121dac5b02b1b0",
+        "bytes": 154070
+      },
+      {
+        "index": 13,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2304125_13_2k.jpg?v=1747350484",
+        "file": "image-13.jpg",
+        "sha256": "69ad0812281688c23bbfe0b31fab4add88c96441e03cb8fb7dbd2ae3dcc9484f",
+        "bytes": 327170
+      },
+      {
+        "index": 14,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2304125_14_2k.jpg?v=1747350484",
+        "file": "image-14.jpg",
+        "sha256": "313a1eb59e597f43556715e1b512aaf75875caaf480dd19d89ef00029e6072f5",
+        "bytes": 201469
+      },
+      {
+        "index": 15,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/photoSet_workshop_2k_20260629.jpg?v=1782732100",
+        "file": "image-15.jpg",
+        "sha256": "d7c47c925b681c85c0e05dd124e9a56a9bb373adf9bfc020bad94fe8e2408ebb",
+        "bytes": 257861
+      }
+    ]
+  },
+  "validation": {
+    "nodeTests": 187,
+    "workflowFixtures": "passed including stored-note copy/filter/fallback and unchanged draft/count;mocked accounts",
+    "actualChrome": "5original entries load/enlarge/credit;external-only4/restored5;390px;case-mark/adjacent-reference isolation;no page errors",
+    "publication": "pending",
+    "authenticatedRefreshRLS": "outstanding"
+  }
+}

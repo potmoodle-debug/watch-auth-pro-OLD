@@ -1488,11 +1488,11 @@
     },
     {
       "pattern": {
-        "source": "^3513.53.00$",
+        "source": "^3513[.]?53[.]?00$",
         "flags": "i"
       },
       "baseReference": "3513.53.00",
-      "family": "Speedmaster Mark 40 / Automatic Date",
+      "family": "Speedmaster Automatic Date — 3513.53.00",
       "size": "39 mm",
       "calibre": [
         "1152",
@@ -1500,13 +1500,25 @@
       ],
       "calibreDisplay": "1152",
       "technology": "Automatic chronograph",
-      "reserve": "approximately 44 hours",
-      "production": "1990s–early 2000s",
-      "notes": "Researched mapping from the v2.83.0 missing-reference export.",
-      "source": "Omega/reference specialist records",
-      "confidence": "High confidence",
+      "reserve": "Not independently established in the inspected source set",
+      "production": "Complete manufacture period not established; source circa1995/circa1998 attributed only",
+      "notes": "Original Zeitauktion2304125 page and product JSON identify3513.53.00 alongside175.0083/375.0083,39mmsteel,1152automatic chronograph and attributed circa1995. All15original files contact-inspected; full4/9/11/13/14 inspected. Front4 shows textured black dial,large white Arabic numerals,red central chronograph hand/red counter accents,date3 and steel bracelet. Opened13 shows fitted OMEGA1152 rotor,striped automatic assembly,visible balance/regulator,jewels and gear configuration. Closed9 shows Speedmaster hippocampus medallion and850endlink marks. Separate inner11 visibly reads1750083/3750083 with Omega/acier inoxydable branding and service scratches; these photographed case marks do not establish new semantic aliases or applicability to every case with those numbers. Clasp14 has Omega-symbol folding steel clasp with closed back behind. Five category entries use five distinct original files,including two caseback views; only actual movement13 is suppressed in external-only work. Original Sothebys2018lot8029 independently catalogues exact3513.53.00,1152automatic/25jewels,39mmsteel and circa1998,with working-order-at-cataloguing condition but reserve/accuracy untested. Its screw-down closure wording is attributed catalogue text,not a confirmed opening method from this gallery. No universal opening instruction inferred. Dealer circa1995/circa1998 dates do not establish a full production period; old1990s–early2000s range withheld. No inspected source establishes a tested44h reserve,so the previous approximate reserve is not asserted. Source5bar result and seller hardware/originality/condition claims do not establish user-watch pressure resistance,service history,assay or interchangeability. No triple-calendar1151,modularReduced3220,other3513dial/suffix,genericSpeedmaster/common1152 photo or shortened semantic alias inheritance. Packaging/register/workshop media excluded. Web connector could not open Zeitauktion page; original HTML and product JSON were directly read and archived successfully.",
+      "source": "Original exact-reference opened specimen and auction catalogue inspected",
+      "confidence": "Exact specimen pixels and fitted1152 inspected; hardware and dating limits documented",
       "brand": "Omega",
-      "importOrder": 41
+      "importOrder": 41,
+      "sourceUrl": "https://www.zeitauktion.com/es/products/omega-speedmaster-cronografo-acero-automatico-reloj-para-caballeros-175-0083-375-0083-3513-53-00-2304125",
+      "sources": [
+        {
+          "title": "Zeitauktion2304125 original actual opened specimen",
+          "url": "https://www.zeitauktion.com/es/products/omega-speedmaster-cronografo-acero-automatico-reloj-para-caballeros-175-0083-375-0083-3513-53-00-2304125"
+        },
+        {
+          "title": "Sothebys2018 lot8029 original exact-reference catalogue",
+          "url": "https://www.sothebys.com/en/auctions/ecatalogue/2018/watches-online-hk0828/lot.8029.html"
+        }
+      ],
+      "researchReviewedAt": "2026-10-22"
     },
     {
       "pattern": {
@@ -1523,11 +1535,24 @@
       "calibreDisplay": "1861",
       "technology": "Manual-wind chronograph",
       "reserve": "48 hours",
-      "notes": "Researched exact/base-reference mapping from the v2.76.0 missing-reference export.",
-      "source": "Manufacturer and specialist reference records",
-      "confidence": "High confidence",
+      "notes": "Original Omega exact522.30.42.30.06.001 page specifies42mm steel case/bracelet, sandblasted light-grey dial, rhodium-plated hands,18K white-gold applied indexes, red anodized aluminium tachymeter ring, embossed Tokyo2020 Olympic back, manual1861 and48h nominal reserve;2020-piece edition. Original Zeitauktion2600706 HTML/product JSON independently identifies exact reference, manual1861,steel and attributed circa2019; full production period not established. All16 original gallery files contact-inspected; full5/12/14/15 pixels inspected. Front5 shows light-grey three-register dial, red Speedmaster text and central-hand tip, red tachymeter ring and steel bracelet. Closed12 shows embossed Olympic rings/Tokyo2020 emblem, LIMITED EDITION205/2020 and endlink STZ006272/HJC11 marks. These are this specimen markings, not required serial/endlink values for every watch. Clasp14 shows Omega-branded brushed folding steel clasp, push-buttons and closed back behind. Opened15 shows rotorless manual chronograph architecture, visible balance, jewels, gears and lever layout, OMEGA/SWISS/EIGHTEEN18JEWELS bridge markings; fitted1861 attribution is supported by both original catalogues, not a separately readable1861 stamp in this photograph. Four categories/four distinct original files; only opened movement15 is suppressed in external-only work. Manufacturer page malformed thickness1.7mm is withheld rather than corrected by guess. Dealer circa2019 is attributed only;2020 edition name does not date each specimen. Nominal50m/5bar, dealer condition/function and current generic warranty banners do not establish user-watch water resistance, service, warranty or originality. No other Tokyo dial/metal/suffix, other Speedmaster or common1861 photo inheritance. Packaging/register/test slip/workshop media excluded. Web connector could not open dealer page; original HTML/product JSON directly read and archived.",
+      "source": "Original Omega exact specification and actual opened specimen inspected",
+      "confidence": "Exact specimen photographs inspected; movement attribution and hardware limits recorded",
       "brand": "Omega",
-      "importOrder": 42
+      "importOrder": 42,
+      "production": "Full production period not established; dealer circa2019 attributed only",
+      "sources": [
+        {
+          "title": "Omega original exact Tokyo2020 specification",
+          "url": "https://www.omegawatches.jp/watch-omega-speedmaster-anniversary-series-chronograph-42-mm-52230423006001"
+        },
+        {
+          "title": "Zeitauktion2600706 original opened specimen",
+          "url": "https://www.zeitauktion.com/products/omega-speedmaster-chronograph-steel-manual-winding-men-s-watch-522-30-42-30-06-001-limited-2600706"
+        }
+      ],
+      "sourceUrl": "https://www.zeitauktion.com/products/omega-speedmaster-chronograph-steel-manual-winding-men-s-watch-522-30-42-30-06-001-limited-2600706",
+      "researchReviewedAt": "2026-10-22"
     },
     {
       "pattern": {

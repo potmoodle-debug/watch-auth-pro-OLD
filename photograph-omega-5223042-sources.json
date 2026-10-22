@@ -1,0 +1,160 @@
+{
+  "reviewedAt": "2026-10-22T13:38:45.282Z",
+  "sourceRecordId": "RULE:0043",
+  "scope": "Four categories/four original files; browser/publication pending",
+  "evidence": "Original Omega exact522.30.42.30.06.001 page specifies42mm steel case/bracelet, sandblasted light-grey dial, rhodium-plated hands,18K white-gold applied indexes, red anodized aluminium tachymeter ring, embossed Tokyo2020 Olympic back, manual1861 and48h nominal reserve;2020-piece edition. Original Zeitauktion2600706 HTML/product JSON independently identifies exact reference, manual1861,steel and attributed circa2019; full production period not established. All16 original gallery files contact-inspected; full5/12/14/15 pixels inspected. Front5 shows light-grey three-register dial, red Speedmaster text and central-hand tip, red tachymeter ring and steel bracelet. Closed12 shows embossed Olympic rings/Tokyo2020 emblem, LIMITED EDITION205/2020 and endlink STZ006272/HJC11 marks. These are this specimen markings, not required serial/endlink values for every watch. Clasp14 shows Omega-branded brushed folding steel clasp, push-buttons and closed back behind. Opened15 shows rotorless manual chronograph architecture, visible balance, jewels, gears and lever layout, OMEGA/SWISS/EIGHTEEN18JEWELS bridge markings; fitted1861 attribution is supported by both original catalogues, not a separately readable1861 stamp in this photograph. Four categories/four distinct original files; only opened movement15 is suppressed in external-only work. Manufacturer page malformed thickness1.7mm is withheld rather than corrected by guess. Dealer circa2019 is attributed only;2020 edition name does not date each specimen. Nominal50m/5bar, dealer condition/function and current generic warranty banners do not establish user-watch water resistance, service, warranty or originality. No other Tokyo dial/metal/suffix, other Speedmaster or common1861 photo inheritance. Packaging/register/test slip/workshop media excluded. Web connector could not open dealer page; original HTML/product JSON directly read and archived.",
+  "sources": [
+    {
+      "title": "Omega original exact Tokyo2020 specification",
+      "url": "https://www.omegawatches.jp/watch-omega-speedmaster-anniversary-series-chronograph-42-mm-52230423006001"
+    },
+    {
+      "title": "Zeitauktion2600706 original opened specimen",
+      "url": "https://www.zeitauktion.com/products/omega-speedmaster-chronograph-steel-manual-winding-men-s-watch-522-30-42-30-06-001-limited-2600706"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "omega-5223042-20261022-front",
+      "category": "front",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2600706_01_2k.jpg?v=1771503696",
+      "sha256": "a3384fdf7919a8730aa0743e08f55043998aedb770abe2823b32c150c6ae6d65"
+    },
+    {
+      "id": "omega-5223042-20261022-movement",
+      "category": "movement",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2600706_14_2k.jpg?v=1771504105",
+      "sha256": "17cfdf04cf6a6c00bf81b33a6127f9dc8bd771ab96c72c6bcace871e45d8cb74"
+    },
+    {
+      "id": "omega-5223042-20261022-caseback",
+      "category": "caseback",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2600706_11_2k.jpg?v=1771503712",
+      "sha256": "d4641e6b41458c19941c89e96aacacf2f889235f1a774a61a4c2917994774699"
+    },
+    {
+      "id": "omega-5223042-20261022-braceletClasp",
+      "category": "braceletClasp",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2600706_13_2k.jpg?v=1771503715",
+      "sha256": "c173c6df7a7a1d818df45ab32de12b405a70f934ffe94ca3883b769850de4f9d"
+    }
+  ],
+  "inspectedGallery": {
+    "source": "https://www.zeitauktion.com/products/omega-speedmaster-chronograph-steel-manual-winding-men-s-watch-522-30-42-30-06-001-limited-2600706",
+    "at": "2026-10-22T13:32:14.628Z",
+    "images": [
+      {
+        "index": 1,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2600706_01_nowm.jpg?v=1771503698",
+        "file": "image-01.jpg",
+        "sha256": "819650dc4d18a931685b84d072bcc48246317367a4975e5f15c05b2be8a89603",
+        "bytes": 165688
+      },
+      {
+        "index": 2,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2600706_02_2k.jpg?v=1771503699",
+        "file": "image-02.jpg",
+        "sha256": "c4f47aa51ab246c19a4da43f4023db7c9b21ad60f0c584d24b38ee057f80da5d",
+        "bytes": 334661
+      },
+      {
+        "index": 3,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2600706_03_2k.jpg?v=1771503701",
+        "file": "image-03.jpg",
+        "sha256": "60fc4a7d6ceb3bc6de99645214bfa4212bd253396e9a541855746fdd6ec2f599",
+        "bytes": 490692
+      },
+      {
+        "index": 4,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2600706_04_2k.jpg?v=1771503702",
+        "file": "image-04.jpg",
+        "sha256": "680997e1a54e92fed5d7706b72cdba8896b2ff133dba8fb0cb131aa2770b4a13",
+        "bytes": 423780
+      },
+      {
+        "index": 5,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2600706_01_2k.jpg?v=1771503696",
+        "file": "image-05.jpg",
+        "sha256": "a3384fdf7919a8730aa0743e08f55043998aedb770abe2823b32c150c6ae6d65",
+        "bytes": 149119
+      },
+      {
+        "index": 6,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2600706_05_2k.jpg?v=1771503704",
+        "file": "image-06.jpg",
+        "sha256": "0f0f4721a5422f580947ff8200632445707260c05d501fba54444b5ace93afc4",
+        "bytes": 139210
+      },
+      {
+        "index": 7,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2600706_06_2k.jpg?v=1771503705",
+        "file": "image-07.jpg",
+        "sha256": "5c11bea1063306eaded4ef16df5a4d833a790259059803f83b48224af7cbfe64",
+        "bytes": 160456
+      },
+      {
+        "index": 8,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2600706_07_2k.jpg?v=1771503707",
+        "file": "image-08.jpg",
+        "sha256": "97d8789687d5445ae68d9cf55472f41140d660c92d302a1a8b2b985207bef94d",
+        "bytes": 141850
+      },
+      {
+        "index": 9,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2600706_08_2k.jpg?v=1771503708",
+        "file": "image-09.jpg",
+        "sha256": "1cda78182d656cce7280f8be7d36206e6c02c06ae5983bd2328a2cf9a7924d4f",
+        "bytes": 125526
+      },
+      {
+        "index": 10,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2600706_09_2k.jpg?v=1771503709",
+        "file": "image-10.jpg",
+        "sha256": "c691aa99018de99d6dd7e5c185c0dd71b7624d5a4e9374b30ebe7900b9d18076",
+        "bytes": 95460
+      },
+      {
+        "index": 11,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2600706_10_2k.jpg?v=1771503710",
+        "file": "image-11.jpg",
+        "sha256": "542bc26a9c191cf8a80b84a524172f4c3f1324a4a2537f118fcdb56dc169abd1",
+        "bytes": 153610
+      },
+      {
+        "index": 12,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2600706_11_2k.jpg?v=1771503712",
+        "file": "image-12.jpg",
+        "sha256": "d4641e6b41458c19941c89e96aacacf2f889235f1a774a61a4c2917994774699",
+        "bytes": 297573
+      },
+      {
+        "index": 13,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2600706_12_2k.jpg?v=1771503714",
+        "file": "image-13.jpg",
+        "sha256": "2310d2e49082041fcc03dc97dbdb2552d2c2f3e65b0a697ec6e654e8963b6387",
+        "bytes": 168977
+      },
+      {
+        "index": 14,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2600706_13_2k.jpg?v=1771503715",
+        "file": "image-14.jpg",
+        "sha256": "c173c6df7a7a1d818df45ab32de12b405a70f934ffe94ca3883b769850de4f9d",
+        "bytes": 130477
+      },
+      {
+        "index": 15,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2600706_14_2k.jpg?v=1771504105",
+        "file": "image-15.jpg",
+        "sha256": "17cfdf04cf6a6c00bf81b33a6127f9dc8bd771ab96c72c6bcace871e45d8cb74",
+        "bytes": 338880
+      },
+      {
+        "index": 16,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/photoSet_workshop_2k_20260629.jpg?v=1782732100",
+        "file": "image-16.jpg",
+        "sha256": "d7c47c925b681c85c0e05dd124e9a56a9bb373adf9bfc020bad94fe8e2408ebb",
+        "bytes": 257861
+      }
+    ]
+  }
+}
