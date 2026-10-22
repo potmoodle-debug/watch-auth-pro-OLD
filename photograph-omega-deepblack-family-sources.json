@@ -1,0 +1,17 @@
+{
+  "reviewedAt": "2026-10-22T08:58:53.812Z",
+  "sourceRecordId": "RULE:0032",
+  "scope": "Identification limits only; no photographs added; four identification gaps",
+  "evidence": "Original Omega exact215.92.46.22.01.001 product page describes DeepBlack45.5mmblackceramic/rubber GMT with8906,60h and sapphire display back. Original Federation of the Swiss Watch Industry19October2023 announcement instead describes DeepBlackETNZ45.5mmblackceramic chronograph with9900, turquoise countdown indicator, team-logo back and black/turquoise rubber folding clasp. Thus PlanetOceanDeepBlack alone cannot establish8906, GMT function, exact hardware or a complete production period. Both examples being45.5mm does not prove every family execution has that size. Manufacturer ETNZ page direct fetch failed; cached search text was corroborative only, and no claim is made to having read its complete page. No image pixels newly inspected or photos accepted for this name-only record. All four categories are identification gaps pending full reference and actual execution. No generic calibre, neighbouring suffix or shortened-reference inheritance. Manufacturer ratings do not establish user-watch pressure resistance, authenticity or component originality.",
+  "sources": [
+    {
+      "title": "Omega exact GMT215.92.46.22.01.001",
+      "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-planet-ocean-600m-co-axial-master-chronometer-gmt-45-5-mm-21592462201001"
+    },
+    {
+      "title": "Federation of the Swiss Watch Industry original19October2023 ETNZ announcement",
+      "url": "https://www.fhs.swiss/2023_10_19_01_Omega.html"
+    }
+  ],
+  "accepted": []
+}
