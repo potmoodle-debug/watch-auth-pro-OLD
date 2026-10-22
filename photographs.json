@@ -36718,6 +36718,102 @@
         "browserDeliveryVerified": true,
         "browserDeliveryVerifiedAt": "2026-10-22T08:02:04.493Z"
       }
+    },
+    {
+      "id": "omega-251730-20261022-front",
+      "brand": "OMEGA",
+      "references": [
+        "2517.30.00"
+      ],
+      "representativeFor": [],
+      "variant": "Zeitauktion2601440 exact2517.30.00 silver-dial steel quartz specimen; seller dating only",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "2517.30.00 — Silver radial dial and steel bracelet",
+      "caption": "Actual silver radial dial/date3/triangular indices and steel execution. Exact quartz reference only; no automatic or adjacent-dial inheritance.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601440_01_nowm.jpg?v=1774350885",
+      "source": "https://www.zeitauktion.com/de/products/omega-seamaster-aqua-terra-150m-edelstahl-herrenuhr-ref-2517-30-00-b-p-2008-2601440",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected2026-10-22",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-22T08:11:21.168Z",
+        "loadedAt": "2026-10-22T08:11:21.168Z",
+        "evidence": "Original Omega exact2517.30.00 product page identifies AquaTerraquartz39.2mm, silver dial, steel/steel,1538quartz and42month nominal battery specification. This corrects the stored unsupported SeamasterProfessional/41mm mapping. Dotted2517.30.00 and existingcompact25173000 are punctuation-only forms, not a new semantic alias. Manufacturer150m rating and nominal battery life do not establish user-watch pressure resistance, remaining charge or replacement interval. Original Zeitauktion2601440 identifies exact2517.30.00 and supplies15original specimen photographs; all contact-inspected, full1/13/14 inspected. Silver radial dial, triangular applied indices, date3, dark hands, smooth bezel and steel bracelet visible. Closed rear13 has AquaTerra/Seamaster hippocampus engraving and898 endlink stamps; clasp14 has Omega logo and steel links. These marks establish the photographed execution only, not universal hardware originality/interchangeability or assay. No actual opened movement/1538stamp or inner-caseback view in this gallery; movement remains a researched photograph gap. Source10bar ticket is not a150m/user-watch pressure test. Seller2008dating is attributed, not a complete manufacture period; old1990s–2000s range not asserted. Packaging/literature/register/ticket/workshop images excluded. No automatic2503, other2517dial suffix, shortened2517.30, supplier/common1538 or generic movement-image inheritance. Generic manufacturer current-warranty banners not specimen warranty evidence; dealerRolexfooter ignored.",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        },
+        "imageSha256": "22cbf65e364f763bfa2c71c0a6c1065f80df096f557fd65dbf2c87ac93317fe5"
+      }
+    },
+    {
+      "id": "omega-251730-20261022-caseback",
+      "brand": "OMEGA",
+      "references": [
+        "2517.30.00"
+      ],
+      "representativeFor": [],
+      "variant": "Zeitauktion2601440 exact2517.30.00 silver-dial steel quartz specimen; seller dating only",
+      "category": "caseback",
+      "depictsMovement": false,
+      "title": "2517.30.00 — Closed Aqua Terra hippocampus back",
+      "caption": "Actual fitted AquaTerra/Seamaster closed back with898 endlink marks. No inner stamp, fitted1538 view or universal hardware originality inference.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601440_12_2k.jpg?v=1774350902",
+      "source": "https://www.zeitauktion.com/de/products/omega-seamaster-aqua-terra-150m-edelstahl-herrenuhr-ref-2517-30-00-b-p-2008-2601440",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected2026-10-22",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-22T08:11:21.168Z",
+        "loadedAt": "2026-10-22T08:11:21.168Z",
+        "evidence": "Original Omega exact2517.30.00 product page identifies AquaTerraquartz39.2mm, silver dial, steel/steel,1538quartz and42month nominal battery specification. This corrects the stored unsupported SeamasterProfessional/41mm mapping. Dotted2517.30.00 and existingcompact25173000 are punctuation-only forms, not a new semantic alias. Manufacturer150m rating and nominal battery life do not establish user-watch pressure resistance, remaining charge or replacement interval. Original Zeitauktion2601440 identifies exact2517.30.00 and supplies15original specimen photographs; all contact-inspected, full1/13/14 inspected. Silver radial dial, triangular applied indices, date3, dark hands, smooth bezel and steel bracelet visible. Closed rear13 has AquaTerra/Seamaster hippocampus engraving and898 endlink stamps; clasp14 has Omega logo and steel links. These marks establish the photographed execution only, not universal hardware originality/interchangeability or assay. No actual opened movement/1538stamp or inner-caseback view in this gallery; movement remains a researched photograph gap. Source10bar ticket is not a150m/user-watch pressure test. Seller2008dating is attributed, not a complete manufacture period; old1990s–2000s range not asserted. Packaging/literature/register/ticket/workshop images excluded. No automatic2503, other2517dial suffix, shortened2517.30, supplier/common1538 or generic movement-image inheritance. Generic manufacturer current-warranty banners not specimen warranty evidence; dealerRolexfooter ignored.",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        },
+        "imageSha256": "4a19472bd1a4590e1474bba07cafa95f6454645710c7dcbfab062373694df062"
+      }
+    },
+    {
+      "id": "omega-251730-20261022-braceletClasp",
+      "brand": "OMEGA",
+      "references": [
+        "2517.30.00"
+      ],
+      "representativeFor": [],
+      "variant": "Zeitauktion2601440 exact2517.30.00 silver-dial steel quartz specimen; seller dating only",
+      "category": "braceletClasp",
+      "depictsMovement": false,
+      "title": "2517.30.00 — Steel bracelet and Omega-logo clasp",
+      "caption": "Actual Omega-logo steel clasp with closed back behind. No actual movement exposed; inner hardware codes/assay/originality remain unverified.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601440_13_2k.jpg?v=1774350903",
+      "source": "https://www.zeitauktion.com/de/products/omega-seamaster-aqua-terra-150m-edelstahl-herrenuhr-ref-2517-30-00-b-p-2008-2601440",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected2026-10-22",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-22T08:11:21.168Z",
+        "loadedAt": "2026-10-22T08:11:21.168Z",
+        "evidence": "Original Omega exact2517.30.00 product page identifies AquaTerraquartz39.2mm, silver dial, steel/steel,1538quartz and42month nominal battery specification. This corrects the stored unsupported SeamasterProfessional/41mm mapping. Dotted2517.30.00 and existingcompact25173000 are punctuation-only forms, not a new semantic alias. Manufacturer150m rating and nominal battery life do not establish user-watch pressure resistance, remaining charge or replacement interval. Original Zeitauktion2601440 identifies exact2517.30.00 and supplies15original specimen photographs; all contact-inspected, full1/13/14 inspected. Silver radial dial, triangular applied indices, date3, dark hands, smooth bezel and steel bracelet visible. Closed rear13 has AquaTerra/Seamaster hippocampus engraving and898 endlink stamps; clasp14 has Omega logo and steel links. These marks establish the photographed execution only, not universal hardware originality/interchangeability or assay. No actual opened movement/1538stamp or inner-caseback view in this gallery; movement remains a researched photograph gap. Source10bar ticket is not a150m/user-watch pressure test. Seller2008dating is attributed, not a complete manufacture period; old1990s–2000s range not asserted. Packaging/literature/register/ticket/workshop images excluded. No automatic2503, other2517dial suffix, shortened2517.30, supplier/common1538 or generic movement-image inheritance. Generic manufacturer current-warranty banners not specimen warranty evidence; dealerRolexfooter ignored.",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        },
+        "imageSha256": "bbc50c1237d68258a94d0933e200dca8d481bed6b5bb7250fb9c200c47021ff7"
+      }
     }
   ]
 }

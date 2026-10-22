@@ -1077,12 +1077,12 @@
     },
     {
       "pattern": {
-        "source": "^25173000$",
+        "source": "^2517[.]?30[.]?00$",
         "flags": "i"
       },
       "baseReference": "25173000",
-      "family": "Seamaster Professional quartz",
-      "size": "41 mm",
+      "family": "Seamaster Aqua Terra 150M quartz",
+      "size": "39.2 mm",
       "calibre": [
         "1538",
         "CAL1538"
@@ -1090,12 +1090,27 @@
       "calibreDisplay": "1538",
       "technology": "Quartz analogue",
       "reserve": "approximately 42-month battery",
-      "production": "1990s–2000s",
-      "notes": "Researched mapping from the v2.83.0 missing-reference export.",
+      "production": "Complete manufacture period not established; seller2008dating remains attributed",
+      "notes": "Original Omega exact2517.30.00 product page identifies AquaTerraquartz39.2mm, silver dial, steel/steel,1538quartz and42month nominal battery specification. This corrects the stored unsupported SeamasterProfessional/41mm mapping. Dotted2517.30.00 and existingcompact25173000 are punctuation-only forms, not a new semantic alias. Manufacturer150m rating and nominal battery life do not establish user-watch pressure resistance, remaining charge or replacement interval. Original Zeitauktion2601440 identifies exact2517.30.00 and supplies15original specimen photographs; all contact-inspected, full1/13/14 inspected. Silver radial dial, triangular applied indices, date3, dark hands, smooth bezel and steel bracelet visible. Closed rear13 has AquaTerra/Seamaster hippocampus engraving and898 endlink stamps; clasp14 has Omega logo and steel links. These marks establish the photographed execution only, not universal hardware originality/interchangeability or assay. No actual opened movement/1538stamp or inner-caseback view in this gallery; movement remains a researched photograph gap. Source10bar ticket is not a150m/user-watch pressure test. Seller2008dating is attributed, not a complete manufacture period; old1990s–2000s range not asserted. Packaging/literature/register/ticket/workshop images excluded. No automatic2503, other2517dial suffix, shortened2517.30, supplier/common1538 or generic movement-image inheritance. Generic manufacturer current-warranty banners not specimen warranty evidence; dealerRolexfooter ignored.",
       "source": "Omega/reference records",
-      "confidence": "High confidence",
+      "confidence": "Exact manufacturer specification and original specimen pixels inspected; actual movement remains unverified",
       "brand": "Omega",
-      "importOrder": 29
+      "importOrder": 29,
+      "refs": [
+        "2517.30.00"
+      ],
+      "sourceUrl": "https://www.zeitauktion.com/de/products/omega-seamaster-aqua-terra-150m-edelstahl-herrenuhr-ref-2517-30-00-b-p-2008-2601440",
+      "sources": [
+        {
+          "title": "Omega exact2517.30.00 specification",
+          "url": "https://www.omegawatches.jp/watch-omega-seamaster-aqua-terra-quartz-25173000"
+        },
+        {
+          "title": "Zeitauktion2601440 original exact-reference specimen photographs",
+          "url": "https://www.zeitauktion.com/de/products/omega-seamaster-aqua-terra-150m-edelstahl-herrenuhr-ref-2517-30-00-b-p-2008-2601440"
+        }
+      ],
+      "researchReviewedAt": "2026-10-22"
     },
     {
       "pattern": {
@@ -1103,22 +1118,34 @@
         "flags": "i"
       },
       "baseReference": "Aqua Terra Worldtimer",
-      "family": "Seamaster Aqua Terra Worldtimer family",
-      "size": "43 mm",
-      "calibre": [
-        "8938",
-        "CAL8938"
-      ],
-      "calibreDisplay": "8938",
-      "technology": "Automatic Co-Axial Master Chronometer worldtimer",
-      "reserve": "60 hours",
-      "production": "2017–present family",
-      "notes": "Model name only; exact reference determines steel/titanium/strap configuration.",
-      "source": "Omega official Worldtimer records",
-      "confidence": "Family guidance only",
+      "family": "Seamaster Aqua Terra Worldtimer — exact reference required",
+      "size": "Reference-specific; complete case reference required",
+      "calibre": [],
+      "calibreDisplay": "Not established — enter the complete case reference",
+      "technology": "Reference-dependent; confirm exact execution",
+      "reserve": "Not established from the family name",
+      "production": "Not established from the family name",
+      "notes": "Original Omega 16 May 2023 announcement describes three titanium/steel Worldtimer models with calibre 8938. Original manufacturer exact 220.93.43.22.99.001 page instead specifies a platinum-gold case, leather strap/platinum-gold clasp and calibre 8939. Therefore the stored family name cannot establish 8938, material, hardware, full production period or an exact photograph. Both cited examples are 43 mm, which does not prove every family execution has that size. These pages were read for identification limits only; no new image pixels or gallery assets are claimed reviewed or accepted. All four family photograph categories remain identification gaps until the complete case reference and execution are established. No neighbouring reference, abbreviated alias or common-calibre image inherited. Manufacturer specifications do not authenticate a user watch.",
+      "source": "Original Omega manufacturer pages reviewed for identification limits",
+      "confidence": "Reviewed family-name limit; exact case identification remains open",
       "manualReview": true,
       "brand": "Omega",
-      "importOrder": 30
+      "importOrder": 30,
+      "sourceUrl": "https://press.omegawatches.com/seamaster-aqua-terra-worldtimer-2023/",
+      "sources": [
+        {
+          "title": "Omega 2023 Worldtimer announcement",
+          "url": "https://press.omegawatches.com/seamaster-aqua-terra-worldtimer-2023/"
+        },
+        {
+          "title": "Omega exact platinum Worldtimer 220.93.43.22.99.001",
+          "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-aqua-terra-150m-co-axial-master-chronometer-gmt-worldtimer-43-mm-22093432299001"
+        }
+      ],
+      "collectionOnly": true,
+      "exactReferenceOnly": true,
+      "researchReviewedAt": "2026-10-22",
+      "lookupScope": "Name-only guidance; complete reference and physical execution required"
     },
     {
       "pattern": {
