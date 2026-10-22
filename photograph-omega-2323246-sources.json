@@ -1,0 +1,75 @@
+{
+  "reviewedAt": "2026-10-22T09:17:36.812Z",
+  "sourceRecordId": "RULE:0036",
+  "scope": "4verified category entries/2distinct original files; actual local Chrome verified; publication pending",
+  "evidence": "Original Kingsroad/Zetton used7977 page identifies exact232.32.46.21.01.001,45.5mmsteel, automatic, black dial and rubber strap. All three original640x640files inspected at native resolution: front1 orange bezel/strap, orange6/9/12, date3, broad-arrow hands and no chronograph counters; collage2 includes fitted display back/movement and folding clasp; packaging3 has reference23232462101001 and calibre8500 pictogram, warranty date2012.8.11. Packaging corroborates the seller reference/calibre but is not accepted as a gallery specimen or proof of manufacture date or authenticity. Movement image is a small through-glass panel in original multi-view collage; rotor wording/decoration and automatic layout visible, but fine stamp, escapement, balance-spring, service and opened inner-caseback examination remain unverified. No invented high-resolution detail or universal execution inference. The same actual collage2 is used for movement,caseback and clasp categories and counted once as a distinct file. Since the collage exposes movement, all three categories must be suppressed in external-only mode. Clasp shape and logo document this photographed assembly only; inner codes/material assay/originality/interchangeability remain unverified. Dealer chronograph wording conflicts with the visible three-hand/date execution and is not adopted. Indexed original Jomashop retail text corroborates8500/60h and describes orange aluminium ring; direct page open returned only a JavaScript prompt. This is indexed-text corroboration, not a full current-page inspection. Material description attributed, not proved from colour. Korean manufacturer page timed out and is not treated as read. Old2010sfull production range not asserted;2012warranty date attributed only. Dealer600m/refinishing/warranty claims and ratings do not establish current user-watch pressure resistance or authenticity. No232.30steel-bracelet,other dial/suffix,smaller case,genericPlanetOcean,common8500 or neighbouring-reference inheritance; original literal-dot regex escaped. No semantic alias added.",
+  "sources": [
+    {
+      "title": "Kingsroad/Zetton original exact used7977 specimen gallery",
+      "url": "https://www.kingsroad.jp/SHOP/used-7977.html"
+    },
+    {
+      "title": "Jomashop exact retail specification",
+      "url": "https://www.jomashop.com/omega-watch-232-32-46-21-01-001.html"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "omega-2323246-20261022-front",
+      "category": "front",
+      "image": "https://image1.shopserve.jp/kingsroad.jp/pic-labo/llimg/used-7977.jpg?t=20191027113845",
+      "sha256": "8fa54baad66c6a0c4f8bd3f9f6a29b5266ba10304e03045ec72f38b96f557426"
+    },
+    {
+      "id": "omega-2323246-20261022-movement",
+      "category": "movement",
+      "image": "https://image1.shopserve.jp/kingsroad.jp/pic-labo/llimg/used-7977a.jpg?t=20191027113908",
+      "sha256": "31ff4f39be3189053b94e7c2a6edb24b5e619e4ab866b00cda1fd3534c6f3431"
+    },
+    {
+      "id": "omega-2323246-20261022-caseback",
+      "category": "caseback",
+      "image": "https://image1.shopserve.jp/kingsroad.jp/pic-labo/llimg/used-7977a.jpg?t=20191027113908",
+      "sha256": "31ff4f39be3189053b94e7c2a6edb24b5e619e4ab866b00cda1fd3534c6f3431"
+    },
+    {
+      "id": "omega-2323246-20261022-braceletClasp",
+      "category": "braceletClasp",
+      "image": "https://image1.shopserve.jp/kingsroad.jp/pic-labo/llimg/used-7977a.jpg?t=20191027113908",
+      "sha256": "31ff4f39be3189053b94e7c2a6edb24b5e619e4ab866b00cda1fd3534c6f3431"
+    }
+  ],
+  "inspectedGallery": {
+    "source": "https://www.kingsroad.jp/SHOP/used-7977.html",
+    "at": "2026-10-22T09:16:14.281Z",
+    "images": [
+      {
+        "index": 1,
+        "url": "https://image1.shopserve.jp/kingsroad.jp/pic-labo/llimg/used-7977.jpg?t=20191027113845",
+        "file": "image-01.jpg",
+        "sha256": "8fa54baad66c6a0c4f8bd3f9f6a29b5266ba10304e03045ec72f38b96f557426",
+        "bytes": 136505
+      },
+      {
+        "index": 2,
+        "url": "https://image1.shopserve.jp/kingsroad.jp/pic-labo/llimg/used-7977a.jpg?t=20191027113908",
+        "file": "image-02.jpg",
+        "sha256": "31ff4f39be3189053b94e7c2a6edb24b5e619e4ab866b00cda1fd3534c6f3431",
+        "bytes": 176541
+      },
+      {
+        "index": 3,
+        "url": "https://image1.shopserve.jp/kingsroad.jp/pic-labo/llimg/used-7977b.jpg?t=20191027113927",
+        "file": "image-03.jpg",
+        "sha256": "d7a78b1db15ebb1885fcfa71d72587344f95f781d10b2bd58d76c33086e51525",
+        "bytes": 134586
+      }
+    ]
+  },
+  "validation": {
+    "nodeTests": 182,
+    "actualChrome": "4entries load/enlarge/credit;external-only1/restored4;390px;exact-reference isolation;no page errors",
+    "publication": "pending",
+    "authenticatedRefreshRLS": "outstanding"
+  }
+}

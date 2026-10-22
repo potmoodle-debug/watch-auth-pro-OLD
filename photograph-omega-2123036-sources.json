@@ -1,0 +1,160 @@
+{
+  "reviewedAt": "2026-10-22T09:21:55.867Z",
+  "sourceRecordId": "RULE:0037",
+  "scope": "4verified categories/4distinct original files; actual local Chrome/mobile visual inspection passed; publication pending",
+  "evidence": "Original Omega exact212.30.36.20.01.002 page confirms36.25mmsteel/steel,blackdial/ceramicbezel,date3,2500automaticCoAxial,48h and foldoverclasp/diverextension. Original Zeitauktion2604787 identifies the exact case reference and supplies15actual gallery files; all contact-inspected, full1/11/13/14 inspected. Front1 shows smooth black dial,redSeamaster/seconds tip,skeleton hands,date3 and steel bracelet. Closed rear11 has hippocampus/Seamaster wave relief. Clasp13 has Omega-logo outer steel clasp and closed caseback behind, with no movement exposed. Opened rear14 shows fitted automatic movement with readable OMEGA2500 rotor,striped rotor/bridges and visible balance/jewel/gear configuration. No claim of universally correct subversion,full escapement validation,service history or inner-caseback stamp: neither generic2500 nor a neighbouring case image is substituted. Four categories use four distinct original files; only movement14 is suppressed in external-only work. Source rounded36mm is distinguished from manufacturer36.25mm; source purchase date unknown and old2010scompleteperiod not established. Dealer reports specimen failed watertightness test; manufacturer300m nominal specification does not override that report or establish current user-watch pressure resistance. Dealer authentication,hardware originality,material,condition and warranty claims remain attributed and do not authenticate the user watch. Inner clasp codes/interchangeability remain unverified. No larger41mm212.30.41,blue suffix,wave-dial predecessor,genericSeamaster,common2500 or semantic-alias inheritance. Packaging,literature,register and workshop media excluded; no PDF pixels claimed reviewed.",
+  "sources": [
+    {
+      "title": "Omega original exact midsize specification",
+      "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-diver-300m-co-axial-chronometer-36-25-mm-21230362001002"
+    },
+    {
+      "title": "Zeitauktion2604787 original actual specimen gallery",
+      "url": "https://www.zeitauktion.com/products/omega-seamaster-steel-automatic-unisex-212-30-36-20-01-002-2604787"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "omega-2123036-20261022-front",
+      "category": "front",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604787_01_nowm.jpg?v=1786519281",
+      "sha256": "2ce0ed7f6aff37e8eb81150b6e7587a4a46f81d513e27ac437465a94c116866f"
+    },
+    {
+      "id": "omega-2123036-20261022-movement",
+      "category": "movement",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604787_13_2k.jpg?v=1786519299",
+      "sha256": "b54ca7092ea65e209988ab1da8bba350cc0252b2b763a2d9a65b09314a8e2318"
+    },
+    {
+      "id": "omega-2123036-20261022-caseback",
+      "category": "caseback",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604787_10_2k.jpg?v=1786519294",
+      "sha256": "45790d040cdd6f4ac35fcc723fe6e9215c1afd5604f1cf8ab28ffc2a44d4700b"
+    },
+    {
+      "id": "omega-2123036-20261022-braceletClasp",
+      "category": "braceletClasp",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604787_12_2k.jpg?v=1786519297",
+      "sha256": "9bbb295b1ee3501c944d974f9c4e31825286119de1fd08be8167c917b6d78899"
+    }
+  ],
+  "inspectedGallery": {
+    "source": "https://www.zeitauktion.com/products/omega-seamaster-steel-automatic-unisex-212-30-36-20-01-002-2604787",
+    "at": "2026-10-22T09:20:36.033Z",
+    "images": [
+      {
+        "index": 1,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604787_01_nowm.jpg?v=1786519281",
+        "file": "image-01.jpg",
+        "sha256": "2ce0ed7f6aff37e8eb81150b6e7587a4a46f81d513e27ac437465a94c116866f",
+        "bytes": 119780
+      },
+      {
+        "index": 2,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604787_02_2k.jpg?v=1786519282",
+        "file": "image-02.jpg",
+        "sha256": "1f9a1ecb27b4a801e1d6fc082c2dbbe1c3e6ae2803cbf0413dcf390479f73be9",
+        "bytes": 259219
+      },
+      {
+        "index": 3,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604787_03_2k.jpg?v=1786519284",
+        "file": "image-03.jpg",
+        "sha256": "4eaa3bcdd142f6a1ffb9f7213ebe2fbeafc06c4d48da0e04f0c6bbdec452e29e",
+        "bytes": 339526
+      },
+      {
+        "index": 4,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604787_04_2k.jpg?v=1786519285",
+        "file": "image-04.jpg",
+        "sha256": "f2983652f0d44bdadf90d3286779e530ac03c491aef379ac3f49d79ad68d07dc",
+        "bytes": 348360
+      },
+      {
+        "index": 5,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604787_01_2k.jpg?v=1786519279",
+        "file": "image-05.jpg",
+        "sha256": "18137ec2a446e2b8678e86bd4152cbb234c87bcc1e919658f219497cd313f953",
+        "bytes": 111207
+      },
+      {
+        "index": 6,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604787_05_2k.jpg?v=1786519285",
+        "file": "image-06.jpg",
+        "sha256": "0f0f4721a5422f580947ff8200632445707260c05d501fba54444b5ace93afc4",
+        "bytes": 139210
+      },
+      {
+        "index": 7,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604787_06_2k.jpg?v=1786519288",
+        "file": "image-07.jpg",
+        "sha256": "9bbaedca3e646ffc760a718b7a501d4e53d14f4044c705e1275061f4785f4177",
+        "bytes": 143159
+      },
+      {
+        "index": 8,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604787_07_2k.jpg?v=1786519289",
+        "file": "image-08.jpg",
+        "sha256": "f87a67773df991ebdb20f787fb0afe8207c044c5784eb59c2213437fc4cc4e98",
+        "bytes": 139309
+      },
+      {
+        "index": 9,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604787_08_2k.jpg?v=1786519291",
+        "file": "image-09.jpg",
+        "sha256": "589fba0b1b45e09515a61fc7bf1a5174e9306600a0ceab406b0608376fc85287",
+        "bytes": 141742
+      },
+      {
+        "index": 10,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604787_09_2k.jpg?v=1786519292",
+        "file": "image-10.jpg",
+        "sha256": "d81af7be8b7f1df133da357e00b78f924687952ec218ebacdcf6f4738abdceb6",
+        "bytes": 154553
+      },
+      {
+        "index": 11,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604787_10_2k.jpg?v=1786519294",
+        "file": "image-11.jpg",
+        "sha256": "45790d040cdd6f4ac35fcc723fe6e9215c1afd5604f1cf8ab28ffc2a44d4700b",
+        "bytes": 247274
+      },
+      {
+        "index": 12,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604787_11_2k.jpg?v=1786519295",
+        "file": "image-12.jpg",
+        "sha256": "311d357a684bb3987fba9799c795d31fc5f6a3fb4a1053d1c1b2abdb59b89abe",
+        "bytes": 157988
+      },
+      {
+        "index": 13,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604787_12_2k.jpg?v=1786519297",
+        "file": "image-13.jpg",
+        "sha256": "9bbb295b1ee3501c944d974f9c4e31825286119de1fd08be8167c917b6d78899",
+        "bytes": 153745
+      },
+      {
+        "index": 14,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604787_13_2k.jpg?v=1786519299",
+        "file": "image-14.jpg",
+        "sha256": "b54ca7092ea65e209988ab1da8bba350cc0252b2b763a2d9a65b09314a8e2318",
+        "bytes": 366832
+      },
+      {
+        "index": 15,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/photoSet_workshop_2k.jpg?v=1789468094",
+        "file": "image-15.jpg",
+        "sha256": "7fc16e9bc4000e8b193333a5a2a697e3228a179be79c1a0e3a5a560a48b97429",
+        "bytes": 323410
+      }
+    ]
+  },
+  "validation": {
+    "nodeTests": 183,
+    "workflowFixtures": "passed; mocked accounts only",
+    "actualChrome": "4original files load/enlarge/credit;external-only3/restored4;exact boundaries;390px after targeted research-grid wrapping fix;mobile screenshot visually inspected;no page errors",
+    "publication": "pending",
+    "authenticatedRefreshRLS": "outstanding"
+  }
+}

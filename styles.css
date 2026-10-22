@@ -78,3 +78,5 @@
 #researchDetailsDialog{width:min(760px,calc(100vw - 32px));max-height:85vh;overflow:auto}#researchDetailsDialog pre,#researchDetailsDialog dd{white-space:pre-wrap;overflow-wrap:anywhere}#researchDetailsDialog dl{margin:1rem 0}#researchDetailsDialog dt{font-weight:700;margin-top:.6rem}#researchDetailsDialog dd{margin-left:0;color:var(--muted,#b9c5d3)}
 
 #researchExportDialog{width:min(800px,calc(100vw - 32px));max-height:85vh;overflow:auto}#researchExportText{width:100%;box-sizing:border-box;white-space:pre;max-height:45vh}
+#bench > .panel, #watchInfo { min-width: 0; }
+#watchInfo { overflow-wrap: anywhere; }
