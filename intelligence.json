@@ -985,12 +985,24 @@
       "calibreDisplay": "8900",
       "technology": "Automatic Co-Axial Master Chronometer",
       "reserve": "60 hours",
-      "production": "2010s–present",
-      "notes": "150 m water resistance.",
+      "production": "Complete manufacture period not established; source2018/2024dating remains attributed",
+      "notes": "Original BobsWatches SKU185678 explicitly identifies220.12.41.21.03.002 and labels actual photography; all6original files contact-inspected, full1 inspected. Actual blue horizontal-teak dial, blue seconds/minute accents, date6 and grey stitched structured rubber with steel end inserts visible. Its rear3 is obscured by strap/stand, so not substituted for clear back evidence. Original WristWorks exact220.12.41.21.03.002 listing supplies10actual specimen images; all contact-inspected, full2/5 inspected. Fitted display back2 visibly reads OmegaMasterCoAxial8900, BarrelOne/BarrelTwo and39jewels, with AquaTerra/150m500ft rim. This is through-glass movement evidence, not an opened inner-caseback examination, physical pressure/magnetic test or originality verdict. Back and movement share one original file and are suppressed in external-only work. Rubber5 has Omega-logo folding clasp with stitched structured rubber, no visible movement; it remains externally visible. Full inner hardware codes/assay/originality are unverified. Both original sources specify41mm/8900/60h; Bobs describes grey structured rubber and WristWorks calls it OEM. Seller2018/2024 dating and warranty claims are attributed, not complete manufacture period or validated user warranty. Uhren2000 two480x640front/side cutouts inspected but not promoted without actual specimen-photo origin. No vertical-teak8500, 38mm8800, steel-bracelet220.10, leather220.13, adjacent rubber suffix, supplier/common8900 or universal hardware inheritance. Rating150m and source condition claims do not establish current user-watch water resistance or authenticity. Packaging/lifestyle views not substituted for component evidence.",
       "source": "Omega/reference records",
-      "confidence": "High",
+      "confidence": "Original exact-reference source specifications and actual pixels inspected; individual period/hardware/service claims unverified",
       "brand": "Omega",
-      "importOrder": 26
+      "importOrder": 26,
+      "sourceUrl": "https://www.bobswatches.com/omega/used-omega-seamaster-steel-aqua-terra-150m-teak-blue-dial.html",
+      "sources": [
+        {
+          "title": "BobsWatches185678 original exact-reference front",
+          "url": "https://www.bobswatches.com/omega/used-omega-seamaster-steel-aqua-terra-150m-teak-blue-dial.html"
+        },
+        {
+          "title": "WristWorks original exact-reference display-back and clasp",
+          "url": "https://wristworks.com.au/products/2018-omega-aqua-terra-150m-box-and-papers-inc-gst"
+        }
+      ],
+      "researchReviewedAt": "2026-10-21"
     },
     {
       "pattern": {
@@ -1007,16 +1019,28 @@
       "technology": "Reference-dependent",
       "reserve": "Reference-specific",
       "production": "multiple generations",
-      "notes": "Model-family text only; exact reference required.",
+      "notes": "SeamasterProfessional is model-family wording, not an exact case reference. Original manufacturer2221.80.00 page explicitly describes1538quartz/41mm and source2405199 exact2210.50.00 describes3313automaticchronograph/45.5mm. Previously full-inspected original fronts in both exact galleries show Professional wording, with different dial/case/hardware and movement requirements. These actual source examples demonstrate why family text cannot select an exact photograph, calibre, material execution, period or hardware. All four family categories intentionally remain researched identity gaps until a complete reference is supplied; no image or technical specification inherited from either example. Existing REFERENCE REQUIRED/manual-review behavior retained.",
       "source": "Omega collection records",
       "confidence": "Family guidance only",
       "manualReview": true,
       "brand": "Omega",
-      "importOrder": 27
+      "importOrder": 27,
+      "sources": [
+        {
+          "title": "Omega exact quartz reference demonstrating family ambiguity",
+          "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-300-m-quartz-22218000"
+        },
+        {
+          "title": "Original exact chronograph specimen demonstrating different execution",
+          "url": "https://www.zeitauktion.com/products/omega-seamaster-chronograph-steel-automatic-men-s-watch-2210-50-00-2405199"
+        }
+      ],
+      "sourceUrl": "https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-300-m-quartz-22218000",
+      "researchReviewedAt": "2026-10-21"
     },
     {
       "pattern": {
-        "source": "^220.10.41.21.10.001$",
+        "source": "^220[.]?10[.]?41[.]?21[.]?10[.]?001$",
         "flags": "i"
       },
       "baseReference": "220.10.41.21.10.001",
@@ -1029,12 +1053,27 @@
       "calibreDisplay": "8900",
       "technology": "Automatic Co-Axial Master Chronometer",
       "reserve": "60 hours",
-      "production": "2020s–present",
-      "notes": "Green dial, steel bracelet.",
+      "production": "Complete manufacture period not established; source purchase date remains attributed",
+      "notes": "Original Zeitauktion2506135 identifies exact220.10.41.21.10.001 and attributes actual specimen photographs to Zeitauktion. All14files contact-inspected; full1/11/13 inspected. Green horizontal-teak dial, applied triangular indices, date6, silver-colour hands/seconds and steel bracelet visible. Fitted display back11 visibly reads OmegaMasterCoAxial8900 with twin-barrel configuration and AquaTerra/150m500ft rim. This is through-glass evidence, not an opened inner-caseback examination or user-watch authenticity verdict. Bracelet13 shows Omega-logo clasp with exposed movement behind; rear/movement/clasp are suppressed in external-only work. VisibleSTZ006003/endlink marks document this source specimen, not universal hardware originality or interchangeability. Manufacturer exact Japanese product page confirms41mmsteel/green/8900automatic/60h and butterfly clasp. HK page timed out, not treated as read; no generic manufacturer calibre image substituted. Source purchase30December2021 is not manufacture date or a complete production period. Dealer15bar/condition/originality claims and manufacturer ratings do not verify current user-watch pressure/magnetic resistance, assay, service history or component originality. No rubber/blue220.12.41.21.03.002, other green size, vertical-teak8500, supplier/common8900 or adjacent retail suffix inheritance. Exact punctuation-only refs and escaped literal-dot pattern prevent wildcard-character matches; no semantic alias added. Packaging/literature/register/workshop views excluded; dealerRolexfooter ignored.",
       "source": "Omega official product sheet",
-      "confidence": "Official / high confidence",
+      "confidence": "Exact manufacturer specification and original pixels inspected; individual period/hardware/service limits apply",
       "brand": "Omega",
-      "importOrder": 28
+      "importOrder": 28,
+      "refs": [
+        "220.10.41.21.10.001"
+      ],
+      "sourceUrl": "https://www.zeitauktion.com/de/products/omega-seamaster-aqua-terra-150m-co-axial-green-ref-220-10-41-21-10-001-b-p-2021-2506135",
+      "sources": [
+        {
+          "title": "Zeitauktion2506135 original exact specimen",
+          "url": "https://www.zeitauktion.com/de/products/omega-seamaster-aqua-terra-150m-co-axial-green-ref-220-10-41-21-10-001-b-p-2021-2506135"
+        },
+        {
+          "title": "Omega exact green AquaTerra technical specification",
+          "url": "https://www.omegawatches.jp/watch-omega-seamaster-aqua-terra-150m-co-axial-master-chronometer-41-mm-22010412110001"
+        }
+      ],
+      "researchReviewedAt": "2026-10-21"
     },
     {
       "pattern": {

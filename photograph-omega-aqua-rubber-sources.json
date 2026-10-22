@@ -1,0 +1,197 @@
+{
+  "reviewedAt": "2026-10-21T15:41:01.019Z",
+  "scope": "One original source record;4browser-verified category entries/3distinct original files.",
+  "sourceRecordId": "RULE:0027",
+  "reference": "220.12.41.21.03.002",
+  "evidence": "Original BobsWatches SKU185678 explicitly identifies220.12.41.21.03.002 and labels actual photography; all6original files contact-inspected, full1 inspected. Actual blue horizontal-teak dial, blue seconds/minute accents, date6 and grey stitched structured rubber with steel end inserts visible. Its rear3 is obscured by strap/stand, so not substituted for clear back evidence. Original WristWorks exact220.12.41.21.03.002 listing supplies10actual specimen images; all contact-inspected, full2/5 inspected. Fitted display back2 visibly reads OmegaMasterCoAxial8900, BarrelOne/BarrelTwo and39jewels, with AquaTerra/150m500ft rim. This is through-glass movement evidence, not an opened inner-caseback examination, physical pressure/magnetic test or originality verdict. Back and movement share one original file and are suppressed in external-only work. Rubber5 has Omega-logo folding clasp with stitched structured rubber, no visible movement; it remains externally visible. Full inner hardware codes/assay/originality are unverified. Both original sources specify41mm/8900/60h; Bobs describes grey structured rubber and WristWorks calls it OEM. Seller2018/2024 dating and warranty claims are attributed, not complete manufacture period or validated user warranty. Uhren2000 two480x640front/side cutouts inspected but not promoted without actual specimen-photo origin. No vertical-teak8500, 38mm8800, steel-bracelet220.10, leather220.13, adjacent rubber suffix, supplier/common8900 or universal hardware inheritance. Rating150m and source condition claims do not establish current user-watch water resistance or authenticity. Packaging/lifestyle views not substituted for component evidence.",
+  "sources": [
+    {
+      "title": "BobsWatches185678 original exact-reference front",
+      "url": "https://www.bobswatches.com/omega/used-omega-seamaster-steel-aqua-terra-150m-teak-blue-dial.html"
+    },
+    {
+      "title": "WristWorks original exact-reference display-back and clasp",
+      "url": "https://wristworks.com.au/products/2018-omega-aqua-terra-150m-box-and-papers-inc-gst"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "omega-aqua-rubber-20261021-front",
+      "category": "front",
+      "image": "https://www.bobswatches.com/omega/images/zUsed-OMEGA-Seamaster-Aqua-Terra-220.12.41.21.03.002-SKU185678.jpg",
+      "sha256": "c561dc98424738480e23afb3b541841ad4a44a3ad47930e1c54fce84cd699e69"
+    },
+    {
+      "id": "omega-aqua-rubber-20261021-movement",
+      "category": "movement",
+      "image": "https://cdn.shopify.com/s/files/1/0801/1032/1972/files/ECF0F873-A909-4F27-925B-E08FE993DB4C.jpg?v=1739509540",
+      "sha256": "b081b45a9228a87bfd0ab0a477758e61e0712c0d10679b82110d50c0af4a4803"
+    },
+    {
+      "id": "omega-aqua-rubber-20261021-caseback",
+      "category": "caseback",
+      "image": "https://cdn.shopify.com/s/files/1/0801/1032/1972/files/ECF0F873-A909-4F27-925B-E08FE993DB4C.jpg?v=1739509540",
+      "sha256": "b081b45a9228a87bfd0ab0a477758e61e0712c0d10679b82110d50c0af4a4803"
+    },
+    {
+      "id": "omega-aqua-rubber-20261021-braceletClasp",
+      "category": "braceletClasp",
+      "image": "https://cdn.shopify.com/s/files/1/0801/1032/1972/files/06DAD72B-0F1A-4182-B758-645927161ACE.jpg?v=1739509539",
+      "sha256": "22978367aa7803d245a7099bdd21be295d840faa2674a01a085405f6a50589ae"
+    }
+  ],
+  "inspectedGalleries": {
+    "front": {
+      "source": "https://www.bobswatches.com/omega/used-omega-seamaster-steel-aqua-terra-150m-teak-blue-dial.html",
+      "at": "2026-10-21T15:39:10.007Z",
+      "title": "Used Omega Seamaster Steel Aqua Terra 150M Teak Blue Dial",
+      "images": [
+        {
+          "index": 1,
+          "url": "https://www.bobswatches.com/omega/images/zUsed-OMEGA-Seamaster-Aqua-Terra-220.12.41.21.03.002-SKU185678.jpg",
+          "file": "image-01.jpg",
+          "sha256": "c561dc98424738480e23afb3b541841ad4a44a3ad47930e1c54fce84cd699e69",
+          "bytes": 355656
+        },
+        {
+          "index": 2,
+          "url": "https://www.bobswatches.com/omega/images/zUsed-OMEGA-Seamaster-Aqua-Terra-220.12.41.21.03.002-Blue-Dial-SKU185678.jpg",
+          "file": "image-02.jpg",
+          "sha256": "eddfe568e4513f85aac4140f9ccc91bb9ed5087f82c8f9c0a34a0b723ef32651",
+          "bytes": 65936
+        },
+        {
+          "index": 3,
+          "url": "https://www.bobswatches.com/omega/images/zUsed-OMEGA-Seamaster-Aqua-Terra-220.12.41.21.03.002-Stainless-Steel-SKU185678.jpg",
+          "file": "image-03.jpg",
+          "sha256": "c8259cbcc567d888791dee287b1a227c9b405517b7ed8e8d5e4174742dec5f12",
+          "bytes": 56846
+        },
+        {
+          "index": 4,
+          "url": "https://www.bobswatches.com/omega/images/zy-185678-07-30-2024.jpg",
+          "file": "image-04.jpg",
+          "sha256": "3cb424806164e8fffa8fa11e61b4bcf1a6794b0498f5515d7d86afdf085221d3",
+          "bytes": 63231
+        },
+        {
+          "index": 5,
+          "url": "https://www.bobswatches.com/omega/images/zUsed-OMEGA-Seamaster-Aqua-Terra-220.12.41.21.03.002-SKU185678w.jpg",
+          "file": "image-05.jpg",
+          "sha256": "d8a451c6f8094996c1877a911971567d63717fcf4a5167e9200cbf4c7cf9aa5d",
+          "bytes": 107441
+        },
+        {
+          "index": 6,
+          "url": "https://www.bobswatches.com/omega/images/zUsed-OMEGA-Seamaster-Aqua-Terra-220.12.41.21.03.002-SKU185678s.jpg",
+          "file": "image-06.jpg",
+          "sha256": "33c456b1573cc965b411ab29d97c1adb2b0ced44084f8fd9d90cc1d83df1766f",
+          "bytes": 94397
+        }
+      ]
+    },
+    "backMovementClasp": {
+      "source": "https://wristworks.com.au/products/2018-omega-aqua-terra-150m-box-and-papers-inc-gst",
+      "at": "2026-10-21T15:39:41.258Z",
+      "images": [
+        {
+          "index": 1,
+          "url": "https://cdn.shopify.com/s/files/1/0801/1032/1972/files/F24A0418-7DC9-48F7-A16F-251CE985EDC9.jpg?v=1739509539",
+          "file": "image-01.jpg",
+          "sha256": "d670d72b1ed8f2c0897322267b758d0da37749cf5fc9f5d53911f9630d3c2d67",
+          "bytes": 1654849
+        },
+        {
+          "index": 2,
+          "url": "https://cdn.shopify.com/s/files/1/0801/1032/1972/files/ECF0F873-A909-4F27-925B-E08FE993DB4C.jpg?v=1739509540",
+          "file": "image-02.jpg",
+          "sha256": "b081b45a9228a87bfd0ab0a477758e61e0712c0d10679b82110d50c0af4a4803",
+          "bytes": 1612570
+        },
+        {
+          "index": 3,
+          "url": "https://cdn.shopify.com/s/files/1/0801/1032/1972/files/A0597A4C-2B21-4AFD-B20C-C3DE27A8F4FD.jpg?v=1739509540",
+          "file": "image-03.jpg",
+          "sha256": "d436fbd3415b00735dc8ecc6b955c679390f1eef8090fdcac3d169989a3685ca",
+          "bytes": 1685986
+        },
+        {
+          "index": 4,
+          "url": "https://cdn.shopify.com/s/files/1/0801/1032/1972/files/C7D2BABA-8483-4934-97BE-7F1E79F915CF.jpg?v=1739509540",
+          "file": "image-04.jpg",
+          "sha256": "cc41515fa38c03594e9205fdd86fc17872a401cc667069b7ac130b75f7898a6e",
+          "bytes": 1568333
+        },
+        {
+          "index": 5,
+          "url": "https://cdn.shopify.com/s/files/1/0801/1032/1972/files/06DAD72B-0F1A-4182-B758-645927161ACE.jpg?v=1739509539",
+          "file": "image-05.jpg",
+          "sha256": "22978367aa7803d245a7099bdd21be295d840faa2674a01a085405f6a50589ae",
+          "bytes": 1437481
+        },
+        {
+          "index": 6,
+          "url": "https://cdn.shopify.com/s/files/1/0801/1032/1972/files/5CBEA783-2573-436E-81C0-066CCDD9C616.jpg?v=1739509540",
+          "file": "image-06.jpg",
+          "sha256": "539942a2051d1819b3544a9e342979aff61ba8fef8323c69d5e95d9e31b3d6fa",
+          "bytes": 1380830
+        },
+        {
+          "index": 7,
+          "url": "https://cdn.shopify.com/s/files/1/0801/1032/1972/files/0CE41721-C3D1-4B2E-A444-9FE181AC4EC8.jpg?v=1739509540",
+          "file": "image-07.jpg",
+          "sha256": "2757eb2828e8f8e684c1a5941b8ff9828efaed2c74c0e3a42429b4b79455d9e7",
+          "bytes": 1326594
+        },
+        {
+          "index": 8,
+          "url": "https://cdn.shopify.com/s/files/1/0801/1032/1972/files/8FA62FBD-2BE9-48DB-9EE7-5C4A511B7EAD.jpg?v=1739509540",
+          "file": "image-08.jpg",
+          "sha256": "8e9424b58fbefeb11c8d2eb82e1a05a2aa81db17bd4763847af0c896eaf48b18",
+          "bytes": 1283240
+        },
+        {
+          "index": 9,
+          "url": "https://cdn.shopify.com/s/files/1/0801/1032/1972/files/033F0F26-8A88-4739-B3C5-EDE0745228D1.jpg?v=1739509540",
+          "file": "image-09.jpg",
+          "sha256": "81cd0f6bfb67e156d3a8598a865396f0321328fee80b5d8ff3f899263fe09cdc",
+          "bytes": 2313855
+        },
+        {
+          "index": 10,
+          "url": "https://cdn.shopify.com/s/files/1/0801/1032/1972/files/799B81F9-8DDF-40AE-A70E-94300EBC8FA5.jpg?v=1739509539",
+          "file": "image-10.jpg",
+          "sha256": "1457ac8bce6aef2eb4729321889b4c119e85df842be52739d9edcade1d79ca49",
+          "bytes": 2022067
+        }
+      ]
+    },
+    "unpromotedCutouts": {
+      "source": "https://www.uhren2000.de/en/products/omega-seamaster-aqua-terra-master-chronometer-220-12-41-21-03-002",
+      "at": "2026-10-21T15:33:22.291Z",
+      "images": [
+        {
+          "index": 1,
+          "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/220-12-41-21-03-002NDr6ExAI4ecE9.jpg?v=1723461893",
+          "file": "image-01.jpg",
+          "sha256": "2b5be72117b4256fb47814d2c7c8e0137d2d3681f93bd8d7ad7cedec5266dfe2",
+          "bytes": 31939
+        },
+        {
+          "index": 2,
+          "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/220-12-41-21-03-002-1f6mzwTNj0TY36.jpg?v=1723461895",
+          "file": "image-02.jpg",
+          "sha256": "4a6dba4ba6dfb32dfdfdb08b4ea05d9982b810a11decbc94e46e869daa37745e",
+          "bytes": 18697
+        }
+      ]
+    }
+  },
+  "validation": {
+    "nodeTests": 174,
+    "workflowFixtures": "Passed; fixture authentication only",
+    "actualChrome": "All4remote entries load/enlarge/credit;8900suggestion; shared rear/movement suppression external-only2/restored4; exact suffix isolation;390px; no page errors",
+    "realAuthenticatedSession": "Outstanding; no authorized session available",
+    "publication": "Pending"
+  }
+}
