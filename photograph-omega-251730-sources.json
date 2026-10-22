@@ -1,0 +1,155 @@
+{
+  "reviewedAt": "2026-10-22T08:11:21.168Z",
+  "scope": "One original source record; 3 verified category entries / 3 distinct files; movement remains a researched gap. Local browser delivery verified; publication pending.",
+  "sourceRecordId": "RULE:0030",
+  "reference": "2517.30.00",
+  "evidence": "Original Omega exact2517.30.00 product page identifies AquaTerraquartz39.2mm, silver dial, steel/steel,1538quartz and42month nominal battery specification. This corrects the stored unsupported SeamasterProfessional/41mm mapping. Dotted2517.30.00 and existingcompact25173000 are punctuation-only forms, not a new semantic alias. Manufacturer150m rating and nominal battery life do not establish user-watch pressure resistance, remaining charge or replacement interval. Original Zeitauktion2601440 identifies exact2517.30.00 and supplies15original specimen photographs; all contact-inspected, full1/13/14 inspected. Silver radial dial, triangular applied indices, date3, dark hands, smooth bezel and steel bracelet visible. Closed rear13 has AquaTerra/Seamaster hippocampus engraving and898 endlink stamps; clasp14 has Omega logo and steel links. These marks establish the photographed execution only, not universal hardware originality/interchangeability or assay. No actual opened movement/1538stamp or inner-caseback view in this gallery; movement remains a researched photograph gap. Source10bar ticket is not a150m/user-watch pressure test. Seller2008dating is attributed, not a complete manufacture period; old1990s–2000s range not asserted. Packaging/literature/register/ticket/workshop images excluded. No automatic2503, other2517dial suffix, shortened2517.30, supplier/common1538 or generic movement-image inheritance. Generic manufacturer current-warranty banners not specimen warranty evidence; dealerRolexfooter ignored.",
+  "sources": [
+    {
+      "title": "Omega exact2517.30.00 specification",
+      "url": "https://www.omegawatches.jp/watch-omega-seamaster-aqua-terra-quartz-25173000"
+    },
+    {
+      "title": "Zeitauktion2601440 original exact-reference specimen photographs",
+      "url": "https://www.zeitauktion.com/de/products/omega-seamaster-aqua-terra-150m-edelstahl-herrenuhr-ref-2517-30-00-b-p-2008-2601440"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "omega-251730-20261022-front",
+      "category": "front",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601440_01_nowm.jpg?v=1774350885",
+      "sha256": "22cbf65e364f763bfa2c71c0a6c1065f80df096f557fd65dbf2c87ac93317fe5"
+    },
+    {
+      "id": "omega-251730-20261022-caseback",
+      "category": "caseback",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601440_12_2k.jpg?v=1774350902",
+      "sha256": "4a19472bd1a4590e1474bba07cafa95f6454645710c7dcbfab062373694df062"
+    },
+    {
+      "id": "omega-251730-20261022-braceletClasp",
+      "category": "braceletClasp",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601440_13_2k.jpg?v=1774350903",
+      "sha256": "bbc50c1237d68258a94d0933e200dca8d481bed6b5bb7250fb9c200c47021ff7"
+    }
+  ],
+  "inspectedGallery": {
+    "source": "https://www.zeitauktion.com/de/products/omega-seamaster-aqua-terra-150m-edelstahl-herrenuhr-ref-2517-30-00-b-p-2008-2601440",
+    "at": "2026-10-22T08:03:08.032Z",
+    "images": [
+      {
+        "index": 1,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601440_01_nowm.jpg?v=1774350885",
+        "file": "image-01.jpg",
+        "sha256": "22cbf65e364f763bfa2c71c0a6c1065f80df096f557fd65dbf2c87ac93317fe5",
+        "bytes": 114885
+      },
+      {
+        "index": 2,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601440_02_2k.jpg?v=1774350886",
+        "file": "image-02.jpg",
+        "sha256": "9353c2752ba4bc67befce00ff66e966d93b3cbdc0ebb068b6766765fb59d4076",
+        "bytes": 253182
+      },
+      {
+        "index": 3,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601440_03_2k.jpg?v=1774350888",
+        "file": "image-03.jpg",
+        "sha256": "d8ad86cf7c7ff8d9a6e870ae1261723307d7c8ca267deb60d7eba0479c6966dd",
+        "bytes": 398591
+      },
+      {
+        "index": 4,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601440_04_2k.jpg?v=1774350890",
+        "file": "image-04.jpg",
+        "sha256": "d5dbf698c7f52341101ed1147a45bca7d81103a71c345e0d61ca7b9f8cf25ba3",
+        "bytes": 404865
+      },
+      {
+        "index": 5,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601440_01_2k.jpg?v=1774350883",
+        "file": "image-05.jpg",
+        "sha256": "099e52bcf460aab43a8b9cd71684b159335422238033df789942872b3413be51",
+        "bytes": 102145
+      },
+      {
+        "index": 6,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601440_05_2k.jpg?v=1774350891",
+        "file": "image-06.jpg",
+        "sha256": "0f0f4721a5422f580947ff8200632445707260c05d501fba54444b5ace93afc4",
+        "bytes": 139210
+      },
+      {
+        "index": 7,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601440_06_2k.jpg?v=1774350892",
+        "file": "image-07.jpg",
+        "sha256": "bf0672ea8b5f350c94513b99e40ac7f5b99be41626b2e105c28c50550152dbb3",
+        "bytes": 103335
+      },
+      {
+        "index": 8,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601440_07_2k.jpg?v=1774350894",
+        "file": "image-08.jpg",
+        "sha256": "df6254e98865cb97991c0249058ad8f9555ece340a706b1dc4480fead6eafe90",
+        "bytes": 99224
+      },
+      {
+        "index": 9,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601440_08_2k.jpg?v=1774350895",
+        "file": "image-09.jpg",
+        "sha256": "44a15a25939f29cd5a9d4ad37b5df2598ecda4b98fd2465d5e20d29d9d38de02",
+        "bytes": 106329
+      },
+      {
+        "index": 10,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601440_09_2k.jpg?v=1774350897",
+        "file": "image-10.jpg",
+        "sha256": "59ed5137ebf05385a1aa85a77c07909624ef69aba5d797c0f4eab79d45b044e9",
+        "bytes": 104352
+      },
+      {
+        "index": 11,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601440_10_2k.jpg?v=1774350898",
+        "file": "image-11.jpg",
+        "sha256": "542bc26a9c191cf8a80b84a524172f4c3f1324a4a2537f118fcdb56dc169abd1",
+        "bytes": 153610
+      },
+      {
+        "index": 12,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601440_11_2k.jpg?v=1774350900",
+        "file": "image-12.jpg",
+        "sha256": "1716d675241afa75ea4e024aa07318b7f9a34435169afe0f8059d862d664ba88",
+        "bytes": 170216
+      },
+      {
+        "index": 13,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601440_12_2k.jpg?v=1774350902",
+        "file": "image-13.jpg",
+        "sha256": "4a19472bd1a4590e1474bba07cafa95f6454645710c7dcbfab062373694df062",
+        "bytes": 197482
+      },
+      {
+        "index": 14,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2601440_13_2k.jpg?v=1774350903",
+        "file": "image-14.jpg",
+        "sha256": "bbc50c1237d68258a94d0933e200dca8d481bed6b5bb7250fb9c200c47021ff7",
+        "bytes": 150988
+      },
+      {
+        "index": 15,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/photoSet_workshop_2k_20260629.jpg?v=1782732100",
+        "file": "image-15.jpg",
+        "sha256": "d7c47c925b681c85c0e05dd124e9a56a9bb373adf9bfc020bad94fe8e2408ebb",
+        "bytes": 257861
+      }
+    ]
+  },
+  "validation": {
+    "nodeTests": 177,
+    "workflowFixtures": "passed; mocked accounts only",
+    "actualChrome": "3 original images loaded/enlarged with credits; exact-reference isolation; external-only 3/restored 3; 390px; no page errors",
+    "liveAuthenticatedRefreshRLS": "outstanding",
+    "publication": "pending"
+  }
+}

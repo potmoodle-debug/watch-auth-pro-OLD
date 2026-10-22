@@ -1,0 +1,17 @@
+{
+  "reviewedAt": "2026-10-22T08:44:57.551Z",
+  "sourceRecordId": "RULE:0031",
+  "scope": "Family identification limits only; zero photographs added; four researched identification gaps",
+  "evidence": "Original Omega 16 May 2023 announcement describes three titanium/steel Worldtimer models with calibre 8938. Original manufacturer exact 220.93.43.22.99.001 page instead specifies a platinum-gold case, leather strap/platinum-gold clasp and calibre 8939. Therefore the stored family name cannot establish 8938, material, hardware, full production period or an exact photograph. Both cited examples are 43 mm, which does not prove every family execution has that size. These pages were read for identification limits only; no new image pixels or gallery assets are claimed reviewed or accepted. All four family photograph categories remain identification gaps until the complete case reference and execution are established. No neighbouring reference, abbreviated alias or common-calibre image inherited. Manufacturer specifications do not authenticate a user watch.",
+  "sources": [
+    {
+      "title": "Omega 2023 Worldtimer announcement",
+      "url": "https://press.omegawatches.com/seamaster-aqua-terra-worldtimer-2023/"
+    },
+    {
+      "title": "Omega exact platinum Worldtimer 220.93.43.22.99.001",
+      "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-aqua-terra-150m-co-axial-master-chronometer-gmt-worldtimer-43-mm-22093432299001"
+    }
+  ],
+  "accepted": []
+}
