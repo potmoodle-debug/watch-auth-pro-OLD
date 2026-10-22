@@ -1,0 +1,174 @@
+{
+  "reviewedAt": "2026-10-21T15:45:00.018Z",
+  "scope": "Two original source records;4browser-verified entries/3distinct files for exact green reference; Professional family retains4identity gaps.",
+  "records": [
+    {
+      "sourceRecordId": "RULE:0029",
+      "reference": "220.10.41.21.10.001",
+      "evidence": "Original Zeitauktion2506135 identifies exact220.10.41.21.10.001 and attributes actual specimen photographs to Zeitauktion. All14files contact-inspected; full1/11/13 inspected. Green horizontal-teak dial, applied triangular indices, date6, silver-colour hands/seconds and steel bracelet visible. Fitted display back11 visibly reads OmegaMasterCoAxial8900 with twin-barrel configuration and AquaTerra/150m500ft rim. This is through-glass evidence, not an opened inner-caseback examination or user-watch authenticity verdict. Bracelet13 shows Omega-logo clasp with exposed movement behind; rear/movement/clasp are suppressed in external-only work. VisibleSTZ006003/endlink marks document this source specimen, not universal hardware originality or interchangeability. Manufacturer exact Japanese product page confirms41mmsteel/green/8900automatic/60h and butterfly clasp. HK page timed out, not treated as read; no generic manufacturer calibre image substituted. Source purchase30December2021 is not manufacture date or a complete production period. Dealer15bar/condition/originality claims and manufacturer ratings do not verify current user-watch pressure/magnetic resistance, assay, service history or component originality. No rubber/blue220.12.41.21.03.002, other green size, vertical-teak8500, supplier/common8900 or adjacent retail suffix inheritance. Exact punctuation-only refs and escaped literal-dot pattern prevent wildcard-character matches; no semantic alias added. Packaging/literature/register/workshop views excluded; dealerRolexfooter ignored.",
+      "sources": [
+        {
+          "title": "Zeitauktion2506135 original exact specimen",
+          "url": "https://www.zeitauktion.com/de/products/omega-seamaster-aqua-terra-150m-co-axial-green-ref-220-10-41-21-10-001-b-p-2021-2506135"
+        },
+        {
+          "title": "Omega exact green AquaTerra technical specification",
+          "url": "https://www.omegawatches.jp/watch-omega-seamaster-aqua-terra-150m-co-axial-master-chronometer-41-mm-22010412110001"
+        }
+      ],
+      "accepted": [
+        {
+          "id": "omega-aqua-green-20261021-front",
+          "category": "front",
+          "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2506135_01_nowm.jpg?v=1762172069",
+          "sha256": "484563eedf9bafe3a5167b08ac92edeb59aad05257367e0c6c037874d87962da"
+        },
+        {
+          "id": "omega-aqua-green-20261021-movement",
+          "category": "movement",
+          "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2506135_10_2k.jpg?v=1762172082",
+          "sha256": "96a2cd98198ed10109981ff6e551b789063f4f5606074e39c5aef08646f52f01"
+        },
+        {
+          "id": "omega-aqua-green-20261021-caseback",
+          "category": "caseback",
+          "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2506135_10_2k.jpg?v=1762172082",
+          "sha256": "96a2cd98198ed10109981ff6e551b789063f4f5606074e39c5aef08646f52f01"
+        },
+        {
+          "id": "omega-aqua-green-20261021-braceletClasp",
+          "category": "braceletClasp",
+          "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2506135_12_2k.jpg?v=1762172085",
+          "sha256": "b936e6323823a24103ad1e7f666f42d9e28dfbe6a5b364674975dcc95a0b763e"
+        }
+      ]
+    },
+    {
+      "sourceRecordId": "RULE:0028",
+      "reference": "Seamaster Professional",
+      "evidence": "SeamasterProfessional is model-family wording, not an exact case reference. Original manufacturer2221.80.00 page explicitly describes1538quartz/41mm and source2405199 exact2210.50.00 describes3313automaticchronograph/45.5mm. Previously full-inspected original fronts in both exact galleries show Professional wording, with different dial/case/hardware and movement requirements. These actual source examples demonstrate why family text cannot select an exact photograph, calibre, material execution, period or hardware. All four family categories intentionally remain researched identity gaps until a complete reference is supplied; no image or technical specification inherited from either example. Existing REFERENCE REQUIRED/manual-review behavior retained.",
+      "sources": [
+        {
+          "title": "Omega exact quartz reference demonstrating family ambiguity",
+          "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-300-m-quartz-22218000"
+        },
+        {
+          "title": "Original exact chronograph specimen demonstrating different execution",
+          "url": "https://www.zeitauktion.com/products/omega-seamaster-chronograph-steel-automatic-men-s-watch-2210-50-00-2405199"
+        }
+      ],
+      "accepted": []
+    }
+  ],
+  "inspectedGallery": {
+    "source": "https://www.zeitauktion.com/de/products/omega-seamaster-aqua-terra-150m-co-axial-green-ref-220-10-41-21-10-001-b-p-2021-2506135",
+    "at": "2026-10-21T15:43:18.730Z",
+    "images": [
+      {
+        "index": 1,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2506135_01_nowm.jpg?v=1762172069",
+        "file": "image-01.jpg",
+        "sha256": "484563eedf9bafe3a5167b08ac92edeb59aad05257367e0c6c037874d87962da",
+        "bytes": 135907
+      },
+      {
+        "index": 2,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2506135_02_2k.jpg?v=1762172070",
+        "file": "image-02.jpg",
+        "sha256": "a66ac04a6ff57b213f0bb448f352993a71a59073a56844b3abfe7be4a13c4322",
+        "bytes": 263408
+      },
+      {
+        "index": 3,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2506135_03_2k.jpg?v=1762172072",
+        "file": "image-03.jpg",
+        "sha256": "1d952755d938d3a9d695ee9dde7b97403292733e47eba92e894c7d82082cd6a8",
+        "bytes": 431564
+      },
+      {
+        "index": 4,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2506135_04_2k.jpg?v=1762172074",
+        "file": "image-04.jpg",
+        "sha256": "cc8b1aab7fa93c009cc442bf28575f88afae7f9bc5e99eb36a17641d07704b1f",
+        "bytes": 336588
+      },
+      {
+        "index": 5,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2506135_01_2k.jpg?v=1762172067",
+        "file": "image-05.jpg",
+        "sha256": "5fa256c94f63b8eb284364f2359f69e3527a69c9b39ed53c444b1bb7518ca5fb",
+        "bytes": 119155
+      },
+      {
+        "index": 6,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2506135_05_2k.jpg?v=1762172075",
+        "file": "image-06.jpg",
+        "sha256": "0f0f4721a5422f580947ff8200632445707260c05d501fba54444b5ace93afc4",
+        "bytes": 139210
+      },
+      {
+        "index": 7,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2506135_06_2k.jpg?v=1762172076",
+        "file": "image-07.jpg",
+        "sha256": "6144f5492df11ab33415b544db87e3b2faae9b6af49c72868ec06f307cb70479",
+        "bytes": 148012
+      },
+      {
+        "index": 8,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2506135_07_2k.jpg?v=1762172078",
+        "file": "image-08.jpg",
+        "sha256": "903f4afce559fad7bcf5b34b5e73882d50349c52a4a81e8a4ac3046726e01263",
+        "bytes": 137727
+      },
+      {
+        "index": 9,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2506135_08_2k.jpg?v=1762172079",
+        "file": "image-09.jpg",
+        "sha256": "29d485639fbe260be920b70bb2dfe956104021eafc84b9c7f94f77d50839b1c4",
+        "bytes": 130117
+      },
+      {
+        "index": 10,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2506135_09_2k.jpg?v=1762172080",
+        "file": "image-10.jpg",
+        "sha256": "542bc26a9c191cf8a80b84a524172f4c3f1324a4a2537f118fcdb56dc169abd1",
+        "bytes": 153610
+      },
+      {
+        "index": 11,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2506135_10_2k.jpg?v=1762172082",
+        "file": "image-11.jpg",
+        "sha256": "96a2cd98198ed10109981ff6e551b789063f4f5606074e39c5aef08646f52f01",
+        "bytes": 227622
+      },
+      {
+        "index": 12,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2506135_11_2k.jpg?v=1762172083",
+        "file": "image-12.jpg",
+        "sha256": "c0f2338961b46e104d734ce6e1cda176565c31244c44ca5dccaeda497ef5b0ef",
+        "bytes": 154040
+      },
+      {
+        "index": 13,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2506135_12_2k.jpg?v=1762172085",
+        "file": "image-13.jpg",
+        "sha256": "b936e6323823a24103ad1e7f666f42d9e28dfbe6a5b364674975dcc95a0b763e",
+        "bytes": 141875
+      },
+      {
+        "index": 14,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/photoSet_workshop_2k_20260629.jpg?v=1782732100",
+        "file": "image-14.jpg",
+        "sha256": "d7c47c925b681c85c0e05dd124e9a56a9bb373adf9bfc020bad94fe8e2408ebb",
+        "bytes": 257861
+      }
+    ]
+  },
+  "validation": {
+    "nodeTests": 176,
+    "workflowFixtures": "Passed; fixture authentication only",
+    "actualChrome": "All4green entries load/enlarge/credit;8900suggestion; external-only1/restored4; exact suffix/wildcard-character/family isolation;390px; no page errors",
+    "realAuthenticatedSession": "Outstanding; no authorized session available",
+    "publication": "Pending"
+  }
+}
