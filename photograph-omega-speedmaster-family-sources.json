@@ -1,0 +1,17 @@
+{
+  "reviewedAt": "2026-10-22T13:09:35.630Z",
+  "sourceRecordId": "RULE:0033",
+  "scope": "Collection identification review;zero photographs added;four identification gaps",
+  "evidence": "Original Sothebys2022lot124 identifies145.012-67Speedmaster,321mechanical/17jewels,steel blackdial and circa1968; source40mmdiameter is retained as catalogue text, with the separately documented Antiquorum42mmdiscrepancy not erased. Original Omega exact329.30.44.51.04.001 page identifies44.25mmsteel/steel white Racing dial,9900automaticchronograph and60h. Both original pages read again for family identification limits. Their exact photographed specimens were previously separately inspected and published; no new image pixels or photographs accepted by this family review. The different cases/calibres/executions demonstrate why Speedmaster alone cannot establish a movement,size,material,complete period or exact gallery. Placeholder REFERENCE REQUIRED is guidance, not a calibre and must not appear as a selectable movement. Complete reference required; no321,9900,3861 or any other calibre inferred. All four family categories remain identification gaps with no borrowed photos. Exact numeric case mappings and their independent matching limits are preserved. Cataloguing and manufacturer specifications do not establish a user-watch authenticity,service state or component originality.",
+  "sources": [
+    {
+      "title": "Sothebys original145.012-67 lot124",
+      "url": "https://www.sothebys.com/en/buy/auction/2022/fine-watches-2/reference-145-012-67-speedmaster-a-stainless-steel"
+    },
+    {
+      "title": "Omega exact Racing329.30.44.51.04.001 specification",
+      "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-speedmaster-racing-co-axial-master-chronometer-chronograph-44-25-mm-32930445104001"
+    }
+  ],
+  "accepted": []
+}

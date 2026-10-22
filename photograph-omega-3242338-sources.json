@@ -1,0 +1,180 @@
+{
+  "reviewedAt": "2026-10-22T13:14:52.604Z",
+  "sourceRecordId": "RULE:0039",
+  "scope": "3verified category entries/2distinct original files;movement researched gap;local Chrome verified;publication pending",
+  "evidence": "Original Omega exact324.23.38.50.02.002 page confirms38mmsteel/Sedna-gold,cappuccino dial with horizontal brown oval subdials,date6,brown aluminium tachymeter ring,taupe-brown leather,closed Seahorse back,3330automatic and52h nominal reserve. Bob’s166296 page explicitly labels actual photography; all6original files contact-inspected,fullfront1 inspected: cream/cappuccino ground,brown oval registers,rose-colour indices/hands,pushers/crown and stitched brown leather. Its oblique rear3 is partly hidden by strap and not substituted for a clear back/clasp. Original GenevaWatchCo OWSWC9 identifies the same exact reference; all5files contact-inspected,full4 inspected: closed hippocampus Speedmaster back,100m/3330rim wording,brown Omega-stamped strap underside and open folding steel clasp. GWC rear4 supplies caseback and clasp categories from one file. Front and rear/clasp are different clearly attributed specimens,not a composite identity or universal hardware originality proof. No actual opened3330 or inner-caseback view in these inspected galleries; printed3330on exterior is not fitted-movement verification. Movement remains a researched gap; generic manufacturer3330 image withheld. Uhrinstinkt4catalogue files contact-inspected but provenance as actual specimen photography unestablished,so none accepted; no CGI/catalogue asset substituted. Manufacturer100m and GWC30m metadata disagreement retained,not converted to pressure evidence. Bob’s2017–2024date range,retailer2026year and MarkWorthingtonMay2018supply are attributed only; old2020sfull production period withheld. Sedna/material descriptions are manufacturer specifications,not colour-based assay; straps,clasp codes,service and originality/interchangeability unverified. No yellow-gold .02.001,diamond-bezel324.28,steel324.30,other size/common3330/family photograph or semantic-alias inheritance. Three categories use two distinct files; all retain closed-back external-only visibility. Packaging/lifestyle and related products excluded. Initial manufacturerZHfetch timed out; ENpage read successfully.",
+  "sources": [
+    {
+      "title": "Omega exact reference specification",
+      "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-speedmaster-38-co-axial-chronometer-chronograph-38-mm-32423385002002"
+    },
+    {
+      "title": "Bob’s Watches actual specimen166296",
+      "url": "https://www.bobswatches.com/omega/omega-speedmaster-38-steel-and-sedna-gold.html"
+    },
+    {
+      "title": "Geneva Watch Co original pre-owned OWSWC9 specimen",
+      "url": "https://genevawatchco.com/products/omega-speedmaster-co-axial-chronograph-automatic-38mm-watch-324-23-38-50-02-002"
+    },
+    {
+      "title": "Uhrinstinkt retail catalogue, not accepted as actual specimen photography",
+      "url": "https://www.uhrinstinkt.de/products/omega-speedmaster-38-co-axial-chronograph-38mm-324-23-38-50-02-002"
+    },
+    {
+      "title": "Mark Worthington W19W6284 attributed May2018 supply date",
+      "url": "https://www.markworthingtonjewellers.co.uk/omega-speedmaster-38mm-324-23-38-50-02-002.html"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "omega-3242338-20261022-front",
+      "category": "front",
+      "image": "https://www.bobswatches.com/cdn-cgi/image/width%3D768%2Cquality%3D85%2Csharpen%3D0.5/omega/images/zUsed-OMEGA-Speedmaster-38-324.23.38.50.02.002-Brown-Dial-SKU166296.jpg",
+      "sha256": "48764068422e4f80b72c5cfb250d0455c35449a96f0ecb76b235f7e7c9690452"
+    },
+    {
+      "id": "omega-3242338-20261022-caseback",
+      "category": "caseback",
+      "image": "https://cdn.shopify.com/s/files/1/0805/2015/1314/files/download-image_3_0af57cda-0287-442b-b234-57bade43aefd.jpg?v=1756485352",
+      "sha256": "746d9ae84b44ff6c45a8925e49e86ba4b7df99e2bedd19187e7af5777b1b703e"
+    },
+    {
+      "id": "omega-3242338-20261022-braceletClasp",
+      "category": "braceletClasp",
+      "image": "https://cdn.shopify.com/s/files/1/0805/2015/1314/files/download-image_3_0af57cda-0287-442b-b234-57bade43aefd.jpg?v=1756485352",
+      "sha256": "746d9ae84b44ff6c45a8925e49e86ba4b7df99e2bedd19187e7af5777b1b703e"
+    }
+  ],
+  "inspectedGalleries": [
+    {
+      "source": "https://www.bobswatches.com/omega/omega-speedmaster-38-steel-and-sedna-gold.html",
+      "at": "2026-10-22T13:12:48.679Z",
+      "images": [
+        {
+          "index": 1,
+          "url": "https://www.bobswatches.com/cdn-cgi/image/width%3D768%2Cquality%3D85%2Csharpen%3D0.5/omega/images/zUsed-OMEGA-Speedmaster-38-324.23.38.50.02.002-Brown-Dial-SKU166296.jpg",
+          "file": "image-01.jpg",
+          "sha256": "48764068422e4f80b72c5cfb250d0455c35449a96f0ecb76b235f7e7c9690452",
+          "bytes": 160657
+        },
+        {
+          "index": 2,
+          "url": "https://www.bobswatches.com/cdn-cgi/image/width%3D768%2Cquality%3D85%2Csharpen%3D0.5/omega/images/zUsed-OMEGA-Speedmaster-38-324.23.38.50.02.002-Steel--Rose-Gold-SKU166296.jpg",
+          "file": "image-02.jpg",
+          "sha256": "7a86b6eb4161ca43480a957ea78111cff8b7c1b5603ae4c212ef81026b12d89b",
+          "bytes": 61557
+        },
+        {
+          "index": 3,
+          "url": "https://www.bobswatches.com/cdn-cgi/image/width%3D768%2Cquality%3D85%2Csharpen%3D0.5/omega/images/zUsed-OMEGA-Speedmaster-38-324.23.38.50.02.002-Leather-Strap-SKU166296.jpg",
+          "file": "image-03.jpg",
+          "sha256": "c88b81004f0caa4f03ad8d98dd42ed11f143db427dc925479f59fe2598bff2d3",
+          "bytes": 48355
+        },
+        {
+          "index": 4,
+          "url": "https://www.bobswatches.com/cdn-cgi/image/width%3D768%2Cquality%3D85%2Csharpen%3D0.5/omega/images/zy-166296.jpg",
+          "file": "image-04.jpg",
+          "sha256": "db851080d1bf0a20e986d79c83e7f967bb5e47c39498369425ab7662c29c58b2",
+          "bytes": 26806
+        },
+        {
+          "index": 5,
+          "url": "https://www.bobswatches.com/cdn-cgi/image/width%3D768%2Cquality%3D85%2Csharpen%3D0.5/omega/images/zUsed-OMEGA-Speedmaster-38-324.23.38.50.02.002-Brown-Dial-SKU166296w.jpg",
+          "file": "image-05.jpg",
+          "sha256": "cd0a7be7b0025fcc0fdfa1ae24e50ede3225bc6793c2fc65ef03646a81b60da5",
+          "bytes": 147455
+        },
+        {
+          "index": 6,
+          "url": "https://www.bobswatches.com/cdn-cgi/image/width%3D768%2Cquality%3D85%2Csharpen%3D0.5/omega/images/zUsed-OMEGA-Speedmaster-38-324.23.38.50.02.002-Brown-Dial-SKU166296s.jpg",
+          "file": "image-06.jpg",
+          "sha256": "1e60b1f5619e72d1635c46b1c3c4267f285c041861315a79ab560b111959c531",
+          "bytes": 77331
+        }
+      ]
+    },
+    {
+      "source": "https://genevawatchco.com/products/omega-speedmaster-co-axial-chronograph-automatic-38mm-watch-324-23-38-50-02-002",
+      "at": "2026-10-22T13:13:27.845Z",
+      "images": [
+        {
+          "index": 1,
+          "url": "https://cdn.shopify.com/s/files/1/0805/2015/1314/files/download-image_4_99c4925c-f475-4ca8-9d4b-543b58dbaf40.jpg?v=1756485324",
+          "file": "image-01.jpg",
+          "sha256": "452ffeff4a8cfcbc47c6cf86fdb798abf0ee8cda240ae462747277ceed9d9f67",
+          "bytes": 305461
+        },
+        {
+          "index": 2,
+          "url": "https://cdn.shopify.com/s/files/1/0805/2015/1314/files/download-image_1_94d388da-7f40-4d8a-8351-eca3642814ce.jpg?v=1756485352",
+          "file": "image-02.jpg",
+          "sha256": "3f151f9119e64317fd8b2d0452ecec17e016e00ebb7c1873a99dbd34f3dc67ab",
+          "bytes": 203165
+        },
+        {
+          "index": 3,
+          "url": "https://cdn.shopify.com/s/files/1/0805/2015/1314/files/download-image_2_a367353e-1e2b-4ca2-8475-120937c74414.jpg?v=1756485352",
+          "file": "image-03.jpg",
+          "sha256": "d9528db8029e16e42a31fe77c973bb936a10563ce59de3c292f5f024784da40d",
+          "bytes": 199576
+        },
+        {
+          "index": 4,
+          "url": "https://cdn.shopify.com/s/files/1/0805/2015/1314/files/download-image_3_0af57cda-0287-442b-b234-57bade43aefd.jpg?v=1756485352",
+          "file": "image-04.jpg",
+          "sha256": "746d9ae84b44ff6c45a8925e49e86ba4b7df99e2bedd19187e7af5777b1b703e",
+          "bytes": 84262
+        },
+        {
+          "index": 5,
+          "url": "https://cdn.shopify.com/s/files/1/0805/2015/1314/files/download-image_bf961013-529b-4640-85f4-75836240a74d.jpg?v=1756485324",
+          "file": "image-05.jpg",
+          "sha256": "f4adbb8e7fb9e1573993aec0d9e1c8099a26da6c749f276716c684f035d128d1",
+          "bytes": 253454
+        }
+      ]
+    }
+  ],
+  "unpromotedRetailGallery": {
+    "source": "https://www.uhrinstinkt.de/products/omega-speedmaster-38-co-axial-chronograph-38mm-324-23-38-50-02-002",
+    "at": "2026-10-22T13:11:39.093Z",
+    "images": [
+      {
+        "index": 1,
+        "url": "https://cdn.shopify.com/s/files/1/0740/2635/2905/files/324.23.38.50.02.002_01_solID_8053857AA55F2081F50A0CA15E21E535_44407f.jpg?v=1770812044",
+        "file": "image-01.jpg",
+        "sha256": "b0fcebfbe68a88dd7244d5518697c9f0a3274e92b7f2cc953b9e7c3ad2ccff2f",
+        "bytes": 356681
+      },
+      {
+        "index": 2,
+        "url": "https://cdn.shopify.com/s/files/1/0740/2635/2905/files/324.23.38.50.02.002_04_solID_9C8D35EAC6F3012F29E281D56C2C5B4D_44408f.jpg?v=1770812044",
+        "file": "image-02.jpg",
+        "sha256": "05af9e320bb7d4d4c548a367603b016540838ac3d7571704dc632fe9ab303bde",
+        "bytes": 104805
+      },
+      {
+        "index": 3,
+        "url": "https://cdn.shopify.com/s/files/1/0740/2635/2905/files/324.23.38.50.02.002_05_solID_175C28CCAFCAF869F552E8CC5D10BD02_44409f.jpg?v=1770812044",
+        "file": "image-03.jpg",
+        "sha256": "a1299a04512b9e980e0d4bda24be5ca561d2e8c6d7bc5eb6ad7b29f5358e5c1f",
+        "bytes": 239755
+      },
+      {
+        "index": 4,
+        "url": "https://cdn.shopify.com/s/files/1/0740/2635/2905/files/324.23.38.50.02.002_03_solID_AD1B82D7EB677A76D9D96968CCCDAD72_44410f.jpg?v=1770812044",
+        "file": "image-04.jpg",
+        "sha256": "a43817f9e1fe9cd576a295a4f963dba769c791ef2d275eda03080d8de00a44b5",
+        "bytes": 150589
+      }
+    ]
+  },
+  "validation": {
+    "nodeTests": 185,
+    "workflowFixtures": "passed including Copy previous note and fallback;mocked accounts",
+    "actualChrome": "3entries load/enlarge with separate Bob/Geneva credits;external-only3/restored3;390px;exact suffix/family isolation;no page errors",
+    "publication": "pending",
+    "authenticatedRefreshRLS": "outstanding"
+  }
+}

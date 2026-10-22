@@ -1187,21 +1187,33 @@
         "flags": "i"
       },
       "baseReference": "Speedmaster",
-      "family": "Speedmaster collection",
-      "size": "Reference-specific",
-      "calibre": [
-        "REFERENCE REQUIRED"
-      ],
-      "calibreDisplay": "REFERENCE REQUIRED",
+      "family": "Speedmaster collection — exact reference required",
+      "size": "Reference-specific; complete case reference required",
+      "calibre": [],
+      "calibreDisplay": "Not established — enter the complete case reference",
       "technology": "Reference-dependent",
-      "reserve": "Reference-specific",
-      "production": "multiple generations",
-      "notes": "Model name alone is insufficient; do not infer calibre 3861 without the exact reference.",
-      "source": "Omega collection records",
-      "confidence": "Family guidance only",
+      "reserve": "Not established from the collection name",
+      "production": "Not established from the collection name",
+      "notes": "Original Sothebys2022lot124 identifies145.012-67Speedmaster,321mechanical/17jewels,steel blackdial and circa1968; source40mmdiameter is retained as catalogue text, with the separately documented Antiquorum42mmdiscrepancy not erased. Original Omega exact329.30.44.51.04.001 page identifies44.25mmsteel/steel white Racing dial,9900automaticchronograph and60h. Both original pages read again for family identification limits. Their exact photographed specimens were previously separately inspected and published; no new image pixels or photographs accepted by this family review. The different cases/calibres/executions demonstrate why Speedmaster alone cannot establish a movement,size,material,complete period or exact gallery. Placeholder REFERENCE REQUIRED is guidance, not a calibre and must not appear as a selectable movement. Complete reference required; no321,9900,3861 or any other calibre inferred. All four family categories remain identification gaps with no borrowed photos. Exact numeric case mappings and their independent matching limits are preserved. Cataloguing and manufacturer specifications do not establish a user-watch authenticity,service state or component originality.",
+      "source": "Original auction and manufacturer pages reviewed for collection identity limits",
+      "confidence": "Reviewed collection-name limit; exact identification remains open",
       "manualReview": true,
       "brand": "Omega",
-      "importOrder": 32
+      "importOrder": 32,
+      "sourceUrl": "https://www.sothebys.com/en/buy/auction/2022/fine-watches-2/reference-145-012-67-speedmaster-a-stainless-steel",
+      "sources": [
+        {
+          "title": "Sothebys original145.012-67 lot124",
+          "url": "https://www.sothebys.com/en/buy/auction/2022/fine-watches-2/reference-145-012-67-speedmaster-a-stainless-steel"
+        },
+        {
+          "title": "Omega exact Racing329.30.44.51.04.001 specification",
+          "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-speedmaster-racing-co-axial-master-chronometer-chronograph-44-25-mm-32930445104001"
+        }
+      ],
+      "collectionOnly": true,
+      "exactReferenceOnly": true,
+      "researchReviewedAt": "2026-10-22"
     },
     {
       "pattern": {
@@ -1344,27 +1356,37 @@
         "flags": "i"
       },
       "baseReference": "COSMIC 2000",
-      "family": "Seamaster Cosmic 2000 family",
-      "size": "Reference-specific",
-      "calibre": [
-        "1012",
-        "1022",
-        "1010"
-      ],
-      "calibreDisplay": "1012",
-      "technology": "Automatic",
-      "reserve": "Reference-specific",
-      "production": "1970s",
-      "notes": "Cosmic 2000 is a collection/family label; movement and exact case reference must be confirmed from the watch.",
-      "source": "Omega historical/reference records",
-      "confidence": "Family guidance only",
+      "family": "Seamaster Cosmic 2000 — exact reference required",
+      "size": "Reference-specific; complete case reference required",
+      "calibre": [],
+      "calibreDisplay": "Not established — enter the complete case reference",
+      "technology": "Reference-dependent; identify the fitted movement",
+      "reserve": "Not established from the family name",
+      "production": "Complete manufacture period not established from the family name",
+      "notes": "Original Omega archive pages were read directly and archived successfully after the web connector timed out. ST 166.0132 is a 1972 collection entry with a steel press-in case, date function, automatic 1012 and Corfam strap. ST 366.0826 is a separate 1972 collection entry with a steel press-in case, day-date function, automatic 1022 and integrated steel bracelet. These examples establish why Cosmic 2000 alone cannot choose 1012, 1022, 1010, a case, strap or exact photograph. The previously offered generic calibre choices are withheld pending the complete case reference and physical movement identification. The archive collection year is not a complete production period. Original case construction is reference-specific; this family label does not authorize opening a watch. No new image pixels were inspected or photographs accepted in this identification review. All four family categories remain identification gaps, with no borrowed archive image or common-calibre photograph. Manufacturer materials and historic ratings do not authenticate a user watch or establish its current pressure resistance.",
+      "source": "Original Omega pages read and archived for identification limits",
+      "confidence": "Reviewed family identification limit; exact watch remains unidentified",
       "manualReview": true,
       "brand": "Omega",
-      "importOrder": 37
+      "importOrder": 37,
+      "sourceUrl": "https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-cosmic-2000-st-166-0132",
+      "sources": [
+        {
+          "title": "Original Omega cosmic1012 page",
+          "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-cosmic-2000-st-166-0132"
+        },
+        {
+          "title": "Original Omega cosmic1022 page",
+          "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-cosmic-2000-st-366-0826"
+        }
+      ],
+      "collectionOnly": true,
+      "exactReferenceOnly": true,
+      "researchReviewedAt": "2026-10-22"
     },
     {
       "pattern": {
-        "source": "^324.23.38.50.02.002$",
+        "source": "^324[.]?23[.]?38[.]?50[.]?02[.]?002$",
         "flags": "i"
       },
       "baseReference": "324.23.38.50.02.002",
@@ -1377,12 +1399,36 @@
       "calibreDisplay": "3330",
       "technology": "Automatic Co-Axial chronograph",
       "reserve": "approximately 52 hours",
-      "production": "2020s",
-      "notes": "Two-tone steel/Sedna-gold configuration on strap.",
-      "source": "Omega/reference records",
-      "confidence": "High confidence",
+      "production": "Complete manufacture period not established; dealer dates remain attributed",
+      "notes": "Original Omega exact324.23.38.50.02.002 page confirms38mmsteel/Sedna-gold,cappuccino dial with horizontal brown oval subdials,date6,brown aluminium tachymeter ring,taupe-brown leather,closed Seahorse back,3330automatic and52h nominal reserve. Bob’s166296 page explicitly labels actual photography; all6original files contact-inspected,fullfront1 inspected: cream/cappuccino ground,brown oval registers,rose-colour indices/hands,pushers/crown and stitched brown leather. Its oblique rear3 is partly hidden by strap and not substituted for a clear back/clasp. Original GenevaWatchCo OWSWC9 identifies the same exact reference; all5files contact-inspected,full4 inspected: closed hippocampus Speedmaster back,100m/3330rim wording,brown Omega-stamped strap underside and open folding steel clasp. GWC rear4 supplies caseback and clasp categories from one file. Front and rear/clasp are different clearly attributed specimens,not a composite identity or universal hardware originality proof. No actual opened3330 or inner-caseback view in these inspected galleries; printed3330on exterior is not fitted-movement verification. Movement remains a researched gap; generic manufacturer3330 image withheld. Uhrinstinkt4catalogue files contact-inspected but provenance as actual specimen photography unestablished,so none accepted; no CGI/catalogue asset substituted. Manufacturer100m and GWC30m metadata disagreement retained,not converted to pressure evidence. Bob’s2017–2024date range,retailer2026year and MarkWorthingtonMay2018supply are attributed only; old2020sfull production period withheld. Sedna/material descriptions are manufacturer specifications,not colour-based assay; straps,clasp codes,service and originality/interchangeability unverified. No yellow-gold .02.001,diamond-bezel324.28,steel324.30,other size/common3330/family photograph or semantic-alias inheritance. Three categories use two distinct files; all retain closed-back external-only visibility. Packaging/lifestyle and related products excluded. Initial manufacturerZHfetch timed out; ENpage read successfully.",
+      "source": "Original manufacturer and exact pre-owned specimen galleries inspected",
+      "confidence": "Exact front/back/clasp pixels inspected; actual fitted3330 remains unverified",
       "brand": "Omega",
-      "importOrder": 38
+      "importOrder": 38,
+      "sourceUrl": "https://www.bobswatches.com/omega/omega-speedmaster-38-steel-and-sedna-gold.html",
+      "sources": [
+        {
+          "title": "Omega exact reference specification",
+          "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-speedmaster-38-co-axial-chronometer-chronograph-38-mm-32423385002002"
+        },
+        {
+          "title": "Bob’s Watches actual specimen166296",
+          "url": "https://www.bobswatches.com/omega/omega-speedmaster-38-steel-and-sedna-gold.html"
+        },
+        {
+          "title": "Geneva Watch Co original pre-owned OWSWC9 specimen",
+          "url": "https://genevawatchco.com/products/omega-speedmaster-co-axial-chronograph-automatic-38mm-watch-324-23-38-50-02-002"
+        },
+        {
+          "title": "Uhrinstinkt retail catalogue, not accepted as actual specimen photography",
+          "url": "https://www.uhrinstinkt.de/products/omega-speedmaster-38-co-axial-chronograph-38mm-324-23-38-50-02-002"
+        },
+        {
+          "title": "Mark Worthington W19W6284 attributed May2018 supply date",
+          "url": "https://www.markworthingtonjewellers.co.uk/omega-speedmaster-38mm-324-23-38-50-02-002.html"
+        }
+      ],
+      "researchReviewedAt": "2026-10-22"
     },
     {
       "pattern": {
@@ -1390,22 +1436,33 @@
         "flags": "i"
       },
       "baseReference": "SPEEDMASTER MKII",
-      "family": "Speedmaster Mark II family",
-      "size": "approximately 41.7 mm",
-      "calibre": [
-        "861",
-        "CAL861"
-      ],
-      "calibreDisplay": "861",
-      "technology": "Manual-wind chronograph",
-      "reserve": "approximately 48 hours",
-      "production": "1969–1970s",
-      "notes": "Exact case reference is still required because Speedmaster Mark II exists in multiple executions.",
-      "source": "Omega historical/reference records",
-      "confidence": "Family guidance only",
+      "family": "Speedmaster Mark II — exact reference required",
+      "size": "Reference-specific; complete case reference required",
+      "calibre": [],
+      "calibreDisplay": "Not established — enter the complete case reference",
+      "technology": "Reference-dependent; identify the fitted movement",
+      "reserve": "Not established from the family name",
+      "production": "Complete manufacture period not established from the family name",
+      "notes": "Original Omega pages were read directly and archived successfully after web connector failures. The 1969 Mark II historical entry identifies ST 145.014, steel, 41.5 mm, mineral glass, bracelet 1162/173 and calibre 861; its account also describes other material and dial executions. The separate exact 327.10.43.50.01.001 product page identifies a later Mark II with automatic Co-Axial 3330, 52-hour nominal reserve and a different case specification. Thus Speedmaster MKII alone cannot establish the stored universal 861, manual winding, approximately 41.7 mm, 48 hours or 1969–1970s period. These specifications are withheld until the complete reference and actual execution are identified. The historical entry is not a universal hardware or production rule. No new image pixels inspected or photographs accepted by this family review; all four categories remain identification gaps. No old/new Mark II, dial, material, case or common-calibre photo inheritance. Historic and current catalogue specifications do not authenticate a user watch or prove its service state.",
+      "source": "Original Omega pages read and archived for identification limits",
+      "confidence": "Reviewed family identification limit; exact watch remains unidentified",
       "manualReview": true,
       "brand": "Omega",
-      "importOrder": 39
+      "importOrder": 39,
+      "sourceUrl": "https://www.omegawatches.com.hk/en-hk/speedmaster-iconic-since-1957/watch/1969-mark-2",
+      "sources": [
+        {
+          "title": "Original Omega markii861 page",
+          "url": "https://www.omegawatches.com.hk/en-hk/speedmaster-iconic-since-1957/watch/1969-mark-2"
+        },
+        {
+          "title": "Original Omega markii3330 page",
+          "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-speedmaster-mark-ii-co-axial-chronometer-chronograph-42-4-x-46-2-mm-32710435001001"
+        }
+      ],
+      "collectionOnly": true,
+      "exactReferenceOnly": true,
+      "researchReviewedAt": "2026-10-22"
     },
     {
       "pattern": {
