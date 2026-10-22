@@ -1239,29 +1239,40 @@
     },
     {
       "pattern": {
-        "source": "^2305.15$",
+        "source": "^2305[.]?15$",
         "flags": "i"
       },
       "baseReference": "2305.15",
-      "family": "Seamaster quartz family",
-      "size": "Reference-specific",
-      "calibre": [
-        "1438",
-        "CAL1438"
-      ],
-      "calibreDisplay": "1438",
-      "technology": "Quartz analogue",
-      "reserve": "battery powered",
-      "production": "1990s",
-      "notes": "Exact punctuation/suffix should be retained when available.",
-      "source": "Omega/reference records",
-      "confidence": "Medium-high confidence",
+      "family": "Seamaster — 2305.15 source identity conflict; review required",
+      "size": "Not established; original dealer listings disagree",
+      "calibre": [],
+      "calibreDisplay": "Not established — confirm complete reference and fitted movement",
+      "technology": "Not established; stored quartz claim unsupported",
+      "reserve": "Not established",
+      "production": "Complete manufacture period not established",
+      "notes": "Original CLOSER836082 listing labels2305.15 a36mmSeamaster120 automatic with gold-colour dial, diamond bezel/11markers and SS/YG case/bracelet. Original FS Fine Watches IT382349470 listing uses2305.15 for a31mmblue-dial diamond-bezel SS/YG specimen without calibre evidence. These incompatible source descriptions do not establish a universal execution, size,1438quartz mapping, automatic replacement calibre or complete1990speriod. Dealer labels and material descriptions remain attributed, not proof of factory configuration, diamond originality or assay. CLOSER page text read through web connector; direct page archive and linked original image downloads returned403, while web image fetches failed. Therefore no actual image pixels are claimed inspected and no photograph is accepted. FS page text offered no readable movement evidence. Complete case/manufacturer identification and physical movement examination remain required. All four categories are researched unresolved identity/photo-access gaps, not complete coverage. No guessed suffix, neighbouring reference, common-calibre photo or semantic alias introduced. Existing2305.15/230515 forms are punctuation-only; regex dots escaped so arbitrary letters cannot match. Dealer authentication, condition and warranty claims do not authenticate the user watch.",
+      "source": "Original dealer listings reviewed; conflicting execution and inaccessible photographs",
+      "confidence": "Unresolved source identity conflict; manual review required",
       "brand": "Omega",
-      "importOrder": 34
+      "importOrder": 34,
+      "sourceUrl": "https://store.shopping.yahoo.co.jp/closer0510/836082.html",
+      "sources": [
+        {
+          "title": "CLOSER original specimen836082 listing",
+          "url": "https://store.shopping.yahoo.co.jp/closer0510/836082.html"
+        },
+        {
+          "title": "FS Fine Watches original blue-dial listing",
+          "url": "https://fsfinewatches.com/product/omega-seamaster-blue-dial-ref-2305-15/"
+        }
+      ],
+      "manualReview": true,
+      "exactReferenceOnly": true,
+      "researchReviewedAt": "2026-10-22"
     },
     {
       "pattern": {
-        "source": "^232.32.46.21.01.001$",
+        "source": "^232[.]?32[.]?46[.]?21[.]?01[.]?001$",
         "flags": "i"
       },
       "baseReference": "232.32.46.21.01.001",
@@ -1274,16 +1285,28 @@
       "calibreDisplay": "8500",
       "technology": "Automatic Co-Axial chronometer",
       "reserve": "60 hours",
-      "production": "2010s",
-      "notes": "Researched mapping from the v2.83.0 missing-reference export.",
+      "production": "Complete manufacture period not established; source warranty2012 attributed only",
+      "notes": "Original Kingsroad/Zetton used7977 page identifies exact232.32.46.21.01.001,45.5mmsteel, automatic, black dial and rubber strap. All three original640x640files inspected at native resolution: front1 orange bezel/strap, orange6/9/12, date3, broad-arrow hands and no chronograph counters; collage2 includes fitted display back/movement and folding clasp; packaging3 has reference23232462101001 and calibre8500 pictogram, warranty date2012.8.11. Packaging corroborates the seller reference/calibre but is not accepted as a gallery specimen or proof of manufacture date or authenticity. Movement image is a small through-glass panel in original multi-view collage; rotor wording/decoration and automatic layout visible, but fine stamp, escapement, balance-spring, service and opened inner-caseback examination remain unverified. No invented high-resolution detail or universal execution inference. The same actual collage2 is used for movement,caseback and clasp categories and counted once as a distinct file. Since the collage exposes movement, all three categories must be suppressed in external-only mode. Clasp shape and logo document this photographed assembly only; inner codes/material assay/originality/interchangeability remain unverified. Dealer chronograph wording conflicts with the visible three-hand/date execution and is not adopted. Indexed original Jomashop retail text corroborates8500/60h and describes orange aluminium ring; direct page open returned only a JavaScript prompt. This is indexed-text corroboration, not a full current-page inspection. Material description attributed, not proved from colour. Korean manufacturer page timed out and is not treated as read. Old2010sfull production range not asserted;2012warranty date attributed only. Dealer600m/refinishing/warranty claims and ratings do not establish current user-watch pressure resistance or authenticity. No232.30steel-bracelet,other dial/suffix,smaller case,genericPlanetOcean,common8500 or neighbouring-reference inheritance; original literal-dot regex escaped. No semantic alias added.",
       "source": "Omega/reference records",
-      "confidence": "High confidence",
+      "confidence": "Original exact specimen photos and reference card reviewed; small through-glass movement panel has stated limits",
       "brand": "Omega",
-      "importOrder": 35
+      "importOrder": 35,
+      "sourceUrl": "https://www.kingsroad.jp/SHOP/used-7977.html",
+      "sources": [
+        {
+          "title": "Kingsroad/Zetton original exact used7977 specimen gallery",
+          "url": "https://www.kingsroad.jp/SHOP/used-7977.html"
+        },
+        {
+          "title": "Jomashop exact retail specification",
+          "url": "https://www.jomashop.com/omega-watch-232-32-46-21-01-001.html"
+        }
+      ],
+      "researchReviewedAt": "2026-10-22"
     },
     {
       "pattern": {
-        "source": "^212.30.36.20.01.002$",
+        "source": "^212[.]?30[.]?36[.]?20[.]?01[.]?002$",
         "flags": "i"
       },
       "baseReference": "212.30.36.20.01.002",
@@ -1296,12 +1319,24 @@
       "calibreDisplay": "2500",
       "technology": "Automatic Co-Axial chronometer",
       "reserve": "48 hours",
-      "production": "2010s",
-      "notes": "Steel bracelet, black dial, 300 m water resistance.",
-      "source": "Omega official product sheet",
-      "confidence": "Official / high confidence",
+      "production": "Complete manufacture period not established; source purchase date unknown",
+      "notes": "Original Omega exact212.30.36.20.01.002 page confirms36.25mmsteel/steel,blackdial/ceramicbezel,date3,2500automaticCoAxial,48h and foldoverclasp/diverextension. Original Zeitauktion2604787 identifies the exact case reference and supplies15actual gallery files; all contact-inspected, full1/11/13/14 inspected. Front1 shows smooth black dial,redSeamaster/seconds tip,skeleton hands,date3 and steel bracelet. Closed rear11 has hippocampus/Seamaster wave relief. Clasp13 has Omega-logo outer steel clasp and closed caseback behind, with no movement exposed. Opened rear14 shows fitted automatic movement with readable OMEGA2500 rotor,striped rotor/bridges and visible balance/jewel/gear configuration. No claim of universally correct subversion,full escapement validation,service history or inner-caseback stamp: neither generic2500 nor a neighbouring case image is substituted. Four categories use four distinct original files; only movement14 is suppressed in external-only work. Source rounded36mm is distinguished from manufacturer36.25mm; source purchase date unknown and old2010scompleteperiod not established. Dealer reports specimen failed watertightness test; manufacturer300m nominal specification does not override that report or establish current user-watch pressure resistance. Dealer authentication,hardware originality,material,condition and warranty claims remain attributed and do not authenticate the user watch. Inner clasp codes/interchangeability remain unverified. No larger41mm212.30.41,blue suffix,wave-dial predecessor,genericSeamaster,common2500 or semantic-alias inheritance. Packaging,literature,register and workshop media excluded; no PDF pixels claimed reviewed.",
+      "source": "Original manufacturer specification and exact opened specimen gallery inspected",
+      "confidence": "Exact-reference actual specimen pixels and fitted2500 inspected; execution limits documented",
       "brand": "Omega",
-      "importOrder": 36
+      "importOrder": 36,
+      "sourceUrl": "https://www.zeitauktion.com/products/omega-seamaster-steel-automatic-unisex-212-30-36-20-01-002-2604787",
+      "sources": [
+        {
+          "title": "Omega original exact midsize specification",
+          "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-diver-300m-co-axial-chronometer-36-25-mm-21230362001002"
+        },
+        {
+          "title": "Zeitauktion2604787 original actual specimen gallery",
+          "url": "https://www.zeitauktion.com/products/omega-seamaster-steel-automatic-unisex-212-30-36-20-01-002-2604787"
+        }
+      ],
+      "researchReviewedAt": "2026-10-22"
     },
     {
       "pattern": {

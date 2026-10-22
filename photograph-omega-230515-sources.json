@@ -1,0 +1,22 @@
+{
+  "reviewedAt": "2026-10-22T09:12:37.477Z",
+  "sourceRecordId": "RULE:0035",
+  "scope": "Unresolved identification/access review; zero photographs accepted; four researched gaps",
+  "evidence": "Original CLOSER836082 listing labels2305.15 a36mmSeamaster120 automatic with gold-colour dial, diamond bezel/11markers and SS/YG case/bracelet. Original FS Fine Watches IT382349470 listing uses2305.15 for a31mmblue-dial diamond-bezel SS/YG specimen without calibre evidence. These incompatible source descriptions do not establish a universal execution, size,1438quartz mapping, automatic replacement calibre or complete1990speriod. Dealer labels and material descriptions remain attributed, not proof of factory configuration, diamond originality or assay. CLOSER page text read through web connector; direct page archive and linked original image downloads returned403, while web image fetches failed. Therefore no actual image pixels are claimed inspected and no photograph is accepted. FS page text offered no readable movement evidence. Complete case/manufacturer identification and physical movement examination remain required. All four categories are researched unresolved identity/photo-access gaps, not complete coverage. No guessed suffix, neighbouring reference, common-calibre photo or semantic alias introduced. Existing2305.15/230515 forms are punctuation-only; regex dots escaped so arbitrary letters cannot match. Dealer authentication, condition and warranty claims do not authenticate the user watch.",
+  "sources": [
+    {
+      "title": "CLOSER original specimen836082 listing",
+      "url": "https://store.shopping.yahoo.co.jp/closer0510/836082.html"
+    },
+    {
+      "title": "FS Fine Watches original blue-dial listing",
+      "url": "https://fsfinewatches.com/product/omega-seamaster-blue-dial-ref-2305-15/"
+    }
+  ],
+  "accepted": [],
+  "imageAccess": {
+    "directSource": 403,
+    "directImages": 403,
+    "webImages": "Fetch failed; no pixels inspected"
+  }
+}
