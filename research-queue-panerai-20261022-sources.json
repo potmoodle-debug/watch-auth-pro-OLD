@@ -1,0 +1,140 @@
+{
+  "reviewedAt": "2026-10-22",
+  "scope": "Four live missing-reference requests; original sources and saved inspections reviewed. Two original front photographs inspected; other categories remain unsupported.",
+  "records": [
+    {
+      "reference": "PAM00425",
+      "family": "Radiomir S.L.C. 3 Days",
+      "calibre": [
+        "P.3000"
+      ],
+      "technology": "Mechanical — manual winding",
+      "reserve": "Three days in model name; specimen reserve not tested",
+      "caseDetails": "47 mm steel; wire lugs; display back per auction catalogue",
+      "url": "https://www.christies.com/en/lot/lot-5804723",
+      "conclusion": "Original Christie’s lot2449 identifies PAM00425 with OP6837 and hand-wound P.3000,21jewels. Its2012 dating and O0019/1500 number apply to that auction specimen; they do not date the saved watch or establish the complete production interval. Actual photograph shows black dot/baton S.L.C. dial, submarine emblem, gold-tone hands, wire lugs and brown strap. No opened movement, back or buckle detail photograph is accepted. Saved P.3000 agrees with the model attribution; OP6837 is not promoted as a lookup alias. Reference mapping answered only; physical authenticity, service history and component originality remain unverified. No neighbouring reference inherits this mapping. Original Watches of Switzerland exact-reference retail specification independently confirms hand-wound P.3000 and three-day nominal reserve.",
+      "brand": "PANERAI",
+      "secondaryUrl": "https://www.watchswiss.com/brands/panerai/radiomir-collection/radiomir-s-l-c-47mm-pam00425/"
+    },
+    {
+      "reference": "PAM00088",
+      "family": "Luminor GMT",
+      "calibre": [
+        "OP VIII"
+      ],
+      "technology": "Mechanical — automatic GMT",
+      "reserve": "Not independently established in the inspected source",
+      "caseDetails": "44 mm steel; protected crown and closed screw back per auction catalogue",
+      "url": "https://www.noonans.co.uk/media/auction_catalogues/Jewellery%2029%20Nov%2022.pdf",
+      "conclusion": "Original Noonans29November2022 lot361, PDFpage133, identifies PAM00088 and OP6633 with automatic OP VIII,21jewels. Circa2005 and1134/2900 refer to its separate specimen, not the saved watch. The original embedded photograph shows black GMT dial, pale small-seconds register,24h hand/scale,date magnifier,crown bridge and black strap; rear and movement are not shown. Saved OP VIII agrees with catalogue attribution. OP6633 and bare88 are not added as lookup aliases. Reference mapping answered only; physical authenticity, service history and component originality remain unverified. No neighbouring reference inherits this mapping.",
+      "brand": "PANERAI"
+    },
+    {
+      "reference": "PAM01273",
+      "family": "Luminor Due38",
+      "calibre": [
+        "P.900"
+      ],
+      "technology": "Mechanical — automatic",
+      "reserve": "Three days nominal",
+      "caseDetails": "38 mm polished steel; blue dial; closed steel back",
+      "url": "https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01273-luminor-due.html",
+      "conclusion": "Original Panerai exact-reference page specifies P.900 automatic,23jewels,three-day nominal reserve, blue dial,date3,small seconds9,closed steel back and blue alligator20/18strap. Current maker specification lists5bar; it does not establish historical execution or current pressure resistance. Saved P.900 agrees with model attribution. OP7548 remains an observed case code, not an alias. No catalogue render or common P.900 movement is accepted as an inspected specimen photograph. Reference mapping answered only; physical authenticity, service history and component originality remain unverified. No neighbouring reference inherits this mapping.",
+      "brand": "PANERAI"
+    },
+    {
+      "reference": "PAM01209",
+      "family": "Submersible Azzurro42",
+      "calibre": [
+        "P.900"
+      ],
+      "technology": "Mechanical — automatic",
+      "reserve": "Three days nominal",
+      "caseDetails": "42 mm; black dial, small seconds9 and date3",
+      "url": "https://www.panerai.com.br/submersible-azzurro-42mm-pam01209/p",
+      "conclusion": "Original Panerai Brazil exact-reference page attributes automatic P.900,23jewels and three-day nominal reserve. It describes black dial,seconds9,date3,black rubber and additional Sportech strap,steel buckle and30bar nominal rating. These do not establish the saved watch’s fitted execution,pressure resistance or factory-original hardware. OP7297 remains an observation, not an alias. No OP XXXIV equivalence or other P.900-model photography is inferred. Reference mapping answered only; physical authenticity, service history and component originality remain unverified. No neighbouring reference inherits this mapping.",
+      "brand": "PANERAI"
+    }
+  ],
+  "accepted": [
+    {
+      "reference": "PAM00425",
+      "image": "https://potmoodle-debug.github.io/watch-auth-pro-OLD/assets/photographs/panerai-pam00425-christies2014-lot2449.jpg",
+      "sha256": "2cde9cc1d21b4f11a9d5b8af9e21af3ce87531badefdcc069bc102153199f331",
+      "width": 2514,
+      "height": 3200
+    },
+    {
+      "reference": "PAM00088",
+      "image": "https://potmoodle-debug.github.io/watch-auth-pro-OLD/assets/photographs/panerai-pam00088-noonans2022-lot361.jpg",
+      "sha256": "062f14d37eea497a040575eab75e37f82a86fed154a5000c56c806e318a5c48d",
+      "width": 1264,
+      "height": 1796
+    }
+  ],
+  "originalSourceArchive": [
+    {
+      "file": "PAM00425.html",
+      "url": "https://www.christies.com/en/lot/lot-5804723",
+      "status": 200,
+      "finalUrl": "https://www.christies.com/en/lot/lot-5804723",
+      "bytes": 100753,
+      "sha256": "780d5cd46fdf181bf75ceabe2bfcf04ed2f389615ca4c979dddf7cd1b94d48a0",
+      "at": "2026-10-22T14:58:51.715Z"
+    },
+    {
+      "file": "PAM01273.html",
+      "url": "https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01273-luminor-due.html",
+      "status": 200,
+      "finalUrl": "https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01273-luminor-due.html",
+      "bytes": 757576,
+      "sha256": "619a580d734cfe356c31c869334fd43c9958adc3e13175994ce38a926bb58ea6",
+      "at": "2026-10-22T14:58:52.107Z"
+    },
+    {
+      "file": "PAM01209.html",
+      "url": "https://www.panerai.com.br/submersible-azzurro-42mm-pam01209/p",
+      "status": 200,
+      "finalUrl": "https://www.panerai.com.br/submersible-azzurro-42mm-pam01209/p",
+      "bytes": 549312,
+      "sha256": "176bc9e66987e627488564945311ed5d580c74bc1b497374333b85381d3cc785",
+      "at": "2026-10-22T14:58:55.393Z"
+    },
+    {
+      "file": "PAM00088.html",
+      "url": "https://www.noonans.co.uk/archive/past-catalogues/631/catalogue/438056/",
+      "status": 403,
+      "finalUrl": "https://www.noonans.co.uk/archive/past-catalogues/631/catalogue/438056/",
+      "bytes": 5706,
+      "sha256": "f1dfd24d4b8d7e8be172a5312b409ed95ce7d9a0b285b218709d33eceec745ba",
+      "at": "2026-10-22T14:58:55.552Z"
+    },
+    {
+      "file": "Noonans2022.pdf",
+      "url": "https://www.noonans.co.uk/media/auction_catalogues/Jewellery%2029%20Nov%2022.pdf",
+      "status": 200,
+      "finalUrl": "https://www.noonans.co.uk/media/auction_catalogues/Jewellery%2029%20Nov%2022.pdf",
+      "bytes": 25213416,
+      "sha256": "40e91d596b4f454adcd5ebd506bab53ee205ab90eb58e65dfefb1fd7ec9d96f5",
+      "at": "2026-10-22T14:59:03.829Z"
+    },
+    {
+      "file": "PAM00425-front.jpg",
+      "url": "https://www.christies.com/img/LotImages/2014/HGK/2014_HGK_03319_2449_000%28panerai_a_stainless_steel_limited_edition_cushion-shaped_wristwatch_si071842%29.jpg",
+      "status": 200,
+      "finalUrl": "https://www.christies.com/img/LotImages/2014/HGK/2014_HGK_03319_2449_000%28panerai_a_stainless_steel_limited_edition_cushion-shaped_wristwatch_si071842%29.jpg",
+      "bytes": 875439,
+      "sha256": "2cde9cc1d21b4f11a9d5b8af9e21af3ce87531badefdcc069bc102153199f331",
+      "at": "2026-10-22T14:59:04.309Z"
+    }
+  ],
+  "pdfEvidence": {
+    "source": "https://www.noonans.co.uk/media/auction_catalogues/Jewellery%2029%20Nov%2022.pdf",
+    "page": 133,
+    "lot": 361,
+    "embeddedImage": "Im0.jpg",
+    "pixelOperation": "Extracted original JPEG bytes; no crop, retouching, generation or change",
+    "sha256": "062f14d37eea497a040575eab75e37f82a86fed154a5000c56c806e318a5c48d"
+  },
+  "delivery": "Both inspected original auction JPEGs are served unchanged from OLD with original source/credit. Direct Christie image fetch succeeds but browser display timed out; no original pixels changed."
+}

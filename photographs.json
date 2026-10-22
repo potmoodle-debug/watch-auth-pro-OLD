@@ -37582,6 +37582,70 @@
           "height": 1600
         }
       }
+    },
+    {
+      "id": "panerai-queue-20261022-pam00425-front",
+      "brand": "PANERAI",
+      "references": [
+        "PAM00425"
+      ],
+      "representativeFor": [],
+      "variant": "Auction specimen O0019/1500; brown strap; circa2012 attributed",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "PAM00425 — original auction front specimen",
+      "caption": "Actual auction specimen front photograph. Dial/strap/date attribution applies to the pictured watch only. No view of fitted movement, rear or buckle; no common-calibre or OP-case-code inheritance. Unchanged original auction JPEG served from OLD; original source and credit retained.",
+      "image": "https://potmoodle-debug.github.io/watch-auth-pro-OLD/assets/photographs/panerai-pam00425-christies2014-lot2449.jpg",
+      "source": "https://www.christies.com/en/lot/lot-5804723",
+      "credit": "Christie’s — original2014 lot2449 specimen photograph",
+      "mediaKind": "photograph",
+      "origin": "Original page/PDF and actual photograph inspected2026-10-22",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-22T15:02:31.548Z",
+        "loadedAt": "2026-10-22T15:02:31.548Z",
+        "evidence": "Original Christie’s lot2449 identifies PAM00425 with OP6837 and hand-wound P.3000,21jewels. Its2012 dating and O0019/1500 number apply to that auction specimen; they do not date the saved watch or establish the complete production interval. Actual photograph shows black dot/baton S.L.C. dial, submarine emblem, gold-tone hands, wire lugs and brown strap. No opened movement, back or buckle detail photograph is accepted. Saved P.3000 agrees with the model attribution; OP6837 is not promoted as a lookup alias. Reference mapping answered only; physical authenticity, service history and component originality remain unverified. No neighbouring reference inherits this mapping. Original Watches of Switzerland exact-reference retail specification independently confirms hand-wound P.3000 and three-day nominal reserve. Actual original image pixels inspected2026-10-22. Front/layout evidence only; marks on case/movement and buckle cannot be verified from this front image. No material/lume assay, universal originality, date interval or service inference. Other categories explicitly unresolved.",
+        "imageSha256": "2cde9cc1d21b4f11a9d5b8af9e21af3ce87531badefdcc069bc102153199f331",
+        "imageDimensions": {
+          "width": 2514,
+          "height": 3200
+        }
+      }
+    },
+    {
+      "id": "panerai-queue-20261022-pam00088-front",
+      "brand": "PANERAI",
+      "references": [
+        "PAM00088"
+      ],
+      "representativeFor": [],
+      "variant": "Auction specimen1134/2900; black strap; circa2005 attributed",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "PAM00088 — original auction front specimen",
+      "caption": "Actual auction specimen front photograph. Dial/strap/date attribution applies to the pictured watch only. No view of fitted movement, rear or buckle; no common-calibre or OP-case-code inheritance.",
+      "image": "https://potmoodle-debug.github.io/watch-auth-pro-OLD/assets/photographs/panerai-pam00088-noonans2022-lot361.jpg",
+      "source": "https://www.noonans.co.uk/media/auction_catalogues/Jewellery%2029%20Nov%2022.pdf",
+      "credit": "Noonans Mayfair — original2022 lot361 photograph, unmodified embedded PDF JPEG",
+      "mediaKind": "photograph",
+      "origin": "Original page/PDF and actual photograph inspected2026-10-22",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-22T15:02:31.548Z",
+        "loadedAt": "2026-10-22T15:02:31.548Z",
+        "evidence": "Original Noonans29November2022 lot361, PDFpage133, identifies PAM00088 and OP6633 with automatic OP VIII,21jewels. Circa2005 and1134/2900 refer to its separate specimen, not the saved watch. The original embedded photograph shows black GMT dial, pale small-seconds register,24h hand/scale,date magnifier,crown bridge and black strap; rear and movement are not shown. Saved OP VIII agrees with catalogue attribution. OP6633 and bare88 are not added as lookup aliases. Reference mapping answered only; physical authenticity, service history and component originality remain unverified. No neighbouring reference inherits this mapping. Actual original image pixels inspected2026-10-22. Front/layout evidence only; marks on case/movement and buckle cannot be verified from this front image. No material/lume assay, universal originality, date interval or service inference. Other categories explicitly unresolved.",
+        "imageSha256": "062f14d37eea497a040575eab75e37f82a86fed154a5000c56c806e318a5c48d",
+        "imageDimensions": {
+          "width": 1264,
+          "height": 1796
+        }
+      }
     }
   ]
 }
