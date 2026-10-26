@@ -1,0 +1,184 @@
+{
+  "reviewedAt": "2026-10-26T10:00:04.981Z",
+  "scope": "Three exact model mappings; three original 2264.50.00 photographs; publication and queue closure pending",
+  "records": [
+    {
+      "brand": "OMEGA",
+      "reference": "2264.50.00",
+      "decision": "answered",
+      "conclusion": "Omega’s original exact-reference page specifies quartz calibre 1538, a 41 mm steel case, black dial, steel bracelet and folding clasp with diver extension. The stated 42-month battery life is nominal, not a measurement of the fitted battery. Zeitauktion specimen 2604274 independently identifies this reference and calibre. All 14 original gallery files were reviewed as a contact sheet; full photographs 5, 11 and 13 were inspected on 26 October 2026. They show the black wave dial, sword hands, date at 3, black bezel, steel bracelet, closed hippocampus/wave back and Omega Seamaster Professional clasp. The visible 930 endlink marks and the dealer’s circa-1997 date describe that separate specimen only. No opened movement or inner caseback photograph is accepted. Automatic 2254.50.00 / 1120 photographs must not be inherited despite the similar front design. No supplier equivalence, production interval, user-watch authentication, pressure resistance, service originality or current warranty is inferred. Packaging, register sheets and workshop collages are excluded.",
+      "sources": [
+        {
+          "title": "Omega original exact-reference specification",
+          "url": "https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-300-m-quartz-22645000"
+        }
+      ]
+    },
+    {
+      "brand": "OMEGA",
+      "reference": "123.20.35.60.02.001",
+      "decision": "answered",
+      "conclusion": "Omega’s original exact-reference page confirms quartz calibre 1532, a 35 mm steel and red-gold case, silver dial, date at 3, red-gold Roman-numeral bezel and matching bracelet with butterfly clasp. The stated 25-month battery life is nominal. The request records no observed calibre: this supplies model guidance, not fitted-movement verification. No automatic 2500, neighbouring 35 mm reference, other dial or metal suffix, or supplier-calibre equivalence is inferred. No actual specimen photograph was inspected or accepted in this pass; all photo categories remain unsupported. Manufacturer studio imagery is not treated as an actual specimen photograph. No full production period, physical authentication, current warranty or pressure-test result is established.",
+      "sources": [
+        {
+          "title": "Omega original exact-reference specification",
+          "url": "https://www.omegawatches.com/watch-omega-constellation-quartz-35-mm-12320356002001"
+        }
+      ]
+    },
+    {
+      "brand": "OMEGA",
+      "reference": "4832.40.31",
+      "decision": "answered",
+      "conclusion": "Omega’s original exact-reference page specifies automatic Co-Axial calibre 2627, a nominal 48-hour reserve, 38.7 mm steel case, grey dial, black alligator strap and steel folding clasp. It lists date and power-reserve indication. The request records no observed calibre, so this is model guidance rather than fitted-movement verification. No 2628 GMT, plain three-hand 2500, neighbouring 4832 dial or suffix, or common-movement photograph is inherited. No actual specimen photographs were inspected or accepted in this pass; unsupported categories stay empty. No full production interval, current warranty, user-watch authentication, service originality or pressure-test result is inferred.",
+      "sources": [
+        {
+          "title": "Omega original exact-reference specification",
+          "url": "https://www.omegawatches.com/watch-omega-de-ville-co-axial-power-reserve-48324031"
+        }
+      ]
+    }
+  ],
+  "accepted": [
+    {
+      "id": "omega-22645000-20261026-front",
+      "category": "front",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604274_01_2k.jpg?v=1784896534",
+      "sha256": "305e7bd7f1c0c7ee52f7f673f8551f9236de160377a925acd2013adb29b2c47c"
+    },
+    {
+      "id": "omega-22645000-20261026-caseback",
+      "category": "caseback",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604274_10_2k.jpg?v=1784896549",
+      "sha256": "06b28a896b02eace046829ca1f36a0ce7fa84de9a7b394854503c72136fac02f"
+    },
+    {
+      "id": "omega-22645000-20261026-braceletClasp",
+      "category": "braceletClasp",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604274_12_2k.jpg?v=1784896552",
+      "sha256": "b4ebe539be79a02f41e8dc60d33b279567523f284e37f2079b8b0d1d69fd859b"
+    }
+  ],
+  "inspectedGallery": {
+    "source": "https://www.zeitauktion.com/de/products/omega-seamaster-professional-300m-edelstahl-herrenuhr-ref-2264-50-00-2604274",
+    "at": "2026-10-26T10:00:04.981Z",
+    "images": [
+      {
+        "index": 1,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604274_01_nowm.jpg?v=1784896536",
+        "file": "image-01.jpg",
+        "sha256": "0376b7d98409a094d6d1bd5d63c7f7f602e813366d4871216f7332545192bffe",
+        "bytes": 149839
+      },
+      {
+        "index": 2,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604274_02_2k.jpg?v=1784896537",
+        "file": "image-02.jpg",
+        "sha256": "67b8e5a8b070987464f4c8ceb33a34ea695d3d6fe2bcfda67b1eb2214b6faae7",
+        "bytes": 274463
+      },
+      {
+        "index": 3,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604274_03_2k.jpg?v=1784896539",
+        "file": "image-03.jpg",
+        "sha256": "7ec7293c5d680dff6d5d395532768d49f8b420ac8eac0daf41dccf81bacc53ee",
+        "bytes": 351798
+      },
+      {
+        "index": 4,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604274_04_2k.jpg?v=1784896541",
+        "file": "image-04.jpg",
+        "sha256": "ca04adcc532454223935f7ad3bff152041ab7a264a8eda118e5872f87ee1a891",
+        "bytes": 302652
+      },
+      {
+        "index": 5,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604274_01_2k.jpg?v=1784896534",
+        "file": "image-05.jpg",
+        "sha256": "305e7bd7f1c0c7ee52f7f673f8551f9236de160377a925acd2013adb29b2c47c",
+        "bytes": 138207
+      },
+      {
+        "index": 6,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604274_05_2k.jpg?v=1784896542",
+        "file": "image-06.jpg",
+        "sha256": "0f0f4721a5422f580947ff8200632445707260c05d501fba54444b5ace93afc4",
+        "bytes": 139210
+      },
+      {
+        "index": 7,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604274_06_2k.jpg?v=1784896543",
+        "file": "image-07.jpg",
+        "sha256": "44cf32478044ba9e5b3728df292cf9fa4d5141cb8e305419f797137754bf947a",
+        "bytes": 123272
+      },
+      {
+        "index": 8,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604274_07_2k.jpg?v=1784896545",
+        "file": "image-08.jpg",
+        "sha256": "4d3fc1e0a8743475142e5c502a23bae83d961136724a374837f80a891009d5f8",
+        "bytes": 118767
+      },
+      {
+        "index": 9,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604274_08_2k.jpg?v=1784896546",
+        "file": "image-09.jpg",
+        "sha256": "c10ba16b3560eb6d868c0efdf1c57f2bb85a336b98b174ce738b0b92ae6d8a80",
+        "bytes": 253938
+      },
+      {
+        "index": 10,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604274_09_2k.jpg?v=1784896548",
+        "file": "image-10.jpg",
+        "sha256": "d81af7be8b7f1df133da357e00b78f924687952ec218ebacdcf6f4738abdceb6",
+        "bytes": 154553
+      },
+      {
+        "index": 11,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604274_10_2k.jpg?v=1784896549",
+        "file": "image-11.jpg",
+        "sha256": "06b28a896b02eace046829ca1f36a0ce7fa84de9a7b394854503c72136fac02f",
+        "bytes": 235451
+      },
+      {
+        "index": 12,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604274_11_2k.jpg?v=1784896550",
+        "file": "image-12.jpg",
+        "sha256": "5afc6daac084e57a0a7d26b0f0aaae58bbdf2a6dc5f2244c2818d4bb88b87430",
+        "bytes": 139861
+      },
+      {
+        "index": 13,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604274_12_2k.jpg?v=1784896552",
+        "file": "image-13.jpg",
+        "sha256": "b4ebe539be79a02f41e8dc60d33b279567523f284e37f2079b8b0d1d69fd859b",
+        "bytes": 164860
+      },
+      {
+        "index": 14,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/photoSet_workshop_2k.jpg?v=1789468094",
+        "file": "image-14.jpg",
+        "sha256": "7fc16e9bc4000e8b193333a5a2a697e3228a179be79c1a0e3a5a560a48b97429",
+        "bytes": 323410
+      }
+    ]
+  },
+  "unsupported": {
+    "2264.50.00": [
+      "movement",
+      "innercaseback"
+    ],
+    "123.20.35.60.02.001": [
+      "front",
+      "movement",
+      "caseback",
+      "braceletClasp"
+    ],
+    "4832.40.31": [
+      "front",
+      "movement",
+      "caseback",
+      "braceletClasp"
+    ]
+  }
+}

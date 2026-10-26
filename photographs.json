@@ -38156,6 +38156,102 @@
           "height": 1600
         }
       }
+    },
+    {
+      "id": "omega-22645000-20261026-front",
+      "brand": "OMEGA",
+      "references": [
+        "2264.50.00"
+      ],
+      "representativeFor": [],
+      "variant": "Zeitauktion 2604274 black-dial quartz specimen; circa 1997 attributed",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "2264.50.00 — front specimen",
+      "caption": "Actual exact-reference specimen. Component marks and condition describe this separate watch only; no automatic 2254.50.00 inheritance or physical authentication. No opened movement is shown.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604274_01_2k.jpg?v=1784896534",
+      "source": "https://www.zeitauktion.com/de/products/omega-seamaster-professional-300m-edelstahl-herrenuhr-ref-2264-50-00-2604274",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Originalsource andactualpixels inspected2026-10-26",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-26T10:00:04.981Z",
+        "loadedAt": "2026-10-26T10:00:04.981Z",
+        "evidence": "Omega’s original exact-reference page specifies quartz calibre 1538, a 41 mm steel case, black dial, steel bracelet and folding clasp with diver extension. The stated 42-month battery life is nominal, not a measurement of the fitted battery. Zeitauktion specimen 2604274 independently identifies this reference and calibre. All 14 original gallery files were reviewed as a contact sheet; full photographs 5, 11 and 13 were inspected on 26 October 2026. They show the black wave dial, sword hands, date at 3, black bezel, steel bracelet, closed hippocampus/wave back and Omega Seamaster Professional clasp. The visible 930 endlink marks and the dealer’s circa-1997 date describe that separate specimen only. No opened movement or inner caseback photograph is accepted. Automatic 2254.50.00 / 1120 photographs must not be inherited despite the similar front design. No supplier equivalence, production interval, user-watch authentication, pressure resistance, service originality or current warranty is inferred. Packaging, register sheets and workshop collages are excluded.",
+        "imageSha256": "305e7bd7f1c0c7ee52f7f673f8551f9236de160377a925acd2013adb29b2c47c",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "id": "omega-22645000-20261026-caseback",
+      "brand": "OMEGA",
+      "references": [
+        "2264.50.00"
+      ],
+      "representativeFor": [],
+      "variant": "Zeitauktion 2604274 black-dial quartz specimen; circa 1997 attributed",
+      "category": "caseback",
+      "depictsMovement": false,
+      "title": "2264.50.00 — caseback specimen",
+      "caption": "Actual exact-reference specimen. Component marks and condition describe this separate watch only; no automatic 2254.50.00 inheritance or physical authentication. No opened movement is shown.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604274_10_2k.jpg?v=1784896549",
+      "source": "https://www.zeitauktion.com/de/products/omega-seamaster-professional-300m-edelstahl-herrenuhr-ref-2264-50-00-2604274",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Originalsource andactualpixels inspected2026-10-26",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-26T10:00:04.981Z",
+        "loadedAt": "2026-10-26T10:00:04.981Z",
+        "evidence": "Omega’s original exact-reference page specifies quartz calibre 1538, a 41 mm steel case, black dial, steel bracelet and folding clasp with diver extension. The stated 42-month battery life is nominal, not a measurement of the fitted battery. Zeitauktion specimen 2604274 independently identifies this reference and calibre. All 14 original gallery files were reviewed as a contact sheet; full photographs 5, 11 and 13 were inspected on 26 October 2026. They show the black wave dial, sword hands, date at 3, black bezel, steel bracelet, closed hippocampus/wave back and Omega Seamaster Professional clasp. The visible 930 endlink marks and the dealer’s circa-1997 date describe that separate specimen only. No opened movement or inner caseback photograph is accepted. Automatic 2254.50.00 / 1120 photographs must not be inherited despite the similar front design. No supplier equivalence, production interval, user-watch authentication, pressure resistance, service originality or current warranty is inferred. Packaging, register sheets and workshop collages are excluded.",
+        "imageSha256": "06b28a896b02eace046829ca1f36a0ce7fa84de9a7b394854503c72136fac02f",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "id": "omega-22645000-20261026-braceletClasp",
+      "brand": "OMEGA",
+      "references": [
+        "2264.50.00"
+      ],
+      "representativeFor": [],
+      "variant": "Zeitauktion 2604274 black-dial quartz specimen; circa 1997 attributed",
+      "category": "braceletClasp",
+      "depictsMovement": false,
+      "title": "2264.50.00 — braceletClasp specimen",
+      "caption": "Actual exact-reference specimen. Component marks and condition describe this separate watch only; no automatic 2254.50.00 inheritance or physical authentication. No opened movement is shown.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2604274_12_2k.jpg?v=1784896552",
+      "source": "https://www.zeitauktion.com/de/products/omega-seamaster-professional-300m-edelstahl-herrenuhr-ref-2264-50-00-2604274",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Originalsource andactualpixels inspected2026-10-26",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-26T10:00:04.981Z",
+        "loadedAt": "2026-10-26T10:00:04.981Z",
+        "evidence": "Omega’s original exact-reference page specifies quartz calibre 1538, a 41 mm steel case, black dial, steel bracelet and folding clasp with diver extension. The stated 42-month battery life is nominal, not a measurement of the fitted battery. Zeitauktion specimen 2604274 independently identifies this reference and calibre. All 14 original gallery files were reviewed as a contact sheet; full photographs 5, 11 and 13 were inspected on 26 October 2026. They show the black wave dial, sword hands, date at 3, black bezel, steel bracelet, closed hippocampus/wave back and Omega Seamaster Professional clasp. The visible 930 endlink marks and the dealer’s circa-1997 date describe that separate specimen only. No opened movement or inner caseback photograph is accepted. Automatic 2254.50.00 / 1120 photographs must not be inherited despite the similar front design. No supplier equivalence, production interval, user-watch authentication, pressure resistance, service originality or current warranty is inferred. Packaging, register sheets and workshop collages are excluded.",
+        "imageSha256": "b4ebe539be79a02f41e8dc60d33b279567523f284e37f2079b8b0d1d69fd859b",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        }
+      }
     }
   ]
 }
