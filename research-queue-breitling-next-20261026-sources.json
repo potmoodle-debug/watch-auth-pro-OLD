@@ -1,0 +1,196 @@
+{
+  "reviewedAt": "2026-10-26T10:10:46.132Z",
+  "scope": "Three model mappings; three original Colt exterior photographs; one unresolved fitted-execution request",
+  "records": [
+    {
+      "brand": "BREITLING",
+      "reference": "A17350",
+      "decision": "answered",
+      "conclusion": "Original Zeitauktion specimen 2300314 identifies exact A17350 and automatic B17. All 14 original gallery files were contact-inspected; full photographs 4, 9 and 13 were inspected on 26 October 2026. The front shows a black Colt Ocean dial with Arabic numerals, date at 3, steel rider-tab bezel and steel bracelet. The closed back shows Breitling chronometer/500M wording; the clasp carries Breitling branding. These exterior marks are specimen observations, not pressure testing or authentication. The photographed execution is representative: other original A17350 listings show different dial colours. No opened movement or inner-back photograph is accepted. B17 is a catalogue attribution, not a readable fitted-movement marking. The saved inspection records no calibre. Do not equate a generic ETA 2824-2 marking with a verified factory execution, or inherit another Colt reference or full suffix. No full production interval, hardware interchangeability, service originality, user-watch water resistance or current warranty is inferred. Packaging, register sheets and workshop collages are excluded.",
+      "sources": [
+        {
+          "title": "Original exact-reference source",
+          "url": "https://www.zeitauktion.com/de/products/breitling-colt-ocean-500m-edelstahl-automatik-herrenuhr-ref-a17350-2300314"
+        }
+      ]
+    },
+    {
+      "brand": "BREITLING",
+      "reference": "AB3112",
+      "decision": "answered",
+      "conclusion": "The original Breitling page documents full reference AB3112241B1A1 as Superocean Heritage B31 Automatic 44: automatic manufacture B31, approximately 78-hour nominal reserve, 44 mm steel case, sapphire display back and steel bracelet. Bare AB3112 receives limited base-reference guidance; the full dial and bracelet suffix still needs confirmation. Only the separately documented full reference is added. The manufacturer lists different lug-width precision across regional pages, so no precise lug measurement is promoted here. No other AB3110/AB3111 size, UB metal variant, B20 movement or unlisted suffix is inferred. The request records no observed calibre. No actual specimen photographs were inspected or accepted in this pass, and manufacturer studio imagery is not treated as specimen photography. Unsupported photo categories stay empty. Nominal 200 m, reserve and certification do not test or authenticate the user watch; no production interval or current warranty is established.",
+      "sources": [
+        {
+          "title": "Original exact-reference source",
+          "url": "https://www.breitling.com/rs-en/watches/superocean-heritage/superocean-heritage-b31-automatic-44-my25/AB3112241B1A1/"
+        }
+      ]
+    },
+    {
+      "brand": "BREITLING",
+      "reference": "E76325",
+      "decision": "answered",
+      "conclusion": "Original Heritage Auctions sale 21186 lot 12012 explicitly identifies E76325 with SuperQuartz calibre Breitling 76, a 51 mm titanium case, black analogue/digital dial, compass bezel and titanium bracelet. This is model guidance from a separate auction specimen; the request records no observed calibre. The auction condition says that specimen needs a battery, which does not establish the condition or service requirement of the user watch. Its serial, dimensions and bracelet configuration are source observations only. No E76321 or other Emergency reference, supplier movement, generic battery procedure or transmitter test/activation is inferred. No actual specimen photographs were inspected or accepted in this pass; all photo categories remain unsupported. Transmitter readiness and individual-watch authenticity are not established.",
+      "sources": [
+        {
+          "title": "Original exact-reference source",
+          "url": "https://jewelry.ha.com/c/fact-sheet.zx?ic3=ViewItem-Auction-Open-Action-PrintFactSheet-071515&lotNo=12012&saleNo=21186"
+        }
+      ]
+    },
+    {
+      "brand": "BREITLING",
+      "reference": "A41310",
+      "decision": "needs_evidence",
+      "sources": [
+        {
+          "title": "Sansom Watches original A41310 listing",
+          "url": "https://sansomwatches.com/product/breitling-transocean-chronograph-38mm-automatic-silver-dial-model-a41310/"
+        }
+      ],
+      "conclusion": "Original seller identifies A41310 as Transocean Chronograph 38 with Breitling calibre 41. Saved observation is 2892. The seller page does not establish that fitted marking or complete chronograph execution; its case description also contains an unexplained Black Steel wording. Preserve the observation, do not silently equate 2892 with branded 41 or certify a module/base combination. Full fitted-execution and primary technical evidence remain required. Keep request active; no photographs accepted in this pass."
+    }
+  ],
+  "accepted": [
+    {
+      "id": "breitling-a17350-20261026-front",
+      "category": "front",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2300314_01_2k.jpg?v=1747317399",
+      "sha256": "46657800684511d9aa1d75323281501c668583c1daed3f02bed990da2c392866"
+    },
+    {
+      "id": "breitling-a17350-20261026-caseback",
+      "category": "caseback",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2300314_09_2k.jpg?v=1747317399",
+      "sha256": "7cc6edffcf478acd1328e4be49acb859ebef9ef328c9ffbda45770cd8fb0f6a9"
+    },
+    {
+      "id": "breitling-a17350-20261026-braceletClasp",
+      "category": "braceletClasp",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2300314_13_2k.jpg?v=1747317399",
+      "sha256": "64c94122e6175550253fe5075c3eb8c1ff0d0d2d4c02647ceb80e3017eb12e4e"
+    }
+  ],
+  "inspectedGallery": {
+    "source": "https://www.zeitauktion.com/de/products/breitling-colt-ocean-500m-edelstahl-automatik-herrenuhr-ref-a17350-2300314",
+    "at": "2026-10-26T10:10:46.132Z",
+    "images": [
+      {
+        "index": 1,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2300314_02_2k.jpg?v=1747317399",
+        "file": "image-01.jpg",
+        "sha256": "5fe07fe8b433270f2d08d9ba161bb6298fd7ef2ca615cb8759086919cfa99983",
+        "bytes": 482479
+      },
+      {
+        "index": 2,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2300314_03_2k.jpg?v=1747317399",
+        "file": "image-02.jpg",
+        "sha256": "fcaa6c7fc7dcbfd1a4a960b444765424eff1c8d4705c93695169942dea1bad34",
+        "bytes": 432083
+      },
+      {
+        "index": 3,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2300314_04_2k.jpg?v=1747317399",
+        "file": "image-03.jpg",
+        "sha256": "4881686010f81b0d83999d754a36472c0894e9ae5fb4d292e328dae9c23cd497",
+        "bytes": 271516
+      },
+      {
+        "index": 4,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2300314_01_2k.jpg?v=1747317399",
+        "file": "image-04.jpg",
+        "sha256": "46657800684511d9aa1d75323281501c668583c1daed3f02bed990da2c392866",
+        "bytes": 159925
+      },
+      {
+        "index": 5,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2300314_05_2k.jpg?v=1747317399",
+        "file": "image-05.jpg",
+        "sha256": "e2cd3d65f2b6b6127ce359fad343290d799f46b908b1ab7c1ea5c8c16230bab6",
+        "bytes": 447245
+      },
+      {
+        "index": 6,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2300314_06_2k.jpg?v=1747317399",
+        "file": "image-06.jpg",
+        "sha256": "424c9da41cbed954088141947d494f3590a10172cf19b7f4efe14b7920bd08b8",
+        "bytes": 164601
+      },
+      {
+        "index": 7,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2300314_07_2k.jpg?v=1747317399",
+        "file": "image-07.jpg",
+        "sha256": "0edd568e7713a71c509254de078bbcd393da57cf29010b6166280cf8e9336f82",
+        "bytes": 149784
+      },
+      {
+        "index": 8,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2300314_08_2k.jpg?v=1747317399",
+        "file": "image-08.jpg",
+        "sha256": "a73db97a9ef440ec66e971d2637e6519b472f4b50f2e571c5741af8ea5c4f44f",
+        "bytes": 184886
+      },
+      {
+        "index": 9,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2300314_09_2k.jpg?v=1747317399",
+        "file": "image-09.jpg",
+        "sha256": "7cc6edffcf478acd1328e4be49acb859ebef9ef328c9ffbda45770cd8fb0f6a9",
+        "bytes": 255844
+      },
+      {
+        "index": 10,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2300314_10_2k.jpg?v=1747317399",
+        "file": "image-10.jpg",
+        "sha256": "460214b5eb2de997eb9fdcf964cac3dfd036af841fae4845edca2af67dae9292",
+        "bytes": 128922
+      },
+      {
+        "index": 11,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2300314_11_2k.jpg?v=1747317400",
+        "file": "image-11.jpg",
+        "sha256": "eb56c814bbd48b880d18c432a67b81061346168344dce0e5dc7ce4071f5b73d1",
+        "bytes": 454314
+      },
+      {
+        "index": 12,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2300314_12_2k.jpg?v=1747317399",
+        "file": "image-12.jpg",
+        "sha256": "d4a644c669dc9b1f332b818ee6eaeb527de212d6e29b1cdbe1121dac5b02b1b0",
+        "bytes": 154070
+      },
+      {
+        "index": 13,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2300314_13_2k.jpg?v=1747317399",
+        "file": "image-13.jpg",
+        "sha256": "64c94122e6175550253fe5075c3eb8c1ff0d0d2d4c02647ceb80e3017eb12e4e",
+        "bytes": 188744
+      },
+      {
+        "index": 14,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/photoSet_workshop_2k_20260629.jpg?v=1782732100",
+        "file": "image-14.jpg",
+        "sha256": "d7c47c925b681c85c0e05dd124e9a56a9bb373adf9bfc020bad94fe8e2408ebb",
+        "bytes": 257861
+      }
+    ]
+  },
+  "unsupported": {
+    "A17350": [
+      "movement",
+      "inner caseback"
+    ],
+    "AB3112": [
+      "front",
+      "movement",
+      "caseback",
+      "braceletClasp"
+    ],
+    "E76325": [
+      "front",
+      "movement",
+      "caseback",
+      "braceletClasp"
+    ]
+  }
+}
