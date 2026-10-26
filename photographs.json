@@ -37986,6 +37986,176 @@
           "height": 600
         }
       }
+    },
+    {
+      "id": "omega-1681640-20261026-front",
+      "brand": "OMEGA",
+      "references": [
+        "168.1640"
+      ],
+      "representativeFor": [
+        "168.1640"
+      ],
+      "variant": "Zeitauktion2302100 black-dial2254.50.00 specimen carrying168.1640 inner-back marking; circa2006 attributed",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "168.1640 — front representative specimen",
+      "caption": "Actual source specimen with readable168.1640 inner back and1120movement. Blackdial/bracelet/backexecution is representative only; other dial/retail variants are not excluded. No universal retail-reference alias or user-watch authentication.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2302100_01_2k.jpg?v=1747345822",
+      "source": "https://www.zeitauktion.com/de/products/omega-seamaster-professional-300m-schwerty-automatik-ref-2254-50-00-2302100",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected2026-10-26",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-26T09:49:35.969Z",
+        "loadedAt": "2026-10-26T09:49:35.969Z",
+        "evidence": "Original Zeitauktion2302100 HTML/product JSON identifies168.1640 with2254.50.00 for its particular41mmsteel black-dial specimen and automatic1120. All16original gallery files contact-inspected; full4/9/13/14/15 pixels inspected2026-10-26. Front4 shows black wave dial,sword hands,date3,black calibrated bezel and steel bracelet. Closed9 shows hippocampus/wave back and930endlink marks. Inner14 visibly reads168.1640 with Omega/acier inoxydable marks. Movement15 visibly showsOMEGA1120 rotor,automatic architecture,visible balance/regulator and bridge markings. Clasp13 shows Omega Seamaster Professional folding steel clasp. Only actualmovement15 suppresses in external-only mode. Internal case reference168.1640 does not identify a unique retail dial/bracelet execution: original Zeitauktion2104969 separately associates the same case reference with blue2255.80.00 and1120; original DrCrott104lot86 catalogues168.1640/1120 with blue dial and specialOman back. Do not turn2254.50.00 or2255.80.00 into universal aliases or require blackdial/hippocampus back for every168.1640. Photo execution is explicitly representative. Source circa2006 dates its separate specimen only; no production interval or user-watch serial dating. Supplier-family equivalence, hardware interchangeability, current pressure resistance, physical authenticity and service originality not inferred. Packaging/register/workshop media excluded.",
+        "imageSha256": "f16bdcbe318823e5ec6493d035db9419c979b6e273d061e2702abfcd11b08d97",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "id": "omega-1681640-20261026-movement",
+      "brand": "OMEGA",
+      "references": [
+        "168.1640"
+      ],
+      "representativeFor": [
+        "168.1640"
+      ],
+      "variant": "Zeitauktion2302100 black-dial2254.50.00 specimen carrying168.1640 inner-back marking; circa2006 attributed",
+      "category": "movement",
+      "depictsMovement": true,
+      "title": "168.1640 — movement representative specimen",
+      "caption": "Actual source specimen with readable168.1640 inner back and1120movement. Blackdial/bracelet/backexecution is representative only; other dial/retail variants are not excluded. No universal retail-reference alias or user-watch authentication.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2302100_15_2k.jpg?v=1747345822",
+      "source": "https://www.zeitauktion.com/de/products/omega-seamaster-professional-300m-schwerty-automatik-ref-2254-50-00-2302100",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected2026-10-26",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-26T09:49:35.969Z",
+        "loadedAt": "2026-10-26T09:49:35.969Z",
+        "evidence": "Original Zeitauktion2302100 HTML/product JSON identifies168.1640 with2254.50.00 for its particular41mmsteel black-dial specimen and automatic1120. All16original gallery files contact-inspected; full4/9/13/14/15 pixels inspected2026-10-26. Front4 shows black wave dial,sword hands,date3,black calibrated bezel and steel bracelet. Closed9 shows hippocampus/wave back and930endlink marks. Inner14 visibly reads168.1640 with Omega/acier inoxydable marks. Movement15 visibly showsOMEGA1120 rotor,automatic architecture,visible balance/regulator and bridge markings. Clasp13 shows Omega Seamaster Professional folding steel clasp. Only actualmovement15 suppresses in external-only mode. Internal case reference168.1640 does not identify a unique retail dial/bracelet execution: original Zeitauktion2104969 separately associates the same case reference with blue2255.80.00 and1120; original DrCrott104lot86 catalogues168.1640/1120 with blue dial and specialOman back. Do not turn2254.50.00 or2255.80.00 into universal aliases or require blackdial/hippocampus back for every168.1640. Photo execution is explicitly representative. Source circa2006 dates its separate specimen only; no production interval or user-watch serial dating. Supplier-family equivalence, hardware interchangeability, current pressure resistance, physical authenticity and service originality not inferred. Packaging/register/workshop media excluded.",
+        "imageSha256": "47e17afc23fa0816a9a00cdf36d72fe64a00f848d067afc22cd930297e99469c",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "id": "omega-1681640-20261026-closed",
+      "brand": "OMEGA",
+      "references": [
+        "168.1640"
+      ],
+      "representativeFor": [
+        "168.1640"
+      ],
+      "variant": "Zeitauktion2302100 black-dial2254.50.00 specimen carrying168.1640 inner-back marking; circa2006 attributed",
+      "category": "caseback",
+      "depictsMovement": false,
+      "title": "168.1640 — closed representative specimen",
+      "caption": "Actual source specimen with readable168.1640 inner back and1120movement. Blackdial/bracelet/backexecution is representative only; other dial/retail variants are not excluded. No universal retail-reference alias or user-watch authentication.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2302100_09_2k.jpg?v=1747345822",
+      "source": "https://www.zeitauktion.com/de/products/omega-seamaster-professional-300m-schwerty-automatik-ref-2254-50-00-2302100",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected2026-10-26",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-26T09:49:35.969Z",
+        "loadedAt": "2026-10-26T09:49:35.969Z",
+        "evidence": "Original Zeitauktion2302100 HTML/product JSON identifies168.1640 with2254.50.00 for its particular41mmsteel black-dial specimen and automatic1120. All16original gallery files contact-inspected; full4/9/13/14/15 pixels inspected2026-10-26. Front4 shows black wave dial,sword hands,date3,black calibrated bezel and steel bracelet. Closed9 shows hippocampus/wave back and930endlink marks. Inner14 visibly reads168.1640 with Omega/acier inoxydable marks. Movement15 visibly showsOMEGA1120 rotor,automatic architecture,visible balance/regulator and bridge markings. Clasp13 shows Omega Seamaster Professional folding steel clasp. Only actualmovement15 suppresses in external-only mode. Internal case reference168.1640 does not identify a unique retail dial/bracelet execution: original Zeitauktion2104969 separately associates the same case reference with blue2255.80.00 and1120; original DrCrott104lot86 catalogues168.1640/1120 with blue dial and specialOman back. Do not turn2254.50.00 or2255.80.00 into universal aliases or require blackdial/hippocampus back for every168.1640. Photo execution is explicitly representative. Source circa2006 dates its separate specimen only; no production interval or user-watch serial dating. Supplier-family equivalence, hardware interchangeability, current pressure resistance, physical authenticity and service originality not inferred. Packaging/register/workshop media excluded.",
+        "imageSha256": "87ac1a3ed89a981f4a520ac938223ba3e42e666ec626527ed4d2cd3f50b41474",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "id": "omega-1681640-20261026-inner",
+      "brand": "OMEGA",
+      "references": [
+        "168.1640"
+      ],
+      "representativeFor": [
+        "168.1640"
+      ],
+      "variant": "Zeitauktion2302100 black-dial2254.50.00 specimen carrying168.1640 inner-back marking; circa2006 attributed",
+      "category": "caseback",
+      "depictsMovement": false,
+      "title": "168.1640 — inner representative specimen",
+      "caption": "Actual source specimen with readable168.1640 inner back and1120movement. Blackdial/bracelet/backexecution is representative only; other dial/retail variants are not excluded. No universal retail-reference alias or user-watch authentication.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2302100_14_2k.jpg?v=1747345822",
+      "source": "https://www.zeitauktion.com/de/products/omega-seamaster-professional-300m-schwerty-automatik-ref-2254-50-00-2302100",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected2026-10-26",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-26T09:49:35.969Z",
+        "loadedAt": "2026-10-26T09:49:35.969Z",
+        "evidence": "Original Zeitauktion2302100 HTML/product JSON identifies168.1640 with2254.50.00 for its particular41mmsteel black-dial specimen and automatic1120. All16original gallery files contact-inspected; full4/9/13/14/15 pixels inspected2026-10-26. Front4 shows black wave dial,sword hands,date3,black calibrated bezel and steel bracelet. Closed9 shows hippocampus/wave back and930endlink marks. Inner14 visibly reads168.1640 with Omega/acier inoxydable marks. Movement15 visibly showsOMEGA1120 rotor,automatic architecture,visible balance/regulator and bridge markings. Clasp13 shows Omega Seamaster Professional folding steel clasp. Only actualmovement15 suppresses in external-only mode. Internal case reference168.1640 does not identify a unique retail dial/bracelet execution: original Zeitauktion2104969 separately associates the same case reference with blue2255.80.00 and1120; original DrCrott104lot86 catalogues168.1640/1120 with blue dial and specialOman back. Do not turn2254.50.00 or2255.80.00 into universal aliases or require blackdial/hippocampus back for every168.1640. Photo execution is explicitly representative. Source circa2006 dates its separate specimen only; no production interval or user-watch serial dating. Supplier-family equivalence, hardware interchangeability, current pressure resistance, physical authenticity and service originality not inferred. Packaging/register/workshop media excluded.",
+        "imageSha256": "7ed590a12c92e51430d0688056aa3d760d309b1da71331312022b3525184a9a2",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "id": "omega-1681640-20261026-clasp",
+      "brand": "OMEGA",
+      "references": [
+        "168.1640"
+      ],
+      "representativeFor": [
+        "168.1640"
+      ],
+      "variant": "Zeitauktion2302100 black-dial2254.50.00 specimen carrying168.1640 inner-back marking; circa2006 attributed",
+      "category": "braceletClasp",
+      "depictsMovement": false,
+      "title": "168.1640 — clasp representative specimen",
+      "caption": "Actual source specimen with readable168.1640 inner back and1120movement. Blackdial/bracelet/backexecution is representative only; other dial/retail variants are not excluded. No universal retail-reference alias or user-watch authentication.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2302100_13_2k.jpg?v=1747345822",
+      "source": "https://www.zeitauktion.com/de/products/omega-seamaster-professional-300m-schwerty-automatik-ref-2254-50-00-2302100",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected2026-10-26",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-26T09:49:35.969Z",
+        "loadedAt": "2026-10-26T09:49:35.969Z",
+        "evidence": "Original Zeitauktion2302100 HTML/product JSON identifies168.1640 with2254.50.00 for its particular41mmsteel black-dial specimen and automatic1120. All16original gallery files contact-inspected; full4/9/13/14/15 pixels inspected2026-10-26. Front4 shows black wave dial,sword hands,date3,black calibrated bezel and steel bracelet. Closed9 shows hippocampus/wave back and930endlink marks. Inner14 visibly reads168.1640 with Omega/acier inoxydable marks. Movement15 visibly showsOMEGA1120 rotor,automatic architecture,visible balance/regulator and bridge markings. Clasp13 shows Omega Seamaster Professional folding steel clasp. Only actualmovement15 suppresses in external-only mode. Internal case reference168.1640 does not identify a unique retail dial/bracelet execution: original Zeitauktion2104969 separately associates the same case reference with blue2255.80.00 and1120; original DrCrott104lot86 catalogues168.1640/1120 with blue dial and specialOman back. Do not turn2254.50.00 or2255.80.00 into universal aliases or require blackdial/hippocampus back for every168.1640. Photo execution is explicitly representative. Source circa2006 dates its separate specimen only; no production interval or user-watch serial dating. Supplier-family equivalence, hardware interchangeability, current pressure resistance, physical authenticity and service originality not inferred. Packaging/register/workshop media excluded.",
+        "imageSha256": "da26c870830c995878cfe7dfe4eef1ee31df37c78b318f71120e7a7e9261c320",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        }
+      }
     }
   ]
 }
