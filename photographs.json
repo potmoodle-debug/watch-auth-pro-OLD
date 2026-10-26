@@ -37646,6 +37646,142 @@
           "height": 1796
         }
       }
+    },
+    {
+      "id": "rolex-14000-20261026-front",
+      "brand": "ROLEX",
+      "references": [
+        "14000"
+      ],
+      "representativeFor": [
+        "14000"
+      ],
+      "variant": "Zeitauktion2503920 black-dial steel U-series specimen; circa1997 attributed",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "14000 — Front specimen photograph",
+      "caption": "Black Air-King Precision dial, applied baton markers, T SWISS MADE T footer, smooth bezel and three-link steel bracelet. This pictured dial is a specimen variant, not every 14000 dial. Representative black-dial execution only; no authentication or universal component-originality claim.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503920_01_2k.jpg?v=1758788996",
+      "source": "https://www.zeitauktion.com/de/products/rolex-air-king-34-oyster-stahl-black-dial-automatik-herrenuhr-ref-14000-u-serie-2503920",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original page and actual pixels inspected2026-10-26",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-26T09:26:08.915Z",
+        "loadedAt": "2026-10-26T09:26:08.915Z",
+        "evidence": "Original Zeitauktion2503920 HTML/product JSON identifies exact Rolex Air-King14000, automatic3000,34mm steel, black dial and circa1997 U-series specimen. Actual gallery contact sheet and full images5/11/13/14 inspected2026-10-26. Black Air-King Precision dial, applied baton markers, T SWISS MADE T footer, smooth bezel and three-link steel bracelet. This pictured dial is a specimen variant, not every 14000 dial. Closed screw back with green 14000 sticker; bracelet 78350 / 19 marks visible. Sticker is not a case-reference engraving or authenticity proof; bracelet marks are specimen observations only. Three-link steel bracelet and closed folding clasp with crown emblem. No internal clasp date code established. Actual fitted full-rotor movement; 3000 and Rolex Geneva Swiss markings visible; red reversing wheels and balance visible. Source description independently names calibre 3000. Suppress this image in external-only inspection mode. No 14000M / 3130 equivalence. No claim that the user's watch or components are genuine. No inner caseback photograph in this gallery. Packaging, register sheet and generic workshop collage are excluded. No serial, clasp code, service originality or manufacture interval inferred from this specimen. Dealer reports failed water-resistance test for its specimen; no pressure resistance or service state is inferred for the user watch. Full production period and inner-back execution remain unestablished. Photographs illustrate one black-dial specimen only; other dial executions are not asserted.",
+        "imageSha256": "feeccc9b805235ec6a15c846e08940621cadd24190c315615f94d09c5963cafc",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "id": "rolex-14000-20261026-caseback",
+      "brand": "ROLEX",
+      "references": [
+        "14000"
+      ],
+      "representativeFor": [
+        "14000"
+      ],
+      "variant": "Zeitauktion2503920 black-dial steel U-series specimen; circa1997 attributed",
+      "category": "caseback",
+      "depictsMovement": false,
+      "title": "14000 — Caseback specimen photograph",
+      "caption": "Closed screw back with green 14000 sticker; bracelet 78350 / 19 marks visible. Sticker is not a case-reference engraving or authenticity proof; bracelet marks are specimen observations only. Representative black-dial execution only; no authentication or universal component-originality claim.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503920_10_2k.jpg?v=1758789041",
+      "source": "https://www.zeitauktion.com/de/products/rolex-air-king-34-oyster-stahl-black-dial-automatik-herrenuhr-ref-14000-u-serie-2503920",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original page and actual pixels inspected2026-10-26",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-26T09:26:08.915Z",
+        "loadedAt": "2026-10-26T09:26:08.915Z",
+        "evidence": "Original Zeitauktion2503920 HTML/product JSON identifies exact Rolex Air-King14000, automatic3000,34mm steel, black dial and circa1997 U-series specimen. Actual gallery contact sheet and full images5/11/13/14 inspected2026-10-26. Black Air-King Precision dial, applied baton markers, T SWISS MADE T footer, smooth bezel and three-link steel bracelet. This pictured dial is a specimen variant, not every 14000 dial. Closed screw back with green 14000 sticker; bracelet 78350 / 19 marks visible. Sticker is not a case-reference engraving or authenticity proof; bracelet marks are specimen observations only. Three-link steel bracelet and closed folding clasp with crown emblem. No internal clasp date code established. Actual fitted full-rotor movement; 3000 and Rolex Geneva Swiss markings visible; red reversing wheels and balance visible. Source description independently names calibre 3000. Suppress this image in external-only inspection mode. No 14000M / 3130 equivalence. No claim that the user's watch or components are genuine. No inner caseback photograph in this gallery. Packaging, register sheet and generic workshop collage are excluded. No serial, clasp code, service originality or manufacture interval inferred from this specimen. Dealer reports failed water-resistance test for its specimen; no pressure resistance or service state is inferred for the user watch. Full production period and inner-back execution remain unestablished. Photographs illustrate one black-dial specimen only; other dial executions are not asserted.",
+        "imageSha256": "2833f6bf93974d40076fae0b3c72ac48e7b8d6e4d6b6e4b996944da8a51e2ca7",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "id": "rolex-14000-20261026-braceletClasp",
+      "brand": "ROLEX",
+      "references": [
+        "14000"
+      ],
+      "representativeFor": [
+        "14000"
+      ],
+      "variant": "Zeitauktion2503920 black-dial steel U-series specimen; circa1997 attributed",
+      "category": "braceletClasp",
+      "depictsMovement": false,
+      "title": "14000 — Bracelet/Clasp specimen photograph",
+      "caption": "Three-link steel bracelet and closed folding clasp with crown emblem. No internal clasp date code established. Representative black-dial execution only; no authentication or universal component-originality claim.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503920_12_2k.jpg?v=1758789044",
+      "source": "https://www.zeitauktion.com/de/products/rolex-air-king-34-oyster-stahl-black-dial-automatik-herrenuhr-ref-14000-u-serie-2503920",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original page and actual pixels inspected2026-10-26",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-26T09:26:08.915Z",
+        "loadedAt": "2026-10-26T09:26:08.915Z",
+        "evidence": "Original Zeitauktion2503920 HTML/product JSON identifies exact Rolex Air-King14000, automatic3000,34mm steel, black dial and circa1997 U-series specimen. Actual gallery contact sheet and full images5/11/13/14 inspected2026-10-26. Black Air-King Precision dial, applied baton markers, T SWISS MADE T footer, smooth bezel and three-link steel bracelet. This pictured dial is a specimen variant, not every 14000 dial. Closed screw back with green 14000 sticker; bracelet 78350 / 19 marks visible. Sticker is not a case-reference engraving or authenticity proof; bracelet marks are specimen observations only. Three-link steel bracelet and closed folding clasp with crown emblem. No internal clasp date code established. Actual fitted full-rotor movement; 3000 and Rolex Geneva Swiss markings visible; red reversing wheels and balance visible. Source description independently names calibre 3000. Suppress this image in external-only inspection mode. No 14000M / 3130 equivalence. No claim that the user's watch or components are genuine. No inner caseback photograph in this gallery. Packaging, register sheet and generic workshop collage are excluded. No serial, clasp code, service originality or manufacture interval inferred from this specimen. Dealer reports failed water-resistance test for its specimen; no pressure resistance or service state is inferred for the user watch. Full production period and inner-back execution remain unestablished. Photographs illustrate one black-dial specimen only; other dial executions are not asserted.",
+        "imageSha256": "6ea56275c5cca3220bf75b9bd409101484f06d4d38fa72ef88c7c643b4fd9cda",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "id": "rolex-14000-20261026-movement",
+      "brand": "ROLEX",
+      "references": [
+        "14000"
+      ],
+      "representativeFor": [
+        "14000"
+      ],
+      "variant": "Zeitauktion2503920 black-dial steel U-series specimen; circa1997 attributed",
+      "category": "movement",
+      "depictsMovement": true,
+      "title": "14000 — Movement specimen photograph",
+      "caption": "Actual fitted full-rotor movement; 3000 and Rolex Geneva Swiss markings visible; red reversing wheels and balance visible. Source description independently names calibre 3000. Suppress this image in external-only inspection mode. Representative black-dial execution only; no authentication or universal component-originality claim.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503920_13_2k.jpg?v=1758789046",
+      "source": "https://www.zeitauktion.com/de/products/rolex-air-king-34-oyster-stahl-black-dial-automatik-herrenuhr-ref-14000-u-serie-2503920",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original page and actual pixels inspected2026-10-26",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-26T09:26:08.915Z",
+        "loadedAt": "2026-10-26T09:26:08.915Z",
+        "evidence": "Original Zeitauktion2503920 HTML/product JSON identifies exact Rolex Air-King14000, automatic3000,34mm steel, black dial and circa1997 U-series specimen. Actual gallery contact sheet and full images5/11/13/14 inspected2026-10-26. Black Air-King Precision dial, applied baton markers, T SWISS MADE T footer, smooth bezel and three-link steel bracelet. This pictured dial is a specimen variant, not every 14000 dial. Closed screw back with green 14000 sticker; bracelet 78350 / 19 marks visible. Sticker is not a case-reference engraving or authenticity proof; bracelet marks are specimen observations only. Three-link steel bracelet and closed folding clasp with crown emblem. No internal clasp date code established. Actual fitted full-rotor movement; 3000 and Rolex Geneva Swiss markings visible; red reversing wheels and balance visible. Source description independently names calibre 3000. Suppress this image in external-only inspection mode. No 14000M / 3130 equivalence. No claim that the user's watch or components are genuine. No inner caseback photograph in this gallery. Packaging, register sheet and generic workshop collage are excluded. No serial, clasp code, service originality or manufacture interval inferred from this specimen. Dealer reports failed water-resistance test for its specimen; no pressure resistance or service state is inferred for the user watch. Full production period and inner-back execution remain unestablished. Photographs illustrate one black-dial specimen only; other dial executions are not asserted.",
+        "imageSha256": "af23b839d9c85dcaf64d5def12e70718a76d7ef146b4be6a0d4ecba73b024c85",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        }
+      }
     }
   ]
 }
