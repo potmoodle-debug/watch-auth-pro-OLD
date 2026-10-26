@@ -1,0 +1,297 @@
+{
+  "reviewedAt": "2026-10-26",
+  "scope": "Three exact model mappings and six original exterior photographs; unsupported rear and movement categories retained as gaps",
+  "records": [
+    {
+      "brand": "ROLEX",
+      "reference": "126618LN",
+      "decision": "answered",
+      "sources": [
+        {
+          "title": "Rolex original exact-reference technical details",
+          "url": "https://www.rolex.com/watches/submariner/m126618ln-0002"
+        },
+        {
+          "title": "Uhren2000 original specimen gallery",
+          "url": "https://www.uhren2000.de/en/products/rolex-submariner-date-41-yellow-gold-126618ln-4"
+        }
+      ],
+      "conclusion": "Original Rolex exact-reference page documents 41 mm 18 ct yellow gold; black dial and black 60-minute ceramic bezel; Oyster bracelet, Oysterlock and Glidelock and automatic calibre 3235 with approximately 70-hour nominal reserve. Original Uhren2000 exact-reference listing and actual front photograph 2 and clasp photograph 8 were inspected on 26 October 2026. These show the black-dial specimen and its stated bracelet execution. Photographs are representative of this execution only; no unlisted dial, bracelet, metal, neighbouring reference or full suffix is inferred. Rear views are partly obscured by the bracelet or display holder: no dedicated caseback photograph is accepted. No opened movement or inner-back photograph is accepted. The calibre is manufacturer model guidance, not a readable fitted-movement marking. Dealer delivery years do not establish the full production period or date the user watch. Gold colour and exterior marks do not establish alloy, authenticity, component originality or water resistance. No current warranty, generic supplier equivalence or automatic M-prefix/suffix alias is inferred.",
+      "accepted": [
+        {
+          "id": "rolex-126618ln-20261026-front",
+          "category": "front",
+          "image": "https://cdn.shopify.com/s/files/1/0634/8780/3545/files/126618LN-2021-G12.jpg?v=1749559202",
+          "sha256": "07209f39e1df17e0f87a76e56c61360c8f1881001f6ce56bebc0f65e054f0862"
+        },
+        {
+          "id": "rolex-126618ln-20261026-braceletClasp",
+          "category": "braceletClasp",
+          "image": "https://cdn.shopify.com/s/files/1/0634/8780/3545/files/126618LN-2021-G18.jpg?v=1749559229",
+          "sha256": "77b12b31abb17f31eb5cacad487008dc81462983b874ce80b273e26be9244e17"
+        }
+      ],
+      "inspectedGallery": {
+        "source": "https://www.uhren2000.de/en/products/rolex-submariner-date-41-yellow-gold-126618ln-4",
+        "at": "2026-10-26T10:22:22.105Z",
+        "images": [
+          {
+            "index": 1,
+            "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/files/126618LN-2021-G11.jpg?v=1749559196",
+            "file": "image-01.jpg",
+            "bytes": 30952,
+            "sha256": "4b7bbe6703ec0df450632393ae941fb339d1e9a0ff0cd6356ef0f1173a6f168c"
+          },
+          {
+            "index": 2,
+            "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/files/126618LN-2021-G12.jpg?v=1749559202",
+            "file": "image-02.jpg",
+            "bytes": 51960,
+            "sha256": "07209f39e1df17e0f87a76e56c61360c8f1881001f6ce56bebc0f65e054f0862"
+          },
+          {
+            "index": 3,
+            "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/files/126618LN-2021-G13.jpg?v=1749559203",
+            "file": "image-03.jpg",
+            "bytes": 56874,
+            "sha256": "cf88bb14fe43288ba69b079b0f187841d70503e43b771a9ba00eef033500e671"
+          },
+          {
+            "index": 4,
+            "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/files/126618LN-2021-G14.jpg?v=1749559209",
+            "file": "image-04.jpg",
+            "bytes": 57398,
+            "sha256": "08fbb9be3909deb00a222fd9aa47956d23a2d3d31fae36f3cfe0a35d133b17c6"
+          },
+          {
+            "index": 5,
+            "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/files/126618LN-2021-G15.jpg?v=1749559217",
+            "file": "image-05.jpg",
+            "bytes": 42881,
+            "sha256": "f0a37f33e442890289e0f948c54eafcdc87c21906656841bb62afb86219f9952"
+          },
+          {
+            "index": 6,
+            "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/files/126618LN-2021-G16.jpg?v=1749559221",
+            "file": "image-06.jpg",
+            "bytes": 46404,
+            "sha256": "cac9897ece89f4e441dbb6c9b9ff85f097a1619ab1d1c71ec0230479c590ef8d"
+          },
+          {
+            "index": 7,
+            "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/files/126618LN-2021-G17.jpg?v=1749559225",
+            "file": "image-07.jpg",
+            "bytes": 48598,
+            "sha256": "11c22dc61650c88e2704d843e9d17772cde7f65133cfbddbf42265f260e182f6"
+          },
+          {
+            "index": 8,
+            "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/files/126618LN-2021-G18.jpg?v=1749559229",
+            "file": "image-08.jpg",
+            "bytes": 34491,
+            "sha256": "77b12b31abb17f31eb5cacad487008dc81462983b874ce80b273e26be9244e17"
+          }
+        ]
+      },
+      "unsupported": [
+        "movement",
+        "caseback",
+        "inner caseback"
+      ]
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "126715CHNR",
+      "decision": "answered",
+      "sources": [
+        {
+          "title": "Rolex original exact-reference technical details",
+          "url": "https://www.rolex.com/watches/gmt-master-ii/m126715chnr-0001"
+        },
+        {
+          "title": "Uhren2000 original specimen gallery",
+          "url": "https://www.uhren2000.de/en/products/rolex-gmt-master-ii-everose-gold-126715chnr-2"
+        }
+      ],
+      "conclusion": "Original Rolex exact-reference page documents 40 mm 18 ct Everose gold; black dial and brown/black 24-hour ceramic bezel; Oyster bracelet, Oysterlock and Easylink and automatic calibre 3285 with approximately 70-hour nominal reserve. Original Uhren2000 exact-reference listing and actual front photograph 2 and clasp photograph 8 were inspected on 26 October 2026. These show the black-dial specimen and its stated bracelet execution. Photographs are representative of this execution only; no unlisted dial, bracelet, metal, neighbouring reference or full suffix is inferred. Rear views are partly obscured by the bracelet or display holder: no dedicated caseback photograph is accepted. No opened movement or inner-back photograph is accepted. The calibre is manufacturer model guidance, not a readable fitted-movement marking. Dealer delivery years do not establish the full production period or date the user watch. Gold colour and exterior marks do not establish alloy, authenticity, component originality or water resistance. No current warranty, generic supplier equivalence or automatic M-prefix/suffix alias is inferred.",
+      "accepted": [
+        {
+          "id": "rolex-126715chnr-20261026-front",
+          "category": "front",
+          "image": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/M126715CHNR-0001-2019-g2.jpg?v=1730113712",
+          "sha256": "5f74d2387aa11ec22690bcba3feb8b90c3325d62e971c5d47aa15004576aab7e"
+        },
+        {
+          "id": "rolex-126715chnr-20261026-braceletClasp",
+          "category": "braceletClasp",
+          "image": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/M126715CHNR-0001-2019-g8.jpg?v=1730113733",
+          "sha256": "ebe546c189a102d1be26d09c4ea876ffb9f0e2482ace93f38fea5a58da0e1411"
+        }
+      ],
+      "inspectedGallery": {
+        "source": "https://www.uhren2000.de/en/products/rolex-gmt-master-ii-everose-gold-126715chnr-2",
+        "at": "2026-10-26T10:22:25.355Z",
+        "images": [
+          {
+            "index": 1,
+            "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/M126715CHNR-0001-2019-g1.jpg?v=1730113706",
+            "file": "image-01.jpg",
+            "bytes": 32273,
+            "sha256": "96418fcdb8b7573321e7cc7b75ddd747b4afc437da2708a93654830a52959dd2"
+          },
+          {
+            "index": 2,
+            "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/M126715CHNR-0001-2019-g2.jpg?v=1730113712",
+            "file": "image-02.jpg",
+            "bytes": 48712,
+            "sha256": "5f74d2387aa11ec22690bcba3feb8b90c3325d62e971c5d47aa15004576aab7e"
+          },
+          {
+            "index": 3,
+            "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/M126715CHNR-0001-2019-g3.jpg?v=1730113714",
+            "file": "image-03.jpg",
+            "bytes": 74418,
+            "sha256": "e35bd89a36a03fd683098856bda7fa11e81633e96f9fa77b2df7ec4069a05881"
+          },
+          {
+            "index": 4,
+            "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/M126715CHNR-0001-2019-g4.jpg?v=1730113717",
+            "file": "image-04.jpg",
+            "bytes": 75409,
+            "sha256": "40984fb8798a1d9623aea9693c25ce13c4186bfff34c91d52a09b86cd353b8fd"
+          },
+          {
+            "index": 5,
+            "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/M126715CHNR-0001-2019-g5.jpg?v=1730113719",
+            "file": "image-05.jpg",
+            "bytes": 53113,
+            "sha256": "407a3e7b84d7ed6e0d18320ee5e662cf2bcf5ea84dcfb439f952db1186f099ca"
+          },
+          {
+            "index": 6,
+            "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/M126715CHNR-0001-2019-g6.jpg?v=1730113723",
+            "file": "image-06.jpg",
+            "bytes": 52552,
+            "sha256": "5e85c05af0ef425ca115c0b586c6c5d706a229271256991c3f02997a85c8c33e"
+          },
+          {
+            "index": 7,
+            "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/M126715CHNR-0001-2019-g7.jpg?v=1730113730",
+            "file": "image-07.jpg",
+            "bytes": 53982,
+            "sha256": "236253da74e2ed099ef7733c3f4feca98ef7304ce22dcb778c30e9020bef59fa"
+          },
+          {
+            "index": 8,
+            "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/M126715CHNR-0001-2019-g8.jpg?v=1730113733",
+            "file": "image-08.jpg",
+            "bytes": 41051,
+            "sha256": "ebe546c189a102d1be26d09c4ea876ffb9f0e2482ace93f38fea5a58da0e1411"
+          }
+        ]
+      },
+      "unsupported": [
+        "movement",
+        "caseback",
+        "inner caseback"
+      ]
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "126718GRNR",
+      "decision": "answered",
+      "sources": [
+        {
+          "title": "Rolex original exact-reference technical details",
+          "url": "https://www.rolex.com/watches/gmt-master-ii/m126718grnr-0001"
+        },
+        {
+          "title": "Uhren2000 original specimen gallery",
+          "url": "https://www.uhren2000.de/en/products/rolex-gmt-master-ii-yellow-gold-126718grnr-1"
+        }
+      ],
+      "conclusion": "Original Rolex exact-reference page documents 40 mm 18 ct yellow gold; black dial and grey/black 24-hour ceramic bezel; Jubilee bracelet, Oysterlock and Easylink and automatic calibre 3285 with approximately 70-hour nominal reserve. Original Uhren2000 exact-reference listing and actual front photograph 2 and clasp photograph 8 were inspected on 26 October 2026. These show the black-dial specimen and its stated bracelet execution. Photographs are representative of this execution only; no unlisted dial, bracelet, metal, neighbouring reference or full suffix is inferred. Rear views are partly obscured by the bracelet or display holder: no dedicated caseback photograph is accepted. No opened movement or inner-back photograph is accepted. The calibre is manufacturer model guidance, not a readable fitted-movement marking. Dealer delivery years do not establish the full production period or date the user watch. Gold colour and exterior marks do not establish alloy, authenticity, component originality or water resistance. No current warranty, generic supplier equivalence or automatic M-prefix/suffix alias is inferred.",
+      "accepted": [
+        {
+          "id": "rolex-126718grnr-20261026-front",
+          "category": "front",
+          "image": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/126718GRNR-2023-G2.jpg?v=1727111956",
+          "sha256": "ec6704f2cd456d2d8a423c55a7e60ffa18b7ddc79b2be9d1b8bb237f228ea8bd"
+        },
+        {
+          "id": "rolex-126718grnr-20261026-braceletClasp",
+          "category": "braceletClasp",
+          "image": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/126718GRNR-2023-G8.jpg?v=1727111976",
+          "sha256": "6738fae348d20e53ba9aacfb199281fd7e0d3daee3cf098769a4f1d0273e4bba"
+        }
+      ],
+      "inspectedGallery": {
+        "source": "https://www.uhren2000.de/en/products/rolex-gmt-master-ii-yellow-gold-126718grnr-1",
+        "at": "2026-10-26T10:21:47.497Z",
+        "images": [
+          {
+            "index": 1,
+            "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/126718GRNR-2023-G1.jpg?v=1727111951",
+            "file": "image-01.jpg",
+            "sha256": "a4ed06e69ede60fa066a98aee680b2a824144e799650f4f61ae642ea3d7ea897",
+            "bytes": 35746
+          },
+          {
+            "index": 2,
+            "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/126718GRNR-2023-G2.jpg?v=1727111956",
+            "file": "image-02.jpg",
+            "sha256": "ec6704f2cd456d2d8a423c55a7e60ffa18b7ddc79b2be9d1b8bb237f228ea8bd",
+            "bytes": 58552
+          },
+          {
+            "index": 3,
+            "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/126718GRNR-2023-G3.jpg?v=1727111959",
+            "file": "image-03.jpg",
+            "sha256": "ba1047e32d4f469bff4dd7197f5f49d291ccb9c1b2cc1879c3ce7caa8d3cb17c",
+            "bytes": 85070
+          },
+          {
+            "index": 4,
+            "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/126718GRNR-2023-G4.jpg?v=1727111963",
+            "file": "image-04.jpg",
+            "sha256": "3c08a95e17bb091b2f73f9efa93a179dc353fe52ee50c1be4fcb30ba14555f96",
+            "bytes": 92221
+          },
+          {
+            "index": 5,
+            "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/126718GRNR-2023-G5.jpg?v=1727111966",
+            "file": "image-05.jpg",
+            "sha256": "0f9f6982a75cb20924a0b9d8b192c7e10f47afe83b1bdfb3b14311b521424748",
+            "bytes": 46760
+          },
+          {
+            "index": 6,
+            "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/126718GRNR-2023-G6.jpg?v=1727111969",
+            "file": "image-06.jpg",
+            "sha256": "d17086d25c3045544d38bee9285786de665da71662df3a868fb4183529751012",
+            "bytes": 47757
+          },
+          {
+            "index": 7,
+            "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/126718GRNR-2023-G7.jpg?v=1727111971",
+            "file": "image-07.jpg",
+            "sha256": "a12686a2e96d282e7b8522fc104e4757304abf962fbf475380eb4c150c59b9e9",
+            "bytes": 59619
+          },
+          {
+            "index": 8,
+            "url": "https://cdn.shopify.com/s/files/1/0634/8780/3545/products/126718GRNR-2023-G8.jpg?v=1727111976",
+            "file": "image-08.jpg",
+            "sha256": "6738fae348d20e53ba9aacfb199281fd7e0d3daee3cf098769a4f1d0273e4bba",
+            "bytes": 42984
+          }
+        ]
+      },
+      "unsupported": [
+        "movement",
+        "caseback",
+        "inner caseback"
+      ]
+    }
+  ]
+}
