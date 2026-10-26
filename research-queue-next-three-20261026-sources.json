@@ -1,0 +1,223 @@
+{
+  "reviewedAt": "2026-10-26T09:38:49.777Z",
+  "scope": "Three model mappings; six photo entries from five original files; publication and queue reconciliation pending",
+  "records": [
+    {
+      "brand": "ROLEX",
+      "reference": "126710BLRO",
+      "decision": "answered",
+      "conclusion": "Original Zeitauktion2202765 page/product JSON identifies exact126710BLRO, automatic3285,40mm steel and purchase8April2021 for its separate specimen. All13gallery files contact-inspected and full4/9/11 pixels inspected2026-10-26. Black dial, red/blue24h bezel, red GMT hand, date magnifier and Jubilee bracelet visible in front4; closed screw back9 and folding safety clasp11. No opened movement or inner-back photograph; no borrowed common3285 image. The pictured Jubilee execution is representative, not required on every126710BLRO. Separate Sothebys original-page lead redirected without readable body during this pass; no reserve, jewel count or alternative bracelet specification is accepted from that search snippet. Do not infer full suffix, production interval, clasp code or serial validity from these separate specimens. Existing user serial/clasp warnings remain applicable; model-calibre agreement is not authentication. Dealer pressure/condition claims do not test the user watch. No126710BLNR/VTNR,116710 or other GMT reference inheritance. Packaging/test slip/workshop media excluded.",
+      "sources": [
+        {
+          "title": "Original exact-reference source",
+          "url": "https://www.zeitauktion.com/de/products/rolex-gmt-master-ii-pepsi-herrenuhr-oyster-perpetual-ref-126710blro-b-p-2021-2202765"
+        }
+      ]
+    },
+    {
+      "brand": "ROLEX",
+      "reference": "M126334-0003",
+      "decision": "answered",
+      "conclusion": "Original Rolex exact model-code page m126334-0003 identifies Datejust41 with silver sunray dial, Oyster three-link bracelet, White Rolesor steel/white-gold construction, fluted gold bezel and automatic3235 with approximately70h nominal reserve. Only literal documented model code M126334-0003 is added; punctuation normalization supports entered M1263340003. No blanket M-prefix removal, bare126334 execution, Jubilee, blue dial or other000x suffix inference. User fitted3235 agrees with model attribution only; serial/claspK6Z remains an unverified observation and existing warnings remain intact. Nominal100m, certification and current catalogue imagery do not authenticate or pressure-test the user watch. No actual specimen photograph inspected for this full model code in this pass; all categories remain unsupported, manufacturer studio images not accepted as actual specimen photographs. Full production period unestablished.",
+      "sources": [
+        {
+          "title": "Original exact-reference source",
+          "url": "https://www.rolex.com/en-gb/watches/datejust/m126334-0003"
+        }
+      ]
+    },
+    {
+      "brand": "BREITLING",
+      "reference": "AB0136",
+      "decision": "answered",
+      "conclusion": "Original Breitling exact AB0136161C1A1 manufacturer page identifies Super Chronomat B0144, automatic Breitling01 Manufacture, approximately70h nominal reserve,47jewels,28800vph and44mmsteel case with sapphire screw-in back. Original Kaplans lot81/item2074901 independently names bare case referenceAB0136 and B01. Full original auction images3/4/5 inspected2026-10-26: blue dial with three pale counters, date6, blue bezel/crown/pusher inserts and steel Rouleaux bracelet; rear5 visibly reads AB0136-200M and shows fitted automatic rotor/movement through sapphire. B01 attribution is catalogue-backed; no independently readable B01 stamp established in these pixels. Image5 supplies both movement and caseback categories as one original file, and both entries must be hidden in external-only mode. No focused clasp-detail photograph accepted; bracelet visible but clasp details unestablished. Bare AB0136 gets limited base guidance and representative blue-dial specimen photos only. No full manufacturer suffix is assigned to the auction specimen by visual resemblance. Only separately documented fullAB0136161C1A1 receives manufacturer text; it does not inherit auction pictures. Auction certificateSeptember2022 and serial/case/bracelet marks describe that separate specimen, not user watch. No supplier-equivalence, otherBxx calibre, PB/RB/UB/EB material variant or unlisted suffix inheritance. Nominal200m and manufacturer certification are not tests of user-watch pressure resistance or authenticity.",
+      "sources": [
+        {
+          "title": "Breitling original AB0136161C1A1 technical page",
+          "url": "https://www.breitling.com/us-en/watches/chronomat/super-chronomat-b01-44/AB0136161C1A1/"
+        },
+        {
+          "title": "Kaplans original AB0136/B01 specimen lot81",
+          "url": "https://www.kaplans.se/en/auktioner/4761/vara/2074901"
+        }
+      ]
+    }
+  ],
+  "accepted": [
+    {
+      "id": "rolex-126710blro-20261026-front",
+      "category": "front",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2202765_01_2k.jpg?v=1747344709",
+      "sha256": "4ecc8c650da4193c2538df04d68837eacc693db09eec897bbc6efbbc9fab1b91"
+    },
+    {
+      "id": "rolex-126710blro-20261026-caseback",
+      "category": "caseback",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2202765_09_2k.jpg?v=1747344709",
+      "sha256": "95d9adbcfb91e8b9e3a8b81601c9b5f320642aa9ee9d8f5ace34f4bcd86801fa"
+    },
+    {
+      "id": "rolex-126710blro-20261026-braceletClasp",
+      "category": "braceletClasp",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2202765_11_2k.jpg?v=1747344709",
+      "sha256": "44aaab13b973f5283c9b31ca65dab9b1ff184fa6c62dfa129e05b30107a30201"
+    },
+    {
+      "id": "breitling-ab0136-20261026-front",
+      "category": "front",
+      "image": "https://kaplansimages.azureedge.net/en/varubild/dbl-res/2074901/3",
+      "sha256": "184904dfd1e81aab8f3352636f3644dac519030e82e7f8775bf90cd1de43c6d9"
+    },
+    {
+      "id": "breitling-ab0136-20261026-movement",
+      "category": "movement",
+      "image": "https://kaplansimages.azureedge.net/en/varubild/dbl-res/2074901/5",
+      "sha256": "c171d4c227658fc69582ce9e335245b737420915a99999b4f8a4cd81794c4596"
+    },
+    {
+      "id": "breitling-ab0136-20261026-caseback",
+      "category": "caseback",
+      "image": "https://kaplansimages.azureedge.net/en/varubild/dbl-res/2074901/5",
+      "sha256": "c171d4c227658fc69582ce9e335245b737420915a99999b4f8a4cd81794c4596"
+    }
+  ],
+  "galleries": [
+    {
+      "source": "https://www.zeitauktion.com/de/products/rolex-gmt-master-ii-pepsi-herrenuhr-oyster-perpetual-ref-126710blro-b-p-2021-2202765",
+      "at": "2026-10-26T09:38:00.618Z",
+      "images": [
+        {
+          "index": 1,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2202765_02_2k.jpg?v=1747344709",
+          "file": "image-01.jpg",
+          "sha256": "9a0489ab5f14978aceb6e4f1ad566219e6146262bdf86c2c663791282cfd005a",
+          "bytes": 264794
+        },
+        {
+          "index": 2,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2202765_03_2k.jpg?v=1747344709",
+          "file": "image-02.jpg",
+          "sha256": "4972ecf61b2809f9c68eb1895b72bfd2129a8fdfc690e926c9aabdb0851bfa70",
+          "bytes": 385992
+        },
+        {
+          "index": 3,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2202765_04_2k.jpg?v=1747344710",
+          "file": "image-03.jpg",
+          "sha256": "694cc0948456477090a372ad3b9d86151fc3e94dfeb1733791b059a5a5e0d071",
+          "bytes": 352053
+        },
+        {
+          "index": 4,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2202765_01_2k.jpg?v=1747344709",
+          "file": "image-04.jpg",
+          "sha256": "4ecc8c650da4193c2538df04d68837eacc693db09eec897bbc6efbbc9fab1b91",
+          "bytes": 150650
+        },
+        {
+          "index": 5,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2202765_05_2k.jpg?v=1747344710",
+          "file": "image-05.jpg",
+          "sha256": "70c7ec96213cb4d3f7a0af0b7f75097c1d325ab48c9f9dd6816b29e13ec993dc",
+          "bytes": 413940
+        },
+        {
+          "index": 6,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2202765_06_2k.jpg?v=1747344709",
+          "file": "image-06.jpg",
+          "sha256": "45420d23c718387a6cabb71860be633568e33912d7b3dbc4cd5914900258095a",
+          "bytes": 96113
+        },
+        {
+          "index": 7,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2202765_07_2k.jpg?v=1747344709",
+          "file": "image-07.jpg",
+          "sha256": "380fbd83b290c62fa081ed6aa172ce0b8c86006291bdea1019432d4b1174519d",
+          "bytes": 99710
+        },
+        {
+          "index": 8,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2202765_08_2k.jpg?v=1747344710",
+          "file": "image-08.jpg",
+          "sha256": "1e6da5d6e2e5e919688a3f6ba315f4e2101f9333a717c5ea4235c447fbcdebde",
+          "bytes": 124237
+        },
+        {
+          "index": 9,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2202765_09_2k.jpg?v=1747344709",
+          "file": "image-09.jpg",
+          "sha256": "95d9adbcfb91e8b9e3a8b81601c9b5f320642aa9ee9d8f5ace34f4bcd86801fa",
+          "bytes": 167323
+        },
+        {
+          "index": 10,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2202765_10_2k.jpg?v=1747344710",
+          "file": "image-10.jpg",
+          "sha256": "7842f539de6cc4f7692a82bb5236749f5fd96aff17d286faf6e3d68e6b992022",
+          "bytes": 88636
+        },
+        {
+          "index": 11,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2202765_11_2k.jpg?v=1747344709",
+          "file": "image-11.jpg",
+          "sha256": "44aaab13b973f5283c9b31ca65dab9b1ff184fa6c62dfa129e05b30107a30201",
+          "bytes": 112953
+        },
+        {
+          "index": 12,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2202765_12_2k.jpg?v=1747344709",
+          "file": "image-12.jpg",
+          "sha256": "5459e0dbfcaf34be6ee9bb1a5ccb06701dfe3b497005890a3d4f92e2e0a5572b",
+          "bytes": 88115
+        },
+        {
+          "index": 13,
+          "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/photoSet_workshop_2k_20260629.jpg?v=1782732100",
+          "file": "image-13.jpg",
+          "sha256": "d7c47c925b681c85c0e05dd124e9a56a9bb373adf9bfc020bad94fe8e2408ebb",
+          "bytes": 257861
+        }
+      ]
+    },
+    {
+      "source": "https://www.kaplans.se/en/auktioner/4761/vara/2074901",
+      "status": 200,
+      "at": "2026-10-26T09:38:49.777Z",
+      "images": [
+        {
+          "url": "https://kaplansimages.azureedge.net/en/varubild/dbl-res/2074901/3",
+          "file": "image-3.jpg",
+          "bytes": 498442,
+          "sha256": "184904dfd1e81aab8f3352636f3644dac519030e82e7f8775bf90cd1de43c6d9"
+        },
+        {
+          "url": "https://kaplansimages.azureedge.net/en/varubild/dbl-res/2074901/4",
+          "file": "image-4.jpg",
+          "bytes": 438612,
+          "sha256": "eb714f47005fd3453ad9811841ff114a65ce46c08790b040b51b6b3b28743d38"
+        },
+        {
+          "url": "https://kaplansimages.azureedge.net/en/varubild/dbl-res/2074901/5",
+          "file": "image-5.jpg",
+          "bytes": 443534,
+          "sha256": "c171d4c227658fc69582ce9e335245b737420915a99999b4f8a4cd81794c4596"
+        }
+      ]
+    }
+  ],
+  "unsupported": {
+    "126710BLRO": [
+      "movement",
+      "inner caseback"
+    ],
+    "M126334-0003": [
+      "front",
+      "movement",
+      "caseback",
+      "braceletClasp"
+    ],
+    "AB0136": [
+      "focused clasp detail"
+    ]
+  }
+}
