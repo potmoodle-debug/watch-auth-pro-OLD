@@ -1,0 +1,149 @@
+{
+  "reviewedAt": "2026-10-26T09:26:08.915Z",
+  "sourceRecordId": "UPDATE:ROLEX|14000",
+  "scope": "Four inspected specimen categories; publication and queue reconciliation pending",
+  "evidence": "Original Zeitauktion2503920 HTML/product JSON identifies exact Rolex Air-King14000, automatic3000,34mm steel, black dial and circa1997 U-series specimen. Actual gallery contact sheet and full images5/11/13/14 inspected2026-10-26. Black Air-King Precision dial, applied baton markers, T SWISS MADE T footer, smooth bezel and three-link steel bracelet. This pictured dial is a specimen variant, not every 14000 dial. Closed screw back with green 14000 sticker; bracelet 78350 / 19 marks visible. Sticker is not a case-reference engraving or authenticity proof; bracelet marks are specimen observations only. Three-link steel bracelet and closed folding clasp with crown emblem. No internal clasp date code established. Actual fitted full-rotor movement; 3000 and Rolex Geneva Swiss markings visible; red reversing wheels and balance visible. Source description independently names calibre 3000. Suppress this image in external-only inspection mode. No 14000M / 3130 equivalence. No claim that the user's watch or components are genuine. No inner caseback photograph in this gallery. Packaging, register sheet and generic workshop collage are excluded. No serial, clasp code, service originality or manufacture interval inferred from this specimen. Dealer reports failed water-resistance test for its specimen; no pressure resistance or service state is inferred for the user watch. Full production period and inner-back execution remain unestablished. Photographs illustrate one black-dial specimen only; other dial executions are not asserted.",
+  "sources": [
+    {
+      "title": "Zeitauktion2503920 original14000 listing",
+      "url": "https://www.zeitauktion.com/de/products/rolex-air-king-34-oyster-stahl-black-dial-automatik-herrenuhr-ref-14000-u-serie-2503920"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "rolex-14000-20261026-front",
+      "category": "front",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503920_01_2k.jpg?v=1758788996",
+      "sha256": "feeccc9b805235ec6a15c846e08940621cadd24190c315615f94d09c5963cafc"
+    },
+    {
+      "id": "rolex-14000-20261026-caseback",
+      "category": "caseback",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503920_10_2k.jpg?v=1758789041",
+      "sha256": "2833f6bf93974d40076fae0b3c72ac48e7b8d6e4d6b6e4b996944da8a51e2ca7"
+    },
+    {
+      "id": "rolex-14000-20261026-braceletClasp",
+      "category": "braceletClasp",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503920_12_2k.jpg?v=1758789044",
+      "sha256": "6ea56275c5cca3220bf75b9bd409101484f06d4d38fa72ef88c7c643b4fd9cda"
+    },
+    {
+      "id": "rolex-14000-20261026-movement",
+      "category": "movement",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503920_13_2k.jpg?v=1758789046",
+      "sha256": "af23b839d9c85dcaf64d5def12e70718a76d7ef146b4be6a0d4ecba73b024c85"
+    }
+  ],
+  "inspectedGallery": {
+    "source": "https://www.zeitauktion.com/de/products/rolex-air-king-34-oyster-stahl-black-dial-automatik-herrenuhr-ref-14000-u-serie-2503920",
+    "at": "2026-10-26T09:26:08.915Z",
+    "images": [
+      {
+        "index": 1,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503920_01_nowm.jpg?v=1758789027",
+        "file": "image-01.jpg",
+        "sha256": "33edb15108f699d08648890d2002e17c773859fd6bb07ccf90242ffb53edfe84",
+        "bytes": 124212
+      },
+      {
+        "index": 2,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503920_02_2k.jpg?v=1758789158",
+        "file": "image-02.jpg",
+        "sha256": "e9ef9ebcffa4bc2359ccd9f29d4061f1ce8e0428f5924867700d96df493aeb1b",
+        "bytes": 212385
+      },
+      {
+        "index": 3,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503920_03_2k.jpg?v=1758789032",
+        "file": "image-03.jpg",
+        "sha256": "ed1c675074a850757693b4ce806a39390ce66d468f7fc6cb0d70c0a6110f47e9",
+        "bytes": 243366
+      },
+      {
+        "index": 4,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503920_04_2k.jpg?v=1758789002",
+        "file": "image-04.jpg",
+        "sha256": "311f65fab0c98127d063668f7383720f4033626656c26d023ffe1e04de0e3d46",
+        "bytes": 202412
+      },
+      {
+        "index": 5,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503920_01_2k.jpg?v=1758788996",
+        "file": "image-05.jpg",
+        "sha256": "feeccc9b805235ec6a15c846e08940621cadd24190c315615f94d09c5963cafc",
+        "bytes": 110778
+      },
+      {
+        "index": 6,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503920_05_2k.jpg?v=1758789003",
+        "file": "image-06.jpg",
+        "sha256": "0f0f4721a5422f580947ff8200632445707260c05d501fba54444b5ace93afc4",
+        "bytes": 139210
+      },
+      {
+        "index": 7,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503920_06_2k.jpg?v=1758789163",
+        "file": "image-07.jpg",
+        "sha256": "163d2269ab8dcac573d6f839c48b1b57dfb0f8ef1efafd21d9520fc38a41587b",
+        "bytes": 115487
+      },
+      {
+        "index": 8,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503920_07_2k.jpg?v=1758789061",
+        "file": "image-08.jpg",
+        "sha256": "78d98ec700cf8737d0085f63b62e753acba478e9d21d09a92f2faec33947b964",
+        "bytes": 109888
+      },
+      {
+        "index": 9,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503920_08_2k.jpg?v=1758789039",
+        "file": "image-09.jpg",
+        "sha256": "c10ba16b3560eb6d868c0efdf1c57f2bb85a336b98b174ce738b0b92ae6d8a80",
+        "bytes": 253938
+      },
+      {
+        "index": 10,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503920_09_2k.jpg?v=1758789165",
+        "file": "image-10.jpg",
+        "sha256": "542bc26a9c191cf8a80b84a524172f4c3f1324a4a2537f118fcdb56dc169abd1",
+        "bytes": 153610
+      },
+      {
+        "index": 11,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503920_10_2k.jpg?v=1758789041",
+        "file": "image-11.jpg",
+        "sha256": "2833f6bf93974d40076fae0b3c72ac48e7b8d6e4d6b6e4b996944da8a51e2ca7",
+        "bytes": 194079
+      },
+      {
+        "index": 12,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503920_11_2k.jpg?v=1758789067",
+        "file": "image-12.jpg",
+        "sha256": "b2d4d73965cb8ecc592589398be355be2bf62ca7e6ee7ae813f9c876f343c7b3",
+        "bytes": 133315
+      },
+      {
+        "index": 13,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503920_12_2k.jpg?v=1758789044",
+        "file": "image-13.jpg",
+        "sha256": "6ea56275c5cca3220bf75b9bd409101484f06d4d38fa72ef88c7c643b4fd9cda",
+        "bytes": 135327
+      },
+      {
+        "index": 14,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503920_13_2k.jpg?v=1758789046",
+        "file": "image-14.jpg",
+        "sha256": "af23b839d9c85dcaf64d5def12e70718a76d7ef146b4be6a0d4ecba73b024c85",
+        "bytes": 299261
+      },
+      {
+        "index": 15,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/photoSet_workshop_2k_20260629.jpg?v=1782732100",
+        "file": "image-15.jpg",
+        "sha256": "d7c47c925b681c85c0e05dd124e9a56a9bb373adf9bfc020bad94fe8e2408ebb",
+        "bytes": 257861
+      }
+    ]
+  }
+}
