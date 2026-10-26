@@ -1,0 +1,192 @@
+{
+  "reviewedAt": "2026-10-26T09:49:35.969Z",
+  "scope": "Two limited model mappings; five inspected Omega files; Oris identity/execution evidence gap",
+  "records": [
+    {
+      "brand": "OMEGA",
+      "reference": "168.1640",
+      "decision": "answered",
+      "conclusion": "Original Zeitauktion2302100 HTML/product JSON identifies168.1640 with2254.50.00 for its particular41mmsteel black-dial specimen and automatic1120. All16original gallery files contact-inspected; full4/9/13/14/15 pixels inspected2026-10-26. Front4 shows black wave dial,sword hands,date3,black calibrated bezel and steel bracelet. Closed9 shows hippocampus/wave back and930endlink marks. Inner14 visibly reads168.1640 with Omega/acier inoxydable marks. Movement15 visibly showsOMEGA1120 rotor,automatic architecture,visible balance/regulator and bridge markings. Clasp13 shows Omega Seamaster Professional folding steel clasp. Only actualmovement15 suppresses in external-only mode. Internal case reference168.1640 does not identify a unique retail dial/bracelet execution: original Zeitauktion2104969 separately associates the same case reference with blue2255.80.00 and1120; original DrCrott104lot86 catalogues168.1640/1120 with blue dial and specialOman back. Do not turn2254.50.00 or2255.80.00 into universal aliases or require blackdial/hippocampus back for every168.1640. Photo execution is explicitly representative. Source circa2006 dates its separate specimen only; no production interval or user-watch serial dating. Supplier-family equivalence, hardware interchangeability, current pressure resistance, physical authenticity and service originality not inferred. Packaging/register/workshop media excluded.",
+      "sources": [
+        {
+          "title": "Original exact-reference source",
+          "url": "https://www.zeitauktion.com/de/products/omega-seamaster-professional-300m-schwerty-automatik-ref-2254-50-00-2302100"
+        }
+      ]
+    },
+    {
+      "brand": "RAYMONDWEIL",
+      "reference": "2780",
+      "decision": "answered",
+      "conclusion": "Original RaymondWeil dated24February2020 manufacturer article documents2780-STC-52001 as Freelancer calibreRW1212,automatic,42mmsteel,green dial and synthetic-textile strap with foldingclasp. Saved bare2780/RW1212 receives limitedbase-reference model guidance only; fullsuffix still required for dial/strap execution. Only separately documented2780-STC-52001 is added as fullreference. No other2780suffix, supplier/basecalibre equivalence, productioninterval or user-watch authenticity inferred. Article describes visible balance at6; no actual specimen photographs inspected or accepted in this pass. Manufacturer studio imagery not promoted as actual specimen photography. Allphoto categories remain empty until supported.",
+      "sources": [
+        {
+          "title": "Original exact-reference source",
+          "url": "https://www.raymond-weil.com/en-us/blogs/blog/raymond-weil-freelancer-green-edition"
+        }
+      ]
+    },
+    {
+      "brand": "ORIS",
+      "reference": "7735",
+      "decision": "needs_evidence",
+      "sources": [
+        {
+          "title": "Manufacturer Worldtimer full-reference lead; original page fetch unavailable",
+          "url": "https://www.oris.ch/en-CA/product/watch/propilot/big-crown-propilot-worldtimer/01-690-7735-4164-07-5-22-14FC"
+        }
+      ],
+      "conclusion": "Bare7735 is only a case-code fragment. Manufacturer indexed lead identifies full01690773541640752214FC Worldtimer with690,44.7mm and38h; original page not yet fully readable. Saved2836-2 is preserved, not equated with branded690 or certified as fitted execution. Obtain fullreference and readable originaltechnical/fitted-specimen evidence before mapping orresolution. No photos accepted; keepactive."
+    }
+  ],
+  "accepted": [
+    {
+      "id": "omega-1681640-20261026-front",
+      "category": "front",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2302100_01_2k.jpg?v=1747345822",
+      "sha256": "f16bdcbe318823e5ec6493d035db9419c979b6e273d061e2702abfcd11b08d97"
+    },
+    {
+      "id": "omega-1681640-20261026-movement",
+      "category": "movement",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2302100_15_2k.jpg?v=1747345822",
+      "sha256": "47e17afc23fa0816a9a00cdf36d72fe64a00f848d067afc22cd930297e99469c"
+    },
+    {
+      "id": "omega-1681640-20261026-closed",
+      "category": "caseback",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2302100_09_2k.jpg?v=1747345822",
+      "sha256": "87ac1a3ed89a981f4a520ac938223ba3e42e666ec626527ed4d2cd3f50b41474"
+    },
+    {
+      "id": "omega-1681640-20261026-inner",
+      "category": "caseback",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2302100_14_2k.jpg?v=1747345822",
+      "sha256": "7ed590a12c92e51430d0688056aa3d760d309b1da71331312022b3525184a9a2"
+    },
+    {
+      "id": "omega-1681640-20261026-clasp",
+      "category": "braceletClasp",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2302100_13_2k.jpg?v=1747345822",
+      "sha256": "da26c870830c995878cfe7dfe4eef1ee31df37c78b318f71120e7a7e9261c320"
+    }
+  ],
+  "inspectedGallery": {
+    "source": "https://www.zeitauktion.com/de/products/omega-seamaster-professional-300m-schwerty-automatik-ref-2254-50-00-2302100",
+    "at": "2026-10-26T09:49:35.969Z",
+    "images": [
+      {
+        "index": 1,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2302100_02_2k.jpg?v=1747345822",
+        "file": "image-01.jpg",
+        "sha256": "efe1e8441a8b734a514a8174c2d6cf2d12c82c5c717d6a5e513ae37d934ecf17",
+        "bytes": 285162
+      },
+      {
+        "index": 2,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2302100_03_2k.jpg?v=1747345822",
+        "file": "image-02.jpg",
+        "sha256": "2a06f9d6cd9b3128715a0f2d45ad36a0c1ab37edfe86d4b1a61de9be350a84b6",
+        "bytes": 404123
+      },
+      {
+        "index": 3,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2302100_04_2k.jpg?v=1747345822",
+        "file": "image-03.jpg",
+        "sha256": "689b89f81b7bf2c2b853327f350e8e59c180cae84039745416d57433e7547add",
+        "bytes": 531379
+      },
+      {
+        "index": 4,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2302100_01_2k.jpg?v=1747345822",
+        "file": "image-04.jpg",
+        "sha256": "f16bdcbe318823e5ec6493d035db9419c979b6e273d061e2702abfcd11b08d97",
+        "bytes": 185588
+      },
+      {
+        "index": 5,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2302100_05_2k.jpg?v=1747345822",
+        "file": "image-05.jpg",
+        "sha256": "e2cd3d65f2b6b6127ce359fad343290d799f46b908b1ab7c1ea5c8c16230bab6",
+        "bytes": 447245
+      },
+      {
+        "index": 6,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2302100_06_2k.jpg?v=1747345822",
+        "file": "image-06.jpg",
+        "sha256": "7f81597fb723d5416023b69e5feef982aff3f2f8f1293c851d9d176de8cd675d",
+        "bytes": 155395
+      },
+      {
+        "index": 7,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2302100_07_2k.jpg?v=1747345822",
+        "file": "image-07.jpg",
+        "sha256": "aedb100260b5a97c220ee3d65f5b77619c015dc9dba5c52084c6581522dddaca",
+        "bytes": 161150
+      },
+      {
+        "index": 8,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2302100_08_2k.jpg?v=1747345822",
+        "file": "image-08.jpg",
+        "sha256": "7c71f86ecaf0334151fb5b4e12508c5d0c3484d87446384f24befb2b9ebe1e54",
+        "bytes": 104968
+      },
+      {
+        "index": 9,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2302100_09_2k.jpg?v=1747345822",
+        "file": "image-09.jpg",
+        "sha256": "87ac1a3ed89a981f4a520ac938223ba3e42e666ec626527ed4d2cd3f50b41474",
+        "bytes": 323749
+      },
+      {
+        "index": 10,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2302100_10_2k.jpg?v=1747345822",
+        "file": "image-10.jpg",
+        "sha256": "23e922788d01e5a64f2fcbc750bc42ef536ae4665dd5f879d85c9c191f67e0bd",
+        "bytes": 123549
+      },
+      {
+        "index": 11,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2302100_11_2k.jpg?v=1747345822",
+        "file": "image-11.jpg",
+        "sha256": "f9491c76ea0238238bec779421883d62bb8a0053a5ede9c7f5443b14cbebfe81",
+        "bytes": 320174
+      },
+      {
+        "index": 12,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2302100_12_2k.jpg?v=1747345822",
+        "file": "image-12.jpg",
+        "sha256": "d4a644c669dc9b1f332b818ee6eaeb527de212d6e29b1cdbe1121dac5b02b1b0",
+        "bytes": 154070
+      },
+      {
+        "index": 13,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2302100_13_2k.jpg?v=1747345822",
+        "file": "image-13.jpg",
+        "sha256": "da26c870830c995878cfe7dfe4eef1ee31df37c78b318f71120e7a7e9261c320",
+        "bytes": 202977
+      },
+      {
+        "index": 14,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2302100_14_2k.jpg?v=1747345822",
+        "file": "image-14.jpg",
+        "sha256": "7ed590a12c92e51430d0688056aa3d760d309b1da71331312022b3525184a9a2",
+        "bytes": 155298
+      },
+      {
+        "index": 15,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2302100_15_2k.jpg?v=1747345822",
+        "file": "image-15.jpg",
+        "sha256": "47e17afc23fa0816a9a00cdf36d72fe64a00f848d067afc22cd930297e99469c",
+        "bytes": 370803
+      },
+      {
+        "index": 16,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/photoSet_workshop_2k_20260629.jpg?v=1782732100",
+        "file": "image-16.jpg",
+        "sha256": "d7c47c925b681c85c0e05dd124e9a56a9bb373adf9bfc020bad94fe8e2408ebb",
+        "bytes": 257861
+      }
+    ]
+  }
+}
