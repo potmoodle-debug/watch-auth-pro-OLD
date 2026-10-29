@@ -101,7 +101,7 @@ function enforceSafety(){
  else if(!pending&&!saved)document.querySelectorAll('#conditions input').forEach(x=>x.disabled=false);
  const only=s||external.checked;
  $('calibre').disabled=!!only||!!pending||saved;
- if(only){document.querySelectorAll('#conditions input').forEach(x=>{if(x!==external){x.checked=false;x.disabled=true;}});$('calibre').value='';if(!$('movementType').value)$('movementType').value='Unknown — Case not opened';}
+ if(only){document.querySelectorAll('#conditions input').forEach(x=>{if(x!==external){x.checked=false;x.disabled=true;}});$('calibre').value='';}
  $('movementType').disabled=!!pending||saved;
  $('batteryField').hidden=!!only||!(/quartz|kinetic|electronic|electro-mechanical/i.test($('movementType').value));
  if($('batteryField').hidden)$('battery').value='';
