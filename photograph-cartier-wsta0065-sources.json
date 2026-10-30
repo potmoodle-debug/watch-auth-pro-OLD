@@ -1,0 +1,119 @@
+{
+  "reviewedAt": "2026-10-30",
+  "brand": "CARTIER",
+  "reference": "WSTA0065",
+  "decision": "answered",
+  "conclusion": "Original Cortina exact WSTA0065 page identifies Tank Francaise small, quartz calibre 57, steel case and bracelet, silvered sunray dial and hours/minutes. Rectangular dimensions are 25.7 x 21.2 mm, thickness 6.8 mm; do not swap the axes or call the longer measurement case width. Original Pacific Bay Watch W11880 listing identifies the previously owned WSTA0065 specimen. Actual images 1, 3 and 4 show a two-hand Roman dial, steel bracelet with signed folding clasp and closed four-screw back. Separate evidence image 8 visibly reads WSTA0065 on the accompanying card; it is not accepted as a watch-category image. Source-applied serial redactions are preserved. Seller prose incorrectly mentions a seconds hand: actual pixels and Cortina hours/minutes wording take precedence. No opened movement or readable fitted calibre stamp is shown; 57 is original-retailer catalogue attribution, not individual-watch verification. No unconfirmed case-code, WSTA0129, W51008Q3 or supplier/revision equivalence is inferred. No full production interval, current warranty, originality or user-watch pressure resistance is established. Packaging, sizing tool and paperwork images excluded. Movement and inner-back categories remain gaps.",
+  "sources": [
+    {
+      "title": "Cortina original WSTA0065 specifications",
+      "url": "https://www.cortinawatch.com/en/cartier/tank/wsta0065/"
+    },
+    {
+      "title": "Pacific Bay Watch original W11880 specimen",
+      "url": "https://www.pacificbaywatch.com/collections/cartier-watches-all/products/cartier-tank-francaise-ladies-wsta0065"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "cartier-wsta0065-20261030-front",
+      "category": "front",
+      "image": "https://cdn.shopify.com/s/files/1/0039/2652/files/74680-2.jpg?v=1781746914",
+      "sha256": "f99821963071f6e87d3602099139d2b79bd3a622e6af1721eab7333fada4b064"
+    },
+    {
+      "id": "cartier-wsta0065-20261030-caseback",
+      "category": "caseback",
+      "image": "https://cdn.shopify.com/s/files/1/0039/2652/files/74680-5.jpg?v=1781746996",
+      "sha256": "69b709b6df07ada3aa4a208f4d9d981d516831f0c99fbb35163ff61b891b2873"
+    },
+    {
+      "id": "cartier-wsta0065-20261030-braceletClasp",
+      "category": "braceletClasp",
+      "image": "https://cdn.shopify.com/s/files/1/0039/2652/files/74680-4.jpg?v=1781746973",
+      "sha256": "0dd05cb460ffb2aab4cd001fa78d6c706580a721e4476044412806a7bdeee908"
+    }
+  ],
+  "inspectedGallery": {
+    "source": "https://www.pacificbaywatch.com/collections/cartier-watches-all/products/cartier-tank-francaise-ladies-wsta0065",
+    "at": "2026-10-30T09:42:47.038Z",
+    "images": [
+      {
+        "index": 1,
+        "url": "https://cdn.shopify.com/s/files/1/0039/2652/files/74680-2.jpg?v=1781746914",
+        "file": "image-01.jpg",
+        "sha256": "f99821963071f6e87d3602099139d2b79bd3a622e6af1721eab7333fada4b064",
+        "bytes": 57798
+      },
+      {
+        "index": 2,
+        "url": "https://cdn.shopify.com/s/files/1/0039/2652/files/74680-3.jpg?v=1781746946",
+        "file": "image-02.jpg",
+        "sha256": "efbd802263dc258ac0e1781be6c686d033d3f62c749ade31aea6bf7844e5bca0",
+        "bytes": 62057
+      },
+      {
+        "index": 3,
+        "url": "https://cdn.shopify.com/s/files/1/0039/2652/files/74680-4.jpg?v=1781746973",
+        "file": "image-03.jpg",
+        "sha256": "0dd05cb460ffb2aab4cd001fa78d6c706580a721e4476044412806a7bdeee908",
+        "bytes": 41758
+      },
+      {
+        "index": 4,
+        "url": "https://cdn.shopify.com/s/files/1/0039/2652/files/74680-5.jpg?v=1781746996",
+        "file": "image-04.jpg",
+        "sha256": "69b709b6df07ada3aa4a208f4d9d981d516831f0c99fbb35163ff61b891b2873",
+        "bytes": 48287
+      },
+      {
+        "index": 5,
+        "url": "https://cdn.shopify.com/s/files/1/0039/2652/files/74680-7.jpg?v=1781747020",
+        "file": "image-05.jpg",
+        "sha256": "90523e6c57972bdc9d1ffa82243fb9750fb6429ea876040c55c5e41024f1f551",
+        "bytes": 49714
+      },
+      {
+        "index": 6,
+        "url": "https://cdn.shopify.com/s/files/1/0039/2652/files/74680-9.jpg?v=1781747039",
+        "file": "image-06.jpg",
+        "sha256": "f97aba116af0330bf45d3d57bfa3ca859703c029eec6d1b85cad25908c6d45e2",
+        "bytes": 31503
+      },
+      {
+        "index": 7,
+        "url": "https://cdn.shopify.com/s/files/1/0039/2652/files/74680-8.jpg?v=1781746649",
+        "file": "image-07.jpg",
+        "sha256": "d2fca9f1776f9df88ed08b06e80c697e99f4bb205844ee231e5f0f92e9e20b46",
+        "bytes": 77960
+      },
+      {
+        "index": 8,
+        "url": "https://cdn.shopify.com/s/files/1/0039/2652/files/74680.jpg?v=1781746649",
+        "file": "image-08.jpg",
+        "sha256": "06508cda721c64ff121e8805db972b4e0f105b9b451828ad20d0a79f95f093a6",
+        "bytes": 111378
+      },
+      {
+        "index": 9,
+        "url": "https://cdn.shopify.com/s/files/1/0039/2652/files/74680-10.jpg?v=1781746649",
+        "file": "image-09.jpg",
+        "sha256": "3c5a5237ccf7aa993a3a427b581a3c09b8f2ff663a72e7826f756af953e167cb",
+        "bytes": 89912
+      }
+    ]
+  },
+  "evidenceOnlyImages": [
+    8
+  ],
+  "unsupported": [
+    "movement",
+    "inner caseback",
+    "unconfirmed case-code equivalence"
+  ],
+  "sourceLimits": [
+    "Specimen seller seconds-hand wording rejected in favour of inspected two-hand pixels and Cortina functions",
+    "No neighbouring WSTA0129 redirect or generic supplier movement equivalence",
+    "Cortina catalogue/studio imagery not accepted as specimen photography"
+  ]
+}

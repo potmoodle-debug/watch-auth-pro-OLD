@@ -38867,6 +38867,108 @@
           "height": 2500
         }
       }
+    },
+    {
+      "id": "cartier-wsta0065-20261030-front",
+      "brand": "CARTIER",
+      "references": [
+        "WSTA0065"
+      ],
+      "representativeFor": [
+        "WSTA0065"
+      ],
+      "variant": "Pacific Bay Watch W11880 — silvered two-hand dial and steel bracelet; source-redacted serial",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "WSTA0065 — front specimen",
+      "caption": "Actual Pacific Bay Watch specimen, two-hand silvered dial and steel bracelet. Original source redactions preserved. No fitted movement is shown; exterior marks and accompanying paperwork do not authenticate the user watch.",
+      "image": "https://cdn.shopify.com/s/files/1/0039/2652/files/74680-2.jpg?v=1781746914",
+      "source": "https://www.pacificbaywatch.com/collections/cartier-watches-all/products/cartier-tank-francaise-ladies-wsta0065",
+      "credit": "Pacific Bay Watch — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected 30 October 2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-30",
+        "loadedAt": "2026-10-30T09:42:47.038Z",
+        "evidence": "Original Cortina exact WSTA0065 page identifies Tank Francaise small, quartz calibre 57, steel case and bracelet, silvered sunray dial and hours/minutes. Rectangular dimensions are 25.7 x 21.2 mm, thickness 6.8 mm; do not swap the axes or call the longer measurement case width. Original Pacific Bay Watch W11880 listing identifies the previously owned WSTA0065 specimen. Actual images 1, 3 and 4 show a two-hand Roman dial, steel bracelet with signed folding clasp and closed four-screw back. Separate evidence image 8 visibly reads WSTA0065 on the accompanying card; it is not accepted as a watch-category image. Source-applied serial redactions are preserved. Seller prose incorrectly mentions a seconds hand: actual pixels and Cortina hours/minutes wording take precedence. No opened movement or readable fitted calibre stamp is shown; 57 is original-retailer catalogue attribution, not individual-watch verification. No unconfirmed case-code, WSTA0129, W51008Q3 or supplier/revision equivalence is inferred. No full production interval, current warranty, originality or user-watch pressure resistance is established. Packaging, sizing tool and paperwork images excluded. Movement and inner-back categories remain gaps.",
+        "imageSha256": "f99821963071f6e87d3602099139d2b79bd3a622e6af1721eab7333fada4b064",
+        "imageDimensions": {
+          "width": 1000,
+          "height": 1000
+        }
+      }
+    },
+    {
+      "id": "cartier-wsta0065-20261030-caseback",
+      "brand": "CARTIER",
+      "references": [
+        "WSTA0065"
+      ],
+      "representativeFor": [
+        "WSTA0065"
+      ],
+      "variant": "Pacific Bay Watch W11880 — silvered two-hand dial and steel bracelet; source-redacted serial",
+      "category": "caseback",
+      "depictsMovement": false,
+      "title": "WSTA0065 — caseback specimen",
+      "caption": "Actual Pacific Bay Watch specimen, two-hand silvered dial and steel bracelet. Original source redactions preserved. No fitted movement is shown; exterior marks and accompanying paperwork do not authenticate the user watch.",
+      "image": "https://cdn.shopify.com/s/files/1/0039/2652/files/74680-5.jpg?v=1781746996",
+      "source": "https://www.pacificbaywatch.com/collections/cartier-watches-all/products/cartier-tank-francaise-ladies-wsta0065",
+      "credit": "Pacific Bay Watch — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected 30 October 2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-30",
+        "loadedAt": "2026-10-30T09:42:47.038Z",
+        "evidence": "Original Cortina exact WSTA0065 page identifies Tank Francaise small, quartz calibre 57, steel case and bracelet, silvered sunray dial and hours/minutes. Rectangular dimensions are 25.7 x 21.2 mm, thickness 6.8 mm; do not swap the axes or call the longer measurement case width. Original Pacific Bay Watch W11880 listing identifies the previously owned WSTA0065 specimen. Actual images 1, 3 and 4 show a two-hand Roman dial, steel bracelet with signed folding clasp and closed four-screw back. Separate evidence image 8 visibly reads WSTA0065 on the accompanying card; it is not accepted as a watch-category image. Source-applied serial redactions are preserved. Seller prose incorrectly mentions a seconds hand: actual pixels and Cortina hours/minutes wording take precedence. No opened movement or readable fitted calibre stamp is shown; 57 is original-retailer catalogue attribution, not individual-watch verification. No unconfirmed case-code, WSTA0129, W51008Q3 or supplier/revision equivalence is inferred. No full production interval, current warranty, originality or user-watch pressure resistance is established. Packaging, sizing tool and paperwork images excluded. Movement and inner-back categories remain gaps.",
+        "imageSha256": "69b709b6df07ada3aa4a208f4d9d981d516831f0c99fbb35163ff61b891b2873",
+        "imageDimensions": {
+          "width": 1000,
+          "height": 1000
+        }
+      }
+    },
+    {
+      "id": "cartier-wsta0065-20261030-braceletClasp",
+      "brand": "CARTIER",
+      "references": [
+        "WSTA0065"
+      ],
+      "representativeFor": [
+        "WSTA0065"
+      ],
+      "variant": "Pacific Bay Watch W11880 — silvered two-hand dial and steel bracelet; source-redacted serial",
+      "category": "braceletClasp",
+      "depictsMovement": false,
+      "title": "WSTA0065 — braceletClasp specimen",
+      "caption": "Actual Pacific Bay Watch specimen, two-hand silvered dial and steel bracelet. Original source redactions preserved. No fitted movement is shown; exterior marks and accompanying paperwork do not authenticate the user watch.",
+      "image": "https://cdn.shopify.com/s/files/1/0039/2652/files/74680-4.jpg?v=1781746973",
+      "source": "https://www.pacificbaywatch.com/collections/cartier-watches-all/products/cartier-tank-francaise-ladies-wsta0065",
+      "credit": "Pacific Bay Watch — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected 30 October 2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-30",
+        "loadedAt": "2026-10-30T09:42:47.038Z",
+        "evidence": "Original Cortina exact WSTA0065 page identifies Tank Francaise small, quartz calibre 57, steel case and bracelet, silvered sunray dial and hours/minutes. Rectangular dimensions are 25.7 x 21.2 mm, thickness 6.8 mm; do not swap the axes or call the longer measurement case width. Original Pacific Bay Watch W11880 listing identifies the previously owned WSTA0065 specimen. Actual images 1, 3 and 4 show a two-hand Roman dial, steel bracelet with signed folding clasp and closed four-screw back. Separate evidence image 8 visibly reads WSTA0065 on the accompanying card; it is not accepted as a watch-category image. Source-applied serial redactions are preserved. Seller prose incorrectly mentions a seconds hand: actual pixels and Cortina hours/minutes wording take precedence. No opened movement or readable fitted calibre stamp is shown; 57 is original-retailer catalogue attribution, not individual-watch verification. No unconfirmed case-code, WSTA0129, W51008Q3 or supplier/revision equivalence is inferred. No full production interval, current warranty, originality or user-watch pressure resistance is established. Packaging, sizing tool and paperwork images excluded. Movement and inner-back categories remain gaps.",
+        "imageSha256": "0dd05cb460ffb2aab4cd001fa78d6c706580a721e4476044412806a7bdeee908",
+        "imageDimensions": {
+          "width": 1000,
+          "height": 1000
+        }
+      }
     }
   ]
 }

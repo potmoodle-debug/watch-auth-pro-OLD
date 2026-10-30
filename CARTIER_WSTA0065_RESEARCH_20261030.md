@@ -1,0 +1,11 @@
+Cartier WSTA0065 research checkpoint — 30 October 2026
+
+Original Cortina exact-reference page fully read and directly archived with HTTP200/hash receipt. It identifies Tank Francaise small quartz calibre57, steel,25.7x21.2mm,6.8mm thick,silvered sunray dial,steel bracelet and hours/minutes. This is original-retailer model attribution,not a readable fitted-movement stamp. No rectangular-axis reversal or generic supplier/revision equivalence.
+
+Original Pacific Bay Watch W11880 describes a previously owned WSTA0065. Nine original1000x1000 images and sourceHTML/productJSON/receipts archived. Contact sheet and full1front,3clasp,4closedback,8card evidence inspected. Actual two-hand dial,steel bracelet,signed folding clasp and four-screw back are consistent with the documented execution;the card visibly readsWSTA0065. Three watch-category images accepted,with source-applied serial redactions preserved. Card image8 is evidence only,not a gallery-category entry;paperwork cannot authenticate the user watch. Seller seconds-hand wording is erroneous and rejected in favour of pixels and Cortina hours/minutes. No opened movement or inner-back image shown. Catalogue/studio imagery not accepted as specimen photography. Packaging,sizing tool and paperwork images excluded.
+
+No unconfirmed4472case-code,WSTA0129,W51008Q3 or CR-prefix equivalence added. No full production interval,current warranty,originality or user-watch pressure resistance established. Movement/inner-back remain gaps.
+
+218Node tests and full retained workflow browser fixture pass. Separate actual-source browser checks pass3images loading/enlargement/credits,external-only3/restored3,exactcase-code/neighbour exclusion,390px layout and no page errors. Real authorized authenticated refresh/RLS remains outstanding. Generated448of2641source records reviewed;1124verified entries/1060distinctfiles. Reviewed inventory is not complete photo coverage.
+
+Not yet published;shared request unchanged. Next: reconcile current OLD main,publish tested tree,verifyPages/servedhashes/livegallery,then guarded shared mapping/review/request resolution preserving original details and history. Keep rollback and fresh recovery archive. Fullfinite-inventory goal remains active. OLDrepository only;never modify production WatchAuthPro.
