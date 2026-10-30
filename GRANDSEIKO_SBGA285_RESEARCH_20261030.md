@@ -1,0 +1,13 @@
+# Grand Seiko SBGA285 research checkpoint
+
+Prepared locally, pending OLD publication and live verification. No shared queue status has changed in this checkpoint.
+
+Original manufacturer pages inspected: https://grandseikoboutique.us/products/sbga285 and https://www.grand-seiko.com/sg-en/collections/sbga285g . The US page explicitly identifies SBGA285 and specifies 9R65, automatic Spring Drive, 72-hour nominal reserve, 39mm steel case, 12.3mm thickness, black dial and steel bracelet. The Singapore page is supplementary technical context; its URL does not authorize an additional G-suffix lookup alias. An optional direct shell archive of the US page was rate-limited; the resulting empty file is not source evidence. Manufacturer specifications were read through the web tool.
+
+The original Ginzo page and seven distinct original 1200px-square photographs were archived. All seven were contact-inspected; full image-02 front and image-08 rear/clasp inspected. Three accepted entries use two original files: front, closed caseback, and bracelet/clasp. The caseback and clasp entries share a photograph. No movement is visible, so these exterior views remain available in External mode. Paperwork, maintenance handbook and packaging are excluded from the watch-category gallery. Dealer refinishing and clasp-maintenance disclosures are retained as specimen-specific caveats. Dealer case-code text is not a verified readable stamp or added alias.
+
+The saved request reports 9R65A. Exact 9R65 model specification does not by itself establish A-suffix equivalence. The new mapping is marked for manual review and needs evidence; entering 9R65A remains a caution. No generic movement image, neighbouring reference, case-code lookup, suffix match, full production interval or individual-watch authenticity is inferred. Movement and inner-back photo gaps remain explicit.
+
+Validation: 223 Node tests passed, retained inspection workflow fixture passed, actual image loading/enlargement/credits and exact matching passed at desktop and 390px. External retained all three exterior entries and the selected Spring Drive technology. Actual authenticated refresh/RLS remains outstanding without an authorized test session.
+
+Generated coverage: 451 of 2,644 source records reviewed, 1,132 verified photograph entries using 1,066 distinct files. Reviewed inventory is not complete photographic coverage. Research remains incomplete. Publish only to watch-auth-pro-OLD after reconciling current main; verify Pages, served hashes and live gallery before inserting a linked needs-evidence review and marking the request researching while preserving its history.

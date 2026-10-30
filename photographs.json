@@ -39139,6 +39139,108 @@
           "height": 3024
         }
       }
+    },
+    {
+      "id": "grandseiko-sbga285-20261030-front",
+      "brand": "GRANDSEIKO",
+      "references": [
+        "SBGA285"
+      ],
+      "representativeFor": [
+        "SBGA285"
+      ],
+      "variant": "SBGA285 black dial steel bracelet — Ginzo previously owned/refinished specimen",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "SBGA285 — front specimen",
+      "caption": "Actual original Ginzo specimen photograph. Closed lion-emblem caseback and folding clasp; no opened movement evidence. Source discloses refinishing and clasp maintenance. Exact SBGA285 only; the user watch and observed 9R65A execution remain unverified.",
+      "image": "https://ginzo.jp/cdn/shop/files/800000132574000-2_92f3a166-8cfc-4576-b60f-cdced8d54278.jpg?v=1742556113",
+      "source": "https://ginzo.jp/products/800000132574000",
+      "credit": "Ginzo — original item 800000132574000 photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected 30 October 2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-30",
+        "loadedAt": "2026-10-30T10:12:17.338Z",
+        "evidence": "Original Grand Seiko US boutique exact SBGA285 page specifies 9R65, self-winding Spring Drive with mainspring power and quartz regulation, nominal 72-hour reserve, 39mm steel case, 12.3mm thickness, black dial, date, power-reserve indicator and steel bracelet. This is not a conventional battery-powered quartz movement. Original Ginzo item 800000132574000 identifies SBGA285 and describes 9R65-0BH0; that case-code attribution is dealer text, not a legible stamp verified in the rear photograph, and is not added as a lookup alias. Seven distinct original gallery photographs were contact-inspected; full image-02 front and image-08 closed lion-emblem back/open folding clasp inspected at 1200x1200. The rear image supports caseback and clasp categories using one file, with no movement visible. No opened movement, fitted calibre marking or inner back is shown. The saved request records 9R65A; the manufacturer page states 9R65. No A-suffix equivalence or rejection is inferred: keep execution review outstanding. The dealer discloses exterior refinishing and February2025 maintenance/clasp repair for its specimen only. No full production period, bracelet originality, user-watch authenticity, service history or tested water resistance is established. Do not import SBGA283, SBGA003, generic 9R65 movement photos, or add G-suffix matches. Unsupported movement and inner-back categories remain empty.",
+        "imageSha256": "70cf8f2f3d451daf13ca3f9f9fd845b184cb30d163e933141ec3aa22626a781a",
+        "imageDimensions": {
+          "width": 1200,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "id": "grandseiko-sbga285-20261030-caseback",
+      "brand": "GRANDSEIKO",
+      "references": [
+        "SBGA285"
+      ],
+      "representativeFor": [
+        "SBGA285"
+      ],
+      "variant": "SBGA285 black dial steel bracelet — Ginzo previously owned/refinished specimen",
+      "category": "caseback",
+      "depictsMovement": false,
+      "title": "SBGA285 — caseback specimen",
+      "caption": "Actual original Ginzo specimen photograph. Closed lion-emblem caseback and folding clasp; no opened movement evidence. Source discloses refinishing and clasp maintenance. Exact SBGA285 only; the user watch and observed 9R65A execution remain unverified.",
+      "image": "https://ginzo.jp/cdn/shop/files/800000132574000-5_ffe0205a-b201-4148-9945-5d3f619f67ea.jpg?v=1742556113",
+      "source": "https://ginzo.jp/products/800000132574000",
+      "credit": "Ginzo — original item 800000132574000 photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected 30 October 2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-30",
+        "loadedAt": "2026-10-30T10:12:17.338Z",
+        "evidence": "Original Grand Seiko US boutique exact SBGA285 page specifies 9R65, self-winding Spring Drive with mainspring power and quartz regulation, nominal 72-hour reserve, 39mm steel case, 12.3mm thickness, black dial, date, power-reserve indicator and steel bracelet. This is not a conventional battery-powered quartz movement. Original Ginzo item 800000132574000 identifies SBGA285 and describes 9R65-0BH0; that case-code attribution is dealer text, not a legible stamp verified in the rear photograph, and is not added as a lookup alias. Seven distinct original gallery photographs were contact-inspected; full image-02 front and image-08 closed lion-emblem back/open folding clasp inspected at 1200x1200. The rear image supports caseback and clasp categories using one file, with no movement visible. No opened movement, fitted calibre marking or inner back is shown. The saved request records 9R65A; the manufacturer page states 9R65. No A-suffix equivalence or rejection is inferred: keep execution review outstanding. The dealer discloses exterior refinishing and February2025 maintenance/clasp repair for its specimen only. No full production period, bracelet originality, user-watch authenticity, service history or tested water resistance is established. Do not import SBGA283, SBGA003, generic 9R65 movement photos, or add G-suffix matches. Unsupported movement and inner-back categories remain empty.",
+        "imageSha256": "26c9e7c42664b0c9f830083b4790a755a896b670f2a8222a9a13a0d62133b3bf",
+        "imageDimensions": {
+          "width": 1200,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "id": "grandseiko-sbga285-20261030-braceletClasp",
+      "brand": "GRANDSEIKO",
+      "references": [
+        "SBGA285"
+      ],
+      "representativeFor": [
+        "SBGA285"
+      ],
+      "variant": "SBGA285 black dial steel bracelet — Ginzo previously owned/refinished specimen",
+      "category": "braceletClasp",
+      "depictsMovement": false,
+      "title": "SBGA285 — braceletClasp specimen",
+      "caption": "Actual original Ginzo specimen photograph. Closed lion-emblem caseback and folding clasp; no opened movement evidence. Source discloses refinishing and clasp maintenance. Exact SBGA285 only; the user watch and observed 9R65A execution remain unverified.",
+      "image": "https://ginzo.jp/cdn/shop/files/800000132574000-5_ffe0205a-b201-4148-9945-5d3f619f67ea.jpg?v=1742556113",
+      "source": "https://ginzo.jp/products/800000132574000",
+      "credit": "Ginzo — original item 800000132574000 photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected 30 October 2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-30",
+        "loadedAt": "2026-10-30T10:12:17.338Z",
+        "evidence": "Original Grand Seiko US boutique exact SBGA285 page specifies 9R65, self-winding Spring Drive with mainspring power and quartz regulation, nominal 72-hour reserve, 39mm steel case, 12.3mm thickness, black dial, date, power-reserve indicator and steel bracelet. This is not a conventional battery-powered quartz movement. Original Ginzo item 800000132574000 identifies SBGA285 and describes 9R65-0BH0; that case-code attribution is dealer text, not a legible stamp verified in the rear photograph, and is not added as a lookup alias. Seven distinct original gallery photographs were contact-inspected; full image-02 front and image-08 closed lion-emblem back/open folding clasp inspected at 1200x1200. The rear image supports caseback and clasp categories using one file, with no movement visible. No opened movement, fitted calibre marking or inner back is shown. The saved request records 9R65A; the manufacturer page states 9R65. No A-suffix equivalence or rejection is inferred: keep execution review outstanding. The dealer discloses exterior refinishing and February2025 maintenance/clasp repair for its specimen only. No full production period, bracelet originality, user-watch authenticity, service history or tested water resistance is established. Do not import SBGA283, SBGA003, generic 9R65 movement photos, or add G-suffix matches. Unsupported movement and inner-back categories remain empty.",
+        "imageSha256": "26c9e7c42664b0c9f830083b4790a755a896b670f2a8222a9a13a0d62133b3bf",
+        "imageDimensions": {
+          "width": 1200,
+          "height": 1200
+        }
+      }
     }
   ]
 }
