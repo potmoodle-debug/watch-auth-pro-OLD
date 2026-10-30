@@ -1,0 +1,7 @@
+Exact Tudor 79280P research — 30 October 2026
+
+Original Zeitauktion specimen2503540 page and actual pixels support exact 79280P model guidance and 7750 movement marking. All16 original2400x1600 images were contact-inspected; full4(front),11(closed back),14(opened movement) inspected. Three accepted images are representative of the black Arabic dial. Movement14 shows Tudor-signed rotor and readable7750 plate marking. The Zeitauktion replacement leather strap is explicitly excluded from original bracelet/clasp evidence. No P-suffix stripping, neighbouring references or generic7750 photograph inheritance. Original bracelet/clasp, inner-back and between-lug engraving remain gaps. Dealerapprox2007 is a specimen date, not full production interval or user-watch date. Source service/pressure assertions do not establish user-watch condition, authenticity, originality or water resistance.
+
+214Node tests and retained workflow browser fixture pass. Actual source photos load/enlarge with credits; external-only shows2exteriors and suppresses movement14; restored3;390px layout and exact suffix isolation pass. Generated446of2639source records reviewed;1118verified entries/1054distinct files. Reviewed inventory is not complete photo coverage. Real authorized authenticated refresh/RLS remains outstanding.
+
+Publication and shared request resolution pending main/Pages/live verification. Preserve original request, rollback and recovery evidence. OLDrepository only;production WatchAuthPro untouched. Full goal remains active.
