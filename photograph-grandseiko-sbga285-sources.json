@@ -1,0 +1,105 @@
+{
+  "reviewedAt": "2026-10-30",
+  "records": [
+    {
+      "brand": "GRANDSEIKO",
+      "reference": "SBGA285",
+      "decision": "needs_evidence",
+      "conclusion": "Original Grand Seiko US boutique exact SBGA285 page specifies 9R65, self-winding Spring Drive with mainspring power and quartz regulation, nominal 72-hour reserve, 39mm steel case, 12.3mm thickness, black dial, date, power-reserve indicator and steel bracelet. This is not a conventional battery-powered quartz movement. Original Ginzo item 800000132574000 identifies SBGA285 and describes 9R65-0BH0; that case-code attribution is dealer text, not a legible stamp verified in the rear photograph, and is not added as a lookup alias. Seven distinct original gallery photographs were contact-inspected; full image-02 front and image-08 closed lion-emblem back/open folding clasp inspected at 1200x1200. The rear image supports caseback and clasp categories using one file, with no movement visible. No opened movement, fitted calibre marking or inner back is shown. The saved request records 9R65A; the manufacturer page states 9R65. No A-suffix equivalence or rejection is inferred: keep execution review outstanding. The dealer discloses exterior refinishing and February2025 maintenance/clasp repair for its specimen only. No full production period, bracelet originality, user-watch authenticity, service history or tested water resistance is established. Do not import SBGA283, SBGA003, generic 9R65 movement photos, or add G-suffix matches. Unsupported movement and inner-back categories remain empty.",
+      "sources": [
+        {
+          "title": "Grand Seiko official US boutique SBGA285 specifications",
+          "url": "https://grandseikoboutique.us/products/sbga285"
+        },
+        {
+          "title": "Ginzo original SBGA285 item 800000132574000",
+          "url": "https://ginzo.jp/products/800000132574000"
+        }
+      ]
+    }
+  ],
+  "accepted": [
+    {
+      "id": "grandseiko-sbga285-20261030-front",
+      "category": "front",
+      "image": "https://ginzo.jp/cdn/shop/files/800000132574000-2_92f3a166-8cfc-4576-b60f-cdced8d54278.jpg?v=1742556113",
+      "sha256": "70cf8f2f3d451daf13ca3f9f9fd845b184cb30d163e933141ec3aa22626a781a"
+    },
+    {
+      "id": "grandseiko-sbga285-20261030-caseback",
+      "category": "caseback",
+      "image": "https://ginzo.jp/cdn/shop/files/800000132574000-5_ffe0205a-b201-4148-9945-5d3f619f67ea.jpg?v=1742556113",
+      "sha256": "26c9e7c42664b0c9f830083b4790a755a896b670f2a8222a9a13a0d62133b3bf"
+    },
+    {
+      "id": "grandseiko-sbga285-20261030-braceletClasp",
+      "category": "braceletClasp",
+      "image": "https://ginzo.jp/cdn/shop/files/800000132574000-5_ffe0205a-b201-4148-9945-5d3f619f67ea.jpg?v=1742556113",
+      "sha256": "26c9e7c42664b0c9f830083b4790a755a896b670f2a8222a9a13a0d62133b3bf"
+    }
+  ],
+  "inspectedGalleries": [
+    {
+      "source": "https://ginzo.jp/products/800000132574000",
+      "at": "2026-10-30T10:12:17.338Z",
+      "images": [
+        {
+          "index": 2,
+          "url": "https://ginzo.jp/cdn/shop/files/800000132574000-2_92f3a166-8cfc-4576-b60f-cdced8d54278.jpg?v=1742556113",
+          "file": "image-02.jpg",
+          "bytes": 107836,
+          "sha256": "70cf8f2f3d451daf13ca3f9f9fd845b184cb30d163e933141ec3aa22626a781a"
+        },
+        {
+          "index": 6,
+          "url": "https://ginzo.jp/cdn/shop/files/800000132574000-3_c140db8e-0d8f-44c2-8215-ac358aed568b.jpg?v=1742556113",
+          "file": "image-06.jpg",
+          "bytes": 95298,
+          "sha256": "9f2025fbc6f0ef4500b77ab884ae57a15cfa8ff6028490a72f316ea41692f976"
+        },
+        {
+          "index": 7,
+          "url": "https://ginzo.jp/cdn/shop/files/800000132574000-4_47158b86-183f-426c-8feb-a0a68bf8997c.jpg?v=1742556113",
+          "file": "image-07.jpg",
+          "bytes": 97547,
+          "sha256": "ddf9ced76cee707a5e130c89e5f5853960464d53df1b210a48a38f40b32173ab"
+        },
+        {
+          "index": 8,
+          "url": "https://ginzo.jp/cdn/shop/files/800000132574000-5_ffe0205a-b201-4148-9945-5d3f619f67ea.jpg?v=1742556113",
+          "file": "image-08.jpg",
+          "bytes": 63469,
+          "sha256": "26c9e7c42664b0c9f830083b4790a755a896b670f2a8222a9a13a0d62133b3bf"
+        },
+        {
+          "index": 9,
+          "url": "https://ginzo.jp/cdn/shop/files/800000132574000-6_a15a81fd-aff4-455c-b013-f647ae55e21e.jpg?v=1742556113",
+          "file": "image-09.jpg",
+          "bytes": 124261,
+          "sha256": "2ba009e6a5316940f71920f8ec11a6fb4f59485bfb42182f4cf5861aaf5f5e17"
+        },
+        {
+          "index": 10,
+          "url": "https://ginzo.jp/cdn/shop/files/800000132574000-7_d97e73d7-4b8f-436c-a472-58d1cf962fe6.jpg?v=1742556113",
+          "file": "image-10.jpg",
+          "bytes": 88781,
+          "sha256": "6ac186e0cf87563090ed2fd451245f8d5e03d1541254d8cae746e9a5728b4ba7"
+        },
+        {
+          "index": 11,
+          "url": "https://ginzo.jp/cdn/shop/files/800000132574000-8_dc9d2ab9-62ec-4917-b061-9e5f2919b7bd.jpg?v=1742556113",
+          "file": "image-11.jpg",
+          "bytes": 77645,
+          "sha256": "2e9de8e0c23b1642ba96f2881ff3fe7e62195da4b68a7c3ad1374d72a9ab3d75"
+        }
+      ]
+    }
+  ],
+  "unsupported": [
+    "opened movement",
+    "inner caseback",
+    "9R65A execution equivalence",
+    "full production period"
+  ],
+  "publication": "Pending publication and live verification; no shared queue status change in this checkpoint."
+}

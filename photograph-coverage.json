@@ -4,30 +4,30 @@
   "counting": "Stored identifier keys deduplicate punctuation/case only; documented M-prefixed aliases and base/catalogue identifiers remain separate lookup keys. Patterns are source records, never claimed as enumerated exact references. Textual model research is not photograph verification. verifiedAssets counts category/gallery entries; verifiedImageUrls counts distinct stored URLs; verifiedImageFiles deduplicates inspected file hashes (falling back to URL when unavailable).",
   "counts": {
     "repositoryRuleRecords": 937,
-    "repositoryResearchUpdates": 241,
-    "sourceRuleRecords": 1178,
+    "repositoryResearchUpdates": 242,
+    "sourceRuleRecords": 1179,
     "sharedReferenceFactRows": 982,
     "sharedVerifiedTextRows": 47,
     "importedCatalogueVariantRecords": 1465,
-    "sourceInventoryRecords": 2643,
-    "storedIdentifierKeys": 2442,
+    "sourceInventoryRecords": 2644,
+    "storedIdentifierKeys": 2443,
     "sourceRecordsUnreviewed": 2193,
-    "identifierKeysUnreviewed": 2033,
+    "identifierKeysUnreviewed": 2034,
     "identifierKeysReviewed": 409,
-    "sourceRecordsReviewed": 450,
+    "sourceRecordsReviewed": 451,
     "reviewedIdentifierCategoryPairs": 1636,
-    "catalogueAssets": 1165,
+    "catalogueAssets": 1168,
     "legacyAssets": 31,
-    "verifiedAssets": 1129,
-    "verifiedImageUrls": 1065,
-    "verifiedImageFiles": 1064,
+    "verifiedAssets": 1132,
+    "verifiedImageUrls": 1067,
+    "verifiedImageFiles": 1066,
     "pendingAssets": 26,
     "rejectedAssets": 10,
     "verifiedIdentifierKeysByCategory": {
-      "front": 353,
+      "front": 354,
       "movement": 140,
-      "caseback": 307,
-      "braceletClasp": 302
+      "caseback": 308,
+      "braceletClasp": 303
     },
     "byBrand": {
       "TUDOR": {
@@ -241,13 +241,13 @@
         }
       },
       "GRANDSEIKO": {
-        "storedIdentifierKeys": 15,
-        "unreviewed": 15,
+        "storedIdentifierKeys": 16,
+        "unreviewed": 16,
         "verifiedByCategory": {
-          "front": 0,
+          "front": 1,
           "movement": 0,
-          "caseback": 0,
-          "braceletClasp": 0
+          "caseback": 1,
+          "braceletClasp": 1
         }
       },
       "GSHOCK": {
@@ -1691,6 +1691,7 @@
     {"id":"UPDATE:CARTIER|WSTA0065","brand":"CARTIER","key":"WSTA0065","scope":"reference rule","status":"reviewed for photographs"},
     {"id":"UPDATE:OMEGA|22345000","brand":"OMEGA","key":"2234.50.00","scope":"reference rule","status":"reviewed for photographs"},
     {"id":"UPDATE:OMEGA|23330412101001","brand":"OMEGA","key":"233.30.41.21.01.001","scope":"reference rule","status":"reviewed for photographs"},
+    {"id":"UPDATE:GRANDSEIKO|SBGA285","brand":"GRANDSEIKO","key":"SBGA285","scope":"reference rule","status":"reviewed for photographs"},
     {"id":"CATALOGUE:M52506-0003","brand":"ROLEX","key":"m52506-0003","scope":"catalogue variant","status":"unreviewed for photographs"},
     {"id":"CATALOGUE:M52508-0002","brand":"ROLEX","key":"m52508-0002","scope":"catalogue variant","status":"unreviewed for photographs"},
     {"id":"CATALOGUE:M52508-0005","brand":"ROLEX","key":"m52508-0005","scope":"catalogue variant","status":"unreviewed for photographs"},
@@ -5390,6 +5391,7 @@
     {"brand":"Grand Seiko","reference":"SBGR319","aliases":["SBGR319"],"origins":["rules"],"sources":[],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
     {"brand":"Grand Seiko","reference":"SBGX261G","aliases":["SBGX261G"],"origins":["rules"],"sources":[],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
     {"brand":"Grand Seiko","reference":"SLGA007G","aliases":["SLGA007G"],"origins":["rules"],"sources":[],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
+    {"brand":"GRANDSEIKO","reference":"SBGA285","aliases":["SBGA285"],"origins":["research updates"],"sources":["https://grandseikoboutique.us/products/sbga285"],"reviewStatus":"unreviewed","categories":{"front":{"status":"verified","photographIds":["grandseiko-sbga285-20261030-front"],"candidateIds":["grandseiko-sbga285-20261030-front"]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"verified","photographIds":["grandseiko-sbga285-20261030-caseback"],"candidateIds":["grandseiko-sbga285-20261030-caseback"]},"braceletClasp":{"status":"verified","photographIds":["grandseiko-sbga285-20261030-braceletClasp"],"candidateIds":["grandseiko-sbga285-20261030-braceletClasp"]}}},
     {"brand":"GRANDSEIKO","reference":"SBGY035G","aliases":["SBGY035G"],"origins":["research updates"],"sources":["https://www.grand-seiko.com/au-en/news/2024/pr/20240827"],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
     {"brand":"GSHOCK","reference":"MRGBF1000B1ADR","aliases":["MRGBF1000B1ADR"],"origins":["research updates"],"sources":["https://www.casio.com/sg/watches/gshock/support.MRG-BF1000B-1A/"],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
     {"brand":"HAMILTON","reference":"H384290","aliases":["H384290"],"origins":["research updates"],"sources":["https://www.dorotheum.com/en/l/9377566/"],"reviewStatus":"reviewed","categories":{"front":{"status":"verified","photographIds":["queue-hamilton-h384290-shuck-front"],"candidateIds":["queue-hamilton-h384290-shuck-front"],"review":{"reviewedAt":"2026-10-14T14:25:19.615Z","evidence":"Original ShucktheOyster H384290 source describes cream/black-subdial40mm manual chronograph on black leather.16original gallery files contact-inspected;full0/6/7/8/10 inspected. Closedback8 physicallyH384290,Hamilton and10bar legends;opened6/7 Hamilton decorated manual chronograph with25JEWELS/TWENTY-FIVE/SWISS markings. No readableA05291 orH-51 marking established. Signedpinbuckle10. Original manufacturer H38429710 white/leather andH38429130 black/bracelet product fields supportH-51/40mm/60h for those separate retailreferences,not inferredaliases or accepted supplier equivalence for thiscasecode. Card14 is seller-associated handwritten retailreference,not independent factory identity/date/originality proof. Seller2021 assertion andnominalresistance notspecimen dating/performance/authentication. No neighbouringreference/retailsuffix/calibre inference.","finding":"Actual source specimen inspected; precisecalibre/fullretailidentity/date/componentoriginality remain gaps."}},"movement":{"status":"verified","photographIds":["queue-hamilton-h384290-shuck-movement"],"candidateIds":["queue-hamilton-h384290-shuck-movement"],"review":{"reviewedAt":"2026-10-14T14:25:19.615Z","evidence":"Original ShucktheOyster H384290 source describes cream/black-subdial40mm manual chronograph on black leather.16original gallery files contact-inspected;full0/6/7/8/10 inspected. Closedback8 physicallyH384290,Hamilton and10bar legends;opened6/7 Hamilton decorated manual chronograph with25JEWELS/TWENTY-FIVE/SWISS markings. No readableA05291 orH-51 marking established. Signedpinbuckle10. Original manufacturer H38429710 white/leather andH38429130 black/bracelet product fields supportH-51/40mm/60h for those separate retailreferences,not inferredaliases or accepted supplier equivalence for thiscasecode. Card14 is seller-associated handwritten retailreference,not independent factory identity/date/originality proof. Seller2021 assertion andnominalresistance notspecimen dating/performance/authentication. No neighbouringreference/retailsuffix/calibre inference.","finding":"Actual source specimen inspected; precisecalibre/fullretailidentity/date/componentoriginality remain gaps."}},"caseback":{"status":"verified","photographIds":["queue-hamilton-h384290-shuck-caseback"],"candidateIds":["queue-hamilton-h384290-shuck-caseback"],"review":{"reviewedAt":"2026-10-14T14:25:19.615Z","evidence":"Original ShucktheOyster H384290 source describes cream/black-subdial40mm manual chronograph on black leather.16original gallery files contact-inspected;full0/6/7/8/10 inspected. Closedback8 physicallyH384290,Hamilton and10bar legends;opened6/7 Hamilton decorated manual chronograph with25JEWELS/TWENTY-FIVE/SWISS markings. No readableA05291 orH-51 marking established. Signedpinbuckle10. Original manufacturer H38429710 white/leather andH38429130 black/bracelet product fields supportH-51/40mm/60h for those separate retailreferences,not inferredaliases or accepted supplier equivalence for thiscasecode. Card14 is seller-associated handwritten retailreference,not independent factory identity/date/originality proof. Seller2021 assertion andnominalresistance notspecimen dating/performance/authentication. No neighbouringreference/retailsuffix/calibre inference.","finding":"Actual source specimen inspected; precisecalibre/fullretailidentity/date/componentoriginality remain gaps."}},"braceletClasp":{"status":"verified","photographIds":["queue-hamilton-h384290-shuck-braceletClasp"],"candidateIds":["queue-hamilton-h384290-shuck-braceletClasp"],"review":{"reviewedAt":"2026-10-14T14:25:19.615Z","evidence":"Original ShucktheOyster H384290 source describes cream/black-subdial40mm manual chronograph on black leather.16original gallery files contact-inspected;full0/6/7/8/10 inspected. Closedback8 physicallyH384290,Hamilton and10bar legends;opened6/7 Hamilton decorated manual chronograph with25JEWELS/TWENTY-FIVE/SWISS markings. No readableA05291 orH-51 marking established. Signedpinbuckle10. Original manufacturer H38429710 white/leather andH38429130 black/bracelet product fields supportH-51/40mm/60h for those separate retailreferences,not inferredaliases or accepted supplier equivalence for thiscasecode. Card14 is seller-associated handwritten retailreference,not independent factory identity/date/originality proof. Seller2021 assertion andnominalresistance notspecimen dating/performance/authentication. No neighbouringreference/retailsuffix/calibre inference.","finding":"Actual source specimen inspected; precisecalibre/fullretailidentity/date/componentoriginality remain gaps."}}}},
