@@ -2,7 +2,7 @@
 
 ## Scope and result
 
-This delivery-only pass addresses three already-inspected Christie's image originals for exact reference PAM00609 and Omega 3578.51.00. The old Christie's image URLs had failed in real Chrome and those catalogue entries remain pending. Three original, unmodified image files are now staged under OLD Pages assets, with their original Christie's URLs, credits, image hashes, pixel evidence and delivery failure history retained. No other photograph, lookup rule, alias, reference, queue record or Supabase data changed.
+This delivery-only pass resolves image delivery for three already-inspected Christie's image originals for exact reference PAM00609 and Omega 3578.51.00. The old Christie's image URLs had failed in real Chrome. Three original, unmodified image files are now served from OLD Pages assets, with their original Christie's URLs, credits, image hashes, pixel evidence and delivery failure history retained. The four catalogue category entries are promoted to verified after the published assets loaded at their expected dimensions and their downloaded SHA-256 hashes matched the archived originals. No other photograph, lookup rule, alias, reference, queue record or Supabase data changed.
 
 The files match archived originals byte for byte:
 
@@ -18,6 +18,6 @@ The Omega image is a closed back with blue Snoopy medallion and numbered 2829/54
 
 ## Delivery status and validation
 
-The local browser test serves the exact archived bytes through the application gallery and enlargement UI, checks source credits and exact references, and confirms External-only movement suppression. The full regression suite passes 228 tests, the retained inspection workflow fixture passes, and generated inventory remains 454 of 2,647 source records reviewed, 1,144 verified gallery entries and 26 pending entries.
+The local browser test serves the exact archived bytes through the application gallery and enlargement UI, checks source credits and exact references, and confirms External-only movement suppression. On 2026-10-30, live OLD Pages delivered all three images at their archived dimensions and all downloaded SHA-256 values matched. Full live application-gallery verification follows this catalogue release. The full regression suite passes 228 tests, the retained inspection workflow fixture passes, and generated inventory is 454 of 2,647 source records reviewed, 1,148 verified gallery entries and 22 pending entries.
 
-These four category records remain `pending` with `browserDeliveryVerified: false` until the files are served by OLD Pages and the live gallery is checked. The report and self-hosted copies alone do not establish live delivery. No authenticated refresh/RLS session was available. This work applies only to `potmoodle-debug/watch-auth-pro-OLD`; production WatchAuthPro is untouched.
+The PAM00609 movement and caseback entries share one image and both set `depictsMovement: true`; external-only matching therefore retains only the front. The Omega medal back is not marked as depicting a movement. The actual live category-gallery check should pass before any later evidence or coverage change relies on this pass. No authenticated refresh/RLS session was available. This work applies only to `potmoodle-debug/watch-auth-pro-OLD`; production WatchAuthPro is untouched.
