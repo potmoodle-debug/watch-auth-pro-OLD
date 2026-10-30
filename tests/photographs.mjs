@@ -420,9 +420,9 @@ test('second Panerai batch keeps photographed manual executions and masked ident
  const get=(ref,options)=>matchingPhotographs(photos,'Panerai',ref,options).filter(p=>p.id.startsWith('panerai-pass2-'));
  assert.equal(get('PAM00574').length,4);
  assert.match(get('PAM00574').find(p=>p.category==='movement').caption,/manual.*21 JEWELS.*two-screw/);
- assert.equal(get('PAM00609').length,0);
- const pending=photos.filter(p=>p.id.startsWith('panerai-pass2-pam00609'));assert.equal(pending.length,3);assert.ok(pending.every(p=>p.review.status==='pending'));assert.match(pending.find(p=>p.category==='movement').caption,/P\.5000.*020836.*two-screw/);
- assert.ok(get('PAM00609').every(p=>p.category!=='braceletClasp'));
+ assert.equal(get('PAM00609').length,3);
+ const pending=photos.filter(p=>p.id.startsWith('panerai-pass2-pam00609'));assert.equal(pending.length,3);assert.ok(pending.every(p=>p.review.status==='verified'&&p.review.browserDeliveryVerified));assert.match(pending.find(p=>p.category==='movement').caption,/P\.5000.*020836.*two-screw/);assert.equal(pending.find(p=>p.category==='caseback').depictsMovement,true);
+ assert.ok(get('PAM00609').every(p=>p.category!=='braceletClasp'));assert.deepEqual(get('PAM00609',{externalOnly:true}).map(p=>p.category),['front']);
  for(const ref of ['PAM00574','PAM00609'])assert.ok(get(ref,{externalOnly:true}).every(p=>!['movement','caseback'].includes(p.category)));
  for(const ref of ['PAM01005','PAM01024']){assert.equal(get(ref).length,3);assert.ok(get(ref).every(p=>p.category!=='movement'));}
  for(const ref of ['PAM00024','PAM00575','PAM00610','PAM01000','PAM01024-0001','PAM24'])assert.equal(get(ref).length,0,ref);
