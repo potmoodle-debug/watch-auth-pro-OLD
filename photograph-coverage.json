@@ -4,30 +4,30 @@
   "counting": "Stored identifier keys deduplicate punctuation/case only; documented M-prefixed aliases and base/catalogue identifiers remain separate lookup keys. Patterns are source records, never claimed as enumerated exact references. Textual model research is not photograph verification. verifiedAssets counts category/gallery entries; verifiedImageUrls counts distinct stored URLs; verifiedImageFiles deduplicates inspected file hashes (falling back to URL when unavailable).",
   "counts": {
     "repositoryRuleRecords": 937,
-    "repositoryResearchUpdates": 242,
-    "sourceRuleRecords": 1179,
+    "repositoryResearchUpdates": 245,
+    "sourceRuleRecords": 1182,
     "sharedReferenceFactRows": 982,
     "sharedVerifiedTextRows": 47,
     "importedCatalogueVariantRecords": 1465,
-    "sourceInventoryRecords": 2644,
-    "storedIdentifierKeys": 2443,
+    "sourceInventoryRecords": 2647,
+    "storedIdentifierKeys": 2446,
     "sourceRecordsUnreviewed": 2193,
-    "identifierKeysUnreviewed": 2034,
+    "identifierKeysUnreviewed": 2037,
     "identifierKeysReviewed": 409,
-    "sourceRecordsReviewed": 451,
+    "sourceRecordsReviewed": 454,
     "reviewedIdentifierCategoryPairs": 1636,
-    "catalogueAssets": 1168,
+    "catalogueAssets": 1180,
     "legacyAssets": 31,
-    "verifiedAssets": 1132,
-    "verifiedImageUrls": 1067,
-    "verifiedImageFiles": 1066,
+    "verifiedAssets": 1144,
+    "verifiedImageUrls": 1076,
+    "verifiedImageFiles": 1075,
     "pendingAssets": 26,
     "rejectedAssets": 10,
     "verifiedIdentifierKeysByCategory": {
-      "front": 354,
-      "movement": 140,
-      "caseback": 308,
-      "braceletClasp": 303
+      "front": 357,
+      "movement": 143,
+      "caseback": 311,
+      "braceletClasp": 306
     },
     "byBrand": {
       "TUDOR": {
@@ -448,6 +448,16 @@
           "movement": 0,
           "caseback": 0,
           "braceletClasp": 0
+        }
+      },
+      "SWATCH": {
+        "storedIdentifierKeys": 3,
+        "unreviewed": 3,
+        "verifiedByCategory": {
+          "front": 3,
+          "movement": 3,
+          "caseback": 3,
+          "braceletClasp": 3
         }
       },
       "TAGHEUER": {
@@ -1692,6 +1702,9 @@
     {"id":"UPDATE:OMEGA|22345000","brand":"OMEGA","key":"2234.50.00","scope":"reference rule","status":"reviewed for photographs"},
     {"id":"UPDATE:OMEGA|23330412101001","brand":"OMEGA","key":"233.30.41.21.01.001","scope":"reference rule","status":"reviewed for photographs"},
     {"id":"UPDATE:GRANDSEIKO|SBGA285","brand":"GRANDSEIKO","key":"SBGA285","scope":"reference rule","status":"reviewed for photographs"},
+    {"id":"UPDATE:SWATCH|SSX03W100N","brand":"SWATCH","key":"SSX03W100N","scope":"reference rule","status":"reviewed for photographs"},
+    {"id":"UPDATE:SWATCH|SSX03L100N","brand":"SWATCH","key":"SSX03L100N","scope":"reference rule","status":"reviewed for photographs"},
+    {"id":"UPDATE:SWATCH|SSX03W101N","brand":"SWATCH","key":"SSX03W101N","scope":"reference rule","status":"reviewed for photographs"},
     {"id":"CATALOGUE:M52506-0003","brand":"ROLEX","key":"m52506-0003","scope":"catalogue variant","status":"unreviewed for photographs"},
     {"id":"CATALOGUE:M52508-0002","brand":"ROLEX","key":"m52508-0002","scope":"catalogue variant","status":"unreviewed for photographs"},
     {"id":"CATALOGUE:M52508-0005","brand":"ROLEX","key":"m52508-0005","scope":"catalogue variant","status":"unreviewed for photographs"},
@@ -5514,6 +5527,9 @@
     {"brand":"Sinn","reference":"Sinn U1 SDR","aliases":["Sinn U1 SDR"],"origins":["rules"],"sources":[],"reviewStatus":"reviewed","categories":{"front":{"status":"verified","photographIds":["sinn-pass-u1sdr-front"],"candidateIds":["sinn-pass-u1sdr-front"],"review":{"reviewedAt":"2026-10-12T10:56:05.401Z","evidence":"Delray Watch inventory 7172 identifies U1 SDR, reference-family 1010 and pre-owned steel 44 mm specimen. All eight distinct gallery frames inspected; selected back and clasp at original resolution. Actual closed back says U1 / 1000 m / DEUTSCHER U-BOOT-STAHL / SEEWASSERBESTAENDIG with seller-blurred identity. Clasp physically signed Sinn and shows wear. No opened movement photo or photographed calibre; generic 1010, U1 or neighbouring SDR B variants do not inherit these images. Box/paperwork frame excluded from public attachments and receipt URLs.","finding":"Verified U1 SDR specimen view; matching and masked-identity limits retained."}},"movement":{"status":"reviewed gap — No opened movement photo in inspected gallery. Further research remains open.","photographIds":[],"candidateIds":[],"review":{"reviewedAt":"2026-10-12T10:56:05.401Z","evidence":"Delray Watch inventory 7172 identifies U1 SDR, reference-family 1010 and pre-owned steel 44 mm specimen. All eight distinct gallery frames inspected; selected back and clasp at original resolution. Actual closed back says U1 / 1000 m / DEUTSCHER U-BOOT-STAHL / SEEWASSERBESTAENDIG with seller-blurred identity. Clasp physically signed Sinn and shows wear. No opened movement photo or photographed calibre; generic 1010, U1 or neighbouring SDR B variants do not inherit these images. Box/paperwork frame excluded from public attachments and receipt URLs.","finding":"No opened movement photo in inspected gallery. Further research remains open."}},"caseback":{"status":"verified","photographIds":["sinn-pass-u1sdr-caseback"],"candidateIds":["sinn-pass-u1sdr-caseback"],"review":{"reviewedAt":"2026-10-12T10:56:05.401Z","evidence":"Delray Watch inventory 7172 identifies U1 SDR, reference-family 1010 and pre-owned steel 44 mm specimen. All eight distinct gallery frames inspected; selected back and clasp at original resolution. Actual closed back says U1 / 1000 m / DEUTSCHER U-BOOT-STAHL / SEEWASSERBESTAENDIG with seller-blurred identity. Clasp physically signed Sinn and shows wear. No opened movement photo or photographed calibre; generic 1010, U1 or neighbouring SDR B variants do not inherit these images. Box/paperwork frame excluded from public attachments and receipt URLs.","finding":"Verified U1 SDR specimen view; matching and masked-identity limits retained."}},"braceletClasp":{"status":"verified","photographIds":["sinn-pass-u1sdr-braceletClasp"],"candidateIds":["sinn-pass-u1sdr-braceletClasp"],"review":{"reviewedAt":"2026-10-12T10:56:05.401Z","evidence":"Delray Watch inventory 7172 identifies U1 SDR, reference-family 1010 and pre-owned steel 44 mm specimen. All eight distinct gallery frames inspected; selected back and clasp at original resolution. Actual closed back says U1 / 1000 m / DEUTSCHER U-BOOT-STAHL / SEEWASSERBESTAENDIG with seller-blurred identity. Clasp physically signed Sinn and shows wear. No opened movement photo or photographed calibre; generic 1010, U1 or neighbouring SDR B variants do not inherit these images. Box/paperwork frame excluded from public attachments and receipt URLs.","finding":"Verified U1 SDR specimen view; matching and masked-identity limits retained."}}}},
     {"brand":"Sinn","reference":"Sinn U50 Hydro","aliases":["Sinn U50 Hydro"],"origins":["rules"],"sources":[],"reviewStatus":"reviewed","categories":{"front":{"status":"verified","photographIds":["sinn-three-u50-front"],"candidateIds":["sinn-three-u50-front"],"review":{"reviewedAt":"2026-10-12T11:08:25.350Z","evidence":"Care of Carl product 30238110 identifies U50 Hydro, reference-family 1051, steel bezel/bracelet, quartz 715 Li and year 2024. All six gallery frames inspected, selected front, closed back and clasp at original resolution. Actual dial says HYDRO / U50 and closed back U50 HYDRO / 5000 m / DEUTSCHER U-BOOT-STAHL / SEEWASSERBESTÄNDIG. No opened movement or photographed calibre evidence: leave movement empty and preserve oil-filled HYDRO safety. Source year and calibre remain textual attribution; engraving does not independently verify steel alloy. No inheritance to mechanical U50, black-bezel SDR, all-black S or bare 1051 family. Box/paperwork frame excluded from public receipt URLs.","finding":"Verified specimen view with explicit model/variant and matching limits."}},"movement":{"status":"reviewed gap — No opened movement image in inspected gallery; further research remains open.","photographIds":[],"candidateIds":[],"review":{"reviewedAt":"2026-10-12T11:08:25.350Z","evidence":"Care of Carl product 30238110 identifies U50 Hydro, reference-family 1051, steel bezel/bracelet, quartz 715 Li and year 2024. All six gallery frames inspected, selected front, closed back and clasp at original resolution. Actual dial says HYDRO / U50 and closed back U50 HYDRO / 5000 m / DEUTSCHER U-BOOT-STAHL / SEEWASSERBESTÄNDIG. No opened movement or photographed calibre evidence: leave movement empty and preserve oil-filled HYDRO safety. Source year and calibre remain textual attribution; engraving does not independently verify steel alloy. No inheritance to mechanical U50, black-bezel SDR, all-black S or bare 1051 family. Box/paperwork frame excluded from public receipt URLs.","finding":"No opened movement image in inspected gallery; further research remains open."}},"caseback":{"status":"verified","photographIds":["sinn-three-u50-caseback"],"candidateIds":["sinn-three-u50-caseback"],"review":{"reviewedAt":"2026-10-12T11:08:25.350Z","evidence":"Care of Carl product 30238110 identifies U50 Hydro, reference-family 1051, steel bezel/bracelet, quartz 715 Li and year 2024. All six gallery frames inspected, selected front, closed back and clasp at original resolution. Actual dial says HYDRO / U50 and closed back U50 HYDRO / 5000 m / DEUTSCHER U-BOOT-STAHL / SEEWASSERBESTÄNDIG. No opened movement or photographed calibre evidence: leave movement empty and preserve oil-filled HYDRO safety. Source year and calibre remain textual attribution; engraving does not independently verify steel alloy. No inheritance to mechanical U50, black-bezel SDR, all-black S or bare 1051 family. Box/paperwork frame excluded from public receipt URLs.","finding":"Verified specimen view with explicit model/variant and matching limits."}},"braceletClasp":{"status":"verified","photographIds":["sinn-three-u50-braceletClasp"],"candidateIds":["sinn-three-u50-braceletClasp"],"review":{"reviewedAt":"2026-10-12T11:08:25.350Z","evidence":"Care of Carl product 30238110 identifies U50 Hydro, reference-family 1051, steel bezel/bracelet, quartz 715 Li and year 2024. All six gallery frames inspected, selected front, closed back and clasp at original resolution. Actual dial says HYDRO / U50 and closed back U50 HYDRO / 5000 m / DEUTSCHER U-BOOT-STAHL / SEEWASSERBESTÄNDIG. No opened movement or photographed calibre evidence: leave movement empty and preserve oil-filled HYDRO safety. Source year and calibre remain textual attribution; engraving does not independently verify steel alloy. No inheritance to mechanical U50, black-bezel SDR, all-black S or bare 1051 family. Box/paperwork frame excluded from public receipt URLs.","finding":"Verified specimen view with explicit model/variant and matching limits."}}}},
     {"brand":"STUDIOUNDERD0G","reference":"FEARSMANHATTAN","aliases":["FEARSMANHATTAN"],"origins":["research updates"],"sources":["https://underd0g.com/products/02maox"],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
+    {"brand":"SWATCH","reference":"SSX03L100N","aliases":["SSX03L100N"],"origins":["research updates"],"sources":["https://www.swatch.com/en-gb/lan-ba-ssx03l100n/SSX03L100N.html"],"reviewStatus":"unreviewed","categories":{"front":{"status":"verified","photographIds":["swatch-royalpop-ssx03l100n-20261030-front"],"candidateIds":["swatch-royalpop-ssx03l100n-20261030-front"]},"movement":{"status":"verified","photographIds":["swatch-royalpop-ssx03l100n-20261030-movement"],"candidateIds":["swatch-royalpop-ssx03l100n-20261030-movement"]},"caseback":{"status":"verified","photographIds":["swatch-royalpop-ssx03l100n-20261030-caseback"],"candidateIds":["swatch-royalpop-ssx03l100n-20261030-caseback"]},"braceletClasp":{"status":"verified","photographIds":["swatch-royalpop-ssx03l100n-20261030-braceletClasp"],"candidateIds":["swatch-royalpop-ssx03l100n-20261030-braceletClasp"]}}},
+    {"brand":"SWATCH","reference":"SSX03W100N","aliases":["SSX03W100N"],"origins":["research updates"],"sources":["https://www.swatch.com/en-gb/huit-blanc-ssx03w100n/SSX03W100N.html"],"reviewStatus":"unreviewed","categories":{"front":{"status":"verified","photographIds":["swatch-royalpop-ssx03w100n-20261030-front"],"candidateIds":["swatch-royalpop-ssx03w100n-20261030-front"]},"movement":{"status":"verified","photographIds":["swatch-royalpop-ssx03w100n-20261030-movement"],"candidateIds":["swatch-royalpop-ssx03w100n-20261030-movement"]},"caseback":{"status":"verified","photographIds":["swatch-royalpop-ssx03w100n-20261030-caseback"],"candidateIds":["swatch-royalpop-ssx03w100n-20261030-caseback"]},"braceletClasp":{"status":"verified","photographIds":["swatch-royalpop-ssx03w100n-20261030-braceletClasp"],"candidateIds":["swatch-royalpop-ssx03w100n-20261030-braceletClasp"]}}},
+    {"brand":"SWATCH","reference":"SSX03W101N","aliases":["SSX03W101N"],"origins":["research updates"],"sources":["https://www.swatch.com/en-gb/ocho-negro-ssx03w101n/SSX03W101N.html"],"reviewStatus":"unreviewed","categories":{"front":{"status":"verified","photographIds":["swatch-royalpop-ssx03w101n-20261030-front"],"candidateIds":["swatch-royalpop-ssx03w101n-20261030-front"]},"movement":{"status":"verified","photographIds":["swatch-royalpop-ssx03w101n-20261030-movement"],"candidateIds":["swatch-royalpop-ssx03w101n-20261030-movement"]},"caseback":{"status":"verified","photographIds":["swatch-royalpop-ssx03w101n-20261030-caseback"],"candidateIds":["swatch-royalpop-ssx03w101n-20261030-caseback"]},"braceletClasp":{"status":"verified","photographIds":["swatch-royalpop-ssx03w101n-20261030-braceletClasp"],"candidateIds":["swatch-royalpop-ssx03w101n-20261030-braceletClasp"]}}},
     {"brand":"TAG Heuer","reference":"AF2010","aliases":["AF2010"],"origins":["rules"],"sources":[],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
     {"brand":"TAG Heuer","reference":"CAH1112","aliases":["CAH1112"],"origins":["rules"],"sources":[],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
     {"brand":"TAG Heuer","reference":"CAR2A10-1","aliases":["CAR2A10-1"],"origins":["rules"],"sources":[],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},

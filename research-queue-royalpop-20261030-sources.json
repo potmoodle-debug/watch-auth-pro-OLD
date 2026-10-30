@@ -1,0 +1,343 @@
+{
+  "reviewedAt": "2026-10-30",
+  "records": [
+    {
+      "brand": "SWATCH",
+      "reference": "SSX03W100N",
+      "decision": "needs_evidence",
+      "conclusion": "Original Swatch exact SSX03W100N page identifies Royal Pop Huit Blanc and a hand-wound version of SISTEM51, distinct from the conventional automatic SISTEM51. White dial, white Bioceramic case, multicoloured bezel screws; central seconds. Manufacturer model specifications: 40mm diameter, 8.4mm thickness, Bioceramic, sapphire front and transparent rear, calfskin lanyard. Original model gallery and macro pixels inspected: accepted dial detail, movement through the decorated display back, and stitched lanyard attachment detail. The same rear photograph serves movement and caseback categories and must be suppressed in External mode. A display-back photograph is not an opened-case inspection. The lanyard category does not depict a metal bracelet or folding clasp. Product cutouts and small previews excluded from accepted photography; no full-face photograph accepted in this pass. No generic automatic SISTEM51 photograph, technical supplier code, production interval or individual-watch authenticity inferred. Recorded V8 codes and model-name entries are not established calibre designations; retain execution review. SSX03W101 without N is not accepted as SSX03W101N; RoyalPop as an entered brand is not silently remapped. Other colourways and suffixes remain distinct. Nominal water resistance does not test the user watch.",
+      "sources": [
+        {
+          "title": "Swatch original Huit Blanc SSX03W100N",
+          "url": "https://www.swatch.com/en-gb/huit-blanc-ssx03w100n/SSX03W100N.html"
+        }
+      ]
+    },
+    {
+      "brand": "SWATCH",
+      "reference": "SSX03L100N",
+      "decision": "needs_evidence",
+      "conclusion": "Original Swatch exact SSX03L100N page identifies Royal Pop Lan Ba and a hand-wound version of SISTEM51, distinct from the conventional automatic SISTEM51. Blue dial, light-blue Bioceramic bezel; small seconds and side crown. Manufacturer model specifications: 40mm diameter, 8.4mm thickness, Bioceramic, sapphire front and transparent rear, calfskin lanyard. Original model gallery and macro pixels inspected: accepted dial detail, movement through the decorated display back, and stitched lanyard attachment detail. The same rear photograph serves movement and caseback categories and must be suppressed in External mode. A display-back photograph is not an opened-case inspection. The lanyard category does not depict a metal bracelet or folding clasp. Product cutouts and small previews excluded from accepted photography; no full-face photograph accepted in this pass. No generic automatic SISTEM51 photograph, technical supplier code, production interval or individual-watch authenticity inferred. Recorded V8 codes and model-name entries are not established calibre designations; retain execution review. SSX03W101 without N is not accepted as SSX03W101N; RoyalPop as an entered brand is not silently remapped. Other colourways and suffixes remain distinct. Nominal water resistance does not test the user watch.",
+      "sources": [
+        {
+          "title": "Swatch original Lan Ba SSX03L100N",
+          "url": "https://www.swatch.com/en-gb/lan-ba-ssx03l100n/SSX03L100N.html"
+        }
+      ]
+    },
+    {
+      "brand": "SWATCH",
+      "reference": "SSX03W101N",
+      "decision": "needs_evidence",
+      "conclusion": "Original Swatch exact SSX03W101N page identifies Royal Pop Ocho Negro and a hand-wound version of SISTEM51, distinct from the conventional automatic SISTEM51. Black dial, white Bioceramic bezel with black screws; central seconds. Manufacturer model specifications: 40mm diameter, 8.4mm thickness, Bioceramic, sapphire front and transparent rear, calfskin lanyard. Original model gallery and macro pixels inspected: accepted dial detail, movement through the decorated display back, and stitched lanyard attachment detail. The same rear photograph serves movement and caseback categories and must be suppressed in External mode. A display-back photograph is not an opened-case inspection. The lanyard category does not depict a metal bracelet or folding clasp. Product cutouts and small previews excluded from accepted photography; no full-face photograph accepted in this pass. No generic automatic SISTEM51 photograph, technical supplier code, production interval or individual-watch authenticity inferred. Recorded V8 codes and model-name entries are not established calibre designations; retain execution review. SSX03W101 without N is not accepted as SSX03W101N; RoyalPop as an entered brand is not silently remapped. Other colourways and suffixes remain distinct. Nominal water resistance does not test the user watch.",
+      "sources": [
+        {
+          "title": "Swatch original Ocho Negro SSX03W101N",
+          "url": "https://www.swatch.com/en-gb/ocho-negro-ssx03w101n/SSX03W101N.html"
+        }
+      ]
+    }
+  ],
+  "accepted": [
+    {
+      "id": "swatch-royalpop-ssx03w100n-20261030-front",
+      "category": "front",
+      "image": "https://static.swatch.com/images/product/SSX03W100N/li4/SSX03W100N_li4_ec001.jpg",
+      "sha256": "c79d44fd569d2a85ef296ab3aa9c00b0d63ea1abaca8e141c5fa44a406c3ad8a"
+    },
+    {
+      "id": "swatch-royalpop-ssx03w100n-20261030-movement",
+      "category": "movement",
+      "image": "https://static.swatch.com/images/product/SSX03W100N/li1/SSX03W100N_li1_ec001.jpg",
+      "sha256": "681a53fcfd2049e8877efa21a2fa429e3e940d90822f336469402e6bd3266deb"
+    },
+    {
+      "id": "swatch-royalpop-ssx03w100n-20261030-caseback",
+      "category": "caseback",
+      "image": "https://static.swatch.com/images/product/SSX03W100N/li1/SSX03W100N_li1_ec001.jpg",
+      "sha256": "681a53fcfd2049e8877efa21a2fa429e3e940d90822f336469402e6bd3266deb"
+    },
+    {
+      "id": "swatch-royalpop-ssx03w100n-20261030-braceletClasp",
+      "category": "braceletClasp",
+      "image": "https://static.swatch.com/images/product/SSX03W100N/li5/SSX03W100N_li5_ec001.jpg",
+      "sha256": "4c0a11dfbea57850ff165e95c2c5c354dcf550e5a94a0bc1b6cc06dd2dac6aa7"
+    },
+    {
+      "id": "swatch-royalpop-ssx03l100n-20261030-front",
+      "category": "front",
+      "image": "https://static.swatch.com/images/product/SSX03L100N/li3/SSX03L100N_li3_ec001.jpg",
+      "sha256": "427330213eddbed6072c8c58314ce035c4e059a32aa2de52da6a750c335aa075"
+    },
+    {
+      "id": "swatch-royalpop-ssx03l100n-20261030-movement",
+      "category": "movement",
+      "image": "https://static.swatch.com/images/product/SSX03L100N/li1/SSX03L100N_li1_ec001.jpg",
+      "sha256": "62a3e88e559f64ab568f803e30fbd92b3ccc20dd3491ac882bd6d8399d347a7a"
+    },
+    {
+      "id": "swatch-royalpop-ssx03l100n-20261030-caseback",
+      "category": "caseback",
+      "image": "https://static.swatch.com/images/product/SSX03L100N/li1/SSX03L100N_li1_ec001.jpg",
+      "sha256": "62a3e88e559f64ab568f803e30fbd92b3ccc20dd3491ac882bd6d8399d347a7a"
+    },
+    {
+      "id": "swatch-royalpop-ssx03l100n-20261030-braceletClasp",
+      "category": "braceletClasp",
+      "image": "https://static.swatch.com/images/product/SSX03L100N/li4/SSX03L100N_li4_ec001.jpg",
+      "sha256": "96ac0691507ceda11cc7f5d1446c70d37faa8a320538b8cb589b7fe640e0fb9d"
+    },
+    {
+      "id": "swatch-royalpop-ssx03w101n-20261030-front",
+      "category": "front",
+      "image": "https://static.swatch.com/images/product/SSX03W101N/li3/SSX03W101N_li3_ec001.jpg",
+      "sha256": "7a335c791efd02ca3c5a834320fed0b390dba941b68fc0f9e57f4f1bd5a93b72"
+    },
+    {
+      "id": "swatch-royalpop-ssx03w101n-20261030-movement",
+      "category": "movement",
+      "image": "https://static.swatch.com/images/product/SSX03W101N/li1/SSX03W101N_li1_ec001.jpg",
+      "sha256": "270fd84dd88e79f4f0f44df7c68da80963e79575535fe37976b932dcd8ce34ab"
+    },
+    {
+      "id": "swatch-royalpop-ssx03w101n-20261030-caseback",
+      "category": "caseback",
+      "image": "https://static.swatch.com/images/product/SSX03W101N/li1/SSX03W101N_li1_ec001.jpg",
+      "sha256": "270fd84dd88e79f4f0f44df7c68da80963e79575535fe37976b932dcd8ce34ab"
+    },
+    {
+      "id": "swatch-royalpop-ssx03w101n-20261030-braceletClasp",
+      "category": "braceletClasp",
+      "image": "https://static.swatch.com/images/product/SSX03W101N/li4/SSX03W101N_li4_ec001.jpg",
+      "sha256": "61f78740e04518e88ec19092c110c8a6d171444bebc2f85ae656e724a0fb2223"
+    }
+  ],
+  "inspectedGalleries": [
+    {
+      "reference": "SSX03W100N",
+      "at": "2026-10-30T10:22:00.728Z",
+      "images": [
+        {
+          "index": 1,
+          "url": "https://static.swatch.com/images/product/SSX03W100N/sa200/SSX03W100N_sa200_er005.png",
+          "file": "image-01.png",
+          "bytes": 41270,
+          "sha256": "59cf81e42bee031f42124dc78f9ed3b98d1d21ff6eba25477d8534cba087a5d8"
+        },
+        {
+          "index": 2,
+          "url": "https://static.swatch.com/images/product/SSX03W100N/sa200/SSX03W100N_sa200_er006.png",
+          "file": "image-02.png",
+          "bytes": 20818,
+          "sha256": "9589c2b9469e72b53f220ad6f068bf90a5bee32dfd559cbc3fae201a3eaaf95d"
+        },
+        {
+          "index": 3,
+          "url": "https://static.swatch.com/images/product/SSX03W100N/sa000/SSX03W100N_sa000_er003.png",
+          "file": "image-03.png",
+          "bytes": 142681,
+          "sha256": "9395ea349df1c1d519fdb57f2cb329e72b592dfc01790ae0741efc402cb9a7be"
+        },
+        {
+          "index": 4,
+          "url": "https://static.swatch.com/images/product/SSX03W100N/sa300/SSX03W100N_sa300_er003.png",
+          "file": "image-04.png",
+          "bytes": 159709,
+          "sha256": "d2b9905729504ba99b5c60fe4f13fda08ab9e4f2ab0345bf2147fcc2048165ba"
+        },
+        {
+          "index": 5,
+          "url": "https://static.swatch.com/images/product/SSX03W100N/li1/SSX03W100N_li1_ec001.jpg",
+          "file": "image-05.jpg",
+          "bytes": 280967,
+          "sha256": "681a53fcfd2049e8877efa21a2fa429e3e940d90822f336469402e6bd3266deb"
+        },
+        {
+          "index": 6,
+          "url": "https://static.swatch.com/images/product/SSX03W100N/li2/SSX03W100N_li2_ec001.jpg",
+          "file": "image-06.jpg",
+          "bytes": 85067,
+          "sha256": "b327e248c6c16340200cf109563ad8c191465472c40179bb125339ed84048249"
+        },
+        {
+          "index": 7,
+          "url": "https://static.swatch.com/images/product/SSX03W100N/li3/SSX03W100N_li3_ec001.jpg",
+          "file": "image-07.jpg",
+          "bytes": 124150,
+          "sha256": "c16890d5ccda1234fd735cde25b2482a4c6ede6c52f0da2b0a768b728430d3e4"
+        },
+        {
+          "index": 8,
+          "url": "https://static.swatch.com/images/product/SSX03W100N/li4/SSX03W100N_li4_ec001.jpg",
+          "file": "image-08.jpg",
+          "bytes": 200545,
+          "sha256": "c79d44fd569d2a85ef296ab3aa9c00b0d63ea1abaca8e141c5fa44a406c3ad8a"
+        },
+        {
+          "index": 9,
+          "url": "https://static.swatch.com/images/product/SSX03W100N/li5/SSX03W100N_li5_ec001.jpg",
+          "file": "image-09.jpg",
+          "bytes": 56787,
+          "sha256": "4c0a11dfbea57850ff165e95c2c5c354dcf550e5a94a0bc1b6cc06dd2dac6aa7"
+        }
+      ]
+    },
+    {
+      "reference": "SSX03L100N",
+      "at": "2026-10-30T10:22:04.503Z",
+      "images": [
+        {
+          "index": 1,
+          "url": "https://static.swatch.com/images/product/SSX03L100N/sa200/SSX03L100N_sa200_er005.png",
+          "file": "image-01.png",
+          "bytes": 37387,
+          "sha256": "4f8f87a8ae498f32531f7da6463a2bf785428156023fe43ba87952f33b4bec48"
+        },
+        {
+          "index": 2,
+          "url": "https://static.swatch.com/images/product/SSX03L100N/sa200/SSX03L100N_sa200_er006.png",
+          "file": "image-02.png",
+          "bytes": 20593,
+          "sha256": "5be9059ae17e7303a34a930822ea2c14bf20df451ba690a2ef8a80f059368c1a"
+        },
+        {
+          "index": 3,
+          "url": "https://static.swatch.com/images/product/SSX03L100N/sa000/SSX03L100N_sa000_er003.png",
+          "file": "image-03.png",
+          "bytes": 129470,
+          "sha256": "ceb7ec22eae5084cbc5be3cefb90ad519970982db67962c3618ce0dc71446fd6"
+        },
+        {
+          "index": 4,
+          "url": "https://static.swatch.com/images/product/SSX03L100N/sa300/SSX03L100N_sa300_er003.png",
+          "file": "image-04.png",
+          "bytes": 149406,
+          "sha256": "6330ed5375ea882752f92d06ec95f3d891c3dc1968cabf1460e799308a630398"
+        },
+        {
+          "index": 5,
+          "url": "https://static.swatch.com/images/product/SSX03L100N/li1/SSX03L100N_li1_ec001.jpg",
+          "file": "image-05.jpg",
+          "bytes": 276066,
+          "sha256": "62a3e88e559f64ab568f803e30fbd92b3ccc20dd3491ac882bd6d8399d347a7a"
+        },
+        {
+          "index": 6,
+          "url": "https://static.swatch.com/images/product/SSX03L100N/li2/SSX03L100N_li2_ec001.jpg",
+          "file": "image-06.jpg",
+          "bytes": 135739,
+          "sha256": "08547ebcc4a69dc0368f40e16e970a39f3906701e85c4643ae4500960cdb49da"
+        },
+        {
+          "index": 7,
+          "url": "https://static.swatch.com/images/product/SSX03L100N/li3/SSX03L100N_li3_ec001.jpg",
+          "file": "image-07.jpg",
+          "bytes": 330720,
+          "sha256": "427330213eddbed6072c8c58314ce035c4e059a32aa2de52da6a750c335aa075"
+        },
+        {
+          "index": 8,
+          "url": "https://static.swatch.com/images/product/SSX03L100N/li4/SSX03L100N_li4_ec001.jpg",
+          "file": "image-08.jpg",
+          "bytes": 65610,
+          "sha256": "96ac0691507ceda11cc7f5d1446c70d37faa8a320538b8cb589b7fe640e0fb9d"
+        }
+      ]
+    },
+    {
+      "reference": "SSX03W101N",
+      "at": "2026-10-30T10:22:06.865Z",
+      "images": [
+        {
+          "index": 1,
+          "url": "https://static.swatch.com/images/product/SSX03W101N/sa200/SSX03W101N_sa200_er005.png",
+          "file": "image-01.png",
+          "bytes": 29814,
+          "sha256": "eae5f3f5182ddafdb60c972befcfa7d05c32848994a7bc900e892b646e8ad21c"
+        },
+        {
+          "index": 2,
+          "url": "https://static.swatch.com/images/product/SSX03W101N/sa200/SSX03W101N_sa200_er006.png",
+          "file": "image-02.png",
+          "bytes": 16066,
+          "sha256": "bc66e00490eb51b826bffa66b5fea92e325220ad0bfab4a425c2c98975f37b9d"
+        },
+        {
+          "index": 3,
+          "url": "https://static.swatch.com/images/product/SSX03W101N/sa000/SSX03W101N_sa000_er003.png",
+          "file": "image-03.png",
+          "bytes": 101926,
+          "sha256": "b9678ba556f4df6d88f85e5e0f9556b3e4e3750cb90c644040211fb4a0a4c4b7"
+        },
+        {
+          "index": 4,
+          "url": "https://static.swatch.com/images/product/SSX03W101N/sa300/SSX03W101N_sa300_er003.png",
+          "file": "image-04.png",
+          "bytes": 115194,
+          "sha256": "147f16c7393bff8b1a33b71de2ab9a19dbfb5f9f13ed66e3530202d70124f808"
+        },
+        {
+          "index": 5,
+          "url": "https://static.swatch.com/images/product/SSX03W101N/li1/SSX03W101N_li1_ec001.jpg",
+          "file": "image-05.jpg",
+          "bytes": 249914,
+          "sha256": "270fd84dd88e79f4f0f44df7c68da80963e79575535fe37976b932dcd8ce34ab"
+        },
+        {
+          "index": 6,
+          "url": "https://static.swatch.com/images/product/SSX03W101N/li2/SSX03W101N_li2_ec001.jpg",
+          "file": "image-06.jpg",
+          "bytes": 66470,
+          "sha256": "a618511c374efec7353936dd98587cdce08875b4f5fc40fc4364ace882bed32b"
+        },
+        {
+          "index": 7,
+          "url": "https://static.swatch.com/images/product/SSX03W101N/li3/SSX03W101N_li3_ec001.jpg",
+          "file": "image-07.jpg",
+          "bytes": 347249,
+          "sha256": "7a335c791efd02ca3c5a834320fed0b390dba941b68fc0f9e57f4f1bd5a93b72"
+        },
+        {
+          "index": 8,
+          "url": "https://static.swatch.com/images/product/SSX03W101N/li4/SSX03W101N_li4_ec001.jpg",
+          "file": "image-08.jpg",
+          "bytes": 37602,
+          "sha256": "61f78740e04518e88ec19092c110c8a6d171444bebc2f85ae656e724a0fb2223"
+        }
+      ]
+    }
+  ],
+  "unresolvedRequests": [
+    {
+      "brand": "SWATCH",
+      "reference": "SSX03W100N",
+      "reason": "V8EF46 is not established as a calibre by the manufacturer page"
+    },
+    {
+      "brand": "SWATCH",
+      "reference": "SSX03L100N",
+      "reason": "V8EH05 is not established as a calibre by the manufacturer page"
+    },
+    {
+      "brand": "SWATCH",
+      "reference": "SSX03W101",
+      "reason": "Missing N suffix; Ocho Negro is a model name, not a calibre"
+    },
+    {
+      "brand": "ROYALPOP",
+      "reference": "SSX03L100N",
+      "reason": "Entered brand needs confirmation; V8EH08 is not established as a calibre"
+    }
+  ],
+  "unsupported": [
+    "full-face actual photograph",
+    "opened movement or readable fitted calibre stamp",
+    "inner caseback",
+    "metal bracelet or folding clasp",
+    "V8 execution-code meaning",
+    "SSX03W101 suffix equivalence",
+    "ROYALPOP brand equivalence",
+    "full production interval"
+  ],
+  "publication": "Local checkpoint only; shared queue updates follow verified OLD publication."
+}
