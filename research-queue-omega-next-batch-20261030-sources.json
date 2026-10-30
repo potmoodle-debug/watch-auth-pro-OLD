@@ -1,0 +1,186 @@
+{
+  "reviewedAt": "2026-10-30",
+  "records": [
+    {
+      "brand": "OMEGA",
+      "reference": "2234.50.00",
+      "decision": "answered",
+      "conclusion": "Original Quality Time listing expressly identifies 2234.50.00 and automatic Omega1128. Five original photographs contact-inspected; full image3 accepted as an actual black wave-dial GMT specimen with red GMT hand, two-tone24hour bezel and steel bracelet. The gallery does not show a useful closed-back, original clasp or opened movement view, despite descriptions of those parts; those categories remain gaps.1128 is original-dealer model attribution,not a readable fitted stamp. Dealer1999-2000 estimate dates its specimen only. No neighbouring reference, bracelet suffix, generic calibre photograph, production interval, component interchangeability or user-watch authenticity is inferred. Source dates, condition, service, magnetic and water-resistance claims do not test or authenticate the user watch. Unsupported categories remain empty.",
+      "sources": [
+        {
+          "title": "Quality Time original2234.50.00specimen",
+          "url": "https://www.qualitytime-watches.co.uk/omega-seamaster-gmt-50-years-black-dial-bracelet"
+        }
+      ]
+    },
+    {
+      "brand": "OMEGA",
+      "reference": "233.30.41.21.01.001",
+      "decision": "answered",
+      "conclusion": "Original Omega Japan full-reference page identifies 233.30.41.21.01.001 with automatic Master Co-Axial8400,nominal60hour reserve,41mmsteel case,black dial,steel bracelet and sapphire display back. Original Asia Timepiece +171/A listing identifies the same full reference. Six original photographs contact-inspected; full2front,4rear and5clasp inspected. Rear4 visibly reads8400 on the rotor. Rear4 serves movement and caseback categories; clasp5 also visibly includes the movement,so all rear/clasp images are flagged depictsMovement and suppressed in External mode. Original source serial redaction preserved. No new234-series8912,8500or8401 equivalence. Source2021card date is not the full production interval. No neighbouring reference, bracelet suffix, generic calibre photograph, production interval, component interchangeability or user-watch authenticity is inferred. Source dates, condition, service, magnetic and water-resistance claims do not test or authenticate the user watch. Unsupported categories remain empty.",
+      "sources": [
+        {
+          "title": "Omega Japan original exact-reference technical page",
+          "url": "https://www.omegawatches.jp/watch-omega-seamaster-300-master-co-axial-chronometer-41-mm-23330412101001"
+        },
+        {
+          "title": "Asia Timepiece original+171/A specimen",
+          "url": "https://asiatimepiece.com/products/omega-seamaster-300-ref-233-30-41-21-01-001-master-co-axial-chronometer-41mm-2021"
+        }
+      ]
+    },
+    {
+      "brand": "OMEGA",
+      "reference": "255180",
+      "decision": "needs_evidence",
+      "conclusion": "Original Kanteikyoku listingk24-2366 expressly identifies2551.80 and advertises automatic1109,36mmsteel blue-dial specimen. The saved inspection also records1109. This is useful supporting dealer attribution,but fitted-execution/period evidence has not been physically verified in this pass. Do not silently substitute1120,accept genericETA2892 equivalence,append00,or import another168-case code. Keep this request active pending exact fitted-execution/period evidence;do not treat the observation as wrong. No photos accepted in this pass.",
+      "sources": [
+        {
+          "title": "Kanteikyoku original2551.80specimen listing",
+          "url": "https://kanteikyoku-web.jp/shop/products/detail/101879"
+        }
+      ]
+    }
+  ],
+  "accepted": [
+    {
+      "id": "omega-22345000-20261030-front",
+      "category": "front",
+      "image": "https://www.qualitytime-watches.co.uk/gfx/uploads/img_3_26012014151909gmtb.jpg.JPG",
+      "sha256": "ed8da481f85270da6639deec841b4df25239165ed37e285bd81aebef2170b37b"
+    },
+    {
+      "id": "omega-23330412101001-20261030-front",
+      "category": "front",
+      "image": "https://cdn.shopify.com/s/files/1/0950/4030/products/5_a19b7f7e-0892-4bca-850d-89393ff83094.jpg?v=1651142404",
+      "sha256": "bb6a9698036fa422de7f7e69e2425e93f38422b811b7172739cd71d400d6e68a"
+    },
+    {
+      "id": "omega-23330412101001-20261030-movement",
+      "category": "movement",
+      "image": "https://cdn.shopify.com/s/files/1/0950/4030/products/4_a5fe2657-5a94-4a9c-9f73-447d75f142b4.jpg?v=1651142404",
+      "sha256": "a094ffe7e7f6960d8966b24d6c6776725e0504938579b068a1a144c7bb5738cb"
+    },
+    {
+      "id": "omega-23330412101001-20261030-caseback",
+      "category": "caseback",
+      "image": "https://cdn.shopify.com/s/files/1/0950/4030/products/4_a5fe2657-5a94-4a9c-9f73-447d75f142b4.jpg?v=1651142404",
+      "sha256": "a094ffe7e7f6960d8966b24d6c6776725e0504938579b068a1a144c7bb5738cb"
+    },
+    {
+      "id": "omega-23330412101001-20261030-braceletClasp",
+      "category": "braceletClasp",
+      "image": "https://cdn.shopify.com/s/files/1/0950/4030/products/7_39ca3daf-a5bd-45f5-9cf5-40858212d054.jpg?v=1651142404",
+      "sha256": "98cdd93813d6613c251de95e1418ce54c9fc2e2f16deab1aa1938a792df8ccc8"
+    }
+  ],
+  "inspectedGalleries": [
+    {
+      "source": "https://www.qualitytime-watches.co.uk/omega-seamaster-gmt-50-years-black-dial-bracelet",
+      "at": "2026-10-30T09:55:18.348Z",
+      "images": [
+        {
+          "index": 1,
+          "url": "https://www.qualitytime-watches.co.uk/gfx/uploads/img_1_26012014112649gmtmain.jpg.JPG",
+          "file": "image-01.jpg",
+          "sha256": "6a6e829358d30ceceb7484c78ebbc7ac02d48bfbc301403403abea11d7555866",
+          "bytes": 259069
+        },
+        {
+          "index": 2,
+          "url": "https://www.qualitytime-watches.co.uk/gfx/uploads/img_2_26012014151909gmta.jpg.JPG",
+          "file": "image-02.jpg",
+          "sha256": "4155bea4881df516ce810852f36dff570bfeb813e8112fae04a0acb5f8e18d34",
+          "bytes": 693709
+        },
+        {
+          "index": 3,
+          "url": "https://www.qualitytime-watches.co.uk/gfx/uploads/img_3_26012014151909gmtb.jpg.JPG",
+          "file": "image-03.jpg",
+          "sha256": "ed8da481f85270da6639deec841b4df25239165ed37e285bd81aebef2170b37b",
+          "bytes": 759912
+        },
+        {
+          "index": 4,
+          "url": "https://www.qualitytime-watches.co.uk/gfx/uploads/img_4_26012014151909gmtc.jpg.JPG",
+          "file": "image-04.jpg",
+          "sha256": "37832b79e83999bff6d51565ec0b2224c22779536392c98db03e1f8d327e8be1",
+          "bytes": 704199
+        },
+        {
+          "index": 5,
+          "url": "https://www.qualitytime-watches.co.uk/gfx/uploads/img_5_26012014151909gmtd.jpg.JPG",
+          "file": "image-05.jpg",
+          "sha256": "1bd857c13386cee67865db09c1fbb59e45df742003d1a58ec219e7246a64c9aa",
+          "bytes": 744571
+        }
+      ]
+    },
+    {
+      "source": "https://asiatimepiece.com/products/omega-seamaster-300-ref-233-30-41-21-01-001-master-co-axial-chronometer-41mm-2021",
+      "at": "2026-10-30T09:55:58.072Z",
+      "images": [
+        {
+          "index": 1,
+          "url": "https://cdn.shopify.com/s/files/1/0950/4030/products/8_152c895f-4c9b-466e-b0e0-416b9fde8f3f.jpg?v=1651142404",
+          "file": "image-01.jpg",
+          "sha256": "0c10af825254081d38968840b0ed5320a6e7f6e41adb049f57b66bdae7f89063",
+          "bytes": 1204798
+        },
+        {
+          "index": 2,
+          "url": "https://cdn.shopify.com/s/files/1/0950/4030/products/5_a19b7f7e-0892-4bca-850d-89393ff83094.jpg?v=1651142404",
+          "file": "image-02.jpg",
+          "sha256": "bb6a9698036fa422de7f7e69e2425e93f38422b811b7172739cd71d400d6e68a",
+          "bytes": 628986
+        },
+        {
+          "index": 3,
+          "url": "https://cdn.shopify.com/s/files/1/0950/4030/products/6_65fb189c-b91c-4022-adff-41ea8ec10e74.jpg?v=1651142404",
+          "file": "image-03.jpg",
+          "sha256": "761f497b419c241e7052b69dbe07d4ba79eef118ebbc65610dfb0246d34f22db",
+          "bytes": 765696
+        },
+        {
+          "index": 4,
+          "url": "https://cdn.shopify.com/s/files/1/0950/4030/products/4_a5fe2657-5a94-4a9c-9f73-447d75f142b4.jpg?v=1651142404",
+          "file": "image-04.jpg",
+          "sha256": "a094ffe7e7f6960d8966b24d6c6776725e0504938579b068a1a144c7bb5738cb",
+          "bytes": 729331
+        },
+        {
+          "index": 5,
+          "url": "https://cdn.shopify.com/s/files/1/0950/4030/products/7_39ca3daf-a5bd-45f5-9cf5-40858212d054.jpg?v=1651142404",
+          "file": "image-05.jpg",
+          "sha256": "98cdd93813d6613c251de95e1418ce54c9fc2e2f16deab1aa1938a792df8ccc8",
+          "bytes": 414353
+        },
+        {
+          "index": 6,
+          "url": "https://cdn.shopify.com/s/files/1/0950/4030/products/3_723231be-cd09-4387-a851-8e616e8e6b87.jpg?v=1651142404",
+          "file": "image-06.jpg",
+          "sha256": "49844ac12989c928e35e4f2041ae115719359f678f767eb423f815f0f1b27c19",
+          "bytes": 840358
+        }
+      ]
+    }
+  ],
+  "unsupported": {
+    "255180": [
+      "fitted execution",
+      "period scope",
+      "front",
+      "movement",
+      "caseback",
+      "braceletClasp"
+    ],
+    "2234.50.00": [
+      "movement",
+      "caseback",
+      "braceletClasp"
+    ],
+    "233.30.41.21.01.001": [
+      "inner caseback"
+    ]
+  }
+}
