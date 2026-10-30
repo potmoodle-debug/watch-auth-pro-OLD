@@ -38663,6 +38663,108 @@
           "height": 1500
         }
       }
+    },
+    {
+      "id": "tudor-79280p-20261030-front",
+      "brand": "TUDOR",
+      "references": [
+        "79280P"
+      ],
+      "representativeFor": [
+        "79280P"
+      ],
+      "variant": "Zeitauktion 2503540 black Arabic-dial specimen; replacement leather strap",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "79280P — front specimen",
+      "caption": "Actual exact-reference source specimen. Black Arabic-dial execution is representative; visible leather strap is a Zeitauktion replacement. Exterior marks do not authenticate the user watch.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503540_04_2k.jpg?v=1756370589",
+      "source": "https://www.zeitauktion.com/products/tudor-prince-date-chronograph-steel-automatic-men-s-watch-79280p-2503540",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original page and actual image pixels inspected 30 October 2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-30",
+        "loadedAt": "2026-10-30T09:19:28.739Z",
+        "evidence": "Original Zeitauktion specimen 2503540 identifies exact 79280P. Full photographs 4, 11 and 14 were inspected: black Arabic-numbered Prince Date chronograph dial and steel tachymeter bezel; closed Tudor/Geneva/Suisse shield back; opened movement with Tudor-signed rotor and readable 7750 plate marking beside the balance. The strap is a Zeitauktion-branded replacement leather strap, not proof of original Tudor bracelet or buckle execution. Photographs are representative of this black-dial specimen only. No suffix stripping, neighbouring 79280/79260/79270 equivalence, supplier revision or component interchangeability is inferred. No inner-back or between-lug reference engraving is shown. Dealer approximate 2007 dates this specimen, not the full production interval or user watch. Source condition, service and pressure-test claims do not establish the user watch condition, authenticity, originality, water resistance or warranty. Packaging, register sheet, pressure slip and workshop collage are excluded. Original bracelet/clasp and inner-back photographs remain gaps.",
+        "imageSha256": "318134a1691a6b759926f3370babb08fce7efb372d407b7efdd05afe8d15f3b1",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "id": "tudor-79280p-20261030-caseback",
+      "brand": "TUDOR",
+      "references": [
+        "79280P"
+      ],
+      "representativeFor": [
+        "79280P"
+      ],
+      "variant": "Zeitauktion 2503540 black Arabic-dial specimen; replacement leather strap",
+      "category": "caseback",
+      "depictsMovement": false,
+      "title": "79280P — caseback specimen",
+      "caption": "Actual exact-reference source specimen. Black Arabic-dial execution is representative; visible leather strap is a Zeitauktion replacement. Exterior marks do not authenticate the user watch.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503540_10_2k.jpg?v=1756370597",
+      "source": "https://www.zeitauktion.com/products/tudor-prince-date-chronograph-steel-automatic-men-s-watch-79280p-2503540",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original page and actual image pixels inspected 30 October 2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-30",
+        "loadedAt": "2026-10-30T09:19:28.739Z",
+        "evidence": "Original Zeitauktion specimen 2503540 identifies exact 79280P. Full photographs 4, 11 and 14 were inspected: black Arabic-numbered Prince Date chronograph dial and steel tachymeter bezel; closed Tudor/Geneva/Suisse shield back; opened movement with Tudor-signed rotor and readable 7750 plate marking beside the balance. The strap is a Zeitauktion-branded replacement leather strap, not proof of original Tudor bracelet or buckle execution. Photographs are representative of this black-dial specimen only. No suffix stripping, neighbouring 79280/79260/79270 equivalence, supplier revision or component interchangeability is inferred. No inner-back or between-lug reference engraving is shown. Dealer approximate 2007 dates this specimen, not the full production interval or user watch. Source condition, service and pressure-test claims do not establish the user watch condition, authenticity, originality, water resistance or warranty. Packaging, register sheet, pressure slip and workshop collage are excluded. Original bracelet/clasp and inner-back photographs remain gaps.",
+        "imageSha256": "acc3aa9a1002988457afaa230659f38151f863d2f913f0769698c36f44c07bf8",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "id": "tudor-79280p-20261030-movement",
+      "brand": "TUDOR",
+      "references": [
+        "79280P"
+      ],
+      "representativeFor": [
+        "79280P"
+      ],
+      "variant": "Zeitauktion 2503540 black Arabic-dial specimen; replacement leather strap",
+      "category": "movement",
+      "depictsMovement": true,
+      "title": "79280P — movement specimen",
+      "caption": "Actual exact-reference source specimen. Black Arabic-dial execution is representative; visible leather strap is a Zeitauktion replacement. Tudor-signed rotor and readable 7750 plate marking.",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503540_13_2k.jpg?v=1756370602",
+      "source": "https://www.zeitauktion.com/products/tudor-prince-date-chronograph-steel-automatic-men-s-watch-79280p-2503540",
+      "credit": "Zeitauktion GmbH — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original page and actual image pixels inspected 30 October 2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-30",
+        "loadedAt": "2026-10-30T09:19:28.739Z",
+        "evidence": "Original Zeitauktion specimen 2503540 identifies exact 79280P. Full photographs 4, 11 and 14 were inspected: black Arabic-numbered Prince Date chronograph dial and steel tachymeter bezel; closed Tudor/Geneva/Suisse shield back; opened movement with Tudor-signed rotor and readable 7750 plate marking beside the balance. The strap is a Zeitauktion-branded replacement leather strap, not proof of original Tudor bracelet or buckle execution. Photographs are representative of this black-dial specimen only. No suffix stripping, neighbouring 79280/79260/79270 equivalence, supplier revision or component interchangeability is inferred. No inner-back or between-lug reference engraving is shown. Dealer approximate 2007 dates this specimen, not the full production interval or user watch. Source condition, service and pressure-test claims do not establish the user watch condition, authenticity, originality, water resistance or warranty. Packaging, register sheet, pressure slip and workshop collage are excluded. Original bracelet/clasp and inner-back photographs remain gaps.",
+        "imageSha256": "06c24cee9698681e39e1f73e476b2e5da3e74f252ae26560926ec0d33e7fea76",
+        "imageDimensions": {
+          "width": 2400,
+          "height": 1600
+        }
+      }
     }
   ]
 }

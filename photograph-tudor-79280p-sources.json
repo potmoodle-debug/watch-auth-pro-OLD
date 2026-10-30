@@ -1,0 +1,156 @@
+{
+  "reviewedAt": "2026-10-30",
+  "brand": "TUDOR",
+  "reference": "79280P",
+  "decision": "answered",
+  "conclusion": "Original Zeitauktion specimen 2503540 identifies exact 79280P. Full photographs 4, 11 and 14 were inspected: black Arabic-numbered Prince Date chronograph dial and steel tachymeter bezel; closed Tudor/Geneva/Suisse shield back; opened movement with Tudor-signed rotor and readable 7750 plate marking beside the balance. The strap is a Zeitauktion-branded replacement leather strap, not proof of original Tudor bracelet or buckle execution. Photographs are representative of this black-dial specimen only. No suffix stripping, neighbouring 79280/79260/79270 equivalence, supplier revision or component interchangeability is inferred. No inner-back or between-lug reference engraving is shown. Dealer approximate 2007 dates this specimen, not the full production interval or user watch. Source condition, service and pressure-test claims do not establish the user watch condition, authenticity, originality, water resistance or warranty. Packaging, register sheet, pressure slip and workshop collage are excluded. Original bracelet/clasp and inner-back photographs remain gaps.",
+  "sources": [
+    {
+      "title": "Zeitauktion original specimen 2503540",
+      "url": "https://www.zeitauktion.com/products/tudor-prince-date-chronograph-steel-automatic-men-s-watch-79280p-2503540"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "tudor-79280p-20261030-front",
+      "category": "front",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503540_04_2k.jpg?v=1756370589",
+      "sha256": "318134a1691a6b759926f3370babb08fce7efb372d407b7efdd05afe8d15f3b1"
+    },
+    {
+      "id": "tudor-79280p-20261030-caseback",
+      "category": "caseback",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503540_10_2k.jpg?v=1756370597",
+      "sha256": "acc3aa9a1002988457afaa230659f38151f863d2f913f0769698c36f44c07bf8"
+    },
+    {
+      "id": "tudor-79280p-20261030-movement",
+      "category": "movement",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503540_13_2k.jpg?v=1756370602",
+      "sha256": "06c24cee9698681e39e1f73e476b2e5da3e74f252ae26560926ec0d33e7fea76"
+    }
+  ],
+  "inspectedGallery": {
+    "source": "https://www.zeitauktion.com/products/tudor-prince-date-chronograph-steel-automatic-men-s-watch-79280p-2503540",
+    "at": "2026-10-30T09:19:28.739Z",
+    "images": [
+      {
+        "index": 1,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503540_01_nowm.jpg?v=1756370584",
+        "file": "image-01.jpg",
+        "sha256": "5941f584978649a4d8a1f34d844e5d8bf76d4eae3b5cca88b95c651fb043e088",
+        "bytes": 172846
+      },
+      {
+        "index": 2,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503540_02_2k.jpg?v=1756370586",
+        "file": "image-02.jpg",
+        "sha256": "fa5ca6e86e0bd8e20d1c1ca1d7b2089ac22becb0ba43f74559f9271928338074",
+        "bytes": 271269
+      },
+      {
+        "index": 3,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503540_03_2k.jpg?v=1756370588",
+        "file": "image-03.jpg",
+        "sha256": "e3c4dd2d405067ab99160569b4c8b7f88529154b291306b2775d79886bda16a8",
+        "bytes": 309727
+      },
+      {
+        "index": 4,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503540_04_2k.jpg?v=1756370589",
+        "file": "image-04.jpg",
+        "sha256": "318134a1691a6b759926f3370babb08fce7efb372d407b7efdd05afe8d15f3b1",
+        "bytes": 298407
+      },
+      {
+        "index": 5,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503540_01_2k.jpg?v=1756370583",
+        "file": "image-05.jpg",
+        "sha256": "dc5e3d1f44949e8451242ed5ea449b81ed8abafcf14360fa3d2b7cc6e59bf750",
+        "bytes": 151444
+      },
+      {
+        "index": 6,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503540_05_2k.jpg?v=1756370591",
+        "file": "image-06.jpg",
+        "sha256": "0f0f4721a5422f580947ff8200632445707260c05d501fba54444b5ace93afc4",
+        "bytes": 139210
+      },
+      {
+        "index": 7,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503540_06_2k.jpg?v=1756370592",
+        "file": "image-07.jpg",
+        "sha256": "ed91d8884f641c754cfc8e451fafbb2f20c1b268042bfd3e68248d09c1033829",
+        "bytes": 163819
+      },
+      {
+        "index": 8,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503540_07_2k.jpg?v=1756370593",
+        "file": "image-08.jpg",
+        "sha256": "e9291e00e1ff2c09e89353e8d707dc0b8db5555590d870ab4cf129d4233d2479",
+        "bytes": 142609
+      },
+      {
+        "index": 9,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503540_08_2k.jpg?v=1756370595",
+        "file": "image-09.jpg",
+        "sha256": "c10ba16b3560eb6d868c0efdf1c57f2bb85a336b98b174ce738b0b92ae6d8a80",
+        "bytes": 253938
+      },
+      {
+        "index": 10,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503540_09_2k.jpg?v=1756370596",
+        "file": "image-10.jpg",
+        "sha256": "542bc26a9c191cf8a80b84a524172f4c3f1324a4a2537f118fcdb56dc169abd1",
+        "bytes": 153610
+      },
+      {
+        "index": 11,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503540_10_2k.jpg?v=1756370597",
+        "file": "image-11.jpg",
+        "sha256": "acc3aa9a1002988457afaa230659f38151f863d2f913f0769698c36f44c07bf8",
+        "bytes": 227367
+      },
+      {
+        "index": 12,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503540_11_2k.jpg?v=1756370599",
+        "file": "image-12.jpg",
+        "sha256": "ca2c8cf019b30c566705a7d1600cff15039c8f60ec435d9d42642a20ff2e38ad",
+        "bytes": 125854
+      },
+      {
+        "index": 13,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503540_12_2k.jpg?v=1756370600",
+        "file": "image-13.jpg",
+        "sha256": "bf16ee82d40c2f5f555541c81fcc27dde2cf89dbdd5e749ddbca3baf450bb8ee",
+        "bytes": 211092
+      },
+      {
+        "index": 14,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503540_13_2k.jpg?v=1756370602",
+        "file": "image-14.jpg",
+        "sha256": "06c24cee9698681e39e1f73e476b2e5da3e74f252ae26560926ec0d33e7fea76",
+        "bytes": 374169
+      },
+      {
+        "index": 15,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2503540_14_2k.jpg?v=1756370603",
+        "file": "image-15.jpg",
+        "sha256": "cfbc009aecdd26fd809a5bc6b69f53c11db634dd221958c3b5ccd5a4a3638cf3",
+        "bytes": 104555
+      },
+      {
+        "index": 16,
+        "url": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/photoSet_workshop_2k_20260629.jpg?v=1782732100",
+        "file": "image-16.jpg",
+        "sha256": "d7c47c925b681c85c0e05dd124e9a56a9bb373adf9bfc020bad94fe8e2408ebb",
+        "bytes": 257861
+      }
+    ]
+  },
+  "unsupported": [
+    "original bracelet/clasp",
+    "inner caseback",
+    "between-lug reference engraving"
+  ]
+}
