@@ -4,30 +4,30 @@
   "counting": "Stored identifier keys deduplicate punctuation/case only; documented M-prefixed aliases and base/catalogue identifiers remain separate lookup keys. Patterns are source records, never claimed as enumerated exact references. Textual model research is not photograph verification. verifiedAssets counts category/gallery entries; verifiedImageUrls counts distinct stored URLs; verifiedImageFiles deduplicates inspected file hashes (falling back to URL when unavailable).",
   "counts": {
     "repositoryRuleRecords": 937,
-    "repositoryResearchUpdates": 237,
-    "sourceRuleRecords": 1174,
+    "repositoryResearchUpdates": 238,
+    "sourceRuleRecords": 1175,
     "sharedReferenceFactRows": 982,
     "sharedVerifiedTextRows": 47,
     "importedCatalogueVariantRecords": 1465,
-    "sourceInventoryRecords": 2639,
-    "storedIdentifierKeys": 2438,
+    "sourceInventoryRecords": 2640,
+    "storedIdentifierKeys": 2439,
     "sourceRecordsUnreviewed": 2193,
-    "identifierKeysUnreviewed": 2029,
+    "identifierKeysUnreviewed": 2030,
     "identifierKeysReviewed": 409,
-    "sourceRecordsReviewed": 446,
+    "sourceRecordsReviewed": 447,
     "reviewedIdentifierCategoryPairs": 1636,
-    "catalogueAssets": 1154,
+    "catalogueAssets": 1157,
     "legacyAssets": 31,
-    "verifiedAssets": 1118,
-    "verifiedImageUrls": 1055,
-    "verifiedImageFiles": 1054,
+    "verifiedAssets": 1121,
+    "verifiedImageUrls": 1058,
+    "verifiedImageFiles": 1057,
     "pendingAssets": 26,
     "rejectedAssets": 10,
     "verifiedIdentifierKeysByCategory": {
-      "front": 349,
+      "front": 350,
       "movement": 139,
-      "caseback": 304,
-      "braceletClasp": 299
+      "caseback": 305,
+      "braceletClasp": 300
     },
     "byBrand": {
       "TUDOR": {
@@ -51,13 +51,13 @@
         }
       },
       "BREITLING": {
-        "storedIdentifierKeys": 112,
-        "unreviewed": 77,
+        "storedIdentifierKeys": 113,
+        "unreviewed": 78,
         "verifiedByCategory": {
-          "front": 16,
+          "front": 17,
           "movement": 1,
-          "caseback": 8,
-          "braceletClasp": 4
+          "caseback": 9,
+          "braceletClasp": 5
         }
       },
       "CARTIER": {
@@ -1687,6 +1687,7 @@
     {"id":"UPDATE:TAGHEUER|CAZ1013","brand":"TAGHEUER","key":"CAZ1013","scope":"reference rule","status":"unreviewed for photographs"},
     {"id":"UPDATE:TAGHEUER|CAZ101K","brand":"TAGHEUER","key":"CAZ101K","scope":"reference rule","status":"unreviewed for photographs"},
     {"id":"UPDATE:TUDOR|79280P","brand":"TUDOR","key":"79280P","scope":"reference rule","status":"reviewed for photographs"},
+    {"id":"UPDATE:BREITLING|AB0420","brand":"BREITLING","key":"AB0420","scope":"reference rule","status":"reviewed for photographs"},
     {"id":"CATALOGUE:M52506-0003","brand":"ROLEX","key":"m52506-0003","scope":"catalogue variant","status":"unreviewed for photographs"},
     {"id":"CATALOGUE:M52508-0002","brand":"ROLEX","key":"m52508-0002","scope":"catalogue variant","status":"unreviewed for photographs"},
     {"id":"CATALOGUE:M52508-0005","brand":"ROLEX","key":"m52508-0005","scope":"catalogue variant","status":"unreviewed for photographs"},
@@ -5064,6 +5065,7 @@
     {"brand":"BREITLING","reference":"AB0145211G1P1","aliases":["AB0145211G1P1"],"origins":["research updates"],"sources":["https://www.breitling.com/gb-en/watches/premier/premier-b01-chronograph-42-my23/AB0145211G1P1/"],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
     {"brand":"BREITLING","reference":"AB0147101A1X1","aliases":["AB0147101A1X1"],"origins":["research updates"],"sources":["https://www.breitling.com/gb-en/watches/avenger/avenger-b01-chronograph-44-my23/AB0147101A1X1/"],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
     {"brand":"BREITLING","reference":"AB01762C1I1X1","aliases":["AB01762C1I1X1"],"origins":["research updates"],"sources":["https://www.breitling.com/gb-en/watches/top-time/top-time-b01/AB01762C1I1X1/"],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
+    {"brand":"BREITLING","reference":"AB0420","aliases":["AB0420"],"origins":["research updates"],"sources":["https://www.watchesofswitzerland.com/products/breitling-chronomat-gmt-as11742"],"reviewStatus":"unreviewed","categories":{"front":{"status":"verified","photographIds":["breitling-ab0420-20261030-front"],"candidateIds":["breitling-ab0420-20261030-front"]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"verified","photographIds":["breitling-ab0420-20261030-caseback"],"candidateIds":["breitling-ab0420-20261030-caseback"]},"braceletClasp":{"status":"verified","photographIds":["breitling-ab0420-20261030-braceletClasp"],"candidateIds":["breitling-ab0420-20261030-braceletClasp"]}}},
     {"brand":"BREITLING","reference":"AB2020121L1A1","aliases":["AB2020121L1A1"],"origins":["research updates"],"sources":["https://www.breitling.com/gb-en/watches/superocean-heritage/superocean-heritage-b20-automatic-46/AB2020121L1A1/"],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
     {"brand":"BREITLING","reference":"AB2030121B1S1","aliases":["AB2030121B1S1"],"origins":["research updates"],"sources":["https://www.breitling.com/gb-en/watches/superocean-heritage/superocean-heritage-b20-automatic-44/AB2030121B1S1/"],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
     {"brand":"BREITLING","reference":"AB3112","aliases":["AB3112"],"origins":["research updates"],"sources":["https://www.breitling.com/rs-en/watches/superocean-heritage/superocean-heritage-b31-automatic-44-my25/AB3112241B1A1/"],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
