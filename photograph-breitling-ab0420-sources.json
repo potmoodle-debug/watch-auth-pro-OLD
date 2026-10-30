@@ -1,0 +1,140 @@
+{
+  "reviewedAt": "2026-10-30",
+  "brand": "BREITLING",
+  "reference": "AB0420",
+  "decision": "answered",
+  "conclusion": "Original Watches of Switzerland specimen AS11742 identifies AB0420 Chronomat GMT and explicitly attributes automatic Breitling B04. Actual front1, closed-back4 and clasp7 were inspected from its thirteen original gallery images. Black dial, light subdials, red arrow GMT hand, steel 24-hour bezel and steel bracelet are representative of this specimen only. No opened movement, readable fitted calibre stamp or inner-back photograph is present; B04 is original-dealer model attribution. The dealer describes the case as professionally refinished, so surface finish is not an untouched-factory reference. Exterior signatures and 200M back wording do not establish user-watch authenticity, originality or pressure resistance. No full dial/bracelet suffix, Patrouille Suisse edition, neighbouring AB0410/AB0441, generic B04 image or supplier equivalence is inferred. No full production interval or current warranty is established. Packaging image excluded. Replica-site scraped results are excluded from genuine technical and photograph evidence.",
+  "sources": [
+    {
+      "title": "Watches of Switzerland original AS11742 specimen",
+      "url": "https://www.watchesofswitzerland.com/products/breitling-chronomat-gmt-as11742"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "breitling-ab0420-20261030-front",
+      "category": "front",
+      "image": "https://cdn.shopify.com/s/files/1/0712/8570/2900/files/AS11742_40940266_BREITLING_CHRONOMATGMT_AB0420--1.jpg?v=1788456644",
+      "sha256": "1da83d43350f9ff0b997063dd8557689663a91c5b9606f8bb12c409ae7a3bb42"
+    },
+    {
+      "id": "breitling-ab0420-20261030-caseback",
+      "category": "caseback",
+      "image": "https://cdn.shopify.com/s/files/1/0712/8570/2900/files/AS11742_40940266_BREITLING_CHRONOMATGMT_AB0420--4.jpg?v=1788456644",
+      "sha256": "8f816a2ce2a50b99240768fea97b92fb289c80e0019eb267f2f828066e6be3db"
+    },
+    {
+      "id": "breitling-ab0420-20261030-braceletClasp",
+      "category": "braceletClasp",
+      "image": "https://cdn.shopify.com/s/files/1/0712/8570/2900/files/AS11742_40940266_BREITLING_CHRONOMATGMT_AB0420--13.jpg?v=1788456644",
+      "sha256": "139fdb102fbabb4024aeda25dff69b5480f322967398801cbfd203be057d31d6"
+    }
+  ],
+  "inspectedGallery": {
+    "source": "https://www.watchesofswitzerland.com/products/breitling-chronomat-gmt-as11742",
+    "at": "2026-10-30T09:32:40.561Z",
+    "images": [
+      {
+        "index": 1,
+        "url": "https://cdn.shopify.com/s/files/1/0712/8570/2900/files/AS11742_40940266_BREITLING_CHRONOMATGMT_AB0420--1.jpg?v=1788456644",
+        "file": "image-01.jpg",
+        "sha256": "1da83d43350f9ff0b997063dd8557689663a91c5b9606f8bb12c409ae7a3bb42",
+        "bytes": 326823
+      },
+      {
+        "index": 2,
+        "url": "https://cdn.shopify.com/s/files/1/0712/8570/2900/files/AS11742_40940266_BREITLING_CHRONOMATGMT_AB0420--2.jpg?v=1788456644",
+        "file": "image-02.jpg",
+        "sha256": "2dc23d8aa9b2d7d98d34dc7bcac17c9e134dc5b98379cf03a6303e402d7ca0e7",
+        "bytes": 160167
+      },
+      {
+        "index": 3,
+        "url": "https://cdn.shopify.com/s/files/1/0712/8570/2900/files/AS11742_40940266_BREITLING_CHRONOMATGMT_AB0420--3.jpg?v=1788456644",
+        "file": "image-03.jpg",
+        "sha256": "3fa414a6fffb9870e79dfde08036479f345440db24b8bf7b535105e8159386af",
+        "bytes": 128050
+      },
+      {
+        "index": 4,
+        "url": "https://cdn.shopify.com/s/files/1/0712/8570/2900/files/AS11742_40940266_BREITLING_CHRONOMATGMT_AB0420--4.jpg?v=1788456644",
+        "file": "image-04.jpg",
+        "sha256": "8f816a2ce2a50b99240768fea97b92fb289c80e0019eb267f2f828066e6be3db",
+        "bytes": 246185
+      },
+      {
+        "index": 5,
+        "url": "https://cdn.shopify.com/s/files/1/0712/8570/2900/files/AS11742_40940266_BREITLING_CHRONOMATGMT_AB0420--11.jpg?v=1788456644",
+        "file": "image-05.jpg",
+        "sha256": "0af18e9ce1f685e8319c9b1c215606f124406d7b051645bff0104ac604f62a28",
+        "bytes": 642066
+      },
+      {
+        "index": 6,
+        "url": "https://cdn.shopify.com/s/files/1/0712/8570/2900/files/AS11742_40940266_BREITLING_CHRONOMATGMT_AB0420--8.jpg?v=1788456644",
+        "file": "image-06.jpg",
+        "sha256": "0b79afeafd391925c24f8e35a046750ac3020c04d91ac78f51e158676b18835f",
+        "bytes": 651331
+      },
+      {
+        "index": 7,
+        "url": "https://cdn.shopify.com/s/files/1/0712/8570/2900/files/AS11742_40940266_BREITLING_CHRONOMATGMT_AB0420--13.jpg?v=1788456644",
+        "file": "image-07.jpg",
+        "sha256": "139fdb102fbabb4024aeda25dff69b5480f322967398801cbfd203be057d31d6",
+        "bytes": 449950
+      },
+      {
+        "index": 8,
+        "url": "https://cdn.shopify.com/s/files/1/0712/8570/2900/files/AS11742_40940266_BREITLING_CHRONOMATGMT_AB0420--9.jpg?v=1788456644",
+        "file": "image-08.jpg",
+        "sha256": "7bc71fe902e0a9ab45e3b29c5f89ae226c40a3dfd964b2c96771acb0e963159f",
+        "bytes": 621822
+      },
+      {
+        "index": 9,
+        "url": "https://cdn.shopify.com/s/files/1/0712/8570/2900/files/AS11742_40940266_BREITLING_CHRONOMATGMT_AB0420--12.jpg?v=1788456644",
+        "file": "image-09.jpg",
+        "sha256": "b2cf57c460edfa96dc2f2957ba6553ee0b1eaa9d5d057986b3bfcacf105badb0",
+        "bytes": 303928
+      },
+      {
+        "index": 10,
+        "url": "https://cdn.shopify.com/s/files/1/0712/8570/2900/files/AS11742_40940266_BREITLING_CHRONOMATGMT_AB0420--10.jpg?v=1788456644",
+        "file": "image-10.jpg",
+        "sha256": "8a42a71518a6be3d7c0c1423968f241b563e75310e8d210d2a68faa57b5ee95a",
+        "bytes": 556742
+      },
+      {
+        "index": 11,
+        "url": "https://cdn.shopify.com/s/files/1/0712/8570/2900/files/AS11742_40940266_BREITLING_CHRONOMATGMT_AB0420--7.jpg?v=1788456644",
+        "file": "image-11.jpg",
+        "sha256": "b2b78e0dafa5bb502548ca23cdb9865d350d5eea1c1b76bca97abecafbc5db5f",
+        "bytes": 439592
+      },
+      {
+        "index": 12,
+        "url": "https://cdn.shopify.com/s/files/1/0712/8570/2900/files/AS11742_40940266_BREITLING_CHRONOMATGMT_AB0420--6.jpg?v=1788456644",
+        "file": "image-12.jpg",
+        "sha256": "c77e09b804ee3edab0dcf5e7e0a483c2f2d33c1c01161a6d815f149347581adf",
+        "bytes": 651981
+      },
+      {
+        "index": 13,
+        "url": "https://cdn.shopify.com/s/files/1/0712/8570/2900/files/AS11742_40940266_BREITLING_CHRONOMATGMT_AB0420--5.jpg?v=1788456644",
+        "file": "image-13.jpg",
+        "sha256": "7233d52570331c6db94d498e853d1dcba59e6f62f54b62aa8e405c5da37943e7",
+        "bytes": 605562
+      }
+    ]
+  },
+  "unsupported": [
+    "movement",
+    "inner caseback",
+    "full execution suffix"
+  ],
+  "sourceLimits": [
+    "Hodinkee page now shows shop announcement, not usable model evidence",
+    "EBTH direct page HTTP403; search excerpt not used as accepted photograph evidence",
+    "Replica-site result excluded entirely"
+  ]
+}
