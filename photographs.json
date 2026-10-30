@@ -26941,7 +26941,7 @@
       "category": "front",
       "title": "PAM00609 — front",
       "caption": "Actual black Radiomir Black Seal dial with 8 DAYS, small seconds at 9 and fitted brown leather strap.",
-      "image": "https://www.christies.com/img/LotImages/2018/NYR/2018_NYR_16361_0030_000(panerai_radiomir_black_seal_8_days_ref_pam00609043152).jpg",
+      "image": "https://potmoodle-debug.github.io/watch-auth-pro-OLD/assets/photographs/panerai-pam00609-christies-front.jpg",
       "source": "https://onlineonly.christies.com/s/christies-watches-online-summer-watch-series-part-i/panerai-radiomir-black-seal-8-days-ref-pam00609-30/57825",
       "credit": "Christie's",
       "mediaKind": "photograph",
@@ -26959,10 +26959,18 @@
           3200
         ],
         "imageSha256": "82bbb57ca58fcddf9d2f61a7e8fb29a0d8e1a97451ac5aecb20114cfa342fb89",
-        "deliveryFinding": "Rechecked2026-10-20: both original image URLs still timed out after20 seconds in real Chrome with naturalWidth0. Prior source/pixel evidence remains; continue withholding until reliable browser delivery is established.",
+        "deliveryFinding": "Original Christies URL failed in real Chrome on the recorded check. An unmodified local copy now matches the archived original SHA-256; awaiting OLD Pages live byte and gallery-delivery verification.",
         "lastBrowserDeliveryCheck": "2026-10-20T14:30:07.024Z",
-        "browserDeliveryVerified": false
-      }
+        "browserDeliveryVerified": false,
+        "deliveryHistory": [
+          {
+            "checkedAt": "2026-10-20T14:30:07.024Z",
+            "result": "Rechecked2026-10-20: both original image URLs still timed out after20 seconds in real Chrome with naturalWidth0. Prior source/pixel evidence remains; continue withholding until reliable browser delivery is established.",
+            "url": "https://potmoodle-debug.github.io/watch-auth-pro-OLD/assets/photographs/panerai-pam00609-christies-front.jpg"
+          }
+        ]
+      },
+      "originalImage": "https://www.christies.com/img/LotImages/2018/NYR/2018_NYR_16361_0030_000(panerai_radiomir_black_seal_8_days_ref_pam00609043152).jpg"
     },
     {
       "id": "panerai-pass2-pam00609-movement",
@@ -26975,7 +26983,7 @@
       "category": "movement",
       "title": "PAM00609 — movement",
       "caption": "Actual manual P.5000 with EIGHT DAYS / TWENTY-ONE (21) JEWELS, movement 020836, brushed bridge layout and two-screw balance bridge.",
-      "image": "https://www.christies.com/img/LotImages/2018/NYR/2018_NYR_16361_0030_001(panerai_radiomir_black_seal_8_days_ref_pam00609043152).jpg",
+      "image": "https://potmoodle-debug.github.io/watch-auth-pro-OLD/assets/photographs/panerai-pam00609-christies-rear.jpg",
       "source": "https://onlineonly.christies.com/s/christies-watches-online-summer-watch-series-part-i/panerai-radiomir-black-seal-8-days-ref-pam00609-30/57825",
       "credit": "Christie's",
       "mediaKind": "photograph",
@@ -26994,10 +27002,18 @@
           2476
         ],
         "imageSha256": "ae4b9a38552cefb8abc4cd06fb4ec3ed20a2db83d34e159bd65798c4490905cd",
-        "deliveryFinding": "Rechecked2026-10-20: both original image URLs still timed out after20 seconds in real Chrome with naturalWidth0. Prior source/pixel evidence remains; continue withholding until reliable browser delivery is established.",
+        "deliveryFinding": "Original Christies URL failed in real Chrome on the recorded check. An unmodified local copy now matches the archived original SHA-256; awaiting OLD Pages live byte and gallery-delivery verification.",
         "lastBrowserDeliveryCheck": "2026-10-20T14:30:07.024Z",
-        "browserDeliveryVerified": false
-      }
+        "browserDeliveryVerified": false,
+        "deliveryHistory": [
+          {
+            "checkedAt": "2026-10-20T14:30:07.024Z",
+            "result": "Rechecked2026-10-20: both original image URLs still timed out after20 seconds in real Chrome with naturalWidth0. Prior source/pixel evidence remains; continue withholding until reliable browser delivery is established.",
+            "url": "https://potmoodle-debug.github.io/watch-auth-pro-OLD/assets/photographs/panerai-pam00609-christies-rear.jpg"
+          }
+        ]
+      },
+      "originalImage": "https://www.christies.com/img/LotImages/2018/NYR/2018_NYR_16361_0030_001(panerai_radiomir_black_seal_8_days_ref_pam00609043152).jpg"
     },
     {
       "id": "panerai-pass2-pam00609-caseback",
@@ -27010,7 +27026,7 @@
       "category": "caseback",
       "title": "PAM00609 — caseback",
       "caption": "Same actual closed sapphire-back frame shows cased P.5000 and 100 m steel back markings. Movement-visible view is suppressed for external-only lookups.",
-      "image": "https://www.christies.com/img/LotImages/2018/NYR/2018_NYR_16361_0030_001(panerai_radiomir_black_seal_8_days_ref_pam00609043152).jpg",
+      "image": "https://potmoodle-debug.github.io/watch-auth-pro-OLD/assets/photographs/panerai-pam00609-christies-rear.jpg",
       "source": "https://onlineonly.christies.com/s/christies-watches-online-summer-watch-series-part-i/panerai-radiomir-black-seal-8-days-ref-pam00609-30/57825",
       "credit": "Christie's",
       "mediaKind": "photograph",
@@ -27029,10 +27045,18 @@
           2476
         ],
         "imageSha256": "ae4b9a38552cefb8abc4cd06fb4ec3ed20a2db83d34e159bd65798c4490905cd",
-        "deliveryFinding": "Rechecked2026-10-20: both original image URLs still timed out after20 seconds in real Chrome with naturalWidth0. Prior source/pixel evidence remains; continue withholding until reliable browser delivery is established.",
+        "deliveryFinding": "Original Christies URL failed in real Chrome on the recorded check. An unmodified local copy now matches the archived original SHA-256; awaiting OLD Pages live byte and gallery-delivery verification.",
         "lastBrowserDeliveryCheck": "2026-10-20T14:30:07.024Z",
-        "browserDeliveryVerified": false
-      }
+        "browserDeliveryVerified": false,
+        "deliveryHistory": [
+          {
+            "checkedAt": "2026-10-20T14:30:07.024Z",
+            "result": "Rechecked2026-10-20: both original image URLs still timed out after20 seconds in real Chrome with naturalWidth0. Prior source/pixel evidence remains; continue withholding until reliable browser delivery is established.",
+            "url": "https://potmoodle-debug.github.io/watch-auth-pro-OLD/assets/photographs/panerai-pam00609-christies-rear.jpg"
+          }
+        ]
+      },
+      "originalImage": "https://www.christies.com/img/LotImages/2018/NYR/2018_NYR_16361_0030_001(panerai_radiomir_black_seal_8_days_ref_pam00609043152).jpg"
     },
     {
       "id": "panerai-pass2-pam01005-front",
@@ -35164,7 +35188,7 @@
       "depictsMovement": false,
       "title": "3578.51.00 — Closed Snoopy medallion back",
       "caption": "Original Christie's auction specimen, distinct from Bob's Watches example: blue Snoopy medallion and numbered2829/5441. No fitted movement is visible.",
-      "image": "https://www.christies.com/img/LotImages/2018/HGK/2018_HGK_16129_2438_001(omega_a_fine_and_rare_stainless_steel_limited_edition_chronograph_wris065258).jpg",
+      "image": "https://potmoodle-debug.github.io/watch-auth-pro-OLD/assets/photographs/omega-35785100-christies-caseback.jpg",
       "source": "https://www.christies.com/en/lot/lot-6177371",
       "credit": "Christie's — original lot6177371 photography",
       "mediaKind": "photograph",
@@ -35184,8 +35208,16 @@
         "imageSha256": "9395221da835d02632933aa51b27b0e46154a5ff74555a5bb68b4242be358d0b",
         "browserDeliveryVerified": false,
         "lastBrowserDeliveryCheck": "2026-10-21T14:25:54.138Z",
-        "deliveryFinding": "Actual downloaded pixels inspected, but Chrome timed out20s with naturalWidth0 for both unparameterized and source-supplied mode=max URLs. Withheld until reliable browser delivery or an original-source alternative is verified."
-      }
+        "deliveryFinding": "Original Christies URL failed in real Chrome on the recorded check. An unmodified local copy now matches the archived original SHA-256; awaiting OLD Pages live byte and gallery-delivery verification.",
+        "deliveryHistory": [
+          {
+            "checkedAt": "2026-10-21T14:25:54.138Z",
+            "result": "Actual downloaded pixels inspected, but Chrome timed out20s with naturalWidth0 for both unparameterized and source-supplied mode=max URLs. Withheld until reliable browser delivery or an original-source alternative is verified.",
+            "url": "https://potmoodle-debug.github.io/watch-auth-pro-OLD/assets/photographs/omega-35785100-christies-caseback.jpg"
+          }
+        ]
+      },
+      "originalImage": "https://www.christies.com/img/LotImages/2018/HGK/2018_HGK_16129_2438_001(omega_a_fine_and_rare_stainless_steel_limited_edition_chronograph_wris065258).jpg"
     },
     {
       "id": "omega-next-snoopy-20261021-braceletClasp",
