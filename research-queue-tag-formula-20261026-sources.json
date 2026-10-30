@@ -1,0 +1,155 @@
+{
+  "reviewedAt": "2026-10-26",
+  "records": [
+    {
+      "brand": "TAGHEUER",
+      "reference": "CAZ1019",
+      "decision": "answered",
+      "conclusion": "TAG Heuer original history identifies CAZ1019.FT8027 as the 2017 Senna quartz chronograph. Original SWWatches specimen 2579H explicitly attributes Ronda 5040.D, 13 jewels; this supports model guidance but is not a readable fitted-movement marking. Actual front, buckle and closed-back photographs 1, 5 and 8 were inspected. The back visibly reads CAZ1019 and Senna Edition; its serial has a source-applied redaction. Black/red dial, black-coated case and red/black rubber strap are representative of FT8027. No opened movement or inner-back image is present. Dealer April 2019 is its specimen date, not a production interval. Bare-reference guidance is limited to the separately documented full execution. No other suffix, neighbouring CAZ/WAZ reference, supplier variant, component interchangeability, individual-watch authenticity or current warranty is inferred. Manufacturer water ratings are nominal, not pressure tests. Full production intervals are not established. Unsupported photographs remain empty.",
+      "sources": [
+        {
+          "title": "Original SWWatches specimen 2579H",
+          "url": "https://www.swwatches.uk/products/tag-heuer-formula-1-caz1019-senna-black-chronograph-2579h"
+        },
+        {
+          "title": "TAG Heuer original Senna history",
+          "url": "https://magazine.tagheuer.com/fr/2022/05/02/le-guide-ultime-du-collectionneur-tag-heuer-senna-editions-speciales/"
+        }
+      ],
+      "unsupported": [
+        "movement",
+        "inner caseback"
+      ]
+    },
+    {
+      "brand": "TAGHEUER",
+      "reference": "CAZ1013",
+      "decision": "answered",
+      "conclusion": "Original TAG Heuer page identifies CAZ1013.BA0883 as a 43 mm steel Formula 1 with black dial, steel bracelet and quartz chronograph/date. Manufacturer calibre wording is Quartz Chrono, without a numbered supplier execution. Original TAG Heuer history places this full reference among the 2015 Senna editions. No numbered Ronda calibre is promoted from neighbouring references or third-party catalogues. No actual specimen photographs were inspected for this reference in this pass. Bare-reference guidance is limited to the separately documented full execution. No other suffix, neighbouring CAZ/WAZ reference, supplier variant, component interchangeability, individual-watch authenticity or current warranty is inferred. Manufacturer water ratings are nominal, not pressure tests. Full production intervals are not established. Unsupported photographs remain empty.",
+      "sources": [
+        {
+          "title": "TAG Heuer exact-reference specifications",
+          "url": "https://www.tagheuer.com/nl/en/timepieces/collections/tag-heuer-formula-1/43-mm-quartz-chrono/CAZ1013.BA0883.html"
+        },
+        {
+          "title": "TAG Heuer original Senna history",
+          "url": "https://magazine.tagheuer.com/fr/2022/05/02/le-guide-ultime-du-collectionneur-tag-heuer-senna-editions-speciales/"
+        }
+      ],
+      "unsupported": [
+        "front",
+        "movement",
+        "caseback",
+        "braceletClasp"
+      ]
+    },
+    {
+      "brand": "TAGHEUER",
+      "reference": "CAZ101K",
+      "decision": "needs_evidence",
+      "conclusion": "Original TAG Heuer page documents CAZ101K.BA0842: 43 mm steel, blue dial, steel bracelet and quartz chronograph/date; manufacturer calibre wording is Quartz Chronograph. The saved inspection records 5040.D, but the manufacturer page does not establish that numbered supplier execution. Do not equate another Formula 1 model or catalogue claim with this fitted execution. Keep the movement question active pending exact technical or readable fitted-movement evidence. No actual specimen photographs were inspected for this reference in this pass. Bare-reference guidance is limited to the separately documented full execution. No other suffix, neighbouring CAZ/WAZ reference, supplier variant, component interchangeability, individual-watch authenticity or current warranty is inferred. Manufacturer water ratings are nominal, not pressure tests. Full production intervals are not established. Unsupported photographs remain empty.",
+      "sources": [
+        {
+          "title": "TAG Heuer exact-reference specifications",
+          "url": "https://www.tagheuer.com/gb/en/timepieces/collections/tag-heuer-formula-1/43-mm-quartz-chronograph/CAZ101K.BA0842.html"
+        }
+      ],
+      "unsupported": [
+        "front",
+        "movement",
+        "caseback",
+        "braceletClasp"
+      ]
+    }
+  ],
+  "accepted": [
+    {
+      "id": "tag-caz1019-20261026-front",
+      "category": "front",
+      "image": "https://cdn.shopify.com/s/files/1/0983/5718/2804/files/dial_1238.jpg?v=1759863548",
+      "sha256": "1608fb1c728158cb9845839f8cb22beb754114ba94538d1b8d15e45441d2647d"
+    },
+    {
+      "id": "tag-caz1019-20261026-caseback",
+      "category": "caseback",
+      "image": "https://cdn.shopify.com/s/files/1/0983/5718/2804/files/rear_1218.jpg?v=1759863547",
+      "sha256": "a6b170891471e09afa8afa796361a97136eaeed5506c4e58a6838130c0b32d3e"
+    },
+    {
+      "id": "tag-caz1019-20261026-braceletClasp",
+      "category": "braceletClasp",
+      "image": "https://cdn.shopify.com/s/files/1/0983/5718/2804/files/clasp_1222.jpg?v=1759863548",
+      "sha256": "c4e2c1fc11df1c64af8d645bc6199796a969396ff64720c75537e008135f968a"
+    }
+  ],
+  "inspectedGallery": {
+    "source": "https://www.swwatches.uk/products/tag-heuer-formula-1-caz1019-senna-black-chronograph-2579h",
+    "at": "2026-10-26T10:35:34.460Z",
+    "images": [
+      {
+        "index": 1,
+        "url": "https://cdn.shopify.com/s/files/1/0983/5718/2804/files/dial_1238.jpg?v=1759863548",
+        "file": "image-01.jpg",
+        "sha256": "1608fb1c728158cb9845839f8cb22beb754114ba94538d1b8d15e45441d2647d",
+        "bytes": 173701
+      },
+      {
+        "index": 2,
+        "url": "https://cdn.shopify.com/s/files/1/0983/5718/2804/files/dial2_1225.jpg?v=1759863548",
+        "file": "image-02.jpg",
+        "sha256": "e0051034c33a653ed9fba5594eff0be3932f938f2d12e3fe9890a9ee4a03fd88",
+        "bytes": 301843
+      },
+      {
+        "index": 3,
+        "url": "https://cdn.shopify.com/s/files/1/0983/5718/2804/files/front_1219.jpg?v=1759863548",
+        "file": "image-03.jpg",
+        "sha256": "78e6c323f68d624cb753fa11861c21bc76207dc737672d5037faefdcf63d5981",
+        "bytes": 204741
+      },
+      {
+        "index": 4,
+        "url": "https://cdn.shopify.com/s/files/1/0983/5718/2804/files/front2_616.jpg?v=1759863548",
+        "file": "image-04.jpg",
+        "sha256": "b52bdbac61d714cfe8fc1a972631e840bf50c34285afb405c50f0a5a4adc3762",
+        "bytes": 19477
+      },
+      {
+        "index": 5,
+        "url": "https://cdn.shopify.com/s/files/1/0983/5718/2804/files/clasp_1222.jpg?v=1759863548",
+        "file": "image-05.jpg",
+        "sha256": "c4e2c1fc11df1c64af8d645bc6199796a969396ff64720c75537e008135f968a",
+        "bytes": 113620
+      },
+      {
+        "index": 6,
+        "url": "https://cdn.shopify.com/s/files/1/0983/5718/2804/files/side_1218.jpg?v=1759863548",
+        "file": "image-06.jpg",
+        "sha256": "76d903742253001654bb4dc30f17222e08c6c1f4e1d3a819b5ec9084b62c0daa",
+        "bytes": 98914
+      },
+      {
+        "index": 7,
+        "url": "https://cdn.shopify.com/s/files/1/0983/5718/2804/files/side2_1218.jpg?v=1759863548",
+        "file": "image-07.jpg",
+        "sha256": "ae90e77e4b6681066b31e0470fba1766451264c759d009d5a23bdd1b73fdd314",
+        "bytes": 94191
+      },
+      {
+        "index": 8,
+        "url": "https://cdn.shopify.com/s/files/1/0983/5718/2804/files/rear_1218.jpg?v=1759863547",
+        "file": "image-08.jpg",
+        "sha256": "a6b170891471e09afa8afa796361a97136eaeed5506c4e58a6838130c0b32d3e",
+        "bytes": 136310
+      },
+      {
+        "index": 9,
+        "url": "https://cdn.shopify.com/s/files/1/0983/5718/2804/files/extras_508.jpg?v=1759863548",
+        "file": "image-09.jpg",
+        "sha256": "a3b8d51aaffacc9f0655049785eae5d83e9f6f16c3bebf336f187d452ff69922",
+        "bytes": 128188
+      }
+    ]
+  },
+  "excluded": "Packaging, size-guide collage and lume-only gallery images excluded. No generic quartz chronograph image or neighbouring reference was inherited."
+}

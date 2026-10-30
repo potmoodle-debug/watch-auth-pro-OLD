@@ -4,30 +4,30 @@
   "counting": "Stored identifier keys deduplicate punctuation/case only; documented M-prefixed aliases and base/catalogue identifiers remain separate lookup keys. Patterns are source records, never claimed as enumerated exact references. Textual model research is not photograph verification. verifiedAssets counts category/gallery entries; verifiedImageUrls counts distinct stored URLs; verifiedImageFiles deduplicates inspected file hashes (falling back to URL when unavailable).",
   "counts": {
     "repositoryRuleRecords": 937,
-    "repositoryResearchUpdates": 233,
-    "sourceRuleRecords": 1170,
+    "repositoryResearchUpdates": 236,
+    "sourceRuleRecords": 1173,
     "sharedReferenceFactRows": 982,
     "sharedVerifiedTextRows": 47,
     "importedCatalogueVariantRecords": 1465,
-    "sourceInventoryRecords": 2635,
-    "storedIdentifierKeys": 2431,
-    "sourceRecordsUnreviewed": 2191,
-    "identifierKeysUnreviewed": 2022,
+    "sourceInventoryRecords": 2638,
+    "storedIdentifierKeys": 2437,
+    "sourceRecordsUnreviewed": 2193,
+    "identifierKeysUnreviewed": 2028,
     "identifierKeysReviewed": 409,
-    "sourceRecordsReviewed": 444,
+    "sourceRecordsReviewed": 445,
     "reviewedIdentifierCategoryPairs": 1636,
-    "catalogueAssets": 1148,
+    "catalogueAssets": 1151,
     "legacyAssets": 31,
-    "verifiedAssets": 1112,
-    "verifiedImageUrls": 1049,
-    "verifiedImageFiles": 1048,
+    "verifiedAssets": 1115,
+    "verifiedImageUrls": 1052,
+    "verifiedImageFiles": 1051,
     "pendingAssets": 26,
     "rejectedAssets": 10,
     "verifiedIdentifierKeysByCategory": {
-      "front": 346,
+      "front": 348,
       "movement": 138,
-      "caseback": 301,
-      "braceletClasp": 297
+      "caseback": 303,
+      "braceletClasp": 299
     },
     "byBrand": {
       "TUDOR": {
@@ -451,13 +451,13 @@
         }
       },
       "TAGHEUER": {
-        "storedIdentifierKeys": 72,
-        "unreviewed": 66,
+        "storedIdentifierKeys": 78,
+        "unreviewed": 72,
         "verifiedByCategory": {
-          "front": 5,
+          "front": 7,
           "movement": 0,
-          "caseback": 5,
-          "braceletClasp": 5
+          "caseback": 7,
+          "braceletClasp": 7
         }
       },
       "UBOAT": {
@@ -1683,6 +1683,9 @@
     {"id":"UPDATE:ROLEX|126618LN","brand":"ROLEX","key":"126618LN","scope":"reference rule","status":"reviewed for photographs"},
     {"id":"UPDATE:ROLEX|126715CHNR","brand":"ROLEX","key":"126715CHNR","scope":"reference rule","status":"reviewed for photographs"},
     {"id":"UPDATE:ROLEX|126718GRNR","brand":"ROLEX","key":"126718GRNR","scope":"reference rule","status":"reviewed for photographs"},
+    {"id":"UPDATE:TAGHEUER|CAZ1019","brand":"TAGHEUER","key":"CAZ1019","scope":"reference rule","status":"reviewed for photographs"},
+    {"id":"UPDATE:TAGHEUER|CAZ1013","brand":"TAGHEUER","key":"CAZ1013","scope":"reference rule","status":"unreviewed for photographs"},
+    {"id":"UPDATE:TAGHEUER|CAZ101K","brand":"TAGHEUER","key":"CAZ101K","scope":"reference rule","status":"unreviewed for photographs"},
     {"id":"CATALOGUE:M52506-0003","brand":"ROLEX","key":"m52506-0003","scope":"catalogue variant","status":"unreviewed for photographs"},
     {"id":"CATALOGUE:M52508-0002","brand":"ROLEX","key":"m52508-0002","scope":"catalogue variant","status":"unreviewed for photographs"},
     {"id":"CATALOGUE:M52508-0005","brand":"ROLEX","key":"m52508-0005","scope":"catalogue variant","status":"unreviewed for photographs"},
@@ -5549,7 +5552,13 @@
     {"brand":"TAG Heuer","reference":"WV211B-3","aliases":["WV211B-3"],"origins":["rules"],"sources":[],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
     {"brand":"TAG Heuer","reference":"WW2110-0","aliases":["WW2110-0"],"origins":["rules"],"sources":[],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
     {"brand":"TAGHEUER","reference":"CAR2A91BH0742","aliases":["CAR2A91BH0742"],"origins":["research updates"],"sources":["https://www.tagheuer.com/us/en/timepieces/collections/tag-heuer-carrera/45-mm-calibre-heuer01-automatic/CAR2A91.BH0742.html"],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
+    {"brand":"TAGHEUER","reference":"CAZ1013","aliases":["CAZ1013"],"origins":["research updates"],"sources":["https://www.tagheuer.com/nl/en/timepieces/collections/tag-heuer-formula-1/43-mm-quartz-chrono/CAZ1013.BA0883.html"],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
+    {"brand":"TAGHEUER","reference":"CAZ1013.BA0883","aliases":["CAZ1013.BA0883"],"origins":["research updates"],"sources":["https://www.tagheuer.com/nl/en/timepieces/collections/tag-heuer-formula-1/43-mm-quartz-chrono/CAZ1013.BA0883.html"],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
     {"brand":"TAGHEUER","reference":"CAZ1015","aliases":["CAZ1015"],"origins":["research updates"],"sources":["https://www.uhrenlounge.de/detail/tag-heuer-formula-1-chronograph-43mm-senna-special-edition-caz1015-ba0883-11356"],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
+    {"brand":"TAGHEUER","reference":"CAZ1019","aliases":["CAZ1019"],"origins":["research updates"],"sources":["https://www.swwatches.uk/products/tag-heuer-formula-1-caz1019-senna-black-chronograph-2579h"],"reviewStatus":"unreviewed","categories":{"front":{"status":"verified","photographIds":["tag-caz1019-20261026-front"],"candidateIds":["tag-caz1019-20261026-front"]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"verified","photographIds":["tag-caz1019-20261026-caseback"],"candidateIds":["tag-caz1019-20261026-caseback"]},"braceletClasp":{"status":"verified","photographIds":["tag-caz1019-20261026-braceletClasp"],"candidateIds":["tag-caz1019-20261026-braceletClasp"]}}},
+    {"brand":"TAGHEUER","reference":"CAZ1019.FT8027","aliases":["CAZ1019.FT8027"],"origins":["research updates"],"sources":["https://www.swwatches.uk/products/tag-heuer-formula-1-caz1019-senna-black-chronograph-2579h"],"reviewStatus":"unreviewed","categories":{"front":{"status":"verified","photographIds":["tag-caz1019-20261026-front"],"candidateIds":["tag-caz1019-20261026-front"]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"verified","photographIds":["tag-caz1019-20261026-caseback"],"candidateIds":["tag-caz1019-20261026-caseback"]},"braceletClasp":{"status":"verified","photographIds":["tag-caz1019-20261026-braceletClasp"],"candidateIds":["tag-caz1019-20261026-braceletClasp"]}}},
+    {"brand":"TAGHEUER","reference":"CAZ101K","aliases":["CAZ101K"],"origins":["research updates"],"sources":["https://www.tagheuer.com/gb/en/timepieces/collections/tag-heuer-formula-1/43-mm-quartz-chronograph/CAZ101K.BA0842.html"],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
+    {"brand":"TAGHEUER","reference":"CAZ101K.BA0842","aliases":["CAZ101K.BA0842"],"origins":["research updates"],"sources":["https://www.tagheuer.com/gb/en/timepieces/collections/tag-heuer-formula-1/43-mm-quartz-chronograph/CAZ101K.BA0842.html"],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
     {"brand":"TAGHEUER","reference":"CAZ101N","aliases":["CAZ101N"],"origins":["research updates"],"sources":["https://www.bidsquare.com/online-auctions/morton-subastas/tag-heuer-formula-1-chronograph-watch-in-steel-ref-caz101n-movement-quartz-2230601"],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
     {"brand":"TAGHEUER","reference":"CBG2011","aliases":["CBG2011"],"origins":["research updates"],"sources":["https://www.tagheuer.com/ca/en/timepieces/collections/tag-heuer-carrera/43-mm-calibre-heuer02-automatic/CBG2011.BA0662.html"],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},
     {"brand":"TAGHEUER","reference":"CV2A1V","aliases":["CV2A1V"],"origins":["research updates"],"sources":["https://www.tagheuer.com/ca/en/timepieces/collections/tag-heuer-carrera/43-mm-calibre-16-automatic/CV2A1V.BA0738.html"],"reviewStatus":"unreviewed","categories":{"front":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"movement":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"caseback":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]},"braceletClasp":{"status":"unresolved — no verified source","photographIds":[],"candidateIds":[]}}},

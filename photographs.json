@@ -38558,6 +38558,111 @@
           "height": 954
         }
       }
+    },
+    {
+      "id": "tag-caz1019-20261026-front",
+      "brand": "TAGHEUER",
+      "references": [
+        "CAZ1019",
+        "CAZ1019.FT8027"
+      ],
+      "representativeFor": [
+        "CAZ1019"
+      ],
+      "variant": "SWWatches 2579H — black/red Senna dial, black-coated case and FT8027 rubber strap",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "CAZ1019 — front specimen",
+      "caption": "Actual SWWatches specimen. FT8027 black/red rubber-strap execution; closed back with source-redacted serial. No movement is shown. Exterior marks do not authenticate a watch or establish water resistance.",
+      "image": "https://cdn.shopify.com/s/files/1/0983/5718/2804/files/dial_1238.jpg?v=1759863548",
+      "source": "https://www.swwatches.uk/products/tag-heuer-formula-1-caz1019-senna-black-chronograph-2579h",
+      "credit": "SWWatches — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original page and actual pixels inspected 26 October 2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-26T10:35:34.460Z",
+        "loadedAt": "2026-10-26T10:35:34.460Z",
+        "evidence": "TAG Heuer original history identifies CAZ1019.FT8027 as the 2017 Senna quartz chronograph. Original SWWatches specimen 2579H explicitly attributes Ronda 5040.D, 13 jewels; this supports model guidance but is not a readable fitted-movement marking. Actual front, buckle and closed-back photographs 1, 5 and 8 were inspected. The back visibly reads CAZ1019 and Senna Edition; its serial has a source-applied redaction. Black/red dial, black-coated case and red/black rubber strap are representative of FT8027. No opened movement or inner-back image is present. Dealer April 2019 is its specimen date, not a production interval. Bare-reference guidance is limited to the separately documented full execution. No other suffix, neighbouring CAZ/WAZ reference, supplier variant, component interchangeability, individual-watch authenticity or current warranty is inferred. Manufacturer water ratings are nominal, not pressure tests. Full production intervals are not established. Unsupported photographs remain empty.",
+        "imageSha256": "1608fb1c728158cb9845839f8cb22beb754114ba94538d1b8d15e45441d2647d",
+        "imageDimensions": {
+          "width": 2000,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "id": "tag-caz1019-20261026-caseback",
+      "brand": "TAGHEUER",
+      "references": [
+        "CAZ1019",
+        "CAZ1019.FT8027"
+      ],
+      "representativeFor": [
+        "CAZ1019"
+      ],
+      "variant": "SWWatches 2579H — black/red Senna dial, black-coated case and FT8027 rubber strap",
+      "category": "caseback",
+      "depictsMovement": false,
+      "title": "CAZ1019 — caseback specimen",
+      "caption": "Actual SWWatches specimen. FT8027 black/red rubber-strap execution; closed back with source-redacted serial. No movement is shown. Exterior marks do not authenticate a watch or establish water resistance.",
+      "image": "https://cdn.shopify.com/s/files/1/0983/5718/2804/files/rear_1218.jpg?v=1759863547",
+      "source": "https://www.swwatches.uk/products/tag-heuer-formula-1-caz1019-senna-black-chronograph-2579h",
+      "credit": "SWWatches — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original page and actual pixels inspected 26 October 2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-26T10:35:34.460Z",
+        "loadedAt": "2026-10-26T10:35:34.460Z",
+        "evidence": "TAG Heuer original history identifies CAZ1019.FT8027 as the 2017 Senna quartz chronograph. Original SWWatches specimen 2579H explicitly attributes Ronda 5040.D, 13 jewels; this supports model guidance but is not a readable fitted-movement marking. Actual front, buckle and closed-back photographs 1, 5 and 8 were inspected. The back visibly reads CAZ1019 and Senna Edition; its serial has a source-applied redaction. Black/red dial, black-coated case and red/black rubber strap are representative of FT8027. No opened movement or inner-back image is present. Dealer April 2019 is its specimen date, not a production interval. Bare-reference guidance is limited to the separately documented full execution. No other suffix, neighbouring CAZ/WAZ reference, supplier variant, component interchangeability, individual-watch authenticity or current warranty is inferred. Manufacturer water ratings are nominal, not pressure tests. Full production intervals are not established. Unsupported photographs remain empty.",
+        "imageSha256": "a6b170891471e09afa8afa796361a97136eaeed5506c4e58a6838130c0b32d3e",
+        "imageDimensions": {
+          "width": 2000,
+          "height": 1500
+        }
+      }
+    },
+    {
+      "id": "tag-caz1019-20261026-braceletClasp",
+      "brand": "TAGHEUER",
+      "references": [
+        "CAZ1019",
+        "CAZ1019.FT8027"
+      ],
+      "representativeFor": [
+        "CAZ1019"
+      ],
+      "variant": "SWWatches 2579H — black/red Senna dial, black-coated case and FT8027 rubber strap",
+      "category": "braceletClasp",
+      "depictsMovement": false,
+      "title": "CAZ1019 — braceletClasp specimen",
+      "caption": "Actual SWWatches specimen. FT8027 black/red rubber-strap execution; closed back with source-redacted serial. No movement is shown. Exterior marks do not authenticate a watch or establish water resistance.",
+      "image": "https://cdn.shopify.com/s/files/1/0983/5718/2804/files/clasp_1222.jpg?v=1759863548",
+      "source": "https://www.swwatches.uk/products/tag-heuer-formula-1-caz1019-senna-black-chronograph-2579h",
+      "credit": "SWWatches — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original page and actual pixels inspected 26 October 2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-10-26T10:35:34.460Z",
+        "loadedAt": "2026-10-26T10:35:34.460Z",
+        "evidence": "TAG Heuer original history identifies CAZ1019.FT8027 as the 2017 Senna quartz chronograph. Original SWWatches specimen 2579H explicitly attributes Ronda 5040.D, 13 jewels; this supports model guidance but is not a readable fitted-movement marking. Actual front, buckle and closed-back photographs 1, 5 and 8 were inspected. The back visibly reads CAZ1019 and Senna Edition; its serial has a source-applied redaction. Black/red dial, black-coated case and red/black rubber strap are representative of FT8027. No opened movement or inner-back image is present. Dealer April 2019 is its specimen date, not a production interval. Bare-reference guidance is limited to the separately documented full execution. No other suffix, neighbouring CAZ/WAZ reference, supplier variant, component interchangeability, individual-watch authenticity or current warranty is inferred. Manufacturer water ratings are nominal, not pressure tests. Full production intervals are not established. Unsupported photographs remain empty.",
+        "imageSha256": "c4e2c1fc11df1c64af8d645bc6199796a969396ff64720c75537e008135f968a",
+        "imageDimensions": {
+          "width": 2000,
+          "height": 1500
+        }
+      }
     }
   ]
 }
