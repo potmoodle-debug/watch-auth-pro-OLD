@@ -14499,6 +14499,16 @@
       "id": "RULE:0394",
       "reviewedAt": "2026-11-09T10:23:22.699Z",
       "evidence": "Closed pattern ^79220([NBR])$ enumerates B, N and R only. Reconciled all three against the previously inspected, separately labelled Fratello and Bukowskis specimens. Movement remains unsupported for this set. The N and R specimens have photographed casebacks and bracelets, and B has photographed caseback and strap hardware. No transfer to 79230 or unlisted suffixes. Evidence: fratello-tudor-fourth-79220b-front-3, fratello-tudor-fourth-79220b-front-6, fratello-tudor-fourth-79220b-caseback-7, fratello-tudor-fourth-79220b-braceletClasp-8, fratello-tudor-fourth-79220r-front-4, fratello-tudor-fifth-79220n-front-5, bukowskis-643-31-front, bukowskis-643-31-caseback, bukowskis-643-31-braceletClasp, bukowskis-643-32-front, bukowskis-643-32-caseback, bukowskis-643-32-braceletClasp"
+    },
+    {
+      "id": "RULE:0395",
+      "reviewedAt": "2026-11-09T10:28:40.946Z",
+      "evidence": "Exact base pattern ^M?79230$ has no configured photograph. The inspected SwissWatchExpo 49604 caseback visibly carries 79230, but its original listing and blue bezel identify the specimen as 79230B. The base case stamp alone cannot determine bezel, bracelet, or variant. No bare-base photo mapping is inferred. https://www.swisswatchexpo.com/watches/tudor-heritage-black-bay-blue-bezel-steel-watch-79230b-box-card-49604/"
+    },
+    {
+      "id": "RULE:0396",
+      "reviewedAt": "2026-11-09T10:28:40.946Z",
+      "evidence": "Enumerated B, N and R from ^M?79230([NBR])$. SwissWatchExpo 49604 supports B front, closed back and clasp. Monochrome 2016 supports N front and strap hardware. Bukowskis 659 lot 1106 supports R front, closed back and clasp for the State of Qatar specimen only. These are distinct executions. No verified movement photograph in this set. N caseback remains a gap. Optional leading M in the imported lookup rule does not authorize expanding the gallery keys. Evidence: tudor-79230b-swe49604-front, monochrome-2016-79230n-front-5, bukowskis-659-1106-front."
     }
   ]
 }
