@@ -11934,6 +11934,32 @@
           "finding": "Original inspected source does not provide an accepted image of this category; remains a researched gap."
         }
       }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "79280P",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-10-30",
+          "evidence": "Zeitauktion lot 2503540 original gallery: 16 actual 2400×1600 images inspected. See TUDOR_79280P_RESEARCH_20261030.md and the release journal. tudor-79280p-20261030-front",
+          "finding": "Verified representative black Arabic dial specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-10-30",
+          "evidence": "Zeitauktion lot 2503540 original gallery: 16 actual 2400×1600 images inspected. See TUDOR_79280P_RESEARCH_20261030.md and the release journal. tudor-79280p-20261030-movement",
+          "finding": "Verified representative black Arabic dial specimen"
+        },
+        "caseback": {
+          "reviewedAt": "2026-10-30",
+          "evidence": "Zeitauktion lot 2503540 original gallery: 16 actual 2400×1600 images inspected. See TUDOR_79280P_RESEARCH_20261030.md and the release journal. tudor-79280p-20261030-caseback",
+          "finding": "Verified representative black Arabic dial specimen"
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-10-30",
+          "evidence": "Zeitauktion lot 2503540 original gallery: 16 actual 2400×1600 images inspected. See TUDOR_79280P_RESEARCH_20261030.md and the release journal. Fitted replacement dealer leather strap is not evidence for an original Tudor bracelet or clasp.",
+          "finding": "Original bracelet/clasp gap remains open"
+        }
+      }
     }
   ],
   "sourceRecordReviews": [
