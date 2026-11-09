@@ -40111,6 +40111,40 @@
         },
         "imageSha256": "462ab037fb7f4fc3e5f7c1436e0ccd758857e2ad138e798b49cb52edc404d3a6"
       }
+    },
+    {
+      "id": "tudor-79673-lunns-0890760051-front",
+      "brand": "TUDOR",
+      "references": [
+        "79673",
+        "M79673-0005"
+      ],
+      "representativeFor": [
+        "79673"
+      ],
+      "variant": "Lunn’s 0890760051, exact M79673-0005 black diamond dial and bezel",
+      "category": "front",
+      "title": "Black Bay One 39 S&G M79673-0005 — front",
+      "caption": "Actual black diamond dial and diamond bezel specimen on fitted two-tone bracelet. Representative for base 79673.",
+      "image": "https://lunns.com/cdn/shop/files/0890760051.png?v=1789556131",
+      "source": "https://lunns.com/collections/pre-owned-tudor/products/pre-owned-tudor-black-bay-m79673-0005",
+      "credit": "Lunn’s Jewellers",
+      "mediaKind": "photograph",
+      "origin": "Original Lunn’s pre-owned listing",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-09T10:06:58.319Z",
+        "loadedAt": "2026-11-09T10:06:58.319Z",
+        "evidence": "Lunn’s SKU 0890760051 explicitly identifies M79673-0005 and states the image depicts the actual watch. Its full-size front photo shows a black dial with gem-set round markers, snowflake hand, gem-set bezel and fitted two-tone bracelet. Tudor’s exact -0005 page specifies 39 mm steel, a diamond-set solid yellow gold bezel, automatic MT5602 and T-fit clasp. The dealer’s 2024 date is year of purchase. No exposed movement, rear case or clasp appears in the inspected frame. No calibre marking, component originality, assay, or other suffix fit is inferred.",
+        "imageDimensions": {
+          "width": 1000,
+          "height": 1000
+        },
+        "imageSha256": "ed1e949bccf426d4c9b709c32fd8224035593a31363faf604ea3b163ab60410a"
+      }
     }
   ]
 }
