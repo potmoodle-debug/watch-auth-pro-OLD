@@ -11960,6 +11960,32 @@
           "finding": "Original bracelet/clasp gap remains open"
         }
       }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "42000C",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-11-09T09:47:22.092Z",
+          "evidence": "Original Sotheby’s 2024 lot 394 identifies exact 42000C, circa 2013, 42 mm ceramic case, screw-down back, rubber strap, steel folding clasp and automatic 7753. The sole original image was retrieved and visually inspected. It shows a black dial with red markers, red minute track surround, three registers, date near 4:30, black tachymeter bezel and black strap. Calibre, material and period are auction attributions. Movement execution, back, clasp and physical reference marking are not visible. No suffix equivalence with 42000CN or 42000CR.",
+          "finding": "Verified representative auction specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-11-09T09:47:22.092Z",
+          "evidence": "Original Sotheby’s 2024 lot 394 identifies exact 42000C, circa 2013, 42 mm ceramic case, screw-down back, rubber strap, steel folding clasp and automatic 7753. The sole original image was retrieved and visually inspected. It shows a black dial with red markers, red minute track surround, three registers, date near 4:30, black tachymeter bezel and black strap. Calibre, material and period are auction attributions. Movement execution, back, clasp and physical reference marking are not visible. No suffix equivalence with 42000CN or 42000CR.",
+          "finding": "Gap in inspected lot gallery. Other exact-reference sources remain open."
+        },
+        "caseback": {
+          "reviewedAt": "2026-11-09T09:47:22.092Z",
+          "evidence": "Original Sotheby’s 2024 lot 394 identifies exact 42000C, circa 2013, 42 mm ceramic case, screw-down back, rubber strap, steel folding clasp and automatic 7753. The sole original image was retrieved and visually inspected. It shows a black dial with red markers, red minute track surround, three registers, date near 4:30, black tachymeter bezel and black strap. Calibre, material and period are auction attributions. Movement execution, back, clasp and physical reference marking are not visible. No suffix equivalence with 42000CN or 42000CR.",
+          "finding": "Gap in inspected lot gallery. Other exact-reference sources remain open."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-11-09T09:47:22.092Z",
+          "evidence": "Original Sotheby’s 2024 lot 394 identifies exact 42000C, circa 2013, 42 mm ceramic case, screw-down back, rubber strap, steel folding clasp and automatic 7753. The sole original image was retrieved and visually inspected. It shows a black dial with red markers, red minute track surround, three registers, date near 4:30, black tachymeter bezel and black strap. Calibre, material and period are auction attributions. Movement execution, back, clasp and physical reference marking are not visible. No suffix equivalence with 42000CN or 42000CR.",
+          "finding": "Gap in inspected lot gallery. Other exact-reference sources remain open."
+        }
+      }
     }
   ],
   "sourceRecordReviews": [
