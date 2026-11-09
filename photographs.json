@@ -40145,6 +40145,74 @@
         },
         "imageSha256": "ed1e949bccf426d4c9b709c32fd8224035593a31363faf604ea3b163ab60410a"
       }
+    },
+    {
+      "id": "tudor-79673-watchde-10000068520-caseback",
+      "brand": "TUDOR",
+      "references": [
+        "79673",
+        "M79673-0005"
+      ],
+      "representativeFor": [
+        "79673"
+      ],
+      "variant": "Watch.de 10000068520, exact M79673-0005 black diamond configuration",
+      "category": "caseback",
+      "title": "Black Bay One 39 S&G M79673-0005 — caseback",
+      "caption": "Closed back with Tudor manufacture calibre engraving and visible bracelet attachment.",
+      "image": "https://archive.watch.de/media/catalog/product/1/0/10000068520_5.jpg",
+      "source": "https://archive.watch.de/archive_english/tudor-black-bay-39-s-g-diamanten-ref-m79673-0005-2023-full-set-ungetragen.html",
+      "credit": "Watch.de / Juwelier Ralf Häffner",
+      "mediaKind": "photograph",
+      "origin": "Original Watch.de dealer archive",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-09T10:10:14.637Z",
+        "loadedAt": "2026-11-09T10:10:14.637Z",
+        "evidence": "Inspected five specimen stills from Watch.de article 10000068520, explicitly M79673-0005. Dealer attributes February 2023 papers, 39 mm steel, diamond-set yellow gold bezel and MT5602. Front and side stills show black diamond dial, gem-set bezel and signed crown. Rear still shows closed engraved steel back, and clasp still shows shield catch on fitted two-tone links. No movement appears in the inspected stills. Period and calibre are source attributions. Separate specimen from Lunn’s; no suffix transfer or factory originality inferred.",
+        "imageDimensions": {
+          "width": 1135,
+          "height": 851
+        },
+        "imageSha256": "208c8d1680efd34066cc518ba2ed6b29e84420d87f4e91666d34128b43759f62"
+      }
+    },
+    {
+      "id": "tudor-79673-watchde-10000068520-braceletClasp",
+      "brand": "TUDOR",
+      "references": [
+        "79673",
+        "M79673-0005"
+      ],
+      "representativeFor": [
+        "79673"
+      ],
+      "variant": "Watch.de 10000068520, exact M79673-0005 black diamond configuration",
+      "category": "braceletClasp",
+      "title": "Black Bay One 39 S&G M79673-0005 — braceletClasp",
+      "caption": "Fitted two-tone bracelet and gold-tone shield safety catch. Clasp interior is not shown.",
+      "image": "https://archive.watch.de/media/catalog/product/1/0/10000068520_6.jpg",
+      "source": "https://archive.watch.de/archive_english/tudor-black-bay-39-s-g-diamanten-ref-m79673-0005-2023-full-set-ungetragen.html",
+      "credit": "Watch.de / Juwelier Ralf Häffner",
+      "mediaKind": "photograph",
+      "origin": "Original Watch.de dealer archive",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-09T10:10:14.637Z",
+        "loadedAt": "2026-11-09T10:10:14.637Z",
+        "evidence": "Inspected five specimen stills from Watch.de article 10000068520, explicitly M79673-0005. Dealer attributes February 2023 papers, 39 mm steel, diamond-set yellow gold bezel and MT5602. Front and side stills show black diamond dial, gem-set bezel and signed crown. Rear still shows closed engraved steel back, and clasp still shows shield catch on fitted two-tone links. No movement appears in the inspected stills. Period and calibre are source attributions. Separate specimen from Lunn’s; no suffix transfer or factory originality inferred.",
+        "imageDimensions": {
+          "width": 1135,
+          "height": 851
+        },
+        "imageSha256": "5234d546d13d318ddf7453c85b8d20c5d008d658f145b4858f1206f99e267ae6"
+      }
     }
   ]
 }
