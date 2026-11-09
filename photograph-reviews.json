@@ -12064,6 +12064,32 @@
           "finding": "Verified exact dealer specimen view"
         }
       }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "79673",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-11-09T10:06:58.319Z",
+          "evidence": "Lunn’s SKU 0890760051 explicitly identifies M79673-0005 and states the image depicts the actual watch. Its full-size front photo shows a black dial with gem-set round markers, snowflake hand, gem-set bezel and fitted two-tone bracelet. Tudor’s exact -0005 page specifies 39 mm steel, a diamond-set solid yellow gold bezel, automatic MT5602 and T-fit clasp. The dealer’s 2024 date is year of purchase. No exposed movement, rear case or clasp appears in the inspected frame. No calibre marking, component originality, assay, or other suffix fit is inferred.",
+          "finding": "Verified representative -0005 specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-11-09T10:06:58.319Z",
+          "evidence": "Lunn’s SKU 0890760051 explicitly identifies M79673-0005 and states the image depicts the actual watch. Its full-size front photo shows a black dial with gem-set round markers, snowflake hand, gem-set bezel and fitted two-tone bracelet. Tudor’s exact -0005 page specifies 39 mm steel, a diamond-set solid yellow gold bezel, automatic MT5602 and T-fit clasp. The dealer’s 2024 date is year of purchase. No exposed movement, rear case or clasp appears in the inspected frame. No calibre marking, component originality, assay, or other suffix fit is inferred.",
+          "finding": "No suitable view in inspected source. Other exact sources remain open."
+        },
+        "caseback": {
+          "reviewedAt": "2026-11-09T10:06:58.319Z",
+          "evidence": "Lunn’s SKU 0890760051 explicitly identifies M79673-0005 and states the image depicts the actual watch. Its full-size front photo shows a black dial with gem-set round markers, snowflake hand, gem-set bezel and fitted two-tone bracelet. Tudor’s exact -0005 page specifies 39 mm steel, a diamond-set solid yellow gold bezel, automatic MT5602 and T-fit clasp. The dealer’s 2024 date is year of purchase. No exposed movement, rear case or clasp appears in the inspected frame. No calibre marking, component originality, assay, or other suffix fit is inferred.",
+          "finding": "No suitable view in inspected source. Other exact sources remain open."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-11-09T10:06:58.319Z",
+          "evidence": "Lunn’s SKU 0890760051 explicitly identifies M79673-0005 and states the image depicts the actual watch. Its full-size front photo shows a black dial with gem-set round markers, snowflake hand, gem-set bezel and fitted two-tone bracelet. Tudor’s exact -0005 page specifies 39 mm steel, a diamond-set solid yellow gold bezel, automatic MT5602 and T-fit clasp. The dealer’s 2024 date is year of purchase. No exposed movement, rear case or clasp appears in the inspected frame. No calibre marking, component originality, assay, or other suffix fit is inferred.",
+          "finding": "No suitable view in inspected source. Other exact sources remain open."
+        }
+      }
     }
   ],
   "sourceRecordReviews": [
