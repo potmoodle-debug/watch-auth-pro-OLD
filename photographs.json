@@ -39681,6 +39681,39 @@
           "height": 1920
         }
       }
+    },
+    {
+      "id": "tudor-42000c-sothebys-2024-lot394-front",
+      "brand": "TUDOR",
+      "references": [
+        "42000C"
+      ],
+      "representativeFor": [
+        "42000C"
+      ],
+      "variant": "Sotheby’s lot 394 black dial with red accents and black rubber strap",
+      "category": "front",
+      "title": "Black Shield 42000C — front",
+      "caption": "Actual lot 394 specimen with red dial accents, three chronograph registers, date and black rubber strap. Compare this configuration only.",
+      "image": "https://sothebys-brightspot.s3.amazonaws.com/media-desk/webnative/images/c1/7a/06e7477944ef8b0d15dec9c3dd33/ge2414-d45xj-t3-01.jpg",
+      "source": "https://www.sothebys.com/en/buy/auction/2024/important-watches-part-ii-2/black-shield-reference-42000c-a-ceramic",
+      "credit": "Sotheby’s",
+      "mediaKind": "photograph",
+      "origin": "Original Sotheby’s 2024 auction gallery",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-09T09:47:22.092Z",
+        "loadedAt": "2026-11-09T09:47:22.092Z",
+        "evidence": "Original Sotheby’s 2024 lot 394 identifies exact 42000C, circa 2013, 42 mm ceramic case, screw-down back, rubber strap, steel folding clasp and automatic 7753. The sole original image was retrieved and visually inspected. It shows a black dial with red markers, red minute track surround, three registers, date near 4:30, black tachymeter bezel and black strap. Calibre, material and period are auction attributions. Movement execution, back, clasp and physical reference marking are not visible. No suffix equivalence with 42000CN or 42000CR.",
+        "imageDimensions": {
+          "width": 2000,
+          "height": 2000
+        },
+        "imageSha256": "5f68cc2340094655c67079a74be7bdab12344ef9739a6bc2fad0cc9a56c28ba0"
+      }
     }
   ]
 }
