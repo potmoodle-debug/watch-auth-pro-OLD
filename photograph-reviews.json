@@ -12012,6 +12012,32 @@
           "finding": "Verified representative blue-dial dealer specimen"
         }
       }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "94110",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-11-09T09:55:41.127Z",
+          "evidence": "Sotheby’s 2019 lot 33 identifies this specimen as 9411/0, normalized to the stored identifier 94110. The original lot image shows a navy Snowflake dial, square luminous markers, date at three, a missing bezel pearl and fitted black and green fabric strap. The auction house attributes a circa-1976 date, 40 mm stainless steel case with screw-down back and automatic calibre 2784 with 25 jewels. No movement stamp, back or original bracelet/clasp appears in this frame. Strap originality and other executions are unestablished.",
+          "finding": "Verified representative navy auction specimen"
+        },
+        "movement": {
+          "reviewedAt": "2026-11-09T09:55:41.127Z",
+          "evidence": "Sotheby’s 2019 lot 33 identifies this specimen as 9411/0, normalized to the stored identifier 94110. The original lot image shows a navy Snowflake dial, square luminous markers, date at three, a missing bezel pearl and fitted black and green fabric strap. The auction house attributes a circa-1976 date, 40 mm stainless steel case with screw-down back and automatic calibre 2784 with 25 jewels. No movement stamp, back or original bracelet/clasp appears in this frame. Strap originality and other executions are unestablished.",
+          "finding": "No suitable image in this lot. Other exact-reference sources remain open."
+        },
+        "caseback": {
+          "reviewedAt": "2026-11-09T09:55:41.127Z",
+          "evidence": "Sotheby’s 2019 lot 33 identifies this specimen as 9411/0, normalized to the stored identifier 94110. The original lot image shows a navy Snowflake dial, square luminous markers, date at three, a missing bezel pearl and fitted black and green fabric strap. The auction house attributes a circa-1976 date, 40 mm stainless steel case with screw-down back and automatic calibre 2784 with 25 jewels. No movement stamp, back or original bracelet/clasp appears in this frame. Strap originality and other executions are unestablished.",
+          "finding": "No suitable image in this lot. Other exact-reference sources remain open."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-11-09T09:55:41.127Z",
+          "evidence": "Sotheby’s 2019 lot 33 identifies this specimen as 9411/0, normalized to the stored identifier 94110. The original lot image shows a navy Snowflake dial, square luminous markers, date at three, a missing bezel pearl and fitted black and green fabric strap. The auction house attributes a circa-1976 date, 40 mm stainless steel case with screw-down back and automatic calibre 2784 with 25 jewels. No movement stamp, back or original bracelet/clasp appears in this frame. Strap originality and other executions are unestablished.",
+          "finding": "No suitable image in this lot. Other exact-reference sources remain open."
+        }
+      }
     }
   ],
   "sourceRecordReviews": [

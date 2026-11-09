@@ -39813,6 +39813,39 @@
         },
         "imageSha256": "3b16a1333231a0983fc4f91f771d4e9791d1b5332856ef315cbbb54c6c4d3b73"
       }
+    },
+    {
+      "id": "tudor-94110-sothebys-lot33-front",
+      "brand": "TUDOR",
+      "references": [
+        "94110"
+      ],
+      "representativeFor": [
+        "94110"
+      ],
+      "variant": "Sotheby’s lot 33 navy Snowflake on fitted fabric strap",
+      "category": "front",
+      "title": "Submariner 9411/0 — front",
+      "caption": "Navy Snowflake dial, square markers, date at three and missing bezel pearl on this specimen. Fabric strap originality is unverified.",
+      "image": "https://sothebys-brightspot.s3.amazonaws.com/dotcom/98/f3/83/8327cc918b1313983d5d7a6d67fd3916709fe72ed22c468e99890fd784/144ge1901-b6f25-43mm.jpg",
+      "source": "https://www.sothebys.com/en/auctions/ecatalogue/2019/important-watches-ge1901/lot.33.html",
+      "credit": "Sotheby’s",
+      "mediaKind": "photograph",
+      "origin": "Original Sotheby’s 2019 auction gallery",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-09T09:55:41.127Z",
+        "loadedAt": "2026-11-09T09:55:41.127Z",
+        "evidence": "Sotheby’s 2019 lot 33 identifies this specimen as 9411/0, normalized to the stored identifier 94110. The original lot image shows a navy Snowflake dial, square luminous markers, date at three, a missing bezel pearl and fitted black and green fabric strap. The auction house attributes a circa-1976 date, 40 mm stainless steel case with screw-down back and automatic calibre 2784 with 25 jewels. No movement stamp, back or original bracelet/clasp appears in this frame. Strap originality and other executions are unestablished.",
+        "imageDimensions": {
+          "width": 1348,
+          "height": 2000
+        },
+        "imageSha256": "d4c7527fd09381d09c5f040a91201635f0cc87cad43fbe9ca7b7d170e57b39a5"
+      }
     }
   ]
 }
