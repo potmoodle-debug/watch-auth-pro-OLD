@@ -26,14 +26,28 @@ export function verifiedPhotograph(photo){
   ['image','source'].every(k=>{try{return new URL(photo[k]).protocol==='https:';}catch{return false;}});
 }
 
-export function matchingPhotographs(catalogue,brand,reference,{externalOnly=false}={}){
+function selectPhotographs(catalogue,match,{externalOnly=false}={}){
  const movementImages=externalOnly?new Set(catalogue.filter(p=>verifiedPhotograph(p)&&p.category==='movement')
   .flatMap(p=>[p.image,p.review?.imageSha256].filter(Boolean))):null;
- return catalogue.filter(p=>verifiedPhotograph(p)&&photographMatch(p,brand,reference)&&
+ return catalogue.filter(p=>verifiedPhotograph(p)&&match(p)&&
   photoCategories.some(([key])=>key===p.category)&&(!externalOnly||
    (p.category!=='movement'&&p.depictsMovement!==true&&!movementImages.has(p.image)&&
     !(p.review?.imageSha256&&movementImages.has(p.review.imageSha256)))))
-  .map(p=>({...p,matchScope:photographMatch(p,brand,reference)}));
+  .map(p=>({...p,matchScope:match(p)}));
+}
+
+export function matchingPhotographs(catalogue,brand,reference,options){
+ return selectPhotographs(catalogue,p=>photographMatch(p,brand,reference),options);
+}
+
+export function potentialPhotographs(catalogue,brand,reference,options){
+ const prefix=normalize(reference),brandKey=normalize(brand);
+ if(!brandKey||prefix.length<3)return [];
+ return selectPhotographs(catalogue,p=>{
+  if(normalize(p.brand)!==brandKey||photographMatch(p,brand,reference))return null;
+  const hasPrefix=[...(p.references||[]),...(p.representativeFor||[])].some(ref=>normalize(ref).startsWith(prefix));
+  return hasPrefix?'Potential match — confirm full reference and variant':null;
+ },options);
 }
 
 // Shared rows may update textual facts; photographs always come from the public,
