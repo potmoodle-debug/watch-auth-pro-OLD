@@ -12038,6 +12038,32 @@
           "finding": "Verified representative Ben Wright specimen view"
         }
       }
+    },
+    {
+      "brand": "TUDOR",
+      "reference": "M2836C1A00101",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-11-09T10:02:40.486Z",
+          "evidence": "Inspected all eight original dealer gallery frames for Reference In Time SKU 202884, explicitly M2836C1A0-0101. Tudor exact product page https://www.tudorwatch.com/en/watches/tudor-royal/m2836c1a0-0101 specifies 36 mm steel, black applied Roman dial with date, automatic MT5412 and five-link steel bracelet with T-fit clasp. Dealer dates specimen to 2026. Pixels show black dial with gold-tone lettering, date at three, brushed and polished links, shield catch and closed engraved caseback with base case stamp 2836C1A0. No opened movement, calibre stamp, or clasp interior shown. Base case stamp does not establish the suffix or add another key. No adjacent suffix or earlier Royal equivalence.",
+          "finding": "Verified exact dealer specimen view"
+        },
+        "movement": {
+          "reviewedAt": "2026-11-09T10:02:40.486Z",
+          "evidence": "Inspected all eight original dealer gallery frames for Reference In Time SKU 202884, explicitly M2836C1A0-0101. Tudor exact product page https://www.tudorwatch.com/en/watches/tudor-royal/m2836c1a0-0101 specifies 36 mm steel, black applied Roman dial with date, automatic MT5412 and five-link steel bracelet with T-fit clasp. Dealer dates specimen to 2026. Pixels show black dial with gold-tone lettering, date at three, brushed and polished links, shield catch and closed engraved caseback with base case stamp 2836C1A0. No opened movement, calibre stamp, or clasp interior shown. Base case stamp does not establish the suffix or add another key. No adjacent suffix or earlier Royal equivalence.",
+          "finding": "Manufacturer specifies MT5412. No specimen movement photograph in this gallery."
+        },
+        "caseback": {
+          "reviewedAt": "2026-11-09T10:02:40.486Z",
+          "evidence": "Inspected all eight original dealer gallery frames for Reference In Time SKU 202884, explicitly M2836C1A0-0101. Tudor exact product page https://www.tudorwatch.com/en/watches/tudor-royal/m2836c1a0-0101 specifies 36 mm steel, black applied Roman dial with date, automatic MT5412 and five-link steel bracelet with T-fit clasp. Dealer dates specimen to 2026. Pixels show black dial with gold-tone lettering, date at three, brushed and polished links, shield catch and closed engraved caseback with base case stamp 2836C1A0. No opened movement, calibre stamp, or clasp interior shown. Base case stamp does not establish the suffix or add another key. No adjacent suffix or earlier Royal equivalence.",
+          "finding": "Verified exact dealer specimen view"
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-11-09T10:02:40.486Z",
+          "evidence": "Inspected all eight original dealer gallery frames for Reference In Time SKU 202884, explicitly M2836C1A0-0101. Tudor exact product page https://www.tudorwatch.com/en/watches/tudor-royal/m2836c1a0-0101 specifies 36 mm steel, black applied Roman dial with date, automatic MT5412 and five-link steel bracelet with T-fit clasp. Dealer dates specimen to 2026. Pixels show black dial with gold-tone lettering, date at three, brushed and polished links, shield catch and closed engraved caseback with base case stamp 2836C1A0. No opened movement, calibre stamp, or clasp interior shown. Base case stamp does not establish the suffix or add another key. No adjacent suffix or earlier Royal equivalence.",
+          "finding": "Verified exact dealer specimen view"
+        }
+      }
     }
   ],
   "sourceRecordReviews": [
