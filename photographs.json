@@ -40339,6 +40339,96 @@
         },
         "imageSha256": "66bd5d14de4660707a9e9d281396a54058b896c3305779527883f1f79c791f28"
       }
+    },
+    {
+      "id": "tudor-79230b-swe49604-front",
+      "brand": "TUDOR",
+      "references": [
+        "79230B"
+      ],
+      "variant": "SwissWatchExpo 49604 black shield dial, blue bezel and steel bracelet",
+      "category": "front",
+      "title": "Heritage Black Bay 79230B — front",
+      "caption": "Black shield dial, blue bezel, rose crown and fitted steel bracelet.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/6/20/tudor-heritage-black-bay-blue-bezel-steel-watch-79230b-box-card-49604_23123.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/tudor-heritage-black-bay-blue-bezel-steel-watch-79230b-box-card-49604/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "Original SwissWatchExpo listing gallery",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-09T10:23:22.699Z",
+        "loadedAt": "2026-11-09T10:23:22.699Z",
+        "evidence": "Original SwissWatchExpo listing 49604 identifies 79230B and states its photos show the actual specimen. Three selected original frames inspected. They show a black no-date shield dial, blue bezel, rose crown, fitted steel bracelet and folding clasp, and closed back engraved MT5602 beside a 79230 case stamp. The stamp does not include the bezel suffix. The movement itself is not visible. The photos apply to this specimen and exact listed reference. No dating or factory fitment conclusion from the images.",
+        "imageDimensions": {
+          "width": 3270,
+          "height": 3270
+        },
+        "imageSha256": "3378f4f3dd594fb1527c58acd963c29e4c1d363df953faf1d770582db52ca285"
+      }
+    },
+    {
+      "id": "tudor-79230b-swe49604-caseback",
+      "brand": "TUDOR",
+      "references": [
+        "79230B"
+      ],
+      "variant": "SwissWatchExpo 49604 black shield dial, blue bezel and steel bracelet",
+      "category": "caseback",
+      "title": "Heritage Black Bay 79230B — caseback",
+      "caption": "Closed steel back with MT5602 engraving and visible 79230 case marking.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/6/20/tudor-heritage-black-bay-blue-bezel-steel-watch-79230b-box-card-49604_67cb4.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/tudor-heritage-black-bay-blue-bezel-steel-watch-79230b-box-card-49604/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "Original SwissWatchExpo listing gallery",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-09T10:23:22.699Z",
+        "loadedAt": "2026-11-09T10:23:22.699Z",
+        "evidence": "Original SwissWatchExpo listing 49604 identifies 79230B and states its photos show the actual specimen. Three selected original frames inspected. They show a black no-date shield dial, blue bezel, rose crown, fitted steel bracelet and folding clasp, and closed back engraved MT5602 beside a 79230 case stamp. The stamp does not include the bezel suffix. The movement itself is not visible. The photos apply to this specimen and exact listed reference. No dating or factory fitment conclusion from the images.",
+        "imageDimensions": {
+          "width": 2202,
+          "height": 2202
+        },
+        "imageSha256": "3fda592012a76a6ac4bfc07296dc5dac5656bdfb91c6ee2b9f53cc6d177c7482"
+      }
+    },
+    {
+      "id": "tudor-79230b-swe49604-braceletClasp",
+      "brand": "TUDOR",
+      "references": [
+        "79230B"
+      ],
+      "variant": "SwissWatchExpo 49604 black shield dial, blue bezel and steel bracelet",
+      "category": "braceletClasp",
+      "title": "Heritage Black Bay 79230B — braceletClasp",
+      "caption": "Fitted steel bracelet and folding safety clasp with adjustment holes.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/6/20/tudor-heritage-black-bay-blue-bezel-steel-watch-79230b-box-card-49604_78f62.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/tudor-heritage-black-bay-blue-bezel-steel-watch-79230b-box-card-49604/",
+      "credit": "SwissWatchExpo",
+      "mediaKind": "photograph",
+      "origin": "Original SwissWatchExpo listing gallery",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-09T10:23:22.699Z",
+        "loadedAt": "2026-11-09T10:23:22.699Z",
+        "evidence": "Original SwissWatchExpo listing 49604 identifies 79230B and states its photos show the actual specimen. Three selected original frames inspected. They show a black no-date shield dial, blue bezel, rose crown, fitted steel bracelet and folding clasp, and closed back engraved MT5602 beside a 79230 case stamp. The stamp does not include the bezel suffix. The movement itself is not visible. The photos apply to this specimen and exact listed reference. No dating or factory fitment conclusion from the images.",
+        "imageDimensions": {
+          "width": 3199,
+          "height": 3198
+        },
+        "imageSha256": "e365ba9f5cfd34b8563dab0f5c6680bffdebc86218b5928a93c53752b786042f"
+      }
     }
   ]
 }
