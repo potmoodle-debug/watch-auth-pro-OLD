@@ -1,7 +1,7 @@
 import {brandChoices,splitResearchRecords,researchOutcomeHTML} from './research-review.js?v=queue20261020';
 import {researchPack,showResearchPack,clearResearchExport} from './research-export.js?v=queueexport01';
 import {createResearchDetails} from './research-details.js?v=queueinspect01';
-import {matchingPhotographs,mergeReferenceRules} from './photographs.js?v=photos01';
+import {matchingPhotographs,potentialPhotographs,mergeReferenceRules} from './photographs.js?v=partial01';
 import {renderPhotoGallery} from './photo-gallery.js?v=search01';
 import {setupPhotoSearch} from './photo-search.js?v=search01';
 import {performanceStats,resetCorrections,defaultWorkday,workdayBlocks} from './performance.js?v=finishclock01';
@@ -137,7 +137,14 @@ function serialGuidance(){
 function setIntelligenceExpanded(expanded){$('intelligenceContent').hidden=!expanded;$('lookup').textContent=expanded?'Hide watch information':'Watch information';$('lookup').setAttribute('aria-expanded',String(expanded));}
 function renderCurrentPhotographs(s=safetyRule(intelligence.safety,$('brand').value,$('reference').value,rule?.family||rule?.model||'')){
  const externalOnly=!!s||selectedConditions().includes('External only');
- const photos=matchingPhotographs(photographs,$('brand').value,$('reference').value,{externalOnly});$('images').hidden=false;renderPhotoGallery($('visuals'),photos,{externalOnly});
+ const brand=$('brand').value,reference=$('reference').value;
+ const photos=matchingPhotographs(photographs,brand,reference,{externalOnly});
+ $('images').hidden=false;
+ renderPhotoGallery($('visuals'),photos,{externalOnly});
+ const potential=photos.length?[]:potentialPhotographs(photographs,brand,reference,{externalOnly});
+ $('potentialPhotos').hidden=!potential.length;
+ $('potentialPhotoSummary').textContent='Showing '+Math.min(8,potential.length)+' of '+potential.length+' possible photographs. Confirm the full reference and variant before comparing. Use Search images to explore more.';
+ renderPhotoGallery($('potentialVisuals'),potential.slice(0,8),{externalOnly,searchResults:true});
 }
 function renderInfo(){
  const s=enforceSafety(),sample=samples[normalize($('brand').value)+'|'+normalize($('reference').value)];

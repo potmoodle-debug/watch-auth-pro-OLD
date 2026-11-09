@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import {searchPhotographs,webImageSearchUrl} from '../photo-search.js';
-import {matchingPhotographs} from '../photographs.js';
+import {matchingPhotographs,potentialPhotographs} from '../photographs.js';
 const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
 
 test('photo discovery finds partial details without assigning reference aliases or accepting pending images',()=>{
@@ -16,6 +16,18 @@ test('photo discovery finds partial details without assigning reference aliases 
  assert.equal(matchingPhotographs(photos,'Bremont','Kingsman').filter(p=>p.id.startsWith('bremont-pass-kingsman-')).length,0);
  const pending={...photos.find(p=>p.id==='bremont-pass-kingsman-front'),id:'unverified-search-fixture',review:{status:'pending'}};
  assert.equal(searchPhotographs([pending],'Kingsman').length,0);
+});
+
+test('partial bench references suggest same-brand prefix photographs without assigning exact matches',()=>{
+ const candidates=potentialPhotographs(photos,'Bremont','BKM');
+ assert.equal(candidates.length,4);
+ assert.ok(candidates.every(p=>p.matchScope.startsWith('Potential match')));
+ assert.equal(matchingPhotographs(photos,'Bremont','BKM').length,0);
+ assert.equal(potentialPhotographs(photos,'Bremont','BKM-SS').length,0);
+ assert.equal(potentialPhotographs(photos,'Bremont','KM-SS').length,0);
+ assert.equal(potentialPhotographs(photos,'Bremont','BK').length,0);
+ assert.equal(potentialPhotographs(photos,'Rolex','BKM').length,0);
+ assert.equal(potentialPhotographs(photos,'Bremont','BKM',{externalOnly:true}).length,2);
 });
 
 test('external-only discovery suppresses movements, shared back images and hash-identical alternate URLs',()=>{
