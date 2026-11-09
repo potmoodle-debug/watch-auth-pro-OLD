@@ -14489,6 +14489,16 @@
       "id": "UPDATE:SWATCH|SSX03W101N",
       "reviewedAt": "2026-10-30",
       "evidence": "Original Swatch exact SSX03W101N page identifies Royal Pop Ocho Negro and a hand-wound version of SISTEM51, distinct from the conventional automatic SISTEM51. Black dial, white Bioceramic bezel with black screws; central seconds. Manufacturer model specifications: 40mm diameter, 8.4mm thickness, Bioceramic, sapphire front and transparent rear, calfskin lanyard. Original model gallery and macro pixels inspected: accepted dial detail, movement through the decorated display back, and stitched lanyard attachment detail. The same rear photograph serves movement and caseback categories and must be suppressed in External mode. A display-back photograph is not an opened-case inspection. The lanyard category does not depict a metal bracelet or folding clasp. Product cutouts and small previews excluded from accepted photography; no full-face photograph accepted in this pass. No generic automatic SISTEM51 photograph, technical supplier code, production interval or individual-watch authenticity inferred. Recorded V8 codes and model-name entries are not established calibre designations; retain execution review. SSX03W101 without N is not accepted as SSX03W101N; RoyalPop as an entered brand is not silently remapped. Other colourways and suffixes remain distinct. Nominal water resistance does not test the user watch."
+    },
+    {
+      "id": "RULE:0827",
+      "reviewedAt": "2026-11-09T09:47:22.092Z",
+      "evidence": "Imported rule pattern ^42000C$ enumerates only 42000C. The original Sotheby’s lot 394 confirms this literal exact reference and attributes automatic calibre 7753. The verified front photograph shows the red-accent black dial and black strap execution. The original lot has no movement, caseback or clasp photograph. 42000CN and 42000CR are outside this record. https://www.sothebys.com/en/buy/auction/2024/important-watches-part-ii-2/black-shield-reference-42000c-a-ceramic"
+    },
+    {
+      "id": "RULE:0394",
+      "reviewedAt": "2026-11-09T10:23:22.699Z",
+      "evidence": "Closed pattern ^79220([NBR])$ enumerates B, N and R only. Reconciled all three against the previously inspected, separately labelled Fratello and Bukowskis specimens. Movement remains unsupported for this set. The N and R specimens have photographed casebacks and bracelets, and B has photographed caseback and strap hardware. No transfer to 79230 or unlisted suffixes. Evidence: fratello-tudor-fourth-79220b-front-3, fratello-tudor-fourth-79220b-front-6, fratello-tudor-fourth-79220b-caseback-7, fratello-tudor-fourth-79220b-braceletClasp-8, fratello-tudor-fourth-79220r-front-4, fratello-tudor-fifth-79220n-front-5, bukowskis-643-31-front, bukowskis-643-31-caseback, bukowskis-643-31-braceletClasp, bukowskis-643-32-front, bukowskis-643-32-caseback, bukowskis-643-32-braceletClasp"
     }
   ]
 }
