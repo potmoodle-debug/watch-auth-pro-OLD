@@ -80,3 +80,9 @@
 #researchExportDialog{width:min(800px,calc(100vw - 32px));max-height:85vh;overflow:auto}#researchExportText{width:100%;box-sizing:border-box;white-space:pre;max-height:45vh}
 #bench > .panel, #watchInfo { min-width: 0; }
 #watchInfo { overflow-wrap: anywhere; }
+
+#lookup{white-space:normal}
+#lookup[data-availability="available"]{background:#184435;border-color:#54b994;color:#ddfff0}
+#lookup[data-availability="potential"]{background:#513b1c;border-color:#d1a45e;color:#fff0d1}
+#lookup[data-availability="unavailable"]{background:#252d38;border-color:#657184;color:#e1e7f0}
+#lookup[data-availability]:not([data-availability=""]):hover{filter:brightness(1.15)}
