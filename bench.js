@@ -134,7 +134,30 @@ function serialGuidance(){
  $('serialGuidance').innerHTML=lines.map(x=>'<p>'+esc(x)+'</p>').join('');
  return lines.filter(x=>x.startsWith('ALERT:'));
 }
-function setIntelligenceExpanded(expanded){$('intelligenceContent').hidden=!expanded;$('lookup').textContent=expanded?'Hide watch information':'Watch information';$('lookup').setAttribute('aria-expanded',String(expanded));}
+function updateWatchInformationButton(){
+ const button=$('lookup'),brand=$('brand').value,reference=$('reference').value;
+ const expanded=button.getAttribute('aria-expanded')==='true';
+ let availability='',label='';
+ if(localRules.length&&normalize(brand)&&normalize(reference)){
+  const mapped=matchingRule(intelligence.rules,brand,reference);
+  const safety=safetyRule(intelligence.safety,brand,reference,mapped?.family||mapped?.model||'');
+  const options={externalOnly:!!safety||selectedConditions().includes('External only')};
+  if(mapped||safety||samples[normalize(brand)+'|'+normalize(reference)]||matchingPhotographs(photographs,brand,reference,options).length){
+   availability='available';label='Info available';
+  }else if(potentialPhotographs(photographs,brand,reference,options).length){
+   availability='potential';label='Possible photos';
+  }else{
+   availability='unavailable';label='No reference info';
+  }
+ }
+ button.dataset.availability=availability;
+ button.textContent=(expanded?'Hide watch information':'Watch information')+(label?' · '+label:'');
+}
+function setIntelligenceExpanded(expanded){
+ $('intelligenceContent').hidden=!expanded;
+ $('lookup').setAttribute('aria-expanded',String(expanded));
+ updateWatchInformationButton();
+}
 function renderCurrentPhotographs(s=safetyRule(intelligence.safety,$('brand').value,$('reference').value,rule?.family||rule?.model||'')){
  const externalOnly=!!s||selectedConditions().includes('External only');
  const brand=$('brand').value,reference=$('reference').value;
@@ -160,6 +183,7 @@ function renderInfo(){
  if(rule?.technicalDetail){$('provenance').innerHTML+=Object.entries(rule.technicalDetail).filter(([k,v])=>typeof v==='string').map(([k,v])=>'<p><strong>'+esc(k)+':</strong> '+esc(v)+'</p>').join('');$('provenance').innerHTML+=(rule.sources||[]).map(x=>'<p>'+link(x.url,x.title)+'</p>').join('');}
  $('calibreOptions').innerHTML=(rule?.calibre||[]).map(x=>'<option value="'+esc(x)+'"></option>').join('');
  renderCurrentPhotographs(s);
+ updateWatchInformationButton();
  const warnings=serialGuidance();$('alerts').innerHTML=warnings.map(x=>'<div class="notice stop">'+esc(x)+'</div>').join('');
  compare();generate();
 }
@@ -272,7 +296,7 @@ $('brand').addEventListener('input',syncBrandButtons);
 $('identifyPanel').addEventListener('click',e=>{const b=e.target.closest('[data-brand-choice]');if(!b||pending||saved)return;$('brand').value=b.dataset.brandChoice;$('brand').dispatchEvent(new Event('input',{bubbles:true}));$('reference').focus();});
 inputIds.forEach(id=>$(id).addEventListener('input',()=>{if(pending||saved)return;if(['brand','reference'].includes(id)){identity=null;rule=null;lookupVersion++;$('watchInfo').hidden=true;$('calibreChoices').hidden=true;setIntelligenceExpanded(false);$('teamNotes').textContent='';}renderReplicaFlags();const s=enforceSafety();if(s&&$('watchInfo').hidden)renderInfo();compare();if(!noteDirty)generate();autosave();if(['serial','clasp'].includes(id)&&identity){clearTimeout(serialTimer);serialTimer=setTimeout(()=>lookup().catch(e=>status(e.message,true)),400);}}));
 $('omegaSeries').addEventListener('change',()=>{serialGuidance();});
-document.querySelectorAll('#conditions input').forEach(x=>x.addEventListener('change',()=>{enforceSafety();if(!$('watchInfo').hidden)renderCurrentPhotographs();compare();generate();autosave();}));
+document.querySelectorAll('#conditions input').forEach(x=>x.addEventListener('change',()=>{enforceSafety();if(!$('watchInfo').hidden)renderCurrentPhotographs();updateWatchInformationButton();compare();generate();autosave();}));
 document.querySelectorAll('#componentChecks select').forEach(x=>x.addEventListener('change',autosave));
 $('note').addEventListener('input',()=>{noteDirty=true;autosave();});
 bind('lookup',async()=>{if(identity&&!$('watchInfo').hidden){setIntelligenceExpanded($('intelligenceContent').hidden);return;}await lookup();});$('reference').addEventListener('keydown',e=>{if(e.key==='Enter')action($('lookup'),lookup);});
@@ -311,7 +335,7 @@ $('entryForm').addEventListener('submit',async e=>{e.preventDefault();const btn=
 window.addEventListener('beforeunload',()=>autosave());
 document.addEventListener('visibilitychange',()=>{if(!document.hidden&&member)updatePerformance().catch(e=>status(e.message,true));});
 setInterval(()=>{if(member){if(lastDay!==londonDay())updatePerformance().catch(e=>status(e.message,true));else if(daily)renderDailyCard();}},60000);
-function renderBrandChoices(){const brands=brandChoices(intelligence.rules.concat(intelligence.safety,researchReviews),['TUDOR','ROLEX','OMEGA','BREITLING','CARTIER','TAGHEUER']);$('otherBrandButtons').innerHTML=brands.map(x=>'<button type="button" data-brand-choice="'+esc(x)+'" aria-pressed="false">'+esc(x)+'</button>').join('');syncBrandButtons();}
+function renderBrandChoices(){const brands=brandChoices(intelligence.rules.concat(intelligence.safety,researchReviews),['TUDOR','ROLEX','OMEGA','BREITLING','CARTIER','TAGHEUER']);$('otherBrandButtons').innerHTML=brands.map(x=>'<button type="button" data-brand-choice="'+esc(x)+'" aria-pressed="false">'+esc(x)+'</button>').join('');syncBrandButtons();updateWatchInformationButton();}
 async function init(){
  try{const [data,pictures]=await Promise.all([fetch('intelligence.json?v=photos01',{cache:'no-cache'}).then(r=>{if(!r.ok)throw new Error('Reference database unavailable.');return r.json();}),fetch('samples.json?v=photos01').then(r=>r.json())]);intelligence=data;const researched=await fetch('rolex-126505.json?v=photos01').then(r=>{if(!r.ok)throw new Error('Daytona research unavailable.');return r.json();});intelligence.rules=intelligence.rules.filter(r=>!(r.brand==='ROLEX'&&(r.refs||[]).includes('126505'))).concat([{...researched,benchStatus:'verified'}]);const updates=await fetch('research-updates-20261008.json?v=photos01',{cache:'no-cache'}).then(r=>{if(!r.ok)throw new Error('Reviewed research unavailable.');return r.json();});intelligence.rules=updates.concat(intelligence.rules);localRules=intelligence.rules.slice();const catalogue=await fetch('photographs.json?v=photos01',{cache:'no-cache'}).then(r=>{if(!r.ok)throw new Error('Photograph catalogue unavailable.');return r.json();});photographs=catalogue.photographs;samples=pictures;
  renderBrandChoices();renderReferences();
