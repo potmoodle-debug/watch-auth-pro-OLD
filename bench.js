@@ -5,7 +5,7 @@ import {matchingPhotographs,potentialPhotographs,mergeReferenceRules} from './ph
 import {renderPhotoGallery} from './photo-gallery.js?v=search01';
 import {setupPhotoSearch} from './photo-search.js?v=search01';
 import {performanceStats,resetCorrections,defaultWorkday,workdayBlocks} from './performance.js?v=finishclock01';
-import {rolexLecGuidance} from './rolex-lec.js?v=lec01';
+import {rolexLecGuidance} from './rolex-lec.js?v=lecpopup01';
 import {technologyReminder} from './movement-reminders.js?v=photos01';
 import {claspMatches,serialHints,needsResearch,replicaSignals} from './qol.js?v=photos01';
 import * as cloud from './cloud.js?v=replica01';
@@ -135,14 +135,27 @@ function serialGuidance(){
  $('serialGuidance').innerHTML=lines.map(x=>'<p>'+esc(x)+'</p>').join('');
  return lines.filter(x=>x.startsWith('ALERT:'));
 }
-function renderRolexLec(){
- const guidance=rolexLecGuidance($('brand').value,$('reference').value);
- const panel=$('rolexLec');
- panel.hidden=!guidance;
- panel.innerHTML=guidance?'<strong>'+esc(guidance.title)+'</strong><p>'+esc(guidance.text)+'</p><p>'+esc(guidance.check)+'</p><small>'+link(guidance.source,'LEC guidance source — Watchfinder')+'</small>':'';
+let lastLecPopupKey='';
+function showRolexLecPopup(){
+ const brand=$('brand').value,reference=$('reference').value;
+ const guidance=rolexLecGuidance(brand,reference);
+ if(!guidance||!normalize(reference)){lastLecPopupKey='';return;}
+ const key=inspectionId+'|'+normalize(reference);
+ if(key===lastLecPopupKey)return;
+ let dialog=$('rolexLecDialog');
+ if(!dialog){
+  dialog=document.createElement('dialog');
+  dialog.id='rolexLecDialog';
+  dialog.className='photo-dialog';
+  dialog.setAttribute('aria-labelledby','rolexLecTitle');
+  document.body.append(dialog);
+ }
+ dialog.innerHTML='<div class="heading"><h2 id="rolexLecTitle">'+esc(guidance.title)+'</h2><button type="button" class="secondary">Close</button></div><p><strong>Rolex · '+esc(reference)+'</strong></p><p>'+esc(guidance.text)+'</p><p class="muted">'+esc(guidance.check)+'</p><p>'+link(guidance.source,'LEC guidance source — Watchfinder')+'</p>';
+ dialog.querySelector('button').onclick=()=>dialog.close();
+ dialog.showModal();
+ lastLecPopupKey=key;
 }
 function updateWatchInformationButton(){
- renderRolexLec();
  const button=$('lookup'),brand=$('brand').value,reference=$('reference').value;
  const expanded=button.getAttribute('aria-expanded')==='true';
  let availability='',label='';
@@ -198,7 +211,7 @@ function renderInfo(){
 function compare(){const reminder=technologyReminder($('brand').value,$('calibre').value,$('movementType').value);$('technologyReminder').hidden=!reminder;if(reminder){$('technologyReminder').className='notice '+reminder.level;$('technologyReminder').textContent=reminder.text;}const result=movementResult(rule,$('calibre').value);$('movementCheck').hidden=!result;if(result){$('movementCheck').className='notice '+result.level;$('movementCheck').textContent=result.text;}}
 async function lookup(){
  const b=$('brand').value.trim(),r=$('reference').value.trim();if(!b||!r)throw new Error('Enter a brand and case reference or model.');
- identity=identityKey();const version=++lookupVersion;rule=matchingRule(intelligence.rules,b,r);renderInfo();$('teamNotes').textContent=user&&member?'Loading team knowledge…':'Sign in to view and add shared team knowledge.';
+ identity=identityKey();const version=++lookupVersion;rule=matchingRule(intelligence.rules,b,r);renderInfo();showRolexLecPopup();$('teamNotes').textContent=user&&member?'Loading team knowledge…':'Sign in to view and add shared team knowledge.';
  if(user&&member){
   const query=new URLSearchParams({brand:'eq.'+identity.brand,reference:'eq.'+identity.reference,order:'created_at.desc'});
   const [notes,concerns]=await Promise.allSettled([cloud.select('bench_notes',query.toString()),cloud.select('counterfeit_register',new URLSearchParams({brand:'eq.'+identity.brand,or:'(reference.eq.'+identity.reference+($('serial').value?',serial.eq.'+normalize($('serial').value):'')+')',order:'created_at.desc'}).toString())]);
@@ -303,6 +316,7 @@ $('componentChecks').innerHTML=componentNames.map((x,i)=>'<label>'+esc(x)+'<sele
 $('brand').addEventListener('input',syncBrandButtons);
 $('identifyPanel').addEventListener('click',e=>{const b=e.target.closest('[data-brand-choice]');if(!b||pending||saved)return;$('brand').value=b.dataset.brandChoice;$('brand').dispatchEvent(new Event('input',{bubbles:true}));$('reference').focus();});
 inputIds.forEach(id=>$(id).addEventListener('input',()=>{if(pending||saved)return;if(['brand','reference'].includes(id)){identity=null;rule=null;lookupVersion++;$('watchInfo').hidden=true;$('calibreChoices').hidden=true;setIntelligenceExpanded(false);$('teamNotes').textContent='';}renderReplicaFlags();const s=enforceSafety();if(s&&$('watchInfo').hidden)renderInfo();compare();if(!noteDirty)generate();autosave();if(['serial','clasp'].includes(id)&&identity){clearTimeout(serialTimer);serialTimer=setTimeout(()=>lookup().catch(e=>status(e.message,true)),400);}}));
+$('reference').addEventListener('change',showRolexLecPopup);
 $('omegaSeries').addEventListener('change',()=>{serialGuidance();});
 document.querySelectorAll('#conditions input').forEach(x=>x.addEventListener('change',()=>{enforceSafety();if(!$('watchInfo').hidden)renderCurrentPhotographs();updateWatchInformationButton();compare();generate();autosave();}));
 document.querySelectorAll('#componentChecks select').forEach(x=>x.addEventListener('change',autosave));
