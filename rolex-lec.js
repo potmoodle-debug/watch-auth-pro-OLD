@@ -1,36 +1,21 @@
 import {normalize} from './core.js?v=photos01';
+import {rolexLecData} from './rolex-lec-data.js?v=lec-research01';
 
-const modernReferences=new Set([
- '124060','126610','126613','126618','126619',
- '126710','126711','126715','126718','126719','126720',
- '124270','124273','224270','226570',
- '126000','124200','124300','126200','126234','126300','126334',
- '126500','126503','126505','126506','126508','126509',
- '126600','126603','136660','126660','126067'
-]);
-const source='https://www.watchfinder.com/articles/feature-3-things-rolex';
+const results=new Map();
+for(const group of rolexLecData.groups){
+ for(const reference of group.references){
+  results.set(normalize(reference),group);
+ }
+}
 
 export function rolexLecGuidance(brand,reference){
- if(normalize(brand)!=='ROLEX')return null;
- const ref=normalize(reference);
- const guidance={
-  expected:null,
-  title:'LEC expected? Unable to determine',
-  text:'Check whether a laser-etched crown is appropriate for the exact reference, production period and fitted crystal. Rolex introduced it progressively in the early 2000s. Earlier watches and references spanning the change need individual review.',
-  source
+ if(normalize(brand)!=='ROLEX'||!normalize(reference))return null;
+ const result=results.get(normalize(reference));
+ if(!result)return {value:'Not researched',basis:'No LEC research is recorded for this exact reference.',sources:[]};
+ return {
+  value:result.value,
+  basis:result.basis,
+  sources:result.sources.map(id=>rolexLecData.sources[id]),
+  reviewedAt:rolexLecData.reviewedAt
  };
- if(ref==='116400GV'){
-  guidance.expected=false;
-  guidance.title='LEC expected? NO';
-  guidance.text='The original green crystal on the Milgauss 116400GV normally has no laser-etched crown. Confirm that the fitted crystal is the correct green execution.';
- }else if(ref==='116400'){
-  guidance.title='LEC expected? Confirm crystal variant';
-  guidance.text='Confirm whether this is the green-crystal GV execution. The original green crystal normally has no laser-etched crown. The clear-crystal version generally has one.';
- }else if(modernReferences.has(ref.replace(/[A-Z]+$/,''))&&/^\d{6}[A-Z]*$/.test(ref)){
-  guidance.expected=true;
-  guidance.title='LEC expected? YES';
-  guidance.text='For this modern reference family, a laser-etched crown is generally expected in the appropriate original sapphire crystal, usually near 6 o’clock. Confirm the exact crystal execution and service history.';
- }
- guidance.check='Use magnification and angled light. Record what you actually observe in Comments / supporting observations. Crystal replacement can affect the marking. Presence or absence alone does not establish authenticity.';
- return guidance;
 }

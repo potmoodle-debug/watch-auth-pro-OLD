@@ -5,7 +5,7 @@ import {matchingPhotographs,potentialPhotographs,mergeReferenceRules} from './ph
 import {renderPhotoGallery} from './photo-gallery.js?v=search01';
 import {setupPhotoSearch} from './photo-search.js?v=search01';
 import {performanceStats,resetCorrections,defaultWorkday,workdayBlocks} from './performance.js?v=finishclock01';
-import {rolexLecGuidance} from './rolex-lec.js?v=lecpopup01';
+import {rolexLecGuidance} from './rolex-lec.js?v=lec-research01';
 import {technologyReminder} from './movement-reminders.js?v=photos01';
 import {claspMatches,serialHints,needsResearch,replicaSignals} from './qol.js?v=photos01';
 import * as cloud from './cloud.js?v=replica01';
@@ -135,26 +135,6 @@ function serialGuidance(){
  $('serialGuidance').innerHTML=lines.map(x=>'<p>'+esc(x)+'</p>').join('');
  return lines.filter(x=>x.startsWith('ALERT:'));
 }
-let lastLecPopupKey='';
-function showRolexLecPopup(){
- const brand=$('brand').value,reference=$('reference').value;
- const guidance=rolexLecGuidance(brand,reference);
- if(!guidance||!normalize(reference)){lastLecPopupKey='';return;}
- const key=inspectionId+'|'+normalize(reference);
- if(key===lastLecPopupKey)return;
- let dialog=$('rolexLecDialog');
- if(!dialog){
-  dialog=document.createElement('dialog');
-  dialog.id='rolexLecDialog';
-  dialog.className='photo-dialog';
-  dialog.setAttribute('aria-labelledby','rolexLecTitle');
-  document.body.append(dialog);
- }
- dialog.innerHTML='<div class="heading"><h2 id="rolexLecTitle">'+esc(guidance.title)+'</h2><button type="button" class="secondary">Close</button></div><p><strong>Rolex · '+esc(reference)+'</strong></p><p>'+esc(guidance.text)+'</p><p class="muted">'+esc(guidance.check)+'</p><p>'+link(guidance.source,'LEC guidance source — Watchfinder')+'</p>';
- dialog.querySelector('button').onclick=()=>dialog.close();
- dialog.showModal();
- lastLecPopupKey=key;
-}
 function updateWatchInformationButton(){
  const button=$('lookup'),brand=$('brand').value,reference=$('reference').value;
  const expanded=button.getAttribute('aria-expanded')==='true';
@@ -163,7 +143,7 @@ function updateWatchInformationButton(){
   const mapped=matchingRule(intelligence.rules,brand,reference);
   const safety=safetyRule(intelligence.safety,brand,reference,mapped?.family||mapped?.model||'');
   const options={externalOnly:!!safety||selectedConditions().includes('External only')};
-  if(mapped||safety||samples[normalize(brand)+'|'+normalize(reference)]||matchingPhotographs(photographs,brand,reference,options).length){
+  if(mapped||safety||rolexLecGuidance(brand,reference)?.reviewedAt||samples[normalize(brand)+'|'+normalize(reference)]||matchingPhotographs(photographs,brand,reference,options).length){
    availability='available';label='Info available';
   }else if(potentialPhotographs(photographs,brand,reference,options).length){
    availability='potential';label='Possible photos';
@@ -191,17 +171,20 @@ function renderCurrentPhotographs(s=safetyRule(intelligence.safety,$('brand').va
  renderPhotoGallery($('potentialVisuals'),potential.slice(0,8),{externalOnly,searchResults:true});
 }
 function renderInfo(){
+ const lec=rolexLecGuidance($('brand').value,$('reference').value);
  const s=enforceSafety(),sample=samples[normalize($('brand').value)+'|'+normalize($('reference').value)];
  if($('watchInfo').hidden)setIntelligenceExpanded(true);$('watchInfo').hidden=false;$('model').textContent=rule?.family||rule?.model||sample?.model||'Reference not mapped';
- $('mapping').textContent=rule?(rule.collectionOnly||rule.manualReview?'FAMILY / MANUAL REVIEW':'REFERENCE GUIDANCE'):'NO RESEARCHED MAPPING';
- $('sourceBadge').textContent=rule?.benchStatus==='verified'?'VERIFIED DATA':rule?'IMPORTED RESEARCH':'RESEARCH AVAILABLE ON REQUEST';
+ $('mapping').textContent=rule?(rule.collectionOnly||rule.manualReview?'FAMILY / MANUAL REVIEW':'REFERENCE GUIDANCE'):lec?.reviewedAt?'LEC GUIDANCE ONLY':'NO RESEARCHED MAPPING';
+ $('sourceBadge').textContent=rule?.benchStatus==='verified'?'VERIFIED DATA':rule?'IMPORTED RESEARCH':lec?.reviewedAt?'LEC RESEARCH':'RESEARCH AVAILABLE ON REQUEST';
  $('safety').className='notice'+(s?' stop':'');
  $('safety').innerHTML=s?'<strong>'+esc(s.action)+'</strong>'+esc(s.reason):'<strong>No special opening restriction found in the loaded rules</strong>This is not clearance to open. Confirm the watch construction and apply your normal bench procedure.';
  const facts=rule?[['Movement',rule.calibreDisplay||(rule.calibre||[]).join(' / ')],['Case / size',rule.caseDetails||rule.size],['Technology',rule.technology||rule.feature],['Production period',rule.production||rule.periodNote],['Power reserve',rule.reserve],['Functions',rule.functions]].filter(x=>x[1]):[];
+ if(lec)facts.push(['LEC',lec.value]);
  $('facts').innerHTML=facts.map(([k,v])=>'<div class="fact"><small>'+esc(k)+'</small><strong>'+esc(v)+'</strong></div>').join('');
- $('mappingNotes').textContent=rule?[rule.lookupScope,rule.notes].filter(Boolean).join(' · '):'No reference-specific intelligence is loaded. No extra inspection fields are required.';
- $('provenance').innerHTML=rule?'<p>'+esc(rule.source||'Imported WatchAuthPro mapping')+'</p><p>'+link(rule.sourceUrl,'Open original source')+'</p><p class="muted">'+esc(rule.confidence||'Original confidence not specified')+' · '+esc(rule.benchStatus==='verified'?'Reviewed in shared reference database':'Imported from existing WatchAuthPro research; not newly verified')+'</p>':'No source attached to an exact reference record.';
+ $('mappingNotes').textContent=rule?[rule.lookupScope,rule.notes].filter(Boolean).join(' · '):lec?.reviewedAt?'LEC expectation researched. Other reference details remain unmapped.':'No reference-specific intelligence is loaded. No extra inspection fields are required.';
+ $('provenance').innerHTML=rule?'<p>'+esc(rule.source||'Imported WatchAuthPro mapping')+'</p><p>'+link(rule.sourceUrl,'Open original source')+'</p><p class="muted">'+esc(rule.confidence||'Original confidence not specified')+' · '+esc(rule.benchStatus==='verified'?'Reviewed in shared reference database':'Imported from existing WatchAuthPro research; not newly verified')+'</p>':lec?.reviewedAt?'LEC reference research sources below.':'No source attached to an exact reference record.';
  if(rule?.technicalDetail){$('provenance').innerHTML+=Object.entries(rule.technicalDetail).filter(([k,v])=>typeof v==='string').map(([k,v])=>'<p><strong>'+esc(k)+':</strong> '+esc(v)+'</p>').join('');$('provenance').innerHTML+=(rule.sources||[]).map(x=>'<p>'+link(x.url,x.title)+'</p>').join('');}
+ if(lec)$('provenance').innerHTML+='<details><summary>LEC research</summary><p>'+esc(lec.basis)+'</p><p class="muted">Expectation for the original crystal. Confirm service history and the fitted crystal. A crown alone does not establish authenticity.</p>'+lec.sources.map(source=>'<p>'+link(source.url,source.title)+'</p>').join('')+(lec.reviewedAt?'<small>Reviewed '+esc(lec.reviewedAt)+'</small>':'')+'</details>';
  $('calibreOptions').innerHTML=(rule?.calibre||[]).map(x=>'<option value="'+esc(x)+'"></option>').join('');
  renderCurrentPhotographs(s);
  updateWatchInformationButton();
@@ -211,7 +194,7 @@ function renderInfo(){
 function compare(){const reminder=technologyReminder($('brand').value,$('calibre').value,$('movementType').value);$('technologyReminder').hidden=!reminder;if(reminder){$('technologyReminder').className='notice '+reminder.level;$('technologyReminder').textContent=reminder.text;}const result=movementResult(rule,$('calibre').value);$('movementCheck').hidden=!result;if(result){$('movementCheck').className='notice '+result.level;$('movementCheck').textContent=result.text;}}
 async function lookup(){
  const b=$('brand').value.trim(),r=$('reference').value.trim();if(!b||!r)throw new Error('Enter a brand and case reference or model.');
- identity=identityKey();const version=++lookupVersion;rule=matchingRule(intelligence.rules,b,r);renderInfo();showRolexLecPopup();$('teamNotes').textContent=user&&member?'Loading team knowledge…':'Sign in to view and add shared team knowledge.';
+ identity=identityKey();const version=++lookupVersion;rule=matchingRule(intelligence.rules,b,r);renderInfo();$('teamNotes').textContent=user&&member?'Loading team knowledge…':'Sign in to view and add shared team knowledge.';
  if(user&&member){
   const query=new URLSearchParams({brand:'eq.'+identity.brand,reference:'eq.'+identity.reference,order:'created_at.desc'});
   const [notes,concerns]=await Promise.allSettled([cloud.select('bench_notes',query.toString()),cloud.select('counterfeit_register',new URLSearchParams({brand:'eq.'+identity.brand,or:'(reference.eq.'+identity.reference+($('serial').value?',serial.eq.'+normalize($('serial').value):'')+')',order:'created_at.desc'}).toString())]);
@@ -316,7 +299,6 @@ $('componentChecks').innerHTML=componentNames.map((x,i)=>'<label>'+esc(x)+'<sele
 $('brand').addEventListener('input',syncBrandButtons);
 $('identifyPanel').addEventListener('click',e=>{const b=e.target.closest('[data-brand-choice]');if(!b||pending||saved)return;$('brand').value=b.dataset.brandChoice;$('brand').dispatchEvent(new Event('input',{bubbles:true}));$('reference').focus();});
 inputIds.forEach(id=>$(id).addEventListener('input',()=>{if(pending||saved)return;if(['brand','reference'].includes(id)){identity=null;rule=null;lookupVersion++;$('watchInfo').hidden=true;$('calibreChoices').hidden=true;setIntelligenceExpanded(false);$('teamNotes').textContent='';}renderReplicaFlags();const s=enforceSafety();if(s&&$('watchInfo').hidden)renderInfo();compare();if(!noteDirty)generate();autosave();if(['serial','clasp'].includes(id)&&identity){clearTimeout(serialTimer);serialTimer=setTimeout(()=>lookup().catch(e=>status(e.message,true)),400);}}));
-$('reference').addEventListener('change',showRolexLecPopup);
 $('omegaSeries').addEventListener('change',()=>{serialGuidance();});
 document.querySelectorAll('#conditions input').forEach(x=>x.addEventListener('change',()=>{enforceSafety();if(!$('watchInfo').hidden)renderCurrentPhotographs();updateWatchInformationButton();compare();generate();autosave();}));
 document.querySelectorAll('#componentChecks select').forEach(x=>x.addEventListener('change',autosave));
