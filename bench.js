@@ -5,6 +5,7 @@ import {matchingPhotographs,potentialPhotographs,mergeReferenceRules} from './ph
 import {renderPhotoGallery} from './photo-gallery.js?v=search01';
 import {setupPhotoSearch} from './photo-search.js?v=search01';
 import {performanceStats,resetCorrections,defaultWorkday,workdayBlocks} from './performance.js?v=finishclock01';
+import {rolexLecGuidance} from './rolex-lec.js?v=lec01';
 import {technologyReminder} from './movement-reminders.js?v=photos01';
 import {claspMatches,serialHints,needsResearch,replicaSignals} from './qol.js?v=photos01';
 import * as cloud from './cloud.js?v=replica01';
@@ -134,7 +135,14 @@ function serialGuidance(){
  $('serialGuidance').innerHTML=lines.map(x=>'<p>'+esc(x)+'</p>').join('');
  return lines.filter(x=>x.startsWith('ALERT:'));
 }
+function renderRolexLec(){
+ const guidance=rolexLecGuidance($('brand').value,$('reference').value);
+ const panel=$('rolexLec');
+ panel.hidden=!guidance;
+ panel.innerHTML=guidance?'<strong>'+esc(guidance.title)+'</strong><p>'+esc(guidance.text)+'</p><p>'+esc(guidance.check)+'</p><small>'+link(guidance.source,'LEC guidance source — Watchfinder')+'</small>':'';
+}
 function updateWatchInformationButton(){
+ renderRolexLec();
  const button=$('lookup'),brand=$('brand').value,reference=$('reference').value;
  const expanded=button.getAttribute('aria-expanded')==='true';
  let availability='',label='';
