@@ -1,0 +1,122 @@
+{
+  "reviewedAt": "2026-11-13",
+  "brand": "BREITLING",
+  "reference": "A13385",
+  "evidence": "Original SwissWatchExpo stock 73685 identifies exact case reference A13385, 43 mm steel Avenger, black dial and steel bracelet, and states the images show the actual sale watch. All 11 downloaded gallery images inspected in contact sheet; accepted views inspected separately at high resolution. Caseback reference is visible and agrees with the original listing. Dealer attributes calibre 13 and dates its specimen 2019; no opened movement or readable fitted calibre is shown, and no full production interval or base-calibre equivalence is established. No internal movement photograph, supplier equivalence, missing retail suffix or individual authenticity/originality is inferred. Images represent this single exterior variant only; neighbouring references and unproved suffixes do not inherit them. Packaging and warranty-card images excluded.",
+  "sources": [
+    {
+      "title": "SwissWatchExpo original stock 73685",
+      "url": "https://www.swisswatchexpo.com/watches/breitling-avenger-chronograph-43-black-dial-steel-mens-watch-a13385-card-73685/"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "breitling-a13385-73685-front-0",
+      "category": "front",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/9/18/breitling-avenger-chronograph-43-black-dial-steel-mens-watch-a13385-card-73685_fbe89.jpg",
+      "sha256": "57dc07e257850c41617da9208941596c6d7bfc923811904878cc17f97bb9e4ca"
+    },
+    {
+      "id": "breitling-a13385-73685-caseback-7",
+      "category": "caseback",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/9/18/breitling-avenger-chronograph-43-black-dial-steel-mens-watch-a13385-card-73685_a9fc4.jpg",
+      "sha256": "c681f5c6b761a66db3e2800f92efa0312687d301b35104ce313f00e3fc8f135d"
+    },
+    {
+      "id": "breitling-a13385-73685-braceletClasp-8",
+      "category": "braceletClasp",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/9/18/breitling-avenger-chronograph-43-black-dial-steel-mens-watch-a13385-card-73685_37d5c.jpg",
+      "sha256": "88ca1dd237de684d82f851a85e81a2a3fee8795097208f023bd191b1a8c0f4de"
+    },
+    {
+      "id": "breitling-a13385-73685-braceletClasp-6",
+      "category": "braceletClasp",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/9/18/breitling-avenger-chronograph-43-black-dial-steel-mens-watch-a13385-card-73685_92fce.jpg",
+      "sha256": "27946c9c03aa6d0a5b76442ef3dc68b2bb62cdf2f9236b838d884dd6730425c0"
+    }
+  ],
+  "unsupported": [
+    "movement"
+  ],
+  "inspectedGallery": [
+    {
+      "index": 0,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/9/18/breitling-avenger-chronograph-43-black-dial-steel-mens-watch-a13385-card-73685_fbe89.jpg",
+      "width": 2864,
+      "height": 2864,
+      "sha256": "57dc07e257850c41617da9208941596c6d7bfc923811904878cc17f97bb9e4ca"
+    },
+    {
+      "index": 1,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/9/18/breitling-avenger-chronograph-43-black-dial-steel-mens-watch-a13385-card-73685_a32b6.jpg",
+      "width": 2864,
+      "height": 2864,
+      "sha256": "57dc07e257850c41617da9208941596c6d7bfc923811904878cc17f97bb9e4ca"
+    },
+    {
+      "index": 2,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/9/18/breitling-avenger-chronograph-43-black-dial-steel-mens-watch-a13385-card-73685_1ebcf.jpg",
+      "width": 4294,
+      "height": 4294,
+      "sha256": "a34e3ac43af6084aa0b994b812bd1650cae939b4960eed0fc8df5a5c236f0d43"
+    },
+    {
+      "index": 3,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/9/18/breitling-avenger-chronograph-43-black-dial-steel-mens-watch-a13385-card-73685_16a9c.jpg",
+      "width": 5089,
+      "height": 5089,
+      "sha256": "e371a2b4c0103134356f8d70629be15bf287012900694247672c191dc1245999"
+    },
+    {
+      "index": 4,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/9/18/breitling-avenger-chronograph-43-black-dial-steel-mens-watch-a13385-card-73685_7409b.jpg",
+      "width": 4326,
+      "height": 4326,
+      "sha256": "cabb5bb686c90956e0040d9cb5a3d140c459e0503aad31ddaf1358fa33a99d2e"
+    },
+    {
+      "index": 5,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/9/18/breitling-avenger-chronograph-43-black-dial-steel-mens-watch-a13385-card-73685_1b74b.jpg",
+      "width": 2883,
+      "height": 2883,
+      "sha256": "b2641b30cd628d7be9852f0c27fc0921b7fbe8507116a4c980cdf6338ad674c9"
+    },
+    {
+      "index": 6,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/9/18/breitling-avenger-chronograph-43-black-dial-steel-mens-watch-a13385-card-73685_92fce.jpg",
+      "width": 1322,
+      "height": 1322,
+      "sha256": "27946c9c03aa6d0a5b76442ef3dc68b2bb62cdf2f9236b838d884dd6730425c0"
+    },
+    {
+      "index": 7,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/9/18/breitling-avenger-chronograph-43-black-dial-steel-mens-watch-a13385-card-73685_a9fc4.jpg",
+      "width": 2728,
+      "height": 2728,
+      "sha256": "c681f5c6b761a66db3e2800f92efa0312687d301b35104ce313f00e3fc8f135d"
+    },
+    {
+      "index": 8,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/9/18/breitling-avenger-chronograph-43-black-dial-steel-mens-watch-a13385-card-73685_37d5c.jpg",
+      "width": 3170,
+      "height": 3170,
+      "sha256": "88ca1dd237de684d82f851a85e81a2a3fee8795097208f023bd191b1a8c0f4de"
+    },
+    {
+      "index": 9,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/9/18/breitling-avenger-chronograph-43-black-dial-steel-mens-watch-a13385-card-73685_b8285.jpg",
+      "width": 3511,
+      "height": 3511,
+      "sha256": "16c44bda7b55b8c20dcaa8a62c5d5ec257a7a1a5412d91c30241e751cd4e5b56"
+    },
+    {
+      "index": 10,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/9/18/breitling-avenger-chronograph-43-black-dial-steel-mens-watch-a13385-card-73685_25801.jpg",
+      "width": 1555,
+      "height": 1555,
+      "sha256": "5b110627b5d7ed34b9fb8c9d577f9e78bc92d4cd7aa31f23dc141566e2f2b256"
+    }
+  ],
+  "periodAndCalibre": "Dealer attributes calibre 13 and dates its specimen 2019; no opened movement or readable fitted calibre is shown, and no full production interval or base-calibre equivalence is established.",
+  "matchingLimits": "Exact case key A13385, explicitly representative exterior variant only. No retail suffix or neighbouring case reference inferred."
+}

@@ -1757,3 +1757,8 @@ No photo catalogue or generated coverage changes at this checkpoint.
 ## 13 November 2026 — A17328 source review
 
 Prepared three verified exterior entries from original SwissWatchExpo stock 84149 (A17328101L1A1). All ten gallery images inspected; selected front, closed-back and clasp files separately inspected at high resolution. Green variant is representative only for base A17328. No movement image, supplier equivalence or neighbouring suffix inherited. See photograph-breitling-a17328-sources.json for hashes, evidence and limits. Generated coverage remains authoritative; the overall inventory remains incomplete. Release and live validation status is recorded in the release checkpoint.
+
+
+## 13 November 2026 — A17318 and A13385 exterior review
+
+Prepared seven exterior entries from SwissWatchExpo original stocks 84173 and 73685. All 23 downloaded gallery images inspected; selected front, closed-back, buckle/clasp and clasp-code views separately inspected at high resolution. Bare case keys are explicitly representative of the black-rubber A17318 and steel-bracelet A13385 specimens. Both movement categories remain empty. No retail suffix, neighbouring reference, production interval or base-calibre equivalence inferred. See the two photograph-breitling source manifests. Overall research remains incomplete; generated coverage is authoritative.

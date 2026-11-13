@@ -1,0 +1,123 @@
+{
+  "reviewedAt": "2026-11-13",
+  "brand": "BREITLING",
+  "reference": "A17318",
+  "evidence": "Original SwissWatchExpo stock 84173 identifies exact case reference A17318, 43 mm steel Avenger, black dial, black rubber strap and tang buckle, and states the images show the actual sale watch. All 12 downloaded gallery images inspected in contact sheet; accepted views inspected separately at high resolution. Caseback reference is visible and agrees with the original listing. Dealer specifies automatic self-winding only; fitted calibre/execution is not visually established. Production interval not established. No internal movement photograph, supplier equivalence, missing retail suffix or individual authenticity/originality is inferred. Images represent this single exterior variant only; neighbouring references and unproved suffixes do not inherit them. Packaging and warranty-card images excluded.",
+  "sources": [
+    {
+      "title": "SwissWatchExpo original stock 84173",
+      "url": "https://www.swisswatchexpo.com/watches/breitling-avenger-steel-black-dial-mens-watch-a17318-box-card-84173/"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "breitling-a17318-84173-front-0",
+      "category": "front",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/10/14/breitling-avenger-steel-black-dial-mens-watch-a17318-box-card-84173_e431e.jpg",
+      "sha256": "10da710b0ef4667d1faf1728daffe89188f421688c4b0875ad968c0f8b6b1abe"
+    },
+    {
+      "id": "breitling-a17318-84173-caseback-6",
+      "category": "caseback",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/10/14/breitling-avenger-steel-black-dial-mens-watch-a17318-box-card-84173_b2062.jpg",
+      "sha256": "e2095070031ddf271aff5f897332e8ee9b6062c42232285facf1e6ca4495f905"
+    },
+    {
+      "id": "breitling-a17318-84173-braceletClasp-7",
+      "category": "braceletClasp",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/10/14/breitling-avenger-steel-black-dial-mens-watch-a17318-box-card-84173_97d31.jpg",
+      "sha256": "d70f77b1cd781a631a02b034e4bc7cb6252331a7828bae7329728dfbe6b2eed6"
+    }
+  ],
+  "unsupported": [
+    "movement"
+  ],
+  "inspectedGallery": [
+    {
+      "index": 0,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/10/14/breitling-avenger-steel-black-dial-mens-watch-a17318-box-card-84173_e431e.jpg",
+      "width": 2831,
+      "height": 2831,
+      "sha256": "10da710b0ef4667d1faf1728daffe89188f421688c4b0875ad968c0f8b6b1abe"
+    },
+    {
+      "index": 1,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/10/14/breitling-avenger-steel-black-dial-mens-watch-a17318-box-card-84173_e2624.jpg",
+      "width": 2831,
+      "height": 2831,
+      "sha256": "10da710b0ef4667d1faf1728daffe89188f421688c4b0875ad968c0f8b6b1abe"
+    },
+    {
+      "index": 2,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/10/14/breitling-avenger-steel-black-dial-mens-watch-a17318-box-card-84173_39c00.jpg",
+      "width": 4415,
+      "height": 4415,
+      "sha256": "77291256d505f71b2f0aa31fdbc6cb3e2009e085d295b8faf39182431b89ecc3"
+    },
+    {
+      "index": 3,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/10/14/breitling-avenger-steel-black-dial-mens-watch-a17318-box-card-84173_cdc17.jpg",
+      "width": 5187,
+      "height": 5187,
+      "sha256": "96c84540e91a4e689b6dfd8f7972f9a5096c917338ca8aabfd3b6cd247ff331b"
+    },
+    {
+      "index": 4,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/10/14/breitling-avenger-steel-black-dial-mens-watch-a17318-box-card-84173_182ee.jpg",
+      "width": 4424,
+      "height": 4424,
+      "sha256": "225b4cf8cd3961415218fb168d8d65b7529492b1a75ac63c5d4d708119c579dc"
+    },
+    {
+      "index": 5,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/10/14/breitling-avenger-steel-black-dial-mens-watch-a17318-box-card-84173_5af63.jpg",
+      "width": 3042,
+      "height": 3042,
+      "sha256": "9ff934d68287ff64451ce41dd0b235283c1dd83b7630a3808df3e4796e234e94"
+    },
+    {
+      "index": 6,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/10/14/breitling-avenger-steel-black-dial-mens-watch-a17318-box-card-84173_b2062.jpg",
+      "width": 2327,
+      "height": 2326,
+      "sha256": "e2095070031ddf271aff5f897332e8ee9b6062c42232285facf1e6ca4495f905"
+    },
+    {
+      "index": 7,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/10/14/breitling-avenger-steel-black-dial-mens-watch-a17318-box-card-84173_97d31.jpg",
+      "width": 4213,
+      "height": 4213,
+      "sha256": "d70f77b1cd781a631a02b034e4bc7cb6252331a7828bae7329728dfbe6b2eed6"
+    },
+    {
+      "index": 8,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/10/14/breitling-avenger-steel-black-dial-mens-watch-a17318-box-card-84173_71337.jpg",
+      "width": 4116,
+      "height": 4116,
+      "sha256": "10a32229736b80994e86df829a7b9f35b897f04f531c6266b0869d5500c591f0"
+    },
+    {
+      "index": 9,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/10/14/breitling-avenger-steel-black-dial-mens-watch-a17318-box-card-84173_54e98.jpg",
+      "width": 4327,
+      "height": 4327,
+      "sha256": "cc31bfe60a2c5d68895c71764a8f4f1d817cf3f12a7b6cc42adbc352a49cbbcf"
+    },
+    {
+      "index": 10,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/10/14/breitling-avenger-steel-black-dial-mens-watch-a17318-box-card-84173_95b5e.jpg",
+      "width": 1555,
+      "height": 1555,
+      "sha256": "d49692df7a14ddf43de8b389d34ee1860ed628eb270c0a17f04639ec939da267"
+    },
+    {
+      "index": 11,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/10/14/breitling-avenger-steel-black-dial-mens-watch-a17318-box-card-84173_d564c.jpg",
+      "width": 1555,
+      "height": 1555,
+      "sha256": "eecc60fcc6644d37f227a609f3b894acd63f845feeaa12f8c07fa83f86297fa0"
+    }
+  ],
+  "periodAndCalibre": "Dealer specifies automatic self-winding only; fitted calibre/execution is not visually established. Production interval not established.",
+  "matchingLimits": "Exact case key A17318, explicitly representative exterior variant only. No retail suffix or neighbouring case reference inferred."
+}
