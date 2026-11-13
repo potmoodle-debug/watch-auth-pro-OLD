@@ -1,0 +1,111 @@
+{
+  "reviewedAt": "2026-11-13",
+  "brand": "BREITLING",
+  "reference": "A17328",
+  "fullSpecimenReference": "A17328101L1A1",
+  "evidence": "Original SwissWatchExpo stock 84149 explicitly identifies full A17328101L1A1, 42 mm steel Avenger with green dial and steel bracelet, and states its images depict the actual sale watch. All ten downloaded gallery images inspected in a contact sheet; selected front, back and clasp images also inspected separately at high resolution. The closed back visibly reads A17328 and 300M. The green dial has baton markers, date at 3 and a red arrow-tipped seconds hand. Clasp bears Breitling wordmark and B logo, with protective film visible. No opened movement or internal calibre stamp is shown. No fitted-movement execution, supplier equivalence, production interval, individual originality or current pressure resistance is inferred. This is one representative green-dial steel-bracelet execution; other suffixes do not inherit it. Packaging/card images excluded.",
+  "sources": [
+    {
+      "title": "SwissWatchExpo original stock 84149",
+      "url": "https://www.swisswatchexpo.com/watches/breitling-avenger-42-steel-green-dial-mens-watch-a17328-unworn-84149/"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "breitling-a17328-84149-front",
+      "category": "front",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/9/17/breitling-avenger-42-steel-green-dial-mens-watch-a17328-unworn-84149_e062d.jpg",
+      "sha256": "a922b0626cd03679745c6da65fb5a4913058118eb081db95a2c653b651f170a4"
+    },
+    {
+      "id": "breitling-a17328-84149-caseback",
+      "category": "caseback",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/9/17/breitling-avenger-42-steel-green-dial-mens-watch-a17328-unworn-84149_ae4b3.jpg",
+      "sha256": "d5fe4e66595a8a74ee11fab059c5257e123659661c770506b3de7e4aa9d65316"
+    },
+    {
+      "id": "breitling-a17328-84149-braceletClasp",
+      "category": "braceletClasp",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/9/17/breitling-avenger-42-steel-green-dial-mens-watch-a17328-unworn-84149_bed19.jpg",
+      "sha256": "52c5229191517fa8ba7b6abf104c21f309aba3fdd4ad635280d806ca9a2157c3"
+    }
+  ],
+  "unsupported": [
+    "movement"
+  ],
+  "inspectedGallery": [
+    {
+      "index": 0,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/9/17/breitling-avenger-42-steel-green-dial-mens-watch-a17328-unworn-84149_e062d.jpg",
+      "width": 2819,
+      "height": 2819,
+      "sha256": "a922b0626cd03679745c6da65fb5a4913058118eb081db95a2c653b651f170a4"
+    },
+    {
+      "index": 1,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/9/17/breitling-avenger-42-steel-green-dial-mens-watch-a17328-unworn-84149_4617a.jpg",
+      "width": 2819,
+      "height": 2819,
+      "sha256": "a922b0626cd03679745c6da65fb5a4913058118eb081db95a2c653b651f170a4"
+    },
+    {
+      "index": 2,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/9/17/breitling-avenger-42-steel-green-dial-mens-watch-a17328-unworn-84149_1872a.jpg",
+      "width": 4753,
+      "height": 4753,
+      "sha256": "d321adf8cdf2f56d1ba89dbf25c9593f0e496f1a7bed1d28c873f4b052c4b8c5"
+    },
+    {
+      "index": 3,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/9/17/breitling-avenger-42-steel-green-dial-mens-watch-a17328-unworn-84149_5df5b.jpg",
+      "width": 4508,
+      "height": 4508,
+      "sha256": "b1b705f067dc5d52a8e41515e9aa59e5458cf386233b2a5d98d559ebb2e35af4"
+    },
+    {
+      "index": 4,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/9/17/breitling-avenger-42-steel-green-dial-mens-watch-a17328-unworn-84149_24614.jpg",
+      "width": 4406,
+      "height": 4406,
+      "sha256": "767a1dac997fac8c7b539339433493b06ed4bc3a7b50f4ab8b57a0fb184371ab"
+    },
+    {
+      "index": 5,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/9/17/breitling-avenger-42-steel-green-dial-mens-watch-a17328-unworn-84149_5e8cb.jpg",
+      "width": 2945,
+      "height": 2945,
+      "sha256": "2bea79f74796581f5ef8b393c13576caa581554aeef85cb6789b385c01eb7082"
+    },
+    {
+      "index": 6,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/9/17/breitling-avenger-42-steel-green-dial-mens-watch-a17328-unworn-84149_ae4b3.jpg",
+      "width": 1878,
+      "height": 1878,
+      "sha256": "d5fe4e66595a8a74ee11fab059c5257e123659661c770506b3de7e4aa9d65316"
+    },
+    {
+      "index": 7,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/9/17/breitling-avenger-42-steel-green-dial-mens-watch-a17328-unworn-84149_bed19.jpg",
+      "width": 4674,
+      "height": 4674,
+      "sha256": "52c5229191517fa8ba7b6abf104c21f309aba3fdd4ad635280d806ca9a2157c3"
+    },
+    {
+      "index": 8,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/9/17/breitling-avenger-42-steel-green-dial-mens-watch-a17328-unworn-84149_52543.jpg",
+      "width": 1555,
+      "height": 1555,
+      "sha256": "634521cef1abb4b3f7eb51628bf6a89fa79b09efea1803d9294e9483bb3a5b0c"
+    },
+    {
+      "index": 9,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/9/17/breitling-avenger-42-steel-green-dial-mens-watch-a17328-unworn-84149_cbed5.jpg",
+      "width": 1555,
+      "height": 1555,
+      "sha256": "135904805db3fb081dff3ebb442900ee22daa0fec7aa2734e79dba399ecf2677"
+    }
+  ],
+  "period": "Contemporary specimen; complete production interval not established",
+  "calibre": "No fitted calibre visually established; closed back retained",
+  "matchingLimits": "Exact A17328101L1A1 plus representative base A17328 only; no neighbouring reference or unproved suffix inheritance"
+}
