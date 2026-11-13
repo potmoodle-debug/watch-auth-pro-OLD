@@ -40552,6 +40552,111 @@
         },
         "imageSha256": "05ee158d2a09a0f46b52da3678fa6d5f84f72d4b084964fdce96f77b0023bb1e"
       }
+    },
+    {
+      "id": "breitling-a17328-84149-front",
+      "brand": "BREITLING",
+      "references": [
+        "A17328",
+        "A17328101L1A1"
+      ],
+      "representativeFor": [
+        "A17328"
+      ],
+      "variant": "SwissWatchExpo 84149 — green dial, steel bracelet; A17328101L1A1",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "Avenger A17328 — front",
+      "caption": "Green-dial A17328101L1A1 specimen: baton markers, date at 3 and red arrow-tipped seconds hand. Representative green variant for bare A17328 only.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/9/17/breitling-avenger-42-steel-green-dial-mens-watch-a17328-unworn-84149_e062d.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/breitling-avenger-42-steel-green-dial-mens-watch-a17328-unworn-84149/",
+      "credit": "SwissWatchExpo — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original dealer page and actual image pixels inspected 13 November 2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-13",
+        "loadedAt": "2026-11-13",
+        "evidence": "Original SwissWatchExpo stock 84149 explicitly identifies full A17328101L1A1, 42 mm steel Avenger with green dial and steel bracelet, and states its images depict the actual sale watch. All ten downloaded gallery images inspected in a contact sheet; selected front, back and clasp images also inspected separately at high resolution. The closed back visibly reads A17328 and 300M. The green dial has baton markers, date at 3 and a red arrow-tipped seconds hand. Clasp bears Breitling wordmark and B logo, with protective film visible. No opened movement or internal calibre stamp is shown. No fitted-movement execution, supplier equivalence, production interval, individual originality or current pressure resistance is inferred. This is one representative green-dial steel-bracelet execution; other suffixes do not inherit it. Packaging/card images excluded.",
+        "imageSha256": "a922b0626cd03679745c6da65fb5a4913058118eb081db95a2c653b651f170a4",
+        "imageDimensions": {
+          "width": 2819,
+          "height": 2819
+        }
+      }
+    },
+    {
+      "id": "breitling-a17328-84149-caseback",
+      "brand": "BREITLING",
+      "references": [
+        "A17328",
+        "A17328101L1A1"
+      ],
+      "representativeFor": [
+        "A17328"
+      ],
+      "variant": "SwissWatchExpo 84149 — green dial, steel bracelet; A17328101L1A1",
+      "category": "caseback",
+      "depictsMovement": false,
+      "title": "Avenger A17328 — caseback",
+      "caption": "Closed steel back with visible A17328 and 300M wording. No movement is exposed; markings do not establish present water resistance.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/9/17/breitling-avenger-42-steel-green-dial-mens-watch-a17328-unworn-84149_ae4b3.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/breitling-avenger-42-steel-green-dial-mens-watch-a17328-unworn-84149/",
+      "credit": "SwissWatchExpo — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original dealer page and actual image pixels inspected 13 November 2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-13",
+        "loadedAt": "2026-11-13",
+        "evidence": "Original SwissWatchExpo stock 84149 explicitly identifies full A17328101L1A1, 42 mm steel Avenger with green dial and steel bracelet, and states its images depict the actual sale watch. All ten downloaded gallery images inspected in a contact sheet; selected front, back and clasp images also inspected separately at high resolution. The closed back visibly reads A17328 and 300M. The green dial has baton markers, date at 3 and a red arrow-tipped seconds hand. Clasp bears Breitling wordmark and B logo, with protective film visible. No opened movement or internal calibre stamp is shown. No fitted-movement execution, supplier equivalence, production interval, individual originality or current pressure resistance is inferred. This is one representative green-dial steel-bracelet execution; other suffixes do not inherit it. Packaging/card images excluded.",
+        "imageSha256": "d5fe4e66595a8a74ee11fab059c5257e123659661c770506b3de7e4aa9d65316",
+        "imageDimensions": {
+          "width": 1878,
+          "height": 1878
+        }
+      }
+    },
+    {
+      "id": "breitling-a17328-84149-braceletClasp",
+      "brand": "BREITLING",
+      "references": [
+        "A17328",
+        "A17328101L1A1"
+      ],
+      "representativeFor": [
+        "A17328"
+      ],
+      "variant": "SwissWatchExpo 84149 — green dial, steel bracelet; A17328101L1A1",
+      "category": "braceletClasp",
+      "depictsMovement": false,
+      "title": "Avenger A17328 — braceletClasp",
+      "caption": "Fitted steel bracelet and closed Breitling-signed clasp, with protective film. This rear view also shows the closed caseback; no movement is visible.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/9/17/breitling-avenger-42-steel-green-dial-mens-watch-a17328-unworn-84149_bed19.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/breitling-avenger-42-steel-green-dial-mens-watch-a17328-unworn-84149/",
+      "credit": "SwissWatchExpo — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original dealer page and actual image pixels inspected 13 November 2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-13",
+        "loadedAt": "2026-11-13",
+        "evidence": "Original SwissWatchExpo stock 84149 explicitly identifies full A17328101L1A1, 42 mm steel Avenger with green dial and steel bracelet, and states its images depict the actual sale watch. All ten downloaded gallery images inspected in a contact sheet; selected front, back and clasp images also inspected separately at high resolution. The closed back visibly reads A17328 and 300M. The green dial has baton markers, date at 3 and a red arrow-tipped seconds hand. Clasp bears Breitling wordmark and B logo, with protective film visible. No opened movement or internal calibre stamp is shown. No fitted-movement execution, supplier equivalence, production interval, individual originality or current pressure resistance is inferred. This is one representative green-dial steel-bracelet execution; other suffixes do not inherit it. Packaging/card images excluded.",
+        "imageSha256": "52c5229191517fa8ba7b6abf104c21f309aba3fdd4ad635280d806ca9a2157c3",
+        "imageDimensions": {
+          "width": 4674,
+          "height": 4674
+        }
+      }
     }
   ]
 }

@@ -1752,3 +1752,8 @@ PR102verified: OLDmain96278c5cb72751f3bcc150b610d1d204d462e7d0 / testedtree1c6f9
   - https://www.tickingtimehomme.com/shop/2010s-tudor-prince-date-day-tud-6214-m02-002
 
 No photo catalogue or generated coverage changes at this checkpoint.
+
+
+## 13 November 2026 — A17328 source review
+
+Prepared three verified exterior entries from original SwissWatchExpo stock 84149 (A17328101L1A1). All ten gallery images inspected; selected front, closed-back and clasp files separately inspected at high resolution. Green variant is representative only for base A17328. No movement image, supplier equivalence or neighbouring suffix inherited. See photograph-breitling-a17328-sources.json for hashes, evidence and limits. Generated coverage remains authoritative; the overall inventory remains incomplete. Release and live validation status is recorded in the release checkpoint.
