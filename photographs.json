@@ -93,7 +93,30 @@
         "imageDimensions": [
           1451,
           2160
-        ]
+        ],
+        "recheck": {
+          "reviewedAt": "2026-11-16",
+          "contactInspected": true,
+          "nativeInspected": false,
+          "evidence": "16 November2026: Actual downloaded pixels contact-inspected; no promotion based on catalogue appearance alone. Original-source direct requests and current outcomes recorded. Manufacturer/dealer catalogue identity does not establish actual-photograph provenance; existing source/variant limits remain in force. ",
+          "access": [
+            {
+              "id": "legacy-002",
+              "kind": "source",
+              "url": "https://www.rolex.com/en-gb/watches/cosmograph-daytona/m126505-0001",
+              "error": "HTTP Error 403: Forbidden"
+            },
+            {
+              "id": "legacy-002",
+              "kind": "image",
+              "url": "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit%2Cw_1920/v1/a677b2c664f6/catalogue/2026/upright-c/m126505-0001",
+              "sha256": "cf441af8b13098287dccf44630ad10c823133216a0ee41a1ecf5146e8419d6c0",
+              "bytes": 352004,
+              "width": 1451,
+              "height": 2160
+            }
+          ]
+        }
       }
     },
     {
@@ -113,8 +136,8 @@
       "mediaKind": "unverified",
       "origin": "intelligence.json",
       "review": {
-        "status": "pending",
-        "reason": "Inspected the 1000x811 credited Rolex/Ulysse Frechelin 4131 movement image and the 2024 Daytona newsroom page. The source concerns white-gold 2024 mother-of-pearl models; the 126505 product page confirms calibre 4131 but does not independently prove this photographed rotor/finishing execution for the Everose case reference. Withheld pending execution evidence.",
+        "status": "rejected",
+        "reason": "Reject this association with case reference 126505: the original 2024 Rolex newsroom page describes two white-gold, diamond-bezel mother-of-pearl Daytona variants. It credits its loose 4131 image to Rolex/Ulysse Frechelin but does not document that photographed execution in Everose 126505. Shared calibre number alone cannot establish exact-case execution equivalence. Original page re-read through web connector on 16 November; current direct image request returned403, so no new pixel inspection is claimed. Earlier recorded pixel review remains preserved. Rejection concerns this stored reference association, not the value of the manufacturer image for properly sourced references.",
         "accessCheckedAt": "2026-10-08T15:36:49.743742+00:00",
         "access": [
           {
@@ -139,7 +162,27 @@
         "imageDimensions": [
           1000,
           811
-        ]
+        ],
+        "recheck": {
+          "reviewedAt": "2026-11-16",
+          "contactInspected": false,
+          "nativeInspected": false,
+          "evidence": "Reject this association with case reference 126505: the original 2024 Rolex newsroom page describes two white-gold, diamond-bezel mother-of-pearl Daytona variants. It credits its loose 4131 image to Rolex/Ulysse Frechelin but does not document that photographed execution in Everose 126505. Shared calibre number alone cannot establish exact-case execution equivalence. Original page re-read through web connector on 16 November; current direct image request returned403, so no new pixel inspection is claimed. Earlier recorded pixel review remains preserved. Rejection concerns this stored reference association, not the value of the manufacturer image for properly sourced references.",
+          "access": [
+            {
+              "id": "legacy-003",
+              "kind": "source",
+              "url": "https://newsroom.rolex.com/watches/new-watches-2024/cosmograph-daytona",
+              "error": "HTTP Error 403: Forbidden"
+            },
+            {
+              "id": "legacy-003",
+              "kind": "image",
+              "url": "https://newsroom-content.rolex.com/-/media/project/rolex/newsroom/rolex/rolex-newsroom-int/2024-04/cosmograph-daytona/gallery/newsroom-joyeuse-movt4131_2301dh_001.jpg?imwidth=1600",
+              "error": "HTTP Error 403: Forbidden"
+            }
+          ]
+        }
       }
     },
     {
@@ -189,7 +232,30 @@
         "imageDimensions": [
           1500,
           1500
-        ]
+        ],
+        "recheck": {
+          "reviewedAt": "2026-11-16",
+          "contactInspected": true,
+          "nativeInspected": false,
+          "evidence": "16 November2026: Actual downloaded pixels contact-inspected; no promotion based on catalogue appearance alone. Original-source direct requests and current outcomes recorded. Manufacturer/dealer catalogue identity does not establish actual-photograph provenance; existing source/variant limits remain in force. ",
+          "access": [
+            {
+              "id": "legacy-004",
+              "kind": "source",
+              "url": "https://www.rolex.com/en-gb/watches/cosmograph-daytona/m126505-0001",
+              "error": "HTTP Error 403: Forbidden"
+            },
+            {
+              "id": "legacy-004",
+              "kind": "image",
+              "url": "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7/c_limit%2Cw_1920/v1/a677b2c664f6/catalogue/2026/raw-dial-constant-size-with-shadow/m126505-0001",
+              "sha256": "370fc210ed703f5c5f4a5f98a69985e748e54276d5e2ba040b85920ac0c0cbd5",
+              "bytes": 432063,
+              "width": 1500,
+              "height": 1500
+            }
+          ]
+        }
       }
     },
     {
@@ -239,7 +305,30 @@
         "imageDimensions": [
           900,
           1200
-        ]
+        ],
+        "recheck": {
+          "reviewedAt": "2026-11-16",
+          "contactInspected": true,
+          "nativeInspected": false,
+          "evidence": "16 November2026: Actual downloaded pixels contact-inspected; no promotion based on catalogue appearance alone. Original-source direct requests and current outcomes recorded. Manufacturer/dealer catalogue identity does not establish actual-photograph provenance; existing source/variant limits remain in force. ",
+          "access": [
+            {
+              "id": "legacy-005",
+              "kind": "source",
+              "url": "https://www.tudorwatch.com/en/watches/pelagos/m25600tn-0001",
+              "error": "HTTP Error 403: Forbidden"
+            },
+            {
+              "id": "legacy-005",
+              "kind": "image",
+              "url": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-watch/c_limit%2Cw_3840/v1/catalogue/0yi5ee8b69yh3/upright-cb-with-drop-shadow/tudor-m25600tn-0001",
+              "sha256": "029f374c5973e0162a9bcd61101967d6d6723967b413b42c551bec596dae594f",
+              "bytes": 305163,
+              "width": 900,
+              "height": 1200
+            }
+          ]
+        }
       }
     },
     {
@@ -289,7 +378,30 @@
         "imageDimensions": [
           900,
           1200
-        ]
+        ],
+        "recheck": {
+          "reviewedAt": "2026-11-16",
+          "contactInspected": true,
+          "nativeInspected": false,
+          "evidence": "16 November2026: Actual downloaded pixels contact-inspected; no promotion based on catalogue appearance alone. Original-source direct requests and current outcomes recorded. Manufacturer/dealer catalogue identity does not establish actual-photograph provenance; existing source/variant limits remain in force. ",
+          "access": [
+            {
+              "id": "legacy-006",
+              "kind": "source",
+              "url": "https://www.tudorwatch.com/en/watches/pelagos/m25600tb-0001",
+              "error": "HTTP Error 403: Forbidden"
+            },
+            {
+              "id": "legacy-006",
+              "kind": "image",
+              "url": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-watch/c_limit%2Cw_3840/v1/catalogue/0yi5ee8b69yh3/upright-cb-with-drop-shadow/tudor-m25600tb-0001",
+              "sha256": "d9e373492ae4701d12e98aeee9b060d6ff4e27a17fb1aa94f0261b6ff4638235",
+              "bytes": 262030,
+              "width": 900,
+              "height": 1200
+            }
+          ]
+        }
       }
     },
     {
@@ -339,7 +451,30 @@
         "imageDimensions": [
           900,
           1200
-        ]
+        ],
+        "recheck": {
+          "reviewedAt": "2026-11-16",
+          "contactInspected": true,
+          "nativeInspected": false,
+          "evidence": "16 November2026: Actual downloaded pixels contact-inspected; no promotion based on catalogue appearance alone. Original-source direct requests and current outcomes recorded. Manufacturer/dealer catalogue identity does not establish actual-photograph provenance; existing source/variant limits remain in force. ",
+          "access": [
+            {
+              "id": "legacy-007",
+              "kind": "source",
+              "url": "https://www.tudorwatch.com/en/watches/black-bay-pro/m79470-0001",
+              "error": "HTTP Error 403: Forbidden"
+            },
+            {
+              "id": "legacy-007",
+              "kind": "image",
+              "url": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-watch/c_limit%2Cw_3840/v1/catalogue/0yi5ee8b69yh3/upright-cb-with-drop-shadow/tudor-m79470-0001",
+              "sha256": "8bcff2d3d867555d3dde2cc7151a8bc7f493f8a06a990a3929194f54522828d6",
+              "bytes": 248455,
+              "width": 900,
+              "height": 1200
+            }
+          ]
+        }
       }
     },
     {
@@ -389,7 +524,30 @@
         "imageDimensions": [
           900,
           1200
-        ]
+        ],
+        "recheck": {
+          "reviewedAt": "2026-11-16",
+          "contactInspected": true,
+          "nativeInspected": false,
+          "evidence": "16 November2026: Actual downloaded pixels contact-inspected; no promotion based on catalogue appearance alone. Original-source direct requests and current outcomes recorded. Manufacturer/dealer catalogue identity does not establish actual-photograph provenance; existing source/variant limits remain in force. ",
+          "access": [
+            {
+              "id": "legacy-008",
+              "kind": "source",
+              "url": "https://www.tudorwatch.com/en/watches/black-bay-54/m79000n-0001",
+              "error": "HTTP Error 403: Forbidden"
+            },
+            {
+              "id": "legacy-008",
+              "kind": "image",
+              "url": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-watch/c_limit%2Cw_3840/v1/catalogue/0yi5ee8b69yh3/upright-cb-with-drop-shadow/tudor-m79000n-0001",
+              "sha256": "f8a384efa98618e3d47a91cda216ab5220b134418b283ab71c6225e1faac2558",
+              "bytes": 225015,
+              "width": 900,
+              "height": 1200
+            }
+          ]
+        }
       }
     },
     {
@@ -439,7 +597,30 @@
         "imageDimensions": [
           900,
           1200
-        ]
+        ],
+        "recheck": {
+          "reviewedAt": "2026-11-16",
+          "contactInspected": true,
+          "nativeInspected": false,
+          "evidence": "16 November2026: Actual downloaded pixels contact-inspected; no promotion based on catalogue appearance alone. Original-source direct requests and current outcomes recorded. Manufacturer/dealer catalogue identity does not establish actual-photograph provenance; existing source/variant limits remain in force. ",
+          "access": [
+            {
+              "id": "legacy-009",
+              "kind": "source",
+              "url": "https://www.tudorwatch.com/en/watches/black-bay-58/m7939g1a0nru-0001",
+              "error": "HTTP Error 403: Forbidden"
+            },
+            {
+              "id": "legacy-009",
+              "kind": "image",
+              "url": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-watch/c_limit%2Cw_3840/v1/catalogue/0yi5ee8b69yh3/upright-cb-with-drop-shadow/tudor-m7939g1a0nru-0001",
+              "sha256": "27418bae735da6677b23c8fa7fba4866c9e0f08a015ba314e3193b067a39c7b2",
+              "bytes": 231522,
+              "width": 900,
+              "height": 1200
+            }
+          ]
+        }
       }
     },
     {
@@ -489,7 +670,30 @@
         "imageDimensions": [
           900,
           1200
-        ]
+        ],
+        "recheck": {
+          "reviewedAt": "2026-11-16",
+          "contactInspected": true,
+          "nativeInspected": false,
+          "evidence": "16 November2026: Actual downloaded pixels contact-inspected; no promotion based on catalogue appearance alone. Original-source direct requests and current outcomes recorded. Manufacturer/dealer catalogue identity does not establish actual-photograph provenance; existing source/variant limits remain in force. ",
+          "access": [
+            {
+              "id": "legacy-010",
+              "kind": "source",
+              "url": "https://www.tudorwatch.com/en/watches/black-bay-chrono/m79360n-0013",
+              "error": "HTTP Error 403: Forbidden"
+            },
+            {
+              "id": "legacy-010",
+              "kind": "image",
+              "url": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-watch/c_limit%2Cw_3840/v1/catalogue/0yi5ee8b69yh3/upright-cb-with-drop-shadow/tudor-m79360n-0013",
+              "sha256": "f031568d7b357d75e7d15b1d86750a0caeceda1b4c56373866e59c5e7bc2d375",
+              "bytes": 251185,
+              "width": 900,
+              "height": 1200
+            }
+          ]
+        }
       }
     },
     {
@@ -539,7 +743,30 @@
         "imageDimensions": [
           900,
           1200
-        ]
+        ],
+        "recheck": {
+          "reviewedAt": "2026-11-16",
+          "contactInspected": true,
+          "nativeInspected": false,
+          "evidence": "16 November2026: Actual downloaded pixels contact-inspected; no promotion based on catalogue appearance alone. Original-source direct requests and current outcomes recorded. Manufacturer/dealer catalogue identity does not establish actual-photograph provenance; existing source/variant limits remain in force. ",
+          "access": [
+            {
+              "id": "legacy-011",
+              "kind": "source",
+              "url": "https://www.tudorwatch.com/en/watches/ranger/m79950-0001",
+              "error": "HTTP Error 403: Forbidden"
+            },
+            {
+              "id": "legacy-011",
+              "kind": "image",
+              "url": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-watch/c_limit%2Cw_3840/v1/catalogue/0yi5ee8b69yh3/upright-cb-with-drop-shadow/tudor-m79950-0001",
+              "sha256": "51213456646be66177ba399e34da56606a36066b02be4835bae962331b9e1ec3",
+              "bytes": 264348,
+              "width": 900,
+              "height": 1200
+            }
+          ]
+        }
       }
     },
     {
@@ -589,7 +816,30 @@
         "imageDimensions": [
           900,
           1200
-        ]
+        ],
+        "recheck": {
+          "reviewedAt": "2026-11-16",
+          "contactInspected": true,
+          "nativeInspected": false,
+          "evidence": "16 November2026: Actual downloaded pixels contact-inspected; no promotion based on catalogue appearance alone. Original-source direct requests and current outcomes recorded. Manufacturer/dealer catalogue identity does not establish actual-photograph provenance; existing source/variant limits remain in force. ",
+          "access": [
+            {
+              "id": "legacy-012",
+              "kind": "source",
+              "url": "https://www.tudorwatch.com/en/watches/pelagos/m25407n-0001",
+              "error": "HTTP Error 403: Forbidden"
+            },
+            {
+              "id": "legacy-012",
+              "kind": "image",
+              "url": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-watch/c_limit%2Cw_3840/v1/catalogue/0yi5ee8b69yh3/upright-cb-with-drop-shadow/tudor-m25407n-0001",
+              "sha256": "6156a416dea6c3193de5f0e67e70e9b6eb0f1b44f054d9855ac38992b89e9f26",
+              "bytes": 254254,
+              "width": 900,
+              "height": 1200
+            }
+          ]
+        }
       }
     },
     {
@@ -639,7 +889,30 @@
         "imageDimensions": [
           1451,
           2160
-        ]
+        ],
+        "recheck": {
+          "reviewedAt": "2026-11-16",
+          "contactInspected": true,
+          "nativeInspected": false,
+          "evidence": "16 November2026: Actual downloaded pixels contact-inspected; no promotion based on catalogue appearance alone. Original-source direct requests and current outcomes recorded. Manufacturer/dealer catalogue identity does not establish actual-photograph provenance; existing source/variant limits remain in force. ",
+          "access": [
+            {
+              "id": "legacy-013",
+              "kind": "source",
+              "url": "https://www.rolex.com/watches/submariner/m126610ln-0001",
+              "error": "HTTP Error 403: Forbidden"
+            },
+            {
+              "id": "legacy-013",
+              "kind": "image",
+              "url": "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit%2Cw_1920/v1/a677b2c664f6/catalogue/2026/upright-c/m126610ln-0001",
+              "sha256": "2acd92db763855db0a2184abe2cd2560cd9dc204b212f5e5afe3cb36c1485be2",
+              "bytes": 314965,
+              "width": 1451,
+              "height": 2160
+            }
+          ]
+        }
       }
     },
     {
@@ -689,7 +962,30 @@
         "imageDimensions": [
           1451,
           2160
-        ]
+        ],
+        "recheck": {
+          "reviewedAt": "2026-11-16",
+          "contactInspected": true,
+          "nativeInspected": false,
+          "evidence": "16 November2026: Actual downloaded pixels contact-inspected; no promotion based on catalogue appearance alone. Original-source direct requests and current outcomes recorded. Manufacturer/dealer catalogue identity does not establish actual-photograph provenance; existing source/variant limits remain in force. ",
+          "access": [
+            {
+              "id": "legacy-014",
+              "kind": "source",
+              "url": "https://www.rolex.com/watches/gmt-master-ii/m126710blnr-0003",
+              "error": "HTTP Error 403: Forbidden"
+            },
+            {
+              "id": "legacy-014",
+              "kind": "image",
+              "url": "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit%2Cw_1920/v1/a677b2c664f6/catalogue/2026/upright-c/m126710blnr-0003",
+              "sha256": "d12fdc92aeb09b2ee38577fd5d8a5062e58a300accbce4e740725230db154ac9",
+              "bytes": 325945,
+              "width": 1451,
+              "height": 2160
+            }
+          ]
+        }
       }
     },
     {
@@ -739,7 +1035,30 @@
         "imageDimensions": [
           1451,
           2160
-        ]
+        ],
+        "recheck": {
+          "reviewedAt": "2026-11-16",
+          "contactInspected": true,
+          "nativeInspected": false,
+          "evidence": "16 November2026: Actual downloaded pixels contact-inspected; no promotion based on catalogue appearance alone. Original-source direct requests and current outcomes recorded. Manufacturer/dealer catalogue identity does not establish actual-photograph provenance; existing source/variant limits remain in force. ",
+          "access": [
+            {
+              "id": "legacy-015",
+              "kind": "source",
+              "url": "https://www.rolex.com/watches/explorer/m124270-0001",
+              "error": "HTTP Error 403: Forbidden"
+            },
+            {
+              "id": "legacy-015",
+              "kind": "image",
+              "url": "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit%2Cw_1920/v1/a677b2c664f6/catalogue/2026/upright-c/m124270-0001",
+              "sha256": "ed2390e8507ce4e1185b01dc0766b935a227e443e534b7043799350d91b49250",
+              "bytes": 242232,
+              "width": 1451,
+              "height": 2160
+            }
+          ]
+        }
       }
     },
     {
@@ -789,7 +1108,30 @@
         "imageDimensions": [
           1451,
           2160
-        ]
+        ],
+        "recheck": {
+          "reviewedAt": "2026-11-16",
+          "contactInspected": true,
+          "nativeInspected": false,
+          "evidence": "16 November2026: Actual downloaded pixels contact-inspected; no promotion based on catalogue appearance alone. Original-source direct requests and current outcomes recorded. Manufacturer/dealer catalogue identity does not establish actual-photograph provenance; existing source/variant limits remain in force. ",
+          "access": [
+            {
+              "id": "legacy-016",
+              "kind": "source",
+              "url": "https://www.rolex.com/en-gb/watches/datejust/m126300-0007",
+              "error": "HTTP Error 403: Forbidden"
+            },
+            {
+              "id": "legacy-016",
+              "kind": "image",
+              "url": "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit%2Cw_1920/v1/a677b2c664f6/catalogue/2026/upright-c/m126300-0007",
+              "sha256": "b8f49417557df538bf29537bc7ee1d5b61418a308fec641d9ca1e9ae4dce22f3",
+              "bytes": 306201,
+              "width": 1451,
+              "height": 2160
+            }
+          ]
+        }
       }
     },
     {
@@ -823,7 +1165,31 @@
             "url": "https://www.breitling.com/api/image-proxy/www-breitling.eu.saleor.cloud/media/thumbnails/products/x83310d41b1s1-soldier_049e2d75_thumbnail_1024.webp?format=auto&imwidth=2040",
             "error": "HTTP Error 403: Forbidden"
           }
-        ]
+        ],
+        "recheck": {
+          "reviewedAt": "2026-11-16",
+          "contactInspected": true,
+          "nativeInspected": true,
+          "evidence": "16 November2026: Actual downloaded pixels contact-inspected; no promotion based on catalogue appearance alone. Original Breitling exact product page and image loaded. Page identifies the full retail reference and catalogue asset, but does not establish actual-photograph provenance or independently bind its execution to every shortened stored key. ",
+          "access": [
+            {
+              "id": "legacy-017",
+              "kind": "source",
+              "url": "https://www.breitling.com/gb-en/watches/professional/endurance-pro-38mm/X83310D41B1S1/",
+              "sha256": "b168799848f15afce46221e5e57fec2f7a71570b1017f4c4a457964eb9446226",
+              "bytes": 751676
+            },
+            {
+              "id": "legacy-017",
+              "kind": "image",
+              "url": "https://www.breitling.com/api/image-proxy/www-breitling.eu.saleor.cloud/media/thumbnails/products/x83310d41b1s1-soldier_049e2d75_thumbnail_1024.webp?format=auto&imwidth=2040",
+              "sha256": "4618edd2a3741eab34eff5a3375c2c6c4d29fe713aff39873d51359142435ace",
+              "bytes": 49296,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
       }
     },
     {
@@ -857,7 +1223,31 @@
             "url": "https://www.breitling.com/api/image-proxy/www-breitling.eu.saleor.cloud/media/thumbnails/products/eb70101a1o1e1-soldier_c302df32_thumbnail_1024.webp?format=auto&imwidth=2040",
             "error": "HTTP Error 403: Forbidden"
           }
-        ]
+        ],
+        "recheck": {
+          "reviewedAt": "2026-11-16",
+          "contactInspected": true,
+          "nativeInspected": false,
+          "evidence": "16 November2026: Actual downloaded pixels contact-inspected; no promotion based on catalogue appearance alone. Original Breitling exact product page and image loaded. Page identifies the full retail reference and catalogue asset, but does not establish actual-photograph provenance or independently bind its execution to every shortened stored key. ",
+          "access": [
+            {
+              "id": "legacy-018",
+              "kind": "source",
+              "url": "https://www.breitling.com/gb-en/watches/professional/aerospace-b70/EB70101A1O1E1/",
+              "sha256": "28bd0a212fe0e08ed88b58ae7a5db6a42996daaf6609c1c835dfc1c73b59fb8c",
+              "bytes": 793113
+            },
+            {
+              "id": "legacy-018",
+              "kind": "image",
+              "url": "https://www.breitling.com/api/image-proxy/www-breitling.eu.saleor.cloud/media/thumbnails/products/eb70101a1o1e1-soldier_c302df32_thumbnail_1024.webp?format=auto&imwidth=2040",
+              "sha256": "fa81ea1e209f78b4621bc248de39a203dad8c1b6be19f234b0ccee4a8620ae52",
+              "bytes": 44936,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
       }
     },
     {
@@ -891,7 +1281,31 @@
             "url": "https://www.breitling.com/api/image-proxy/www-breitling.eu.saleor.cloud/media/thumbnails/products/ab2020121l1a1-soldier_550323e2_thumbnail_1024.webp?format=auto&imwidth=780",
             "error": "HTTP Error 403: Forbidden"
           }
-        ]
+        ],
+        "recheck": {
+          "reviewedAt": "2026-11-16",
+          "contactInspected": true,
+          "nativeInspected": false,
+          "evidence": "16 November2026: Actual downloaded pixels contact-inspected; no promotion based on catalogue appearance alone. Original Breitling exact product page and image loaded. Page identifies the full retail reference and catalogue asset, but does not establish actual-photograph provenance or independently bind its execution to every shortened stored key. ",
+          "access": [
+            {
+              "id": "legacy-019",
+              "kind": "source",
+              "url": "https://www.breitling.com/gb-en/watches/superocean-heritage/superocean-heritage-b20-automatic-46/AB2020121L1A1/",
+              "sha256": "83a0f9fc6f865c337867e72d055a074374526eccfcc114ad82fc3d23d5064f39",
+              "bytes": 743227
+            },
+            {
+              "id": "legacy-019",
+              "kind": "image",
+              "url": "https://www.breitling.com/api/image-proxy/www-breitling.eu.saleor.cloud/media/thumbnails/products/ab2020121l1a1-soldier_550323e2_thumbnail_1024.webp?format=auto&imwidth=780",
+              "sha256": "ef1647f6721217c002b8f3a20fef206aadd173881ac1181a91ae3cbb13f4993a",
+              "bytes": 60160,
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        }
       }
     },
     {
@@ -1249,7 +1663,30 @@
         "imageDimensions": [
           1580,
           1580
-        ]
+        ],
+        "recheck": {
+          "reviewedAt": "2026-11-16",
+          "contactInspected": true,
+          "nativeInspected": false,
+          "evidence": "16 November2026: Actual downloaded pixels contact-inspected; no promotion based on catalogue appearance alone. Original-source direct requests and current outcomes recorded. Manufacturer/dealer catalogue identity does not establish actual-photograph provenance; existing source/variant limits remain in force. ",
+          "access": [
+            {
+              "id": "legacy-027",
+              "kind": "source",
+              "url": "https://www.tudorwatch.com/en/watches/pelagos/m25600tn-0001",
+              "error": "HTTP Error 403: Forbidden"
+            },
+            {
+              "id": "legacy-027",
+              "kind": "image",
+              "url": "https://cdn.ugursaat.com.tr/images/products/tudor-pelagos-3-11685361026.jpg",
+              "sha256": "35749be323189c96fc9bd3bb4b13a12e29d30d20233434856f3188d2a2947288",
+              "bytes": 546611,
+              "width": 1580,
+              "height": 1580
+            }
+          ]
+        }
       }
     },
     {
@@ -1269,8 +1706,8 @@
       "mediaKind": "unverified",
       "origin": "samples.json",
       "review": {
-        "status": "pending",
-        "reason": "Inspected the 1920x1920 MT5612 image (engraved calibre, 26 jewels, full balance bridge, openwork Tudor rotor). The current Pelagos family page covers several distinct calibres and models. The stored key 25600T is not proof of an exact photographed case reference. Withheld pending reference, execution and photograph-provenance evidence.",
+        "status": "rejected",
+        "reason": "Reject this association with incomplete stored key25600T: current original Pelagos family page covers multiple distinct references, and does not bind this loose movement photograph to an exact case reference under that key. Native pixels re-inspected: MT5612,26jewels,Tudor-signed rotor and full balance bridge visible. A readable calibre does not supply an exact case reference or establish photograph-versus-render provenance. No automatic expansion to25600TN/TB,LHD,39,Ultra or other Pelagos models.",
         "accessCheckedAt": "2026-10-08T15:36:49.743742+00:00",
         "access": [
           {
@@ -1295,7 +1732,30 @@
         "imageDimensions": [
           1920,
           1920
-        ]
+        ],
+        "recheck": {
+          "reviewedAt": "2026-11-16",
+          "contactInspected": true,
+          "nativeInspected": true,
+          "evidence": "Reject this association with incomplete stored key25600T: current original Pelagos family page covers multiple distinct references, and does not bind this loose movement photograph to an exact case reference under that key. Native pixels re-inspected: MT5612,26jewels,Tudor-signed rotor and full balance bridge visible. A readable calibre does not supply an exact case reference or establish photograph-versus-render provenance. No automatic expansion to25600TN/TB,LHD,39,Ultra or other Pelagos models.",
+          "access": [
+            {
+              "id": "legacy-028",
+              "kind": "source",
+              "url": "https://www.tudorwatch.com/en/watch-family/pelagos",
+              "error": "HTTP Error 403: Forbidden"
+            },
+            {
+              "id": "legacy-028",
+              "kind": "image",
+              "url": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/c_limit%2Cw_3840/v1/tudorwatch/watch-family/pelagos/07-features-popin/03-tudor-manufacture-calibre",
+              "sha256": "c86db33039b4803307d603318908e6798edee528626a28bcde59ba4fb85f9c0f",
+              "bytes": 374481,
+              "width": 1920,
+              "height": 1920
+            }
+          ]
+        }
       }
     },
     {
@@ -1408,7 +1868,30 @@
             "url": "https://www.hourstriker.com/core/images/articles/extreme-diving-watches-arms-race-11-21-2023-09.webp",
             "error": "HTTP Error 403: Forbidden"
           }
-        ]
+        ],
+        "recheck": {
+          "reviewedAt": "2026-11-16",
+          "contactInspected": true,
+          "nativeInspected": true,
+          "evidence": "16 November2026: Actual downloaded pixels contact-inspected; no promotion based on catalogue appearance alone. Hourstriker article re-read through web connector identifies UX EZM2B and attributes image courtesy of Sinn; image shows UX/HYDRO black dial and bracelet. This is a supplied catalogue image, with originating physical-photograph provenance unconfirmed; retain oil-filled-case safety. ",
+          "access": [
+            {
+              "id": "legacy-031",
+              "kind": "source",
+              "url": "https://www.hourstriker.com/articles/extreme-diving-watches-arms-race",
+              "error": "HTTP Error 403: Forbidden"
+            },
+            {
+              "id": "legacy-031",
+              "kind": "image",
+              "url": "https://www.hourstriker.com/core/images/articles/extreme-diving-watches-arms-race-11-21-2023-09.webp",
+              "sha256": "9f5d91e18915a8d81201aac55733fd685536c1b826a68cdb10d83738ad0657f6",
+              "bytes": 116904,
+              "width": 960,
+              "height": 1248
+            }
+          ]
+        }
       }
     },
     {
@@ -18737,7 +19220,30 @@
           1350
         ],
         "imageSha256": "b0eba01afd74a946df9d8140cf4e43f4b5b74b710ab659d8597838d0ec3820c2",
-        "reason": "Physical-watch photograph versus composite/render provenance unconfirmed; withheld from display."
+        "reason": "Physical-watch photograph versus composite/render provenance unconfirmed; withheld from display.",
+        "recheck": {
+          "reviewedAt": "2026-11-16",
+          "contactInspected": true,
+          "nativeInspected": true,
+          "evidence": "16 November2026: Actual downloaded pixels contact-inspected; no promotion based on catalogue appearance alone. Native1350px wrist image re-inspected: black dial, light counters, five-link bracelet. Physical-watch photograph versus composited campaign image remains unconfirmed; exact page direct request403. ",
+          "access": [
+            {
+              "id": "tudor-primary-79360n-0013-wrist-pending",
+              "kind": "source",
+              "url": "https://www.tudorwatch.com/en/watches/black-bay-chrono/m79360n-0013",
+              "error": "HTTP Error 403: Forbidden"
+            },
+            {
+              "id": "tudor-primary-79360n-0013-wrist-pending",
+              "kind": "image",
+              "url": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-gallery/c_limit,w_3840/v1/tudorwatch/model-assets/wrist/tudor-m79360n-0013",
+              "sha256": "b0eba01afd74a946df9d8140cf4e43f4b5b74b710ab659d8597838d0ec3820c2",
+              "bytes": 168458,
+              "width": 1350,
+              "height": 1350
+            }
+          ]
+        }
       }
     },
     {
