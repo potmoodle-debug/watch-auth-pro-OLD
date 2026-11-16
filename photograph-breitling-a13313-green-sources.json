@@ -1,0 +1,109 @@
+{
+  "reviewedAt": "2026-11-16",
+  "brand": "BREITLING",
+  "reference": "A13313",
+  "evidence": "Original SwissWatchExpo stock 58462 identifies exact case reference A13313, green dial, black bezel and black rubber strap; Edition Speciale back, and states its images show the actual sale watch. All 10 downloaded gallery images inspected in contact sheet; accepted front, back and buckle/clasp views separately inspected at high resolution. Dealer dates this specimen 2023 and specifies 44 mm steel, automatic self-winding. Back visibly reads A13313 and Edition Speciale; the exact edition name, retail suffix, production interval and fitted calibre are not established. No opened movement image is available. No supplier equivalence, neighbouring reference, missing retail suffix or individual-watch authenticity is inferred. Exterior images are representative of this specimen variant only. Packaging/card images excluded.",
+  "sources": [
+    {
+      "title": "SwissWatchExpo stock 58462",
+      "url": "https://www.swisswatchexpo.com/watches/breitling-superocean-heritage-ii-chrono-green-dial-steel-mens-watch-a13313-58462/"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "breitling-a13313-58462-front-0",
+      "category": "front",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/1/31/breitling-superocean-heritage-ii-chrono-green-dial-steel-mens-watch-a13313-58462_b999d.jpg",
+      "sha256": "30de6a7c5592bda782dbeff51d54e43c5e2139df0cdfbe320ec0bbc53d405f18"
+    },
+    {
+      "id": "breitling-a13313-58462-caseback-7",
+      "category": "caseback",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/1/31/breitling-superocean-heritage-ii-chrono-green-dial-steel-mens-watch-a13313-58462_da533.jpg",
+      "sha256": "07fa7b6ca244415f49053d3e0ce182a007475e247d4182f6c6b160e092628dcb"
+    },
+    {
+      "id": "breitling-a13313-58462-braceletClasp-8",
+      "category": "braceletClasp",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/1/31/breitling-superocean-heritage-ii-chrono-green-dial-steel-mens-watch-a13313-58462_1d554.jpg",
+      "sha256": "fc7a46218df74db07c210ca2132116eabfd15379a89ed9a5103340e2aaabb99f"
+    }
+  ],
+  "unsupported": [
+    "movement"
+  ],
+  "inspectedGallery": [
+    {
+      "index": 0,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/1/31/breitling-superocean-heritage-ii-chrono-green-dial-steel-mens-watch-a13313-58462_b999d.jpg",
+      "width": 2764,
+      "height": 2764,
+      "sha256": "30de6a7c5592bda782dbeff51d54e43c5e2139df0cdfbe320ec0bbc53d405f18"
+    },
+    {
+      "index": 1,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/1/31/breitling-superocean-heritage-ii-chrono-green-dial-steel-mens-watch-a13313-58462_297fb.jpg",
+      "width": 2764,
+      "height": 2764,
+      "sha256": "30de6a7c5592bda782dbeff51d54e43c5e2139df0cdfbe320ec0bbc53d405f18"
+    },
+    {
+      "index": 2,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/1/31/breitling-superocean-heritage-ii-chrono-green-dial-steel-mens-watch-a13313-58462_151b41ec64.jpg",
+      "width": 4092,
+      "height": 4092,
+      "sha256": "f7c62a00f7e4e852f9e3f315e94e35f390b30a0f1ee52577bf9a64d67606d88f"
+    },
+    {
+      "index": 3,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/1/31/breitling-superocean-heritage-ii-chrono-green-dial-steel-mens-watch-a13313-58462_ff3c7.jpg",
+      "width": 4285,
+      "height": 4285,
+      "sha256": "21a8a336f3081ad46ced6aef8bb03a5f4f80620971341d421926f0b5bbd22fa3"
+    },
+    {
+      "index": 4,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/1/31/breitling-superocean-heritage-ii-chrono-green-dial-steel-mens-watch-a13313-58462_cbd2f.jpg",
+      "width": 4436,
+      "height": 4436,
+      "sha256": "678198b1a564459b92a66a270a1c73a17490f2800ce876bda8596910535564a0"
+    },
+    {
+      "index": 5,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/1/31/breitling-superocean-heritage-ii-chrono-green-dial-steel-mens-watch-a13313-58462_d122f.jpg",
+      "width": 3057,
+      "height": 3057,
+      "sha256": "1141509dcff746291968623c687d63723fad2e54f4e30a6a8e1ace81aa3cda8b"
+    },
+    {
+      "index": 6,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/1/31/breitling-superocean-heritage-ii-chrono-green-dial-steel-mens-watch-a13313-58462_1ee6a.jpg",
+      "width": 695,
+      "height": 695,
+      "sha256": "3adb60d43c6e3f3e59332875fc1622a2e6edbe2d5cbac344438786aa1e79af3b"
+    },
+    {
+      "index": 7,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/1/31/breitling-superocean-heritage-ii-chrono-green-dial-steel-mens-watch-a13313-58462_da533.jpg",
+      "width": 2294,
+      "height": 2293,
+      "sha256": "07fa7b6ca244415f49053d3e0ce182a007475e247d4182f6c6b160e092628dcb"
+    },
+    {
+      "index": 8,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/1/31/breitling-superocean-heritage-ii-chrono-green-dial-steel-mens-watch-a13313-58462_1d554.jpg",
+      "width": 2835,
+      "height": 2835,
+      "sha256": "fc7a46218df74db07c210ca2132116eabfd15379a89ed9a5103340e2aaabb99f"
+    },
+    {
+      "index": 9,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/1/31/breitling-superocean-heritage-ii-chrono-green-dial-steel-mens-watch-a13313-58462_95f54.jpg",
+      "width": 1555,
+      "height": 1555,
+      "sha256": "522aa807c09b5e629666f71318f41416ab936adecf394e546724d3d8c90f8fb5"
+    }
+  ],
+  "periodAndCalibre": "Dealer dates this specimen 2023 and specifies 44 mm steel, automatic self-winding. Back visibly reads A13313 and Edition Speciale; the exact edition name, retail suffix, production interval and fitted calibre are not established.",
+  "matchingLimits": "Exact case key only; representative specimen variant, no unproved retail suffix or neighbouring reference."
+}

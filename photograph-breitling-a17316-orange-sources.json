@@ -1,0 +1,123 @@
+{
+  "reviewedAt": "2026-11-16",
+  "brand": "BREITLING",
+  "reference": "A17316",
+  "evidence": "Original SwissWatchExpo stock 59429 identifies exact case reference A17316, orange dial, black bezel and orange rubber strap, and states its images show the actual sale watch. All 12 downloaded gallery images inspected in contact sheet; accepted front, back and buckle/clasp views separately inspected at high resolution. Dealer specifies 36 mm steel and automatic self-winding; no fitted calibre or production year is established. Caseback visibly reads A17316 and 200M. No opened movement image is available. No supplier equivalence, neighbouring reference, missing retail suffix or individual-watch authenticity is inferred. Exterior images are representative of this specimen variant only. Packaging/card images excluded.",
+  "sources": [
+    {
+      "title": "SwissWatchExpo stock 59429",
+      "url": "https://www.swisswatchexpo.com/watches/breitling-superocean-36mm-orange-dial-steel-ladies-watch-a17316-unworn-59429/"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "breitling-a17316-59429-front-0",
+      "category": "front",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/2/28/breitling-superocean-36mm-orange-dial-steel-ladies-watch-a17316-unworn-59429_bb2c0.jpg",
+      "sha256": "676cde53119b1494e26116a2c5e10377332f464a1fbee4d15b9f862e5cd23709"
+    },
+    {
+      "id": "breitling-a17316-59429-caseback-6",
+      "category": "caseback",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/2/28/breitling-superocean-36mm-orange-dial-steel-ladies-watch-a17316-unworn-59429_145df.jpg",
+      "sha256": "9495b8f34eb0ac3c9b0b81ca3547a6e36896258037629332616c75682dc1a371"
+    },
+    {
+      "id": "breitling-a17316-59429-braceletClasp-7",
+      "category": "braceletClasp",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/2/28/breitling-superocean-36mm-orange-dial-steel-ladies-watch-a17316-unworn-59429_f84ad.jpg",
+      "sha256": "5e393cb76c22e65667c9178bcafbae7b695e6be21c3e8fa0f972801061cc52ec"
+    }
+  ],
+  "unsupported": [
+    "movement"
+  ],
+  "inspectedGallery": [
+    {
+      "index": 0,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/28/breitling-superocean-36mm-orange-dial-steel-ladies-watch-a17316-unworn-59429_bb2c0.jpg",
+      "width": 2358,
+      "height": 2358,
+      "sha256": "676cde53119b1494e26116a2c5e10377332f464a1fbee4d15b9f862e5cd23709"
+    },
+    {
+      "index": 1,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/28/breitling-superocean-36mm-orange-dial-steel-ladies-watch-a17316-unworn-59429_3f9a7.jpg",
+      "width": 2358,
+      "height": 2358,
+      "sha256": "676cde53119b1494e26116a2c5e10377332f464a1fbee4d15b9f862e5cd23709"
+    },
+    {
+      "index": 2,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/28/breitling-superocean-36mm-orange-dial-steel-ladies-watch-a17316-unworn-59429_681488a0dd.jpg",
+      "width": 4030,
+      "height": 4030,
+      "sha256": "705d204621b17047542bd5befbd79cb5e6511a11e796e5058751e155125899db"
+    },
+    {
+      "index": 3,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/28/breitling-superocean-36mm-orange-dial-steel-ladies-watch-a17316-unworn-59429_1cb01.jpg",
+      "width": 4512,
+      "height": 4512,
+      "sha256": "44447b975acef09b29deaefe71eb6ae71da2c4e663a571b08289990245430675"
+    },
+    {
+      "index": 4,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/28/breitling-superocean-36mm-orange-dial-steel-ladies-watch-a17316-unworn-59429_87e4c.jpg",
+      "width": 4323,
+      "height": 4323,
+      "sha256": "e74670599aed2d9bd210fbf9cd8da63887c3a3f5368f5a40da7248d211aa4bfa"
+    },
+    {
+      "index": 5,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/28/breitling-superocean-36mm-orange-dial-steel-ladies-watch-a17316-unworn-59429_4f9d2.jpg",
+      "width": 2638,
+      "height": 2638,
+      "sha256": "853add28199259c5317ab41ee7530ece0fbea6c0cd792838d5bbc53d25663c3a"
+    },
+    {
+      "index": 6,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/28/breitling-superocean-36mm-orange-dial-steel-ladies-watch-a17316-unworn-59429_145df.jpg",
+      "width": 2032,
+      "height": 2032,
+      "sha256": "9495b8f34eb0ac3c9b0b81ca3547a6e36896258037629332616c75682dc1a371"
+    },
+    {
+      "index": 7,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/28/breitling-superocean-36mm-orange-dial-steel-ladies-watch-a17316-unworn-59429_f84ad.jpg",
+      "width": 3114,
+      "height": 3114,
+      "sha256": "5e393cb76c22e65667c9178bcafbae7b695e6be21c3e8fa0f972801061cc52ec"
+    },
+    {
+      "index": 8,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/28/breitling-superocean-36mm-orange-dial-steel-ladies-watch-a17316-unworn-59429_83d3f.jpg",
+      "width": 4570,
+      "height": 4570,
+      "sha256": "d0f9bc809d8e797764e2a2343a34129ff3fdc90b7517ebd2a9fb2507504b940e"
+    },
+    {
+      "index": 9,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/28/breitling-superocean-36mm-orange-dial-steel-ladies-watch-a17316-unworn-59429_7b538.jpg",
+      "width": 4725,
+      "height": 4725,
+      "sha256": "f05956a217995f1663aa77e23f90dfcadfbce56aa3b7e8d8ee950b58112eed3f"
+    },
+    {
+      "index": 10,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/28/breitling-superocean-36mm-orange-dial-steel-ladies-watch-a17316-unworn-59429_d31ee.jpg",
+      "width": 1555,
+      "height": 1555,
+      "sha256": "f231fd1954ff7e764713aae4c1a8cf3be4af4deab1130b810bbb24bcd314b04e"
+    },
+    {
+      "index": 11,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/28/breitling-superocean-36mm-orange-dial-steel-ladies-watch-a17316-unworn-59429_aef0e.jpg",
+      "width": 1555,
+      "height": 1555,
+      "sha256": "58755cec2aac32525c4e32cebf853ae97cb4426c045d4e8c17ccb46a9e3aec52"
+    }
+  ],
+  "periodAndCalibre": "Dealer specifies 36 mm steel and automatic self-winding; no fitted calibre or production year is established. Caseback visibly reads A17316 and 200M.",
+  "matchingLimits": "Exact case key only; representative specimen variant, no unproved retail suffix or neighbouring reference."
+}
