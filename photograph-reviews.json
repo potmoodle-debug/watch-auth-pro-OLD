@@ -12324,6 +12324,32 @@
           "finding": "verified representative specimen variants"
         }
       }
+    },
+    {
+      "brand": "BREITLING",
+      "reference": "A13370",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-11-16",
+          "evidence": "Original SwissWatchExpo page identifies A13370, stock 7662 (legacy gallery directory 7774), white dial with silver subsidiary dials, steel case/bezel/bracelet, automatic chronograph and 48.4 mm dealer diameter. It states all photographs show the actual sale watch. All 13 original gallery files inspected, selected front 2, clasp 7, inner back 8, movement 9 and closed back 10 separately inspected at native 814 px. Closed back visibly reads A13370, 300M and conversion scales; nominal marking is not a water-resistance test. Opened movement has gold-colour Breitling rotor signing, striped finishing, visible balance/regulator and jewel wording; no numeric calibre stamp is independently legible. Original Dorotheum exact A13370 lot attributes ETA 7750 to its separate white-dial leather-strap specimen; that attribution does not physically identify the fitted dealer movement or establish universal supplier/part equivalence. Inner back has Breitling Swiss Made signing, circular finishing and handwritten service marks, not a factory calibre code. Clasp shows Breitling, Modele Depose and Manufacture en Suisse. No complete retail suffix, manufacturing period, universal execution, current condition or individual authenticity inferred. Dealer notes a minute-hand-tip chip; this specimen is a comparison, not a pristine baseline. No neighbouring-reference inheritance. Packaging excluded.",
+          "finding": "Verified representative specimen photography; fitted numeric calibre and production interval remain unestablished."
+        },
+        "movement": {
+          "reviewedAt": "2026-11-16",
+          "evidence": "Original SwissWatchExpo page identifies A13370, stock 7662 (legacy gallery directory 7774), white dial with silver subsidiary dials, steel case/bezel/bracelet, automatic chronograph and 48.4 mm dealer diameter. It states all photographs show the actual sale watch. All 13 original gallery files inspected, selected front 2, clasp 7, inner back 8, movement 9 and closed back 10 separately inspected at native 814 px. Closed back visibly reads A13370, 300M and conversion scales; nominal marking is not a water-resistance test. Opened movement has gold-colour Breitling rotor signing, striped finishing, visible balance/regulator and jewel wording; no numeric calibre stamp is independently legible. Original Dorotheum exact A13370 lot attributes ETA 7750 to its separate white-dial leather-strap specimen; that attribution does not physically identify the fitted dealer movement or establish universal supplier/part equivalence. Inner back has Breitling Swiss Made signing, circular finishing and handwritten service marks, not a factory calibre code. Clasp shows Breitling, Modele Depose and Manufacture en Suisse. No complete retail suffix, manufacturing period, universal execution, current condition or individual authenticity inferred. Dealer notes a minute-hand-tip chip; this specimen is a comparison, not a pristine baseline. No neighbouring-reference inheritance. Packaging excluded.",
+          "finding": "Verified representative specimen photography; fitted numeric calibre and production interval remain unestablished."
+        },
+        "caseback": {
+          "reviewedAt": "2026-11-16",
+          "evidence": "Original SwissWatchExpo page identifies A13370, stock 7662 (legacy gallery directory 7774), white dial with silver subsidiary dials, steel case/bezel/bracelet, automatic chronograph and 48.4 mm dealer diameter. It states all photographs show the actual sale watch. All 13 original gallery files inspected, selected front 2, clasp 7, inner back 8, movement 9 and closed back 10 separately inspected at native 814 px. Closed back visibly reads A13370, 300M and conversion scales; nominal marking is not a water-resistance test. Opened movement has gold-colour Breitling rotor signing, striped finishing, visible balance/regulator and jewel wording; no numeric calibre stamp is independently legible. Original Dorotheum exact A13370 lot attributes ETA 7750 to its separate white-dial leather-strap specimen; that attribution does not physically identify the fitted dealer movement or establish universal supplier/part equivalence. Inner back has Breitling Swiss Made signing, circular finishing and handwritten service marks, not a factory calibre code. Clasp shows Breitling, Modele Depose and Manufacture en Suisse. No complete retail suffix, manufacturing period, universal execution, current condition or individual authenticity inferred. Dealer notes a minute-hand-tip chip; this specimen is a comparison, not a pristine baseline. No neighbouring-reference inheritance. Packaging excluded.",
+          "finding": "Verified representative specimen photography; fitted numeric calibre and production interval remain unestablished."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-11-16",
+          "evidence": "Original SwissWatchExpo page identifies A13370, stock 7662 (legacy gallery directory 7774), white dial with silver subsidiary dials, steel case/bezel/bracelet, automatic chronograph and 48.4 mm dealer diameter. It states all photographs show the actual sale watch. All 13 original gallery files inspected, selected front 2, clasp 7, inner back 8, movement 9 and closed back 10 separately inspected at native 814 px. Closed back visibly reads A13370, 300M and conversion scales; nominal marking is not a water-resistance test. Opened movement has gold-colour Breitling rotor signing, striped finishing, visible balance/regulator and jewel wording; no numeric calibre stamp is independently legible. Original Dorotheum exact A13370 lot attributes ETA 7750 to its separate white-dial leather-strap specimen; that attribution does not physically identify the fitted dealer movement or establish universal supplier/part equivalence. Inner back has Breitling Swiss Made signing, circular finishing and handwritten service marks, not a factory calibre code. Clasp shows Breitling, Modele Depose and Manufacture en Suisse. No complete retail suffix, manufacturing period, universal execution, current condition or individual authenticity inferred. Dealer notes a minute-hand-tip chip; this specimen is a comparison, not a pristine baseline. No neighbouring-reference inheritance. Packaging excluded.",
+          "finding": "Verified representative specimen photography; fitted numeric calibre and production interval remain unestablished."
+        }
+      }
     }
   ],
   "sourceRecordReviews": [
@@ -14289,11 +14315,6 @@
       "evidence": "Original text source https://www.sothebys.com/en/buy/watches/_chronomat-reference-cb0110-5703. Original exact-reference source attributes B01. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed."
     },
     {
-      "id": "UPDATE:BREITLING|A13370",
-      "reviewedAt": "2026-10-20T13:34:19.920Z",
-      "evidence": "Original text source https://www.dorotheum.com/en/l/8180877/. Original exact-reference source attributes 7750. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed."
-    },
-    {
       "id": "UPDATE:LONGINES|L38354326",
       "reviewedAt": "2026-10-20T13:57:30.377Z",
       "evidence": "Second-pass original text source https://www.longines.com/tr/p/watch-conquest-chronograph-l3-835-4-32-6. Manufacturer specifies L898 for this exact Conquest Chronograph. The saved 898.5 sub-execution is not accepted as an alias; inspect its marking. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed."
@@ -14767,6 +14788,11 @@
       "id": "UPDATE:BREITLING|A17316",
       "reviewedAt": "2026-11-16",
       "evidence": "Original SwissWatchExpo stock 49464 identifies exact case reference A17316, white dial, white bezel and white rubber strap, and states its images show the actual sale watch. All 12 downloaded gallery images inspected in contact sheet; accepted front, back and buckle/clasp views separately inspected at high resolution. Dealer specifies 36 mm steel and automatic self-winding; no fitted calibre or production year is established. Caseback visibly reads A17316 and 200M. No opened movement image is available. No supplier equivalence, neighbouring reference, missing retail suffix or individual-watch authenticity is inferred. Exterior images are representative of this specimen variant only. Packaging/card images excluded. Original SwissWatchExpo stock 59429 identifies exact case reference A17316, orange dial, black bezel and orange rubber strap, and states its images show the actual sale watch. All 12 downloaded gallery images inspected in contact sheet; accepted front, back and buckle/clasp views separately inspected at high resolution. Dealer specifies 36 mm steel and automatic self-winding; no fitted calibre or production year is established. Caseback visibly reads A17316 and 200M. No opened movement image is available. No supplier equivalence, neighbouring reference, missing retail suffix or individual-watch authenticity is inferred. Exterior images are representative of this specimen variant only. Packaging/card images excluded."
+    },
+    {
+      "id": "UPDATE:BREITLING|A13370",
+      "reviewedAt": "2026-11-16",
+      "evidence": "Original SwissWatchExpo page identifies A13370, stock 7662 (legacy gallery directory 7774), white dial with silver subsidiary dials, steel case/bezel/bracelet, automatic chronograph and 48.4 mm dealer diameter. It states all photographs show the actual sale watch. All 13 original gallery files inspected, selected front 2, clasp 7, inner back 8, movement 9 and closed back 10 separately inspected at native 814 px. Closed back visibly reads A13370, 300M and conversion scales; nominal marking is not a water-resistance test. Opened movement has gold-colour Breitling rotor signing, striped finishing, visible balance/regulator and jewel wording; no numeric calibre stamp is independently legible. Original Dorotheum exact A13370 lot attributes ETA 7750 to its separate white-dial leather-strap specimen; that attribution does not physically identify the fitted dealer movement or establish universal supplier/part equivalence. Inner back has Breitling Swiss Made signing, circular finishing and handwritten service marks, not a factory calibre code. Clasp shows Breitling, Modele Depose and Manufacture en Suisse. No complete retail suffix, manufacturing period, universal execution, current condition or individual authenticity inferred. Dealer notes a minute-hand-tip chip; this specimen is a comparison, not a pristine baseline. No neighbouring-reference inheritance. Packaging excluded."
     }
   ]
 }
