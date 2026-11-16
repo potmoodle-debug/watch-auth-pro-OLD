@@ -1,0 +1,213 @@
+{
+  "reviewedAt": "2026-11-16",
+  "brand": "BREITLING",
+  "reference": "A23351",
+  "evidence": "Original EBTH item14379751 identifies exact A23351,47mm steel, light dial with dark subdial rings and steel bracelet; its description attributes Breitling23/ETAValjoux7753 base and estimates2011. Original SwissWatchExpo stock19806 (legacy gallery19524) identifies exact A23351,47mm steel, black dial with light subdial rings, steel bracelet and automatic chronograph; it explicitly states actual-sale-watch photographs. All20 original gallery files inspected in contact sheets; seven selected front/back/clasp/detail images separately inspected at native resolution. Both specimen backs visibly read A23351 and Montbrillant Legende with3BARS and conversion scales. EBTH clasp interior visibly reads Modele Depose and Manufacture en Suisse; markings and material descriptions do not prove originality, assay or present water resistance. Neither gallery contains an opened movement or inner caseback, so numeric calibre and full branded execution remain attributed, not visually verified. Do not substitute a generic7753 image, neighbouring A23340/A41370 reference, retail suffix or universal production interval. Estimated2011 concerns the auction specimen only. Light/black dial examples are separately labelled representative variants, not interchangeable factory configurations or authentication of the user watch. No serial numbers or edition-number chronology inferred; packaging excluded.",
+  "sources": [
+    {
+      "title": "EBTH original item14379751 — light dial specimen",
+      "url": "https://www.ebth.com/items/14379751-breitling-navitimer-montbrillant-47-limited-steel-automatic-watch"
+    },
+    {
+      "title": "SwissWatchExpo original stock19806 / gallery19524 — black dial specimen",
+      "url": "https://www.swisswatchexpo.com/watches/breitling/mens-breitling/navitimer/montbrillant-47-steel-mens-limited-edition-a23351-19524/"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "breitling-a23351-0-front-0",
+      "category": "front",
+      "image": "https://imgix-prod.ebth.com/2026/01/30/14/41/02/Attachment-2ac182d9-df48-4ba8-a58b-bf3f3d488ea9.jpg",
+      "sha256": "12040c5d827ae7771cdcea9f9682cc4fa955a1545b30f20f3db395d0b409b0ec"
+    },
+    {
+      "id": "breitling-a23351-0-caseback-6",
+      "category": "caseback",
+      "image": "https://imgix-prod.ebth.com/2026/01/30/14/41/09/Attachment-ae0cd226-0a1d-4039-aadd-1f4561c29fb8.jpg",
+      "sha256": "b864acef0f307d7840559cbcf7d7a94bf74cf8cff925457d502b4b521ee1910f"
+    },
+    {
+      "id": "breitling-a23351-0-braceletClasp-7",
+      "category": "braceletClasp",
+      "image": "https://imgix-prod.ebth.com/2026/01/30/14/41/10/Attachment-70e2f565-d017-4c82-ba2e-aaa36ec2974a.jpg",
+      "sha256": "27547a01ed79a03c81dbdc1f280cce36cad985843e37c7d9aabfa9d2a33a048d"
+    },
+    {
+      "id": "breitling-a23351-0-detail-8",
+      "category": "detail",
+      "image": "https://imgix-prod.ebth.com/2026/01/30/14/41/11/Attachment-1cef592d-7202-4bab-94d0-848871f7eb4c.jpg",
+      "sha256": "623c09daf603354043bc428f3a3e9256643bc8b23bc80550e3d9828676a62b38"
+    },
+    {
+      "id": "breitling-a23351-1-front-0",
+      "category": "front",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/223/19524/breitling-montbrillant-47-steel-mens-limited-edition-watch-a23351-19806_72214.jpg",
+      "sha256": "5d1dc64f6f535a54410377e788ed734e095bed3b0c28a2334cb25fe87a0584c1"
+    },
+    {
+      "id": "breitling-a23351-1-caseback-6",
+      "category": "caseback",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/223/19524/breitling-montbrillant-47-steel-mens-limited-edition-watch-a23351-219694_b.jpg",
+      "sha256": "235938e15d0d0b39e2e62739a2574270af188c7f1c8bced7a257e7e9a79ded0c"
+    },
+    {
+      "id": "breitling-a23351-1-braceletClasp-7",
+      "category": "braceletClasp",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/223/19524/breitling-montbrillant-47-steel-mens-limited-edition-watch-a23351-219693_b.jpg",
+      "sha256": "222b4fe0ca3a0890099aa023eaeab06a021d2cbeff95473b3c3d66f04122ccb4"
+    }
+  ],
+  "inspectedGalleries": {
+    "a23351-ebth": [
+      {
+        "index": 0,
+        "url": "https://imgix-prod.ebth.com/2026/01/30/14/41/02/Attachment-2ac182d9-df48-4ba8-a58b-bf3f3d488ea9.jpg",
+        "width": 2656,
+        "height": 2656,
+        "sha256": "12040c5d827ae7771cdcea9f9682cc4fa955a1545b30f20f3db395d0b409b0ec"
+      },
+      {
+        "index": 1,
+        "url": "https://imgix-prod.ebth.com/2026/01/30/14/41/03/Attachment-4dda372e-9493-4188-98f6-3eba22013735.jpg",
+        "width": 2656,
+        "height": 2656,
+        "sha256": "9a998f106807b36444723b03864ad098f3b2982b2f0c4218fc1d89d8b9c765b0"
+      },
+      {
+        "index": 2,
+        "url": "https://imgix-prod.ebth.com/2026/01/30/14/41/04/Attachment-5caa9476-fe9a-43b7-9842-cab98d67d5e4.jpg",
+        "width": 2656,
+        "height": 2656,
+        "sha256": "50123e9aa0920cf331bb2835c75b794348cfa3f4f6fc2cee831d5a9c8f48b9c1"
+      },
+      {
+        "index": 3,
+        "url": "https://imgix-prod.ebth.com/2026/01/30/14/41/05/Attachment-94b0b4e6-bf1c-44b8-ac38-49a1003941a5.jpg",
+        "width": 2656,
+        "height": 2656,
+        "sha256": "bb42e1fd1b086c603adc3f81b2a56fa4a10fb40c7a4ad76aee96a06077e2d33a"
+      },
+      {
+        "index": 4,
+        "url": "https://imgix-prod.ebth.com/2026/01/30/14/41/06/Attachment-f1d3e7d0-82d2-4280-8fc7-44634485a287.jpg",
+        "width": 2656,
+        "height": 2656,
+        "sha256": "49a8a2c87d8555c3fc5b5133362dba2766def55fbd827ad1abd2038be06a910b"
+      },
+      {
+        "index": 5,
+        "url": "https://imgix-prod.ebth.com/2026/01/30/14/41/07/Attachment-26533c13-e764-4804-865f-69ae1d381dcf.jpg",
+        "width": 2656,
+        "height": 2656,
+        "sha256": "b9b68465ce118eaab70c325b1fcf718c9658cc740c377b291953b874c5166d10"
+      },
+      {
+        "index": 6,
+        "url": "https://imgix-prod.ebth.com/2026/01/30/14/41/09/Attachment-ae0cd226-0a1d-4039-aadd-1f4561c29fb8.jpg",
+        "width": 2656,
+        "height": 2656,
+        "sha256": "b864acef0f307d7840559cbcf7d7a94bf74cf8cff925457d502b4b521ee1910f"
+      },
+      {
+        "index": 7,
+        "url": "https://imgix-prod.ebth.com/2026/01/30/14/41/10/Attachment-70e2f565-d017-4c82-ba2e-aaa36ec2974a.jpg",
+        "width": 2656,
+        "height": 2656,
+        "sha256": "27547a01ed79a03c81dbdc1f280cce36cad985843e37c7d9aabfa9d2a33a048d"
+      },
+      {
+        "index": 8,
+        "url": "https://imgix-prod.ebth.com/2026/01/30/14/41/11/Attachment-1cef592d-7202-4bab-94d0-848871f7eb4c.jpg",
+        "width": 2656,
+        "height": 2656,
+        "sha256": "623c09daf603354043bc428f3a3e9256643bc8b23bc80550e3d9828676a62b38"
+      },
+      {
+        "index": 9,
+        "url": "https://imgix-prod.ebth.com/2026/01/30/14/41/12/Attachment-85e0c9f8-294e-47e7-9309-d225bfab872d.jpg",
+        "width": 2656,
+        "height": 2656,
+        "sha256": "8547e7496f2e4468700fb9b392f138ac5fbff5fcf05675b630aa53c41b6261b8"
+      }
+    ],
+    "a23351-swe": [
+      {
+        "index": 0,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/223/19524/breitling-montbrillant-47-steel-mens-limited-edition-watch-a23351-19806_72214.jpg",
+        "width": 1874,
+        "height": 1874,
+        "sha256": "5d1dc64f6f535a54410377e788ed734e095bed3b0c28a2334cb25fe87a0584c1"
+      },
+      {
+        "index": 1,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/223/19524/breitling-montbrillant-47-steel-mens-limited-edition-watch-a23351-19806_3c563.jpg",
+        "width": 1874,
+        "height": 1874,
+        "sha256": "5d1dc64f6f535a54410377e788ed734e095bed3b0c28a2334cb25fe87a0584c1"
+      },
+      {
+        "index": 2,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/223/19524/breitling-montbrillant-47-steel-mens-limited-edition-watch-a23351-19806_3c563aabeb.jpg",
+        "width": 1874,
+        "height": 1874,
+        "sha256": "5d1dc64f6f535a54410377e788ed734e095bed3b0c28a2334cb25fe87a0584c1"
+      },
+      {
+        "index": 3,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/223/19524/breitling-montbrillant-47-steel-mens-limited-edition-watch-a23351-19806_c639b.jpg",
+        "width": 2940,
+        "height": 2940,
+        "sha256": "072953b28f4b8b7694608d0a6489c89f3d953e69682b5b46c462679ef46a5c7b"
+      },
+      {
+        "index": 4,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/223/19524/breitling-montbrillant-47-steel-mens-limited-edition-watch-a23351-19806_682cf.jpg",
+        "width": 3115,
+        "height": 3115,
+        "sha256": "ca3e92308e86513da20f1e75e68a71bec50b76b5174a44834f45a207e04a894d"
+      },
+      {
+        "index": 5,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/223/19524/breitling-montbrillant-47-steel-mens-limited-edition-watch-a23351-19806_4e5fa.jpg",
+        "width": 2406,
+        "height": 2406,
+        "sha256": "141286057d378a3e99172234877191d6d50b4bcd2bc4a00af6c317bbe0d3518b"
+      },
+      {
+        "index": 6,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/223/19524/breitling-montbrillant-47-steel-mens-limited-edition-watch-a23351-219694_b.jpg",
+        "width": 1024,
+        "height": 1024,
+        "sha256": "235938e15d0d0b39e2e62739a2574270af188c7f1c8bced7a257e7e9a79ded0c"
+      },
+      {
+        "index": 7,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/223/19524/breitling-montbrillant-47-steel-mens-limited-edition-watch-a23351-219693_b.jpg",
+        "width": 1024,
+        "height": 1024,
+        "sha256": "222b4fe0ca3a0890099aa023eaeab06a021d2cbeff95473b3c3d66f04122ccb4"
+      },
+      {
+        "index": 8,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/223/19524/breitling-montbrillant-47-steel-mens-limited-edition-watch-a23351-219689_b.jpg",
+        "width": 1024,
+        "height": 1024,
+        "sha256": "14db539fbbb34be566b7691017971ad6cdb90d92fa008a2388cde5dc341b8146"
+      },
+      {
+        "index": 9,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/223/19524/breitling-montbrillant-47-steel-mens-limited-edition-watch-a23351-219695_b.jpg",
+        "width": 1024,
+        "height": 1024,
+        "sha256": "d622814954ce97e853a7d95771d12b5c4e415cc964003cfde0aedbe5466afced"
+      }
+    ]
+  },
+  "unsupportedCategories": [
+    "movement"
+  ],
+  "remainingGaps": [
+    "No opened movement or inner caseback in either inspected gallery.",
+    "No full retail suffix, universal production interval or fitted calibre execution proven."
+  ]
+}
