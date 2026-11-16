@@ -1,0 +1,130 @@
+{
+  "reference": "74033",
+  "reviewedAt": "2026-11-16",
+  "evidence": "Original Burstow&Hewett lot1006 explicitly identifies74033, champagne linen dial,34mm and circa1992; its bi-metal Tudor bracelet is expressly ASSOCIATED, not proven factory-original fitment. First specimen back sticker obscures detail. Original Luxoris lot29 (24April2025) explicitly identifies74033, gold-tone dial/two-tone bracelet and textual ETA2824-2 attribution;37mm measurement includes crown, not directly comparable to first34mm case width. Neither gallery shows opened movement or readable fitted calibre stamp. All10original gallery files inspected; five selected front/clasp/second-back views separately inspected at native resolution. Both fronts show Prince Oysterdate/rotor self-winding/date3; linen and plain-dial executions separately labelled. Second specimen closed back visibly carries Original Oyster Case by Rolex Geneva wording and597endlinks, not proof of universal hardware fitment. Shield clasps visible with wear. No photographed case-reference engraving; exact reference relies on each original auction attribution. No full suffix, universal production interval, independent material assay, factory-originality, current timing/water resistance or individual-user-watch authentication inferred. Textual calibre attribution is not a movement photograph. Boxes excluded; overall execution research incomplete.",
+  "sources": [
+    {
+      "title": "Burstow&Hewett original lot1006",
+      "url": "https://www.easyliveauction.com/catalogue/lot/9cd6f62cf77eb87f5ba41a13185fbbd6/0af8d24542e81eb9357e7ef448a6646f/luxury-watches-jewellery-silver-day-1/"
+    },
+    {
+      "title": "Luxoris original lot29",
+      "url": "https://www.easyliveauction.com/catalogue/lot/8ece00a240abe9136c835676edac5524/0af8d24542e81eb9357e7ef448a6646f/jewellery-timepieces-lot-29/"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "tudor-74033-burstow-front-0",
+      "category": "front",
+      "image": "https://content.easyliveauction.com/auctions/images_lots/66A1D5651183B0F4CDED576317444ACE_bur02/1100992916.JPG",
+      "sha256": "0715260ab8fdc219646d6df0c966dc81988ab15d8920f5791cc8853731fd749f"
+    },
+    {
+      "id": "tudor-74033-burstow-braceletClasp-2",
+      "category": "braceletClasp",
+      "image": "https://content.easyliveauction.com/auctions/images_lots/66A1D5651183B0F4CDED576317444ACE_bur02/1100992918.JPG",
+      "sha256": "0997bf969944f3f9d1a8950f3fde88f1a851be6ef21e9b2691ccfcbda0a5956b"
+    },
+    {
+      "id": "tudor-74033-luxoris-front-0",
+      "category": "front",
+      "image": "https://content.easyliveauction.com/auctions/images_lots/05970EFFD3EF31B085BB10DBE01A110F_lux01/1100007897.JPG",
+      "sha256": "ba9d085eac307358c3dec38216dc0e55e051a1ebaa5c5b9d7fdcd35149303c68"
+    },
+    {
+      "id": "tudor-74033-luxoris-braceletClasp-2",
+      "category": "braceletClasp",
+      "image": "https://content.easyliveauction.com/auctions/images_lots/05970EFFD3EF31B085BB10DBE01A110F_lux01/1100007899.JPG",
+      "sha256": "b0f722324bcc2786d0df165983a4723c4f68d35042765248c262fa5e4d517eb5"
+    },
+    {
+      "id": "tudor-74033-luxoris-caseback-3",
+      "category": "caseback",
+      "image": "https://content.easyliveauction.com/auctions/images_lots/05970EFFD3EF31B085BB10DBE01A110F_lux01/1100007900.JPG",
+      "sha256": "53e004fa583f457f116190c871d58f3c6447bfe6f67750148d97823e00c2e0bb"
+    }
+  ],
+  "inspectedGalleries": {
+    "burstow": [
+      {
+        "index": 0,
+        "url": "https://content.easyliveauction.com/auctions/images_lots/66A1D5651183B0F4CDED576317444ACE_bur02/1100992916.JPG",
+        "width": 2000,
+        "height": 2000,
+        "sha256": "0715260ab8fdc219646d6df0c966dc81988ab15d8920f5791cc8853731fd749f"
+      },
+      {
+        "index": 1,
+        "url": "https://content.easyliveauction.com/auctions/images_lots/66A1D5651183B0F4CDED576317444ACE_bur02/1100992917.JPG",
+        "width": 2000,
+        "height": 2000,
+        "sha256": "d285bc689305e6d0bb2f1384af6c04708f41dde462dda964ace150f410d4d93d"
+      },
+      {
+        "index": 2,
+        "url": "https://content.easyliveauction.com/auctions/images_lots/66A1D5651183B0F4CDED576317444ACE_bur02/1100992918.JPG",
+        "width": 2000,
+        "height": 2000,
+        "sha256": "0997bf969944f3f9d1a8950f3fde88f1a851be6ef21e9b2691ccfcbda0a5956b"
+      },
+      {
+        "index": 3,
+        "url": "https://content.easyliveauction.com/auctions/images_lots/66A1D5651183B0F4CDED576317444ACE_bur02/1100992919.JPG",
+        "width": 2000,
+        "height": 2000,
+        "sha256": "3802504cfbccd8491005a4eb918a6e736ab1ab987fa7b8b60482fccbae3f337a"
+      },
+      {
+        "index": 4,
+        "url": "https://content.easyliveauction.com/auctions/images_lots/66A1D5651183B0F4CDED576317444ACE_bur02/1100992920.JPG",
+        "width": 2000,
+        "height": 2000,
+        "sha256": "b83969e15f18a9fe7a11c407a2587e2c79949ea98b7ce02f0ad685899149ae04"
+      }
+    ],
+    "luxoris": [
+      {
+        "index": 0,
+        "url": "https://content.easyliveauction.com/auctions/images_lots/05970EFFD3EF31B085BB10DBE01A110F_lux01/1100007897.JPG",
+        "width": 2500,
+        "height": 2500,
+        "sha256": "ba9d085eac307358c3dec38216dc0e55e051a1ebaa5c5b9d7fdcd35149303c68"
+      },
+      {
+        "index": 1,
+        "url": "https://content.easyliveauction.com/auctions/images_lots/05970EFFD3EF31B085BB10DBE01A110F_lux01/1100007898.JPG",
+        "width": 2500,
+        "height": 2500,
+        "sha256": "f17eed6fe804509886d0a2f5ee70cd61f70be0adc505e3f9751b2c12da38b4ae"
+      },
+      {
+        "index": 2,
+        "url": "https://content.easyliveauction.com/auctions/images_lots/05970EFFD3EF31B085BB10DBE01A110F_lux01/1100007899.JPG",
+        "width": 2500,
+        "height": 2500,
+        "sha256": "b0f722324bcc2786d0df165983a4723c4f68d35042765248c262fa5e4d517eb5"
+      },
+      {
+        "index": 3,
+        "url": "https://content.easyliveauction.com/auctions/images_lots/05970EFFD3EF31B085BB10DBE01A110F_lux01/1100007900.JPG",
+        "width": 2500,
+        "height": 2500,
+        "sha256": "53e004fa583f457f116190c871d58f3c6447bfe6f67750148d97823e00c2e0bb"
+      },
+      {
+        "index": 4,
+        "url": "https://content.easyliveauction.com/auctions/images_lots/05970EFFD3EF31B085BB10DBE01A110F_lux01/1100007901.JPG",
+        "width": 2500,
+        "height": 2500,
+        "sha256": "17e9caabeb11563819f01eeeb1488b0621b61a4df690e79e44e9e26444917198"
+      }
+    ]
+  },
+  "unsupportedCategories": [
+    "movement"
+  ],
+  "remainingGaps": [
+    "No opened movement or physical case-reference engraving inspected.",
+    "No universal hardware fitment, full suffix or production interval established."
+  ]
+}
