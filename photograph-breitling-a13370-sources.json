@@ -1,0 +1,145 @@
+{
+  "reviewedAt": "2026-11-16",
+  "brand": "BREITLING",
+  "reference": "A13370",
+  "evidence": "Original SwissWatchExpo page identifies A13370, stock 7662 (legacy gallery directory 7774), white dial with silver subsidiary dials, steel case/bezel/bracelet, automatic chronograph and 48.4 mm dealer diameter. It states all photographs show the actual sale watch. All 13 original gallery files inspected, selected front 2, clasp 7, inner back 8, movement 9 and closed back 10 separately inspected at native 814 px. Closed back visibly reads A13370, 300M and conversion scales; nominal marking is not a water-resistance test. Opened movement has gold-colour Breitling rotor signing, striped finishing, visible balance/regulator and jewel wording; no numeric calibre stamp is independently legible. Original Dorotheum exact A13370 lot attributes ETA 7750 to its separate white-dial leather-strap specimen; that attribution does not physically identify the fitted dealer movement or establish universal supplier/part equivalence. Inner back has Breitling Swiss Made signing, circular finishing and handwritten service marks, not a factory calibre code. Clasp shows Breitling, Modele Depose and Manufacture en Suisse. No complete retail suffix, manufacturing period, universal execution, current condition or individual authenticity inferred. Dealer notes a minute-hand-tip chip; this specimen is a comparison, not a pristine baseline. No neighbouring-reference inheritance. Packaging excluded.",
+  "sources": [
+    {
+      "title": "SwissWatchExpo original stock 7662 / legacy gallery 7774",
+      "url": "https://www.swisswatchexpo.com/watches/breitling/mens-breitling/aeromarine/aeromarine-super-avenger-steel-a13370-7774/"
+    },
+    {
+      "title": "Dorotheum original A13370 lot — separate leather-strap specimen",
+      "url": "https://www.dorotheum.com/en/l/8180877/"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "breitling-a13370-7662-front-2",
+      "category": "front",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/219/7774/breitling-aeromarine-super-avenger-steel-watch-a13370-77706_b1a482.jpg",
+      "sha256": "bada50298945f2b0e216036503609897d5435606fb7f23b7dd7a0da40321b93e"
+    },
+    {
+      "id": "breitling-a13370-7662-braceletClasp-7",
+      "category": "braceletClasp",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/219/7774/breitling-aeromarine-super-avenger-steel-watch-a13370-77703_b.jpg",
+      "sha256": "9c5b3934dcf08acd98bbc68ecaab6f8fff00297c053d158dc10e1e10c0f2ec38"
+    },
+    {
+      "id": "breitling-a13370-7662-caseback-8",
+      "category": "caseback",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/219/7774/breitling-aeromarine-super-avenger-steel-watch-a13370-77708_b.jpg",
+      "sha256": "2ef8fa0b476e4a4ba52cfef8c3678c96f2ad01c448754d9c444b8b691dbbd815"
+    },
+    {
+      "id": "breitling-a13370-7662-movement-9",
+      "category": "movement",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/219/7774/breitling-aeromarine-super-avenger-steel-watch-a13370-77713_b.jpg",
+      "sha256": "6edf5f4f0c2b3568c907db23bf74ebb196b4d072698d66b2ee78801e62b32dc7"
+    },
+    {
+      "id": "breitling-a13370-7662-caseback-10",
+      "category": "caseback",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/219/7774/breitling-aeromarine-super-avenger-steel-watch-a13370-77712_b.jpg",
+      "sha256": "bdfdca98f0b2bf4b51db94309c2bf7c26d91d2ff83967c30f12ee5df0f787bcd"
+    }
+  ],
+  "inspectedGallery": [
+    {
+      "index": 0,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/219/7774/breitling-aeromarine-super-avenger-steel-watch-a13370_7774_f.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "6daf12682a228ed64bcb2cbf5c1f26a8bf49739f96510c2da20435554f76dc16"
+    },
+    {
+      "index": 1,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/219/7774/breitling-aeromarine-super-avenger-steel-watch-a13370-77705_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "a5ff9466379ad33080cd430edcfceac7b2748cfe284b0847c266886f09535ad1"
+    },
+    {
+      "index": 2,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/219/7774/breitling-aeromarine-super-avenger-steel-watch-a13370-77706_b1a482.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "bada50298945f2b0e216036503609897d5435606fb7f23b7dd7a0da40321b93e"
+    },
+    {
+      "index": 3,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/219/7774/breitling-aeromarine-super-avenger-steel-watch-a13370-77704_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "bdcd2a59907bc863e084938c89d7931aec151687ce6b92d9c75c4c3c8f07d791"
+    },
+    {
+      "index": 4,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/219/7774/breitling-aeromarine-super-avenger-steel-watch-a13370-77711_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "eaa7d9f669b03a1f0a1f2a87985735f8828fa4b206a7620dc701c571d9d686b8"
+    },
+    {
+      "index": 5,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/219/7774/breitling-aeromarine-super-avenger-steel-watch-a13370-77707_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "782fc575bfab57898a2500473e2eb3b661731b2ddb87cc5da49c4cfd7837ab2f"
+    },
+    {
+      "index": 6,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/219/7774/breitling-aeromarine-super-avenger-steel-watch-a13370-77710_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "97edcfc640929d74d8106a768294e3f143252827013ed4b82a84b418dc53007f"
+    },
+    {
+      "index": 7,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/219/7774/breitling-aeromarine-super-avenger-steel-watch-a13370-77703_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "9c5b3934dcf08acd98bbc68ecaab6f8fff00297c053d158dc10e1e10c0f2ec38"
+    },
+    {
+      "index": 8,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/219/7774/breitling-aeromarine-super-avenger-steel-watch-a13370-77708_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "2ef8fa0b476e4a4ba52cfef8c3678c96f2ad01c448754d9c444b8b691dbbd815"
+    },
+    {
+      "index": 9,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/219/7774/breitling-aeromarine-super-avenger-steel-watch-a13370-77713_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "6edf5f4f0c2b3568c907db23bf74ebb196b4d072698d66b2ee78801e62b32dc7"
+    },
+    {
+      "index": 10,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/219/7774/breitling-aeromarine-super-avenger-steel-watch-a13370-77712_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "bdfdca98f0b2bf4b51db94309c2bf7c26d91d2ff83967c30f12ee5df0f787bcd"
+    },
+    {
+      "index": 11,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/219/7774/breitling-aeromarine-super-avenger-steel-watch-a13370-77709_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "208ea8726b455e0aff8aa1176cf588ca92dcea8b675175269ba39dddbc6ac419"
+    },
+    {
+      "index": 12,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/219/7774/breitling-aeromarine-super-avenger-steel-watch-a13370-77702_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "20ff60b08e18ca784871cc0fe63eff885cc45c0aa67137dcb037e6ca480d88e0"
+    }
+  ],
+  "remainingGaps": [
+    "Numeric calibre stamp not independently readable in dealer movement photograph.",
+    "No complete retail suffix or production interval established."
+  ]
+}
