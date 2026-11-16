@@ -1,0 +1,184 @@
+{
+  "reference": "79180",
+  "reviewedAt": "2026-11-16",
+  "evidence": "Original SwissWatchExpo56772 explicitly identifies black/silver-counter Tudor79180, steel tachymeter bezel, steel bracelet and automatic chronograph. All11original gallery images inspected; opened movement8 and physical lug-reference6 separately inspected at native resolution. Lug engraving visibly79180. Opened in-case movement visibly has7750 stamp, Tudor/Swiss Automatic-Prince rotor and SEVENTEEN17JEWELS wording. This contradicts dealer25-jewel text; observed17-jewel execution is retained and dealer25 claim is not adopted. No universal jewel-count or supplier chronology inferred. Other source silver-dial84718 gallery10images also inspected and contains NOopenedmovement; do not transfer the56772 movement to that specimen. Existing Fratello black/silver specimen remains separate and unopened. Dealer40mm/acrylic claims remain attributed; no crystal/material assay, original fitment, production year, service history, current timing, pressure result or user-watch authentication conclusion from photos. Full serial-only photo7 not accepted. Exact79180 only; no79160/79280 inheritance. Overall execution/period research incomplete.",
+  "sources": [
+    {
+      "title": "SwissWatchExpo56772 original black specimen",
+      "url": "https://www.swisswatchexpo.com/watches/tudor-prince-oysterdate-black-dial-chronograph-mens-watch-79180-56772/"
+    },
+    {
+      "title": "SwissWatchExpo84718 silver specimen — no opened movement",
+      "url": "https://www.swisswatchexpo.com/watches/tudor-prince-big-block-vertical-panda-dial-steel-mens-watch-79180-84718/"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "tudor-79180-swe56772-movement-8",
+      "category": "movement",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/5/21/tudor-prince-oysterdate-black-dial-chronograph-mens-watch-79180-56772_85bf4.jpg",
+      "sha256": "971bb6af2fb66763b43ca2d896c61072ceee999d39fe46ce99f52bd6da5f4684"
+    },
+    {
+      "id": "tudor-79180-swe56772-detail-6",
+      "category": "detail",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/5/21/tudor-prince-oysterdate-black-dial-chronograph-mens-watch-79180-56772_dbbf3.jpg",
+      "sha256": "50e2267ee16643cd931e3304584feb2707029191c3ace86bb63d6914b8f7728c"
+    }
+  ],
+  "inspectedGallery": [
+    {
+      "index": 0,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/5/21/tudor-prince-oysterdate-black-dial-chronograph-mens-watch-79180-56772_cb13e.jpg",
+      "width": 2774,
+      "height": 2774,
+      "sha256": "94a44c2c4640f7189c784133036d676389e98bd5faf1660b88aaf3a996668932"
+    },
+    {
+      "index": 1,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/5/21/tudor-prince-oysterdate-black-dial-chronograph-mens-watch-79180-56772_33a40.jpg",
+      "width": 2774,
+      "height": 2774,
+      "sha256": "94a44c2c4640f7189c784133036d676389e98bd5faf1660b88aaf3a996668932"
+    },
+    {
+      "index": 2,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/5/21/tudor-prince-oysterdate-black-dial-chronograph-mens-watch-79180-56772_23f32.jpg",
+      "width": 4448,
+      "height": 4448,
+      "sha256": "2f62a72b667eb443ea1d2944b368d07483ecc0644ec40f4e190059d171a4474a"
+    },
+    {
+      "index": 3,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/5/21/tudor-prince-oysterdate-black-dial-chronograph-mens-watch-79180-56772_fe2c5.jpg",
+      "width": 5089,
+      "height": 5089,
+      "sha256": "60af41e2ac95b8adfed635af88e45c57e451146eeceb7b666bcc466648c82c8b"
+    },
+    {
+      "index": 4,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/5/21/tudor-prince-oysterdate-black-dial-chronograph-mens-watch-79180-56772_0207e.jpg",
+      "width": 5126,
+      "height": 5126,
+      "sha256": "e82e52a0b39f62fa902d19f59ab29b1decb0cb6a0338e8fc81551a6f1fa07350"
+    },
+    {
+      "index": 5,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/5/21/tudor-prince-oysterdate-black-dial-chronograph-mens-watch-79180-56772_dd3a9.jpg",
+      "width": 3275,
+      "height": 3275,
+      "sha256": "5f21bad5f6216984a67c7051d33dda122be1ef0d9a17da102fd804b839058537"
+    },
+    {
+      "index": 6,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/5/21/tudor-prince-oysterdate-black-dial-chronograph-mens-watch-79180-56772_dbbf3.jpg",
+      "width": 1169,
+      "height": 1169,
+      "sha256": "50e2267ee16643cd931e3304584feb2707029191c3ace86bb63d6914b8f7728c"
+    },
+    {
+      "index": 7,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/5/21/tudor-prince-oysterdate-black-dial-chronograph-mens-watch-79180-56772_6e3eb.jpg",
+      "width": 1245,
+      "height": 1245,
+      "sha256": "a06ec62ff024729ac6f6117042ba4cdd31a9cf6816e0946ec9d511643fe94d51"
+    },
+    {
+      "index": 8,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/5/21/tudor-prince-oysterdate-black-dial-chronograph-mens-watch-79180-56772_85bf4.jpg",
+      "width": 2632,
+      "height": 2632,
+      "sha256": "971bb6af2fb66763b43ca2d896c61072ceee999d39fe46ce99f52bd6da5f4684"
+    },
+    {
+      "index": 9,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/5/21/tudor-prince-oysterdate-black-dial-chronograph-mens-watch-79180-56772_a2cca.jpg",
+      "width": 3821,
+      "height": 3821,
+      "sha256": "9b82fb65d9cf6f9b94069414150cdf2fde6d2caf9e5b40f9e7dc8941803d46ea"
+    },
+    {
+      "index": 10,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/5/21/tudor-prince-oysterdate-black-dial-chronograph-mens-watch-79180-56772_832e2.jpg",
+      "width": 3490,
+      "height": 3490,
+      "sha256": "a82c0196523a6fa8313209bf692f57237ad1eca412863907714f7b5d23cf375f"
+    }
+  ],
+  "separateSilverGallery": [
+    {
+      "index": 0,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/10/28/tudor-prince-big-block-vertical-panda-dial-steel-mens-watch-79180-84718_f864a.jpg",
+      "width": 2704,
+      "height": 2704,
+      "sha256": "09afc2ed9b0db19ca5beff0e136fb5b791329a87d2df8d48365d582624c80368"
+    },
+    {
+      "index": 1,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/10/28/tudor-prince-big-block-vertical-panda-dial-steel-mens-watch-79180-84718_d4ac3.jpg",
+      "width": 2704,
+      "height": 2704,
+      "sha256": "09afc2ed9b0db19ca5beff0e136fb5b791329a87d2df8d48365d582624c80368"
+    },
+    {
+      "index": 2,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/10/28/tudor-prince-big-block-vertical-panda-dial-steel-mens-watch-79180-84718_58d7f.jpg",
+      "width": 4108,
+      "height": 4108,
+      "sha256": "8a8401903f750b061cf6628f7c64efeaee9998f16370d3ce09ec7e3519af7d3d"
+    },
+    {
+      "index": 3,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/10/28/tudor-prince-big-block-vertical-panda-dial-steel-mens-watch-79180-84718_bd9e8.jpg",
+      "width": 4857,
+      "height": 4857,
+      "sha256": "9eb0caad64a64d7791dd5bf520b51c500640382417a84213727341ed957fcd03"
+    },
+    {
+      "index": 4,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/10/28/tudor-prince-big-block-vertical-panda-dial-steel-mens-watch-79180-84718_51413.jpg",
+      "width": 4731,
+      "height": 4731,
+      "sha256": "7791937b0709c515371665e12aef0fae8ad3ca0b0cb38e2e452c6e836adeab5a"
+    },
+    {
+      "index": 5,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/10/28/tudor-prince-big-block-vertical-panda-dial-steel-mens-watch-79180-84718_e7c7d.jpg",
+      "width": 2978,
+      "height": 2978,
+      "sha256": "0f401e64b5db35d2c91e5c4f8e7e874ddd573d4a6d312219f4053668034f4e34"
+    },
+    {
+      "index": 6,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/10/28/tudor-prince-big-block-vertical-panda-dial-steel-mens-watch-79180-84718_110d7.jpg",
+      "width": 848,
+      "height": 849,
+      "sha256": "15c6e89d015f026fc2d4ced420c2113d826adc3db825218e85bccbb8c9353e4a"
+    },
+    {
+      "index": 7,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/10/28/tudor-prince-big-block-vertical-panda-dial-steel-mens-watch-79180-84718_3d9cc.jpg",
+      "width": 967,
+      "height": 967,
+      "sha256": "26d1b878e0f603c6f981daf0d819319fc15497581520d1cc501d48c8158e75f8"
+    },
+    {
+      "index": 8,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/10/28/tudor-prince-big-block-vertical-panda-dial-steel-mens-watch-79180-84718_9770e.jpg",
+      "width": 3227,
+      "height": 3227,
+      "sha256": "bc147809354124d4c03f481cc32f01da3f9857a25d0128a8711d6b0a8ca0361b"
+    },
+    {
+      "index": 9,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/10/28/tudor-prince-big-block-vertical-panda-dial-steel-mens-watch-79180-84718_23c0a.jpg",
+      "width": 3525,
+      "height": 3525,
+      "sha256": "f6551bf206cc906bd86591933bb73fb5eccbd84287b41038881d4ddd803b4624"
+    }
+  ],
+  "remainingGaps": [
+    "Other specimen internal executions",
+    "Universal chronology and original fitment"
+  ]
+}

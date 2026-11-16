@@ -43872,6 +43872,74 @@
           "height": 814
         }
       }
+    },
+    {
+      "id": "tudor-79180-swe56772-movement-8",
+      "brand": "TUDOR",
+      "references": [
+        "79180"
+      ],
+      "representativeFor": [
+        "79180"
+      ],
+      "variant": "SwissWatchExpo56772 — black/silver counters / observed17-jewel7750",
+      "category": "movement",
+      "depictsMovement": true,
+      "title": "79180 — movement",
+      "caption": "Observed7750 stamp and SEVENTEEN17JEWELS with Tudor/Swiss Automatic-Prince rotor. Dealer25-jewel claim conflicts with photographed17-jewel execution; specimen-specific.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/5/21/tudor-prince-oysterdate-black-dial-chronograph-mens-watch-79180-56772_85bf4.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/tudor-prince-oysterdate-black-dial-chronograph-mens-watch-79180-56772/",
+      "credit": "SwissWatchExpo — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected16November2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-16",
+        "loadedAt": "2026-11-16",
+        "evidence": "Original SwissWatchExpo56772 explicitly identifies black/silver-counter Tudor79180, steel tachymeter bezel, steel bracelet and automatic chronograph. All11original gallery images inspected; opened movement8 and physical lug-reference6 separately inspected at native resolution. Lug engraving visibly79180. Opened in-case movement visibly has7750 stamp, Tudor/Swiss Automatic-Prince rotor and SEVENTEEN17JEWELS wording. This contradicts dealer25-jewel text; observed17-jewel execution is retained and dealer25 claim is not adopted. No universal jewel-count or supplier chronology inferred. Other source silver-dial84718 gallery10images also inspected and contains NOopenedmovement; do not transfer the56772 movement to that specimen. Existing Fratello black/silver specimen remains separate and unopened. Dealer40mm/acrylic claims remain attributed; no crystal/material assay, original fitment, production year, service history, current timing, pressure result or user-watch authentication conclusion from photos. Full serial-only photo7 not accepted. Exact79180 only; no79160/79280 inheritance. Overall execution/period research incomplete.",
+        "imageSha256": "971bb6af2fb66763b43ca2d896c61072ceee999d39fe46ce99f52bd6da5f4684",
+        "imageDimensions": {
+          "width": 2632,
+          "height": 2632
+        }
+      }
+    },
+    {
+      "id": "tudor-79180-swe56772-detail-6",
+      "brand": "TUDOR",
+      "references": [
+        "79180"
+      ],
+      "representativeFor": [
+        "79180"
+      ],
+      "variant": "SwissWatchExpo56772 — black/silver counters / observed17-jewel7750",
+      "category": "detail",
+      "depictsMovement": false,
+      "title": "79180 — detail",
+      "caption": "Physical79180 engraving between lugs on this black/silver-counter specimen, supporting exact-reference matching.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/5/21/tudor-prince-oysterdate-black-dial-chronograph-mens-watch-79180-56772_dbbf3.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/tudor-prince-oysterdate-black-dial-chronograph-mens-watch-79180-56772/",
+      "credit": "SwissWatchExpo — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected16November2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-16",
+        "loadedAt": "2026-11-16",
+        "evidence": "Original SwissWatchExpo56772 explicitly identifies black/silver-counter Tudor79180, steel tachymeter bezel, steel bracelet and automatic chronograph. All11original gallery images inspected; opened movement8 and physical lug-reference6 separately inspected at native resolution. Lug engraving visibly79180. Opened in-case movement visibly has7750 stamp, Tudor/Swiss Automatic-Prince rotor and SEVENTEEN17JEWELS wording. This contradicts dealer25-jewel text; observed17-jewel execution is retained and dealer25 claim is not adopted. No universal jewel-count or supplier chronology inferred. Other source silver-dial84718 gallery10images also inspected and contains NOopenedmovement; do not transfer the56772 movement to that specimen. Existing Fratello black/silver specimen remains separate and unopened. Dealer40mm/acrylic claims remain attributed; no crystal/material assay, original fitment, production year, service history, current timing, pressure result or user-watch authentication conclusion from photos. Full serial-only photo7 not accepted. Exact79180 only; no79160/79280 inheritance. Overall execution/period research incomplete.",
+        "imageSha256": "50e2267ee16643cd931e3304584feb2707029191c3ace86bb63d6914b8f7728c",
+        "imageDimensions": {
+          "width": 1169,
+          "height": 1169
+        }
+      }
     }
   ]
 }
