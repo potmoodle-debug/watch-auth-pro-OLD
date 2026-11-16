@@ -1,0 +1,143 @@
+{
+  "reference": "79090",
+  "reviewedAt": "2026-11-16",
+  "evidence": "Original SwissWatchExpo URL/gallery10474 identifies Tudor79090 with black dial, steel bracelet, automatic2824-2/25jewels; page display stock10490 differs from URL/gallery10474 and both are retained as source identifiers, not conflated with another watch. All13original gallery images inspected; selected front0, clasp6, inner back7, opened movement8 and reference engraving10 separately inspected at native814px. Physical lug engraving and inner back both visibly read79090. Rotor has Tudor shield/TUDOR and partly obscured PRINCE wording; actual in-case automatic movement with perlage and striped rotor is visible. Numeric2824-2 and jewel count are dealer attributions, not readable stamps in this photograph. Dealer sapphire crystal claim conflicts with established79090 plastic-crystal specification and is not adopted as original fitment; image shows raised date-loupe crystal but cannot establish composition. No universal supplier chronology, production date, original parts/fitment, luminous composition, current timing, pressure performance or authentication result inferred. Approximate period not established by serial alone. Full serial photo11 excluded from accepted gallery; box12 excluded. Closed back is obscured behind clasp in6, so accepted caseback photograph7 is specifically INNER back. Existing manufacturer front photo/review retained separately, not replaced or promoted by this dealer evidence. Exact79090 only; no79090/76100 or79190 inheritance. Earlier Kaplans short URL returned403 and is a lead only, not accepted evidence. Overall variant and period research incomplete.",
+  "sources": [
+    {
+      "title": "SwissWatchExpo original specimen gallery10474/display10490",
+      "url": "https://www.swisswatchexpo.com/watches/tudor/submariner-prince-oysterdate-stainless-steel-mens-79090-10474/"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "tudor-79090-swe10474-front-0",
+      "category": "front",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/165/10474/tudor-submariner-prince-oysterdate-stainless-steel-mens-watch-79090_10474_f.jpg",
+      "sha256": "e692b094ce40a4b2e26766ae3293af981717fd577e2239d3cf3cbd50e9d0404f"
+    },
+    {
+      "id": "tudor-79090-swe10474-braceletClasp-6",
+      "category": "braceletClasp",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/165/10474/tudor-submariner-prince-oysterdate-stainless-steel-mens-watch-79090-106689_b.jpg",
+      "sha256": "007794c5e604d39c697f53be20703726abba32a4e7c4e2b67bd861e662197968"
+    },
+    {
+      "id": "tudor-79090-swe10474-caseback-7",
+      "category": "caseback",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/165/10474/tudor-submariner-prince-oysterdate-stainless-steel-mens-watch-79090-106684_b.jpg",
+      "sha256": "f4c502a0d48d2dc171fa673291c39c1ce6442536dc93e6b3e91b72a13a3c89df"
+    },
+    {
+      "id": "tudor-79090-swe10474-movement-8",
+      "category": "movement",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/165/10474/tudor-submariner-prince-oysterdate-stainless-steel-mens-watch-79090-106692_b.jpg",
+      "sha256": "2e1fd131c4ff4cb4e6b73613743f431c8a419e685f79bc53c79ce63eb5de80b2"
+    },
+    {
+      "id": "tudor-79090-swe10474-detail-10",
+      "category": "detail",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/165/10474/tudor-submariner-prince-oysterdate-stainless-steel-mens-watch-79090-106694_b.jpg",
+      "sha256": "a7fffc6d0bd315e41145ec1a3b0e21df2c2c3c5c9733159003fbc401f7e492d3"
+    }
+  ],
+  "inspectedGallery": [
+    {
+      "index": 0,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/165/10474/tudor-submariner-prince-oysterdate-stainless-steel-mens-watch-79090_10474_f.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "e692b094ce40a4b2e26766ae3293af981717fd577e2239d3cf3cbd50e9d0404f"
+    },
+    {
+      "index": 1,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/165/10474/tudor-submariner-prince-oysterdate-stainless-steel-mens-watch-79090-106686_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "bdcc3f4e08023d1fb550efb0a831d4ecd1551633701f86db746210078b9e4bd3"
+    },
+    {
+      "index": 2,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/165/10474/tudor-submariner-prince-oysterdate-stainless-steel-mens-watch-79090-106683_b8c5c6.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "6673faa88574d79db472cb4061c7beb096d19b655239edf083bafc69e39915d3"
+    },
+    {
+      "index": 3,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/165/10474/tudor-submariner-prince-oysterdate-stainless-steel-mens-watch-79090-106685_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "b2f815882caabb6004955c49743a2fd77dba433cffaceb2c1976b2ad4ea1dbeb"
+    },
+    {
+      "index": 4,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/165/10474/tudor-submariner-prince-oysterdate-stainless-steel-mens-watch-79090-106687_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "8e66d1563e335024f46b8eca0b85b4e36ada0f152b78212865114fbc2d6afa58"
+    },
+    {
+      "index": 5,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/165/10474/tudor-submariner-prince-oysterdate-stainless-steel-mens-watch-79090-106691_b.jpg",
+      "width": 813,
+      "height": 814,
+      "sha256": "dac5ca330b001927f6920dab5b0e05058b35148e24922eb1cc0eab26360e87e8"
+    },
+    {
+      "index": 6,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/165/10474/tudor-submariner-prince-oysterdate-stainless-steel-mens-watch-79090-106689_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "007794c5e604d39c697f53be20703726abba32a4e7c4e2b67bd861e662197968"
+    },
+    {
+      "index": 7,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/165/10474/tudor-submariner-prince-oysterdate-stainless-steel-mens-watch-79090-106684_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "f4c502a0d48d2dc171fa673291c39c1ce6442536dc93e6b3e91b72a13a3c89df"
+    },
+    {
+      "index": 8,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/165/10474/tudor-submariner-prince-oysterdate-stainless-steel-mens-watch-79090-106692_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "2e1fd131c4ff4cb4e6b73613743f431c8a419e685f79bc53c79ce63eb5de80b2"
+    },
+    {
+      "index": 9,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/165/10474/tudor-submariner-prince-oysterdate-stainless-steel-mens-watch-79090-106688_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "ac19c8fd46d2545b715c0969595a67f88f30c8768046022a52bea364313213a1"
+    },
+    {
+      "index": 10,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/165/10474/tudor-submariner-prince-oysterdate-stainless-steel-mens-watch-79090-106694_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "a7fffc6d0bd315e41145ec1a3b0e21df2c2c3c5c9733159003fbc401f7e492d3"
+    },
+    {
+      "index": 11,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/165/10474/tudor-submariner-prince-oysterdate-stainless-steel-mens-watch-79090-106693_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "d3f6ae5328959665e4bc678600b600bd2cf09b6dd963b7d813703f0a498a42bb"
+    },
+    {
+      "index": 12,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/165/10474/tudor-submariner-prince-oysterdate-stainless-steel-mens-watch-79090-106690_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "f80354c60776bf6ca67e93668afeae4a043ad3aa57eec3782e2fdb9de6c72e97"
+    }
+  ],
+  "unsupportedCategories": [],
+  "remainingGaps": [
+    "Complete exterior back",
+    "Readable numeric movement stamp",
+    "Crystal composition/original fitment and chronology",
+    "Other dial/period executions"
+  ]
+}
