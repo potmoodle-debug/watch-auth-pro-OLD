@@ -1,0 +1,247 @@
+{
+  "reviewedAt": "2026-11-16",
+  "brand": "ROLEX",
+  "references": [
+    "126715",
+    "126715CHNR",
+    "M126715CHNR-0001"
+  ],
+  "evidence": "Original SwissWatchExpo stock 84933 explicitly identifies numeric 126715; gallery 7 shows the same case engraving. Its photographed card identifies 126715CHNR and tag M126715CHNR-0001 (gallery 12); paperwork inspected for identification only and excluded from the gallery. Stock 77501 identifies 126715CHNR and its case engraving reads 126715; no full retail suffix established for that specimen. All 25 original gallery files inspected, selected views separately inspected at high resolution. Both opened movement photographs visibly show 3285 and 31 jewels, with differing rotor executions. These are specimen comparisons, not a dated revision chronology, interchangeable-part proof or authentication of the user watch. Rolex original -0001 brochure specifies 40 mm 18 ct Everose, black dial, brown/black Cerachrom, automatic GMT 3285, approximately 70-hour reserve, Oyster bracelet and Oysterlock/Easylink. Dealer dates do not establish production intervals. No -0002 photograph inheritance, neighbouring reference, generic calibre substitute, inner caseback or individual material authenticity inferred.",
+  "sources": [
+    {
+      "title": "SwissWatchExpo original stock 84933",
+      "url": "https://www.swisswatchexpo.com/watches/rolex-gmt-master-ii-rose-gold-root-beer-black-brown-mens-watch-126715-box-card-84933/"
+    },
+    {
+      "title": "SwissWatchExpo original stock 77501",
+      "url": "https://www.swisswatchexpo.com/watches/rolex-gmt-master-ii-black-brown-root-beer-rose-gold-mens-watch-126715-77501/"
+    },
+    {
+      "title": "Rolex original 126715CHNR-0001 brochure",
+      "url": "https://content.rolex.com/dam/media/brochures/gmt-master-ii/m126715chnr-0001.pdf"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "rolex-126715-84933-front-0",
+      "category": "front",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/11/4/rolex-gmt-master-ii-rose-gold-root-beer-black-brown-mens-watch-126715-box-card-84933_b7cd2.jpg",
+      "sha256": "a8db17d878c3f6877857254f45680dd30d5e146334cf7322b207041c07937e4d"
+    },
+    {
+      "id": "rolex-126715-84933-movement-8",
+      "category": "movement",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/11/4/rolex-gmt-master-ii-rose-gold-root-beer-black-brown-mens-watch-126715-box-card-84933_35c6f.jpg",
+      "sha256": "134186569373ef1f844792d7e20c196b1327382e8e9168e61f1174ec461a8061"
+    },
+    {
+      "id": "rolex-126715-84933-caseback-9",
+      "category": "caseback",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/11/4/rolex-gmt-master-ii-rose-gold-root-beer-black-brown-mens-watch-126715-box-card-84933_0d9bb.jpg",
+      "sha256": "498a0a7319879e489f983f9c9a74a90aa8b56788ca0a7014ad3f2475c9a05900"
+    },
+    {
+      "id": "rolex-126715-84933-braceletClasp-10",
+      "category": "braceletClasp",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/11/4/rolex-gmt-master-ii-rose-gold-root-beer-black-brown-mens-watch-126715-box-card-84933_d784a.jpg",
+      "sha256": "48f06b11185b9954fafd97329bcae6015c499801a1f7135bd9f8d6984b869cfa"
+    },
+    {
+      "id": "rolex-126715-84933-detail-7",
+      "category": "detail",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/11/4/rolex-gmt-master-ii-rose-gold-root-beer-black-brown-mens-watch-126715-box-card-84933_14b13.jpg",
+      "sha256": "33b29deb9a3aa0c60b1efcaadc4325f2414933aa7f3fda3b17bb02ddfbbc89b7"
+    },
+    {
+      "id": "rolex-126715-77501-movement-8",
+      "category": "movement",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/2/20/rolex-gmt-master-ii-black-brown-root-beer-rose-gold-mens-watch-126715-77501_18898.jpg",
+      "sha256": "462bf4f62349221cde315ac1984d64a5af25bb4707781d1fd09910409d7e4932"
+    }
+  ],
+  "inspectedGalleries": {
+    "84933": [
+      {
+        "index": 0,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/11/4/rolex-gmt-master-ii-rose-gold-root-beer-black-brown-mens-watch-126715-box-card-84933_b7cd2.jpg",
+        "width": 2831,
+        "height": 2831,
+        "sha256": "a8db17d878c3f6877857254f45680dd30d5e146334cf7322b207041c07937e4d"
+      },
+      {
+        "index": 1,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/11/4/rolex-gmt-master-ii-rose-gold-root-beer-black-brown-mens-watch-126715-box-card-84933_d90e9.jpg",
+        "width": 2831,
+        "height": 2831,
+        "sha256": "a8db17d878c3f6877857254f45680dd30d5e146334cf7322b207041c07937e4d"
+      },
+      {
+        "index": 2,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/11/4/rolex-gmt-master-ii-rose-gold-root-beer-black-brown-mens-watch-126715-box-card-84933_ee0c4.jpg",
+        "width": 4347,
+        "height": 4347,
+        "sha256": "bb710de9d11eec9f0011051b30eee1074a3423882e5d34e479624ff1a27a7a28"
+      },
+      {
+        "index": 3,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/11/4/rolex-gmt-master-ii-rose-gold-root-beer-black-brown-mens-watch-126715-box-card-84933_41c1b.jpg",
+        "width": 4547,
+        "height": 4547,
+        "sha256": "a2007a6be9dbffd9acb2b7b5219f54706ba6ff8ac5292670f9ddbaffdf6abed1"
+      },
+      {
+        "index": 4,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/11/4/rolex-gmt-master-ii-rose-gold-root-beer-black-brown-mens-watch-126715-box-card-84933_53578.jpg",
+        "width": 4395,
+        "height": 4395,
+        "sha256": "db2e07f0c28e20d4c3a2173c6e56b487ddcdd0f82c4d7fcff5c8fdbc8e208df6"
+      },
+      {
+        "index": 5,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/11/4/rolex-gmt-master-ii-rose-gold-root-beer-black-brown-mens-watch-126715-box-card-84933_092f0.jpg",
+        "width": 2841,
+        "height": 2841,
+        "sha256": "569ffeb9b2427e9c0fe276274b4fc97f0cbb41cd2d4bd6e665e190fa6579962c"
+      },
+      {
+        "index": 6,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/11/4/rolex-gmt-master-ii-rose-gold-root-beer-black-brown-mens-watch-126715-box-card-84933_0d681.jpg",
+        "width": 816,
+        "height": 816,
+        "sha256": "ee2d1468833b7900ddb61c72e07e813fd370189e39bd9f944ee7a6e038240a77"
+      },
+      {
+        "index": 7,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/11/4/rolex-gmt-master-ii-rose-gold-root-beer-black-brown-mens-watch-126715-box-card-84933_14b13.jpg",
+        "width": 988,
+        "height": 988,
+        "sha256": "33b29deb9a3aa0c60b1efcaadc4325f2414933aa7f3fda3b17bb02ddfbbc89b7"
+      },
+      {
+        "index": 8,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/11/4/rolex-gmt-master-ii-rose-gold-root-beer-black-brown-mens-watch-126715-box-card-84933_35c6f.jpg",
+        "width": 2143,
+        "height": 2143,
+        "sha256": "134186569373ef1f844792d7e20c196b1327382e8e9168e61f1174ec461a8061"
+      },
+      {
+        "index": 9,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/11/4/rolex-gmt-master-ii-rose-gold-root-beer-black-brown-mens-watch-126715-box-card-84933_0d9bb.jpg",
+        "width": 4609,
+        "height": 4609,
+        "sha256": "498a0a7319879e489f983f9c9a74a90aa8b56788ca0a7014ad3f2475c9a05900"
+      },
+      {
+        "index": 10,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/11/4/rolex-gmt-master-ii-rose-gold-root-beer-black-brown-mens-watch-126715-box-card-84933_d784a.jpg",
+        "width": 3103,
+        "height": 3103,
+        "sha256": "48f06b11185b9954fafd97329bcae6015c499801a1f7135bd9f8d6984b869cfa"
+      },
+      {
+        "index": 11,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/11/4/rolex-gmt-master-ii-rose-gold-root-beer-black-brown-mens-watch-126715-box-card-84933_569a9.jpg",
+        "width": 1555,
+        "height": 1555,
+        "sha256": "c47d9224d778eb7e726c6f18412b483dd3cc9359310aa8ccea4a292306b14a27"
+      },
+      {
+        "index": 12,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/11/4/rolex-gmt-master-ii-rose-gold-root-beer-black-brown-mens-watch-126715-box-card-84933_77213.jpg",
+        "width": 1555,
+        "height": 1555,
+        "sha256": "983e1ba23125ad92148bca6840bd6a37cff25c855f15049b984cb5b8c4318fd9"
+      }
+    ],
+    "77501": [
+      {
+        "index": 0,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/2/20/rolex-gmt-master-ii-black-brown-root-beer-rose-gold-mens-watch-126715-77501_2de20.jpg",
+        "width": 2657,
+        "height": 2657,
+        "sha256": "cecd7535f3b93f09af8f23ae55743883e62b7515b5a101d0fe3b068ba6bc2d4e"
+      },
+      {
+        "index": 1,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/2/20/rolex-gmt-master-ii-black-brown-root-beer-rose-gold-mens-watch-126715-77501_72304.jpg",
+        "width": 2657,
+        "height": 2657,
+        "sha256": "cecd7535f3b93f09af8f23ae55743883e62b7515b5a101d0fe3b068ba6bc2d4e"
+      },
+      {
+        "index": 2,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/2/20/rolex-gmt-master-ii-black-brown-root-beer-rose-gold-mens-watch-126715-77501_f5b2f.jpg",
+        "width": 4232,
+        "height": 4232,
+        "sha256": "4b45bdcc7b01edb9f06b66c8e2834b843ef19df9efffcc6fd78e29d7287e1335"
+      },
+      {
+        "index": 3,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/2/20/rolex-gmt-master-ii-black-brown-root-beer-rose-gold-mens-watch-126715-77501_878ee.jpg",
+        "width": 4340,
+        "height": 4340,
+        "sha256": "2ec09828516155cf86e12f69055a04d381f8eaf0f4353a98d4a3afe9f5e74168"
+      },
+      {
+        "index": 4,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/2/20/rolex-gmt-master-ii-black-brown-root-beer-rose-gold-mens-watch-126715-77501_159e8.jpg",
+        "width": 4619,
+        "height": 4619,
+        "sha256": "86a8dce6e167de6a2887d172eab671aeb890ae1c22b133f270556040afe5f113"
+      },
+      {
+        "index": 5,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/2/20/rolex-gmt-master-ii-black-brown-root-beer-rose-gold-mens-watch-126715-77501_3d6ee.jpg",
+        "width": 3064,
+        "height": 3064,
+        "sha256": "7c6828c38f6b894abc419542c84958803e8ad8a3f7923f26975f9d4e70b1ef96"
+      },
+      {
+        "index": 6,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/2/20/rolex-gmt-master-ii-black-brown-root-beer-rose-gold-mens-watch-126715-77501_46d9e.jpg",
+        "width": 1285,
+        "height": 1285,
+        "sha256": "0ed476a175dfde66428b48bf091e41d4e586ede77bfb6facd1ffc58709d88b50"
+      },
+      {
+        "index": 7,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/2/20/rolex-gmt-master-ii-black-brown-root-beer-rose-gold-mens-watch-126715-77501_e692e.jpg",
+        "width": 1024,
+        "height": 1024,
+        "sha256": "c13c285add9bafee9c9689eb2d909995399c130a75473b48ea6889c177558040"
+      },
+      {
+        "index": 8,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/2/20/rolex-gmt-master-ii-black-brown-root-beer-rose-gold-mens-watch-126715-77501_18898.jpg",
+        "width": 2440,
+        "height": 2440,
+        "sha256": "462bf4f62349221cde315ac1984d64a5af25bb4707781d1fd09910409d7e4932"
+      },
+      {
+        "index": 9,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/2/20/rolex-gmt-master-ii-black-brown-root-beer-rose-gold-mens-watch-126715-77501_9f589.jpg",
+        "width": 3328,
+        "height": 3328,
+        "sha256": "32712b77cb2722c8e4e18cd0805eb3952d11832aaac7b8adc1db3b7f46fa77a2"
+      },
+      {
+        "index": 10,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/2/20/rolex-gmt-master-ii-black-brown-root-beer-rose-gold-mens-watch-126715-77501_803b1.jpg",
+        "width": 2772,
+        "height": 2772,
+        "sha256": "c9d4830e903a3782821bc396e7e00d00533e589dad933cfedb4cc8e227cd8fd7"
+      },
+      {
+        "index": 11,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/2/20/rolex-gmt-master-ii-black-brown-root-beer-rose-gold-mens-watch-126715-77501_2721b.jpg",
+        "width": 1555,
+        "height": 1555,
+        "sha256": "3fbcfc63000735f7b2612d659177ae12704e6b5a6c452a357fc0a994e4e5b7b0"
+      }
+    ]
+  },
+  "remainingGaps": [
+    "No verified -0002 specimen photographs in this review.",
+    "No inner caseback or universal production-revision chronology established."
+  ]
+}

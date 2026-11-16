@@ -1,10 +1,10 @@
 // Explicit researched inventory. Keep aliases scoped to LEC guidance.
 export const rolexLecData={
-  "reviewedAt": "2026-11-11",
+  "reviewedAt": "2026-11-16",
   "scope": "Published BenchAuth Rolex inventory, explicit rule literals, public photo catalogue aliases and substantiated shared-team references. Original crystal expectations; modern Yes results use production-era inference. No inference from a random serial or partial reference. References outside these explicit lists remain unresearched.",
   "counts": {
-    "references": 1807,
-    "modern": 1668,
+    "references": 1808,
+    "modern": 1669,
     "vintage": 89,
     "transition": 39,
     "conflicting-history": 8,
@@ -205,6 +205,7 @@ export const rolexLecData={
         "126710BLRO",
         "126711",
         "126711CHNR",
+        "126715",
         "126715CHNR",
         "126718GRNR",
         "126720",
