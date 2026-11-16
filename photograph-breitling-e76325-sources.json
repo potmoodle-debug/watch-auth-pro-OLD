@@ -1,0 +1,108 @@
+{
+  "reviewedAt": "2026-11-16",
+  "brand": "BREITLING",
+  "reference": "E76325",
+  "evidence": "Original SwissWatchExpo stock71675 identifies E76325, 51mm titanium, orange dial, SuperQuartz B76 and black rubber with titanium deployant. All nine gallery files inspected; selected front, back and clasp views individually inspected at native resolution. Back visibly reads E76325 and nominal5 bars. Dial reads121.5/406MHz. Back battery-replacement label August2025 is specimen-specific, not a universal service schedule or present battery condition. No opened movement or fitted numeric calibre stamp established. Separate Heritage lot21186/12012 identifies black-dial titanium-bracelet E76325 and attributes Breitling76; its battery condition belongs to that separate specimen. Heritage textual record read but its complete gallery not reviewed here; its source record remains text-only. No full retail suffix or production interval inferred. No generic calibre substitution, neighbouring reference, material assay, original-fitment or individual-watch authenticity inferred. Nominal water-resistance markings are not current pressure testing. Unsupported movement category remains empty; research gaps remain open.",
+  "sources": [
+    {
+      "title": "SwissWatchExpo original specimen stock 71675",
+      "url": "https://www.swisswatchexpo.com/watches/breitling-emergency-ii-51mm-orange-dial-titanium-mens-watch-e76325-71675/"
+    },
+    {
+      "title": "Separate original source — textual attribution",
+      "url": "https://jewelry.ha.com/c/fact-sheet.zx?ic3=ViewItem-Auction-Open-Action-PrintFactSheet-071515&lotNo=12012&saleNo=21186"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "breitling-e76325-71675-front-0",
+      "category": "front",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/6/17/breitling-emergency-ii-51mm-orange-dial-titanium-mens-watch-e76325-71675_0496a.jpg",
+      "sha256": "4f8345d38ec73b761e57d434894c8f81cc462d362fc4e64a2d0b87b29762aedb"
+    },
+    {
+      "id": "breitling-e76325-71675-caseback-6",
+      "category": "caseback",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/6/17/breitling-emergency-ii-51mm-orange-dial-titanium-mens-watch-e76325-71675_505c5.jpg",
+      "sha256": "92121c027050e70875e086f3b76d8467c6d8907149396a07da7712bd47d52c31"
+    },
+    {
+      "id": "breitling-e76325-71675-braceletClasp-7",
+      "category": "braceletClasp",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/6/17/breitling-emergency-ii-51mm-orange-dial-titanium-mens-watch-e76325-71675_fd262.jpg",
+      "sha256": "b3d8420bb6ae4dd3d4567ce2e0bd10a44c0f8db3e83fc95992ebbc9fc02696b2"
+    }
+  ],
+  "inspectedGallery": [
+    {
+      "index": 0,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/6/17/breitling-emergency-ii-51mm-orange-dial-titanium-mens-watch-e76325-71675_0496a.jpg",
+      "width": 3508,
+      "height": 3508,
+      "sha256": "4f8345d38ec73b761e57d434894c8f81cc462d362fc4e64a2d0b87b29762aedb"
+    },
+    {
+      "index": 1,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/6/17/breitling-emergency-ii-51mm-orange-dial-titanium-mens-watch-e76325-71675_52ca5.jpg",
+      "width": 3508,
+      "height": 3508,
+      "sha256": "4f8345d38ec73b761e57d434894c8f81cc462d362fc4e64a2d0b87b29762aedb"
+    },
+    {
+      "index": 2,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/6/17/breitling-emergency-ii-51mm-orange-dial-titanium-mens-watch-e76325-71675_f3ee1.jpg",
+      "width": 4764,
+      "height": 4764,
+      "sha256": "6e0efe18e1f89c57d9c0cbe17b83c9dc37df2a45d2cc13f1ab5b04b1843c6b71"
+    },
+    {
+      "index": 3,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/6/17/breitling-emergency-ii-51mm-orange-dial-titanium-mens-watch-e76325-71675_40a4a.jpg",
+      "width": 4897,
+      "height": 4897,
+      "sha256": "6d289f3b6139452eb3918d865e7f742fc466442dac2943a5e536a54946a51eaf"
+    },
+    {
+      "index": 4,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/6/17/breitling-emergency-ii-51mm-orange-dial-titanium-mens-watch-e76325-71675_bc5df.jpg",
+      "width": 4810,
+      "height": 4810,
+      "sha256": "54ee6651fcd8f22e40ec74670f7ad45b0d72f2dc28e4128a263b5f1eab320060"
+    },
+    {
+      "index": 5,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/6/17/breitling-emergency-ii-51mm-orange-dial-titanium-mens-watch-e76325-71675_dfa04.jpg",
+      "width": 3697,
+      "height": 3697,
+      "sha256": "b16c233e101b7564d9d5fdf2486d95a168dd0387cfe592297fb2b121cbc15242"
+    },
+    {
+      "index": 6,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/6/17/breitling-emergency-ii-51mm-orange-dial-titanium-mens-watch-e76325-71675_505c5.jpg",
+      "width": 3655,
+      "height": 3655,
+      "sha256": "92121c027050e70875e086f3b76d8467c6d8907149396a07da7712bd47d52c31"
+    },
+    {
+      "index": 7,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/6/17/breitling-emergency-ii-51mm-orange-dial-titanium-mens-watch-e76325-71675_fd262.jpg",
+      "width": 3496,
+      "height": 3496,
+      "sha256": "b3d8420bb6ae4dd3d4567ce2e0bd10a44c0f8db3e83fc95992ebbc9fc02696b2"
+    },
+    {
+      "index": 8,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/6/17/breitling-emergency-ii-51mm-orange-dial-titanium-mens-watch-e76325-71675_809e9.jpg",
+      "width": 1555,
+      "height": 1555,
+      "sha256": "b7f6d6dc6e5d54fd2d77a0590244099d1a223efc8c8e6c0b7fae791bf75d4c1b"
+    }
+  ],
+  "unsupportedCategories": [
+    "movement"
+  ],
+  "remainingGaps": [
+    "No opened movement or inner back in inspected gallery.",
+    "No full suffix or universal production interval established."
+  ]
+}
