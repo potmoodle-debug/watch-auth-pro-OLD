@@ -1,0 +1,145 @@
+{
+  "reviewedAt": "2026-11-16",
+  "brand": "BREITLING",
+  "reference": "A17350",
+  "evidence": "Original Zeitauktion specimen 2300314 rechecked 16 November 2026: exact A17350, black dial, steel bracelet and automatic B17 attribution. All 13 distinct current numbered gallery files downloaded and contact-inspected; original front 01, back 09 and clasp 13 separately inspected at 2400 px. Their SHA256 hashes match the three already verified BenchAuth entries; no duplicate photographs added. Arabic-numeral Colt Ocean dial, date at 3, rider-tab bezel, Breitling chronometer/500M caseback and Breitling 1884 clasp signing visible. The case reference is supplied by the original exact listing, not a legible caseback engraving in these views. Dealer states 1999-2001 for its specimen; a universal production interval is not established. No opened movement or inner caseback in the current gallery; B17 is attributed model guidance, not an observed fitted numeric stamp. No generic ETA2824-2 equivalence, retail suffix, neighbouring Colt reference, current pressure resistance, factory originality or individual authenticity inferred. Paperwork, register report and box excluded. Further original-source search did not establish a usable opened-movement photograph; absence is a researched source-set gap, not a claim none exists anywhere.",
+  "sources": [
+    {
+      "title": "Zeitauktion original specimen 2300314",
+      "url": "https://www.zeitauktion.com/de/products/breitling-colt-ocean-500m-edelstahl-automatik-herrenuhr-ref-a17350-2300314"
+    }
+  ],
+  "retainedPhotographs": [
+    {
+      "id": "breitling-a17350-20261026-front",
+      "category": "front",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2300314_01_2k.jpg?v=1747317399",
+      "sha256": "46657800684511d9aa1d75323281501c668583c1daed3f02bed990da2c392866"
+    },
+    {
+      "id": "breitling-a17350-20261026-caseback",
+      "category": "caseback",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2300314_09_2k.jpg?v=1747317399",
+      "sha256": "7cc6edffcf478acd1328e4be49acb859ebef9ef328c9ffbda45770cd8fb0f6a9"
+    },
+    {
+      "id": "breitling-a17350-20261026-braceletClasp",
+      "category": "braceletClasp",
+      "image": "https://cdn.shopify.com/s/files/1/0742/5638/4229/files/2300314_13_2k.jpg?v=1747317399",
+      "sha256": "64c94122e6175550253fe5075c3eb8c1ff0d0d2d4c02647ceb80e3017eb12e4e"
+    }
+  ],
+  "inspectedGallery": [
+    {
+      "index": 0,
+      "file": "2300314_02_2k.jpg",
+      "url": "https://www.zeitauktion.com/cdn/shop/files/2300314_02_2k.jpg?v=1747317399&width=2400",
+      "width": 2400,
+      "height": 1600,
+      "sha256": "5fe07fe8b433270f2d08d9ba161bb6298fd7ef2ca615cb8759086919cfa99983"
+    },
+    {
+      "index": 1,
+      "file": "2300314_03_2k.jpg",
+      "url": "https://www.zeitauktion.com/cdn/shop/files/2300314_03_2k.jpg?v=1747317399&width=2400",
+      "width": 2400,
+      "height": 1600,
+      "sha256": "fcaa6c7fc7dcbfd1a4a960b444765424eff1c8d4705c93695169942dea1bad34"
+    },
+    {
+      "index": 2,
+      "file": "2300314_04_2k.jpg",
+      "url": "https://www.zeitauktion.com/cdn/shop/files/2300314_04_2k.jpg?v=1747317399&width=2400",
+      "width": 2400,
+      "height": 1600,
+      "sha256": "4881686010f81b0d83999d754a36472c0894e9ae5fb4d292e328dae9c23cd497"
+    },
+    {
+      "index": 3,
+      "file": "2300314_01_2k.jpg",
+      "url": "https://www.zeitauktion.com/cdn/shop/files/2300314_01_2k.jpg?v=1747317399&width=2400",
+      "width": 2400,
+      "height": 1600,
+      "sha256": "46657800684511d9aa1d75323281501c668583c1daed3f02bed990da2c392866"
+    },
+    {
+      "index": 4,
+      "file": "2300314_05_2k.jpg",
+      "url": "https://www.zeitauktion.com/cdn/shop/files/2300314_05_2k.jpg?v=1747317399&width=2400",
+      "width": 2400,
+      "height": 1600,
+      "sha256": "e2cd3d65f2b6b6127ce359fad343290d799f46b908b1ab7c1ea5c8c16230bab6"
+    },
+    {
+      "index": 5,
+      "file": "2300314_06_2k.jpg",
+      "url": "https://www.zeitauktion.com/cdn/shop/files/2300314_06_2k.jpg?v=1747317399&width=2400",
+      "width": 2400,
+      "height": 1600,
+      "sha256": "424c9da41cbed954088141947d494f3590a10172cf19b7f4efe14b7920bd08b8"
+    },
+    {
+      "index": 6,
+      "file": "2300314_07_2k.jpg",
+      "url": "https://www.zeitauktion.com/cdn/shop/files/2300314_07_2k.jpg?v=1747317399&width=2400",
+      "width": 2400,
+      "height": 1600,
+      "sha256": "0edd568e7713a71c509254de078bbcd393da57cf29010b6166280cf8e9336f82"
+    },
+    {
+      "index": 7,
+      "file": "2300314_08_2k.jpg",
+      "url": "https://www.zeitauktion.com/cdn/shop/files/2300314_08_2k.jpg?v=1747317399&width=2400",
+      "width": 2400,
+      "height": 1600,
+      "sha256": "a73db97a9ef440ec66e971d2637e6519b472f4b50f2e571c5741af8ea5c4f44f"
+    },
+    {
+      "index": 8,
+      "file": "2300314_09_2k.jpg",
+      "url": "https://www.zeitauktion.com/cdn/shop/files/2300314_09_2k.jpg?v=1747317399&width=2400",
+      "width": 2400,
+      "height": 1600,
+      "sha256": "7cc6edffcf478acd1328e4be49acb859ebef9ef328c9ffbda45770cd8fb0f6a9"
+    },
+    {
+      "index": 9,
+      "file": "2300314_10_2k.jpg",
+      "url": "https://www.zeitauktion.com/cdn/shop/files/2300314_10_2k.jpg?v=1747317399&width=2400",
+      "width": 2400,
+      "height": 1600,
+      "sha256": "460214b5eb2de997eb9fdcf964cac3dfd036af841fae4845edca2af67dae9292"
+    },
+    {
+      "index": 10,
+      "file": "2300314_11_2k.jpg",
+      "url": "https://www.zeitauktion.com/cdn/shop/files/2300314_11_2k.jpg?v=1747317399&width=2400",
+      "width": 2400,
+      "height": 1600,
+      "sha256": "eb56c814bbd48b880d18c432a67b81061346168344dce0e5dc7ce4071f5b73d1"
+    },
+    {
+      "index": 11,
+      "file": "2300314_12_2k.jpg",
+      "url": "https://www.zeitauktion.com/cdn/shop/files/2300314_12_2k.jpg?v=1747317399&width=2400",
+      "width": 2400,
+      "height": 1600,
+      "sha256": "d4a644c669dc9b1f332b818ee6eaeb527de212d6e29b1cdbe1121dac5b02b1b0"
+    },
+    {
+      "index": 12,
+      "file": "2300314_13_2k.jpg",
+      "url": "https://www.zeitauktion.com/cdn/shop/files/2300314_13_2k.jpg?v=1747317399&width=2400",
+      "width": 2400,
+      "height": 1600,
+      "sha256": "64c94122e6175550253fe5075c3eb8c1ff0d0d2d4c02647ceb80e3017eb12e4e"
+    }
+  ],
+  "unsupportedCategories": [
+    "movement"
+  ],
+  "remainingGaps": [
+    "No opened movement or inner caseback photograph in current source gallery.",
+    "Fitted numeric calibre, complete retail suffix and universal production interval not independently established."
+  ]
+}
