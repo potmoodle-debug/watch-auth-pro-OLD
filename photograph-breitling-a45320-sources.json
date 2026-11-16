@@ -1,0 +1,326 @@
+{
+  "reviewedAt": "2026-11-16",
+  "brand": "BREITLING",
+  "reference": "A45320",
+  "evidence": "Original SwissWatchExpo stocks73276,67413 and36110 explicitly identify exact A45320,44mm steel Galactic day-date, automatic movement and actual sale-watch photographs. All33 original gallery files contact-inspected; nine selected front, closed-back and clasp views separately inspected at native resolution. All three backs visibly read A45320. Silver/black-rubber specimen has a Breitling chronometer/200M back. Blue/blue-rubber and black/steel-bracelet specimens have distinct Breitling for America/Special Edition backs with US map/flag and individual edition denominators of500; this does not establish a universal A45320 edition size or one shared production run. Front day at12/date at3 and Breitling-signed folding clasps visible. Source years2015/2019/2020 describe dealer specimen dates, not a proven production interval or edition chronology. Original OrologeriaTempus blue/leather A45320 listing attributes Breitling45/COSC; its retail suffix A45320B9/C902 and title wording Master Chronometer are not independently established for these three different specimens. No METAS inference from that title. No opened movement or inner caseback in inspected SwissWatchExpo galleries; fitted numeric calibre and supplier execution remain unverified. No generic supplier-calibre equivalence, missing suffix, neighbouring reference, assay, original-fitment or individual-watch authenticity inferred. Nominal200M is not current water-resistance testing. Packaging/card images excluded.",
+  "sources": [
+    {
+      "title": "SwissWatchExpo original stock73276",
+      "url": "https://www.swisswatchexpo.com/watches/breitling-galactic-44-day-date-steel-silver-dial-watch-a45320-73276/"
+    },
+    {
+      "title": "SwissWatchExpo original stock67413",
+      "url": "https://www.swisswatchexpo.com/watches/breitling-galactic-44-day-date-steel-blue-dial-watch-a45320-box-card-67413/"
+    },
+    {
+      "title": "SwissWatchExpo original stock36110",
+      "url": "https://www.swisswatchexpo.com/watches/breitling-galactic-44-day-date-steel-black-dial-watch-a45320-box-papers-36110/"
+    },
+    {
+      "title": "OrologeriaTempus separate blue/leather specimen — textual calibre attribution",
+      "url": "https://www.orologeriatempus.com/prodotto/breitling-galactic-day-date-44mm-a45320-with-papers-anno-2015-blue-dial-c-o-s-c-master-chronometer-automatico-acciaio/"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "breitling-a45320-73276-front-0",
+      "category": "front",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/9/29/breitling-galactic-44-day-date-steel-silver-dial-watch-a45320-73276_7ffc9.jpg",
+      "sha256": "fb2b87f75e99a31a28a226acfa6bc6bb0857d5634cf2d5d7e92c7b9c314ef161"
+    },
+    {
+      "id": "breitling-a45320-73276-caseback-6",
+      "category": "caseback",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/9/29/breitling-galactic-44-day-date-steel-silver-dial-watch-a45320-73276_91938.jpg",
+      "sha256": "49dd26ba7c9758f8ad281fd24a3e749925b4f326e8d2c9dce138f45911cfd154"
+    },
+    {
+      "id": "breitling-a45320-73276-braceletClasp-8",
+      "category": "braceletClasp",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/9/29/breitling-galactic-44-day-date-steel-silver-dial-watch-a45320-73276_3f8a9.jpg",
+      "sha256": "9ee2eddf564743c6c5e01be194c2e2d8753b45d556a4d363922b9accd8d1c909"
+    },
+    {
+      "id": "breitling-a45320-67413-front-0",
+      "category": "front",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/1/14/breitling-galactic-44-day-date-steel-blue-dial-watch-a45320-box-card-67413_5b6d1.jpg",
+      "sha256": "c00d69491f2da6527694b2a4472cbc93692c169316eff0fdf066fadb3a91c60a"
+    },
+    {
+      "id": "breitling-a45320-67413-caseback-7",
+      "category": "caseback",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/1/14/breitling-galactic-44-day-date-steel-blue-dial-watch-a45320-box-card-67413_7d289.jpg",
+      "sha256": "bfe6f3384200425eb36cd5c6ca1eeb5f80a8f350bc3d4c44b63627a9a1dc1062"
+    },
+    {
+      "id": "breitling-a45320-67413-braceletClasp-8",
+      "category": "braceletClasp",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/1/14/breitling-galactic-44-day-date-steel-blue-dial-watch-a45320-box-card-67413_ccdaa.jpg",
+      "sha256": "aec50bb8db728aba1f19b283d5c5b2453b63257715e7124b1e62334e91a1e303"
+    },
+    {
+      "id": "breitling-a45320-36110-front-0",
+      "category": "front",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/8/19/breitling-galactic-44-day-date-steel-black-dial-watch-a45320-box-papers-36110_6d3d4.jpg",
+      "sha256": "853da2b1161cbdcdb39aa44159d2faaf99fa9837ef849a26a22a10dd119c1054"
+    },
+    {
+      "id": "breitling-a45320-36110-caseback-7",
+      "category": "caseback",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/8/19/breitling-galactic-44-day-date-steel-black-dial-watch-a45320-box-papers-36110_471d1.jpg",
+      "sha256": "f43dedd7850b06ca257986421acef79e6ebb84ca65f43f2ee8ba6fbc65f860dd"
+    },
+    {
+      "id": "breitling-a45320-36110-braceletClasp-8",
+      "category": "braceletClasp",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/8/19/breitling-galactic-44-day-date-steel-black-dial-watch-a45320-box-papers-36110_44a79.jpg",
+      "sha256": "87e6d35f574988b6920593b8c4f8ad42ea7a26007e388ad0e75bc87816ffca62"
+    }
+  ],
+  "inspectedGalleries": {
+    "silver": [
+      {
+        "index": 0,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/9/29/breitling-galactic-44-day-date-steel-silver-dial-watch-a45320-73276_7ffc9.jpg",
+        "width": 2721,
+        "height": 2722,
+        "sha256": "fb2b87f75e99a31a28a226acfa6bc6bb0857d5634cf2d5d7e92c7b9c314ef161"
+      },
+      {
+        "index": 1,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/9/29/breitling-galactic-44-day-date-steel-silver-dial-watch-a45320-73276_5d857.jpg",
+        "width": 2721,
+        "height": 2722,
+        "sha256": "fb2b87f75e99a31a28a226acfa6bc6bb0857d5634cf2d5d7e92c7b9c314ef161"
+      },
+      {
+        "index": 2,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/9/29/breitling-galactic-44-day-date-steel-silver-dial-watch-a45320-73276_b8297.jpg",
+        "width": 4393,
+        "height": 4393,
+        "sha256": "4c811af962e25af74f41c3e132dffa7e7b30e5ccda6b79ea57b0c6a8021b4c4b"
+      },
+      {
+        "index": 3,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/9/29/breitling-galactic-44-day-date-steel-silver-dial-watch-a45320-73276_c669d.jpg",
+        "width": 5078,
+        "height": 5078,
+        "sha256": "7eb12b93e8feed09b3d86818f8d22853388793e9b6bd100321fa4c7aaa244265"
+      },
+      {
+        "index": 4,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/9/29/breitling-galactic-44-day-date-steel-silver-dial-watch-a45320-73276_f491c.jpg",
+        "width": 5215,
+        "height": 5215,
+        "sha256": "c323f50c7dfe9ab9cf1a4494331dc1eea48f0943a845a2424fb9b7eea758504c"
+      },
+      {
+        "index": 5,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/9/29/breitling-galactic-44-day-date-steel-silver-dial-watch-a45320-73276_c3201.jpg",
+        "width": 3271,
+        "height": 3271,
+        "sha256": "378b239ba9e55e7c8ba1cce41f6038d4b56410ad51c3ae207ab95df96be7ffff"
+      },
+      {
+        "index": 6,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/9/29/breitling-galactic-44-day-date-steel-silver-dial-watch-a45320-73276_91938.jpg",
+        "width": 2618,
+        "height": 2618,
+        "sha256": "49dd26ba7c9758f8ad281fd24a3e749925b4f326e8d2c9dce138f45911cfd154"
+      },
+      {
+        "index": 7,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/9/29/breitling-galactic-44-day-date-steel-silver-dial-watch-a45320-73276_6ec53.jpg",
+        "width": 1088,
+        "height": 1088,
+        "sha256": "aecf4cdf2867edb15924afcf24b19a06ee9375c8d3fb727c7cf3a1a74738919b"
+      },
+      {
+        "index": 8,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/9/29/breitling-galactic-44-day-date-steel-silver-dial-watch-a45320-73276_3f8a9.jpg",
+        "width": 3316,
+        "height": 3316,
+        "sha256": "9ee2eddf564743c6c5e01be194c2e2d8753b45d556a4d363922b9accd8d1c909"
+      },
+      {
+        "index": 9,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/9/29/breitling-galactic-44-day-date-steel-silver-dial-watch-a45320-73276_c67c8.jpg",
+        "width": 1555,
+        "height": 1555,
+        "sha256": "c24dc7508e3c3f9a13b7ea75bc128ee394136397a0545260ce39ea7c57742c43"
+      }
+    ],
+    "blue": [
+      {
+        "index": 0,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/1/14/breitling-galactic-44-day-date-steel-blue-dial-watch-a45320-box-card-67413_5b6d1.jpg",
+        "width": 2656,
+        "height": 2655,
+        "sha256": "c00d69491f2da6527694b2a4472cbc93692c169316eff0fdf066fadb3a91c60a"
+      },
+      {
+        "index": 1,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/1/14/breitling-galactic-44-day-date-steel-blue-dial-watch-a45320-box-card-67413_c9719.jpg",
+        "width": 2656,
+        "height": 2655,
+        "sha256": "c00d69491f2da6527694b2a4472cbc93692c169316eff0fdf066fadb3a91c60a"
+      },
+      {
+        "index": 2,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/1/14/breitling-galactic-44-day-date-steel-blue-dial-watch-a45320-box-card-67413_23a0a.jpg",
+        "width": 4270,
+        "height": 4270,
+        "sha256": "3f10c5fb7f86ae29ce2cb1fea0e2e79ad798e4c1408fb54e3e8e6c22111e82b8"
+      },
+      {
+        "index": 3,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/1/14/breitling-galactic-44-day-date-steel-blue-dial-watch-a45320-box-card-67413_7e882.jpg",
+        "width": 4846,
+        "height": 4846,
+        "sha256": "c86daea6282c55c6e958271234a6496489b0fad88bf74fbd0868b0996221d77c"
+      },
+      {
+        "index": 4,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/1/14/breitling-galactic-44-day-date-steel-blue-dial-watch-a45320-box-card-67413_8d5db.jpg",
+        "width": 5110,
+        "height": 5110,
+        "sha256": "3e029d993ca7bd7b3f3937eed4105e09dabae98206fb6ce45216c3c89ec638bd"
+      },
+      {
+        "index": 5,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/1/14/breitling-galactic-44-day-date-steel-blue-dial-watch-a45320-box-card-67413_5fb34.jpg",
+        "width": 3239,
+        "height": 3239,
+        "sha256": "345c2cd04ef6744dd5fdfa0d9ae2f78284a4edced5ab4ee64785bc25db0ba413"
+      },
+      {
+        "index": 6,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/1/14/breitling-galactic-44-day-date-steel-blue-dial-watch-a45320-box-card-67413_87a94.jpg",
+        "width": 818,
+        "height": 818,
+        "sha256": "d57260c3ab33a6375837fe8405f00502808a305932e6836476014d25fcb31266"
+      },
+      {
+        "index": 7,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/1/14/breitling-galactic-44-day-date-steel-blue-dial-watch-a45320-box-card-67413_7d289.jpg",
+        "width": 2439,
+        "height": 2439,
+        "sha256": "bfe6f3384200425eb36cd5c6ca1eeb5f80a8f350bc3d4c44b63627a9a1dc1062"
+      },
+      {
+        "index": 8,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/1/14/breitling-galactic-44-day-date-steel-blue-dial-watch-a45320-box-card-67413_ccdaa.jpg",
+        "width": 3228,
+        "height": 3228,
+        "sha256": "aec50bb8db728aba1f19b283d5c5b2453b63257715e7124b1e62334e91a1e303"
+      },
+      {
+        "index": 9,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/1/14/breitling-galactic-44-day-date-steel-blue-dial-watch-a45320-box-card-67413_77972.jpg",
+        "width": 1555,
+        "height": 1555,
+        "sha256": "9100ae2641bcb84f0ee2749a3301bc446054a1be5faa4714d465064d313a69d1"
+      },
+      {
+        "index": 10,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/1/14/breitling-galactic-44-day-date-steel-blue-dial-watch-a45320-box-card-67413_676af.jpg",
+        "width": 1555,
+        "height": 1555,
+        "sha256": "d3ce11c1c957309b5042e7169afe7de72397a0d2d55c7d75d109a497ec295f62"
+      }
+    ],
+    "black": [
+      {
+        "index": 0,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/8/19/breitling-galactic-44-day-date-steel-black-dial-watch-a45320-box-papers-36110_6d3d4.jpg",
+        "width": 2706,
+        "height": 2706,
+        "sha256": "853da2b1161cbdcdb39aa44159d2faaf99fa9837ef849a26a22a10dd119c1054"
+      },
+      {
+        "index": 1,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/8/19/breitling-galactic-44-day-date-steel-black-dial-watch-a45320-box-papers-36110_1b3de.jpg",
+        "width": 2706,
+        "height": 2706,
+        "sha256": "853da2b1161cbdcdb39aa44159d2faaf99fa9837ef849a26a22a10dd119c1054"
+      },
+      {
+        "index": 2,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/8/19/breitling-galactic-44-day-date-steel-black-dial-watch-a45320-box-papers-36110_d171353a25.jpg",
+        "width": 3922,
+        "height": 3922,
+        "sha256": "60186dfb42237e41be404aa292886a20632f59c2a02356276bef95f48b5058e4"
+      },
+      {
+        "index": 3,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/8/19/breitling-galactic-44-day-date-steel-black-dial-watch-a45320-box-papers-36110_b1016.jpg",
+        "width": 4901,
+        "height": 4901,
+        "sha256": "9f68466aaa2f76b692e7fb712430617d0c32a766bc422447dc5874e6dbcc04f3"
+      },
+      {
+        "index": 4,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/8/19/breitling-galactic-44-day-date-steel-black-dial-watch-a45320-box-papers-36110_b43d5.jpg",
+        "width": 4936,
+        "height": 4936,
+        "sha256": "ef236684a178f325b76f9e114390d028637b4185e5e2cac16fb5ead72341e05d"
+      },
+      {
+        "index": 5,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/8/19/breitling-galactic-44-day-date-steel-black-dial-watch-a45320-box-papers-36110_8ed4d.jpg",
+        "width": 3361,
+        "height": 3361,
+        "sha256": "d310e02657334f45b3fa48ecdc976a7bb82020aa2ab419516c5c26ea57481309"
+      },
+      {
+        "index": 6,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/8/19/breitling-galactic-44-day-date-steel-black-dial-watch-a45320-box-papers-36110_f5d5b.jpg",
+        "width": 1422,
+        "height": 1422,
+        "sha256": "0ccc5a1f50319500a6b080f1b2432223fb87477d8d65df9a76588b2bf450174c"
+      },
+      {
+        "index": 7,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/8/19/breitling-galactic-44-day-date-steel-black-dial-watch-a45320-box-papers-36110_471d1.jpg",
+        "width": 2201,
+        "height": 2201,
+        "sha256": "f43dedd7850b06ca257986421acef79e6ebb84ca65f43f2ee8ba6fbc65f860dd"
+      },
+      {
+        "index": 8,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/8/19/breitling-galactic-44-day-date-steel-black-dial-watch-a45320-box-papers-36110_44a79.jpg",
+        "width": 3687,
+        "height": 3687,
+        "sha256": "87e6d35f574988b6920593b8c4f8ad42ea7a26007e388ad0e75bc87816ffca62"
+      },
+      {
+        "index": 9,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/8/19/breitling-galactic-44-day-date-steel-black-dial-watch-a45320-box-papers-36110_0f834.jpg",
+        "width": 3972,
+        "height": 3972,
+        "sha256": "8b5c841b66c335a17c51b60e060e864ef6c86bf4a643221cb64c9dda5fc53db9"
+      },
+      {
+        "index": 10,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/8/19/breitling-galactic-44-day-date-steel-black-dial-watch-a45320-box-papers-36110_4b0a8.jpg",
+        "width": 1555,
+        "height": 1555,
+        "sha256": "37235eca6b8f47ae0e7e29c7974063754c2473758367f7ad3e984a698721f011"
+      },
+      {
+        "index": 11,
+        "url": "https://cdn.swisswatchexpo.com/productphotos/8/19/breitling-galactic-44-day-date-steel-black-dial-watch-a45320-box-papers-36110_6df85.jpg",
+        "width": 1555,
+        "height": 1555,
+        "sha256": "ff5873963142a6b58e2f8edc3895c9efebe39ce180472bf1d0b2f40b38f9bb35"
+      }
+    ]
+  },
+  "unsupportedCategories": [
+    "movement"
+  ],
+  "remainingGaps": [
+    "No opened movement or inner back in inspected specimen galleries.",
+    "No full suffix, universal production interval or edition chronology established."
+  ]
+}
