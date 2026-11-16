@@ -1,0 +1,129 @@
+{
+  "reviewedAt": "2026-11-16",
+  "brand": "BREITLING",
+  "reference": "E56121",
+  "evidence": "Original SwissWatchExpo stock 6638 (gallery directory 5948) lists E56121, quartz, 43mm titanium and gray dial. Actual dial appears dark in photographs; colour description remains attributed. All twelve original gallery files inspected; selected front, back and opened folding-clasp views individually inspected at native resolution. Back visibly reads E56121.1, transmitter made in France by Dassault A.T and nominal 30M. Dial visibly reads 121.5 MHz. Source base reference identifies this specific .1-marked specimen; it does not establish all E56121 executions or universal suffix equivalence. Published photos are explicitly labelled E56121.1 representative variant. No numeric calibre stamp, opened movement or production interval established. Legacy source Kaplans returned403 during this review, so its source record is not promoted to photograph-reviewed. No generic calibre substitution, neighbouring reference, material assay, original-fitment or individual-watch authenticity inferred. Nominal water-resistance markings are not current pressure testing. Unsupported movement category remains empty; research gaps remain open.",
+  "sources": [
+    {
+      "title": "SwissWatchExpo original specimen stock 6638",
+      "url": "https://www.swisswatchexpo.com/watches/breitling/mens-breitling/professional-series/professional-emergency-quartz-titanium-e56121-5948/"
+    },
+    {
+      "title": "Separate original source — textual attribution",
+      "url": "https://www.kaplans.se/en/auktioner/2548?p=5"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "breitling-e56121-6638-front-0",
+      "category": "front",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/225/5948/breitling-professional-emergency-quartz-titanium-watch-e56121_5948_f.jpg",
+      "sha256": "8da46e401a53488af3a3c59165d95894b14b9051aaa52f35aa9eee1b4b251b07"
+    },
+    {
+      "id": "breitling-e56121-6638-caseback-8",
+      "category": "caseback",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/225/5948/breitling-professional-emergency-quartz-titanium-watch-e56121-53871_b.jpg",
+      "sha256": "f65bcea6a999a9a5b59425006bd28d22554419584535e301253c70a45061109b"
+    },
+    {
+      "id": "breitling-e56121-6638-braceletClasp-9",
+      "category": "braceletClasp",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/225/5948/breitling-professional-emergency-quartz-titanium-watch-e56121-53868_b.jpg",
+      "sha256": "a9e1302bd861f6fe8a5fff9c75535b6c2b4547cdb0d1d00430b72c842eed3cfe"
+    }
+  ],
+  "inspectedGallery": [
+    {
+      "index": 0,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/225/5948/breitling-professional-emergency-quartz-titanium-watch-e56121_5948_f.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "8da46e401a53488af3a3c59165d95894b14b9051aaa52f35aa9eee1b4b251b07"
+    },
+    {
+      "index": 1,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/225/5948/breitling-professional-emergency-quartz-titanium-watch-e56121-53865_b.jpg",
+      "width": 499,
+      "height": 499,
+      "sha256": "ee0308dc4e766504b103aee5150bfb1f9882047cf5e6e76db598a28c5bfc909c"
+    },
+    {
+      "index": 2,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/225/5948/breitling-professional-emergency-quartz-titanium-watch-e56121-53864_b35887.jpg",
+      "width": 499,
+      "height": 499,
+      "sha256": "1d843182af9564d26826e185d0933d5c4ddbf3f01cf2ee9c5dc9a296a2ad290e"
+    },
+    {
+      "index": 3,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/225/5948/breitling-professional-emergency-quartz-titanium-watch-e56121-53872_b.jpg",
+      "width": 499,
+      "height": 499,
+      "sha256": "0e0d9d2544c9ef19d8e605e3d4ca47c6aa3499d4ad3c27aec6e1ade2cd46a218"
+    },
+    {
+      "index": 4,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/225/5948/breitling-professional-emergency-quartz-titanium-watch-e56121-53874_b.jpg",
+      "width": 499,
+      "height": 499,
+      "sha256": "5ce909b3d922cc80d5e9527d967690e60f7d51a02032b75e17714ca6513d4d3e"
+    },
+    {
+      "index": 5,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/225/5948/breitling-professional-emergency-quartz-titanium-watch-e56121-53869_b.jpg",
+      "width": 499,
+      "height": 499,
+      "sha256": "221d9bece1ba4867abf5bb37ce8fef172f42d04d42f14edb99a1b0f7ff55a9cf"
+    },
+    {
+      "index": 6,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/225/5948/breitling-professional-emergency-quartz-titanium-watch-e56121-53866_b.jpg",
+      "width": 499,
+      "height": 499,
+      "sha256": "4cfcf4157aceac133f97a96f5a04f94f02c756b89487aafa5572f13ae2e182e4"
+    },
+    {
+      "index": 7,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/225/5948/breitling-professional-emergency-quartz-titanium-watch-e56121-53873_b.jpg",
+      "width": 499,
+      "height": 499,
+      "sha256": "ddb0f75f803ef40c26691cfecb6a3e3b32221ffb073ab6136c31cf8dc38ea4e9"
+    },
+    {
+      "index": 8,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/225/5948/breitling-professional-emergency-quartz-titanium-watch-e56121-53871_b.jpg",
+      "width": 499,
+      "height": 499,
+      "sha256": "f65bcea6a999a9a5b59425006bd28d22554419584535e301253c70a45061109b"
+    },
+    {
+      "index": 9,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/225/5948/breitling-professional-emergency-quartz-titanium-watch-e56121-53868_b.jpg",
+      "width": 499,
+      "height": 499,
+      "sha256": "a9e1302bd861f6fe8a5fff9c75535b6c2b4547cdb0d1d00430b72c842eed3cfe"
+    },
+    {
+      "index": 10,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/225/5948/breitling-professional-emergency-quartz-titanium-watch-e56121-53867_b.jpg",
+      "width": 499,
+      "height": 499,
+      "sha256": "4ee7528cf66c4a4673b47d76e19d364aa8c5b0dfceac1f0c5cf1d6880828cb62"
+    },
+    {
+      "index": 11,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/225/5948/breitling-professional-emergency-quartz-titanium-watch-e56121-53870_b.jpg",
+      "width": 499,
+      "height": 499,
+      "sha256": "bb9b3ad719db008f009bf68a64f701abd710f0ba030b5a468f03a7e9f6850f3c"
+    }
+  ],
+  "unsupportedCategories": [
+    "movement"
+  ],
+  "remainingGaps": [
+    "No opened movement or inner back in inspected gallery.",
+    "No full suffix or universal production interval established."
+  ]
+}
