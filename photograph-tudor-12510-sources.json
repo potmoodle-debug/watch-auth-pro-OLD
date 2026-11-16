@@ -1,0 +1,114 @@
+{
+  "reference": "12510",
+  "reviewedAt": "2026-11-16",
+  "evidence": "Original Stargold used-watch record TUD3009261 explicitly identifies Tudor Style12510,38mm steel, steel bracelet, automatic and specimen year2023. All10original product gallery files inspected; selected front0/clasp8/closed back9 separately inspected at native1000px. Actual worn specimen surfaces, signed clasp and back details visible. Front has dark dial, stone-set positions3/6/9, date3 and Rotor Self-Winding wording; gemstone composition and full retail suffix not established. Closed back visibly reads Tudor/Geneve/Suisse with shields. Clasp visibly signed Tudor. No photographed physical case-reference engraving or opened movement; exact12510 attribution comes from original dealer record. Year2023 and warranty-until2028 statement are specimen/dealer attributions, not a universal production interval or verified current warranty. No numeric calibre stamp, original-fitment proof, independent material assay, pressure/timekeeping result or authentication conclusion for user watches inferred. No12510-0001 or neighbouring reference inheritance. Box/card images excluded from accepted watch photographs. Separate Rasin unused12510 listing states new/unused media may be same-model reused, so that gallery is not adopted as this specimen. Overall variant/execution research remains incomplete.",
+  "sources": [
+    {
+      "title": "Stargold original used specimen TUD3009261",
+      "url": "https://stargold.ch/products/tudor-style-12510"
+    },
+    {
+      "title": "Rasin unused specimen — reused same-model media caveat, not accepted",
+      "url": "https://www.rasin.co.jp/SHOP/S-1251.html"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "tudor-12510-stargold-front-0",
+      "category": "front",
+      "image": "https://cdn.shopify.com/s/files/1/0950/8205/3896/files/TudorStyle-12510-Stargold_1.jpg?v=1790853671",
+      "sha256": "a2c6ffd90f23a50b5b24a8dfeea05d841586b416fef3582c9790ac40f0ba6da2"
+    },
+    {
+      "id": "tudor-12510-stargold-braceletClasp-8",
+      "category": "braceletClasp",
+      "image": "https://cdn.shopify.com/s/files/1/0950/8205/3896/files/TudorStyle-12510-Stargold_7.jpg?v=1790853671",
+      "sha256": "0ea7d3b5130d9d3e31ba04632f7eaa30509631d5c9d18fdda7d70979197e3f7c"
+    },
+    {
+      "id": "tudor-12510-stargold-caseback-9",
+      "category": "caseback",
+      "image": "https://cdn.shopify.com/s/files/1/0950/8205/3896/files/TudorStyle-12510-Stargold_8.jpg?v=1790853671",
+      "sha256": "666c25a62e182cbdf9a6095c32db63954b36d9b48eea9d447dee42803bb8eafe"
+    }
+  ],
+  "inspectedGallery": [
+    {
+      "index": 0,
+      "url": "https://cdn.shopify.com/s/files/1/0950/8205/3896/files/TudorStyle-12510-Stargold_1.jpg?v=1790853671",
+      "width": 1000,
+      "height": 1000,
+      "sha256": "a2c6ffd90f23a50b5b24a8dfeea05d841586b416fef3582c9790ac40f0ba6da2"
+    },
+    {
+      "index": 1,
+      "url": "https://cdn.shopify.com/s/files/1/0950/8205/3896/files/TudorStyle-12510-Stargold_10.jpg?v=1790853671",
+      "width": 1000,
+      "height": 1000,
+      "sha256": "d5fd726a3752011a9591b0203a52d15456fbd83dc24ba4700522511b77efa3a6"
+    },
+    {
+      "index": 2,
+      "url": "https://cdn.shopify.com/s/files/1/0950/8205/3896/files/TudorStyle-12510-Stargold_9.jpg?v=1790853671",
+      "width": 1000,
+      "height": 1000,
+      "sha256": "f8bb8659d3035223a5982246162480de377d7bd34518873f70df707465e0a6cf"
+    },
+    {
+      "index": 3,
+      "url": "https://cdn.shopify.com/s/files/1/0950/8205/3896/files/TudorStyle-12510-Stargold_2.jpg?v=1790853671",
+      "width": 1000,
+      "height": 1000,
+      "sha256": "2b3217f782ba173f00a375ee9ea66a656cd24dfe8f989114def01c7a44f9ac22"
+    },
+    {
+      "index": 4,
+      "url": "https://cdn.shopify.com/s/files/1/0950/8205/3896/files/TudorStyle-12510-Stargold_3.jpg?v=1790853671",
+      "width": 1000,
+      "height": 1000,
+      "sha256": "449bb961fc34522c0830795d762bc1674eb24058bf783bd94d0eacb5d6d38019"
+    },
+    {
+      "index": 5,
+      "url": "https://cdn.shopify.com/s/files/1/0950/8205/3896/files/TudorStyle-12510-Stargold_4.jpg?v=1790853671",
+      "width": 1000,
+      "height": 1000,
+      "sha256": "cb91fd1a473da84ab90561e076b29b04c3fee7a39209dfb91948651941b2cefb"
+    },
+    {
+      "index": 6,
+      "url": "https://cdn.shopify.com/s/files/1/0950/8205/3896/files/TudorStyle-12510-Stargold_5.jpg?v=1790853671",
+      "width": 1000,
+      "height": 1000,
+      "sha256": "c4505db4334f8ff2df63731fb9d8804b571ab3fdfce5d76cd69ecc7e693b25bd"
+    },
+    {
+      "index": 7,
+      "url": "https://cdn.shopify.com/s/files/1/0950/8205/3896/files/TudorStyle-12510-Stargold_6.jpg?v=1790853671",
+      "width": 1000,
+      "height": 1000,
+      "sha256": "105c795a1f2f3496896d9bd5b6a56f8dbfa170e9d48d7da138ffa8eebf779035"
+    },
+    {
+      "index": 8,
+      "url": "https://cdn.shopify.com/s/files/1/0950/8205/3896/files/TudorStyle-12510-Stargold_7.jpg?v=1790853671",
+      "width": 1000,
+      "height": 1000,
+      "sha256": "0ea7d3b5130d9d3e31ba04632f7eaa30509631d5c9d18fdda7d70979197e3f7c"
+    },
+    {
+      "index": 9,
+      "url": "https://cdn.shopify.com/s/files/1/0950/8205/3896/files/TudorStyle-12510-Stargold_8.jpg?v=1790853671",
+      "width": 1000,
+      "height": 1000,
+      "sha256": "666c25a62e182cbdf9a6095c32db63954b36d9b48eea9d447dee42803bb8eafe"
+    }
+  ],
+  "unsupportedCategories": [
+    "movement"
+  ],
+  "remainingGaps": [
+    "No opened movement or physical case-reference engraving.",
+    "No gemstone composition, full suffix, universal period or original-fitment proof."
+  ]
+}
