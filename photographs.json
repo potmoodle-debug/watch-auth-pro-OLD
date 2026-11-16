@@ -43940,6 +43940,74 @@
           "height": 1169
         }
       }
+    },
+    {
+      "id": "tudor-76200-swe31363-movement-8",
+      "brand": "TUDOR",
+      "references": [
+        "76200"
+      ],
+      "representativeFor": [
+        "76200"
+      ],
+      "variant": "SwissWatchExpo31363 — silver dial / observed2834-2",
+      "category": "movement",
+      "depictsMovement": true,
+      "title": "76200 — movement",
+      "caption": "Observed2834-2 stamp and Tudor/AUTO-PRINCE signed rotor with25 marking; exact silver-dial76200 specimen.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/1/28/tudor-day-date-silver-dial-steel-mens-watch-94710-box-card-31363_d491d.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/tudor-day-date-silver-dial-steel-mens-watch-94710-box-card-31363/",
+      "credit": "SwissWatchExpo — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected16November2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-16",
+        "loadedAt": "2026-11-16",
+        "evidence": "Original SwissWatchExpo31363 product model field identifies76200, silver dial/day12/date3/smooth steel bezel. URL and repeated marketing text incorrectly say94710; physical lug engraving7 visibly76200 resolves the specimen attribution to76200 only. All13gallery files inspected; selected opened movement8 and reference engraving7 separately inspected at native resolution. Movement visibly has2834-2 stamp, Tudor shield/TUDOR/AUTO-PRINCE rotor and25 marking. No supplier chronology, complete jewel inscription, original fitment or universal execution inferred. Page2013-2014 year attribution and photographed17December2013 purchase stamp are not independently proved manufacture dates. No94710 inheritance. Existing specimen photographs remain separate. No material/crystal assay, timing, pressure or authentication result inferred. Serial/card/box photos excluded. Separate AB0420 EBTH14422659 gallery10photos inspected with source headers after initial403:all exterior, no opened movement. Overall research remains incomplete.",
+        "imageSha256": "88691a06d3af288c89712d0f5ffe512047f510ed310ddb8e774fc6fac42b3180",
+        "imageDimensions": {
+          "width": 1604,
+          "height": 1604
+        }
+      }
+    },
+    {
+      "id": "tudor-76200-swe31363-detail-7",
+      "brand": "TUDOR",
+      "references": [
+        "76200"
+      ],
+      "representativeFor": [
+        "76200"
+      ],
+      "variant": "SwissWatchExpo31363 — silver dial / observed2834-2",
+      "category": "detail",
+      "depictsMovement": false,
+      "title": "76200 — detail",
+      "caption": "Physical76200 engraving between lugs on this silver-dial specimen, supporting exact-reference matching.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/1/28/tudor-day-date-silver-dial-steel-mens-watch-94710-box-card-31363_2321d.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/tudor-day-date-silver-dial-steel-mens-watch-94710-box-card-31363/",
+      "credit": "SwissWatchExpo — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected16November2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-16",
+        "loadedAt": "2026-11-16",
+        "evidence": "Original SwissWatchExpo31363 product model field identifies76200, silver dial/day12/date3/smooth steel bezel. URL and repeated marketing text incorrectly say94710; physical lug engraving7 visibly76200 resolves the specimen attribution to76200 only. All13gallery files inspected; selected opened movement8 and reference engraving7 separately inspected at native resolution. Movement visibly has2834-2 stamp, Tudor shield/TUDOR/AUTO-PRINCE rotor and25 marking. No supplier chronology, complete jewel inscription, original fitment or universal execution inferred. Page2013-2014 year attribution and photographed17December2013 purchase stamp are not independently proved manufacture dates. No94710 inheritance. Existing specimen photographs remain separate. No material/crystal assay, timing, pressure or authentication result inferred. Serial/card/box photos excluded. Separate AB0420 EBTH14422659 gallery10photos inspected with source headers after initial403:all exterior, no opened movement. Overall research remains incomplete.",
+        "imageSha256": "80a168589ed933860ad129bf5aee990716c144f6b5ff5f75c346e35b51068580",
+        "imageDimensions": {
+          "width": 762,
+          "height": 762
+        }
+      }
     }
   ]
 }
