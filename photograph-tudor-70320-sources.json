@@ -1,0 +1,64 @@
+{
+  "reference": "7032/0",
+  "reviewedAt": "2026-11-16",
+  "evidence": "Original Phillips Winning Icons lot11 explicitly identifies Tudor7032/0, black matte Home Plate dial, steel case and leather strap, with manual7734/17jewels and specimen year1971 attributed in the catalogue. All3distinct original gallery files downloaded and visually inspected at native resolution16November2026. Actual black mounted dial, grey registers, orange accents, date6, steel tachymeter bezel and screw-down pushers visible. Image003 shows an oblique partial closed back with crown/ORIGINAL OYSTER CASE markings and crown/pusher details; it is not a full back view. Image004 is a mounted dial detail, not a spare prototype dial. No opened movement, physical reference engraving, inner-back date, clasp or buckle visible. Catalogue39mm details versus40mm essay discrepancy retained as unresolved; no universal diameter inferred. Catalogue Rolex buckle attribution is not a verified buckle photograph. Year and calibre remain catalogue attributions, not observed stamps or a universal production interval. Photos do not prove original fitment, luminous composition, pressure/timekeeping performance or authenticity of a user watch. No7031/0,7033/0 or prototype inheritance. Separate Davidoff grey MK1 record and Sothebys black example read as leads only; their galleries not pixel-verified here and not imported. Manufacturer source-record review is not promoted by this auction review. Overall research remains incomplete.",
+  "sources": [
+    {
+      "title": "Phillips Winning Icons lot11",
+      "url": "https://www.phillips.com/detail/tudor/109356"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "tudor-70320-phillips-front-001",
+      "category": "front",
+      "image": "https://dist.phillips.com/auction-assets/NY080117/11_001.jpg",
+      "sha256": "ae87f3c7c7fb12364214d70648fefb1dc0fcbbcf4111c00213a02eab98987684"
+    },
+    {
+      "id": "tudor-70320-phillips-caseback-003",
+      "category": "caseback",
+      "image": "https://dist.phillips.com/auction-assets/NY080117/11_003.jpg",
+      "sha256": "9d5dab419f7fb1b6ac433e37b5b893ab15ded3730392ee144fc4c892f2abae63"
+    },
+    {
+      "id": "tudor-70320-phillips-detail-004",
+      "category": "detail",
+      "image": "https://dist.phillips.com/auction-assets/NY080117/11_004.jpg",
+      "sha256": "d434e0cf306adec60120dc2bc47efbf78ae59078a581f36d0a0b10d9c3e47dca"
+    }
+  ],
+  "inspectedGallery": [
+    {
+      "index": "001",
+      "url": "https://dist.phillips.com/auction-assets/NY080117/11_001.jpg",
+      "width": 2000,
+      "height": 2717,
+      "sha256": "ae87f3c7c7fb12364214d70648fefb1dc0fcbbcf4111c00213a02eab98987684"
+    },
+    {
+      "index": "003",
+      "url": "https://dist.phillips.com/auction-assets/NY080117/11_003.jpg",
+      "width": 969,
+      "height": 775,
+      "sha256": "9d5dab419f7fb1b6ac433e37b5b893ab15ded3730392ee144fc4c892f2abae63"
+    },
+    {
+      "index": "004",
+      "url": "https://dist.phillips.com/auction-assets/NY080117/11_004.jpg",
+      "width": 1271,
+      "height": 1907,
+      "sha256": "d434e0cf306adec60120dc2bc47efbf78ae59078a581f36d0a0b10d9c3e47dca"
+    }
+  ],
+  "unsupportedCategories": [
+    "movement",
+    "braceletClasp"
+  ],
+  "remainingGaps": [
+    "Opened movement and calibre stamp",
+    "Complete closed back and inner-back date",
+    "Clasp/buckle photographs and fitment evidence",
+    "Grey and other executions remain separate research"
+  ]
+}
