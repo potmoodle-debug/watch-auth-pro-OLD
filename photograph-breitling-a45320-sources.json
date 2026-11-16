@@ -19,6 +19,10 @@
     {
       "title": "OrologeriaTempus separate blue/leather specimen — textual calibre attribution",
       "url": "https://www.orologeriatempus.com/prodotto/breitling-galactic-day-date-44mm-a45320-with-papers-anno-2015-blue-dial-c-o-s-c-master-chronometer-automatico-acciaio/"
+    },
+    {
+      "title": "EBTH original item14122438 — separate blue/leather specimen",
+      "url": "https://www.ebth.com/items/14122438-breitling-galactic-44-a45320-blue-44mm-steel-automatic-watch"
     }
   ],
   "accepted": [
@@ -75,6 +79,12 @@
       "category": "braceletClasp",
       "image": "https://cdn.swisswatchexpo.com/productphotos/8/19/breitling-galactic-44-day-date-steel-black-dial-watch-a45320-box-papers-36110_44a79.jpg",
       "sha256": "87e6d35f574988b6920593b8c4f8ad42ea7a26007e388ad0e75bc87816ffca62"
+    },
+    {
+      "id": "breitling-a45320-ebth14122438-movement-9",
+      "category": "movement",
+      "image": "https://imgix-prod.ebth.com/2025/05/22/12/36/21/Attachment-36cef45f-1510-48ac-81b1-bac65df778ee.jpg",
+      "sha256": "e008cc6209a8829edaff730e8a190f9d7f3e739abfa96b426383e70c5b5b2f3f"
     }
   ],
   "inspectedGalleries": {
@@ -316,11 +326,113 @@
       }
     ]
   },
-  "unsupportedCategories": [
-    "movement"
-  ],
+  "unsupportedCategories": [],
   "remainingGaps": [
-    "No opened movement or inner back in inspected specimen galleries.",
-    "No full suffix, universal production interval or edition chronology established."
-  ]
+    "Internal execution of earlier SwissWatchExpo specimens remains unverified.",
+    "No universal supplier chronology, full suffix or original-fitment proof."
+  ],
+  "movementSupplement": {
+    "reviewedAt": "2026-11-16",
+    "evidence": "Original EBTH item14122438 identifies exact Breitling Galactic44 A45320,44mm steel, blue dial, leather strap and automatic SW240; estimated2014 is auction attribution only. All14 original gallery files contact-inspected, including two opened movement views and inner back; selected opened view9 and closed back6 separately inspected at native resolution. Closed back visibly reads A45320/200M, while opened view9 shows Breitling-signed rotor,25 jewels and readable SW240-1 marking. This supplies an actual in-case movement comparison for this specific blue/leather specimen, not a generic loose Sellita image or universal supplier chronology. Earlier separate OrologeriaTempus calibre45 attribution and three SwissWatchExpo exterior variants remain separate; no SW240-1 transfer to those unopened specimens, ETA equivalence, full dial/strap suffix or original-fitment claim inferred. Surface wear and auction condition belong to this specimen. No water-resistance, timing, material authenticity or authentication conclusion for user watches from photographs. The retail watch-guide illustration is excluded. Other execution/period coverage remains incomplete.",
+    "inspectedGallery": [
+      {
+        "index": 0,
+        "url": "https://imgix-prod.ebth.com/2025/05/23/14/54/45/Attachment-86776f48-a06a-4da0-b008-28ac4a61d75e.jpg",
+        "width": 4000,
+        "height": 4000,
+        "sha256": "586c3710fbe37dfafd5e270a7ba870dbc4a3cc14fe5095c10ac626a8022b665f"
+      },
+      {
+        "index": 1,
+        "url": "https://imgix-prod.ebth.com/2025/05/23/14/54/47/Attachment-04fef954-3843-4dc8-ad80-a39a8ceb17c5.jpg",
+        "width": 4000,
+        "height": 4000,
+        "sha256": "248aa0923b63af5a9191b7c5013db9f532c680fb36cec46cd34b2585b79062d3"
+      },
+      {
+        "index": 2,
+        "url": "https://imgix-prod.ebth.com/2025/05/23/14/54/48/Attachment-476da2ce-c7f5-4fd6-b643-e1d8dade5bf8.jpg",
+        "width": 4000,
+        "height": 4000,
+        "sha256": "551d6817cd3ce30201355b1891cdf9a5d71e566af5a23ad2b8e8673654289f1f"
+      },
+      {
+        "index": 3,
+        "url": "https://imgix-prod.ebth.com/2025/05/23/14/54/49/Attachment-fb766644-796c-47ea-9001-af25d5315739.jpg",
+        "width": 4000,
+        "height": 4000,
+        "sha256": "387407311084bf1f222f5d34e3dd65e312f716b2355437f85acdb9811feb2dbf"
+      },
+      {
+        "index": 4,
+        "url": "https://imgix-prod.ebth.com/2025/05/23/14/54/50/Attachment-c5573f54-975b-41cc-bf18-a61dd583d3d0.jpg",
+        "width": 4000,
+        "height": 4000,
+        "sha256": "65e3d25423809f288058efbc585548a8b7982f1b0947862754d8e742b7e4baa2"
+      },
+      {
+        "index": 5,
+        "url": "https://imgix-prod.ebth.com/2025/05/23/14/54/52/Attachment-d887ecd9-2570-4dda-be8c-43865ce678ca.jpg",
+        "width": 4000,
+        "height": 4000,
+        "sha256": "6692425e9d2da8f68285109ae82f1107c567cc74dd8afed6cb1cba7ad363bae0"
+      },
+      {
+        "index": 6,
+        "url": "https://imgix-prod.ebth.com/2025/05/23/14/54/53/Attachment-18318d4d-1e0f-41ec-9780-bd63749a8b4d.jpg",
+        "width": 4000,
+        "height": 4000,
+        "sha256": "a4cb3b04b112179760ba7d487f9e7fc14dd3058dbff5d3860c5e069e9d772cae"
+      },
+      {
+        "index": 7,
+        "url": "https://imgix-prod.ebth.com/2025/05/22/12/36/17/Attachment-c6430e72-9666-4955-aafa-fe515f6eabde.jpg",
+        "width": 4000,
+        "height": 4000,
+        "sha256": "6f9a1e2647c51c52744e8ba29aa835fecbb8491b98b504c435235e3f99575b5a"
+      },
+      {
+        "index": 8,
+        "url": "https://imgix-prod.ebth.com/2025/05/22/12/36/19/Attachment-5f6c810e-f11d-467d-aec6-08f798d9c0b1.jpg",
+        "width": 4000,
+        "height": 4000,
+        "sha256": "5f4146f293e3b5f7bc8cbf67e457c777e40f063c784d99bc1d7433d7826f1d30"
+      },
+      {
+        "index": 9,
+        "url": "https://imgix-prod.ebth.com/2025/05/22/12/36/21/Attachment-36cef45f-1510-48ac-81b1-bac65df778ee.jpg",
+        "width": 4000,
+        "height": 4000,
+        "sha256": "e008cc6209a8829edaff730e8a190f9d7f3e739abfa96b426383e70c5b5b2f3f"
+      },
+      {
+        "index": 10,
+        "url": "https://imgix-prod.ebth.com/2025/05/23/14/54/54/Attachment-a7c54b36-def8-40b9-b7e9-037392f10aad.jpg",
+        "width": 4000,
+        "height": 4000,
+        "sha256": "cf4163e068377d69851167c0b94b963ae861801b27b9f7eed85341829da62d99"
+      },
+      {
+        "index": 11,
+        "url": "https://imgix-prod.ebth.com/2025/05/23/14/54/55/Attachment-6005b1f0-2b63-48fb-9486-f595a72c06cf.jpg",
+        "width": 4000,
+        "height": 4000,
+        "sha256": "15804e3e589221d5c28ab366753314232c6ee46048bba6bbf12d8cabcaac8d41"
+      },
+      {
+        "index": 12,
+        "url": "https://imgix-prod.ebth.com/2025/05/23/14/54/56/Attachment-d31a1a17-e96b-425d-84ce-2a643fa5eeab.jpg",
+        "width": 4000,
+        "height": 4000,
+        "sha256": "5532f0b15d10e1ccc7f2eb47ca2d026ab604e95a6172b18f14a340a6c4ebc3ff"
+      },
+      {
+        "index": 13,
+        "url": "https://imgix-prod.ebth.com/2025/05/23/16/27/32/Attachment-bdc1fcce-2950-4845-9484-dd7aa1a8bcde.jpg",
+        "width": 3600,
+        "height": 4800,
+        "sha256": "91aa850c8c2d3e036c706e65f429ec9acdbd656456017c6bc4a823b17d53422e"
+      }
+    ]
+  }
 }
