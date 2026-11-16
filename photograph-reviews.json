@@ -12376,6 +12376,32 @@
           "finding": "Previously verified representative specimen photograph rechecked; exact variant limits retained."
         }
       }
+    },
+    {
+      "brand": "BREITLING",
+      "reference": "A23351",
+      "categories": {
+        "front": {
+          "reviewedAt": "2026-11-16",
+          "evidence": "Original EBTH item14379751 identifies exact A23351,47mm steel, light dial with dark subdial rings and steel bracelet; its description attributes Breitling23/ETAValjoux7753 base and estimates2011. Original SwissWatchExpo stock19806 (legacy gallery19524) identifies exact A23351,47mm steel, black dial with light subdial rings, steel bracelet and automatic chronograph; it explicitly states actual-sale-watch photographs. All20 original gallery files inspected in contact sheets; seven selected front/back/clasp/detail images separately inspected at native resolution. Both specimen backs visibly read A23351 and Montbrillant Legende with3BARS and conversion scales. EBTH clasp interior visibly reads Modele Depose and Manufacture en Suisse; markings and material descriptions do not prove originality, assay or present water resistance. Neither gallery contains an opened movement or inner caseback, so numeric calibre and full branded execution remain attributed, not visually verified. Do not substitute a generic7753 image, neighbouring A23340/A41370 reference, retail suffix or universal production interval. Estimated2011 concerns the auction specimen only. Light/black dial examples are separately labelled representative variants, not interchangeable factory configurations or authentication of the user watch. No serial numbers or edition-number chronology inferred; packaging excluded.",
+          "finding": "Verified representative specimen photographs; light and black dial examples separately labelled."
+        },
+        "movement": {
+          "reviewedAt": "2026-11-16",
+          "evidence": "Original EBTH item14379751 identifies exact A23351,47mm steel, light dial with dark subdial rings and steel bracelet; its description attributes Breitling23/ETAValjoux7753 base and estimates2011. Original SwissWatchExpo stock19806 (legacy gallery19524) identifies exact A23351,47mm steel, black dial with light subdial rings, steel bracelet and automatic chronograph; it explicitly states actual-sale-watch photographs. All20 original gallery files inspected in contact sheets; seven selected front/back/clasp/detail images separately inspected at native resolution. Both specimen backs visibly read A23351 and Montbrillant Legende with3BARS and conversion scales. EBTH clasp interior visibly reads Modele Depose and Manufacture en Suisse; markings and material descriptions do not prove originality, assay or present water resistance. Neither gallery contains an opened movement or inner caseback, so numeric calibre and full branded execution remain attributed, not visually verified. Do not substitute a generic7753 image, neighbouring A23340/A41370 reference, retail suffix or universal production interval. Estimated2011 concerns the auction specimen only. Light/black dial examples are separately labelled representative variants, not interchangeable factory configurations or authentication of the user watch. No serial numbers or edition-number chronology inferred; packaging excluded.",
+          "finding": "No opened movement photograph in inspected source galleries; fitted numeric execution unverified."
+        },
+        "caseback": {
+          "reviewedAt": "2026-11-16",
+          "evidence": "Original EBTH item14379751 identifies exact A23351,47mm steel, light dial with dark subdial rings and steel bracelet; its description attributes Breitling23/ETAValjoux7753 base and estimates2011. Original SwissWatchExpo stock19806 (legacy gallery19524) identifies exact A23351,47mm steel, black dial with light subdial rings, steel bracelet and automatic chronograph; it explicitly states actual-sale-watch photographs. All20 original gallery files inspected in contact sheets; seven selected front/back/clasp/detail images separately inspected at native resolution. Both specimen backs visibly read A23351 and Montbrillant Legende with3BARS and conversion scales. EBTH clasp interior visibly reads Modele Depose and Manufacture en Suisse; markings and material descriptions do not prove originality, assay or present water resistance. Neither gallery contains an opened movement or inner caseback, so numeric calibre and full branded execution remain attributed, not visually verified. Do not substitute a generic7753 image, neighbouring A23340/A41370 reference, retail suffix or universal production interval. Estimated2011 concerns the auction specimen only. Light/black dial examples are separately labelled representative variants, not interchangeable factory configurations or authentication of the user watch. No serial numbers or edition-number chronology inferred; packaging excluded.",
+          "finding": "Verified representative specimen photographs; light and black dial examples separately labelled."
+        },
+        "braceletClasp": {
+          "reviewedAt": "2026-11-16",
+          "evidence": "Original EBTH item14379751 identifies exact A23351,47mm steel, light dial with dark subdial rings and steel bracelet; its description attributes Breitling23/ETAValjoux7753 base and estimates2011. Original SwissWatchExpo stock19806 (legacy gallery19524) identifies exact A23351,47mm steel, black dial with light subdial rings, steel bracelet and automatic chronograph; it explicitly states actual-sale-watch photographs. All20 original gallery files inspected in contact sheets; seven selected front/back/clasp/detail images separately inspected at native resolution. Both specimen backs visibly read A23351 and Montbrillant Legende with3BARS and conversion scales. EBTH clasp interior visibly reads Modele Depose and Manufacture en Suisse; markings and material descriptions do not prove originality, assay or present water resistance. Neither gallery contains an opened movement or inner caseback, so numeric calibre and full branded execution remain attributed, not visually verified. Do not substitute a generic7753 image, neighbouring A23340/A41370 reference, retail suffix or universal production interval. Estimated2011 concerns the auction specimen only. Light/black dial examples are separately labelled representative variants, not interchangeable factory configurations or authentication of the user watch. No serial numbers or edition-number chronology inferred; packaging excluded.",
+          "finding": "Verified representative specimen photographs; light and black dial examples separately labelled."
+        }
+      }
     }
   ],
   "sourceRecordReviews": [
@@ -14296,12 +14322,6 @@
       "scope": "text"
     },
     {
-      "id": "UPDATE:BREITLING|A23351",
-      "reviewedAt": "2026-10-20T13:18:47.855Z",
-      "evidence": "Textual original source reviewed: https://www.ebth.com/items/14379751-breitling-navitimer-montbrillant-47-limited-steel-automatic-watch. Original inspected EBTH specimen attributes Breitling23 with ETA7753 base. Compare full assembly and branded execution; generic7753 alone is not authenticity proof. No image-pixel/category verification claimed.",
-      "scope": "text"
-    },
-    {
       "id": "UPDATE:TAGHEUER|WR2110",
       "reviewedAt": "2026-10-20T13:18:47.855Z",
       "evidence": "Textual original source reviewed: https://www.iconewatches.com/producto/reloj-tag-heuer-monza-ref-wr2110/. Original exact-reference dealer attributes TAGHeuer6. Supplier execution must be inspected; no WAR2110 or modern generic Calibre6 alias. No image-pixel/category verification claimed.",
@@ -14909,6 +14929,12 @@
       "reviewedAt": "2026-11-16",
       "scope": "photographs",
       "evidence": "Original Zeitauktion specimen 2300314 rechecked 16 November 2026: exact A17350, black dial, steel bracelet and automatic B17 attribution. All 13 distinct current numbered gallery files downloaded and contact-inspected; original front 01, back 09 and clasp 13 separately inspected at 2400 px. Their SHA256 hashes match the three already verified BenchAuth entries; no duplicate photographs added. Arabic-numeral Colt Ocean dial, date at 3, rider-tab bezel, Breitling chronometer/500M caseback and Breitling 1884 clasp signing visible. The case reference is supplied by the original exact listing, not a legible caseback engraving in these views. Dealer states 1999-2001 for its specimen; a universal production interval is not established. No opened movement or inner caseback in the current gallery; B17 is attributed model guidance, not an observed fitted numeric stamp. No generic ETA2824-2 equivalence, retail suffix, neighbouring Colt reference, current pressure resistance, factory originality or individual authenticity inferred. Paperwork, register report and box excluded. Further original-source search did not establish a usable opened-movement photograph; absence is a researched source-set gap, not a claim none exists anywhere."
+    },
+    {
+      "id": "UPDATE:BREITLING|A23351",
+      "scope": "photographs",
+      "reviewedAt": "2026-11-16",
+      "evidence": "Original EBTH item14379751 identifies exact A23351,47mm steel, light dial with dark subdial rings and steel bracelet; its description attributes Breitling23/ETAValjoux7753 base and estimates2011. Original SwissWatchExpo stock19806 (legacy gallery19524) identifies exact A23351,47mm steel, black dial with light subdial rings, steel bracelet and automatic chronograph; it explicitly states actual-sale-watch photographs. All20 original gallery files inspected in contact sheets; seven selected front/back/clasp/detail images separately inspected at native resolution. Both specimen backs visibly read A23351 and Montbrillant Legende with3BARS and conversion scales. EBTH clasp interior visibly reads Modele Depose and Manufacture en Suisse; markings and material descriptions do not prove originality, assay or present water resistance. Neither gallery contains an opened movement or inner caseback, so numeric calibre and full branded execution remain attributed, not visually verified. Do not substitute a generic7753 image, neighbouring A23340/A41370 reference, retail suffix or universal production interval. Estimated2011 concerns the auction specimen only. Light/black dial examples are separately labelled representative variants, not interchangeable factory configurations or authentication of the user watch. No serial numbers or edition-number chronology inferred; packaging excluded."
     }
   ]
 }
