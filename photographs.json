@@ -40895,6 +40895,227 @@
           "height": 1322
         }
       }
+    },
+    {
+      "id": "rolex-126715-84933-front-0",
+      "brand": "ROLEX",
+      "references": [
+        "126715",
+        "126715CHNR",
+        "M126715CHNR-0001"
+      ],
+      "representativeFor": [
+        "126715",
+        "126715CHNR"
+      ],
+      "variant": "SwissWatchExpo 84933 — black dial, brown/black bezel, Everose Oyster; documented M126715CHNR-0001",
+      "category": "front",
+      "depictsMovement": false,
+      "title": "126715CHNR — front — specimen 84933",
+      "caption": "Black dial and brown/black bezel on the documented Everose Oyster specimen. Source specimen only; not proof of authenticity of the watch being inspected.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/11/4/rolex-gmt-master-ii-rose-gold-root-beer-black-brown-mens-watch-126715-box-card-84933_b7cd2.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex-gmt-master-ii-rose-gold-root-beer-black-brown-mens-watch-126715-box-card-84933/",
+      "credit": "SwissWatchExpo — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected 16 November 2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-16",
+        "loadedAt": "2026-11-16",
+        "evidence": "Original SwissWatchExpo stock 84933 explicitly identifies numeric 126715; gallery 7 shows the same case engraving. Its photographed card identifies 126715CHNR and tag M126715CHNR-0001 (gallery 12); paperwork inspected for identification only and excluded from the gallery. Stock 77501 identifies 126715CHNR and its case engraving reads 126715; no full retail suffix established for that specimen. All 25 original gallery files inspected, selected views separately inspected at high resolution. Both opened movement photographs visibly show 3285 and 31 jewels, with differing rotor executions. These are specimen comparisons, not a dated revision chronology, interchangeable-part proof or authentication of the user watch. Rolex original -0001 brochure specifies 40 mm 18 ct Everose, black dial, brown/black Cerachrom, automatic GMT 3285, approximately 70-hour reserve, Oyster bracelet and Oysterlock/Easylink. Dealer dates do not establish production intervals. No -0002 photograph inheritance, neighbouring reference, generic calibre substitute, inner caseback or individual material authenticity inferred.",
+        "imageSha256": "a8db17d878c3f6877857254f45680dd30d5e146334cf7322b207041c07937e4d",
+        "imageDimensions": {
+          "width": 2831,
+          "height": 2831
+        }
+      }
+    },
+    {
+      "id": "rolex-126715-84933-movement-8",
+      "brand": "ROLEX",
+      "references": [
+        "126715",
+        "126715CHNR",
+        "M126715CHNR-0001"
+      ],
+      "representativeFor": [
+        "126715",
+        "126715CHNR"
+      ],
+      "variant": "SwissWatchExpo 84933 — black dial, brown/black bezel, Everose Oyster; documented M126715CHNR-0001",
+      "category": "movement",
+      "depictsMovement": true,
+      "title": "126715CHNR — movement — specimen 84933",
+      "caption": "Opened case: 3285 and 31-jewel markings visible. Compare this specific rotor execution; production revision dates are not established. Source specimen only; not proof of authenticity of the watch being inspected.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/11/4/rolex-gmt-master-ii-rose-gold-root-beer-black-brown-mens-watch-126715-box-card-84933_35c6f.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex-gmt-master-ii-rose-gold-root-beer-black-brown-mens-watch-126715-box-card-84933/",
+      "credit": "SwissWatchExpo — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected 16 November 2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-16",
+        "loadedAt": "2026-11-16",
+        "evidence": "Original SwissWatchExpo stock 84933 explicitly identifies numeric 126715; gallery 7 shows the same case engraving. Its photographed card identifies 126715CHNR and tag M126715CHNR-0001 (gallery 12); paperwork inspected for identification only and excluded from the gallery. Stock 77501 identifies 126715CHNR and its case engraving reads 126715; no full retail suffix established for that specimen. All 25 original gallery files inspected, selected views separately inspected at high resolution. Both opened movement photographs visibly show 3285 and 31 jewels, with differing rotor executions. These are specimen comparisons, not a dated revision chronology, interchangeable-part proof or authentication of the user watch. Rolex original -0001 brochure specifies 40 mm 18 ct Everose, black dial, brown/black Cerachrom, automatic GMT 3285, approximately 70-hour reserve, Oyster bracelet and Oysterlock/Easylink. Dealer dates do not establish production intervals. No -0002 photograph inheritance, neighbouring reference, generic calibre substitute, inner caseback or individual material authenticity inferred.",
+        "imageSha256": "134186569373ef1f844792d7e20c196b1327382e8e9168e61f1174ec461a8061",
+        "imageDimensions": {
+          "width": 2143,
+          "height": 2143
+        }
+      }
+    },
+    {
+      "id": "rolex-126715-84933-caseback-9",
+      "brand": "ROLEX",
+      "references": [
+        "126715",
+        "126715CHNR",
+        "M126715CHNR-0001"
+      ],
+      "representativeFor": [
+        "126715",
+        "126715CHNR"
+      ],
+      "variant": "SwissWatchExpo 84933 — black dial, brown/black bezel, Everose Oyster; documented M126715CHNR-0001",
+      "category": "caseback",
+      "depictsMovement": false,
+      "title": "126715CHNR — caseback — specimen 84933",
+      "caption": "Closed, plain threaded caseback exterior; this view does not show an opened movement or internal caseback markings. Source specimen only; not proof of authenticity of the watch being inspected.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/11/4/rolex-gmt-master-ii-rose-gold-root-beer-black-brown-mens-watch-126715-box-card-84933_0d9bb.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex-gmt-master-ii-rose-gold-root-beer-black-brown-mens-watch-126715-box-card-84933/",
+      "credit": "SwissWatchExpo — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected 16 November 2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-16",
+        "loadedAt": "2026-11-16",
+        "evidence": "Original SwissWatchExpo stock 84933 explicitly identifies numeric 126715; gallery 7 shows the same case engraving. Its photographed card identifies 126715CHNR and tag M126715CHNR-0001 (gallery 12); paperwork inspected for identification only and excluded from the gallery. Stock 77501 identifies 126715CHNR and its case engraving reads 126715; no full retail suffix established for that specimen. All 25 original gallery files inspected, selected views separately inspected at high resolution. Both opened movement photographs visibly show 3285 and 31 jewels, with differing rotor executions. These are specimen comparisons, not a dated revision chronology, interchangeable-part proof or authentication of the user watch. Rolex original -0001 brochure specifies 40 mm 18 ct Everose, black dial, brown/black Cerachrom, automatic GMT 3285, approximately 70-hour reserve, Oyster bracelet and Oysterlock/Easylink. Dealer dates do not establish production intervals. No -0002 photograph inheritance, neighbouring reference, generic calibre substitute, inner caseback or individual material authenticity inferred.",
+        "imageSha256": "498a0a7319879e489f983f9c9a74a90aa8b56788ca0a7014ad3f2475c9a05900",
+        "imageDimensions": {
+          "width": 4609,
+          "height": 4609
+        }
+      }
+    },
+    {
+      "id": "rolex-126715-84933-braceletClasp-10",
+      "brand": "ROLEX",
+      "references": [
+        "126715",
+        "126715CHNR",
+        "M126715CHNR-0001"
+      ],
+      "representativeFor": [
+        "126715",
+        "126715CHNR"
+      ],
+      "variant": "SwissWatchExpo 84933 — black dial, brown/black bezel, Everose Oyster; documented M126715CHNR-0001",
+      "category": "braceletClasp",
+      "depictsMovement": false,
+      "title": "126715CHNR — braceletClasp — specimen 84933",
+      "caption": "Oyster bracelet and folding safety clasp on this specimen; compare fitted hardware separately. Source specimen only; not proof of authenticity of the watch being inspected.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/11/4/rolex-gmt-master-ii-rose-gold-root-beer-black-brown-mens-watch-126715-box-card-84933_d784a.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex-gmt-master-ii-rose-gold-root-beer-black-brown-mens-watch-126715-box-card-84933/",
+      "credit": "SwissWatchExpo — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected 16 November 2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-16",
+        "loadedAt": "2026-11-16",
+        "evidence": "Original SwissWatchExpo stock 84933 explicitly identifies numeric 126715; gallery 7 shows the same case engraving. Its photographed card identifies 126715CHNR and tag M126715CHNR-0001 (gallery 12); paperwork inspected for identification only and excluded from the gallery. Stock 77501 identifies 126715CHNR and its case engraving reads 126715; no full retail suffix established for that specimen. All 25 original gallery files inspected, selected views separately inspected at high resolution. Both opened movement photographs visibly show 3285 and 31 jewels, with differing rotor executions. These are specimen comparisons, not a dated revision chronology, interchangeable-part proof or authentication of the user watch. Rolex original -0001 brochure specifies 40 mm 18 ct Everose, black dial, brown/black Cerachrom, automatic GMT 3285, approximately 70-hour reserve, Oyster bracelet and Oysterlock/Easylink. Dealer dates do not establish production intervals. No -0002 photograph inheritance, neighbouring reference, generic calibre substitute, inner caseback or individual material authenticity inferred.",
+        "imageSha256": "48f06b11185b9954fafd97329bcae6015c499801a1f7135bd9f8d6984b869cfa",
+        "imageDimensions": {
+          "width": 3103,
+          "height": 3103
+        }
+      }
+    },
+    {
+      "id": "rolex-126715-84933-detail-7",
+      "brand": "ROLEX",
+      "references": [
+        "126715",
+        "126715CHNR",
+        "M126715CHNR-0001"
+      ],
+      "representativeFor": [
+        "126715",
+        "126715CHNR"
+      ],
+      "variant": "SwissWatchExpo 84933 — black dial, brown/black bezel, Everose Oyster; documented M126715CHNR-0001",
+      "category": "detail",
+      "depictsMovement": false,
+      "title": "126715CHNR — detail — specimen 84933",
+      "caption": "Between-lug case engraving visibly reads 126715, linking the numeric case reference to this documented specimen. Source specimen only; not proof of authenticity of the watch being inspected.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/11/4/rolex-gmt-master-ii-rose-gold-root-beer-black-brown-mens-watch-126715-box-card-84933_14b13.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex-gmt-master-ii-rose-gold-root-beer-black-brown-mens-watch-126715-box-card-84933/",
+      "credit": "SwissWatchExpo — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected 16 November 2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-16",
+        "loadedAt": "2026-11-16",
+        "evidence": "Original SwissWatchExpo stock 84933 explicitly identifies numeric 126715; gallery 7 shows the same case engraving. Its photographed card identifies 126715CHNR and tag M126715CHNR-0001 (gallery 12); paperwork inspected for identification only and excluded from the gallery. Stock 77501 identifies 126715CHNR and its case engraving reads 126715; no full retail suffix established for that specimen. All 25 original gallery files inspected, selected views separately inspected at high resolution. Both opened movement photographs visibly show 3285 and 31 jewels, with differing rotor executions. These are specimen comparisons, not a dated revision chronology, interchangeable-part proof or authentication of the user watch. Rolex original -0001 brochure specifies 40 mm 18 ct Everose, black dial, brown/black Cerachrom, automatic GMT 3285, approximately 70-hour reserve, Oyster bracelet and Oysterlock/Easylink. Dealer dates do not establish production intervals. No -0002 photograph inheritance, neighbouring reference, generic calibre substitute, inner caseback or individual material authenticity inferred.",
+        "imageSha256": "33b29deb9a3aa0c60b1efcaadc4325f2414933aa7f3fda3b17bb02ddfbbc89b7",
+        "imageDimensions": {
+          "width": 988,
+          "height": 988
+        }
+      }
+    },
+    {
+      "id": "rolex-126715-77501-movement-8",
+      "brand": "ROLEX",
+      "references": [
+        "126715",
+        "126715CHNR"
+      ],
+      "representativeFor": [
+        "126715",
+        "126715CHNR"
+      ],
+      "variant": "SwissWatchExpo 77501 — black dial, brown/black bezel, Everose Oyster; full retail suffix unestablished",
+      "category": "movement",
+      "depictsMovement": true,
+      "title": "126715CHNR — movement — specimen 77501",
+      "caption": "Opened case: 3285 and 31-jewel markings visible. Compare this specific rotor execution; production revision dates are not established. Source specimen only; not proof of authenticity of the watch being inspected.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/2/20/rolex-gmt-master-ii-black-brown-root-beer-rose-gold-mens-watch-126715-77501_18898.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex-gmt-master-ii-black-brown-root-beer-rose-gold-mens-watch-126715-77501/",
+      "credit": "SwissWatchExpo — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected 16 November 2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-16",
+        "loadedAt": "2026-11-16",
+        "evidence": "Original SwissWatchExpo stock 84933 explicitly identifies numeric 126715; gallery 7 shows the same case engraving. Its photographed card identifies 126715CHNR and tag M126715CHNR-0001 (gallery 12); paperwork inspected for identification only and excluded from the gallery. Stock 77501 identifies 126715CHNR and its case engraving reads 126715; no full retail suffix established for that specimen. All 25 original gallery files inspected, selected views separately inspected at high resolution. Both opened movement photographs visibly show 3285 and 31 jewels, with differing rotor executions. These are specimen comparisons, not a dated revision chronology, interchangeable-part proof or authentication of the user watch. Rolex original -0001 brochure specifies 40 mm 18 ct Everose, black dial, brown/black Cerachrom, automatic GMT 3285, approximately 70-hour reserve, Oyster bracelet and Oysterlock/Easylink. Dealer dates do not establish production intervals. No -0002 photograph inheritance, neighbouring reference, generic calibre substitute, inner caseback or individual material authenticity inferred.",
+        "imageSha256": "462bf4f62349221cde315ac1984d64a5af25bb4707781d1fd09910409d7e4932",
+        "imageDimensions": {
+          "width": 2440,
+          "height": 2440
+        }
+      }
     }
   ]
 }
