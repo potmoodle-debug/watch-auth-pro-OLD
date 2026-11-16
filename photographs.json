@@ -43158,6 +43158,40 @@
           "height": 3929
         }
       }
+    },
+    {
+      "id": "breitling-a45320-ebth14122438-movement-9",
+      "brand": "BREITLING",
+      "references": [
+        "A45320"
+      ],
+      "representativeFor": [
+        "A45320"
+      ],
+      "variant": "EBTH14122438 — blue dial / leather strap / observed SW240-1 execution",
+      "category": "movement",
+      "depictsMovement": true,
+      "title": "A45320 — observed SW240-1 movement",
+      "caption": "Opened blue/leather specimen with Breitling-signed rotor,25 jewels and SW240-1 marking. This execution is specimen-specific; no inheritance by other A45320 variants.",
+      "image": "https://imgix-prod.ebth.com/2025/05/22/12/36/21/Attachment-36cef45f-1510-48ac-81b1-bac65df778ee.jpg",
+      "source": "https://www.ebth.com/items/14122438-breitling-galactic-44-a45320-blue-44mm-steel-automatic-watch",
+      "credit": "EBTH — original auction specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected16November2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-16",
+        "loadedAt": "2026-11-16",
+        "evidence": "Original EBTH item14122438 identifies exact Breitling Galactic44 A45320,44mm steel, blue dial, leather strap and automatic SW240; estimated2014 is auction attribution only. All14 original gallery files contact-inspected, including two opened movement views and inner back; selected opened view9 and closed back6 separately inspected at native resolution. Closed back visibly reads A45320/200M, while opened view9 shows Breitling-signed rotor,25 jewels and readable SW240-1 marking. This supplies an actual in-case movement comparison for this specific blue/leather specimen, not a generic loose Sellita image or universal supplier chronology. Earlier separate OrologeriaTempus calibre45 attribution and three SwissWatchExpo exterior variants remain separate; no SW240-1 transfer to those unopened specimens, ETA equivalence, full dial/strap suffix or original-fitment claim inferred. Surface wear and auction condition belong to this specimen. No water-resistance, timing, material authenticity or authentication conclusion for user watches from photographs. The retail watch-guide illustration is excluded. Other execution/period coverage remains incomplete.",
+        "imageSha256": "e008cc6209a8829edaff730e8a190f9d7f3e739abfa96b426383e70c5b5b2f3f",
+        "imageDimensions": {
+          "width": 4000,
+          "height": 4000
+        }
+      }
     }
   ]
 }
