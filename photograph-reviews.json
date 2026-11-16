@@ -13752,7 +13752,8 @@
     {
       "id": "UPDATE:BREITLING|A37320",
       "reviewedAt": "2026-10-20T13:57:30.401Z",
-      "evidence": "Second-pass original text source https://kibblewatches.co.uk/products/2011-breitling-superocean-heritage-38-auto-a37320. Existing exact A37320 original dealer mapping rechecked: Breitling37. The missing-information request is answered by this sourced mapping; recorded2895-2 is not approved as an equivalent and remains a caution. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed."
+      "evidence": "Second-pass original text source https://kibblewatches.co.uk/products/2011-breitling-superocean-heritage-38-auto-a37320. Existing exact A37320 original dealer mapping rechecked: Breitling37. The missing-information request is answered by this sourced mapping; recorded2895-2 is not approved as an equivalent and remains a caution. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:PIAGET|90802",
@@ -13852,7 +13853,8 @@
     {
       "id": "UPDATE:HAMILTON|H384290",
       "reviewedAt": "2026-10-20T13:57:30.400Z",
-      "evidence": "Second-pass original text source https://www.dorotheum.com/en/l/9377566/. Original Dorotheum exact H384290 specimen explicitly attributes hand-wound H-51 and states ETA A05291 basis. This supplies the missing reference-to-calibre text. A05291 supplier markings are still not proof of full execution/originality and are not silently accepted as H-51. Resolution covers missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed."
+      "evidence": "Second-pass original text source https://www.dorotheum.com/en/l/9377566/. Original Dorotheum exact H384290 specimen explicitly attributes hand-wound H-51 and states ETA A05291 basis. This supplies the missing reference-to-calibre text. A05291 supplier markings are still not proof of full execution/originality and are not silently accepted as H-51. Resolution covers missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:MING|1709",
@@ -13982,387 +13984,464 @@
     {
       "id": "UPDATE:CARTIER|WSSA0046",
       "reviewedAt": "2026-10-20T13:18:47.837Z",
-      "evidence": "Textual original source reviewed: https://www.cartier.com/en-pl/watches/collections/santos-de-cartier/santos-dumont-watch-CRWSSA0046. Manufacturer exact reference specifies hand-wound 430 MC; steel/black lacquer,43.5x31.4mm. Nominal3bar is not tested water resistance. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.cartier.com/en-pl/watches/collections/santos-de-cartier/santos-dumont-watch-CRWSSA0046. Manufacturer exact reference specifies hand-wound 430 MC; steel/black lacquer,43.5x31.4mm. Nominal3bar is not tested water resistance. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:TAGHEUER|CAR2A91BH0742",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://www.tagheuer.com/us/en/timepieces/collections/tag-heuer-carrera/45-mm-calibre-heuer01-automatic/CAR2A91.BH0742.html. Manufacturer exact reference specifies Calibre HEUER01 Automatic and 45mm ceramic case. Do not substitute Heuer02. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.tagheuer.com/us/en/timepieces/collections/tag-heuer-carrera/45-mm-calibre-heuer01-automatic/CAR2A91.BH0742.html. Manufacturer exact reference specifies Calibre HEUER01 Automatic and 45mm ceramic case. Do not substitute Heuer02. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:KURONO|MALACHITE",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://kuronotokyo.com/pages/kurono-anniversary-malachite. Maker identifies 2026 Malachite CM026B with Miyota90S5. Model-name lookup is restricted to this named edition; verify exact CM026B execution. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://kuronotokyo.com/pages/kurono-anniversary-malachite. Maker identifies 2026 Malachite CM026B with Miyota90S5. Model-name lookup is restricted to this named edition; verify exact CM026B execution. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:ROLEX|3800",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://tokibank.jp/products/rolex-cellini-ref-3800. Original specimen catalogue attributes 1600. Reference mapping is specimen-backed; no serial year, component originality or authenticity verdict is inferred. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://tokibank.jp/products/rolex-cellini-ref-3800. Original specimen catalogue attributes 1600. Reference mapping is specimen-backed; no serial year, component originality or authenticity verdict is inferred. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:OMEGA|22318000",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://www.swisswatchexpo.com/watches/omega/mens-omega/seamaster/seamaster-titanium-blue-dial-mens-22318000-19082/. Original specimen record attributes calibre 1120. This establishes a sourced reference mapping, not the originality, manufacture date or fitted execution of the watch being inspected. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.swisswatchexpo.com/watches/omega/mens-omega/seamaster/seamaster-titanium-blue-dial-mens-22318000-19082/. Original specimen record attributes calibre 1120. This establishes a sourced reference mapping, not the originality, manufacture date or fitted execution of the watch being inspected. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:ROLEX|6422",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://auctions.lockdales.com/catalogue/lot/bc13794312a382787c110a3189716d12/583646783ef99087ca329ff3126dfd50/auction-315-the-fine-sale-lot-598/. Original specimen catalogue attributes 1210. Reference mapping is specimen-backed; no serial year, component originality or authenticity verdict is inferred. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://auctions.lockdales.com/catalogue/lot/bc13794312a382787c110a3189716d12/583646783ef99087ca329ff3126dfd50/auction-315-the-fine-sale-lot-598/. Original specimen catalogue attributes 1210. Reference mapping is specimen-backed; no serial year, component originality or authenticity verdict is inferred. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:TAGHEUER|WAY111A",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://live.mortonsubastas.com/online-auctions/morton-subastas/reloj-tag-heuer-aquaracer-en-acero-ref-way111a-movimiento-cuarzo-2825534. Original Morton exact-reference specimen names ETA955.112. Inspect fitted execution and service history independently. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://live.mortonsubastas.com/online-auctions/morton-subastas/reloj-tag-heuer-aquaracer-en-acero-ref-way111a-movimiento-cuarzo-2825534. Original Morton exact-reference specimen names ETA955.112. Inspect fitted execution and service history independently. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:TUDOR|76214",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://www.tickingtimehomme.com/shop/2010s-tudor-prince-date-day-tud-6214-m02-002. Original dealer specimen attributes ETA2834-2. Dial and date language variants and service replacements remain specimen checks. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.tickingtimehomme.com/shop/2010s-tudor-prince-date-day-tud-6214-m02-002. Original dealer specimen attributes ETA2834-2. Dial and date language variants and service replacements remain specimen checks. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:OMEGA|1760014",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://onlineonly.christies.com/s/christies-watches-online-time-winter/omega-speedmaster-automatic-ref-176-0014-58/52372. Original specimen record attributes calibre 1045. This establishes a sourced reference mapping, not the originality, manufacture date or fitted execution of the watch being inspected. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://onlineonly.christies.com/s/christies-watches-online-time-winter/omega-speedmaster-automatic-ref-176-0014-58/52372. Original specimen record attributes calibre 1045. This establishes a sourced reference mapping, not the originality, manufacture date or fitted execution of the watch being inspected. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:ROLEX|6244",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://www.christies.com/lot/lot-5731475. Original specimen catalogue attributes 710. Reference mapping is specimen-backed; no serial year, component originality or authenticity verdict is inferred. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.christies.com/lot/lot-5731475. Original specimen catalogue attributes 710. Reference mapping is specimen-backed; no serial year, component originality or authenticity verdict is inferred. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:TUDOR|79210CNU0007",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://www.tudorwatch.com/ar/watch-family/daring-watches/m79210cnu-0007. Maker full M79210CNU-0007 specifies MT5602-1U. Bare5602 is incomplete; do not silently equate other MT5602 executions. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.tudorwatch.com/ar/watch-family/daring-watches/m79210cnu-0007. Maker full M79210CNU-0007 specifies MT5602-1U. Bare5602 is incomplete; do not silently equate other MT5602 executions. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:BREITLING|B35312",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://www.dorotheum.com/de/l/10292473/. Original Dorotheum B35312 specimen explicitly lists ETA2892A2. This is the base movement in a flyback chronograph assembly, not proof a plain2892A2 alone is correct. Verify the chronograph module and full execution; no modern in-house B35 worldtimer equivalence. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.dorotheum.com/de/l/10292473/. Original Dorotheum B35312 specimen explicitly lists ETA2892A2. This is the base movement in a flyback chronograph assembly, not proof a plain2892A2 alone is correct. Verify the chronograph module and full execution; no modern in-house B35 worldtimer equivalence. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:SCHOFIELD|DAYMARK",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://schofieldwatchcompany.com/daymark-%E2%9C%A6-a-green-dialled-watch-press-release/. Original source attributes 2824-2 to this reference. This is a reference mapping, not authentication of the inspected specimen. Physical sub-execution and originality remain inspection tasks. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://schofieldwatchcompany.com/daymark-%E2%9C%A6-a-green-dialled-watch-press-release/. Original source attributes 2824-2 to this reference. This is a reference mapping, not authentication of the inspected specimen. Physical sub-execution and originality remain inspection tasks. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:TAGHEUER|CAZ101N",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://www.bidsquare.com/online-auctions/morton-subastas/tag-heuer-formula-1-chronograph-watch-in-steel-ref-caz101n-movement-quartz-2230601. Original Morton lot text names Ronda5040D for CAZ101N. No5040.F or neighbouring case equivalence. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.bidsquare.com/online-auctions/morton-subastas/tag-heuer-formula-1-chronograph-watch-in-steel-ref-caz101n-movement-quartz-2230601. Original Morton lot text names Ronda5040D for CAZ101N. No5040.F or neighbouring case equivalence. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:CARTIER|85533503",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://antiqurious.com/en/products/rc_it2n4gy5oexa_shnc. Original source attributes 81 to this reference. This is a reference mapping, not authentication of the inspected specimen. Physical sub-execution and originality remain inspection tasks. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://antiqurious.com/en/products/rc_it2n4gy5oexa_shnc. Original source attributes 81 to this reference. This is a reference mapping, not authentication of the inspected specimen. Physical sub-execution and originality remain inspection tasks. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:OMEGA|145036",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://onlineonly.christies.com/s/christies-watches-online/omega-flightmaster-chronograph-wristwatch-ref-st-145-036-109/49665. Original specimen record attributes calibre 911. This establishes a sourced reference mapping, not the originality, manufacture date or fitted execution of the watch being inspected. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://onlineonly.christies.com/s/christies-watches-online/omega-flightmaster-chronograph-wristwatch-ref-st-145-036-109/49665. Original specimen record attributes calibre 911. This establishes a sourced reference mapping, not the originality, manufacture date or fitted execution of the watch being inspected. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:OMEGA|42858366002001",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://www.omegawatches.co.kr/media/pdf/watches/product-sheet/kr/ko-kr/42858366002001-ko-kr.pdf. Exact source record attributes 4061. This answers the missing mapping; inspect fitted execution, service replacements and component originality independently. No movement-family substitutions or neighbouring reference aliases added. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.omegawatches.co.kr/media/pdf/watches/product-sheet/kr/ko-kr/42858366002001-ko-kr.pdf. Exact source record attributes 4061. This answers the missing mapping; inspect fitted execution, service replacements and component originality independently. No movement-family substitutions or neighbouring reference aliases added. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:PANERAI|PAM00359",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://www.christies.com/lot/lot-5573643. Source names calibre P.9000 for this reference. Physical execution, service history and component originality still require inspection; nominal specifications are not performance tests. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.christies.com/lot/lot-5573643. Source names calibre P.9000 for this reference. Physical execution, service history and component originality still require inspection; nominal specifications are not performance tests. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:OMEGA|21032422006001",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://www.tourneau.com/watches/omega/seamaster-diver-300m-co%E2%80%91axial-master-chronometer-42%C2%A0mm-21032422006001-OMG0191062.html. Exact source record attributes 8800. This answers the missing mapping; inspect fitted execution, service replacements and component originality independently. No movement-family substitutions or neighbouring reference aliases added. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.tourneau.com/watches/omega/seamaster-diver-300m-co%E2%80%91axial-master-chronometer-42%C2%A0mm-21032422006001-OMG0191062.html. Exact source record attributes 8800. This answers the missing mapping; inspect fitted execution, service replacements and component originality independently. No movement-family substitutions or neighbouring reference aliases added. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:OMEGA|21230412001003",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://www.gioielleriabracco.com/index.php?category=Orologi&marchio=Omega&page=catalogue-item&slug=Orologio-Omega-Uomo-21230412001003.html. Exact source record attributes 2500. This answers the missing mapping; inspect fitted execution, service replacements and component originality independently. No movement-family substitutions or neighbouring reference aliases added. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.gioielleriabracco.com/index.php?category=Orologi&marchio=Omega&page=catalogue-item&slug=Orologio-Omega-Uomo-21230412001003.html. Exact source record attributes 2500. This answers the missing mapping; inspect fitted execution, service replacements and component originality independently. No movement-family substitutions or neighbouring reference aliases added. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:TAGHEUER|WAW131A",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://shop.hodinkee.com/products/tag-heuer-monaco-waw131a-10-10-tag-2bupta. Original dealer specimen attributes ETAE64.511. Non-chronograph quartz Monaco; do not inherit mechanical Monaco chronograph specifications. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://shop.hodinkee.com/products/tag-heuer-monaco-waw131a-10-10-tag-2bupta. Original dealer specimen attributes ETAE64.511. Non-chronograph quartz Monaco; do not inherit mechanical Monaco chronograph specifications. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:PANERAI|PAM00753",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://www.panerai.com.mx/radiomir-base-logo-45mm-caja-acero-caratula-negra/p. Source names calibre P.6000 for this reference. Physical execution, service history and component originality still require inspection; nominal specifications are not performance tests. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.panerai.com.mx/radiomir-base-logo-45mm-caja-acero-caratula-negra/p. Source names calibre P.6000 for this reference. Physical execution, service history and component originality still require inspection; nominal specifications are not performance tests. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:TAGHEUER|CBG2011",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://www.tagheuer.com/ca/en/timepieces/collections/tag-heuer-carrera/43-mm-calibre-heuer02-automatic/CBG2011.BA0662.html. Manufacturer CBG2011.BA0662 specifies Heuer02. Base CBG2011 identifies movement family only; strap/dial suffix and fitted execution still need checking. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.tagheuer.com/ca/en/timepieces/collections/tag-heuer-carrera/43-mm-calibre-heuer02-automatic/CBG2011.BA0662.html. Manufacturer CBG2011.BA0662 specifies Heuer02. Base CBG2011 identifies movement family only; strap/dial suffix and fitted execution still need checking. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:OMEGA|32205000",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://www.omegawatches.jp/watch-omega-speedmaster-date-day-date-chronograph-40-mm-day-date-32205000. Exact source record attributes 3606. This answers the missing mapping; inspect fitted execution, service replacements and component originality independently. No movement-family substitutions or neighbouring reference aliases added. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.omegawatches.jp/watch-omega-speedmaster-date-day-date-chronograph-40-mm-day-date-32205000. Exact source record attributes 3606. This answers the missing mapping; inspect fitted execution, service replacements and component originality independently. No movement-family substitutions or neighbouring reference aliases added. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:PANERAI|PAM01028",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://www.jomashop.com/panerai-luminor-1950-watch-pam01028.html. Source names calibre P.9010 for this reference. Physical execution, service history and component originality still require inspection; nominal specifications are not performance tests. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.jomashop.com/panerai-luminor-1950-watch-pam01028.html. Source names calibre P.9010 for this reference. Physical execution, service history and component originality still require inspection; nominal specifications are not performance tests. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:HUBLOT|525CM0170RX",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://www.lepage.fr/fr/17065-montre-hublot-classic-fusion-aerofusion-black-magic-automatique-cadran-squelette-bracelet-caoutchouc-noir-45-mm-525cm0170rx.html. Original source attributes HUB1155 to this reference. This is a reference mapping, not authentication of the inspected specimen. Physical sub-execution and originality remain inspection tasks. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.lepage.fr/fr/17065-montre-hublot-classic-fusion-aerofusion-black-magic-automatique-cadran-squelette-bracelet-caoutchouc-noir-45-mm-525cm0170rx.html. Original source attributes HUB1155 to this reference. This is a reference mapping, not authentication of the inspected specimen. Physical sub-execution and originality remain inspection tasks. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:OMEGA|226450",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://bo-watches.com/products/omega-seamaster-300m-2264-50-peter-blake-box-papers-2007. Original source attributes 1538 to this reference. This is a reference mapping, not authentication of the inspected specimen. Physical sub-execution and originality remain inspection tasks. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://bo-watches.com/products/omega-seamaster-300m-2264-50-peter-blake-box-papers-2007. Original source attributes 1538 to this reference. This is a reference mapping, not authentication of the inspected specimen. Physical sub-execution and originality remain inspection tasks. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:TAGHEUER|WBP1318",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://www.tagheuer.com/gb/en/timepieces/collections/tag-heuer-aquaracer/34-mm-th50-01/WBP1318.BA0005.html. Source names calibre TH50-01 for this reference. Physical execution, service history and component originality still require inspection; nominal specifications are not performance tests. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.tagheuer.com/gb/en/timepieces/collections/tag-heuer-aquaracer/34-mm-th50-01/WBP1318.BA0005.html. Source names calibre TH50-01 for this reference. Physical execution, service history and component originality still require inspection; nominal specifications are not performance tests. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:OMEGA|3961062",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://secondvintage.com/en/auction/OME-SPX-0008. Original Second Vintage specimen catalogue explicitly attributes1438 to396.1062. This mapping does not establish factory originality or exact fitted supplier execution of another watch. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://secondvintage.com/en/auction/OME-SPX-0008. Original Second Vintage specimen catalogue explicitly attributes1438 to396.1062. This mapping does not establish factory originality or exact fitted supplier execution of another watch. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:TUDOR|94110",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://www.sothebys.com/en/auctions/ecatalogue/2019/important-watches-ge1901/lot.33.html. Original auction9411/0 specimen attributes2784. Matching model/calibre does not authenticate a watch; replica/user-reported examples must remain in the separate counterfeit register. No counterfeit verdict is applied to all watches of this reference. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.sothebys.com/en/auctions/ecatalogue/2019/important-watches-ge1901/lot.33.html. Original auction9411/0 specimen attributes2784. Matching model/calibre does not authenticate a watch; replica/user-reported examples must remain in the separate counterfeit register. No counterfeit verdict is applied to all watches of this reference. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:ROLEX|67480",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://ineichen.com/auctions/174/163/. Exact source record attributes 2130. This answers the missing mapping; inspect fitted execution, service replacements and component originality independently. No movement-family substitutions or neighbouring reference aliases added. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://ineichen.com/auctions/174/163/. Exact source record attributes 2130. This answers the missing mapping; inspect fitted execution, service replacements and component originality independently. No movement-family substitutions or neighbouring reference aliases added. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:PANERAI|PAM03312",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://www.panerai.com/mc/en/collections/watch-collection/luminor/pam03312-luminor-marina.html. Source names calibre P.980 for this reference. Physical execution, service history and component originality still require inspection; nominal specifications are not performance tests. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.panerai.com/mc/en/collections/watch-collection/luminor/pam03312-luminor-marina.html. Source names calibre P.980 for this reference. Physical execution, service history and component originality still require inspection; nominal specifications are not performance tests. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:ROLEX|6517",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://www.cambiaste.com/uploads/auctions/1207-cambiorologi1102202512eb.pdf. Exact source record attributes 1161. This answers the missing mapping; inspect fitted execution, service replacements and component originality independently. No movement-family substitutions or neighbouring reference aliases added. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.cambiaste.com/uploads/auctions/1207-cambiorologi1102202512eb.pdf. Exact source record attributes 1161. This answers the missing mapping; inspect fitted execution, service replacements and component originality independently. No movement-family substitutions or neighbouring reference aliases added. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:TAGHEUER|CV2A1V",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://www.tagheuer.com/ca/en/timepieces/collections/tag-heuer-carrera/43-mm-calibre-16-automatic/CV2A1V.BA0738.html. Source names calibre 16 for this reference. Physical execution, service history and component originality still require inspection; nominal specifications are not performance tests. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.tagheuer.com/ca/en/timepieces/collections/tag-heuer-carrera/43-mm-calibre-16-automatic/CV2A1V.BA0738.html. Source names calibre 16 for this reference. Physical execution, service history and component originality still require inspection; nominal specifications are not performance tests. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:ROLEX|126331",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://www.rolex.com/en-us/watches/datejust/m126331-0001. Exact source record attributes 3235. This answers the missing mapping; inspect fitted execution, service replacements and component originality independently. No movement-family substitutions or neighbouring reference aliases added. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.rolex.com/en-us/watches/datejust/m126331-0001. Exact source record attributes 3235. This answers the missing mapping; inspect fitted execution, service replacements and component originality independently. No movement-family substitutions or neighbouring reference aliases added. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:CHOPARD|8997",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://www.creditmunicipal.fr/en/ventes-aux-encheres/catalogue-des-ventes/181211000/chopard-mille-miglia-gt-gran-turismo-xl-montre/. Original auction exact8997 specifies ETA A07161 and power-reserve display. Individual serial/date and originality are not inferred. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.creditmunicipal.fr/en/ventes-aux-encheres/catalogue-des-ventes/181211000/chopard-mille-miglia-gt-gran-turismo-xl-montre/. Original auction exact8997 specifies ETA A07161 and power-reserve display. Individual serial/date and originality are not inferred. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:OMEGA|21032422001001",
       "reviewedAt": "2026-10-20T13:18:47.854Z",
-      "evidence": "Textual original source reviewed: https://www.omegawatches.com.hk/media/pdf/watches/product-sheet/hk/en-gb/21032422001001-en-gb.pdf. Exact source record attributes 8800. This answers the missing mapping; inspect fitted execution, service replacements and component originality independently. No movement-family substitutions or neighbouring reference aliases added. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.omegawatches.com.hk/media/pdf/watches/product-sheet/hk/en-gb/21032422001001-en-gb.pdf. Exact source record attributes 8800. This answers the missing mapping; inspect fitted execution, service replacements and component originality independently. No movement-family substitutions or neighbouring reference aliases added. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:ROLEX|6580",
       "reviewedAt": "2026-10-20T13:18:47.855Z",
-      "evidence": "Textual original source reviewed: https://www.christies.com/en/lot/lot-5864741. Exact source record attributes 1030. This answers the missing mapping; inspect fitted execution, service replacements and component originality independently. No movement-family substitutions or neighbouring reference aliases added. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.christies.com/en/lot/lot-5864741. Exact source record attributes 1030. This answers the missing mapping; inspect fitted execution, service replacements and component originality independently. No movement-family substitutions or neighbouring reference aliases added. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:STUDIOUNDERD0G|FEARSMANHATTAN",
       "reviewedAt": "2026-10-20T13:18:47.855Z",
-      "evidence": "Textual original source reviewed: https://underd0g.com/products/02maox. Original source attributes SW210-1 to this reference. This is a reference mapping, not authentication of the inspected specimen. Physical sub-execution and originality remain inspection tasks. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://underd0g.com/products/02maox. Original source attributes SW210-1 to this reference. This is a reference mapping, not authentication of the inspected specimen. Physical sub-execution and originality remain inspection tasks. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:OMEGA|32128000",
       "reviewedAt": "2026-10-20T13:18:47.855Z",
-      "evidence": "Textual original source reviewed: https://www.omegawatches.jp/watch-omega-speedmaster-date-day-date-chronograph-40-mm-date-32128000. Exact source record attributes 1164. This answers the missing mapping; inspect fitted execution, service replacements and component originality independently. No movement-family substitutions or neighbouring reference aliases added. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.omegawatches.jp/watch-omega-speedmaster-date-day-date-chronograph-40-mm-date-32128000. Exact source record attributes 1164. This answers the missing mapping; inspect fitted execution, service replacements and component originality independently. No movement-family substitutions or neighbouring reference aliases added. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:OMEGA|165024",
       "reviewedAt": "2026-10-20T13:18:47.855Z",
-      "evidence": "Textual original source reviewed: https://www.phillips.com/detail/omega/HK080218/1042. Original source attributes 552 to this reference. This is a reference mapping, not authentication of the inspected specimen. Physical sub-execution and originality remain inspection tasks. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.phillips.com/detail/omega/HK080218/1042. Original source attributes 552 to this reference. This is a reference mapping, not authentication of the inspected specimen. Physical sub-execution and originality remain inspection tasks. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:CARTIER|W5200004",
       "reviewedAt": "2026-10-20T13:18:47.855Z",
-      "evidence": "Textual original source reviewed: https://calibercorner.com/cartier-caliber-690/. Original source attributes 690 to this reference. This is a reference mapping, not authentication of the inspected specimen. Physical sub-execution and originality remain inspection tasks. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://calibercorner.com/cartier-caliber-690/. Original source attributes 690 to this reference. This is a reference mapping, not authentication of the inspected specimen. Physical sub-execution and originality remain inspection tasks. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:OMEGA|33110425101002",
       "reviewedAt": "2026-10-20T13:18:47.855Z",
-      "evidence": "Textual original source reviewed: https://www.omegawatches.com.hk/en-hk/watch-omega-speedmaster-57-co-axial-chronometer-chronograph-41-5-mm-33110425101002. Exact source record attributes 9300. This answers the missing mapping; inspect fitted execution, service replacements and component originality independently. No movement-family substitutions or neighbouring reference aliases added. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.omegawatches.com.hk/en-hk/watch-omega-speedmaster-57-co-axial-chronometer-chronograph-41-5-mm-33110425101002. Exact source record attributes 9300. This answers the missing mapping; inspect fitted execution, service replacements and component originality independently. No movement-family substitutions or neighbouring reference aliases added. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:OMEGA|38101240",
       "reviewedAt": "2026-10-20T13:18:47.855Z",
-      "evidence": "Textual original source reviewed: https://www.righttime.com/rt/pre-owned/3810.12.40.htm. Original source attributes 1143 to this reference. This is a reference mapping, not authentication of the inspected specimen. Physical sub-execution and originality remain inspection tasks. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.righttime.com/rt/pre-owned/3810.12.40.htm. Original source attributes 1143 to this reference. This is a reference mapping, not authentication of the inspected specimen. Physical sub-execution and originality remain inspection tasks. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:IWC|IW388002",
       "reviewedAt": "2026-10-20T13:18:47.855Z",
-      "evidence": "Textual original source reviewed: https://www.tourneau.com/watches/iwc-schaffhausen/miramar-chronograph-iw388002-IWC0140378.html. Original source attributes 89365 to this reference. This is a reference mapping, not authentication of the inspected specimen. Physical sub-execution and originality remain inspection tasks. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.tourneau.com/watches/iwc-schaffhausen/miramar-chronograph-iw388002-IWC0140378.html. Original source attributes 89365 to this reference. This is a reference mapping, not authentication of the inspected specimen. Physical sub-execution and originality remain inspection tasks. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:SEIKO|HBF002J1",
       "reviewedAt": "2026-10-20T13:18:47.855Z",
-      "evidence": "Textual original source reviewed: https://www.seikowatches.com/sg-en/products/prospex/hbf002j1. Original source attributes 8L45 to this reference. This is a reference mapping, not authentication of the inspected specimen. Physical sub-execution and originality remain inspection tasks. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.seikowatches.com/sg-en/products/prospex/hbf002j1. Original source attributes 8L45 to this reference. This is a reference mapping, not authentication of the inspected specimen. Physical sub-execution and originality remain inspection tasks. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:GRANDSEIKO|SBGY035G",
       "reviewedAt": "2026-10-20T13:18:47.855Z",
-      "evidence": "Textual original source reviewed: https://www.grand-seiko.com/au-en/news/2024/pr/20240827. Manufacturer identifies manual-winding Spring Drive9R31. Observed9R31A2 includes additional execution marking not established by this source. Verify the actual inscription; no automatic removal of suffixes. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.grand-seiko.com/au-en/news/2024/pr/20240827. Manufacturer identifies manual-winding Spring Drive9R31. Observed9R31A2 includes additional execution marking not established by this source. Verify the actual inscription; no automatic removal of suffixes. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:GIRARDPERREGAUX|2584",
       "reviewedAt": "2026-10-20T13:18:47.855Z",
-      "evidence": "Textual original source reviewed: https://ineichen.com/upload/iblock/05d/tumlv2okivn4tgs2nfvwem06n0flo18p.pdf. Original auction ref2584 names C.3370 with63jewels. This is a sourced fitment, not component or serial authenticity proof. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://ineichen.com/upload/iblock/05d/tumlv2okivn4tgs2nfvwem06n0flo18p.pdf. Original auction ref2584 names C.3370 with63jewels. This is a sourced fitment, not component or serial authenticity proof. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:BREITLING|A23351",
       "reviewedAt": "2026-10-20T13:18:47.855Z",
-      "evidence": "Textual original source reviewed: https://www.ebth.com/items/14379751-breitling-navitimer-montbrillant-47-limited-steel-automatic-watch. Original inspected EBTH specimen attributes Breitling23 with ETA7753 base. Compare full assembly and branded execution; generic7753 alone is not authenticity proof. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.ebth.com/items/14379751-breitling-navitimer-montbrillant-47-limited-steel-automatic-watch. Original inspected EBTH specimen attributes Breitling23 with ETA7753 base. Compare full assembly and branded execution; generic7753 alone is not authenticity proof. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:TAGHEUER|WR2110",
       "reviewedAt": "2026-10-20T13:18:47.855Z",
-      "evidence": "Textual original source reviewed: https://www.iconewatches.com/producto/reloj-tag-heuer-monza-ref-wr2110/. Original exact-reference dealer attributes TAGHeuer6. Supplier execution must be inspected; no WAR2110 or modern generic Calibre6 alias. No image-pixel/category verification claimed."
+      "evidence": "Textual original source reviewed: https://www.iconewatches.com/producto/reloj-tag-heuer-monza-ref-wr2110/. Original exact-reference dealer attributes TAGHeuer6. Supplier execution must be inspected; no WAR2110 or modern generic Calibre6 alias. No image-pixel/category verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:ROLEX|116400GV",
       "reviewedAt": "2026-10-20T13:34:19.908Z",
-      "evidence": "Original text source https://content.rolex.com/dam/media/brochures/milgauss/m116400gv-0002.pdf. Original exact-reference source attributes 3131. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed."
+      "evidence": "Original text source https://content.rolex.com/dam/media/brochures/milgauss/m116400gv-0002.pdf. Original exact-reference source attributes 3131. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:ROLEX|77014",
       "reviewedAt": "2026-10-20T13:34:19.920Z",
-      "evidence": "Original text source https://www.swisswatchexpo.com/watches/rolex-oyster-perpetual-midsize-steel-black-dial-ladies-watch-77014-84377/. Original exact-reference source attributes 2230. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed."
+      "evidence": "Original text source https://www.swisswatchexpo.com/watches/rolex-oyster-perpetual-midsize-steel-black-dial-ladies-watch-77014-84377/. Original exact-reference source attributes 2230. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:ROLEX|67180",
       "reviewedAt": "2026-10-20T13:34:19.920Z",
-      "evidence": "Original text source https://www.phillips.com/detail/rolex/CH080221/133. Original exact-reference source attributes 2130. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed."
+      "evidence": "Original text source https://www.phillips.com/detail/rolex/CH080221/133. Original exact-reference source attributes 2130. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:ROLEX|116139",
       "reviewedAt": "2026-10-20T13:34:19.920Z",
-      "evidence": "Original text source https://www.swisswatchexpo.com/watches/rolex/mens-rolex/datejust/datejust-36-white-gold-blue-dial-black-strap-mens-116139-19157/. Original exact-reference source attributes 3135. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed."
+      "evidence": "Original text source https://www.swisswatchexpo.com/watches/rolex/mens-rolex/datejust/datejust-36-white-gold-blue-dial-black-strap-mens-116139-19157/. Original exact-reference source attributes 3135. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:CARTIER|W5200014",
       "reviewedAt": "2026-10-20T13:34:19.920Z",
-      "evidence": "Original text source https://www.jomashop.com/preowned-1-cartier-watch-w5200014.html. Original exact-reference source attributes 690. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed."
+      "evidence": "Original text source https://www.jomashop.com/preowned-1-cartier-watch-w5200014.html. Original exact-reference source attributes 690. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:CARTIER|WSSA0047",
       "reviewedAt": "2026-10-20T13:34:19.920Z",
-      "evidence": "Original text source https://www.cjcharles.com/products/santos-de-cartier-watch-crwssa0047. Original exact-reference source attributes 1847 MC. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed."
+      "evidence": "Original text source https://www.cjcharles.com/products/santos-de-cartier-watch-crwssa0047. Original exact-reference source attributes 1847 MC. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:TAGHEUER|WBY111HFT8128",
       "reviewedAt": "2026-10-20T13:34:19.920Z",
-      "evidence": "Original text source https://www.tagheuer.com/us/en/timepieces/collections/tag-heuer-formula-1/38-mm-th50-00/WBY111H.FT8128.html. Original exact-reference source attributes TH50-00. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed."
+      "evidence": "Original text source https://www.tagheuer.com/us/en/timepieces/collections/tag-heuer-formula-1/38-mm-th50-00/WBY111H.FT8128.html. Original exact-reference source attributes TH50-00. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:TAGHEUER|WAY208F",
       "reviewedAt": "2026-10-20T13:34:19.920Z",
-      "evidence": "Original text source https://www.tagheuer.com/us/en/timepieces/collections/tag-heuer-aquaracer/43-mm-calibre-5-automatic/WAY208F.BF0638.html. Original exact-reference source attributes 5. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed."
+      "evidence": "Original text source https://www.tagheuer.com/us/en/timepieces/collections/tag-heuer-aquaracer/43-mm-calibre-5-automatic/WAY208F.BF0638.html. Original exact-reference source attributes 5. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:TUDOR|79673",
       "reviewedAt": "2026-10-20T13:34:19.920Z",
-      "evidence": "Original text source https://www.tudorwatch.com/en/watches/black-bay-one/m79673-0005. Original exact-reference source attributes MT5602. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed."
+      "evidence": "Original text source https://www.tudorwatch.com/en/watches/black-bay-one/m79673-0005. Original exact-reference source attributes MT5602. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:OMEGA|23110396102001",
       "reviewedAt": "2026-10-20T13:34:19.920Z",
-      "evidence": "Original text source https://www.jomashop.com/omega-seamaster-231-10-39-61-02-001.html. Original exact-reference source attributes 1538. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed."
+      "evidence": "Original text source https://www.jomashop.com/omega-seamaster-231-10-39-61-02-001.html. Original exact-reference source attributes 1538. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:OMEGA|22010402001001",
       "reviewedAt": "2026-10-20T13:34:19.920Z",
-      "evidence": "Original text source https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-railmaster-co-axial-master-chronometer-40-mm-22010402001001. Original exact-reference source attributes 8806. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed."
+      "evidence": "Original text source https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-railmaster-co-axial-master-chronometer-40-mm-22010402001001. Original exact-reference source attributes 8806. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:OMEGA|31192445101005",
       "reviewedAt": "2026-10-20T13:34:19.920Z",
-      "evidence": "Original text source https://www.omegawatches.jp/watch-omega-speedmaster-dark-side-of-the-moon-co-axial-chronometer-chronograph-44-25-mm-31192445101005. Original exact-reference source attributes 9300. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed."
+      "evidence": "Original text source https://www.omegawatches.jp/watch-omega-speedmaster-dark-side-of-the-moon-co-axial-chronometer-chronograph-44-25-mm-31192445101005. Original exact-reference source attributes 9300. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:OMEGA|21530402003001",
       "reviewedAt": "2026-10-20T13:34:19.920Z",
-      "evidence": "Original text source https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-planet-ocean-600m-co-axial-master-chronometer-39-5-mm-21530402003001. Original exact-reference source attributes 8800. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed."
+      "evidence": "Original text source https://www.omegawatches.com.hk/en-hk/watch-omega-seamaster-planet-ocean-600m-co-axial-master-chronometer-39-5-mm-21530402003001. Original exact-reference source attributes 8800. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:OMEGA|21530465101001",
       "reviewedAt": "2026-10-20T13:34:19.920Z",
-      "evidence": "Original text source https://www.omegawatches.jp/watch-omega-seamaster-planet-ocean-600m-co-axial-master-chronometer-chronograph-45-5-mm-21530465101001. Original exact-reference source attributes 9900. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed."
+      "evidence": "Original text source https://www.omegawatches.jp/watch-omega-seamaster-planet-ocean-600m-co-axial-master-chronometer-chronograph-45-5-mm-21530465101001. Original exact-reference source attributes 9900. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:HUBLOT|411NX1170RX",
       "reviewedAt": "2026-10-20T13:34:19.920Z",
-      "evidence": "Original text source https://ishida-watch.com/blog/ishida-shinjuku/post-20200216/. Original exact-reference source attributes HUB1242. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed."
+      "evidence": "Original text source https://ishida-watch.com/blog/ishida-shinjuku/post-20200216/. Original exact-reference source attributes HUB1242. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:AUDEMARSPIGUET|15400STOO1220ST02",
       "reviewedAt": "2026-10-20T13:34:19.920Z",
-      "evidence": "Original text source https://www.sothebys.com/en/buy/auction/2023/fine-watches-5/reference-15400st-oo-1220st-02-royal-oak-a. Original exact-reference source attributes 3120. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed."
+      "evidence": "Original text source https://www.sothebys.com/en/buy/auction/2023/fine-watches-5/reference-15400st-oo-1220st-02-royal-oak-a. Original exact-reference source attributes 3120. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:BREITLING|CB0110",
       "reviewedAt": "2026-10-20T13:34:19.920Z",
-      "evidence": "Original text source https://www.sothebys.com/en/buy/watches/_chronomat-reference-cb0110-5703. Original exact-reference source attributes B01. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed."
+      "evidence": "Original text source https://www.sothebys.com/en/buy/watches/_chronomat-reference-cb0110-5703. Original exact-reference source attributes B01. This answers the reference mapping, not physical authentication, current performance, production date or component originality. Verify full fitted execution independently. No photo verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:LONGINES|L38354326",
       "reviewedAt": "2026-10-20T13:57:30.377Z",
-      "evidence": "Second-pass original text source https://www.longines.com/tr/p/watch-conquest-chronograph-l3-835-4-32-6. Manufacturer specifies L898 for this exact Conquest Chronograph. The saved 898.5 sub-execution is not accepted as an alias; inspect its marking. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed."
+      "evidence": "Second-pass original text source https://www.longines.com/tr/p/watch-conquest-chronograph-l3-835-4-32-6. Manufacturer specifies L898 for this exact Conquest Chronograph. The saved 898.5 sub-execution is not accepted as an alias; inspect its marking. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:OMEGA|3980876",
       "reviewedAt": "2026-10-20T13:57:30.397Z",
-      "evidence": "Second-pass original text source https://bo-watches.com/products/omega-constellation-398-0876-chronometer. A separate original B&O Watches exact398.0876 specimen explicitly specifies1431. Dorotheum E63.111 example is expressly an exchange movement and is not factory-fitment evidence. The new attribution answers the mapping gap; actual user movement remains to be checked. Resolution covers missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed."
+      "evidence": "Second-pass original text source https://bo-watches.com/products/omega-constellation-398-0876-chronometer. A separate original B&O Watches exact398.0876 specimen explicitly specifies1431. Dorotheum E63.111 example is expressly an exchange movement and is not factory-fitment evidence. The new attribution answers the mapping gap; actual user movement remains to be checked. Resolution covers missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:CARTIER|W6701005",
       "reviewedAt": "2026-10-20T13:57:30.397Z",
-      "evidence": "Second-pass original text source https://www.kaplans.se/sv/auktioner/4514?p=2. Original Kaplans lot21 explicitly identifies W6701005 and Cal115A. Its case-size text is inconsistent, so dimensions are not transferred. This answers the missing calibre mapping; the auction specimen is not the user watch. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed."
+      "evidence": "Second-pass original text source https://www.kaplans.se/sv/auktioner/4514?p=2. Original Kaplans lot21 explicitly identifies W6701005 and Cal115A. Its case-size text is inconsistent, so dimensions are not transferred. This answers the missing calibre mapping; the auction specimen is not the user watch. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:BREITLING|A45320",
       "reviewedAt": "2026-10-20T13:57:30.398Z",
-      "evidence": "Second-pass original text source https://www.orologeriatempus.com/prodotto/breitling-galactic-day-date-44mm-a45320-with-papers-anno-2015-blue-dial-c-o-s-c-master-chronometer-automatico-acciaio/. Original dealer identifies A45320 Galactic Day-Date as Breitling45. Saved SW240-1 remains an unverified supplier execution and is not an accepted equivalent. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed."
+      "evidence": "Second-pass original text source https://www.orologeriatempus.com/prodotto/breitling-galactic-day-date-44mm-a45320-with-papers-anno-2015-blue-dial-c-o-s-c-master-chronometer-automatico-acciaio/. Original dealer identifies A45320 Galactic Day-Date as Breitling45. Saved SW240-1 remains an unverified supplier execution and is not an accepted equivalent. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:TUDOR|M2836C1A00101",
       "reviewedAt": "2026-10-20T13:57:30.398Z",
-      "evidence": "Second-pass original text source https://www.tudorwatch.com/en/watches/tudor-royal/m2836c1a0-0101. Correction to previous review: M2836C1A00101 is exactly M2836C1A0-0101 with punctuation removed. Manufacturer specifies MT5412. Bare5412 is not accepted as an equivalent marking. No digits were changed. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed."
+      "evidence": "Second-pass original text source https://www.tudorwatch.com/en/watches/tudor-royal/m2836c1a0-0101. Correction to previous review: M2836C1A00101 is exactly M2836C1A0-0101 with punctuation removed. Manufacturer specifies MT5412. Bare5412 is not accepted as an equivalent marking. No digits were changed. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:DOXA|4653",
       "reviewedAt": "2026-10-20T13:57:30.398Z",
-      "evidence": "Second-pass original text source https://www.dawsonsauctions.co.uk/auction/lot/lot-477---a-1980s-doxa-sharkhunter-600t-ref-4653/?lot=6038. Original Dawsons lot477 explicitly records Doxa Sharkhunter600T ref4653 and ETA2872,17jewels. Source attribution answers the missing mapping; condition, dimensions and originality of the user specimen remain inspection matters. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed."
+      "evidence": "Second-pass original text source https://www.dawsonsauctions.co.uk/auction/lot/lot-477---a-1980s-doxa-sharkhunter-600t-ref-4653/?lot=6038. Original Dawsons lot477 explicitly records Doxa Sharkhunter600T ref4653 and ETA2872,17jewels. Source attribution answers the missing mapping; condition, dimensions and originality of the user specimen remain inspection matters. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:ROLEX|12868",
       "reviewedAt": "2026-10-20T13:57:30.398Z",
-      "evidence": "Second-pass original text source https://www.watch-auctions.co.uk/sale/6/69/Rolex-Precision-9ct-gentlemans-wristwatch-case-no-128xx-circa-1960-signed-silvered-dial-with-baton-markers-and-subsidiary-seconds-dial-cal-1200-17-jewel-movement-Dennison-case-no-12868-S2346-black-strap-31mm. Original auction identifies Dennison case12868 Rolex Precision with manual1200. This is a Dennison case designation; do not label it Oyster or infer a date display from conflicting aggregated descriptions. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed."
+      "evidence": "Second-pass original text source https://www.watch-auctions.co.uk/sale/6/69/Rolex-Precision-9ct-gentlemans-wristwatch-case-no-128xx-circa-1960-signed-silvered-dial-with-baton-markers-and-subsidiary-seconds-dial-cal-1200-17-jewel-movement-Dennison-case-no-12868-S2346-black-strap-31mm. Original auction identifies Dennison case12868 Rolex Precision with manual1200. This is a Dennison case designation; do not label it Oyster or infer a date display from conflicting aggregated descriptions. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:SEIKO|7A287000",
       "reviewedAt": "2026-10-20T13:57:30.398Z",
-      "evidence": "Second-pass original text source https://store.shopping.yahoo.co.jp/ippin78marutaka/a1-1832/free-space/. Original Ippin78 Marutaka specimen listing explicitly pairs7A28-7000 with Cal7A28A. It reports battery replacement. This supplies the execution suffix missing from the earlier auction attribution; no movement photograph is newly verified. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed."
+      "evidence": "Second-pass original text source https://store.shopping.yahoo.co.jp/ippin78marutaka/a1-1832/free-space/. Original Ippin78 Marutaka specimen listing explicitly pairs7A28-7000 with Cal7A28A. It reports battery replacement. This supplies the execution suffix missing from the earlier auction attribution; no movement photograph is newly verified. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:TAGHEUER|CAZ1015",
       "reviewedAt": "2026-10-20T13:57:30.398Z",
-      "evidence": "Second-pass original text source https://www.uhrenlounge.de/detail/tag-heuer-formula-1-chronograph-43mm-senna-special-edition-caz1015-ba0883-11356. Original Uhrenlounge exact CAZ1015.BA0883 specification names Ronda5040.D quartz chronograph. No generic Formula1 or neighbouring Senna-reference inheritance. Manufacturer confirms quartz but does not itself specify this supplier number. Resolution covers missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed."
+      "evidence": "Second-pass original text source https://www.uhrenlounge.de/detail/tag-heuer-formula-1-chronograph-43mm-senna-special-edition-caz1015-ba0883-11356. Original Uhrenlounge exact CAZ1015.BA0883 specification names Ronda5040.D quartz chronograph. No generic Formula1 or neighbouring Senna-reference inheritance. Manufacturer confirms quartz but does not itself specify this supplier number. Resolution covers missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:JAEGERLECOULTRE|Q1358170",
       "reviewedAt": "2026-10-20T13:57:30.398Z",
-      "evidence": "Second-pass original text source https://housekihiroba.jp/shop/g/g441416001/. Original Houseki Hiroba specimen listing identifies Q1358170 with automatic896. Recorded895 differs and must remain a caution; this research answers the reference mapping and does not approve the inspected movement. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed."
+      "evidence": "Second-pass original text source https://housekihiroba.jp/shop/g/g441416001/. Original Houseki Hiroba specimen listing identifies Q1358170 with automatic896. Recorded895 differs and must remain a caution; this research answers the reference mapping and does not approve the inspected movement. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:CARTIER|W20122U2",
@@ -14372,52 +14451,62 @@
     {
       "id": "UPDATE:BREITLING|E56121",
       "reviewedAt": "2026-10-20T13:57:30.399Z",
-      "evidence": "Second-pass original text source https://www.kaplans.se/en/auktioner/2548?p=5. Original Kaplans auction99 identifies Emergency E56121 and Cal56. Recorded988332 is not independently accepted as an equivalent. Keep emergency transmitter and antennae undisturbed; specialist handling remains required. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed."
+      "evidence": "Second-pass original text source https://www.kaplans.se/en/auktioner/2548?p=5. Original Kaplans auction99 identifies Emergency E56121 and Cal56. Recorded988332 is not independently accepted as an equivalent. Keep emergency transmitter and antennae undisturbed; specialist handling remains required. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:CARTIER|W5310036",
       "reviewedAt": "2026-10-20T13:57:30.399Z",
-      "evidence": "Second-pass original text source https://www.miltonsdiamonds.com/products/cartier-tank-anglaise-steel-rose-gold-w5310036-unworn-2015. Original Miltons Diamonds W5310036 specimen description explicitly names Cartier057 quartz. No general3485 alias or manufacture date is inferred from the seller year. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed."
+      "evidence": "Second-pass original text source https://www.miltonsdiamonds.com/products/cartier-tank-anglaise-steel-rose-gold-w5310036-unworn-2015. Original Miltons Diamonds W5310036 specimen description explicitly names Cartier057 quartz. No general3485 alias or manufacture date is inferred from the seller year. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:GSHOCK|MRGBF1000B1ADR",
       "reviewedAt": "2026-10-20T13:57:30.399Z",
-      "evidence": "Second-pass original text source https://www.casio.com/sg/watches/gshock/support.MRG-BF1000B-1A/. Official Casio support for MRG-BF1000B-1A links its operation guide to module5702. Original retailer Watch.co.uk separately identifies the full1ADR regional identifier with5702. Recorded5623 differs; do not accept it as the same module. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed."
+      "evidence": "Second-pass original text source https://www.casio.com/sg/watches/gshock/support.MRG-BF1000B-1A/. Official Casio support for MRG-BF1000B-1A links its operation guide to module5702. Original retailer Watch.co.uk separately identifies the full1ADR regional identifier with5702. Recorded5623 differs; do not accept it as the same module. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:BLANCPAIN|2150112753B",
       "reviewedAt": "2026-10-20T13:57:30.399Z",
-      "evidence": "Second-pass original text source https://www.prestigetime.com/Blancpain-Leman-Ultra-Slim-Automatic-Big-Date-2150-1127-53b.html. Original exact-reference retailer specifies Blancpain6850 for2150-1127-53B. Recorded1735 conflicts and remains a caution; the missing source mapping is answered without approving the physical watch. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed."
+      "evidence": "Second-pass original text source https://www.prestigetime.com/Blancpain-Leman-Ultra-Slim-Automatic-Big-Date-2150-1127-53b.html. Original exact-reference retailer specifies Blancpain6850 for2150-1127-53B. Recorded1735 conflicts and remains a caution; the missing source mapping is answered without approving the physical watch. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:CARTIER|W1011158",
       "reviewedAt": "2026-10-20T13:57:30.399Z",
-      "evidence": "Second-pass original text source https://www.zeitauktion.com/products/cartier-basculante-steel-quartz-women-s-watch-w1011158-2386-2302660. Original Zeitauktion specimen explicitly pairs W1011158 with quartz059 and case2386. Separate original AWC specimen also names059 and states internal movement checked. The earlier Sothebys URL mismatch is not used as an alias; no2386/2405 family merge. Resolution covers missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed."
+      "evidence": "Second-pass original text source https://www.zeitauktion.com/products/cartier-basculante-steel-quartz-women-s-watch-w1011158-2386-2302660. Original Zeitauktion specimen explicitly pairs W1011158 with quartz059 and case2386. Separate original AWC specimen also names059 and states internal movement checked. The earlier Sothebys URL mismatch is not used as an alias; no2386/2405 family merge. Resolution covers missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:TAGHEUER|WAZ1118",
       "reviewedAt": "2026-10-20T13:57:30.400Z",
-      "evidence": "Second-pass original text source https://www.christ.de/product/87451241/tag-heuer-herrenuhr-formula-1-waz1118-ba0875/index.html. Original CHRIST product specification identifies WAZ1118.BA0875 with Ronda6003.D. The WAZ1118 case reference is retained as the documented base; no other dial or bracelet photographs inherit. Saved6003.0 is not accepted as6003.D. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed."
+      "evidence": "Second-pass original text source https://www.christ.de/product/87451241/tag-heuer-herrenuhr-formula-1-waz1118-ba0875/index.html. Original CHRIST product specification identifies WAZ1118.BA0875 with Ronda6003.D. The WAZ1118 case reference is retained as the documented base; no other dial or bracelet photographs inherit. Saved6003.0 is not accepted as6003.D. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:TUDOR|42000C",
       "reviewedAt": "2026-10-20T13:57:30.400Z",
-      "evidence": "Second-pass original text source https://www.sothebys.com/en/buy/auction/2022/important-watches-ii-2/black-shield-reference-42000c-a-black-ceramic. Original Sothebys exact42000C specimen records7753. Recorded7750 is not equivalent and remains a discrepancy; verify actual chronograph/date-correction configuration. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed."
+      "evidence": "Second-pass original text source https://www.sothebys.com/en/buy/auction/2022/important-watches-ii-2/black-shield-reference-42000c-a-black-ceramic. Original Sothebys exact42000C specimen records7753. Recorded7750 is not equivalent and remains a discrepancy; verify actual chronograph/date-correction configuration. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:HUBLOT|542.NX.1171.RX",
       "reviewedAt": "2026-10-20T13:57:30.400Z",
-      "evidence": "Second-pass original text source https://www.uhrinstinkt.de/products/hublot-classic-fusion-automatic-42mm-542-nx-1171-rx. Original exact-reference retailer identifies542.NX.1171.RX with HUB1110. Saved SW300-1 is not accepted as a full equivalent or proof of original fitment. NoHUB1112 substitution. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed."
+      "evidence": "Second-pass original text source https://www.uhrinstinkt.de/products/hublot-classic-fusion-automatic-42mm-542-nx-1171-rx. Original exact-reference retailer identifies542.NX.1171.RX with HUB1110. Saved SW300-1 is not accepted as a full equivalent or proof of original fitment. NoHUB1112 substitution. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:RAYMONDWEIL|2761-STC-50001",
       "reviewedAt": "2026-10-20T13:57:30.400Z",
-      "evidence": "Second-pass original text source https://raymond-weil.jp/c/mens/freelancer/2761-STC-50001. Manufacturer exact2761-STC-50001 specifies RW3230. Supplier SW330-2 is not accepted as equivalent. Research supplies the manufacturer calibre while retaining the saved movement discrepancy. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed."
+      "evidence": "Second-pass original text source https://raymond-weil.jp/c/mens/freelancer/2761-STC-50001. Manufacturer exact2761-STC-50001 specifies RW3230. Supplier SW330-2 is not accepted as equivalent. Research supplies the manufacturer calibre while retaining the saved movement discrepancy. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed.",
+      "scope": "text"
     },
     {
       "id": "UPDATE:SEIKO|SLA019J1",
       "reviewedAt": "2026-10-20T13:57:30.401Z",
-      "evidence": "Second-pass original text source https://www.seikowatches.com/pt-pt/products/prospex/sla019j1. Manufacturer exact SLA019J1 specifies8L35. Saved8L35B revision is not silently normalized into8L35. The mapping gap is answered; physical revision and originality remain unverified. Use the appropriate service procedure for the confirmed watch. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed."
+      "evidence": "Second-pass original text source https://www.seikowatches.com/pt-pt/products/prospex/sla019j1. Manufacturer exact SLA019J1 specifies8L35. Saved8L35B revision is not silently normalized into8L35. The mapping gap is answered; physical revision and originality remain unverified. Use the appropriate service procedure for the confirmed watch. Resolution covers the missing reference information only; no physical authenticity decision or new photograph verification. No photograph verification claimed.",
+      "scope": "text"
     },
     {
       "id": "RULE:0001",
