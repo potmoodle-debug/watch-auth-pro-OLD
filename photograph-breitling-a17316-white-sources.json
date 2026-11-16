@@ -1,0 +1,123 @@
+{
+  "reviewedAt": "2026-11-16",
+  "brand": "BREITLING",
+  "reference": "A17316",
+  "evidence": "Original SwissWatchExpo stock 49464 identifies exact case reference A17316, white dial, white bezel and white rubber strap, and states its images show the actual sale watch. All 12 downloaded gallery images inspected in contact sheet; accepted front, back and buckle/clasp views separately inspected at high resolution. Dealer specifies 36 mm steel and automatic self-winding; no fitted calibre or production year is established. Caseback visibly reads A17316 and 200M. No opened movement image is available. No supplier equivalence, neighbouring reference, missing retail suffix or individual-watch authenticity is inferred. Exterior images are representative of this specimen variant only. Packaging/card images excluded.",
+  "sources": [
+    {
+      "title": "SwissWatchExpo stock 49464",
+      "url": "https://www.swisswatchexpo.com/watches/breitling-superocean-36mm-white-dial-ladies-watch-a17316-unworn-49464/"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "breitling-a17316-49464-front-0",
+      "category": "front",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/2/8/breitling-superocean-36mm-white-dial-ladies-watch-a17316-unworn-49464_bc52b.jpg",
+      "sha256": "4115e41b49f63ddc4bf0a8337ec53add6bd5abf0be85a6acd1d2593af7ca1217"
+    },
+    {
+      "id": "breitling-a17316-49464-caseback-6",
+      "category": "caseback",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/2/8/breitling-superocean-36mm-white-dial-ladies-watch-a17316-unworn-49464_0b1f7.jpg",
+      "sha256": "fc091abceb701f2ca1e72cfb379beb46fce59af88436b3dc1ac1271a8f8b4225"
+    },
+    {
+      "id": "breitling-a17316-49464-braceletClasp-7",
+      "category": "braceletClasp",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/2/8/breitling-superocean-36mm-white-dial-ladies-watch-a17316-unworn-49464_8f2c5.jpg",
+      "sha256": "b97291ef276ca028501f8c67488d08e75609da7f8d56bc1a4c76eb8f62ba05e4"
+    }
+  ],
+  "unsupported": [
+    "movement"
+  ],
+  "inspectedGallery": [
+    {
+      "index": 0,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/8/breitling-superocean-36mm-white-dial-ladies-watch-a17316-unworn-49464_bc52b.jpg",
+      "width": 2537,
+      "height": 2537,
+      "sha256": "4115e41b49f63ddc4bf0a8337ec53add6bd5abf0be85a6acd1d2593af7ca1217"
+    },
+    {
+      "index": 1,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/8/breitling-superocean-36mm-white-dial-ladies-watch-a17316-unworn-49464_f1cac.jpg",
+      "width": 2537,
+      "height": 2537,
+      "sha256": "4115e41b49f63ddc4bf0a8337ec53add6bd5abf0be85a6acd1d2593af7ca1217"
+    },
+    {
+      "index": 2,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/8/breitling-superocean-36mm-white-dial-ladies-watch-a17316-unworn-49464_e06e381be8.jpg",
+      "width": 3659,
+      "height": 3659,
+      "sha256": "d0125057cef5ad496e5b89248fe1fbbbbf4d89b0967fa246475e5c4a5f1bf9e4"
+    },
+    {
+      "index": 3,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/8/breitling-superocean-36mm-white-dial-ladies-watch-a17316-unworn-49464_6988d.jpg",
+      "width": 4451,
+      "height": 4451,
+      "sha256": "7b0541e4573e0cd7f3354eb55324f905c6322be0888ff0347daf3b0a90c78c8c"
+    },
+    {
+      "index": 4,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/8/breitling-superocean-36mm-white-dial-ladies-watch-a17316-unworn-49464_701fe.jpg",
+      "width": 4282,
+      "height": 4282,
+      "sha256": "0d113ab98da7b74d3a371cf0450105ebb4adf58e59e8459adccd8cff60875580"
+    },
+    {
+      "index": 5,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/8/breitling-superocean-36mm-white-dial-ladies-watch-a17316-unworn-49464_562ea.jpg",
+      "width": 2655,
+      "height": 2655,
+      "sha256": "fd0248879ccf07fbd1d726c65c5e6dd5e7eb88af5270d03779ca16a034a4699d"
+    },
+    {
+      "index": 6,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/8/breitling-superocean-36mm-white-dial-ladies-watch-a17316-unworn-49464_0b1f7.jpg",
+      "width": 2134,
+      "height": 2134,
+      "sha256": "fc091abceb701f2ca1e72cfb379beb46fce59af88436b3dc1ac1271a8f8b4225"
+    },
+    {
+      "index": 7,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/8/breitling-superocean-36mm-white-dial-ladies-watch-a17316-unworn-49464_8f2c5.jpg",
+      "width": 3192,
+      "height": 3192,
+      "sha256": "b97291ef276ca028501f8c67488d08e75609da7f8d56bc1a4c76eb8f62ba05e4"
+    },
+    {
+      "index": 8,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/8/breitling-superocean-36mm-white-dial-ladies-watch-a17316-unworn-49464_cab31.jpg",
+      "width": 4622,
+      "height": 4622,
+      "sha256": "3d90a95a09d95c061a7a869b56f87fbbba970bb55e21f92ec8e1914612776b51"
+    },
+    {
+      "index": 9,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/8/breitling-superocean-36mm-white-dial-ladies-watch-a17316-unworn-49464_73dc7.jpg",
+      "width": 4632,
+      "height": 4632,
+      "sha256": "857be47a9b8e8eb123a876755099dfbff734ad90154bdc2b6c9e075bd09984e9"
+    },
+    {
+      "index": 10,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/8/breitling-superocean-36mm-white-dial-ladies-watch-a17316-unworn-49464_a152f.jpg",
+      "width": 1555,
+      "height": 1555,
+      "sha256": "d1ecd402d7941ee545268017cec76027a15d30a240e71e3a6fff900ccb8a86f7"
+    },
+    {
+      "index": 11,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/8/breitling-superocean-36mm-white-dial-ladies-watch-a17316-unworn-49464_b3a36.jpg",
+      "width": 1555,
+      "height": 1555,
+      "sha256": "6eb9a7a70324ad90664d2c377c1b961d48b85e8fed27ce14a65ea0b13fb75e3c"
+    }
+  ],
+  "periodAndCalibre": "Dealer specifies 36 mm steel and automatic self-winding; no fitted calibre or production year is established. Caseback visibly reads A17316 and 200M.",
+  "matchingLimits": "Exact case key only; representative specimen variant, no unproved retail suffix or neighbouring reference."
+}
