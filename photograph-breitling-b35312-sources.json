@@ -1,0 +1,108 @@
+{
+  "reviewedAt": "2026-11-16",
+  "brand": "BREITLING",
+  "reference": "B35312",
+  "evidence": "Original SwissWatchExpo stock 37450 identifies exact B35312, black dial, steel and 18K yellow-gold, 38.2 mm and automatic chronograph. All nine gallery files inspected; selected front, closed back and folding clasp individually inspected at high resolution. Back visibly reads B35312, RETOUR EN VOL and nominal 100M. Winged Breitling signing visible on worn folding clasp. Separate Dorotheum lot 10292473 identifies B35312 Shadow Flyback and attributes ETA 2892A2; that attribution does not visually establish the complete fitted flyback assembly in the photographed dealer specimen. Auction condition and leather-strap configuration belong to a separate watch. No opened movement, production interval, full retail suffix or inner caseback established. No generic calibre substitution, neighbouring reference, material assay, original-fitment or individual-watch authenticity inferred. Nominal water-resistance markings are not current pressure testing. Unsupported movement category remains empty; research gaps remain open.",
+  "sources": [
+    {
+      "title": "SwissWatchExpo original specimen stock 37450",
+      "url": "https://www.swisswatchexpo.com/watches/breitling-cockpit-steel-yellow-gold-black-dial-mens-watch-b35312-37450/"
+    },
+    {
+      "title": "Separate original source — textual attribution",
+      "url": "https://www.dorotheum.com/en/l/10292473/"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "breitling-b35312-37450-front-0",
+      "category": "front",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/2/9/breitling-cockpit-steel-yellow-gold-black-dial-mens-watch-b35312-37450_4c314.jpg",
+      "sha256": "a4e9f6d254869a2ce7e1708340115df6ef66b29de8e60e404b1247d30fa5fb16"
+    },
+    {
+      "id": "breitling-b35312-37450-caseback-6",
+      "category": "caseback",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/2/9/breitling-cockpit-steel-yellow-gold-black-dial-mens-watch-b35312-37450_52295.jpg",
+      "sha256": "46f872551fd3eef2df0a703b92967232e29dd0d54fdf4a1488921ab4e063c247"
+    },
+    {
+      "id": "breitling-b35312-37450-braceletClasp-7",
+      "category": "braceletClasp",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/2/9/breitling-cockpit-steel-yellow-gold-black-dial-mens-watch-b35312-37450_e5f25.jpg",
+      "sha256": "1320f853dc69e093dc970e38f4309fa5c59614a6f8de1dfc310d90ef667a0a91"
+    }
+  ],
+  "inspectedGallery": [
+    {
+      "index": 0,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/9/breitling-cockpit-steel-yellow-gold-black-dial-mens-watch-b35312-37450_4c314.jpg",
+      "width": 2090,
+      "height": 2090,
+      "sha256": "a4e9f6d254869a2ce7e1708340115df6ef66b29de8e60e404b1247d30fa5fb16"
+    },
+    {
+      "index": 1,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/9/breitling-cockpit-steel-yellow-gold-black-dial-mens-watch-b35312-37450_78f44.jpg",
+      "width": 2090,
+      "height": 2090,
+      "sha256": "a4e9f6d254869a2ce7e1708340115df6ef66b29de8e60e404b1247d30fa5fb16"
+    },
+    {
+      "index": 2,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/9/breitling-cockpit-steel-yellow-gold-black-dial-mens-watch-b35312-37450_408271478d.jpg",
+      "width": 3784,
+      "height": 3784,
+      "sha256": "e796376cadfd77fcc95ebb1328bc0489ef2a228f954b4d0f505c9f366d935251"
+    },
+    {
+      "index": 3,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/9/breitling-cockpit-steel-yellow-gold-black-dial-mens-watch-b35312-37450_89aa0.jpg",
+      "width": 4553,
+      "height": 4553,
+      "sha256": "7b61ed54e4dae3a33dd1dadecc45209aa73e379e9e1a46d61775349e83bdadf2"
+    },
+    {
+      "index": 4,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/9/breitling-cockpit-steel-yellow-gold-black-dial-mens-watch-b35312-37450_3497b.jpg",
+      "width": 4469,
+      "height": 4469,
+      "sha256": "9be960b3907a29c2e02f106b552f3139a1ed5898f70c448839c35800f3de4827"
+    },
+    {
+      "index": 5,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/9/breitling-cockpit-steel-yellow-gold-black-dial-mens-watch-b35312-37450_06da8.jpg",
+      "width": 2646,
+      "height": 2646,
+      "sha256": "bcd7400f73e5b4e31867b989014b07609126e5e495887539f88c667840d90a25"
+    },
+    {
+      "index": 6,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/9/breitling-cockpit-steel-yellow-gold-black-dial-mens-watch-b35312-37450_52295.jpg",
+      "width": 2151,
+      "height": 2151,
+      "sha256": "46f872551fd3eef2df0a703b92967232e29dd0d54fdf4a1488921ab4e063c247"
+    },
+    {
+      "index": 7,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/9/breitling-cockpit-steel-yellow-gold-black-dial-mens-watch-b35312-37450_e5f25.jpg",
+      "width": 3798,
+      "height": 3798,
+      "sha256": "1320f853dc69e093dc970e38f4309fa5c59614a6f8de1dfc310d90ef667a0a91"
+    },
+    {
+      "index": 8,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/9/breitling-cockpit-steel-yellow-gold-black-dial-mens-watch-b35312-37450_ec3f0.jpg",
+      "width": 4794,
+      "height": 4794,
+      "sha256": "28c1d7edcd8257ec95ed3f193afce544bf3abe2368393c5068408bcb1c802cfe"
+    }
+  ],
+  "unsupportedCategories": [
+    "movement"
+  ],
+  "remainingGaps": [
+    "No opened movement or inner back in inspected gallery.",
+    "No full suffix or universal production interval established."
+  ]
+}

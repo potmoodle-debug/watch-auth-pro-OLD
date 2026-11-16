@@ -1,0 +1,129 @@
+{
+  "reviewedAt": "2026-11-16",
+  "brand": "BREITLING",
+  "reference": "CB0110",
+  "evidence": "Original SwissWatchExpo stock 23206 (gallery directory 23047) identifies exact CB0110, chocolate-brown dial, steel and 18K rose-gold, automatic chronograph and specimen year 2014. All twelve gallery files inspected; selected front, closed back and tang buckle individually inspected at high resolution. Back visibly reads CB0110 and nominal 500M. Brown leather and winged Breitling-signed steel tang buckle visible; this is not a folding clasp. Separate Sothebys/Bucherer CB0110 black-dial rubber-strap specimen attributes automatic B01 and 44 mm; dealer brown-dial listing says 45 mm. Size discrepancy remains source-attributed, not independently measured or resolved. No opened movement or fitted calibre stamp established; 2014 is not a universal production interval. No CB011012 or other full retail suffix inferred. No generic calibre substitution, neighbouring reference, material assay, original-fitment or individual-watch authenticity inferred. Nominal water-resistance markings are not current pressure testing. Unsupported movement category remains empty; research gaps remain open.",
+  "sources": [
+    {
+      "title": "SwissWatchExpo original specimen stock 23206",
+      "url": "https://www.swisswatchexpo.com/watches/breitling/mens-breitling/chronomat/chronomat-evolution-steel-rose-gold-brown-dial-cb0110-23047/"
+    },
+    {
+      "title": "Separate original source — textual attribution",
+      "url": "https://www.sothebys.com/en/buy/watches/_chronomat-reference-cb0110-5703"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "breitling-cb0110-23206-front-0",
+      "category": "front",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/221/23047/breitling-chronomat-evolution-steel-rose-gold-brown-dial-watch-cb0110_23047_f.jpg",
+      "sha256": "cf69ab74e35c5675f050c3a65cd7d29dccab660293e069845d743457efdf305f"
+    },
+    {
+      "id": "breitling-cb0110-23206-caseback-7",
+      "category": "caseback",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/221/23047/breitling-chronomat-evolution-steel-rose-gold-brown-dial-watch-cb0110-261261_b.jpg",
+      "sha256": "5889f3a9514df2d8fb1821fff4d0ccc7ab8185be9943f7401cc3b5138c6dbf7b"
+    },
+    {
+      "id": "breitling-cb0110-23206-braceletClasp-8",
+      "category": "braceletClasp",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/221/23047/breitling-chronomat-evolution-steel-rose-gold-brown-dial-watch-cb0110-261265_b.jpg",
+      "sha256": "4f33b602f06d5f4c152682f991eab11999296012feb039febae6a89a9015d9b9"
+    }
+  ],
+  "inspectedGallery": [
+    {
+      "index": 0,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/221/23047/breitling-chronomat-evolution-steel-rose-gold-brown-dial-watch-cb0110_23047_f.jpg",
+      "width": 1024,
+      "height": 1024,
+      "sha256": "cf69ab74e35c5675f050c3a65cd7d29dccab660293e069845d743457efdf305f"
+    },
+    {
+      "index": 1,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/221/23047/breitling-chronomat-evolution-steel-rose-gold-brown-dial-watch-cb0110-261262_b.jpg",
+      "width": 1024,
+      "height": 1024,
+      "sha256": "cf69ab74e35c5675f050c3a65cd7d29dccab660293e069845d743457efdf305f"
+    },
+    {
+      "index": 2,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/221/23047/breitling-chronomat-evolution-steel-rose-gold-brown-dial-watch-cb0110-261266_b26565.jpg",
+      "width": 1024,
+      "height": 1024,
+      "sha256": "d3cc0c92a85fd618595eadd83e97905344b83e19b1c068ffb23243edb047389f"
+    },
+    {
+      "index": 3,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/221/23047/breitling-chronomat-evolution-steel-rose-gold-brown-dial-watch-cb0110-261263_b.jpg",
+      "width": 1024,
+      "height": 1024,
+      "sha256": "f00ed008d5062a5196fbaf436a049affc7401a067446ada4a3c31c3f28e83359"
+    },
+    {
+      "index": 4,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/221/23047/breitling-chronomat-evolution-steel-rose-gold-brown-dial-watch-cb0110-261264_b.jpg",
+      "width": 1024,
+      "height": 1024,
+      "sha256": "a1c2f5e9fa8dcf35fe9abafe545c7346e0cb20935d6809d95fc00056fa36dcde"
+    },
+    {
+      "index": 5,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/221/23047/breitling-chronomat-evolution-steel-rose-gold-brown-dial-watch-cb0110-261270_b.jpg",
+      "width": 1024,
+      "height": 1024,
+      "sha256": "7885c86715f97a1d469ecf97ab62388a7c4495295f04116dd25b5b799b2bd889"
+    },
+    {
+      "index": 6,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/221/23047/breitling-chronomat-evolution-steel-rose-gold-brown-dial-watch-cb0110-261269_b.jpg",
+      "width": 868,
+      "height": 868,
+      "sha256": "87982ff400209df4609b43d3c5af164a911bde171863f253716cb6bc9c816c5b"
+    },
+    {
+      "index": 7,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/221/23047/breitling-chronomat-evolution-steel-rose-gold-brown-dial-watch-cb0110-261261_b.jpg",
+      "width": 1024,
+      "height": 1024,
+      "sha256": "5889f3a9514df2d8fb1821fff4d0ccc7ab8185be9943f7401cc3b5138c6dbf7b"
+    },
+    {
+      "index": 8,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/221/23047/breitling-chronomat-evolution-steel-rose-gold-brown-dial-watch-cb0110-261265_b.jpg",
+      "width": 1024,
+      "height": 1024,
+      "sha256": "4f33b602f06d5f4c152682f991eab11999296012feb039febae6a89a9015d9b9"
+    },
+    {
+      "index": 9,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/221/23047/breitling-chronomat-evolution-steel-rose-gold-brown-dial-watch-cb0110-261267_b.jpg",
+      "width": 1024,
+      "height": 1024,
+      "sha256": "7feaba1baa9451ca827bd1dd00f356702b9b5bbcc70c5e662c85f72e8c86088d"
+    },
+    {
+      "index": 10,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/221/23047/breitling-chronomat-evolution-steel-rose-gold-brown-dial-watch-cb0110-261268_b.jpg",
+      "width": 1024,
+      "height": 1024,
+      "sha256": "903bd0c7b4eff56794b05780fb86396e80c3eaa6fe71a8c257f537869f75e694"
+    },
+    {
+      "index": 11,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/221/23047/breitling-chronomat-evolution-steel-rose-gold-brown-dial-watch-cb0110-261271_b.jpg",
+      "width": 1024,
+      "height": 1024,
+      "sha256": "592caef93c556768c39148f03355d8578dc836a5dd87ec2843da1eb06ef2af12"
+    }
+  ],
+  "unsupportedCategories": [
+    "movement"
+  ],
+  "remainingGaps": [
+    "No opened movement or inner back in inspected gallery.",
+    "No full suffix or universal production interval established."
+  ]
+}
