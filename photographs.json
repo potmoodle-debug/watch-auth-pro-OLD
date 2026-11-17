@@ -44008,6 +44008,40 @@
           "height": 762
         }
       }
+    },
+    {
+      "id": "breitling-a13356-swe5238-movement-8",
+      "brand": "BREITLING",
+      "references": [
+        "A13356"
+      ],
+      "representativeFor": [
+        "A13356"
+      ],
+      "variant": "SwissWatchExpo5238 — dealer-described mother-of-pearl dial / steel bracelet",
+      "category": "movement",
+      "depictsMovement": true,
+      "title": "A13356 — opened specimen movement",
+      "caption": "Actual in-case chronograph movement with Breitling-signed rotor. Numeric calibre and jewel count not readable. This mother-of-pearl specimen does not establish the internal execution of other variants.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/221/5238/breitling-chronomat-evolution-steel-mens-watch-a13356-77933_b.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/breitling/mens-breitling/chronomat/chronomat-evolution-steel-mens-a13356-5238/",
+      "credit": "SwissWatchExpo — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected16November2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-16",
+        "loadedAt": "2026-11-16",
+        "evidence": "Original SwissWatchExpo5238 identifies Breitling Chronomat Evolution A13356, mother-of-pearl dial, steel bracelet, automatic chronograph and43.7mm case. All13original gallery images inspected; opened movement8 and closed back9 separately inspected at native814px. Closed back visibly has A13356 reference and300M text; actual opened in-case chronograph movement has Breitling/Chronographe Certifie Chronometre signed rotor. Numeric calibre stamp and jewel count are not readable, so no7750/Sellita equivalence or universal supplier execution is inferred. Mother-of-pearl composition, original parts/fitment, crystal material and dimensions remain dealer attributions rather than independent assays. No production date, current timing, pressure test or authentication result for user watches inferred. Existing other A13356 photographs remain separate specimens; their internal execution is not established by this image. Certificate/box media excluded from accepted photograph. Overall period/execution research incomplete. Separate A17360 EBTH14589398 gallery9actual exterior photos inspected, no opened movement; textCal17 alone is insufficient.",
+        "imageSha256": "d3dc816a3a79b77212f29b82f90380c0d9fcc34dcfc8dd505147112fba9e8bad",
+        "imageDimensions": {
+          "width": 814,
+          "height": 814
+        }
+      }
     }
   ]
 }
