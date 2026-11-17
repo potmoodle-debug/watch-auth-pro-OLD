@@ -1,0 +1,116 @@
+{
+  "reference": "A13356",
+  "reviewedAt": "2026-11-16",
+  "evidence": "Original SwissWatchExpo5238 identifies Breitling Chronomat Evolution A13356, mother-of-pearl dial, steel bracelet, automatic chronograph and43.7mm case. All13original gallery images inspected; opened movement8 and closed back9 separately inspected at native814px. Closed back visibly has A13356 reference and300M text; actual opened in-case chronograph movement has Breitling/Chronographe Certifie Chronometre signed rotor. Numeric calibre stamp and jewel count are not readable, so no7750/Sellita equivalence or universal supplier execution is inferred. Mother-of-pearl composition, original parts/fitment, crystal material and dimensions remain dealer attributions rather than independent assays. No production date, current timing, pressure test or authentication result for user watches inferred. Existing other A13356 photographs remain separate specimens; their internal execution is not established by this image. Certificate/box media excluded from accepted photograph. Overall period/execution research incomplete. Separate A17360 EBTH14589398 gallery9actual exterior photos inspected, no opened movement; textCal17 alone is insufficient.",
+  "sources": [
+    {
+      "title": "SwissWatchExpo5238 original specimen",
+      "url": "https://www.swisswatchexpo.com/watches/breitling/mens-breitling/chronomat/chronomat-evolution-steel-mens-a13356-5238/"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "breitling-a13356-swe5238-movement-8",
+      "category": "movement",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/221/5238/breitling-chronomat-evolution-steel-mens-watch-a13356-77933_b.jpg",
+      "sha256": "d3dc816a3a79b77212f29b82f90380c0d9fcc34dcfc8dd505147112fba9e8bad"
+    }
+  ],
+  "inspectedGallery": [
+    {
+      "index": 0,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/221/5238/breitling-chronomat-evolution-steel-mens-watch-a13356_5238_f.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "d8c9a2a0314595e0c3bae45061fb6c5d5ebe1c7305551abf5396f0215489fc87"
+    },
+    {
+      "index": 1,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/221/5238/breitling-chronomat-evolution-steel-mens-watch-a13356-77935_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "cd41ab057d645553beaffeaccd37afa33b70267b2a5bd05e9113b6ee21e8e966"
+    },
+    {
+      "index": 2,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/221/5238/breitling-chronomat-evolution-steel-mens-watch-a13356-77930_bdf7b9.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "e3b44c2c4a2c24a39a1e518439e88b9604db26437d2a40b35c508821a6eaca23"
+    },
+    {
+      "index": 3,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/221/5238/breitling-chronomat-evolution-steel-mens-watch-a13356-77928_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "8fc9a3aa63c222915e2dfcdc053ac1260e712741cee626a0fa1de251d0865051"
+    },
+    {
+      "index": 4,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/221/5238/breitling-chronomat-evolution-steel-mens-watch-a13356-77939_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "c3e15db6110dfa1d92d07db84a25995ecf4c8a228a48f2037504fecb65f7694e"
+    },
+    {
+      "index": 5,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/221/5238/breitling-chronomat-evolution-steel-mens-watch-a13356-77931_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "8f8571d6293313b60ac81cbad39520d6865649a8f5c8d4f8e09186251ecbd9ee"
+    },
+    {
+      "index": 6,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/221/5238/breitling-chronomat-evolution-steel-mens-watch-a13356-77934_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "ffea95b4091961a92eeda0e8be3c8255a7546ea6bb74944c4df1121cb270a870"
+    },
+    {
+      "index": 7,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/221/5238/breitling-chronomat-evolution-steel-mens-watch-a13356-77929_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "fa96f9f0dabdf5028965ebd042fc40847235696ac062e3b8d81831a0059fb7b9"
+    },
+    {
+      "index": 8,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/221/5238/breitling-chronomat-evolution-steel-mens-watch-a13356-77933_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "d3dc816a3a79b77212f29b82f90380c0d9fcc34dcfc8dd505147112fba9e8bad"
+    },
+    {
+      "index": 9,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/221/5238/breitling-chronomat-evolution-steel-mens-watch-a13356-77938_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "1e597beb18638f814db5123e16c826d8c676979d774329d6b6e97fb86d8aa0fc"
+    },
+    {
+      "index": 10,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/221/5238/breitling-chronomat-evolution-steel-mens-watch-a13356-77932_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "43bab4d82a397f8aa428f7c66d729f715611f70efe33f71597d0ceb99cb1cd8b"
+    },
+    {
+      "index": 11,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/221/5238/breitling-chronomat-evolution-steel-mens-watch-a13356-77937_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "60fe1fd9e65ef07c2df2e008e1b02c7802ed4dabb0abbc45f02dbbd03229033a"
+    },
+    {
+      "index": 12,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/221/5238/breitling-chronomat-evolution-steel-mens-watch-a13356-77936_b.jpg",
+      "width": 814,
+      "height": 814,
+      "sha256": "343860d876f6041d30fda3f0890e04bed2494ae2919a22d1e9a7d7864632f104"
+    }
+  ],
+  "remainingGaps": [
+    "Readable numeric calibre stamp/jewel count",
+    "Other specimen internal executions, original fitment and chronology"
+  ]
+}
