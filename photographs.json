@@ -44178,6 +44178,40 @@
           "height": 2566
         }
       }
+    },
+    {
+      "id": "omega-22645000-swe9635-movement-8",
+      "brand": "OMEGA",
+      "references": [
+        "2264.50.00"
+      ],
+      "representativeFor": [
+        "2264.50.00"
+      ],
+      "variant": "SwissWatchExpo5238 — dealer-described mother-of-pearl dial / steel bracelet",
+      "category": "movement",
+      "depictsMovement": true,
+      "title": "2264.50.00 — opened specimen movement",
+      "caption": "Actual opened quartz movement visibly marked Omega1538 and SIX6JEWELS, with battery fitted. Specimen-specific; battery originality and condition unverified.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/227/9635/omega-seamaster-professional-300m-black-dial-quartz-watch-22645000-96060_b.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/omega/mens-omega/seamaster/seamaster-professional-300m-black-dial-quartz-2264-50-00-9635/",
+      "credit": "SwissWatchExpo — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected17November2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-17",
+        "loadedAt": "2026-11-17",
+        "evidence": "Original SwissWatchExpo9635 explicitly identifies Omega2264.50.00 black-wave-dial steel-bracelet quartz specimen. All13original gallery files inspected17November2026; opened movement8 and inner back7 separately inspected at native814px. Actual in-case quartz movement visibly marked Omega1538 and SIX6JEWELS SWISS, with battery fitted. Inner back visibly196.1640 and Omega/Acier Inoxydable; this is a photographed case marking, not a newly inferred retail-reference alias. Exact2264.50.00 attribution comes from original dealer specimen record. No battery originality/type/life/current voltage, universal supplier execution, original fitment, production interval, material/crystal assay, timing/pressure test or user-watch authentication conclusion inferred. Existing other specimens remain separate and unopened. Earlier SwissWatchExpo27655 gallery10photos and GardinerHoulgate2025lot238gallery5photos inspected:exteriors/cards only;1538 card or catalogue text did not close those specimen gaps. No2221.80.00 common1538 substitution or neighbouring reference inheritance. Overall execution/period research incomplete.",
+        "imageSha256": "3facfe8f09ded60e08fbf325df1b590acb45fb777edcc8b9e67581256092cb6f",
+        "imageDimensions": {
+          "width": 814,
+          "height": 814
+        }
+      }
     }
   ]
 }
