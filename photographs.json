@@ -44212,6 +44212,74 @@
           "height": 814
         }
       }
+    },
+    {
+      "id": "bremont-alt1ccr-sterling-movement-7",
+      "brand": "BREMONT",
+      "references": [
+        "ALT1-C-CR"
+      ],
+      "representativeFor": [
+        "ALT1-C-CR"
+      ],
+      "variant": "Sterling Vault lot46 — cream/grey registers / leather deployant / year2020 attributed",
+      "category": "movement",
+      "depictsMovement": true,
+      "title": "ALT1-C-CR — movement",
+      "caption": "Actual movement through display back: Bremont-signed rotor and blue screws; no readable BE calibre or jewel count. Exact cream auction specimen.",
+      "image": "https://content.easyliveauction.com/auctions/images_lots/6E3E3D6F4BABE0CCE664AE7E6BDBF8D4_ste03/1100098501.JPG",
+      "source": "https://www.easyliveauction.com/catalogue/lot/89bdfc89e2c1dec3c4d7d01b221016be/0af8d24542e81eb9357e7ef448a6646f/live-auction-of-luxury-watches-featuring-rolex-omega-lot-46/",
+      "credit": "Sterling Vault Auctioneers / Easy Live Auction — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected17November2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-17",
+        "loadedAt": "2026-11-17",
+        "evidence": "Original Sterling Vault23October2025lot46 identifies ALT1-C/CR, cream dial/grey registers,43mm steel, leather/deployant and specimen year2020. All9original gallery files inspected; display-back view7 separately inspected at native2500px. Actual Bremont-signed decorated rotor, blue screws, bridge finishing and display-back ring with Bremont/Chronometer/10ATM visible. No legible BE calibre or jewel count, so no BE-50AV/BE-50AE/ETA7750 execution or universal chronology inferred. Original auction attribution supplies exact cream identifier; existing documented punctuation normalization maps ALT1-C/CR to stored ALT1-C-CR, with no new full-suffix aliases. Separate2014Worthington pin-buckle specimen remains unopened; its dealerBE-50AV attribution does not establish this2020auction execution. Year2020,43mm, material and original-fitment assertions remain attributed, not independently assayed or dated. No timing/pressure/authentication result inferred. The same single photograph is indexed under Movement and Caseback, both movement-flagged so External-only hides both. Other specimens/blueALT1-C/BL remain separate. Overall execution/period research incomplete.",
+        "imageSha256": "bc61e6247a163f57c73b43f76a5fcb1c69535901d300fcd2e71ee779a106907a",
+        "imageDimensions": {
+          "width": 2500,
+          "height": 1403
+        }
+      }
+    },
+    {
+      "id": "bremont-alt1ccr-sterling-caseback-7",
+      "brand": "BREMONT",
+      "references": [
+        "ALT1-C-CR"
+      ],
+      "representativeFor": [
+        "ALT1-C-CR"
+      ],
+      "variant": "Sterling Vault lot46 — cream/grey registers / leather deployant / year2020 attributed",
+      "category": "caseback",
+      "depictsMovement": true,
+      "title": "ALT1-C-CR — caseback",
+      "caption": "Display-back ring with Bremont/Chronometer/10ATM; movement is visible, so this back view is hidden for External-only. No pressure-test proof.",
+      "image": "https://content.easyliveauction.com/auctions/images_lots/6E3E3D6F4BABE0CCE664AE7E6BDBF8D4_ste03/1100098501.JPG",
+      "source": "https://www.easyliveauction.com/catalogue/lot/89bdfc89e2c1dec3c4d7d01b221016be/0af8d24542e81eb9357e7ef448a6646f/live-auction-of-luxury-watches-featuring-rolex-omega-lot-46/",
+      "credit": "Sterling Vault Auctioneers / Easy Live Auction — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected17November2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-17",
+        "loadedAt": "2026-11-17",
+        "evidence": "Original Sterling Vault23October2025lot46 identifies ALT1-C/CR, cream dial/grey registers,43mm steel, leather/deployant and specimen year2020. All9original gallery files inspected; display-back view7 separately inspected at native2500px. Actual Bremont-signed decorated rotor, blue screws, bridge finishing and display-back ring with Bremont/Chronometer/10ATM visible. No legible BE calibre or jewel count, so no BE-50AV/BE-50AE/ETA7750 execution or universal chronology inferred. Original auction attribution supplies exact cream identifier; existing documented punctuation normalization maps ALT1-C/CR to stored ALT1-C-CR, with no new full-suffix aliases. Separate2014Worthington pin-buckle specimen remains unopened; its dealerBE-50AV attribution does not establish this2020auction execution. Year2020,43mm, material and original-fitment assertions remain attributed, not independently assayed or dated. No timing/pressure/authentication result inferred. The same single photograph is indexed under Movement and Caseback, both movement-flagged so External-only hides both. Other specimens/blueALT1-C/BL remain separate. Overall execution/period research incomplete.",
+        "imageSha256": "bc61e6247a163f57c73b43f76a5fcb1c69535901d300fcd2e71ee779a106907a",
+        "imageDimensions": {
+          "width": 2500,
+          "height": 1403
+        }
+      }
     }
   ]
 }
