@@ -58,5 +58,95 @@
       "category": "braceletClasp"
     }
   ],
-  "excluded": "Frame 2 box/paperwork inspected, excluded public URL. No unobscured back/movement image accepted. Buckle conservatively movement-flagged for obscured display-back background."
+  "excluded": "Frame 2 box/paperwork inspected, excluded public URL. No unobscured back/movement image accepted. Buckle conservatively movement-flagged for obscured display-back background.",
+  "additionalReviews": [
+    {
+      "reviewedAt": "2026-11-17",
+      "source": "https://www.easyliveauction.com/catalogue/lot/89bdfc89e2c1dec3c4d7d01b221016be/0af8d24542e81eb9357e7ef448a6646f/live-auction-of-luxury-watches-featuring-rolex-omega-lot-46/",
+      "evidence": "Original Sterling Vault23October2025lot46 identifies ALT1-C/CR, cream dial/grey registers,43mm steel, leather/deployant and specimen year2020. All9original gallery files inspected; display-back view7 separately inspected at native2500px. Actual Bremont-signed decorated rotor, blue screws, bridge finishing and display-back ring with Bremont/Chronometer/10ATM visible. No legible BE calibre or jewel count, so no BE-50AV/BE-50AE/ETA7750 execution or universal chronology inferred. Original auction attribution supplies exact cream identifier; existing documented punctuation normalization maps ALT1-C/CR to stored ALT1-C-CR, with no new full-suffix aliases. Separate2014Worthington pin-buckle specimen remains unopened; its dealerBE-50AV attribution does not establish this2020auction execution. Year2020,43mm, material and original-fitment assertions remain attributed, not independently assayed or dated. No timing/pressure/authentication result inferred. The same single photograph is indexed under Movement and Caseback, both movement-flagged so External-only hides both. Other specimens/blueALT1-C/BL remain separate. Overall execution/period research incomplete.",
+      "accepted": [
+        {
+          "id": "bremont-alt1ccr-sterling-movement-7",
+          "category": "movement",
+          "image": "https://content.easyliveauction.com/auctions/images_lots/6E3E3D6F4BABE0CCE664AE7E6BDBF8D4_ste03/1100098501.JPG",
+          "sha256": "bc61e6247a163f57c73b43f76a5fcb1c69535901d300fcd2e71ee779a106907a"
+        },
+        {
+          "id": "bremont-alt1ccr-sterling-caseback-7",
+          "category": "caseback",
+          "image": "https://content.easyliveauction.com/auctions/images_lots/6E3E3D6F4BABE0CCE664AE7E6BDBF8D4_ste03/1100098501.JPG",
+          "sha256": "bc61e6247a163f57c73b43f76a5fcb1c69535901d300fcd2e71ee779a106907a"
+        }
+      ],
+      "inspectedGallery": [
+        {
+          "index": 0,
+          "url": "https://content.easyliveauction.com/auctions/images_lots/6E3E3D6F4BABE0CCE664AE7E6BDBF8D4_ste03/1100098495.JPG",
+          "width": 2500,
+          "height": 1403,
+          "sha256": "0ed34f094ae8fba6022bf50a6eee42648d8af738cc1a35bc18add689b661eb02"
+        },
+        {
+          "index": 1,
+          "url": "https://content.easyliveauction.com/auctions/images_lots/6E3E3D6F4BABE0CCE664AE7E6BDBF8D4_ste03/1100099010.JPG",
+          "width": 2500,
+          "height": 1403,
+          "sha256": "32338194c00b6633035b512e6b00fe86b233d7995c778a5511f5370aea3b1f44"
+        },
+        {
+          "index": 2,
+          "url": "https://content.easyliveauction.com/auctions/images_lots/6E3E3D6F4BABE0CCE664AE7E6BDBF8D4_ste03/1100099011.JPG",
+          "width": 2500,
+          "height": 1403,
+          "sha256": "a785f2b6100dad4e4aa7fbe3d81d85ae4e4943905554b203f2a24fb25d422afc"
+        },
+        {
+          "index": 3,
+          "url": "https://content.easyliveauction.com/auctions/images_lots/6E3E3D6F4BABE0CCE664AE7E6BDBF8D4_ste03/1100098497.JPG",
+          "width": 2500,
+          "height": 1403,
+          "sha256": "abbe4660099cbaaffea46ba63676a491ddb4a4c65676dd8b7109b26559de0086"
+        },
+        {
+          "index": 4,
+          "url": "https://content.easyliveauction.com/auctions/images_lots/6E3E3D6F4BABE0CCE664AE7E6BDBF8D4_ste03/1100098498.JPG",
+          "width": 2500,
+          "height": 1403,
+          "sha256": "c0f23577dd9f4330951de37f6cc01b358bdccc6c26cf0cfc9c53f94469d4e76f"
+        },
+        {
+          "index": 5,
+          "url": "https://content.easyliveauction.com/auctions/images_lots/6E3E3D6F4BABE0CCE664AE7E6BDBF8D4_ste03/1100098499.JPG",
+          "width": 2500,
+          "height": 1403,
+          "sha256": "8b7ab0e2f550e88d126169bddb97fdc4d0a6c6280f6cff657cf3b85516524e6f"
+        },
+        {
+          "index": 6,
+          "url": "https://content.easyliveauction.com/auctions/images_lots/6E3E3D6F4BABE0CCE664AE7E6BDBF8D4_ste03/1100098500.JPG",
+          "width": 2500,
+          "height": 1403,
+          "sha256": "b7f0962380e5d682aa75f308481cf8a10d0aa09b756d3cf203354f0a6f43ec16"
+        },
+        {
+          "index": 7,
+          "url": "https://content.easyliveauction.com/auctions/images_lots/6E3E3D6F4BABE0CCE664AE7E6BDBF8D4_ste03/1100098501.JPG",
+          "width": 2500,
+          "height": 1403,
+          "sha256": "bc61e6247a163f57c73b43f76a5fcb1c69535901d300fcd2e71ee779a106907a"
+        },
+        {
+          "index": 8,
+          "url": "https://content.easyliveauction.com/auctions/images_lots/6E3E3D6F4BABE0CCE664AE7E6BDBF8D4_ste03/1100098496.JPG",
+          "width": 2500,
+          "height": 1403,
+          "sha256": "9a9e8d9ee4fce1e3ea5c72893be48fc2b49304a8e6e628053fad869f944f962b"
+        }
+      ],
+      "remainingGaps": [
+        "Readable numeric calibre and jewel count",
+        "Original fitment and chronology across older/newer cream executions"
+      ]
+    }
+  ]
 }

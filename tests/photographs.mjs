@@ -537,8 +537,18 @@ test('Cream ALT1-C photographs retain separate suffix, generation and view gaps'
  assert.equal(get('ALT1-C-CR-R-S').length,2);
  for(const ref of ['ALT1-C','ALT1-C/BL','ALT1-C-CR-B','ALT1-C2-CR-SS-R-S'])assert.equal(get(ref).length,0,ref);
  const review=JSON.parse(fs.readFileSync(new URL('../photograph-reviews.json',import.meta.url))).identifierReviews.find(x=>x.brand==='BREMONT'&&x.reference==='ALT1-C-CR');
- assert.match(review.categories.movement.finding,/No unobscured view/);
- assert.match(review.categories.caseback.finding,/No unobscured view/);
+ assert.match(review.categories.movement.finding,/Verified single display-back photograph/);
+ assert.match(review.categories.caseback.finding,/older specimen remains separate/);
+ const newer=(ref,options)=>matchingPhotographs(photos,'Bremont',ref,options).filter(p=>p.id.startsWith('bremont-alt1ccr-sterling-'));
+ assert.deepEqual(newer('ALT1-C-CR').map(p=>p.category).sort(),['caseback','movement']);
+ assert.equal(newer('ALT1-C/CR').length,2);
+ assert.equal(new Set(newer('ALT1-C-CR').map(p=>p.image)).size,1);
+ assert.ok(newer('ALT1-C-CR').every(p=>p.depictsMovement===true));
+ assert.equal(newer('ALT1-C-CR',{externalOnly:true}).length,0);
+ for(const ref of ['ALT1-C','ALT1-C/BL','ALT1-C/CR-R-S','ALT1-C2-CR-SS-R-S'])assert.equal(newer(ref).length,0,ref);
+ const original=JSON.parse(fs.readFileSync(new URL('../photograph-bremont-cream-sources.json',import.meta.url)));
+ assert.match(original.evidence,/No unobscured back or movement view/);
+ assert.equal(original.additionalReviews.at(-1).accepted.length,2);
 });
 test('ALT1-B special-project specimen cannot stand for neighbouring GMT or civilian suffixes',()=>{
  const photos=JSON.parse(fs.readFileSync(new URL('../photographs.json',import.meta.url))).photographs;
