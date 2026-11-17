@@ -44382,6 +44382,74 @@
           "height": 2081
         }
       }
+    },
+    {
+      "id": "rolex-16030-swe65811-movement-8",
+      "brand": "ROLEX",
+      "references": [
+        "16030"
+      ],
+      "representativeFor": [
+        "16030"
+      ],
+      "variant": "SwissWatchExpo 65811 — silver baton dial / engine-turned bezel / steel Jubilee",
+      "category": "movement",
+      "depictsMovement": true,
+      "title": "16030 — opened specimen movement",
+      "caption": "Actual opened movement visibly stamped 3035; same gallery shows 16030 case engraving. Jewel count is covered by rotor; 27 jewels is dealer attribution.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/11/13/rolex-datejust-engine-turned-bezel-vintage-steel-mens-watch-16030-65811_a752f.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex-datejust-engine-turned-bezel-vintage-steel-mens-watch-16030-65811/",
+      "credit": "SwissWatchExpo — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected 17 November 2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-17",
+        "loadedAt": "2026-11-17",
+        "evidence": "SwissWatchExpo 65811 original specimen. All 12 original gallery files inspected 17 November 2026; movement 8 reviewed at 1200px from original 1780px file. Bridge visibly stamped 3035. Jewel inscription covered by rotor: 27 jewels remains dealer attribution. Case engraving 6 visibly 16030. Silver baton dial, engine-turned bezel and steel-coloured Jubilee visible. Dealer attributes 1984–1985, 36mm steel case and acrylic crystal; these are not independently measured or assayed. No transfer to neighbouring references or other unopened specimens; original fitment, service status, full chronology and user-watch authenticity are not independently established. Existing photographs remain separate specimens. Overall execution/period research remains incomplete.",
+        "imageSha256": "835faca4a88f8098a6e8ad5d42ac0910e134f6acaeaae830f493024d016a9678",
+        "imageDimensions": {
+          "width": 1780,
+          "height": 1780
+        }
+      }
+    },
+    {
+      "id": "rolex-16600-swe63715-movement-9",
+      "brand": "ROLEX",
+      "references": [
+        "16600"
+      ],
+      "representativeFor": [
+        "16600"
+      ],
+      "variant": "SwissWatchExpo 63715 — black Sea-Dweller dial / Oyster bracelet / T-marked case specimen",
+      "category": "movement",
+      "depictsMovement": true,
+      "title": "16600 — opened specimen movement",
+      "caption": "Actual opened movement visibly stamped 3135, with 31-jewel inscription. Same gallery shows 16600 T case engraving; listing identifies base 16600. Specific specimen only; no T alias or original-fitment guarantee.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/8/16/rolex-seadweller-4000-black-dial-steel-mens-watch-16600-63715_2f49e.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex-seadweller-4000-black-dial-steel-mens-watch-16600-63715/",
+      "credit": "SwissWatchExpo — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected 17 November 2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-17",
+        "loadedAt": "2026-11-17",
+        "evidence": "SwissWatchExpo 63715 original specimen. All 13 original gallery files inspected 17 November 2026; movement 9 reviewed at 1200px from original 2477px file. Bridge visibly stamped 3135 and rotor THIRTY-ONE 31. Case engraving 7 reads 16600 T; original specimen listing identifies base 16600. The T is documented as an observed case marking, not used to create a new alias or infer a universal transition date. Black Sea-Dweller dial, elapsed-time bezel, helium valve side and Oyster bracelet/flip-lock visible. Dealer attributes 2005–2006, 40mm steel case and sapphire crystal; period/materials remain attributions. Dial depth text is visible but does not establish present pressure resistance. No transfer to neighbouring references or other unopened specimens; original fitment, service status, full chronology and user-watch authenticity are not independently established. Existing photographs remain separate specimens. Overall execution/period research remains incomplete.",
+        "imageSha256": "5f63a05b73c3215839310be2644807e93ae6529e70c79eb90aea4060f9fa8f34",
+        "imageDimensions": {
+          "width": 2477,
+          "height": 2477
+        }
+      }
     }
   ]
 }
