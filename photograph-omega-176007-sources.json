@@ -1,0 +1,137 @@
+{
+  "reference": "176.007",
+  "reviewedAt": "2026-11-17",
+  "evidence": "Original Black Bough WWOSCBDB explicitly identifies steel Omega176.007, metallic blue dial, automatic1040/22jewels and1184 bracelet. Original page read through web; direct HTML403, but all12linked gallery views loaded with source headers and actual pixels inspected17November2026. Selected opened views09/05 and inner back06 separately inspected at native640px. Actual copper-coloured in-case automatic movement, Omega/Swiss rotor and22JEWELS marking visible; numeric1040 stamp not readable, so1040 remains original dealer attribution. Inner back visibly176.007 and Acier Inoxydable/Omega markings. Case age circa1972 and service/bracelet-originality claims are dealer attributions, not independently verified dates or fitment. No universal execution, adjacent-reference inheritance, material assay, timing/pressure result or authentication conclusion for user watches. Separate Belmont176.007 gallery9images inspected: exterior only, explicitly aftermarket bracelet, not this specimen. Existing reference photographs remain separate. Overall period/variant research incomplete.",
+  "sources": [
+    {
+      "title": "Black Bough WWOSCBDB original specimen",
+      "url": "https://www.blackbough.co.uk/product/omega-seamaster-ref-176-007-steel-vintage-chronograph-wristwatch-circa-1972-wwoscbdb/"
+    },
+    {
+      "title": "Belmont separate aftermarket-bracelet specimen — no opened movement",
+      "url": "https://www.belmontwatches.com/products/1970s-omega-seamaster-automatic-chronograph-176-007"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "omega-176007-blackbough-movement-09",
+      "category": "movement",
+      "image": "https://www.blackbough.co.uk/wp-content/uploads/2018/05/omega-seamaster-ref-176-007-steel-vintage-chronograph-wristwatch-circa-1972-wwoscbdb-v09.jpg",
+      "sha256": "c2464b55932be8f975ec9adc189ca9eb5f3395e31e4450eeb8995f46098ce3c2"
+    },
+    {
+      "id": "omega-176007-blackbough-movement-05",
+      "category": "movement",
+      "image": "https://www.blackbough.co.uk/wp-content/uploads/2018/05/omega-seamaster-ref-176-007-steel-vintage-chronograph-wristwatch-circa-1972-wwoscbdb-v05.jpg",
+      "sha256": "2321e08f1aee5ca116de451e996fac558ee288ed1012cc76ff5d48d4b09c2a8b"
+    },
+    {
+      "id": "omega-176007-blackbough-caseback-06",
+      "category": "caseback",
+      "image": "https://www.blackbough.co.uk/wp-content/uploads/2018/05/omega-seamaster-ref-176-007-steel-vintage-chronograph-wristwatch-circa-1972-wwoscbdb-v06.jpg",
+      "sha256": "52eafe265efb49b980321edc155bd8b5a65ef92200d5862e39801554fde90fe3"
+    }
+  ],
+  "inspectedGallery": [
+    {
+      "index": 0,
+      "view": "01",
+      "url": "https://www.blackbough.co.uk/wp-content/uploads/2018/05/omega-seamaster-ref-176-007-steel-vintage-chronograph-wristwatch-circa-1972-wwoscbdb-v01.jpg",
+      "width": 640,
+      "height": 640,
+      "sha256": "353ad0c64be6e008907c6f93a51cb6ecef7f9fee370130fe81e43bebcfbcd796"
+    },
+    {
+      "index": 1,
+      "view": "16",
+      "url": "https://www.blackbough.co.uk/wp-content/uploads/2018/05/omega-seamaster-ref-176-007-steel-vintage-chronograph-wristwatch-circa-1972-wwoscbdb-v16.jpg",
+      "width": 640,
+      "height": 640,
+      "sha256": "fdec7b78d5498476fc34a3068004469931c35391b64378cfa33dc4d792e65501"
+    },
+    {
+      "index": 2,
+      "view": "11",
+      "url": "https://www.blackbough.co.uk/wp-content/uploads/2018/05/omega-seamaster-ref-176-007-steel-vintage-chronograph-wristwatch-circa-1972-wwoscbdb-v11.jpg",
+      "width": 640,
+      "height": 640,
+      "sha256": "739db64121ffc2358c6274326103a7f70b1c798517594d19210028775afa0bdc"
+    },
+    {
+      "index": 3,
+      "view": "07",
+      "url": "https://www.blackbough.co.uk/wp-content/uploads/2018/05/omega-seamaster-ref-176-007-steel-vintage-chronograph-wristwatch-circa-1972-wwoscbdb-v07.jpg",
+      "width": 640,
+      "height": 640,
+      "sha256": "481d8832433ac832858a453aa2df360dd2156c5e447f782bdf393c96c590e9e2"
+    },
+    {
+      "index": 4,
+      "view": "03",
+      "url": "https://www.blackbough.co.uk/wp-content/uploads/2018/05/omega-seamaster-ref-176-007-steel-vintage-chronograph-wristwatch-circa-1972-wwoscbdb-v03.jpg",
+      "width": 640,
+      "height": 640,
+      "sha256": "7ebe7e867ee32b75020431d1042fa7272bcbf47ba1bf18c10e56e69296d5e7d0"
+    },
+    {
+      "index": 5,
+      "view": "02",
+      "url": "https://www.blackbough.co.uk/wp-content/uploads/2018/05/omega-seamaster-ref-176-007-steel-vintage-chronograph-wristwatch-circa-1972-wwoscbdb-v02.jpg",
+      "width": 640,
+      "height": 640,
+      "sha256": "01140fbd442d0558c56226a89bb2febf0aa900ab1bace4deeb93bc8d11d1e5fd"
+    },
+    {
+      "index": 6,
+      "view": "08",
+      "url": "https://www.blackbough.co.uk/wp-content/uploads/2018/05/omega-seamaster-ref-176-007-steel-vintage-chronograph-wristwatch-circa-1972-wwoscbdb-v08.jpg",
+      "width": 640,
+      "height": 640,
+      "sha256": "74c7cc32b89be158f50739d444a0bf9fd1ba183d0e1e22f4ba8f205a19ff9366"
+    },
+    {
+      "index": 7,
+      "view": "04",
+      "url": "https://www.blackbough.co.uk/wp-content/uploads/2018/05/omega-seamaster-ref-176-007-steel-vintage-chronograph-wristwatch-circa-1972-wwoscbdb-v04.jpg",
+      "width": 640,
+      "height": 640,
+      "sha256": "8aa523365baed42af1faa79dcae26d72a40fb023344015ef4352291784da6479"
+    },
+    {
+      "index": 8,
+      "view": "09",
+      "url": "https://www.blackbough.co.uk/wp-content/uploads/2018/05/omega-seamaster-ref-176-007-steel-vintage-chronograph-wristwatch-circa-1972-wwoscbdb-v09.jpg",
+      "width": 640,
+      "height": 640,
+      "sha256": "c2464b55932be8f975ec9adc189ca9eb5f3395e31e4450eeb8995f46098ce3c2"
+    },
+    {
+      "index": 9,
+      "view": "05",
+      "url": "https://www.blackbough.co.uk/wp-content/uploads/2018/05/omega-seamaster-ref-176-007-steel-vintage-chronograph-wristwatch-circa-1972-wwoscbdb-v05.jpg",
+      "width": 640,
+      "height": 640,
+      "sha256": "2321e08f1aee5ca116de451e996fac558ee288ed1012cc76ff5d48d4b09c2a8b"
+    },
+    {
+      "index": 10,
+      "view": "06",
+      "url": "https://www.blackbough.co.uk/wp-content/uploads/2018/05/omega-seamaster-ref-176-007-steel-vintage-chronograph-wristwatch-circa-1972-wwoscbdb-v06.jpg",
+      "width": 640,
+      "height": 640,
+      "sha256": "52eafe265efb49b980321edc155bd8b5a65ef92200d5862e39801554fde90fe3"
+    },
+    {
+      "index": 11,
+      "view": "12",
+      "url": "https://www.blackbough.co.uk/wp-content/uploads/2018/05/omega-seamaster-ref-176-007-steel-vintage-chronograph-wristwatch-circa-1972-wwoscbdb-v12.jpg",
+      "width": 640,
+      "height": 640,
+      "sha256": "642b9a9872bfa6f6ecdbdde6528fad96abaa85d84d4438de2a795bc822f6d6d4"
+    }
+  ],
+  "remainingGaps": [
+    "Readable numeric calibre stamp",
+    "Other specimen internal executions, fitment and chronology"
+  ]
+}
