@@ -1,0 +1,110 @@
+{
+  "reference": "16030",
+  "reviewedAt": "2026-11-17",
+  "evidence": "SwissWatchExpo 65811 original specimen. All 12 original gallery files inspected 17 November 2026; movement 8 reviewed at 1200px from original 1780px file. Bridge visibly stamped 3035. Jewel inscription covered by rotor: 27 jewels remains dealer attribution. Case engraving 6 visibly 16030. Silver baton dial, engine-turned bezel and steel-coloured Jubilee visible. Dealer attributes 1984–1985, 36mm steel case and acrylic crystal; these are not independently measured or assayed. No transfer to neighbouring references or other unopened specimens; original fitment, service status, full chronology and user-watch authenticity are not independently established. Existing photographs remain separate specimens. Overall execution/period research remains incomplete.",
+  "sources": [
+    {
+      "title": "SwissWatchExpo 65811",
+      "url": "https://www.swisswatchexpo.com/watches/rolex-datejust-engine-turned-bezel-vintage-steel-mens-watch-16030-65811/"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "rolex-16030-swe65811-movement-8",
+      "category": "movement",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/11/13/rolex-datejust-engine-turned-bezel-vintage-steel-mens-watch-16030-65811_a752f.jpg",
+      "sha256": "835faca4a88f8098a6e8ad5d42ac0910e134f6acaeaae830f493024d016a9678"
+    }
+  ],
+  "inspectedGallery": [
+    {
+      "index": 0,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/11/13/rolex-datejust-engine-turned-bezel-vintage-steel-mens-watch-16030-65811_cb8a0.jpg",
+      "width": 2423,
+      "height": 2423,
+      "sha256": "9063cada99dca3d7da939918eeddc0ee3c344104adcdb485db5a60c0ad6f43de"
+    },
+    {
+      "index": 1,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/11/13/rolex-datejust-engine-turned-bezel-vintage-steel-mens-watch-16030-65811_fab05.jpg",
+      "width": 2423,
+      "height": 2423,
+      "sha256": "9063cada99dca3d7da939918eeddc0ee3c344104adcdb485db5a60c0ad6f43de"
+    },
+    {
+      "index": 2,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/11/13/rolex-datejust-engine-turned-bezel-vintage-steel-mens-watch-16030-65811_f9b13.jpg",
+      "width": 4026,
+      "height": 4026,
+      "sha256": "1bb688cdd2aa88e3baba4a02f2a2414c7537c6f5d60565c2ae262011f08b51ee"
+    },
+    {
+      "index": 3,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/11/13/rolex-datejust-engine-turned-bezel-vintage-steel-mens-watch-16030-65811_b0443.jpg",
+      "width": 5253,
+      "height": 5253,
+      "sha256": "9d23450520e10e4bc8efc6e1bb9def85926c8ebdd36e5bf65f72c7cd12f2334a"
+    },
+    {
+      "index": 4,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/11/13/rolex-datejust-engine-turned-bezel-vintage-steel-mens-watch-16030-65811_84877.jpg",
+      "width": 4995,
+      "height": 4995,
+      "sha256": "8e2e3b02e6f9801295e37955a06ca70f840a812eed1994a45653035fad7ecd49"
+    },
+    {
+      "index": 5,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/11/13/rolex-datejust-engine-turned-bezel-vintage-steel-mens-watch-16030-65811_56e7e.jpg",
+      "width": 3124,
+      "height": 3124,
+      "sha256": "deb73c4a3d53cf639e0bd30506776cc3325adf23759bec5d98b03c978f1a07b2"
+    },
+    {
+      "index": 6,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/11/13/rolex-datejust-engine-turned-bezel-vintage-steel-mens-watch-16030-65811_7cf13.jpg",
+      "width": 794,
+      "height": 794,
+      "sha256": "50b83a83e95fc7cefa54a0180405a2d52812b5543e7c93e2e6d94eb78967385b"
+    },
+    {
+      "index": 7,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/11/13/rolex-datejust-engine-turned-bezel-vintage-steel-mens-watch-16030-65811_2d757.jpg",
+      "width": 914,
+      "height": 914,
+      "sha256": "466e35299be0d9cadf21fb4b4789b3fd1d5c6676b2dd878fb45693d750322b27"
+    },
+    {
+      "index": 8,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/11/13/rolex-datejust-engine-turned-bezel-vintage-steel-mens-watch-16030-65811_a752f.jpg",
+      "width": 1780,
+      "height": 1780,
+      "sha256": "835faca4a88f8098a6e8ad5d42ac0910e134f6acaeaae830f493024d016a9678"
+    },
+    {
+      "index": 9,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/11/13/rolex-datejust-engine-turned-bezel-vintage-steel-mens-watch-16030-65811_2cded.jpg",
+      "width": 3415,
+      "height": 3415,
+      "sha256": "cd90f1d7343ef454c5cc832a150d17ea540fba5790e773d4f46b340810568c4d"
+    },
+    {
+      "index": 10,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/11/13/rolex-datejust-engine-turned-bezel-vintage-steel-mens-watch-16030-65811_f042b.jpg",
+      "width": 3184,
+      "height": 3184,
+      "sha256": "6e79b4e018326208037cea260c0a1796af4a30092615b754acd4ca5712f8cde1"
+    },
+    {
+      "index": 11,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/11/13/rolex-datejust-engine-turned-bezel-vintage-steel-mens-watch-16030-65811_9c914.jpg",
+      "width": 1555,
+      "height": 1555,
+      "sha256": "66a67731f7b0e03ef718ed67ae536b1a4e89a50294941837b52e5d5e2fed3f08"
+    }
+  ],
+  "remainingGaps": [
+    "Other specimen internal executions, original fitment and chronology",
+    "Independent material and period verification",
+    "Readable full jewel inscription"
+  ]
+}
