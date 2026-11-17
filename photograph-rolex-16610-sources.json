@@ -1,0 +1,109 @@
+{
+  "reference": "16610",
+  "reviewedAt": "2026-11-17",
+  "evidence": "SwissWatchExpo 59363 original specimen. All 12 original gallery images inspected 17 November 2026; movement 8 reviewed at 1200px from original 2470px file. Visible 3135 bridge stamp and numeric 31 rotor inscription. Case engraving 6 reads 16610 T; listing identifies base 16610. T recorded as observed case marking, not a new alias or universal transition date. Black dial and elapsed-time bezel, date loupe and steel-coloured Oyster/flip-lock visible. Dealer attributes 2005–2006, 40mm steel case and sapphire crystal; these remain attributions. No LV or later ceramic execution transfer. No transfer to neighbouring references or other unopened specimens; original fitment, service status, full chronology and user-watch authenticity are not independently established. Existing photographs remain separate specimens. Overall execution/period research remains incomplete.",
+  "sources": [
+    {
+      "title": "SwissWatchExpo 59363",
+      "url": "https://www.swisswatchexpo.com/watches/rolex-submariner-date-black-dial-steel-mens-watch-16610-59363/"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "rolex-16610-swe59363-movement-8",
+      "category": "movement",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/2/26/rolex-submariner-date-black-dial-steel-mens-watch-16610-59363_37521.jpg",
+      "sha256": "10009cc51e2a3863ad6e9e3308145115f48c3d7e3a2c9d2d567eb665880123c6"
+    }
+  ],
+  "inspectedGallery": [
+    {
+      "index": 0,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/26/rolex-submariner-date-black-dial-steel-mens-watch-16610-59363_05330.jpg",
+      "width": 2240,
+      "height": 2240,
+      "sha256": "591839da053356f0b6d36195e28c21c8c28d082fae498984e3c0e86975c4ccd9"
+    },
+    {
+      "index": 1,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/26/rolex-submariner-date-black-dial-steel-mens-watch-16610-59363_a24f0.jpg",
+      "width": 2240,
+      "height": 2240,
+      "sha256": "591839da053356f0b6d36195e28c21c8c28d082fae498984e3c0e86975c4ccd9"
+    },
+    {
+      "index": 2,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/26/rolex-submariner-date-black-dial-steel-mens-watch-16610-59363_3ca49821a7.jpg",
+      "width": 3546,
+      "height": 3546,
+      "sha256": "1a76adaefe07f49c55f29ad90f3218f3627e9461f616a09cbf76c2733defd79f"
+    },
+    {
+      "index": 3,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/26/rolex-submariner-date-black-dial-steel-mens-watch-16610-59363_98935.jpg",
+      "width": 4656,
+      "height": 4656,
+      "sha256": "cf4d3335307e87c25ea31655208fd88dce4ffd4a63406c107536451ab4515735"
+    },
+    {
+      "index": 4,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/26/rolex-submariner-date-black-dial-steel-mens-watch-16610-59363_ab10e.jpg",
+      "width": 4977,
+      "height": 4977,
+      "sha256": "eb15362ee293f836bb91939d6a80cff585c02396d7e0b8c3d5bb12e7085c3c4c"
+    },
+    {
+      "index": 5,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/26/rolex-submariner-date-black-dial-steel-mens-watch-16610-59363_0b53f.jpg",
+      "width": 3401,
+      "height": 3401,
+      "sha256": "dfe9679eaead05e6d5c2f215d8535cd362d17f3e53292010d8c7b1bec45bd002"
+    },
+    {
+      "index": 6,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/26/rolex-submariner-date-black-dial-steel-mens-watch-16610-59363_121d1.jpg",
+      "width": 1415,
+      "height": 1415,
+      "sha256": "5a97bf9061a3a1a2c9e3996b0a0b07e11522fc9c0efa2fc22f5b9cbaf869281d"
+    },
+    {
+      "index": 7,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/26/rolex-submariner-date-black-dial-steel-mens-watch-16610-59363_34cab.jpg",
+      "width": 1268,
+      "height": 1268,
+      "sha256": "73674d4581be5006df000457e1298715f2c095fcecb3cd54e8dc9bfc9f2819bb"
+    },
+    {
+      "index": 8,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/26/rolex-submariner-date-black-dial-steel-mens-watch-16610-59363_37521.jpg",
+      "width": 2470,
+      "height": 2470,
+      "sha256": "10009cc51e2a3863ad6e9e3308145115f48c3d7e3a2c9d2d567eb665880123c6"
+    },
+    {
+      "index": 9,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/26/rolex-submariner-date-black-dial-steel-mens-watch-16610-59363_772fc.jpg",
+      "width": 3875,
+      "height": 3875,
+      "sha256": "60d31296eb82092d56e02bd97e3449e48cedd5703e053741a8d8c392cc2441cf"
+    },
+    {
+      "index": 10,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/26/rolex-submariner-date-black-dial-steel-mens-watch-16610-59363_1f295.jpg",
+      "width": 3690,
+      "height": 3690,
+      "sha256": "cb81de9a2f0cc7535c50318f27f8757d0e94de6130e7e177a67bed13692a8a9e"
+    },
+    {
+      "index": 11,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/2/26/rolex-submariner-date-black-dial-steel-mens-watch-16610-59363_3bf13.jpg",
+      "width": 1555,
+      "height": 1555,
+      "sha256": "941d2d73e90d5c062cba596ecc5c69bb4decbcf325dc14129586514872c97e29"
+    }
+  ],
+  "remainingGaps": [
+    "Other specimen internal executions, original fitment and chronology",
+    "Independent material and period verification"
+  ]
+}
