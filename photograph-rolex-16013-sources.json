@@ -1,0 +1,110 @@
+{
+  "reference": "16013",
+  "reviewedAt": "2026-11-17",
+  "evidence": "SwissWatchExpo 44586 original specimen. All 12 original gallery files inspected 17 November 2026; opened movement image 8 additionally inspected in a 1200px review derived from the original 2081px file. Movement bridge visibly marked 3035; jewel inscription is partly covered by rotor, so dealer 27-jewel count is an attribution rather than fully read photographic evidence. Case engraving 6 visibly 16013. Silver baton dial, yellow fluted bezel and two-tone Jubilee bracelet visible. Dealer attributes 1985–1986, 36mm steel case, 18k yellow-gold components and acrylic crystal; period, composition and crystal material are not independently established by pixels. No inference of original fitment, full production chronology, service status, neighbouring references, other specimens or user-watch authenticity. Existing Bukowskis photographs remain separate specimens with unopened internals. Overall research remains incomplete.",
+  "sources": [
+    {
+      "title": "SwissWatchExpo 44586",
+      "url": "https://www.swisswatchexpo.com/watches/rolex-datejust-36-steel-yellow-gold-silver-dial-vintage-mens-watch-16013-44586/"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "rolex-16013-swe44586-movement-8",
+      "category": "movement",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/8/9/rolex-datejust-36-steel-yellow-gold-silver-dial-vintage-mens-watch-16013-44586_ab29b.jpg",
+      "sha256": "760f7d810e699fb8ffadd18d016d24d6b889a3d7995d06b492215417e3f013a3"
+    }
+  ],
+  "inspectedGallery": [
+    {
+      "index": 0,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/8/9/rolex-datejust-36-steel-yellow-gold-silver-dial-vintage-mens-watch-16013-44586_007a5.jpg",
+      "width": 2181,
+      "height": 2181,
+      "sha256": "3387de24a58ecfc49e982ba23f1b5095901d469d46990eec70915ee37b0020ca"
+    },
+    {
+      "index": 1,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/8/9/rolex-datejust-36-steel-yellow-gold-silver-dial-vintage-mens-watch-16013-44586_79a99.jpg",
+      "width": 2181,
+      "height": 2181,
+      "sha256": "3387de24a58ecfc49e982ba23f1b5095901d469d46990eec70915ee37b0020ca"
+    },
+    {
+      "index": 2,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/8/9/rolex-datejust-36-steel-yellow-gold-silver-dial-vintage-mens-watch-16013-44586_dcef9dccae.jpg",
+      "width": 3614,
+      "height": 3614,
+      "sha256": "add39bccd21a26ee1101b522827b227153fd40b6aee3647199e26970143b792c"
+    },
+    {
+      "index": 3,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/8/9/rolex-datejust-36-steel-yellow-gold-silver-dial-vintage-mens-watch-16013-44586_55523.jpg",
+      "width": 5090,
+      "height": 5090,
+      "sha256": "4649754417c4701c612c45e9019ba0fbd98c5b81f199f1cb04968dc7469fe9d9"
+    },
+    {
+      "index": 4,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/8/9/rolex-datejust-36-steel-yellow-gold-silver-dial-vintage-mens-watch-16013-44586_98ec2.jpg",
+      "width": 5078,
+      "height": 5078,
+      "sha256": "3721722ba36376cec816573b5ed06229a07722c790e2acf7ae4753f7999f8fef"
+    },
+    {
+      "index": 5,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/8/9/rolex-datejust-36-steel-yellow-gold-silver-dial-vintage-mens-watch-16013-44586_2eea2.jpg",
+      "width": 3134,
+      "height": 3134,
+      "sha256": "7a82b470980f8b15425766e53d5eb76079f56ede37c6f28c28c0c9169c31e055"
+    },
+    {
+      "index": 6,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/8/9/rolex-datejust-36-steel-yellow-gold-silver-dial-vintage-mens-watch-16013-44586_e5daf.jpg",
+      "width": 885,
+      "height": 885,
+      "sha256": "7c130fe8bea9a0b2d1b859c5cedb04a74fe410c4c57e13da67039d9f49c07884"
+    },
+    {
+      "index": 7,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/8/9/rolex-datejust-36-steel-yellow-gold-silver-dial-vintage-mens-watch-16013-44586_9c847.jpg",
+      "width": 827,
+      "height": 827,
+      "sha256": "39c5f6ce74d388c2a8096a42e4a41cfc0c16b3d0b61f10b9351041e6bf97ebb3"
+    },
+    {
+      "index": 8,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/8/9/rolex-datejust-36-steel-yellow-gold-silver-dial-vintage-mens-watch-16013-44586_ab29b.jpg",
+      "width": 2081,
+      "height": 2081,
+      "sha256": "760f7d810e699fb8ffadd18d016d24d6b889a3d7995d06b492215417e3f013a3"
+    },
+    {
+      "index": 9,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/8/9/rolex-datejust-36-steel-yellow-gold-silver-dial-vintage-mens-watch-16013-44586_d5e17.jpg",
+      "width": 3911,
+      "height": 3911,
+      "sha256": "9f30a785f9f7cd0401b9056e3a750626959861e080c9dfadc955689cbea9fb1d"
+    },
+    {
+      "index": 10,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/8/9/rolex-datejust-36-steel-yellow-gold-silver-dial-vintage-mens-watch-16013-44586_c9e9e.jpg",
+      "width": 4178,
+      "height": 4178,
+      "sha256": "cbab0553e96ca3dcf980281159b5085dc2907e5be3075a6a648d0726dea57471"
+    },
+    {
+      "index": 11,
+      "url": "https://cdn.swisswatchexpo.com/productphotos/8/9/rolex-datejust-36-steel-yellow-gold-silver-dial-vintage-mens-watch-16013-44586_ed2d0.jpg",
+      "width": 1555,
+      "height": 1555,
+      "sha256": "eb408660c1edf0e74c61da852de213016c97225389ef04dba5c973d545901f5a"
+    }
+  ],
+  "remainingGaps": [
+    "Other specimen internal executions, original fitment and full production chronology",
+    "Independent material and period verification",
+    "Fully readable jewel inscription"
+  ]
+}
