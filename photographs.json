@@ -44552,6 +44552,74 @@
           "height": 1751
         }
       }
+    },
+    {
+      "id": "rolex-114060-swe28088-movement-8",
+      "brand": "ROLEX",
+      "references": [
+        "114060"
+      ],
+      "representativeFor": [
+        "114060"
+      ],
+      "variant": "SwissWatchExpo 28088 — black no-date dial / ceramic-bezel attribution / Oyster bracelet",
+      "category": "movement",
+      "depictsMovement": true,
+      "title": "114060 — opened specimen movement",
+      "caption": "Actual opened no-date specimen movement visibly stamped 3130; same gallery shows 114060 case engraving. Jewel inscription partly covered; 31 jewels is dealer attribution. Specimen year unspecified.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/6/15/rolex-submariner-ceramic-bezel-oyster-bracelet-steel-mens-watch-114060-28088_07aa1.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex-submariner-ceramic-bezel-oyster-bracelet-steel-mens-watch-114060-28088/",
+      "credit": "SwissWatchExpo — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected 17 November 2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-17",
+        "loadedAt": "2026-11-17",
+        "evidence": "SwissWatchExpo 28088 original specimen. All 12 original gallery files inspected 17 November 2026. Movement 8 reviewed at 1200px from original 2576px file: visible bridge stamp 3130, partially covered rotor jewel inscription. Dealer 31-jewel count remains attribution rather than fully unobscured inscription. Case engraving 7 visibly 114060. No-date black dial and steel-coloured Oyster/flip-lock visible. Dealer attributes 40mm steel case, Cerachrom bezel and sapphire crystal; these remain attributions, not independent measurement or assay. No specimen year supplied; serial appearance is not used to invent a year. No transfer to later 124060/3230. No transfer to neighbouring references or other unopened specimens; original fitment, service status, full chronology and user-watch authenticity are not independently established. Existing photographs remain separate specimens. Overall execution/period research remains incomplete.",
+        "imageSha256": "71491cc3c53b79d467eae5734577811b531d4dacfa28c0af949b2a5573867c86",
+        "imageDimensions": {
+          "width": 2576,
+          "height": 2576
+        }
+      }
+    },
+    {
+      "id": "rolex-116600-swe60399-movement-8",
+      "brand": "ROLEX",
+      "references": [
+        "116600"
+      ],
+      "representativeFor": [
+        "116600"
+      ],
+      "variant": "SwissWatchExpo 60399 — black Sea-Dweller dial / date without loupe / Oyster bracelet",
+      "category": "movement",
+      "depictsMovement": true,
+      "title": "116600 — opened specimen movement",
+      "caption": "Opened Sea-Dweller specimen movement visibly stamped 3135; same gallery shows 116600 case engraving. Jewel inscription partly covered; 31 jewels is dealer attribution. No specimen year established.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/3/21/rolex-seadweller-4000-automatic-steel-mens-watch-116600-60399_74003.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex-seadweller-4000-automatic-steel-mens-watch-116600-60399/",
+      "credit": "SwissWatchExpo — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected 17 November 2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-17",
+        "loadedAt": "2026-11-17",
+        "evidence": "SwissWatchExpo 60399 original specimen. All 12 original gallery files inspected 17 November 2026. Movement 8 reviewed at 1200px from original 2530px file: visible 3135 bridge stamp and partly covered THIRTY-ONE rotor inscription. Dealer 31-jewel count is attribution rather than fully unobscured numeric inscription. Case engraving 7 visibly 116600. Black Sea-Dweller dial, date without loupe, elapsed-time bezel, valve-side case view and steel-coloured Oyster/flip-lock visible. Dealer attributes 40mm steel case, ceramic bezel and sapphire crystal; these remain attributions. No specimen year supplied or inferred from random-style serial. Dial depth text does not establish current pressure resistance. No transfer to earlier 16600 or later 126600. No transfer to neighbouring references or other unopened specimens; original fitment, service status, full chronology and user-watch authenticity are not independently established. Existing photographs remain separate specimens. Overall execution/period research remains incomplete.",
+        "imageSha256": "97876fdb420e5ff9040ca8c6ddb9db0f84318977479c172c85ed0503e5ed8a09",
+        "imageDimensions": {
+          "width": 2530,
+          "height": 2530
+        }
+      }
     }
   ]
 }
