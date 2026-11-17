@@ -44280,6 +44280,40 @@
           "height": 1403
         }
       }
+    },
+    {
+      "id": "rolex-1601-swe16487-movement-9",
+      "brand": "ROLEX",
+      "references": [
+        "1601"
+      ],
+      "representativeFor": [
+        "1601"
+      ],
+      "variant": "SwissWatchExpo16487 — silver baton dial / fluted bezel / Jubilee specimen",
+      "category": "movement",
+      "depictsMovement": true,
+      "title": "1601 — opened specimen movement",
+      "caption": "Actual in-case automatic movement: bridge visibly stamped1570, rotor marked26jewels. Same gallery shows1601 case engraving. Observed specimen only;1570/1575 nomenclature and original fitment are not independently established.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/247/16487/rolex-datejust-silver-dial-jubilee-bracelet-vintage-mens-watch-1601-184042_b.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/rolex/mens-rolex/vintage-collection/datejust-silver-dial-jubilee-bracelet-vintage-mens-1601-16487/",
+      "credit": "SwissWatchExpo — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected17November2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-17",
+        "loadedAt": "2026-11-17",
+        "evidence": "SwissWatchExpo16487 original specimen gallery: all12 files inspected17November2026, opened movement9 additionally inspected at native1024px. Case engraving8 visibly1601; movement bridge visibly1570 and rotor26jewel marking. Silver baton dial, fluted bezel and Jubilee bracelet are visible in this same specimen gallery. Dealer attributes1970–1971 and white-gold bezel; these remain attributions, not independently established chronology or material assay. Dealer34.0mm case-size claim is inconsistent with usual1601 specifications and is not adopted. The observed1570 bridge marking does not independently settle1570/1575 family nomenclature or original date-movement fitment. No transfer to other specimens, neighbouring references, full production intervals, original-fitment guarantee or user-watch authenticity conclusion. Existing gallery photographs remain separate specimens. Overall execution and period research remains incomplete. URL/gallery identifier16487 differs from displayed stock16397; matching is based on the actual gallery, visible1601 case engraving and original listing, not stock-number equivalence.",
+        "imageSha256": "d9aeae1f209caac74f36817e4cb4b0a0e6a14dbb561ad2488132165813450c08",
+        "imageDimensions": {
+          "width": 1024,
+          "height": 1024
+        }
+      }
     }
   ]
 }
