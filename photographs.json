@@ -44144,6 +44144,40 @@
           "height": 640
         }
       }
+    },
+    {
+      "id": "omega-35705000-swe27692-movement-8",
+      "brand": "OMEGA",
+      "references": [
+        "3570.50.00"
+      ],
+      "representativeFor": [
+        "3570.50.00"
+      ],
+      "variant": "SwissWatchExpo5238 — dealer-described mother-of-pearl dial / steel bracelet",
+      "category": "movement",
+      "depictsMovement": true,
+      "title": "3570.50.00 — opened specimen movement",
+      "caption": "Actual opened manual chronograph movement visibly marked Omega,1861 and18JEWELS. Specific black-dial steel-bracelet specimen; no transfer to other unopened variants.",
+      "image": "https://cdn.swisswatchexpo.com/productphotos/7/3/omega-speedmaster-chronograph-steel-mens-moon-watch-35705000-card-27692_47260.jpg",
+      "source": "https://www.swisswatchexpo.com/watches/omega-speedmaster-chronograph-steel-mens-moon-watch-35705000-card-27692/",
+      "credit": "SwissWatchExpo — original specimen photography",
+      "mediaKind": "photograph",
+      "origin": "Original source and actual pixels inspected17November2026",
+      "review": {
+        "status": "verified",
+        "visualInspected": true,
+        "referenceVerified": true,
+        "executionVerified": true,
+        "inspectedAt": "2026-11-17",
+        "loadedAt": "2026-11-17",
+        "evidence": "Original SwissWatchExpo27692 identifies exact Omega3570.50.00 black-dial steel-bracelet Moonwatch, manual1861 and42mm case. All11original gallery files inspected17November2026; selected opened movement8 separately inspected at native resolution. Actual in-case chronograph movement visibly marked Omega/Swiss,1861 and18JEWELS. Card10 shows shortened3570-50 dealer/retail notation but is not imported as a watch photograph or used to create a new alias. No inner-case reference stamp in this gallery; exact full3570.50.00 attribution is from original specimen listing. Closed back and bracelet visible as the same gallery context. No861/3861, neighbouring reference, full production interval, original-fitment, luminous composition, crystal assay or user-watch authentication conclusion inferred. Timing and service claims remain dealer assertions. Existing other photos remain separate specimens with unopened internals. Overall execution/period research incomplete. Earlier145.012-67 Davidoff search leads have not supplied accessible inspected pixels; no321/SP/Ultraman transfer.",
+        "imageSha256": "08aa84ce17346485f11286ba3bcce7042120f90df95329486777232f03d7d4df",
+        "imageDimensions": {
+          "width": 2566,
+          "height": 2566
+        }
+      }
     }
   ]
 }
